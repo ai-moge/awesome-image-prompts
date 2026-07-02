@@ -5,7 +5,7 @@
 **Free, globally-curated AI image generation prompts — updated daily.**  
 Full Prompt Text · Preview Images · **10 Languages**
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) ![Curated Prompts](https://img.shields.io/badge/Curated%20Prompts-2200%2B-1f6feb) ![Languages](https://img.shields.io/badge/languages-10-2ea043) ![Updated](https://img.shields.io/badge/updated-daily-8957e5)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) ![Curated Prompts](https://img.shields.io/badge/Curated%20Prompts-2100%2B-1f6feb) ![Languages](https://img.shields.io/badge/languages-10-2ea043) ![Updated](https://img.shields.io/badge/updated-daily-8957e5)
 
 ### [✨ Browse on Moge.ai Image Prompt Library →](https://moge.ai/prompt)
 
@@ -27,7 +27,7 @@ Full Prompt Text · Preview Images · **10 Languages**
   <tr><td>&nbsp;🖍️&nbsp; <a href="https://moge.ai/prompt">Illustration &amp; IP</a>&nbsp;</td><td>&nbsp;📸&nbsp; <a href="https://moge.ai/prompt">Photography &amp; Imagery</a>&nbsp;</td></tr>
 </table>
 
-> ℹ️ This page showcases the latest 90 of 2200+ curated prompts. Prompts are curated from public posts and credited to their authors. To request removal, email **team@moge.ai**.
+> ℹ️ This page showcases the latest 90 of 2100+ curated prompts. Prompts are curated from public posts and credited to their authors. To request removal, email **team@moge.ai**.
 >
 > 📊 Last updated: 2026-07-02.
 
@@ -347,23 +347,31 @@ A 2-row by 4-column compilation grid showcasing a transformation from real photo
 
 ---
 
-### No. 6: Light and Shadow Editorial Portrait
+### No. 6: Yellow Coat Urban Portrait
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-A cinematic editorial portrait of a woman seated on a windowsill, bathed in high-contrast side natural light within a minimalist room.
+A cinematic street portrait of a woman in a yellow coat kept sharp amid a blurred crowd, rendered in black-and-white with a selective color effect.
 
 #### 🌟 Prompt
 
-A minimalist indoor room corner is bathed in beautiful natural window light, creating a serene and …
+A cinematic street portrait of a beautiful young woman wearing a vibrant mustard-yellow coat while walking …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-A minimalist indoor room corner is bathed in beautiful natural window light, creating a serene and contemplative atmosphere. Anya Taylor Joy sits with graceful poise on a warm wooden windowsill, her profile turned toward the bright glass in a moment of quiet introspection. She wears a sheer dark brown long-sleeve bodysuit paired with a voluminous, layered white ruffled skirt that pools elegantly around her silhouette. Luminous side light streams through the glass, wrapping her form in sharp, high-contrast highlights while leaving the room behind her in deep, painterly shadows. The background dissolves into a bright, overexposed haze that eliminates all exterior distractions and focuses entirely on the subject. It is a stunning visual poem of light and shadow, capturing a timeless fashion editorial filled with sophisticated movement and quiet emotion.
+A cinematic street portrait of a beautiful young woman wearing a vibrant mustard-yellow coat while walking through a busy city crowd. The woman remains perfectly sharp and in focus as the surrounding pedestrians dissolve into dramatic horizontal motion blur, creating a powerful sense of movement and isolation. Selective color effect: the entire scene is monochrome black-and-white except for the rich golden-yellow coat, which becomes the only vibrant color in the frame.
+
+Captured from a side profile with a 50mm lens, shallow depth of field, natural overcast lighting, realistic skin texture, wind-blown short wavy hair, subtle emotional expression, elegant shoulder bag, modern urban fashion, soft cinematic contrast, high dynamic range, ultra-photorealistic, editorial fashion photography, magazine cover quality, Leica look, Kodak Portra-inspired tones, crisp facial details, panning photography effect, long exposure motion blur, minimal composition, premium fine-art street photography, 8K, award-winning photography.
+
+Camera Settings:
+Sony A7R V, 50mm f/1.4 lens, f/1.8, ISO 100, 1/15s shutter, eye-level composition, natural ambient light, ultra-high detail.
+
+Color Treatment:
+Selective color (yellow coat only), monochrome city, grayscale crowd, cinematic black-and-white background, rich golden fabric texture.
 ```
 
 </details>
@@ -371,7 +379,7 @@ A minimalist indoor room corner is bathed in beautiful natural window light, cre
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMJo1HnbIAA9jjo.jpg" width="700" alt="Light and Shadow Editorial Portrait">
+<img src="https://image.moge.ai/prompt_media/HMJNIo2bMAAhZLO.jpg" width="700" alt="Yellow Coat Urban Portrait">
 </div>
 
 <br>
@@ -380,13 +388,13 @@ A minimalist indoor room corner is bathed in beautiful natural window light, cre
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [GenAngelsAI](https://x.com/GenAngelsAI) | [X / Twitter](https://x.com/GenAngelsAI/status/2072334087361265922) | 2026-07-01 |
+| [Taaruk](https://x.com/Taaruk_) | [X / Twitter](https://x.com/Taaruk_/status/2072303607094145099) | 2026-07-01 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072334087361265922)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072303607094145099)**
 
 </div>
 
@@ -762,31 +770,23 @@ A clean 4-panel grid art collage featuring four distinct, stylish chibi girls in
 
 ---
 
-### No. 12: Yellow Coat Urban Portrait
+### No. 12: Sprinting Athlete Motion Blur
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-A cinematic street portrait of a woman in a yellow coat kept sharp amid a blurred crowd, rendered in black-and-white with a selective color effect.
+Creates a dynamic sports campaign photo of a sprinting athlete with intense motion blur and a futuristic studio athletic aesthetic.
 
 #### 🌟 Prompt
 
-A cinematic street portrait of a beautiful young woman wearing a vibrant mustard-yellow coat while walking …
+Dynamic sports fashion campaign photo of a male athlete sprinting mid-air, intense motion blur effect, long …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-A cinematic street portrait of a beautiful young woman wearing a vibrant mustard-yellow coat while walking through a busy city crowd. The woman remains perfectly sharp and in focus as the surrounding pedestrians dissolve into dramatic horizontal motion blur, creating a powerful sense of movement and isolation. Selective color effect: the entire scene is monochrome black-and-white except for the rich golden-yellow coat, which becomes the only vibrant color in the frame.
-
-Captured from a side profile with a 50mm lens, shallow depth of field, natural overcast lighting, realistic skin texture, wind-blown short wavy hair, subtle emotional expression, elegant shoulder bag, modern urban fashion, soft cinematic contrast, high dynamic range, ultra-photorealistic, editorial fashion photography, magazine cover quality, Leica look, Kodak Portra-inspired tones, crisp facial details, panning photography effect, long exposure motion blur, minimal composition, premium fine-art street photography, 8K, award-winning photography.
-
-Camera Settings:
-Sony A7R V, 50mm f/1.4 lens, f/1.8, ISO 100, 1/15s shutter, eye-level composition, natural ambient light, ultra-high detail.
-
-Color Treatment:
-Selective color (yellow coat only), monochrome city, grayscale crowd, cinematic black-and-white background, rich golden fabric texture.
+Dynamic sports fashion campaign photo of a male athlete sprinting mid-air, intense motion blur effect, long exposure photography, side profile running pose, vibrant monochrome white blue studio background, minimal composition, futuristic athletic aesthetic, cinematic lighting, ultra smooth gradients, blurred limbs and shoes to emphasize speed, sharp focus on face, glossy floor reflection, energetic Nike-style commercial look, high shutter drag effect, premium editorial photography.
 ```
 
 </details>
@@ -794,7 +794,7 @@ Selective color (yellow coat only), monochrome city, grayscale crowd, cinematic 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMJNIo2bMAAhZLO.jpg" width="700" alt="Yellow Coat Urban Portrait">
+<img src="https://image.moge.ai/prompt_media/HMHIMgnbsAAUBEG.jpg" width="700" alt="Sprinting Athlete Motion Blur">
 </div>
 
 <br>
@@ -803,13 +803,13 @@ Selective color (yellow coat only), monochrome city, grayscale crowd, cinematic 
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Taaruk](https://x.com/Taaruk_) | [X / Twitter](https://x.com/Taaruk_/status/2072303607094145099) | 2026-07-01 |
+| [Kashberg](https://x.com/Kashberg_0) | [X / Twitter](https://x.com/Kashberg_0/status/2072157436891611332) | 2026-07-01 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072303607094145099)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072157436891611332)**
 
 </div>
 
@@ -1201,23 +1201,23 @@ over-rendered characters.
 
 ---
 
-### No. 18: Sprinting Athlete Motion Blur
+### No. 18: Playful Kids Doodle Portrait
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-Creates a dynamic sports campaign photo of a sprinting athlete with intense motion blur and a futuristic studio athletic aesthetic.
+Creates a high-key studio portrait of a running child, with a doodled stick figure tugging their shirt for a playful effect.
 
 #### 🌟 Prompt
 
-Dynamic sports fashion campaign photo of a male athlete sprinting mid-air, intense motion blur effect, long …
+A playful, high-key studio portrait of [subject] running joyfully across a seamless light gray background, …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Dynamic sports fashion campaign photo of a male athlete sprinting mid-air, intense motion blur effect, long exposure photography, side profile running pose, vibrant monochrome white blue studio background, minimal composition, futuristic athletic aesthetic, cinematic lighting, ultra smooth gradients, blurred limbs and shoes to emphasize speed, sharp focus on face, glossy floor reflection, energetic Nike-style commercial look, high shutter drag effect, premium editorial photography.
+A playful, high-key studio portrait of [subject] running joyfully across a seamless light gray background, captured mid-stride with one leg lifted and a wide genuine smile. The subject wears a casual oversized outfit with soft neutral tones (or vibrant colors), creating a dynamic sense of motion. Behind them, a simple black hand-drawn cartoon stick figure grabs and stretches the back of their shirt, making the fabric appear elastically pulled as if trying to stop them. The doodle character is integrated naturally into the scene with expressive motion lines and a humorous facial expression. The subject holds a fun prop (such as a dinosaur toy, oversized lollipop, teddy bear, or balloon), enhancing the playful storytelling. Minimalist composition, clean studio lighting, soft shadows, ultra-sharp focus, realistic skin texture, vibrant yet natural colors, whimsical editorial photography, premium children’s fashion campaign aesthetic, highly detailed, photorealistic, 8K.
 ```
 
 </details>
@@ -1225,7 +1225,7 @@ Dynamic sports fashion campaign photo of a male athlete sprinting mid-air, inten
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMHIMgnbsAAUBEG.jpg" width="700" alt="Sprinting Athlete Motion Blur">
+<img src="https://image.moge.ai/prompt_media/HMD4r5XWcAAlMXs.jpg" width="700" alt="Playful Kids Doodle Portrait">
 </div>
 
 <br>
@@ -1234,13 +1234,13 @@ Dynamic sports fashion campaign photo of a male athlete sprinting mid-air, inten
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Kashberg](https://x.com/Kashberg_0) | [X / Twitter](https://x.com/Kashberg_0/status/2072157436891611332) | 2026-07-01 |
+| [Sairah](https://x.com/Sairah_0) | [X / Twitter](https://x.com/Sairah_0/status/2071929275897491491) | 2026-06-30 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072157436891611332)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2071929275897491491)**
 
 </div>
 
@@ -1571,23 +1571,27 @@ Portrait (4:5)
 
 ---
 
-### No. 24: Playful Kids Doodle Portrait
+### No. 24: 3x3 Diary Photo Collage
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-Creates a high-key studio portrait of a running child, with a doodled stick figure tugging their shirt for a playful effect.
+Creates a 3x3 grid collage of the same person across different moments and angles, with white hand-drawn lines and bright colors, like a lively diary page.
 
 #### 🌟 Prompt
 
-A playful, high-key studio portrait of [subject] running joyfully across a seamless light gray background, …
+A 3x3 grid photo collage of the same person at different moments, angles, and distances. Each shot looks like …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-A playful, high-key studio portrait of [subject] running joyfully across a seamless light gray background, captured mid-stride with one leg lifted and a wide genuine smile. The subject wears a casual oversized outfit with soft neutral tones (or vibrant colors), creating a dynamic sense of motion. Behind them, a simple black hand-drawn cartoon stick figure grabs and stretches the back of their shirt, making the fabric appear elastically pulled as if trying to stop them. The doodle character is integrated naturally into the scene with expressive motion lines and a humorous facial expression. The subject holds a fun prop (such as a dinosaur toy, oversized lollipop, teddy bear, or balloon), enhancing the playful storytelling. Minimalist composition, clean studio lighting, soft shadows, ultra-sharp focus, realistic skin texture, vibrant yet natural colors, whimsical editorial photography, premium children’s fashion campaign aesthetic, highly detailed, photorealistic, 8K.
+A 3x3 grid photo collage of the same person at different moments, angles, and distances. Each shot looks like a real photograph, with natural light, a clean background, and a bright, fresh feel.
+
+White hand-drawn lines run across the entire image, wrapping around the person, depicting movements, drawing little hearts ✨, sparkles, waves, and motion lines.
+
+The overall palette is bright and saturated, with soft natural colors and small accents, no dull shadows. In the end it looks like a lively diary page—nine moments each clear on their own, yet visually connected into one rhythmic story.
 ```
 
 </details>
@@ -1595,7 +1599,7 @@ A playful, high-key studio portrait of [subject] running joyfully across a seaml
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMD4r5XWcAAlMXs.jpg" width="700" alt="Playful Kids Doodle Portrait">
+<img src="https://image.moge.ai/prompt_media/HMC0AQpW0AAUbyA.jpg" width="700" alt="3x3 Diary Photo Collage">
 </div>
 
 <br>
@@ -1604,13 +1608,13 @@ A playful, high-key studio portrait of [subject] running joyfully across a seaml
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Sairah](https://x.com/Sairah_0) | [X / Twitter](https://x.com/Sairah_0/status/2071929275897491491) | 2026-06-30 |
+| [千寻｜AI 分享 🌸](https://x.com/Crypto_QianXun) | [X / Twitter](https://x.com/Crypto_QianXun/status/2071853756484923525) | 2026-06-30 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2071929275897491491)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2071853756484923525)**
 
 </div>
 
@@ -1926,27 +1930,23 @@ Hand-drawn illustration of [subject], fine ink outlines combined with loose wate
 
 ---
 
-### No. 30: 3x3 Diary Photo Collage
+### No. 30: Monochrome Red Beauty Portrait
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-Creates a 3x3 grid collage of the same person across different moments and angles, with white hand-drawn lines and bright colors, like a lively diary page.
+Creates a high-fashion editorial portrait of a woman in red sunglasses and a satin dress against a monochromatic red background with dramatic studio lighting.
 
 #### 🌟 Prompt
 
-A 3x3 grid photo collage of the same person at different moments, angles, and distances. Each shot looks like …
+High-fashion beauty portrait of young woman with sleek center-parted brunette hair, tinted red square …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-A 3x3 grid photo collage of the same person at different moments, angles, and distances. Each shot looks like a real photograph, with natural light, a clean background, and a bright, fresh feel.
-
-White hand-drawn lines run across the entire image, wrapping around the person, depicting movements, drawing little hearts ✨, sparkles, waves, and motion lines.
-
-The overall palette is bright and saturated, with soft natural colors and small accents, no dull shadows. In the end it looks like a lively diary page—nine moments each clear on their own, yet visually connected into one rhythmic story.
+High-fashion beauty portrait of young woman with sleek center-parted brunette hair, tinted red square sunglasses pushed up with both hands framing her face, bold red lipstick, gold hoop earring and ring visible, direct intense eye contact with camera through the lenses, wearing red satin slip dress layered over deep red ribbed turtleneck, solid monochromatic deep red background, strong rim lighting separating subject from backdrop, subtle film grain texture, dramatic studio lighting, vertical 4:5 composition, bold monochromatic editorial photography --ar 4:5 --v 6
 ```
 
 </details>
@@ -1954,7 +1954,7 @@ The overall palette is bright and saturated, with soft natural colors and small 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMC0AQpW0AAUbyA.jpg" width="700" alt="3x3 Diary Photo Collage">
+<img src="https://image.moge.ai/prompt_media/HMCja1DW0AAaY2A.jpg" width="700" alt="Monochrome Red Beauty Portrait">
 </div>
 
 <br>
@@ -1963,13 +1963,13 @@ The overall palette is bright and saturated, with soft natural colors and small 
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [千寻｜AI 分享 🌸](https://x.com/Crypto_QianXun) | [X / Twitter](https://x.com/Crypto_QianXun/status/2071853756484923525) | 2026-06-30 |
+| [Shahid Wani](https://x.com/meng_dagg695) | [X / Twitter](https://x.com/meng_dagg695/status/2071835761620709472) | 2026-06-30 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2071853756484923525)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2071835761620709472)**
 
 </div>
 
@@ -2254,23 +2254,23 @@ Luxury travel poster, premium national park illustration, cinematic perspective,
 
 ---
 
-### No. 36: Monochrome Red Beauty Portrait
+### No. 36: French Revolutionary Character Study
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-Creates a high-fashion editorial portrait of a woman in red sunglasses and a satin dress against a monochromatic red background with dramatic studio lighting.
+Creates a full-body portrait of a French revolutionary in old-master historical oil painting style with chiaroscuro lighting.
 
 #### 🌟 Prompt
 
-High-fashion beauty portrait of young woman with sleek center-parted brunette hair, tinted red square …
+Full body character study, mature French revolutionary man, realistic historical oil painting, old master …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-High-fashion beauty portrait of young woman with sleek center-parted brunette hair, tinted red square sunglasses pushed up with both hands framing her face, bold red lipstick, gold hoop earring and ring visible, direct intense eye contact with camera through the lenses, wearing red satin slip dress layered over deep red ribbed turtleneck, solid monochromatic deep red background, strong rim lighting separating subject from backdrop, subtle film grain texture, dramatic studio lighting, vertical 4:5 composition, bold monochromatic editorial photography --ar 4:5 --v 6
+Full body character study, mature French revolutionary man, realistic historical oil painting, old master academic style. Weathered rugged face, late thirties, calm composed expression, faint grime, stubble, dark hair tied back with loose strands. Loose off white linen shirt, slightly open collar, rolled up sleeves, tricolor sash at waist, tan breeches, worn leather riding boots. Relaxed standing pose, weight on one leg, one hand at side, quietly confident. Chiaroscuro lighting, soft warm single source directional light, deep shadows, rich layered brushwork, naturalistic anatomy, detailed fabric folds and linen texture, aged varnish patina, museum quality. Reminiscent of Delacroix and David. Muted earthy palette - off white, warm tan, oxblood red - with saturated tricolor accents. Neutral background inside a soft tinted rounded rectangle panel, grounded cast shadow beneath. Cinematic, dignified, historically grounded. --ar 4:5 --profile qilq22f --stylize 250 --v 8.1
 ```
 
 </details>
@@ -2278,7 +2278,7 @@ High-fashion beauty portrait of young woman with sleek center-parted brunette ha
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMCja1DW0AAaY2A.jpg" width="700" alt="Monochrome Red Beauty Portrait">
+<img src="https://image.moge.ai/prompt_media/HL_bpI7bwAELLYU.jpg" width="700" alt="French Revolutionary Character Study">
 </div>
 
 <br>
@@ -2287,13 +2287,13 @@ High-fashion beauty portrait of young woman with sleek center-parted brunette ha
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Shahid Wani](https://x.com/meng_dagg695) | [X / Twitter](https://x.com/meng_dagg695/status/2071835761620709472) | 2026-06-30 |
+| [INK](https://x.com/0xInk_) | [X / Twitter](https://x.com/0xInk_/status/2071638324138148202) | 2026-06-29 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2071835761620709472)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2071638324138148202)**
 
 </div>
 
@@ -2603,23 +2603,23 @@ A 3D animated CG character in cinematic animation style. Extremely small head, 1
 
 ---
 
-### No. 42: French Revolutionary Character Study
+### No. 42: Surreal Newspaper Room Fashion
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-Creates a full-body portrait of a French revolutionary in old-master historical oil painting style with chiaroscuro lighting.
+A surreal editorial fashion portrait of a woman seated in a small room entirely lined with newspaper print, styled in red with dramatic lighting.
 
 #### 🌟 Prompt
 
-Full body character study, mature French revolutionary man, realistic historical oil painting, old master …
+Wide surreal fashion shot, woman sitting cross-legged centered inside small box room entirely covered in …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Full body character study, mature French revolutionary man, realistic historical oil painting, old master academic style. Weathered rugged face, late thirties, calm composed expression, faint grime, stubble, dark hair tied back with loose strands. Loose off white linen shirt, slightly open collar, rolled up sleeves, tricolor sash at waist, tan breeches, worn leather riding boots. Relaxed standing pose, weight on one leg, one hand at side, quietly confident. Chiaroscuro lighting, soft warm single source directional light, deep shadows, rich layered brushwork, naturalistic anatomy, detailed fabric folds and linen texture, aged varnish patina, museum quality. Reminiscent of Delacroix and David. Muted earthy palette - off white, warm tan, oxblood red - with saturated tricolor accents. Neutral background inside a soft tinted rounded rectangle panel, grounded cast shadow beneath. Cinematic, dignified, historically grounded. --ar 4:5 --profile qilq22f --stylize 250 --v 8.1
+Wide surreal fashion shot, woman sitting cross-legged centered inside small box room entirely covered in newspaper print texture on every surface, checkerboard top and red trousers, red sneakers, red headphones, dramatic spotlight from above, slight tilt for tension, negative space at top of frame on newspaper ceiling for caption text, vertical 4:5 composition, high-concept editorial photography --ar 4:5 --v 6
 ```
 
 </details>
@@ -2627,7 +2627,7 @@ Full body character study, mature French revolutionary man, realistic historical
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HL_bpI7bwAELLYU.jpg" width="700" alt="French Revolutionary Character Study">
+<img src="https://image.moge.ai/prompt_media/HL-z29laAAAiGtl.jpg" width="700" alt="Surreal Newspaper Room Fashion">
 </div>
 
 <br>
@@ -2636,13 +2636,13 @@ Full body character study, mature French revolutionary man, realistic historical
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [INK](https://x.com/0xInk_) | [X / Twitter](https://x.com/0xInk_/status/2071638324138148202) | 2026-06-29 |
+| [Shahid Wani](https://x.com/meng_dagg695) | [X / Twitter](https://x.com/meng_dagg695/status/2071572165833691237) | 2026-06-29 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2071638324138148202)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2071572165833691237)**
 
 </div>
 
@@ -3266,23 +3266,43 @@ Transform this photo into a whimsical folk flat illustration with doodle element
 
 ---
 
-### No. 48: Surreal Newspaper Room Fashion
+### No. 48: Playful Doodle 3x3 Collage
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-A surreal editorial fashion portrait of a woman seated in a small room entirely lined with newspaper print, styled in red with dramatic lighting.
+Creates a top-down 3x3 collage of the same young woman across nine creative scenes, paired with hand-drawn black doodles on a minimalist white background.
 
 #### 🌟 Prompt
 
-Wide surreal fashion shot, woman sitting cross-legged centered inside small box room entirely covered in …
+A professional 3x3 collage featuring the same beautiful young woman photographed from the reference image …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Wide surreal fashion shot, woman sitting cross-legged centered inside small box room entirely covered in newspaper print texture on every surface, checkerboard top and red trousers, red sneakers, red headphones, dramatic spotlight from above, slight tilt for tension, negative space at top of frame on newspaper ceiling for caption text, vertical 4:5 composition, high-concept editorial photography --ar 4:5 --v 6
+A professional 3x3 collage featuring the same beautiful young woman photographed from the reference image with normal hair and eyeglasses from a top-down perspective on a soft white textured blanket. The woman appears in nine different creative scenes. Each panel contains hand-drawn black doodle illustrations interacting with her pose. Bright natural lighting, clean white background, high-end lifestyle photography, ultra-sharp details, magazine-quality composition, playful storytelling, realistic human proportions, consistent facial features across all nine panels.
+
+Panel 1 (Athlete): The young woman wears a sporty white crop top, black athletic shorts, and running shoes. She is captured mid-jump as if leaping over a hand-drawn hurdle obstacle. Dynamic action pose, energetic expression.
+
+Panel 2 (Circus Performer): The woman wears a red circus-inspired outfit with gold accents. She balances on one foot atop a hand-drawn circus drum while raising both hands for balance. Cheerful confident smile.
+
+Panel 3 (Ice Cream Lover): The woman wears a pastel pink summer dress and white sneakers. She sits between two hand-drawn café chairs while holding a large doodle ice cream cone near her mouth. Cute and playful expression.
+
+Panel 4 (Superhero): The woman wears a stylish superhero costume with a flowing cape, fitted bodysuit, and boots. She raises both fists triumphantly toward the sky. Large hand-drawn cape extension behind her. Heroic expression.
+
+Panel 5 (Vacation Mode): The woman wears a tropical floral dress, sunglasses resting beside her, and sandals. She relaxes on a hand-drawn beach towel with hands behind her head. Nearby doodles include sunscreen and flip-flops. Peaceful vacation vibe.
+
+Panel 6 (Gym Struggle): The woman wears a fitted gym outfit with leggings and training shoes. A giant doodle barbell appears beside her. She makes a funny exaggerated struggling face as if lifting impossible weight. Humorous fitness concept.
+
+Panel 7 (Gymnast): The woman wears a gymnastics leotard. She hangs between two hand-drawn gymnastics rings with a focused athletic expression. Strong and graceful pose.
+
+Panel 8 (Shopping Queen): The woman wears a fashionable modern outfit consisting of a blazer, skirt, and heels. She holds two shopping bags labeled "Shopping Day". Happy confident smile, luxury lifestyle mood.
+
+Panel 9 (Rock Star): The woman wears a black leather jacket, ripped jeans, boots, bracelets, and a bandana. A hand-drawn electric guitar is positioned across her body. Rockstar pose with arms spread wide and confident expression.
+
+Overall style: minimalist white aesthetic, hand-drawn black doodle illustrations, whimsical storytelling, clean flat-lay composition, Instagram viral trend, professional studio photography, ultra-realistic young woman, high detail, 8K quality, consistent appearance across all panels, bright soft lighting, modern lifestyle editorial.
 ```
 
 </details>
@@ -3290,7 +3310,7 @@ Wide surreal fashion shot, woman sitting cross-legged centered inside small box 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HL-z29laAAAiGtl.jpg" width="700" alt="Surreal Newspaper Room Fashion">
+<img src="https://image.moge.ai/prompt_media/HL-xlEZbIAAzoY_.jpg" width="700" alt="Playful Doodle 3x3 Collage">
 </div>
 
 <br>
@@ -3299,13 +3319,13 @@ Wide surreal fashion shot, woman sitting cross-legged centered inside small box 
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Shahid Wani](https://x.com/meng_dagg695) | [X / Twitter](https://x.com/meng_dagg695/status/2071572165833691237) | 2026-06-29 |
+| [Synthia](https://x.com/AIwithSynthia) | [X / Twitter](https://x.com/AIwithSynthia/status/2071569612375048564) | 2026-06-29 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2071572165833691237)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2071569612375048564)**
 
 </div>
 
@@ -3782,43 +3802,76 @@ Luxury travel poster, premium national park illustration, cinematic perspective,
 
 ---
 
-### No. 54: Playful Doodle 3x3 Collage
+### No. 54: Running Woman Grabbed by Playful Doodle
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-Creates a top-down 3x3 collage of the same young woman across nine creative scenes, paired with hand-drawn black doodles on a minimalist white background.
+Editorial studio photo of a laughing running woman whose oversized sweatshirt is yanked backward by a hand-drawn black doodle character.
 
 #### 🌟 Prompt
 
-A professional 3x3 collage featuring the same beautiful young woman photographed from the reference image …
+Create an ultra-realistic editorial lifestyle photograph in a clean minimalist studio with a soft light gray …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-A professional 3x3 collage featuring the same beautiful young woman photographed from the reference image with normal hair and eyeglasses from a top-down perspective on a soft white textured blanket. The woman appears in nine different creative scenes. Each panel contains hand-drawn black doodle illustrations interacting with her pose. Bright natural lighting, clean white background, high-end lifestyle photography, ultra-sharp details, magazine-quality composition, playful storytelling, realistic human proportions, consistent facial features across all nine panels.
+Create an ultra-realistic editorial lifestyle photograph in a clean minimalist studio with a soft light gray seamless background.
 
-Panel 1 (Athlete): The young woman wears a sporty white crop top, black athletic shorts, and running shoes. She is captured mid-jump as if leaping over a hand-drawn hurdle obstacle. Dynamic action pose, energetic expression.
+The subject is a cheerful woman with a light blue pixie haircut. She is caught mid-run as if trying to escape, laughing uncontrollably with her mouth wide open, eyes happily squinting, and a playful, mischievous expression. Her body naturally leans forward in motion while being slightly pulled backward by the tension on her sweatshirt.
 
-Panel 2 (Circus Performer): The woman wears a red circus-inspired outfit with gold accents. She balances on one foot atop a hand-drawn circus drum while raising both hands for balance. Cheerful confident smile.
+Pose :
+Dynamic running pose.
+One foot lifted naturally off the ground.
+Arms swinging naturally while running.
+One hand holding a colorful rainbow swirl lollipop.
+Hair showing subtle movement from running.
+Clothing and body posture should clearly convey forward momentum.
 
-Panel 3 (Ice Cream Lover): The woman wears a pastel pink summer dress and white sneakers. She sits between two hand-drawn café chairs while holding a large doodle ice cream cone near her mouth. Cute and playful expression.
+Outfit :
+Oversized pastel blue sweatshirt.
+Relaxed beige wide-leg trousers.
+Red checkerboard Vans slip-on sneakers.
+Round eyeglasses resting on top of her head only (not worn on the face).
 
-Panel 4 (Superhero): The woman wears a stylish superhero costume with a flowing cape, fitted bodysuit, and boots. She raises both fists triumphantly toward the sky. Large hand-drawn cape extension behind her. Heroic expression.
+Doodle Interaction :
+On the left side of the frame, draw a simple black hand-drawn doodle character in a minimalist stick-figure style with:
+rounded head,
+tiny dot eyes,
+straight expressionless mouth,
+thick bold black marker lines.
 
-Panel 5 (Vacation Mode): The woman wears a tropical floral dress, sunglasses resting beside her, and sandals. She relaxes on a hand-drawn beach towel with hands behind her head. Nearby doodles include sunscreen and flip-flops. Peaceful vacation vibe.
+The doodle stretches one long arm and firmly grabs the back of the woman's oversized sweatshirt, dramatically pulling the fabric backward to stop her from running away.
 
-Panel 6 (Gym Struggle): The woman wears a fitted gym outfit with leggings and training shoes. A giant doodle barbell appears beside her. She makes a funny exaggerated struggling face as if lifting impossible weight. Humorous fitness concept.
+The pulling force should subtly shift the woman's upper body backward while she continues trying to run forward, creating believable physical interaction.
 
-Panel 7 (Gymnast): The woman wears a gymnastics leotard. She hangs between two hand-drawn gymnastics rings with a focused athletic expression. Strong and graceful pose.
+The doodle itself should appear to struggle slightly, with tiny motion lines around its hand and arm emphasizing the pulling force.
 
-Panel 8 (Shopping Queen): The woman wears a fashionable modern outfit consisting of a blazer, skirt, and heels. She holds two shopping bags labeled "Shopping Day". Happy confident smile, luxury lifestyle mood.
+Add playful doodle motion lines around the woman's head to emphasize laughter and movement.
 
-Panel 9 (Rock Star): The woman wears a black leather jacket, ripped jeans, boots, bracelets, and a bandana. A hand-drawn electric guitar is positioned across her body. Rockstar pose with arms spread wide and confident expression.
+The doodle must appear as if it was hand-drawn directly over the finished photograph using thick black marker ink.
 
-Overall style: minimalist white aesthetic, hand-drawn black doodle illustrations, whimsical storytelling, clean flat-lay composition, Instagram viral trend, professional studio photography, ultra-realistic young woman, high detail, 8K quality, consistent appearance across all panels, bright soft lighting, modern lifestyle editorial.
+Hands :
+Anatomically correct hands.
+Natural finger proportions.
+Sleeves remain oversized but both hands stay clearly visible.
+Realistic grip on the lollipop.
+
+Lighting & Style :
+Bright high-key studio lighting.
+Soft natural shadows.
+Ultra-clean minimalist composition.
+Editorial lifestyle photography.
+Realistic fabric physics.
+Humorous visual storytelling.
+Premium modern aesthetic.
+Playful, wholesome atmosphere.
+Ultra-realistic.
+Crisp details.
+8K quality.
+Vertical 4:5 composition.
 ```
 
 </details>
@@ -3826,7 +3879,7 @@ Overall style: minimalist white aesthetic, hand-drawn black doodle illustrations
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HL-xlEZbIAAzoY_.jpg" width="700" alt="Playful Doodle 3x3 Collage">
+<img src="https://image.moge.ai/prompt_media/HL8tTKMbYAAKbZd.jpg" width="700" alt="Running Woman Grabbed by Playful Doodle">
 </div>
 
 <br>
@@ -3835,13 +3888,13 @@ Overall style: minimalist white aesthetic, hand-drawn black doodle illustrations
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Synthia](https://x.com/AIwithSynthia) | [X / Twitter](https://x.com/AIwithSynthia/status/2071569612375048564) | 2026-06-29 |
+| [Sairah](https://x.com/Sairah_0) | [X / Twitter](https://x.com/Sairah_0/status/2071424170383364525) | 2026-06-29 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2071569612375048564)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2071424170383364525)**
 
 </div>
 
@@ -4097,84 +4150,24 @@ Close-up flat vector illustration, woman's face and floral crown detail, white d
 
 ---
 
-### No. 60: Running Woman Grabbed by Playful Doodle
+### No. 60: Bicycle Under Surreal Skies
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-Editorial studio photo of a laughing running woman whose oversized sweatshirt is yanked backward by a hand-drawn black doodle character.
+Creates a surreal art photograph of a woman cycling under massive colorful painterly clouds in a vertical format.
 
 #### 🌟 Prompt
 
-Create an ultra-realistic editorial lifestyle photograph in a clean minimalist studio with a soft light gray …
-
-<details>
-<summary>Show full prompt</summary>
-
 ```
-Create an ultra-realistic editorial lifestyle photograph in a clean minimalist studio with a soft light gray seamless background.
-
-The subject is a cheerful woman with a light blue pixie haircut. She is caught mid-run as if trying to escape, laughing uncontrollably with her mouth wide open, eyes happily squinting, and a playful, mischievous expression. Her body naturally leans forward in motion while being slightly pulled backward by the tension on her sweatshirt.
-
-Pose :
-Dynamic running pose.
-One foot lifted naturally off the ground.
-Arms swinging naturally while running.
-One hand holding a colorful rainbow swirl lollipop.
-Hair showing subtle movement from running.
-Clothing and body posture should clearly convey forward momentum.
-
-Outfit :
-Oversized pastel blue sweatshirt.
-Relaxed beige wide-leg trousers.
-Red checkerboard Vans slip-on sneakers.
-Round eyeglasses resting on top of her head only (not worn on the face).
-
-Doodle Interaction :
-On the left side of the frame, draw a simple black hand-drawn doodle character in a minimalist stick-figure style with:
-rounded head,
-tiny dot eyes,
-straight expressionless mouth,
-thick bold black marker lines.
-
-The doodle stretches one long arm and firmly grabs the back of the woman's oversized sweatshirt, dramatically pulling the fabric backward to stop her from running away.
-
-The pulling force should subtly shift the woman's upper body backward while she continues trying to run forward, creating believable physical interaction.
-
-The doodle itself should appear to struggle slightly, with tiny motion lines around its hand and arm emphasizing the pulling force.
-
-Add playful doodle motion lines around the woman's head to emphasize laughter and movement.
-
-The doodle must appear as if it was hand-drawn directly over the finished photograph using thick black marker ink.
-
-Hands :
-Anatomically correct hands.
-Natural finger proportions.
-Sleeves remain oversized but both hands stay clearly visible.
-Realistic grip on the lollipop.
-
-Lighting & Style :
-Bright high-key studio lighting.
-Soft natural shadows.
-Ultra-clean minimalist composition.
-Editorial lifestyle photography.
-Realistic fabric physics.
-Humorous visual storytelling.
-Premium modern aesthetic.
-Playful, wholesome atmosphere.
-Ultra-realistic.
-Crisp details.
-8K quality.
-Vertical 4:5 composition.
+Wide surreal art photograph, woman on vintage bicycle riding along empty road, massive painterly cloud formations dyed in orange, yellow, and mint green dominating most of the frame, small figure on bicycle for scale, clean horizon line, small bird silhouette in the colored clouds, negative space at top for caption text, vibrant conceptual art photography, vertical 4:5 --ar 4:5 --v 6
 ```
-
-</details>
 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HL8tTKMbYAAKbZd.jpg" width="700" alt="Running Woman Grabbed by Playful Doodle">
+<img src="https://image.moge.ai/prompt_media/HL4tuBSbUAAbTn8.jpg" width="700" alt="Bicycle Under Surreal Skies">
 </div>
 
 <br>
@@ -4183,13 +4176,13 @@ Vertical 4:5 composition.
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Sairah](https://x.com/Sairah_0) | [X / Twitter](https://x.com/Sairah_0/status/2071424170383364525) | 2026-06-29 |
+| [Shahid Wani](https://x.com/meng_dagg695) | [X / Twitter](https://x.com/meng_dagg695/status/2071143177365688474) | 2026-06-28 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2071424170383364525)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2071143177365688474)**
 
 </div>
 
@@ -4494,24 +4487,39 @@ Create a stylish full-body illustration of a fashionable young woman wearing [OU
 
 ---
 
-### No. 66: Bicycle Under Surreal Skies
+### No. 66: Summer Sky Low-Angle Portrait
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-Creates a surreal art photograph of a woman cycling under massive colorful painterly clouds in a vertical format.
+Generates a realistic full-body outdoor portrait of a young woman from a low angle, with a blue summer sky and strong wind blowing her hair and skirt for dynamic motion.
 
 #### 🌟 Prompt
 
+Vertical 9:16 realistic outdoor portrait photo, young adult East Asian woman, fresh youthful look, bright …
+
+<details>
+<summary>Show full prompt</summary>
+
 ```
-Wide surreal art photograph, woman on vintage bicycle riding along empty road, massive painterly cloud formations dyed in orange, yellow, and mint green dominating most of the frame, small figure on bicycle for scale, clean horizon line, small bird silhouette in the colored clouds, negative space at top for caption text, vibrant conceptual art photography, vertical 4:5 --ar 4:5 --v 6
+Vertical 9:16 realistic outdoor portrait photo, young adult East Asian woman, fresh youthful look, bright eyes, soft natural smile, real skin texture, natural healthy skin tone.
+
+White short-sleeve top, navy pleated skirt, white socks, white sneakers. Same-color safety shorts under the skirt, clean and visually consistent.
+
+Full-body framing from head to shoes, both feet visible. Strong natural low-angle shot, wide blue summer sky, bright sunlight, a few soft clouds.
+
+Strong summer wind blowing her hair upward and sideways, long flying hair strands, skirt moving outward in the wind, clean tasteful dynamic motion. Slightly tilted body pose, candid summer moment, realistic outdoor photography, Japanese summer film-photo feeling, slight film grain.
+
+Avoid cropped feet, stiff pose, fake skin, extreme wide-angle face distortion, messy hair clumps, bad hands, bad legs, distorted shoes, CGI look, illustration style.
 ```
+
+</details>
 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HL4tuBSbUAAbTn8.jpg" width="700" alt="Bicycle Under Surreal Skies">
+<img src="https://image.moge.ai/prompt_media/HL4kwvxXkAAOzJ-.jpg" width="700" alt="Summer Sky Low-Angle Portrait">
 </div>
 
 <br>
@@ -4520,13 +4528,13 @@ Wide surreal art photograph, woman on vintage bicycle riding along empty road, m
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Shahid Wani](https://x.com/meng_dagg695) | [X / Twitter](https://x.com/meng_dagg695/status/2071143177365688474) | 2026-06-28 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2071133424958447625) | 2026-06-28 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2071143177365688474)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2071133424958447625)**
 
 </div>
 
@@ -4982,31 +4990,24 @@ Create a charming editorial travel illustration of {DESTINATION} in a simple han
 
 ---
 
-### No. 72: Summer Sky Low-Angle Portrait
+### No. 72: Natural Light Beauty Portrait
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-Generates a realistic full-body outdoor portrait of a young woman from a low angle, with a blue summer sky and strong wind blowing her hair and skirt for dynamic motion.
+Creates an ultra-realistic editorial beauty close-up of a young woman with dramatic natural sunlight and a luxury skincare campaign aesthetic.
 
 #### 🌟 Prompt
 
-Vertical 9:16 realistic outdoor portrait photo, young adult East Asian woman, fresh youthful look, bright …
+Ultra-realistic beauty portrait captured in a tight close-up with a full-frame mirrorless camera and an 85mm …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Vertical 9:16 realistic outdoor portrait photo, young adult East Asian woman, fresh youthful look, bright eyes, soft natural smile, real skin texture, natural healthy skin tone.
-
-White short-sleeve top, navy pleated skirt, white socks, white sneakers. Same-color safety shorts under the skirt, clean and visually consistent.
-
-Full-body framing from head to shoes, both feet visible. Strong natural low-angle shot, wide blue summer sky, bright sunlight, a few soft clouds.
-
-Strong summer wind blowing her hair upward and sideways, long flying hair strands, skirt moving outward in the wind, clean tasteful dynamic motion. Slightly tilted body pose, candid summer moment, realistic outdoor photography, Japanese summer film-photo feeling, slight film grain.
-
-Avoid cropped feet, stiff pose, fake skin, extreme wide-angle face distortion, messy hair clumps, bad hands, bad legs, distorted shoes, CGI look, illustration style.
+Ultra-realistic beauty portrait captured in a tight close-up with a full-frame mirrorless camera and an 85mm f/1.4 portrait lens. A beautiful young woman with long straight dark hair, luminous fair skin, subtle natural freckles across the nose, thick well-groomed eyebrows, long curled eyelashes, and striking light blue-green eyes gazes softly toward the camera with a calm, relaxed expression and slightly parted glossy nude lips. She wears minimal "no-makeup" makeup with natural skin texture preserved and small gold hoop earrings.
+The composition fills almost the entire frame with her face, leaving very little background visible. Dramatic natural sunlight streams through a nearby window, creating a bold diagonal shadow across one side of her face while illuminating the other side with soft golden light. High dynamic range, cinematic contrast, crisp skin detail, realistic pores, catchlights in the eyes, shallow depth of field, soft blurred neutral background, editorial beauty photography, luxury skincare campaign aesthetic, ultra-photorealistic, 8K, HDR, natural color grading, razor-sharp focus on the eyes, premium fashion magazine quality.
 ```
 
 </details>
@@ -5014,7 +5015,7 @@ Avoid cropped feet, stiff pose, fake skin, extreme wide-angle face distortion, m
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HL4kwvxXkAAOzJ-.jpg" width="700" alt="Summer Sky Low-Angle Portrait">
+<img src="https://image.moge.ai/prompt_media/HL3jHvoboAAZ5V6.jpg" width="700" alt="Natural Light Beauty Portrait">
 </div>
 
 <br>
@@ -5023,13 +5024,13 @@ Avoid cropped feet, stiff pose, fake skin, extreme wide-angle face distortion, m
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2071133424958447625) | 2026-06-28 |
+| [Jahan Zaib](https://x.com/jzaib4269) | [X / Twitter](https://x.com/jzaib4269/status/2071061146912903487) | 2026-06-28 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2071133424958447625)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2071061146912903487)**
 
 </div>
 
@@ -5297,24 +5298,24 @@ Rendering details: Extremely intricate feather and textile patterns, ornate gold
 
 ---
 
-### No. 78: Natural Light Beauty Portrait
+### No. 78: Parisian Luxury Fashion Ad
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-Creates an ultra-realistic editorial beauty close-up of a young woman with dramatic natural sunlight and a luxury skincare campaign aesthetic.
+Creates a black-and-white luxury fashion advertisement in a minimalist Parisian editorial style with an elegant model and premium magazine-cover typography.
 
 #### 🌟 Prompt
 
-Ultra-realistic beauty portrait captured in a tight close-up with a full-frame mirrorless camera and an 85mm …
+Create a premium luxury fashion advertisement in a minimalist Parisian editorial style. A sophisticated woman …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Ultra-realistic beauty portrait captured in a tight close-up with a full-frame mirrorless camera and an 85mm f/1.4 portrait lens. A beautiful young woman with long straight dark hair, luminous fair skin, subtle natural freckles across the nose, thick well-groomed eyebrows, long curled eyelashes, and striking light blue-green eyes gazes softly toward the camera with a calm, relaxed expression and slightly parted glossy nude lips. She wears minimal "no-makeup" makeup with natural skin texture preserved and small gold hoop earrings.
-The composition fills almost the entire frame with her face, leaving very little background visible. Dramatic natural sunlight streams through a nearby window, creating a bold diagonal shadow across one side of her face while illuminating the other side with soft golden light. High dynamic range, cinematic contrast, crisp skin detail, realistic pores, catchlights in the eyes, shallow depth of field, soft blurred neutral background, editorial beauty photography, luxury skincare campaign aesthetic, ultra-photorealistic, 8K, HDR, natural color grading, razor-sharp focus on the eyes, premium fashion magazine quality.
+Create a premium luxury fashion advertisement in a minimalist Parisian editorial style. A sophisticated woman wearing oversized black sunglasses and a structured black wool coat with a high collar stands confidently on a classic Parisian street. She is positioned on the lower right of the composition, looking toward the left with a calm, elegant expression. Her hair is styled in a sleek low bun. The background features iconic Parisian architecture with soft cinematic depth of field and the Eiffel Tower subtly visible in the distance. The entire image is black and white with deep contrast, soft natural lighting, crisp details, and a timeless high-fashion aesthetic. The layout resembles a luxury magazine cover with generous negative space. At the top center, place a large elegant serif brand name, with a small uppercase location above it and a refined collection title beneath it. On the left side, include a bold, uppercase fashion slogan in a modern sans-serif font. Below it, add a short collection description in small, clean typography. Finish with a minimalist black footer containing a website, boutique location, and social media icons.
+Luxury branding, Vogue editorial, Harper's Bazaar aesthetic, Swiss grid layout, premium typography, minimalist composition, cinematic photography, ultra-realistic, 85mm lens, shallow depth of field, soft ambient light, monochrome, 8K, magazine-quality print, vertical A4 poster.
 ```
 
 </details>
@@ -5322,7 +5323,7 @@ The composition fills almost the entire frame with her face, leaving very little
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HL3jHvoboAAZ5V6.jpg" width="700" alt="Natural Light Beauty Portrait">
+<img src="https://image.moge.ai/prompt_media/HL1Q5-mboAAvGQK.jpg" width="700" alt="Parisian Luxury Fashion Ad">
 </div>
 
 <br>
@@ -5331,13 +5332,13 @@ The composition fills almost the entire frame with her face, leaving very little
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Jahan Zaib](https://x.com/jzaib4269) | [X / Twitter](https://x.com/jzaib4269/status/2071061146912903487) | 2026-06-28 |
+| [Heisenberg](https://x.com/rovvmut_) | [X / Twitter](https://x.com/rovvmut_/status/2070900364354969981) | 2026-06-27 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2071061146912903487)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2070900364354969981)**
 
 </div>
 
@@ -5634,24 +5635,33 @@ stray cat tail --ar 9:16
 
 ---
 
-### No. 84: Parisian Luxury Fashion Ad
+### No. 84: Cinematic Profession Portrait Poster
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-Creates a black-and-white luxury fashion advertisement in a minimalist Parisian editorial style with an elegant model and premium magazine-cover typography.
+Turns a portrait into a low-key cinematic poster with dramatic lighting, 3D profession-name typography interleaved with the subject, and floating tool icons.
 
 #### 🌟 Prompt
 
-Create a premium luxury fashion advertisement in a minimalist Parisian editorial style. A sophisticated woman …
+The profession is: PROFESSION Edit the uploaded photo. Keep the person fully photographic and realistic: …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a premium luxury fashion advertisement in a minimalist Parisian editorial style. A sophisticated woman wearing oversized black sunglasses and a structured black wool coat with a high collar stands confidently on a classic Parisian street. She is positioned on the lower right of the composition, looking toward the left with a calm, elegant expression. Her hair is styled in a sleek low bun. The background features iconic Parisian architecture with soft cinematic depth of field and the Eiffel Tower subtly visible in the distance. The entire image is black and white with deep contrast, soft natural lighting, crisp details, and a timeless high-fashion aesthetic. The layout resembles a luxury magazine cover with generous negative space. At the top center, place a large elegant serif brand name, with a small uppercase location above it and a refined collection title beneath it. On the left side, include a bold, uppercase fashion slogan in a modern sans-serif font. Below it, add a short collection description in small, clean typography. Finish with a minimalist black footer containing a website, boutique location, and social media icons.
-Luxury branding, Vogue editorial, Harper's Bazaar aesthetic, Swiss grid layout, premium typography, minimalist composition, cinematic photography, ultra-realistic, 85mm lens, shallow depth of field, soft ambient light, monochrome, 8K, magazine-quality print, vertical A4 poster.
+The profession is: PROFESSION
+
+Edit the uploaded photo. Keep the person fully photographic and realistic: their face, skin, hair and pose stay sharp and untouched. Re-light and re-grade the portrait into a dramatic, low-key cinematic style with a single warm rim light grazing one side of the face and body, deep shadows on the other side, and a moody high-contrast atmosphere.
+
+Replace the background with a rich radial gradient in deep red and warm crimson, covered with a subtle halftone dot texture, like a premium movie poster. (The color can be swapped, but keep it a single dramatic tone.)
+
+Behind the subject, render the profession written above as a huge, bold, 3D extruded display typography in a desaturated cream / off-white tone. The text is embossed with soft depth and sits on the background wall. CRITICAL technique: interleave this big text with the person in 3D depth, so the subject's head and shoulders pass IN FRONT of the letters, partially covering them, while the rest of the letters stay BEHIND the silhouette. This front-and-behind layering creates the cinematic depth and must be clearly visible.
+
+Around the subject's shoulders and chest, float 5 to 7 small glossy rounded-square app-style icons representing the typical tools, software or symbols associated with that profession. Tilt each icon slightly in 3D space at different angles, as if suspended in the air, with soft reflections and gentle drop shadows. Keep them clean, modern and recognizable.
+
+Final look: premium, editorial, cinematic poster. Strong warm color grade, crisp realistic subject, bold graphic background. The person remains the photographic anchor at the center.
 ```
 
 </details>
@@ -5659,7 +5669,7 @@ Luxury branding, Vogue editorial, Harper's Bazaar aesthetic, Swiss grid layout, 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HL1Q5-mboAAvGQK.jpg" width="700" alt="Parisian Luxury Fashion Ad">
+<img src="https://image.moge.ai/prompt_media/HL1BvueWwAAL6Zy.jpg" width="700" alt="Cinematic Profession Portrait Poster">
 </div>
 
 <br>
@@ -5668,13 +5678,13 @@ Luxury branding, Vogue editorial, Harper's Bazaar aesthetic, Swiss grid layout, 
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Heisenberg](https://x.com/rovvmut_) | [X / Twitter](https://x.com/rovvmut_/status/2070900364354969981) | 2026-06-27 |
+| [Ozan Sihay](https://x.com/ozansihay) | [X / Twitter](https://x.com/ozansihay/status/2070884069882073533) | 2026-06-27 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2070900364354969981)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2070884069882073533)**
 
 </div>
 
@@ -5998,33 +6008,23 @@ Additional requirement: the overall mood should be bright and refined, not a hea
 
 ---
 
-### No. 90: Cinematic Profession Portrait Poster
+### No. 90: Golden Hour Female Portrait
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-Turns a portrait into a low-key cinematic poster with dramatic lighting, 3D profession-name typography interleaved with the subject, and floating tool icons.
+Creates an ultra-realistic cinematic portrait of a young woman outdoors in warm sunset light, with glowing skin and a dreamy summer atmosphere.
 
 #### 🌟 Prompt
 
-The profession is: PROFESSION Edit the uploaded photo. Keep the person fully photographic and realistic: …
+Ultra-realistic golden hour close-up portrait of a young woman outdoors, eyes gently closed with a soft …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-The profession is: PROFESSION
-
-Edit the uploaded photo. Keep the person fully photographic and realistic: their face, skin, hair and pose stay sharp and untouched. Re-light and re-grade the portrait into a dramatic, low-key cinematic style with a single warm rim light grazing one side of the face and body, deep shadows on the other side, and a moody high-contrast atmosphere.
-
-Replace the background with a rich radial gradient in deep red and warm crimson, covered with a subtle halftone dot texture, like a premium movie poster. (The color can be swapped, but keep it a single dramatic tone.)
-
-Behind the subject, render the profession written above as a huge, bold, 3D extruded display typography in a desaturated cream / off-white tone. The text is embossed with soft depth and sits on the background wall. CRITICAL technique: interleave this big text with the person in 3D depth, so the subject's head and shoulders pass IN FRONT of the letters, partially covering them, while the rest of the letters stay BEHIND the silhouette. This front-and-behind layering creates the cinematic depth and must be clearly visible.
-
-Around the subject's shoulders and chest, float 5 to 7 small glossy rounded-square app-style icons representing the typical tools, software or symbols associated with that profession. Tilt each icon slightly in 3D space at different angles, as if suspended in the air, with soft reflections and gentle drop shadows. Keep them clean, modern and recognizable.
-
-Final look: premium, editorial, cinematic poster. Strong warm color grade, crisp realistic subject, bold graphic background. The person remains the photographic anchor at the center.
+Ultra-realistic golden hour close-up portrait of a young woman outdoors, eyes gently closed with a soft peaceful smile, face tilted slightly upward toward the warm setting sun, loose windblown dark brown hair flowing naturally across her face, glowing sun-kissed skin with natural texture and subtle freckles, minimal makeup, soft glossy lips, wearing a loose white linen blouse with a delicate collar, cinematic warm amber sunlight creating beautiful highlights and gentle shadows, shallow depth of field, clean blue sky background, dreamy summer atmosphere, authentic candid expression, ultra-detailed skin texture, high dynamic range, 85mm portrait lens, f/1.8, professional fashion photography, natural color grading, soft contrast, editorial lifestyle aesthetic, photorealistic, 8K, RAW quality.
 ```
 
 </details>
@@ -6032,7 +6032,7 @@ Final look: premium, editorial, cinematic poster. Strong warm color grade, crisp
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HL1BvueWwAAL6Zy.jpg" width="700" alt="Cinematic Profession Portrait Poster">
+<img src="https://image.moge.ai/prompt_media/HLz1g5xacAAfE3O.jpg" width="700" alt="Golden Hour Female Portrait">
 </div>
 
 <br>
@@ -6041,13 +6041,13 @@ Final look: premium, editorial, cinematic poster. Strong warm color grade, crisp
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Ozan Sihay](https://x.com/ozansihay) | [X / Twitter](https://x.com/ozansihay/status/2070884069882073533) | 2026-06-27 |
+| [Sairah](https://x.com/Sairah_0) | [X / Twitter](https://x.com/Sairah_0/status/2070799885469937965) | 2026-06-27 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2070884069882073533)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2070799885469937965)**
 
 </div>
 

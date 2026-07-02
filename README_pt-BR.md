@@ -5,7 +5,7 @@
 **Prompts gratuitos e selecionados globalmente para geração de imagens com IA — atualizados diariamente.**  
 Texto completo do prompt · imagens de prévia · **10 idiomas**
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) ![Curated Prompts](https://img.shields.io/badge/Curated%20Prompts-2200%2B-1f6feb) ![Languages](https://img.shields.io/badge/languages-10-2ea043) ![Updated](https://img.shields.io/badge/updated-daily-8957e5)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) ![Curated Prompts](https://img.shields.io/badge/Curated%20Prompts-2100%2B-1f6feb) ![Languages](https://img.shields.io/badge/languages-10-2ea043) ![Updated](https://img.shields.io/badge/updated-daily-8957e5)
 
 ### [✨ Explorar a biblioteca de prompts de imagens da Moge.ai →](https://moge.ai/br/prompt)
 
@@ -27,7 +27,7 @@ Texto completo do prompt · imagens de prévia · **10 idiomas**
   <tr><td>&nbsp;🖍️&nbsp; <a href="https://moge.ai/br/prompt">Ilustração e IP</a>&nbsp;</td><td>&nbsp;📸&nbsp; <a href="https://moge.ai/br/prompt">Fotografia e imagem</a>&nbsp;</td></tr>
 </table>
 
-> ℹ️ Esta página mostra os 90 prompts mais recentes de mais de 2200 prompts selecionados. Os prompts são coletados de publicações públicas e creditam seus autores. Para solicitar a remoção, envie um e-mail para **team@moge.ai**.
+> ℹ️ Esta página mostra os 90 prompts mais recentes de mais de 2100 prompts selecionados. Os prompts são coletados de publicações públicas e creditam seus autores. Para solicitar a remoção, envie um e-mail para **team@moge.ai**.
 >
 > 📊 Última atualização: 2026-07-02.
 
@@ -346,23 +346,31 @@ Uma grade de compilação de 2 linhas por 4 colunas mostrando uma transformaçã
 
 ---
 
-### No. 6: Retrato Editorial de Luz e Sombra
+### No. 6: Retrato Urbano com Casaco Amarelo
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Um retrato editorial cinematográfico de uma mulher sentada em um peitoril de janela, banhada por luz natural lateral de alto contraste em um quarto minimalista.
+Retrato cinematográfico de rua de uma mulher com casaco amarelo nítida em meio a uma multidão desfocada, com efeito de cor seletiva em preto e branco.
 
 #### 🌟 Prompt
 
-O canto de um quarto interno minimalista é banhado por uma bela luz natural da janela, criando uma atmosfera …
+Um retrato cinematográfico de rua de uma bela jovem vestindo um vibrante casaco amarelo-mostarda enquanto …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-O canto de um quarto interno minimalista é banhado por uma bela luz natural da janela, criando uma atmosfera serena e contemplativa. Anya Taylor Joy senta-se com graciosa elegância em um peitoril de madeira quente, seu perfil voltado para o vidro luminoso em um momento de quieta introspecção. Ela veste um body transparente de mangas longas marrom-escuro combinado com uma saia branca volumosa, em camadas e com babados, que se espalha elegantemente ao redor de sua silhueta. Uma luz lateral luminosa atravessa o vidro, envolvendo sua forma em realces nítidos e de alto contraste, enquanto deixa o quarto atrás dela em sombras profundas e pictóricas. O fundo se dissolve em uma névoa brilhante e superexposta que elimina todas as distrações externas e foca inteiramente no sujeito. É um deslumbrante poema visual de luz e sombra, capturando um editorial de moda atemporal repleto de movimento sofisticado e emoção silenciosa.
+Um retrato cinematográfico de rua de uma bela jovem vestindo um vibrante casaco amarelo-mostarda enquanto caminha por uma movimentada multidão urbana. A mulher permanece perfeitamente nítida e em foco enquanto os pedestres ao redor se dissolvem em um dramático desfoque de movimento horizontal, criando uma poderosa sensação de movimento e isolamento. Efeito de cor seletiva: toda a cena é monocromática em preto e branco, exceto o rico casaco amarelo-dourado, que se torna a única cor vibrante do quadro.
+
+Capturado de perfil lateral com uma lente de 50mm, profundidade de campo rasa, iluminação natural nublada, textura de pele realista, cabelo curto ondulado ao vento, expressão emocional sutil, elegante bolsa de ombro, moda urbana moderna, suave contraste cinematográfico, alta faixa dinâmica, ultra-fotorrealista, fotografia de moda editorial, qualidade de capa de revista, visual Leica, tons inspirados em Kodak Portra, detalhes faciais nítidos, efeito de fotografia panorâmica, desfoque de movimento de longa exposição, composição minimalista, fotografia de rua premium de belas-artes, 8K, fotografia premiada.
+
+Configurações da câmera:
+Sony A7R V, lente 50mm f/1.4, f/1.8, ISO 100, obturador 1/15s, composição ao nível dos olhos, luz ambiente natural, ultra-alto detalhe.
+
+Tratamento de cor:
+Cor seletiva (apenas casaco amarelo), cidade monocromática, multidão em escala de cinza, fundo cinematográfico em preto e branco, rica textura de tecido dourado.
 ```
 
 </details>
@@ -370,7 +378,7 @@ O canto de um quarto interno minimalista é banhado por uma bela luz natural da 
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMJo1HnbIAA9jjo.jpg" width="700" alt="Retrato Editorial de Luz e Sombra">
+<img src="https://image.moge.ai/prompt_media/HMJNIo2bMAAhZLO.jpg" width="700" alt="Retrato Urbano com Casaco Amarelo">
 </div>
 
 <br>
@@ -379,13 +387,13 @@ O canto de um quarto interno minimalista é banhado por uma bela luz natural da 
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [GenAngelsAI](https://x.com/GenAngelsAI) | [X / Twitter](https://x.com/GenAngelsAI/status/2072334087361265922) | 2026-07-01 |
+| [Taaruk](https://x.com/Taaruk_) | [X / Twitter](https://x.com/Taaruk_/status/2072303607094145099) | 2026-07-01 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072334087361265922)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072303607094145099)**
 
 </div>
 
@@ -761,31 +769,23 @@ Uma colagem em grade de 4 painéis limpa com quatro garotas chibi distintas e es
 
 ---
 
-### No. 12: Retrato Urbano com Casaco Amarelo
+### No. 12: Atleta em Corrida com Motion Blur
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Retrato cinematográfico de rua de uma mulher com casaco amarelo nítida em meio a uma multidão desfocada, com efeito de cor seletiva em preto e branco.
+Cria uma foto de campanha esportiva dinâmica de um atleta em pleno sprint, com forte motion blur e estética atlética futurista de estúdio.
 
 #### 🌟 Prompt
 
-Um retrato cinematográfico de rua de uma bela jovem vestindo um vibrante casaco amarelo-mostarda enquanto …
+Foto de campanha de moda esportiva dinâmica de um atleta masculino esprintando no ar, efeito intenso de …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Um retrato cinematográfico de rua de uma bela jovem vestindo um vibrante casaco amarelo-mostarda enquanto caminha por uma movimentada multidão urbana. A mulher permanece perfeitamente nítida e em foco enquanto os pedestres ao redor se dissolvem em um dramático desfoque de movimento horizontal, criando uma poderosa sensação de movimento e isolamento. Efeito de cor seletiva: toda a cena é monocromática em preto e branco, exceto o rico casaco amarelo-dourado, que se torna a única cor vibrante do quadro.
-
-Capturado de perfil lateral com uma lente de 50mm, profundidade de campo rasa, iluminação natural nublada, textura de pele realista, cabelo curto ondulado ao vento, expressão emocional sutil, elegante bolsa de ombro, moda urbana moderna, suave contraste cinematográfico, alta faixa dinâmica, ultra-fotorrealista, fotografia de moda editorial, qualidade de capa de revista, visual Leica, tons inspirados em Kodak Portra, detalhes faciais nítidos, efeito de fotografia panorâmica, desfoque de movimento de longa exposição, composição minimalista, fotografia de rua premium de belas-artes, 8K, fotografia premiada.
-
-Configurações da câmera:
-Sony A7R V, lente 50mm f/1.4, f/1.8, ISO 100, obturador 1/15s, composição ao nível dos olhos, luz ambiente natural, ultra-alto detalhe.
-
-Tratamento de cor:
-Cor seletiva (apenas casaco amarelo), cidade monocromática, multidão em escala de cinza, fundo cinematográfico em preto e branco, rica textura de tecido dourado.
+Foto de campanha de moda esportiva dinâmica de um atleta masculino esprintando no ar, efeito intenso de motion blur, fotografia de longa exposição, pose de corrida em perfil lateral, fundo de estúdio monocromático vibrante branco e azul, composição minimalista, estética atlética futurista, iluminação cinematográfica, gradientes ultra suaves, membros e tênis borrados para enfatizar a velocidade, foco nítido no rosto, reflexo no piso brilhante, visual comercial energético estilo Nike, efeito de arraste de obturador alto, fotografia editorial premium.
 ```
 
 </details>
@@ -793,7 +793,7 @@ Cor seletiva (apenas casaco amarelo), cidade monocromática, multidão em escala
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMJNIo2bMAAhZLO.jpg" width="700" alt="Retrato Urbano com Casaco Amarelo">
+<img src="https://image.moge.ai/prompt_media/HMHIMgnbsAAUBEG.jpg" width="700" alt="Atleta em Corrida com Motion Blur">
 </div>
 
 <br>
@@ -802,13 +802,13 @@ Cor seletiva (apenas casaco amarelo), cidade monocromática, multidão em escala
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Taaruk](https://x.com/Taaruk_) | [X / Twitter](https://x.com/Taaruk_/status/2072303607094145099) | 2026-07-01 |
+| [Kashberg](https://x.com/Kashberg_0) | [X / Twitter](https://x.com/Kashberg_0/status/2072157436891611332) | 2026-07-01 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072303607094145099)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072157436891611332)**
 
 </div>
 
@@ -1200,23 +1200,23 @@ personagens excessivamente renderizados.
 
 ---
 
-### No. 18: Atleta em Corrida com Motion Blur
+### No. 18: Retrato Doodle Infantil Divertido
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Cria uma foto de campanha esportiva dinâmica de um atleta em pleno sprint, com forte motion blur e estética atlética futurista de estúdio.
+Cria um retrato de estúdio de alta luminosidade de uma criança correndo, com um boneco palito rabiscado puxando a camisa para um efeito lúdico.
 
 #### 🌟 Prompt
 
-Foto de campanha de moda esportiva dinâmica de um atleta masculino esprintando no ar, efeito intenso de …
+Um retrato de estúdio lúdico e de alta luminosidade de [subject] correndo alegremente sobre um fundo cinza …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Foto de campanha de moda esportiva dinâmica de um atleta masculino esprintando no ar, efeito intenso de motion blur, fotografia de longa exposição, pose de corrida em perfil lateral, fundo de estúdio monocromático vibrante branco e azul, composição minimalista, estética atlética futurista, iluminação cinematográfica, gradientes ultra suaves, membros e tênis borrados para enfatizar a velocidade, foco nítido no rosto, reflexo no piso brilhante, visual comercial energético estilo Nike, efeito de arraste de obturador alto, fotografia editorial premium.
+Um retrato de estúdio lúdico e de alta luminosidade de [subject] correndo alegremente sobre um fundo cinza claro contínuo, capturado em meio ao passo com uma perna erguida e um sorriso amplo e genuíno. O sujeito veste um conjunto casual oversized em tons neutros suaves (ou cores vibrantes), criando uma sensação dinâmica de movimento. Atrás dele, um simples boneco palito de desenho animado preto feito à mão agarra e estica as costas da camisa, fazendo o tecido parecer elasticamente puxado como se tentasse pará-lo. O personagem rabiscado está integrado naturalmente à cena com linhas de movimento expressivas e uma expressão facial humorística. O sujeito segura um adereço divertido (como um brinquedo de dinossauro, um pirulito gigante, um ursinho de pelúcia ou um balão), reforçando a narrativa lúdica. Composição minimalista, iluminação de estúdio limpa, sombras suaves, foco ultra nítido, textura de pele realista, cores vibrantes porém naturais, fotografia editorial caprichosa, estética de campanha de moda infantil premium, altamente detalhado, fotorrealista, 8K.
 ```
 
 </details>
@@ -1224,7 +1224,7 @@ Foto de campanha de moda esportiva dinâmica de um atleta masculino esprintando 
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMHIMgnbsAAUBEG.jpg" width="700" alt="Atleta em Corrida com Motion Blur">
+<img src="https://image.moge.ai/prompt_media/HMD4r5XWcAAlMXs.jpg" width="700" alt="Retrato Doodle Infantil Divertido">
 </div>
 
 <br>
@@ -1233,13 +1233,13 @@ Foto de campanha de moda esportiva dinâmica de um atleta masculino esprintando 
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Kashberg](https://x.com/Kashberg_0) | [X / Twitter](https://x.com/Kashberg_0/status/2072157436891611332) | 2026-07-01 |
+| [Sairah](https://x.com/Sairah_0) | [X / Twitter](https://x.com/Sairah_0/status/2071929275897491491) | 2026-06-30 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072157436891611332)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071929275897491491)**
 
 </div>
 
@@ -1570,23 +1570,27 @@ Retrato (4:5)
 
 ---
 
-### No. 24: Retrato Doodle Infantil Divertido
+### No. 24: Colagem Diário em Grade 3x3
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Cria um retrato de estúdio de alta luminosidade de uma criança correndo, com um boneco palito rabiscado puxando a camisa para um efeito lúdico.
+Cria uma colagem em grade 3x3 da mesma pessoa em momentos e ângulos diferentes, com linhas desenhadas à mão em branco e cores claras, como uma página de diário viva.
 
 #### 🌟 Prompt
 
-Um retrato de estúdio lúdico e de alta luminosidade de [subject] correndo alegremente sobre um fundo cinza …
+Colagem de fotos em grade 3x3, mostrando a mesma pessoa em momentos, ângulos e distâncias diferentes. Cada …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Um retrato de estúdio lúdico e de alta luminosidade de [subject] correndo alegremente sobre um fundo cinza claro contínuo, capturado em meio ao passo com uma perna erguida e um sorriso amplo e genuíno. O sujeito veste um conjunto casual oversized em tons neutros suaves (ou cores vibrantes), criando uma sensação dinâmica de movimento. Atrás dele, um simples boneco palito de desenho animado preto feito à mão agarra e estica as costas da camisa, fazendo o tecido parecer elasticamente puxado como se tentasse pará-lo. O personagem rabiscado está integrado naturalmente à cena com linhas de movimento expressivas e uma expressão facial humorística. O sujeito segura um adereço divertido (como um brinquedo de dinossauro, um pirulito gigante, um ursinho de pelúcia ou um balão), reforçando a narrativa lúdica. Composição minimalista, iluminação de estúdio limpa, sombras suaves, foco ultra nítido, textura de pele realista, cores vibrantes porém naturais, fotografia editorial caprichosa, estética de campanha de moda infantil premium, altamente detalhado, fotorrealista, 8K.
+Colagem de fotos em grade 3x3, mostrando a mesma pessoa em momentos, ângulos e distâncias diferentes. Cada foto parece real, com luz natural, fundo limpo e uma sensação luminosa e fresca.
+
+Linhas brancas desenhadas à mão percorrem toda a imagem, contornando a pessoa, retratando movimentos, desenhando pequenos coraçõezinhos ✨, brilhos, ondas e linhas de movimento.
+
+A paleta geral é clara e saturada, com cores naturais suaves e pequenos detalhes, sem sombras pesadas. No final parece uma página de diário viva, com nove momentos nítidos cada um, mas visualmente unidos numa história cheia de ritmo.
 ```
 
 </details>
@@ -1594,7 +1598,7 @@ Um retrato de estúdio lúdico e de alta luminosidade de [subject] correndo aleg
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMD4r5XWcAAlMXs.jpg" width="700" alt="Retrato Doodle Infantil Divertido">
+<img src="https://image.moge.ai/prompt_media/HMC0AQpW0AAUbyA.jpg" width="700" alt="Colagem Diário em Grade 3x3">
 </div>
 
 <br>
@@ -1603,13 +1607,13 @@ Um retrato de estúdio lúdico e de alta luminosidade de [subject] correndo aleg
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Sairah](https://x.com/Sairah_0) | [X / Twitter](https://x.com/Sairah_0/status/2071929275897491491) | 2026-06-30 |
+| [千寻｜AI 分享 🌸](https://x.com/Crypto_QianXun) | [X / Twitter](https://x.com/Crypto_QianXun/status/2071853756484923525) | 2026-06-30 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071929275897491491)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071853756484923525)**
 
 </div>
 
@@ -1925,27 +1929,23 @@ Ilustração desenhada à mão de [subject], contornos finos de tinta combinados
 
 ---
 
-### No. 30: Colagem Diário em Grade 3x3
+### No. 30: Retrato de Beleza Monocromático em Vermelho
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Cria uma colagem em grade 3x3 da mesma pessoa em momentos e ângulos diferentes, com linhas desenhadas à mão em branco e cores claras, como uma página de diário viva.
+Cria um retrato editorial de alta moda de uma mulher com óculos vermelhos e vestido de cetim sobre fundo vermelho monocromático e iluminação dramática de estúdio.
 
 #### 🌟 Prompt
 
-Colagem de fotos em grade 3x3, mostrando a mesma pessoa em momentos, ângulos e distâncias diferentes. Cada …
+Retrato beauty de alta moda de uma jovem com cabelo castanho liso repartido ao meio, óculos de sol quadrados …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Colagem de fotos em grade 3x3, mostrando a mesma pessoa em momentos, ângulos e distâncias diferentes. Cada foto parece real, com luz natural, fundo limpo e uma sensação luminosa e fresca.
-
-Linhas brancas desenhadas à mão percorrem toda a imagem, contornando a pessoa, retratando movimentos, desenhando pequenos coraçõezinhos ✨, brilhos, ondas e linhas de movimento.
-
-A paleta geral é clara e saturada, com cores naturais suaves e pequenos detalhes, sem sombras pesadas. No final parece uma página de diário viva, com nove momentos nítidos cada um, mas visualmente unidos numa história cheia de ritmo.
+Retrato beauty de alta moda de uma jovem com cabelo castanho liso repartido ao meio, óculos de sol quadrados vermelhos tingidos erguidos com ambas as mãos emoldurando o rosto, batom vermelho intenso, brinco de argola e anel dourados visíveis, contato visual direto e intenso com a câmera através das lentes, vestindo vestido slip de cetim vermelho sobre gola alta canelada vermelho profundo, fundo vermelho profundo monocromático sólido, forte iluminação de contorno separando a modelo do fundo, sutil textura de grão de filme, iluminação dramática de estúdio, composição vertical 4:5, fotografia editorial monocromática ousada --ar 4:5 --v 6
 ```
 
 </details>
@@ -1953,7 +1953,7 @@ A paleta geral é clara e saturada, com cores naturais suaves e pequenos detalhe
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMC0AQpW0AAUbyA.jpg" width="700" alt="Colagem Diário em Grade 3x3">
+<img src="https://image.moge.ai/prompt_media/HMCja1DW0AAaY2A.jpg" width="700" alt="Retrato de Beleza Monocromático em Vermelho">
 </div>
 
 <br>
@@ -1962,13 +1962,13 @@ A paleta geral é clara e saturada, com cores naturais suaves e pequenos detalhe
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [千寻｜AI 分享 🌸](https://x.com/Crypto_QianXun) | [X / Twitter](https://x.com/Crypto_QianXun/status/2071853756484923525) | 2026-06-30 |
+| [Shahid Wani](https://x.com/meng_dagg695) | [X / Twitter](https://x.com/meng_dagg695/status/2071835761620709472) | 2026-06-30 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071853756484923525)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071835761620709472)**
 
 </div>
 
@@ -2253,23 +2253,23 @@ Pôster de viagem de luxo, ilustração premium de parque nacional, perspectiva 
 
 ---
 
-### No. 36: Retrato de Beleza Monocromático em Vermelho
+### No. 36: Estudo de Revolucionário Francês
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Cria um retrato editorial de alta moda de uma mulher com óculos vermelhos e vestido de cetim sobre fundo vermelho monocromático e iluminação dramática de estúdio.
+Cria um retrato de corpo inteiro de um revolucionário francês em estilo de pintura a óleo histórica dos antigos mestres, com iluminação em claro-escuro.
 
 #### 🌟 Prompt
 
-Retrato beauty de alta moda de uma jovem com cabelo castanho liso repartido ao meio, óculos de sol quadrados …
+Estudo de personagem de corpo inteiro, homem revolucionário francês maduro, pintura a óleo histórica …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Retrato beauty de alta moda de uma jovem com cabelo castanho liso repartido ao meio, óculos de sol quadrados vermelhos tingidos erguidos com ambas as mãos emoldurando o rosto, batom vermelho intenso, brinco de argola e anel dourados visíveis, contato visual direto e intenso com a câmera através das lentes, vestindo vestido slip de cetim vermelho sobre gola alta canelada vermelho profundo, fundo vermelho profundo monocromático sólido, forte iluminação de contorno separando a modelo do fundo, sutil textura de grão de filme, iluminação dramática de estúdio, composição vertical 4:5, fotografia editorial monocromática ousada --ar 4:5 --v 6
+Estudo de personagem de corpo inteiro, homem revolucionário francês maduro, pintura a óleo histórica realista, estilo acadêmico dos antigos mestres. Rosto curtido e robusto, perto dos quarenta anos, expressão calma e serena, leve sujeira, barba por fazer, cabelo escuro preso atrás com mechas soltas. Camisa de linho off-white folgada, gola ligeiramente aberta, mangas arregaçadas, faixa tricolor na cintura, calças bege, botas de montaria de couro gastas. Pose em pé relaxada, peso sobre uma perna, uma mão ao lado, discretamente confiante. Iluminação claro-escuro, luz direcional suave e quente de fonte única, sombras profundas, pinceladas ricas em camadas, anatomia naturalista, dobras de tecido e textura de linho detalhadas, pátina de verniz envelhecido, qualidade de museu. Reminiscente de Delacroix e David. Paleta terrosa suave - off-white, bege quente, vermelho sangue de boi - com acentos tricolores saturados. Fundo neutro dentro de um painel retangular arredondado de tonalidade suave, sombra projetada no chão abaixo. Cinematográfico, digno, historicamente fundamentado. --ar 4:5 --profile qilq22f --stylize 250 --v 8.1
 ```
 
 </details>
@@ -2277,7 +2277,7 @@ Retrato beauty de alta moda de uma jovem com cabelo castanho liso repartido ao m
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMCja1DW0AAaY2A.jpg" width="700" alt="Retrato de Beleza Monocromático em Vermelho">
+<img src="https://image.moge.ai/prompt_media/HL_bpI7bwAELLYU.jpg" width="700" alt="Estudo de Revolucionário Francês">
 </div>
 
 <br>
@@ -2286,13 +2286,13 @@ Retrato beauty de alta moda de uma jovem com cabelo castanho liso repartido ao m
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Shahid Wani](https://x.com/meng_dagg695) | [X / Twitter](https://x.com/meng_dagg695/status/2071835761620709472) | 2026-06-30 |
+| [INK](https://x.com/0xInk_) | [X / Twitter](https://x.com/0xInk_/status/2071638324138148202) | 2026-06-29 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071835761620709472)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071638324138148202)**
 
 </div>
 
@@ -2602,23 +2602,23 @@ Um personagem 3D em estilo de animação CG cinematográfica. Cabeça extremamen
 
 ---
 
-### No. 42: Estudo de Revolucionário Francês
+### No. 42: Moda Surreal em Quarto de Jornal
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Cria um retrato de corpo inteiro de um revolucionário francês em estilo de pintura a óleo histórica dos antigos mestres, com iluminação em claro-escuro.
+Retrato de moda editorial surreal de uma mulher sentada num pequeno quarto totalmente revestido de jornal, com roupas vermelhas e iluminação dramática.
 
 #### 🌟 Prompt
 
-Estudo de personagem de corpo inteiro, homem revolucionário francês maduro, pintura a óleo histórica …
+Foto de moda surreal em plano aberto, mulher sentada de pernas cruzadas centralizada dentro de um pequeno …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Estudo de personagem de corpo inteiro, homem revolucionário francês maduro, pintura a óleo histórica realista, estilo acadêmico dos antigos mestres. Rosto curtido e robusto, perto dos quarenta anos, expressão calma e serena, leve sujeira, barba por fazer, cabelo escuro preso atrás com mechas soltas. Camisa de linho off-white folgada, gola ligeiramente aberta, mangas arregaçadas, faixa tricolor na cintura, calças bege, botas de montaria de couro gastas. Pose em pé relaxada, peso sobre uma perna, uma mão ao lado, discretamente confiante. Iluminação claro-escuro, luz direcional suave e quente de fonte única, sombras profundas, pinceladas ricas em camadas, anatomia naturalista, dobras de tecido e textura de linho detalhadas, pátina de verniz envelhecido, qualidade de museu. Reminiscente de Delacroix e David. Paleta terrosa suave - off-white, bege quente, vermelho sangue de boi - com acentos tricolores saturados. Fundo neutro dentro de um painel retangular arredondado de tonalidade suave, sombra projetada no chão abaixo. Cinematográfico, digno, historicamente fundamentado. --ar 4:5 --profile qilq22f --stylize 250 --v 8.1
+Foto de moda surreal em plano aberto, mulher sentada de pernas cruzadas centralizada dentro de um pequeno quarto-caixa totalmente coberto por textura de jornal em todas as superfícies, top xadrez e calças vermelhas, tênis vermelhos, fones vermelhos, holofote dramático vindo de cima, leve inclinação para criar tensão, espaço negativo no topo do quadro no teto de jornal para texto de legenda, composição vertical 4:5, fotografia editorial de alto conceito --ar 4:5 --v 6
 ```
 
 </details>
@@ -2626,7 +2626,7 @@ Estudo de personagem de corpo inteiro, homem revolucionário francês maduro, pi
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HL_bpI7bwAELLYU.jpg" width="700" alt="Estudo de Revolucionário Francês">
+<img src="https://image.moge.ai/prompt_media/HL-z29laAAAiGtl.jpg" width="700" alt="Moda Surreal em Quarto de Jornal">
 </div>
 
 <br>
@@ -2635,13 +2635,13 @@ Estudo de personagem de corpo inteiro, homem revolucionário francês maduro, pi
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [INK](https://x.com/0xInk_) | [X / Twitter](https://x.com/0xInk_/status/2071638324138148202) | 2026-06-29 |
+| [Shahid Wani](https://x.com/meng_dagg695) | [X / Twitter](https://x.com/meng_dagg695/status/2071572165833691237) | 2026-06-29 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071638324138148202)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071572165833691237)**
 
 </div>
 
@@ -3265,23 +3265,61 @@ Transforme esta foto em uma ilustração folk plana e lúdica com elementos de d
 
 ---
 
-### No. 48: Moda Surreal em Quarto de Jornal
+### No. 48: Colagem 3x3 com Doodles Lúdicos
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Retrato de moda editorial surreal de uma mulher sentada num pequeno quarto totalmente revestido de jornal, com roupas vermelhas e iluminação dramática.
+Cria uma colagem 3x3 vista de cima da mesma jovem em nove cenas criativas, combinada com rabiscos pretos desenhados à mão sobre um fundo branco minimalista.
 
 #### 🌟 Prompt
 
-Foto de moda surreal em plano aberto, mulher sentada de pernas cruzadas centralizada dentro de um pequeno …
+Uma colagem profissional 3x3 apresentando a mesma bela jovem fotografada da imagem de referência, com cabelo …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Foto de moda surreal em plano aberto, mulher sentada de pernas cruzadas centralizada dentro de um pequeno quarto-caixa totalmente coberto por textura de jornal em todas as superfícies, top xadrez e calças vermelhas, tênis vermelhos, fones vermelhos, holofote dramático vindo de cima, leve inclinação para criar tensão, espaço negativo no topo do quadro no teto de jornal para texto de legenda, composição vertical 4:5, fotografia editorial de alto conceito --ar 4:5 --v 6
+Uma colagem profissional 3x3 apresentando a mesma bela jovem fotografada da imagem de referência, com cabelo normal e óculos, em vista de cima sobre um cobertor branco texturizado e macio. A mulher aparece em nove cenas criativas diferentes. Cada painel contém ilustrações de rabiscos pretos desenhados à mão interagindo com sua pose. Iluminação natural brilhante, fundo branco limpo, fotografia lifestyle de alto padrão, detalhes ultranítidos, composição de qualidade de revista, narrativa lúdica, proporções humanas realistas, traços faciais consistentes em todos os nove painéis.
+
+Painel 1 (Atleta):
+
+A jovem veste um top curto branco esportivo, shorts atléticos pretos e tênis de corrida. Ela é capturada em pleno salto, como se pulasse um obstáculo de barreira desenhado à mão. Pose de ação dinâmica, expressão enérgica.
+
+Painel 2 (Artista de Circo):
+
+A mulher veste uma roupa inspirada no circo, vermelha com detalhes dourados. Ela se equilibra em um pé sobre um tambor de circo desenhado à mão, erguendo as duas mãos para o equilíbrio. Sorriso alegre e confiante.
+
+Painel 3 (Amante de Sorvete):
+
+A mulher veste um vestido de verão rosa pastel e tênis brancos. Ela se senta entre duas cadeiras de café desenhadas à mão segurando uma grande casquinha de sorvete em doodle perto da boca. Expressão fofa e brincalhona.
+
+Painel 4 (Super-Heroína):
+
+A mulher veste um traje elegante de super-heroína com capa esvoaçante, macacão justo e botas. Ela ergue os dois punhos triunfantemente em direção ao céu. Grande extensão de capa desenhada à mão atrás dela. Expressão heroica.
+
+Painel 5 (Modo Férias):
+
+A mulher veste um vestido floral tropical, óculos de sol ao lado e sandálias. Ela relaxa sobre uma toalha de praia desenhada à mão com as mãos atrás da cabeça. Rabiscos próximos incluem protetor solar e chinelos. Clima de férias tranquilo.
+
+Painel 6 (Luta na Academia):
+
+A mulher veste uma roupa de academia justa com leggings e tênis de treino. Um halter gigante em doodle aparece ao lado dela. Ela faz uma careta engraçada e exagerada de esforço, como se levantasse um peso impossível. Conceito fitness humorístico.
+
+Painel 7 (Ginasta):
+
+A mulher veste um collant de ginástica. Ela se pendura entre duas argolas de ginástica desenhadas à mão com expressão atlética concentrada. Pose forte e graciosa.
+
+Painel 8 (Rainha das Compras):
+
+A mulher veste um traje moderno e elegante composto por blazer, saia e saltos. Ela segura duas sacolas de compras rotuladas "Shopping Day". Sorriso feliz e confiante, clima de estilo de vida luxuoso.
+
+Painel 9 (Estrela do Rock):
+
+A mulher veste uma jaqueta de couro preta, jeans rasgado, botas, pulseiras e uma bandana. Uma guitarra elétrica desenhada à mão está posicionada sobre seu corpo. Pose de roqueira com os braços bem abertos e expressão confiante.
+
+Estilo geral: estética branca minimalista, ilustrações de rabiscos pretos desenhados à mão, narrativa caprichosa, composição flat-lay limpa, tendência viral do Instagram, fotografia de estúdio profissional, jovem ultrarrealista, alto detalhe, qualidade 8K, aparência consistente em todos os painéis, iluminação suave e brilhante, editorial de estilo de vida moderno.
 ```
 
 </details>
@@ -3289,7 +3327,7 @@ Foto de moda surreal em plano aberto, mulher sentada de pernas cruzadas centrali
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HL-z29laAAAiGtl.jpg" width="700" alt="Moda Surreal em Quarto de Jornal">
+<img src="https://image.moge.ai/prompt_media/HL-xlEZbIAAzoY_.jpg" width="700" alt="Colagem 3x3 com Doodles Lúdicos">
 </div>
 
 <br>
@@ -3298,13 +3336,13 @@ Foto de moda surreal em plano aberto, mulher sentada de pernas cruzadas centrali
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Shahid Wani](https://x.com/meng_dagg695) | [X / Twitter](https://x.com/meng_dagg695/status/2071572165833691237) | 2026-06-29 |
+| [Synthia](https://x.com/AIwithSynthia) | [X / Twitter](https://x.com/AIwithSynthia/status/2071569612375048564) | 2026-06-29 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071572165833691237)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071569612375048564)**
 
 </div>
 
@@ -3781,61 +3819,76 @@ Pôster de viagem de luxo, ilustração premium de parque nacional, perspectiva 
 
 ---
 
-### No. 54: Colagem 3x3 com Doodles Lúdicos
+### No. 54: Mulher Correndo com Rabisco Brincalhão
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Cria uma colagem 3x3 vista de cima da mesma jovem em nove cenas criativas, combinada com rabiscos pretos desenhados à mão sobre um fundo branco minimalista.
+Fotografia editorial de estúdio de uma mulher rindo a correr, com um rabisco preto desenhado à mão a puxar o capuz dela para trás.
 
 #### 🌟 Prompt
 
-Uma colagem profissional 3x3 apresentando a mesma bela jovem fotografada da imagem de referência, com cabelo …
+Crie uma fotografia editorial de estilo de vida ultrarrealista em um estúdio minimalista e limpo com fundo …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Uma colagem profissional 3x3 apresentando a mesma bela jovem fotografada da imagem de referência, com cabelo normal e óculos, em vista de cima sobre um cobertor branco texturizado e macio. A mulher aparece em nove cenas criativas diferentes. Cada painel contém ilustrações de rabiscos pretos desenhados à mão interagindo com sua pose. Iluminação natural brilhante, fundo branco limpo, fotografia lifestyle de alto padrão, detalhes ultranítidos, composição de qualidade de revista, narrativa lúdica, proporções humanas realistas, traços faciais consistentes em todos os nove painéis.
+Crie uma fotografia editorial de estilo de vida ultrarrealista em um estúdio minimalista e limpo com fundo contínuo cinza-claro suave.
 
-Painel 1 (Atleta):
+O sujeito é uma mulher alegre com um corte de cabelo pixie azul-claro. Ela é capturada em plena corrida como se tentasse escapar, rindo incontrolavelmente com a boca bem aberta, olhos felizes semicerrados e uma expressão brincalhona e travessa. Seu corpo inclina-se naturalmente para a frente em movimento enquanto é levemente puxado para trás pela tensão na sua blusa de moletom.
 
-A jovem veste um top curto branco esportivo, shorts atléticos pretos e tênis de corrida. Ela é capturada em pleno salto, como se pulasse um obstáculo de barreira desenhado à mão. Pose de ação dinâmica, expressão enérgica.
+Pose:
+Pose dinâmica de corrida.
+Um pé levantado naturalmente do chão.
+Braços balançando naturalmente ao correr.
+Uma mão segurando um pirulito espiral colorido em arco-íris.
+Cabelo mostrando movimento sutil da corrida.
+Roupa e postura devem transmitir claramente o impulso para a frente.
 
-Painel 2 (Artista de Circo):
+Roupa:
+Blusa de moletom oversized azul pastel.
+Calça larga bege folgada.
+Tênis slip-on Vans com xadrez vermelho.
+Óculos redondos apoiados apenas no topo da cabeça (não usados no rosto).
 
-A mulher veste uma roupa inspirada no circo, vermelha com detalhes dourados. Ela se equilibra em um pé sobre um tambor de circo desenhado à mão, erguendo as duas mãos para o equilíbrio. Sorriso alegre e confiante.
+Interação com o Rabisco:
+No lado esquerdo do quadro, desenhe um simples personagem rabiscado preto à mão em estilo minimalista de palito com:
+cabeça arredondada,
+minúsculos olhos de ponto,
+boca reta sem expressão,
+linhas pretas grossas e marcantes de marcador.
 
-Painel 3 (Amante de Sorvete):
+O rabisco estica um braço longo e agarra firmemente as costas da blusa oversized da mulher, puxando dramaticamente o tecido para trás para impedi-la de fugir.
 
-A mulher veste um vestido de verão rosa pastel e tênis brancos. Ela se senta entre duas cadeiras de café desenhadas à mão segurando uma grande casquinha de sorvete em doodle perto da boca. Expressão fofa e brincalhona.
+A força do puxão deve deslocar sutilmente a parte superior do corpo dela para trás enquanto ela continua tentando correr para a frente, criando uma interação física crível.
 
-Painel 4 (Super-Heroína):
+O próprio rabisco deve parecer lutar um pouco, com minúsculas linhas de movimento ao redor da mão e do braço enfatizando a força do puxão.
 
-A mulher veste um traje elegante de super-heroína com capa esvoaçante, macacão justo e botas. Ela ergue os dois punhos triunfantemente em direção ao céu. Grande extensão de capa desenhada à mão atrás dela. Expressão heroica.
+Adicione linhas de movimento brincalhonas em estilo rabisco ao redor da cabeça da mulher para enfatizar o riso e o movimento.
 
-Painel 5 (Modo Férias):
+O rabisco deve parecer ter sido desenhado à mão diretamente sobre a fotografia finalizada usando tinta de marcador preto grosso.
 
-A mulher veste um vestido floral tropical, óculos de sol ao lado e sandálias. Ela relaxa sobre uma toalha de praia desenhada à mão com as mãos atrás da cabeça. Rabiscos próximos incluem protetor solar e chinelos. Clima de férias tranquilo.
+Mãos:
+Mãos anatomicamente corretas.
+Proporções naturais dos dedos.
+Mangas permanecem oversized mas ambas as mãos ficam claramente visíveis.
+Pegada realista no pirulito.
 
-Painel 6 (Luta na Academia):
-
-A mulher veste uma roupa de academia justa com leggings e tênis de treino. Um halter gigante em doodle aparece ao lado dela. Ela faz uma careta engraçada e exagerada de esforço, como se levantasse um peso impossível. Conceito fitness humorístico.
-
-Painel 7 (Ginasta):
-
-A mulher veste um collant de ginástica. Ela se pendura entre duas argolas de ginástica desenhadas à mão com expressão atlética concentrada. Pose forte e graciosa.
-
-Painel 8 (Rainha das Compras):
-
-A mulher veste um traje moderno e elegante composto por blazer, saia e saltos. Ela segura duas sacolas de compras rotuladas "Shopping Day". Sorriso feliz e confiante, clima de estilo de vida luxuoso.
-
-Painel 9 (Estrela do Rock):
-
-A mulher veste uma jaqueta de couro preta, jeans rasgado, botas, pulseiras e uma bandana. Uma guitarra elétrica desenhada à mão está posicionada sobre seu corpo. Pose de roqueira com os braços bem abertos e expressão confiante.
-
-Estilo geral: estética branca minimalista, ilustrações de rabiscos pretos desenhados à mão, narrativa caprichosa, composição flat-lay limpa, tendência viral do Instagram, fotografia de estúdio profissional, jovem ultrarrealista, alto detalhe, qualidade 8K, aparência consistente em todos os painéis, iluminação suave e brilhante, editorial de estilo de vida moderno.
+Iluminação e Estilo:
+Iluminação de estúdio high-key brilhante.
+Sombras naturais suaves.
+Composição minimalista ultralimpa.
+Fotografia editorial de estilo de vida.
+Física de tecido realista.
+Narrativa visual humorística.
+Estética moderna premium.
+Atmosfera brincalhona e saudável.
+Ultrarrealista.
+Detalhes nítidos.
+Qualidade 8K.
+Composição vertical 4:5.
 ```
 
 </details>
@@ -3843,7 +3896,7 @@ Estilo geral: estética branca minimalista, ilustrações de rabiscos pretos des
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HL-xlEZbIAAzoY_.jpg" width="700" alt="Colagem 3x3 com Doodles Lúdicos">
+<img src="https://image.moge.ai/prompt_media/HL8tTKMbYAAKbZd.jpg" width="700" alt="Mulher Correndo com Rabisco Brincalhão">
 </div>
 
 <br>
@@ -3852,13 +3905,13 @@ Estilo geral: estética branca minimalista, ilustrações de rabiscos pretos des
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Synthia](https://x.com/AIwithSynthia) | [X / Twitter](https://x.com/AIwithSynthia/status/2071569612375048564) | 2026-06-29 |
+| [Sairah](https://x.com/Sairah_0) | [X / Twitter](https://x.com/Sairah_0/status/2071424170383364525) | 2026-06-29 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071569612375048564)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071424170383364525)**
 
 </div>
 
@@ -4114,76 +4167,23 @@ Ilustração vetorial plana em close, rosto da mulher e detalhe da coroa floral,
 
 ---
 
-### No. 60: Mulher Correndo com Rabisco Brincalhão
+### No. 60: Bicicleta sob Nuvens Surreais
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Fotografia editorial de estúdio de uma mulher rindo a correr, com um rabisco preto desenhado à mão a puxar o capuz dela para trás.
+Cria uma fotografia artística surreal de uma mulher de bicicleta sob enormes nuvens coloridas e pictóricas em formato vertical.
 
 #### 🌟 Prompt
 
-Crie uma fotografia editorial de estilo de vida ultrarrealista em um estúdio minimalista e limpo com fundo …
+Fotografia artística surreal e ampla, mulher em bicicleta vintage pedalando por uma estrada vazia, enormes …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Crie uma fotografia editorial de estilo de vida ultrarrealista em um estúdio minimalista e limpo com fundo contínuo cinza-claro suave.
-
-O sujeito é uma mulher alegre com um corte de cabelo pixie azul-claro. Ela é capturada em plena corrida como se tentasse escapar, rindo incontrolavelmente com a boca bem aberta, olhos felizes semicerrados e uma expressão brincalhona e travessa. Seu corpo inclina-se naturalmente para a frente em movimento enquanto é levemente puxado para trás pela tensão na sua blusa de moletom.
-
-Pose:
-Pose dinâmica de corrida.
-Um pé levantado naturalmente do chão.
-Braços balançando naturalmente ao correr.
-Uma mão segurando um pirulito espiral colorido em arco-íris.
-Cabelo mostrando movimento sutil da corrida.
-Roupa e postura devem transmitir claramente o impulso para a frente.
-
-Roupa:
-Blusa de moletom oversized azul pastel.
-Calça larga bege folgada.
-Tênis slip-on Vans com xadrez vermelho.
-Óculos redondos apoiados apenas no topo da cabeça (não usados no rosto).
-
-Interação com o Rabisco:
-No lado esquerdo do quadro, desenhe um simples personagem rabiscado preto à mão em estilo minimalista de palito com:
-cabeça arredondada,
-minúsculos olhos de ponto,
-boca reta sem expressão,
-linhas pretas grossas e marcantes de marcador.
-
-O rabisco estica um braço longo e agarra firmemente as costas da blusa oversized da mulher, puxando dramaticamente o tecido para trás para impedi-la de fugir.
-
-A força do puxão deve deslocar sutilmente a parte superior do corpo dela para trás enquanto ela continua tentando correr para a frente, criando uma interação física crível.
-
-O próprio rabisco deve parecer lutar um pouco, com minúsculas linhas de movimento ao redor da mão e do braço enfatizando a força do puxão.
-
-Adicione linhas de movimento brincalhonas em estilo rabisco ao redor da cabeça da mulher para enfatizar o riso e o movimento.
-
-O rabisco deve parecer ter sido desenhado à mão diretamente sobre a fotografia finalizada usando tinta de marcador preto grosso.
-
-Mãos:
-Mãos anatomicamente corretas.
-Proporções naturais dos dedos.
-Mangas permanecem oversized mas ambas as mãos ficam claramente visíveis.
-Pegada realista no pirulito.
-
-Iluminação e Estilo:
-Iluminação de estúdio high-key brilhante.
-Sombras naturais suaves.
-Composição minimalista ultralimpa.
-Fotografia editorial de estilo de vida.
-Física de tecido realista.
-Narrativa visual humorística.
-Estética moderna premium.
-Atmosfera brincalhona e saudável.
-Ultrarrealista.
-Detalhes nítidos.
-Qualidade 8K.
-Composição vertical 4:5.
+Fotografia artística surreal e ampla, mulher em bicicleta vintage pedalando por uma estrada vazia, enormes formações de nuvens pictóricas tingidas de laranja, amarelo e verde menta dominando a maior parte do quadro, pequena figura na bicicleta para dar escala, linha do horizonte limpa, pequena silhueta de pássaro nas nuvens coloridas, espaço negativo no topo para texto de legenda, fotografia artística conceitual vibrante, vertical 4:5 --ar 4:5 --v 6
 ```
 
 </details>
@@ -4191,7 +4191,7 @@ Composição vertical 4:5.
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HL8tTKMbYAAKbZd.jpg" width="700" alt="Mulher Correndo com Rabisco Brincalhão">
+<img src="https://image.moge.ai/prompt_media/HL4tuBSbUAAbTn8.jpg" width="700" alt="Bicicleta sob Nuvens Surreais">
 </div>
 
 <br>
@@ -4200,13 +4200,13 @@ Composição vertical 4:5.
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Sairah](https://x.com/Sairah_0) | [X / Twitter](https://x.com/Sairah_0/status/2071424170383364525) | 2026-06-29 |
+| [Shahid Wani](https://x.com/meng_dagg695) | [X / Twitter](https://x.com/meng_dagg695/status/2071143177365688474) | 2026-06-28 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071424170383364525)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071143177365688474)**
 
 </div>
 
@@ -4511,23 +4511,31 @@ Crie uma ilustração elegante de corpo inteiro de uma jovem na moda vestindo [O
 
 ---
 
-### No. 66: Bicicleta sob Nuvens Surreais
+### No. 66: Retrato Feminino com Vento de Verão
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Cria uma fotografia artística surreal de uma mulher de bicicleta sob enormes nuvens coloridas e pictóricas em formato vertical.
+Gera um retrato realista de corpo inteiro de uma jovem ao ar livre, em ângulo baixo, com céu azul de verão e vento forte movendo cabelo e saia.
 
 #### 🌟 Prompt
 
-Fotografia artística surreal e ampla, mulher em bicicleta vintage pedalando por uma estrada vazia, enormes …
+Foto de retrato realista ao ar livre na vertical 9:16, jovem mulher do leste asiático, aparência jovem e …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Fotografia artística surreal e ampla, mulher em bicicleta vintage pedalando por uma estrada vazia, enormes formações de nuvens pictóricas tingidas de laranja, amarelo e verde menta dominando a maior parte do quadro, pequena figura na bicicleta para dar escala, linha do horizonte limpa, pequena silhueta de pássaro nas nuvens coloridas, espaço negativo no topo para texto de legenda, fotografia artística conceitual vibrante, vertical 4:5 --ar 4:5 --v 6
+Foto de retrato realista ao ar livre na vertical 9:16, jovem mulher do leste asiático, aparência jovem e fresca, olhos brilhantes, sorriso natural e suave, textura de pele real, tom de pele saudável e natural.
+
+Blusa branca de manga curta, saia plissada azul-marinho, meias brancas, tênis brancos. Shorts de segurança da mesma cor sob a saia, limpos e visualmente consistentes.
+
+Enquadramento de corpo inteiro da cabeça aos sapatos, ambos os pés visíveis. Forte ângulo baixo natural, amplo céu azul de verão, luz solar intensa, algumas nuvens suaves.
+
+Vento forte de verão soprando o cabelo para cima e para os lados, longos fios de cabelo voando, saia se movendo para fora ao vento, movimento dinâmico limpo e elegante. Pose de corpo levemente inclinada, momento espontâneo de verão, fotografia realista ao ar livre, sensação de foto analógica de verão japonês, leve grão de filme.
+
+Evite pés cortados, pose rígida, pele falsa, distorção facial de grande angular extrema, mechas de cabelo embaraçadas, mãos ruins, pernas ruins, sapatos distorcidos, aparência de CGI, estilo de ilustração.
 ```
 
 </details>
@@ -4535,7 +4543,7 @@ Fotografia artística surreal e ampla, mulher em bicicleta vintage pedalando por
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HL4tuBSbUAAbTn8.jpg" width="700" alt="Bicicleta sob Nuvens Surreais">
+<img src="https://image.moge.ai/prompt_media/HL4kwvxXkAAOzJ-.jpg" width="700" alt="Retrato Feminino com Vento de Verão">
 </div>
 
 <br>
@@ -4544,13 +4552,13 @@ Fotografia artística surreal e ampla, mulher em bicicleta vintage pedalando por
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Shahid Wani](https://x.com/meng_dagg695) | [X / Twitter](https://x.com/meng_dagg695/status/2071143177365688474) | 2026-06-28 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2071133424958447625) | 2026-06-28 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071143177365688474)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071133424958447625)**
 
 </div>
 
@@ -5006,31 +5014,24 @@ Crie uma encantadora ilustração editorial de viagem de {DESTINATION} em um est
 
 ---
 
-### No. 72: Retrato Feminino com Vento de Verão
+### No. 72: Retrato de Beleza com Luz Natural
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Gera um retrato realista de corpo inteiro de uma jovem ao ar livre, em ângulo baixo, com céu azul de verão e vento forte movendo cabelo e saia.
+Cria um close-up ultrarrealista de uma jovem em estilo editorial de beleza, com luz solar dramática e estética de campanha de skincare de luxo.
 
 #### 🌟 Prompt
 
-Foto de retrato realista ao ar livre na vertical 9:16, jovem mulher do leste asiático, aparência jovem e …
+Retrato de beleza ultrarrealista capturado em close-up fechado com uma câmera mirrorless full-frame e uma …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Foto de retrato realista ao ar livre na vertical 9:16, jovem mulher do leste asiático, aparência jovem e fresca, olhos brilhantes, sorriso natural e suave, textura de pele real, tom de pele saudável e natural.
-
-Blusa branca de manga curta, saia plissada azul-marinho, meias brancas, tênis brancos. Shorts de segurança da mesma cor sob a saia, limpos e visualmente consistentes.
-
-Enquadramento de corpo inteiro da cabeça aos sapatos, ambos os pés visíveis. Forte ângulo baixo natural, amplo céu azul de verão, luz solar intensa, algumas nuvens suaves.
-
-Vento forte de verão soprando o cabelo para cima e para os lados, longos fios de cabelo voando, saia se movendo para fora ao vento, movimento dinâmico limpo e elegante. Pose de corpo levemente inclinada, momento espontâneo de verão, fotografia realista ao ar livre, sensação de foto analógica de verão japonês, leve grão de filme.
-
-Evite pés cortados, pose rígida, pele falsa, distorção facial de grande angular extrema, mechas de cabelo embaraçadas, mãos ruins, pernas ruins, sapatos distorcidos, aparência de CGI, estilo de ilustração.
+Retrato de beleza ultrarrealista capturado em close-up fechado com uma câmera mirrorless full-frame e uma lente retrato de 85mm f/1.4. Uma bela jovem com longos cabelos escuros e lisos, pele clara luminosa, sutis sardas naturais no nariz, sobrancelhas grossas e bem cuidadas, longos cílios curvados e marcantes olhos azul-esverdeados claros olha suavemente para a câmera com uma expressão calma e relaxada e lábios nude brilhantes levemente entreabertos. Ela usa maquiagem mínima "sem maquiagem" com a textura natural da pele preservada e pequenos brincos de argola dourados.
+A composição preenche quase todo o quadro com seu rosto, deixando muito pouco fundo visível. Uma luz solar natural dramática entra por uma janela próxima, criando uma sombra diagonal marcante de um lado do rosto enquanto ilumina o outro lado com uma suave luz dourada. Alto alcance dinâmico, contraste cinematográfico, detalhe nítido da pele, poros realistas, brilhos nos olhos, profundidade de campo rasa, fundo neutro suavemente desfocado, fotografia de beleza editorial, estética de campanha de skincare de luxo, ultra-fotorrealista, 8K, HDR, gradação de cor natural, foco extremamente nítido nos olhos, qualidade de revista de moda premium.
 ```
 
 </details>
@@ -5038,7 +5039,7 @@ Evite pés cortados, pose rígida, pele falsa, distorção facial de grande angu
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HL4kwvxXkAAOzJ-.jpg" width="700" alt="Retrato Feminino com Vento de Verão">
+<img src="https://image.moge.ai/prompt_media/HL3jHvoboAAZ5V6.jpg" width="700" alt="Retrato de Beleza com Luz Natural">
 </div>
 
 <br>
@@ -5047,13 +5048,13 @@ Evite pés cortados, pose rígida, pele falsa, distorção facial de grande angu
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2071133424958447625) | 2026-06-28 |
+| [Jahan Zaib](https://x.com/jzaib4269) | [X / Twitter](https://x.com/jzaib4269/status/2071061146912903487) | 2026-06-28 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071133424958447625)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071061146912903487)**
 
 </div>
 
@@ -5321,24 +5322,24 @@ Detalhes de renderização: Padrões de penas e têxteis extremamente intrincado
 
 ---
 
-### No. 78: Retrato de Beleza com Luz Natural
+### No. 78: Anúncio de Moda de Luxo em Paris
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Cria um close-up ultrarrealista de uma jovem em estilo editorial de beleza, com luz solar dramática e estética de campanha de skincare de luxo.
+Cria um anúncio de moda de luxo em preto e branco, estilo editorial parisiense minimalista, com uma modelo elegante e tipografia premium de capa de revista.
 
 #### 🌟 Prompt
 
-Retrato de beleza ultrarrealista capturado em close-up fechado com uma câmera mirrorless full-frame e uma …
+Crie um anúncio de moda de luxo premium em um estilo editorial parisiense minimalista. Uma mulher sofisticada …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Retrato de beleza ultrarrealista capturado em close-up fechado com uma câmera mirrorless full-frame e uma lente retrato de 85mm f/1.4. Uma bela jovem com longos cabelos escuros e lisos, pele clara luminosa, sutis sardas naturais no nariz, sobrancelhas grossas e bem cuidadas, longos cílios curvados e marcantes olhos azul-esverdeados claros olha suavemente para a câmera com uma expressão calma e relaxada e lábios nude brilhantes levemente entreabertos. Ela usa maquiagem mínima "sem maquiagem" com a textura natural da pele preservada e pequenos brincos de argola dourados.
-A composição preenche quase todo o quadro com seu rosto, deixando muito pouco fundo visível. Uma luz solar natural dramática entra por uma janela próxima, criando uma sombra diagonal marcante de um lado do rosto enquanto ilumina o outro lado com uma suave luz dourada. Alto alcance dinâmico, contraste cinematográfico, detalhe nítido da pele, poros realistas, brilhos nos olhos, profundidade de campo rasa, fundo neutro suavemente desfocado, fotografia de beleza editorial, estética de campanha de skincare de luxo, ultra-fotorrealista, 8K, HDR, gradação de cor natural, foco extremamente nítido nos olhos, qualidade de revista de moda premium.
+Crie um anúncio de moda de luxo premium em um estilo editorial parisiense minimalista. Uma mulher sofisticada usando óculos de sol pretos grandes e um casaco de lã preto estruturado com gola alta está em pé com confiança em uma clássica rua parisiense. Ela está posicionada no canto inferior direito da composição, olhando para a esquerda com uma expressão calma e elegante. Seu cabelo está penteado em um coque baixo e liso. O fundo apresenta a icônica arquitetura parisiense com suave profundidade de campo cinematográfica e a Torre Eiffel sutilmente visível ao longe. A imagem inteira é em preto e branco com contraste profundo, iluminação natural suave, detalhes nítidos e uma estética atemporal de alta-costura. O layout lembra a capa de uma revista de luxo com generoso espaço em branco. No topo central, coloque um grande e elegante nome de marca em serifa, com uma pequena localização em maiúsculas acima e um refinado título de coleção abaixo. No lado esquerdo, inclua um slogan de moda em negrito e maiúsculas em fonte sans-serif moderna. Abaixo, adicione uma breve descrição da coleção em tipografia pequena e limpa. Finalize com um rodapé preto minimalista contendo um site, localização da boutique e ícones de redes sociais.
+Branding de luxo, editorial Vogue, estética Harper's Bazaar, layout em grade suíça, tipografia premium, composição minimalista, fotografia cinematográfica, ultrarrealista, lente 85mm, profundidade de campo rasa, luz ambiente suave, monocromático, 8K, qualidade de impressão de revista, pôster vertical A4.
 ```
 
 </details>
@@ -5346,7 +5347,7 @@ A composição preenche quase todo o quadro com seu rosto, deixando muito pouco 
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HL3jHvoboAAZ5V6.jpg" width="700" alt="Retrato de Beleza com Luz Natural">
+<img src="https://image.moge.ai/prompt_media/HL1Q5-mboAAvGQK.jpg" width="700" alt="Anúncio de Moda de Luxo em Paris">
 </div>
 
 <br>
@@ -5355,13 +5356,13 @@ A composição preenche quase todo o quadro com seu rosto, deixando muito pouco 
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Jahan Zaib](https://x.com/jzaib4269) | [X / Twitter](https://x.com/jzaib4269/status/2071061146912903487) | 2026-06-28 |
+| [Heisenberg](https://x.com/rovvmut_) | [X / Twitter](https://x.com/rovvmut_/status/2070900364354969981) | 2026-06-27 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071061146912903487)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2070900364354969981)**
 
 </div>
 
@@ -5658,24 +5659,33 @@ stray cat tail --ar 9:16
 
 ---
 
-### No. 84: Anúncio de Moda de Luxo em Paris
+### No. 84: Pôster Cinematográfico de Profissão
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Cria um anúncio de moda de luxo em preto e branco, estilo editorial parisiense minimalista, com uma modelo elegante e tipografia premium de capa de revista.
+Transforma um retrato em um pôster cinematográfico low-key com iluminação dramática, tipografia 3D do nome da profissão entrelaçada com o sujeito e ícones de ferramentas flutuantes.
 
 #### 🌟 Prompt
 
-Crie um anúncio de moda de luxo premium em um estilo editorial parisiense minimalista. Uma mulher sofisticada …
+A profissão é: PROFISSÃO Edite a foto enviada. Mantenha a pessoa totalmente fotográfica e realista: seu …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Crie um anúncio de moda de luxo premium em um estilo editorial parisiense minimalista. Uma mulher sofisticada usando óculos de sol pretos grandes e um casaco de lã preto estruturado com gola alta está em pé com confiança em uma clássica rua parisiense. Ela está posicionada no canto inferior direito da composição, olhando para a esquerda com uma expressão calma e elegante. Seu cabelo está penteado em um coque baixo e liso. O fundo apresenta a icônica arquitetura parisiense com suave profundidade de campo cinematográfica e a Torre Eiffel sutilmente visível ao longe. A imagem inteira é em preto e branco com contraste profundo, iluminação natural suave, detalhes nítidos e uma estética atemporal de alta-costura. O layout lembra a capa de uma revista de luxo com generoso espaço em branco. No topo central, coloque um grande e elegante nome de marca em serifa, com uma pequena localização em maiúsculas acima e um refinado título de coleção abaixo. No lado esquerdo, inclua um slogan de moda em negrito e maiúsculas em fonte sans-serif moderna. Abaixo, adicione uma breve descrição da coleção em tipografia pequena e limpa. Finalize com um rodapé preto minimalista contendo um site, localização da boutique e ícones de redes sociais.
-Branding de luxo, editorial Vogue, estética Harper's Bazaar, layout em grade suíça, tipografia premium, composição minimalista, fotografia cinematográfica, ultrarrealista, lente 85mm, profundidade de campo rasa, luz ambiente suave, monocromático, 8K, qualidade de impressão de revista, pôster vertical A4.
+A profissão é: PROFISSÃO
+
+Edite a foto enviada. Mantenha a pessoa totalmente fotográfica e realista: seu rosto, pele, cabelo e pose permanecem nítidos e intocados. Reilumine e refaça a gradação do retrato em um estilo cinematográfico dramático e low-key, com uma única luz de contorno quente roçando um lado do rosto e do corpo, sombras profundas do outro lado e uma atmosfera densa de alto contraste.
+
+Substitua o fundo por um rico gradiente radial em vermelho profundo e carmesim quente, coberto por uma sutil textura de pontos halftone, como um pôster de cinema premium. (A cor pode ser trocada, mas mantenha um único tom dramático.)
+
+Atrás do sujeito, renderize a profissão escrita acima como uma tipografia de exibição enorme, em negrito e 3D extrudada, em um tom creme/branco-osso dessaturado. O texto é gravado com profundidade suave e fica na parede do fundo. TÉCNICA CRÍTICA: entrelace esse texto grande com a pessoa em profundidade 3D, de modo que a cabeça e os ombros do sujeito passem NA FRENTE das letras, cobrindo-as parcialmente, enquanto o resto das letras fica ATRÁS da silhueta. Essa sobreposição frente-e-trás cria a profundidade cinematográfica e deve ser claramente visível.
+
+Ao redor dos ombros e do peito do sujeito, faça flutuar de 5 a 7 pequenos ícones brilhantes em formato de quadrado arredondado, estilo app, representando as ferramentas, softwares ou símbolos típicos associados a essa profissão. Incline cada ícone levemente no espaço 3D em ângulos diferentes, como se estivessem suspensos no ar, com reflexos suaves e sombras projetadas delicadas. Mantenha-os limpos, modernos e reconhecíveis.
+
+Visual final: pôster premium, editorial e cinematográfico. Forte gradação de cor quente, sujeito realista e nítido, fundo gráfico marcante. A pessoa permanece a âncora fotográfica no centro.
 ```
 
 </details>
@@ -5683,7 +5693,7 @@ Branding de luxo, editorial Vogue, estética Harper's Bazaar, layout em grade su
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HL1Q5-mboAAvGQK.jpg" width="700" alt="Anúncio de Moda de Luxo em Paris">
+<img src="https://image.moge.ai/prompt_media/HL1BvueWwAAL6Zy.jpg" width="700" alt="Pôster Cinematográfico de Profissão">
 </div>
 
 <br>
@@ -5692,13 +5702,13 @@ Branding de luxo, editorial Vogue, estética Harper's Bazaar, layout em grade su
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Heisenberg](https://x.com/rovvmut_) | [X / Twitter](https://x.com/rovvmut_/status/2070900364354969981) | 2026-06-27 |
+| [Ozan Sihay](https://x.com/ozansihay) | [X / Twitter](https://x.com/ozansihay/status/2070884069882073533) | 2026-06-27 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2070900364354969981)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2070884069882073533)**
 
 </div>
 
@@ -6022,33 +6032,23 @@ Requisito adicional: a atmosfera geral deve ser vibrante e refinada, sem virar u
 
 ---
 
-### No. 90: Pôster Cinematográfico de Profissão
+### No. 90: Retrato Feminino na Hora Dourada
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Transforma um retrato em um pôster cinematográfico low-key com iluminação dramática, tipografia 3D do nome da profissão entrelaçada com o sujeito e ícones de ferramentas flutuantes.
+Cria um retrato cinematográfico ultrarrealista de uma jovem ao ar livre na luz quente do pôr do sol, com pele radiante e atmosfera de verão.
 
 #### 🌟 Prompt
 
-A profissão é: PROFISSÃO Edite a foto enviada. Mantenha a pessoa totalmente fotográfica e realista: seu …
+Retrato em close-up ultrarrealista na hora dourada de uma jovem ao ar livre, olhos suavemente fechados com um …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-A profissão é: PROFISSÃO
-
-Edite a foto enviada. Mantenha a pessoa totalmente fotográfica e realista: seu rosto, pele, cabelo e pose permanecem nítidos e intocados. Reilumine e refaça a gradação do retrato em um estilo cinematográfico dramático e low-key, com uma única luz de contorno quente roçando um lado do rosto e do corpo, sombras profundas do outro lado e uma atmosfera densa de alto contraste.
-
-Substitua o fundo por um rico gradiente radial em vermelho profundo e carmesim quente, coberto por uma sutil textura de pontos halftone, como um pôster de cinema premium. (A cor pode ser trocada, mas mantenha um único tom dramático.)
-
-Atrás do sujeito, renderize a profissão escrita acima como uma tipografia de exibição enorme, em negrito e 3D extrudada, em um tom creme/branco-osso dessaturado. O texto é gravado com profundidade suave e fica na parede do fundo. TÉCNICA CRÍTICA: entrelace esse texto grande com a pessoa em profundidade 3D, de modo que a cabeça e os ombros do sujeito passem NA FRENTE das letras, cobrindo-as parcialmente, enquanto o resto das letras fica ATRÁS da silhueta. Essa sobreposição frente-e-trás cria a profundidade cinematográfica e deve ser claramente visível.
-
-Ao redor dos ombros e do peito do sujeito, faça flutuar de 5 a 7 pequenos ícones brilhantes em formato de quadrado arredondado, estilo app, representando as ferramentas, softwares ou símbolos típicos associados a essa profissão. Incline cada ícone levemente no espaço 3D em ângulos diferentes, como se estivessem suspensos no ar, com reflexos suaves e sombras projetadas delicadas. Mantenha-os limpos, modernos e reconhecíveis.
-
-Visual final: pôster premium, editorial e cinematográfico. Forte gradação de cor quente, sujeito realista e nítido, fundo gráfico marcante. A pessoa permanece a âncora fotográfica no centro.
+Retrato em close-up ultrarrealista na hora dourada de uma jovem ao ar livre, olhos suavemente fechados com um sorriso sereno, rosto levemente inclinado para cima em direção ao sol quente do poente, cabelo castanho escuro solto e ao vento fluindo naturalmente sobre o rosto, pele radiante beijada pelo sol com textura natural e sardas sutis, maquiagem mínima, lábios suaves e brilhantes, vestindo uma blusa de linho branca solta com gola delicada, luz solar âmbar quente e cinematográfica criando belos realces e sombras suaves, profundidade de campo rasa, fundo de céu azul limpo, atmosfera de verão onírica, expressão autêntica e espontânea, textura de pele ultradetalhada, alto alcance dinâmico, lente de retrato 85mm, f/1.8, fotografia de moda profissional, gradação de cor natural, contraste suave, estética editorial de lifestyle, fotorrealista, 8K, qualidade RAW.
 ```
 
 </details>
@@ -6056,7 +6056,7 @@ Visual final: pôster premium, editorial e cinematográfico. Forte gradação de
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HL1BvueWwAAL6Zy.jpg" width="700" alt="Pôster Cinematográfico de Profissão">
+<img src="https://image.moge.ai/prompt_media/HLz1g5xacAAfE3O.jpg" width="700" alt="Retrato Feminino na Hora Dourada">
 </div>
 
 <br>
@@ -6065,13 +6065,13 @@ Visual final: pôster premium, editorial e cinematográfico. Forte gradação de
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Ozan Sihay](https://x.com/ozansihay) | [X / Twitter](https://x.com/ozansihay/status/2070884069882073533) | 2026-06-27 |
+| [Sairah](https://x.com/Sairah_0) | [X / Twitter](https://x.com/Sairah_0/status/2070799885469937965) | 2026-06-27 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2070884069882073533)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2070799885469937965)**
 
 </div>
 
