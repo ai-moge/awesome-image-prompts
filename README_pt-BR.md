@@ -29,29 +29,44 @@ Texto completo do prompt · imagens de prévia · **10 idiomas**
 
 > ℹ️ Esta página mostra os 90 prompts mais recentes de mais de 2400 prompts selecionados. Os prompts são coletados de publicações públicas e creditam seus autores. Para solicitar a remoção, envie um e-mail para **team@moge.ai**.
 >
-> 📊 Última atualização: 2026-07-04.
+> 📊 Última atualização: 2026-07-05.
 
 ---
 
 ## 🎩 Últimos prompts selecionados
 
-### No. 1: Pôster Retrô de Automobilismo
+### No. 1: Sistema de Pôster Gastronômico Dark
 
 ![Categoria: Publicidade e produto](https://img.shields.io/badge/Categoria-Publicidade%20e%20produto-lightgrey)
 
 #### 📚 Descrição
 
-Gera um pôster vertical de automobilismo vintage com um carro herói em vista frontal de ângulo baixo, elementos gráficos geométricos e acabamento editorial de impressão desgastada.
+Cria um pôster vertical de marca gastronômica premium em fundo escuro, com título gigante, um único prato como visual principal e uma barra de informações na base.
 
 #### 🌟 Prompt
 
-Pôster retrô de automobilismo para [CAR], vertical 4:5. Mostre uma vista herói frontal de ângulo baixo do …
+【Tema】: 【preencher o tema】 【Nome da marca】: 【preencher o nome da marca em inglês】 【Nome em chinês】: …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Pôster retrô de automobilismo para [CAR], vertical 4:5. Mostre uma vista herói frontal de ângulo baixo do [CAR] [COLOR], centralizado na composição sobre [SCENERY]. Construa o fundo com profundidade cênica minimalista e elementos gráficos em camadas: uma grande forma de sol, blocos geométricos sobrepostos, painéis inclinados, listras suaves, formas translúcidas e espaço negativo limpo, tudo integrado ao cenário. Adicione um título em negrito com “[TITLE]” no topo, um pequeno logo [BRAND] e um slogan curto com “[SLOGAN]”. Use [PALETTE], desbotamento de impressão vintage, textura de papel desgastado, arranhões sutis, tons levemente descoloridos pelo sol, detalhe automotivo nítido, simetria de pôster e um acabamento editorial refinado inspirado em corridas.
+【Tema】: 【preencher o tema】
+【Nome da marca】: 【preencher o nome da marca em inglês】
+【Nome em chinês】: 【preencher o nome da marca em chinês】
+【Título principal】: 【preencher o título grande】
+【Subtítulo em inglês】: 【preencher o subtítulo em inglês】
+【Proporção】: 【3:4 / 4:5】
+【Cor principal】: 【preencher a cor principal】
+【Cor de destaque】: 【preencher a cor de destaque】
+【Comida do visual principal】: 【preencher o produto】
+【Ação/adereço】: 【preencher a ação/adereço】
+
+Gere um pôster vertical de marca gastronômica premium e escuro na proporção 【Proporção】, com o tema 【Tema】. Use um design de campanha de marca totalmente original, sem copiar textos ou informações de nenhuma referência; apenas aprenda a estrutura de "fundo escuro + título gigante + um único prato como visual principal + poucas marcas de design + barra de informações na base".
+
+Use um fundo escuro na 【Cor principal】 com detalhes na 【Cor de destaque】. No canto superior esquerdo, coloque um logotipo original, o 【Nome da marca】 e o 【Nome em chinês】; na parte superior, um título principal gigante 【Título principal】; no canto superior direito, o subtítulo em inglês 【Subtítulo em inglês】. Na parte central-inferior, coloque a 【Comida do visual principal】 realista e de alta qualidade, criando um momento de degustação por meio de 【Ação/adereço】, com textura nítida e forte apelo apetitoso. Ao redor, adicione poucas curvas, linhas tracejadas, selos circulares e grafismos com aparência de anotação. Na base, crie um módulo de informações em 4 colunas, formando um sistema de marca completo.
+
+O conjunto deve ser sofisticado, contido, com apuro de design e sensação de série, adequado para propostas de marcas gastronômicas e exibição em redes sociais. Evite distorção da comida, adereços errados, apelo promocional barato, layout confuso e baixa nitidez.
 ```
 
 </details>
@@ -59,7 +74,7 @@ Pôster retrô de automobilismo para [CAR], vertical 4:5. Mostre uma vista heró
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMXx1YLb0AA95AL.jpg" width="700" alt="Pôster Retrô de Automobilismo">
+<img src="https://image.moge.ai/prompt_media/HMZOMA9aMAAxiJv.jpg" width="700" alt="Sistema de Pôster Gastronômico Dark">
 </div>
 
 <br>
@@ -68,19 +83,309 @@ Pôster retrô de automobilismo para [CAR], vertical 4:5. Mostre uma vista heró
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Simply Ray](https://x.com/kingofdairyque) | [X / Twitter](https://x.com/kingofdairyque/status/2073329110059978822) | 2026-07-04 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2073430949141127577) | 2026-07-04 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2073329110059978822)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2073430949141127577)**
 
 </div>
 
 ---
 
-### No. 2: Retrato Editorial de Dupla Exposição
+### No. 2: Pôster Editorial Vanguardista
+
+![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
+
+#### 📚 Descrição
+
+Cria um pôster editorial monocromático e sofisticado com grade modular assimétrica, blocos de imagens em preto e detalhes de cor, no estilo suíço-vanguardista de alta moda.
+
+#### 🌟 Prompt
+
+Página de pôster de design gráfico vanguardista, layout editorial elegante, fundo off-white, proporção 4:5. …
+
+<details>
+<summary>Mostrar prompt completo</summary>
+
+```
+Página de pôster de design gráfico vanguardista, layout editorial elegante, fundo off-white, proporção 4:5. Construa uma grade modular assimétrica e limpa com quatro blocos de imagem distintos: um retrato aproximado de alto contraste de [HUMAN], uma fotografia cinematográfica de [CAR], uma imagem marcante de [ANIMAL] e uma fotografia atmosférica de [PLACE], cada uma contida em seu próprio bloco retangular. Use o preto como cor dominante com sutis acentos de [ACCENT1] e [ACCENT2], mínimo mas refinado. Adicione um painel abstrato de distorção ou textura para reforçar a linguagem de design experimental. Inclua um título em negrito com “[TITLE]”, um pequeno logotipo minimalista com “[LOGO]”, microtipografia, colunas curtas de texto editorial, pequenos números de série, divisórias finas, pequenas legendas e um elegante espaço negativo. Estética de design gráfico de alta moda, página de revista de nicho, composição refinada suíça-vanguardista, tipografia nítida, fotografia monocromática, sutil variação de desfoque e textura, direção de arte sofisticada.
+```
+
+</details>
+
+#### 🌁 Imagem gerada
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HMZQrf9WcAAsPfH.jpg" width="700" alt="Pôster Editorial Vanguardista">
+</div>
+
+<br>
+
+<div align="center">
+
+| Autor | Fonte | Publicado |
+| :---: | :---: | :---: |
+| [Anissa](https://x.com/SimplyAnnisa) | [X / Twitter](https://x.com/SimplyAnnisa/status/2073433391530455535) | 2026-07-04 |
+
+</div>
+
+<div align="center">
+
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2073433391530455535)**
+
+</div>
+
+---
+
+### No. 3: Mockup de Embalagem Premium em Pote de Vidro
+
+![Categoria: Branding e Interface](https://img.shields.io/badge/Categoria-Branding%20e%20Interface-lightgrey)
+
+#### 📚 Descrição
+
+Cria um mockup fotorrealista de embalagem premium com um pote de vidro transparente, rótulo minimalista de luxo e cenário de estúdio comercial sofisticado.
+
+#### 🌟 Prompt
+
+Crie um mockup de embalagem de produto premium ultrarrealista com um pote de vidro transparente e tampa de …
+
+<details>
+<summary>Mostrar prompt completo</summary>
+
+```
+Crie um mockup de embalagem de produto premium ultrarrealista com um pote de vidro transparente e tampa de rosca preta fosca, fotografado em um cenário de estúdio comercial de alto nível. Projete um rótulo limpo e luxuoso envolvendo o pote, usando tipografia minimalista elegante, amplo espaço em branco e uma paleta monocromática refinada com sutis acentos dourados.
+
+O rótulo deve incluir:
+
+Um logotipo de marca premium simples centralizado no topo
+
+Nome do produto grande em tipografia serifada sofisticada
+
+Um slogan premium curto abaixo do logotipo
+
+Selo de qualidade "100% Natural"
+
+Informação de peso líquido
+
+Lista mínima de ingredientes
+
+Quatro ícones de ingredientes em estilo de linha dispostos verticalmente (ex.: amêndoa, sal marinho, folha, coração)
+
+Iconografia moderna com espaçamento equilibrado
+
+Gráficos vetoriais nítidos e qualidade de impressão impecável
+
+Preencha o pote com um produto natural e encorpado (como manteiga de amêndoa, mel, manteiga de amendoim ou geleia) mostrando textura realista através do vidro transparente. Adicione reflexos sutis no vidro, realces realistas, refração precisa e sombras ambientais suaves para uma aparência fotorrealista.
+
+Coloque o pote sobre uma bancada de madeira premium cercada por alguns ingredientes naturais que combinem com o produto (amêndoas espalhadas, ervas, frutas ou sementes), com um pano de linho macio e folhagem verde desfocada ao fundo. Use iluminação natural quente com profundidade de campo cinematográfica, bokeh suave, composição de fotografia de produto premium, foco ultranítido, texturas de materiais realistas, estética de branding de luxo, qualidade publicitária, design de embalagem digno de revista, resolução ultra-alta 8K, hiper-realista, limpo, elegante, moderno, minimalista, fotografia de estúdio comercial.
+```
+
+</details>
+
+#### 🌁 Imagem gerada
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HMYKwxpXIAESNoa.jpg" width="700" alt="Mockup de Embalagem Premium em Pote de Vidro">
+</div>
+
+<br>
+
+<div align="center">
+
+| Autor | Fonte | Publicado |
+| :---: | :---: | :---: |
+| [Abkr Sadiq](https://x.com/abs_uiux) | [X / Twitter](https://x.com/abs_uiux/status/2073356522260689343) | 2026-07-04 |
+
+</div>
+
+<div align="center">
+
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2073356522260689343)**
+
+</div>
+
+---
+
+### No. 4: Pôsteres de Eventos de Luxo (Conceito Fã)
+
+![Categoria: Materiais de marketing](https://img.shields.io/badge/Categoria-Materiais%20de%20marketing-lightgrey)
+
+#### 📚 Descrição
+
+Cria uma série de pôsteres e convites de eventos de luxo — gala, festa, casamento e conferência — com estética editorial refinada e rótulos claros de conceito não oficial.
+
+#### 🌟 Prompt
+
+Crie um pôster de evento de luxo para um conceito não oficial "Met Gala After Dark", elegante cena de grande …
+
+<details>
+<summary>Mostrar prompt completo</summary>
+
+```
+Crie um pôster de evento de luxo para um conceito não oficial "Met Gala After Dark", elegante cena de grande escadaria inspirada no Metropolitan Museum of Art, silhueta de alta moda no estilo Zendaya como figura editorial, iluminação cinematográfica quente, bloco de espaço reservado para data/hora/local, tipografia refinada, design de convite premium, cores ricas, claramente rotulado "conceito de fã, não oficial".
+
+Crie um flyer de balada para "Coachella Desert House Night", luzes neon, cabine de DJ, multidão animada, palmeiras e poeira do deserto, tipografia ousada, CTA de mesa VIP, estilo de pôster de vida noturna de alto contraste, atmosfera de festival inspirada na Coachella real, conceito de festa não oficial.
+
+Gere um pôster de convite de casamento para o "conceito de renovação de votos de David & Victoria Beckham", romântica propriedade rural inglesa, rosas brancas, tipografia serifada/manuscrita elegante, fundo creme suave, visual atemporal de papelaria de luxo, tratamento editorial de bom gosto, claramente marcado como conceito fictício.
+
+Crie um pôster de conferência corporativa para "Apple WWDC Design Futures", tratamento de retrato do palestrante principal inspirado em Tim Cook, palco moderno estilo Apple Park, destaques da programação, layout profissional limpo, branding de evento de negócios premium, tipografia minimalista estilo Apple, claramente rotulado como conceito não oficial.
+```
+
+</details>
+
+#### 🌁 Imagem gerada
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HMW7JXHXgAA5EX6.jpg" width="700" alt="Pôsteres de Eventos de Luxo (Conceito Fã)">
+</div>
+
+<br>
+
+<div align="center">
+
+| Autor | Fonte | Publicado |
+| :---: | :---: | :---: |
+| [Pan](https://x.com/sebatheepan) | [X / Twitter](https://x.com/sebatheepan/status/2073269346143445209) | 2026-07-04 |
+
+</div>
+
+<div align="center">
+
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2073269346143445209)**
+
+</div>
+
+---
+
+### No. 5: Ilustração Artesanal em Papel Recortado
+
+![Categoria: Ilustração e IP](https://img.shields.io/badge/Categoria-Ilustra%C3%A7%C3%A3o%20e%20IP-lightgrey)
+
+#### 📚 Descrição
+
+Cria uma ilustração artesanal de papel recortado em camadas coloridas, com efeito de profundidade suave e estética moderna e lúdica.
+
+#### 🌟 Prompt
+
+```
+Uma ilustração artesanal de papel recortado de um [tema], texturas de papel coloridas em camadas, suave efeito de profundidade com sombra, aparência artesanal, composição limpa em camadas, estética de design moderna e lúdica.
+```
+
+#### 🌁 Imagem gerada
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HMYmpQcXYAAtfvg.jpg" width="700" alt="Ilustração Artesanal em Papel Recortado">
+</div>
+
+<br>
+
+<div align="center">
+
+| Autor | Fonte | Publicado |
+| :---: | :---: | :---: |
+| [Zephyra Leigh](https://x.com/ZephyraLeigh) | [X / Twitter](https://x.com/ZephyraLeigh/status/2073387175950082282) | 2026-07-04 |
+
+</div>
+
+<div align="center">
+
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2073387175950082282)**
+
+</div>
+
+---
+
+### No. 6: Retrato ao Pôr do Sol com Flores
+
+![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
+
+#### 📚 Descrição
+
+Retrato editorial ultrarrealista de uma mulher cobrindo o rosto com a mão adornada de flores, sob a luz dourada do entardecer.
+
+#### 🌟 Prompt
+
+Fotografia de retrato ultrarrealista de uma jovem com longos cabelos ondulados castanho-escuros, usando uma …
+
+<details>
+<summary>Mostrar prompt completo</summary>
+
+```
+Fotografia de retrato ultrarrealista de uma jovem com longos cabelos ondulados castanho-escuros, usando uma jaqueta de couro marrom vintage grande, ao ar livre diante de um muro de pedra rústico durante a hora dourada. Ela cobre a maior parte do rosto com uma mão colocada verticalmente sobre os olhos e o nariz, criando uma estética misteriosa. Flores coloridas frescas estão presas à sua mão e dedos: uma flor roxa escura centralizada na mão, uma flor vermelha brilhante em um dedo e uma flor rosa suave perto do pulso. Uma flor pálida rosada semelhante a uma margarida está atrás da orelha. A luz solar quente ilumina o cabelo e a jaqueta de lado, criando realces ricos, sombras suaves e contraste cinematográfico. Textura de pele natural, fios de cabelo realistas, profundidade de campo rasa, bokeh cremoso ao fundo, estilo de moda editorial atmosférico, composição espontânea, tons terrosos suaves, altamente detalhado, fotografia DSLR, lente 85mm, f/1.8, fotorrealista, foco ultra nítido, qualidade 8K, iluminação natural externa, estética de revista de moda de luxo, retrato vertical, composição centralizada.
+
+Prompt Negativo:
+
+desfocado, baixa qualidade, dedos extras, mão distorcida, rosto totalmente visível, iluminação superexposta, desenho animado, anime, CGI, flores irreais, flores duplicadas, anatomia ruim, pele plástica, marca d'água, texto, logotipo, mão cortada, olhos deformados, cores supersaturadas, fundo ruidoso, iluminação artificial, desfoque de movimento.
+```
+
+</details>
+
+#### 🌁 Imagem gerada
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HMZhTZPaIAEh7Wi.jpg" width="700" alt="Retrato ao Pôr do Sol com Flores">
+</div>
+
+<br>
+
+<div align="center">
+
+| Autor | Fonte | Publicado |
+| :---: | :---: | :---: |
+| [auqib](https://x.com/auqibhabib) | [X / Twitter](https://x.com/auqibhabib/status/2073451701089320968) | 2026-07-04 |
+
+</div>
+
+<div align="center">
+
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2073451701089320968)**
+
+</div>
+
+---
+
+### No. 7: Doodle Divertido em Foto de Produto
+
+![Categoria: Publicidade e produto](https://img.shields.io/badge/Categoria-Publicidade%20e%20produto-lightgrey)
+
+#### 📚 Descrição
+
+Adiciona um personagem rabiscado à mão em estilo linha preta sobre uma foto de produto realista, com balão de texto manuscrito e fundo claro.
+
+#### 🌟 Prompt
+
+```
+Pegue esta foto de produto e adicione por cima um personagem rabiscado à mão e divertido — estilo simples de linha preta, braços e pernas de desenho animado, rosto expressivo mostrando [EMOTION]. Adicione um pequeno balão de texto em estilo manuscrito dizendo '[CAPTION]'. Mantenha a foto do produto intacta e realista, fundo limpo branco/cinza claro.
+```
+
+#### 🌁 Imagem gerada
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HMY43QFboAACZ3v.jpg" width="700" alt="Doodle Divertido em Foto de Produto">
+</div>
+
+<br>
+
+<div align="center">
+
+| Autor | Fonte | Publicado |
+| :---: | :---: | :---: |
+| [simeon-sanai](https://x.com/Naiknelofar788) | [X / Twitter](https://x.com/Naiknelofar788/status/2073407209753788771) | 2026-07-04 |
+
+</div>
+
+<div align="center">
+
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2073407209753788771)**
+
+</div>
+
+---
+
+### No. 8: Retrato Editorial de Dupla Exposição
 
 ![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
 
@@ -125,7 +430,7 @@ Crie um retrato-obra-prima em dupla exposição, vertical 9:16, 8K ultra-HD, hip
 
 ---
 
-### No. 3: Fundo Virtual de Marca Pessoal
+### No. 9: Fundo Virtual de Marca Pessoal
 
 ![Categoria: Branding e Interface](https://img.shields.io/badge/Categoria-Branding%20e%20Interface-lightgrey)
 
@@ -206,7 +511,7 @@ Especificações de saída:
 
 ---
 
-### No. 4: Pôster 3D 'Welcome to July'
+### No. 10: Pôster 3D 'Welcome to July'
 
 ![Categoria: Materiais de marketing](https://img.shields.io/badge/Categoria-Materiais%20de%20marketing-lightgrey)
 
@@ -252,45 +557,24 @@ Adicione uma tipografia grande e em negrito branca atrás de mim que diz "JULY",
 
 ---
 
-### No. 5: Retrato Rinpa Decorativo
+### No. 11: Perseguição Divertida de Corgi em Adesivo
 
 ![Categoria: Ilustração e IP](https://img.shields.io/badge/Categoria-Ilustra%C3%A7%C3%A3o%20e%20IP-lightgrey)
 
 #### 📚 Descrição
 
-Reinterpreta a imagem de entrada como uma pintura japonesa Rinpa, preservando o charme do personagem com fundo dourado, flores, água fluida e amplo espaço em branco.
+Cria um adesivo 3D humorístico de uma jovem correndo perseguida por um corgi, sobreposto a uma foto real de um parque ensolarado.
 
 #### 🌟 Prompt
 
-Com base na imagem de entrada, reconstrua-a como uma pintura japonesa decorativa e poética que evoque o …
+Um design de adesivo vibrante e humorístico em estilo 3D sobreposto a uma fotografia real de um caminho …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Com base na imagem de entrada, reconstrua-a como uma pintura japonesa decorativa e poética que evoque o estilo Rinpa, preservando plenamente o charme da pessoa ou personagem.
-
-O mais importante é não perder o charme original da pessoa ou personagem da imagem de entrada. Mantenha firmemente o núcleo daquilo que a torna única: traços do rosto, a impressão dos olhos, o penteado, a cor do cabelo, a expressão, a postura e a atmosfera. Sobre isso, traduza a apresentação geral, a composição, o fundo, o espaço em branco e a decoratividade para a sensibilidade estética Rinpa.
-
-O objetivo não é apenas dar um ar japonês ou vestir um quimono. Mantendo o charme da pessoa como protagonista, reconstrua-a como obra de arte por meio do amplo espaço em branco característico do Rinpa, dos planos de cor achatados, da decoratividade refinada, da composição fluida e da atmosfera de fundo dourado ou de biombos.
-
-Primeiro, leia com cuidado o núcleo do charme da pessoa na imagem de entrada. Valorize especialmente a impressão do rosto, a atmosfera dos olhos, o fluxo do cabelo, a temperatura emocional da expressão e a fofura ou a serenidade do personagem. Na imagem final, não a transforme em outra pessoa; faça com que o charme da imagem original seja imediatamente reconhecível.
-
-A pose e a composição podem ser alteradas para tornar a imagem final mais atraente. Reconstrua com flexibilidade a direção do corpo, a forma de mostrá-lo, a posição das mãos, o olhar e o enquadramento. Porém, não perca a atmosfera característica da pessoa da imagem original. A composição deve transmitir o refinado espaço em branco do Rinpa e um senso de fluxo na cena. Não a deixe simétrica demais; dê-lhe uma assimetria e um ritmo naturais.
-
-No fundo e na decoração, incorpore motivos que evoquem o Rinpa. Disponha, de forma decorativa e elegante, amplos espaços em branco que aproveitem o fundo dourado ou tons suaves, água corrente, nuvens, o fluir do vento, flores, ramos, plantas sazonais e curvas semelhantes a ondas. Contudo, não sobrecarregue de elementos nem deixe o fundo virar protagonista. Trate a decoração como algo que realça a pessoa.
-
-Represente plantas e motivos naturais com a simplicidade e a estilização próprias do Rinpa. Não os desenhe realistas demais em detalhes; disponha-os como formas achatadas e refinadas. Ao incluir sensação sazonal, não seja explicativo demais; trate-a apenas como lirismo e decoratividade da cena.
-
-As cores devem ser elegantes e decorativas, à maneira do Rinpa. Centre-se em ouro, cru, tinta nanquim, azul-ultramar, verde-azulado, vermelhão, branco e tons suaves de verde, com uma paleta serena mas com um toque de esplendor. Evite a sensação neon moderna, o brilho intenso e o aspecto digital cintilante. A pintura deve ser achatada e organizada, mostrando a beleza dos planos.
-
-As linhas devem ser delicadas e organizadas; contenha os fortes realces e a sensação de tinta espessa da animação moderna. Em vez de exagerar na tridimensionalidade, priorize a planaridade, a decoratividade e a beleza do espaço em branco. Mantendo o charme dos traços da pessoa da imagem original, dê à cena inteira a serenidade e a dignidade de uma pintura.
-
-O figurino não precisa reproduzir exatamente o da imagem original, mas redesenhe-o para combinar naturalmente com o charme da pessoa. Mesmo ao aproximá-lo do traje japonês, não faça um mero cosplay de quimono nem abuse de padrões japoneses chamativos. Priorize a harmonia entre a pessoa e a cena como um todo, mais do que o figurino em si.
-
-Não inclua textos legíveis na cena. Não a transforme excessivamente em um pôster; busque a perfeição de algo que se sustente como uma única pintura.
-
-No conjunto, faça uma obra silenciosa e esplêndida em que quem a vê sinta primeiro que "o charme da pessoa ou personagem original está bem preservado" e, sobre isso, que "nela habitam a beleza do espaço em branco, da decoração, do fundo dourado, das flores e do fluxo que evocam o Rinpa".
+Um design de adesivo vibrante e humorístico em estilo 3D sobreposto a uma fotografia real de um caminho ensolarado em um parque urbano. Uma jovem asiática fofa é capturada em uma pose dinâmica de corrida, com o corpo inclinado para frente. Ela usa um boné de beisebol amarelo brilhante que está justamente saindo de sua cabeça, levado por uma rajada repentina de vento. Uma mão se estende para trás desesperadamente, com um borrão de movimento tentando agarrá-lo. A outra mão segura uma casquinha de sorvete pela metade, com a bola começando a escorregar comicamente. Sua expressão é de puro terror encenado, olhos arregalados, boca aberta em um grito silencioso. Atrás dela, um corgi pequeno, enérgico e um pouco bobo está latindo, com as pernas em borrão de movimento. O estilo artístico mistura caricatura divertida com contornos marcantes e proporções exageradas contra o fundo natural desfocado de grama verde, árvores e um playground distante. Linhas de movimento enfatizam a perseguição. Cores vivas e saturadas no adesivo, iluminação plana mas intensa. Um rabo de gato vadio é um elemento de adesivo que se enrola de um banco de parque real no canto inferior esquerdo. Lúdico, pastelão, energia cinética.
+ângulo holandês, rabo de gato vadio --ar 3:4 ratio
 ```
 
 </details>
@@ -298,7 +582,7 @@ No conjunto, faça uma obra silenciosa e esplêndida em que quem a vê sinta pri
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMWbnDSa8AAdGQ0.jpg" width="700" alt="Retrato Rinpa Decorativo">
+<img src="https://image.moge.ai/prompt_media/HMWtBpPbkAA3pBg.jpg" width="700" alt="Perseguição Divertida de Corgi em Adesivo">
 </div>
 
 <br>
@@ -307,19 +591,19 @@ No conjunto, faça uma obra silenciosa e esplêndida em que quem a vê sinta pri
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [きー from KiAI](https://x.com/kiAI_stable) | [X / Twitter](https://x.com/kiAI_stable/status/2073234320383410216) | 2026-07-04 |
+| [Maverick \| AI](https://x.com/RizwanAly07) | [X / Twitter](https://x.com/RizwanAly07/status/2073253495814451402) | 2026-07-04 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2073234320383410216)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2073253495814451402)**
 
 </div>
 
 ---
 
-### No. 6: Colagem 3×3 de Personagens da Mesma Mulher
+### No. 12: Colagem 3×3 de Personagens da Mesma Mulher
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
@@ -402,28 +686,23 @@ Estilo geral: Estética branca minimalista, divertidos rabiscos pretos desenhado
 
 ---
 
-### No. 7: Cena de Diorama de Planejamento de Viagem com eSIM
+### No. 13: Pôster Retrô de Automobilismo
 
 ![Categoria: Publicidade e produto](https://img.shields.io/badge/Categoria-Publicidade%20e%20produto-lightgrey)
 
 #### 📚 Descrição
 
-Cria uma cena de mesa premium de planejamento de viagem com mapa, marcos em papercraft e um smartphone mostrando um eSIM de conectividade, em estilo diorama de mídia mista.
+Gera um pôster vertical de automobilismo vintage com um carro herói em vista frontal de ângulo baixo, elementos gráficos geométricos e acabamento editorial de impressão desgastada.
 
 #### 🌟 Prompt
 
-Uma cena de mesa premium de planejamento de viagem para [LOCATION], fotografada de um ângulo ligeiramente …
+Pôster retrô de automobilismo para [CAR], vertical 4:5. Mostre uma vista herói frontal de ângulo baixo do …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Uma cena de mesa premium de planejamento de viagem para [LOCATION], fotografada de um ângulo ligeiramente elevado. Um mapa detalhado de [LOCATION] repousa sobre uma mesa de madeira quente sob um aconchegante abajur preto. Emergindo do mapa há marcos artesanais em papercraft, atrações icônicas, paisagens e destaques culturais de [LOCATION], posicionados em suas localizações geográficas aproximadas.
-Um pequeno personagem viajante com mochila e mala de rodinhas segue uma rota pontilhada vermelha pelo mapa, criando uma história visual de exploração. O viajante está no meio da jornada entre destinos.
-Um smartphone moderno exibe uma tela de conectividade de viagem "[LOCATION] eSIM". Ao redor do mapa há acessórios de planejamento de viagem incluindo um caderno de itinerário, cartões-postais, câmera, passaporte, livros de viagem e souvenirs temáticos locais.
-Estilo diorama de mídia mista, arquitetura intrincada em papercraft, terreno de papel em camadas, árvores em miniatura, objetos de mesa realistas, iluminação cinematográfica quente, profundidade de campo rasa, texturas altamente detalhadas, fotografia editorial de viagem, estética Pinterest, publicidade comercial premium, ultrarrealista, qualidade 8k, narrativa rica, composição limpa.
-Inclua estes destaques de [LOCATION]: [LANDMARK LIST].
-Paleta de cores inspirada em [LOCATION'S NATURAL/CULTURAL COLORS].
+Pôster retrô de automobilismo para [CAR], vertical 4:5. Mostre uma vista herói frontal de ângulo baixo do [CAR] [COLOR], centralizado na composição sobre [SCENERY]. Construa o fundo com profundidade cênica minimalista e elementos gráficos em camadas: uma grande forma de sol, blocos geométricos sobrepostos, painéis inclinados, listras suaves, formas translúcidas e espaço negativo limpo, tudo integrado ao cenário. Adicione um título em negrito com “[TITLE]” no topo, um pequeno logo [BRAND] e um slogan curto com “[SLOGAN]”. Use [PALETTE], desbotamento de impressão vintage, textura de papel desgastado, arranhões sutis, tons levemente descoloridos pelo sol, detalhe automotivo nítido, simetria de pôster e um acabamento editorial refinado inspirado em corridas.
 ```
 
 </details>
@@ -431,7 +710,7 @@ Paleta de cores inspirada em [LOCATION'S NATURAL/CULTURAL COLORS].
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMWMUThbkAEBgH2.jpg" width="700" alt="Cena de Diorama de Planejamento de Viagem com eSIM">
+<img src="https://image.moge.ai/prompt_media/HMXx1YLb0AA95AL.jpg" width="700" alt="Pôster Retrô de Automobilismo">
 </div>
 
 <br>
@@ -440,19 +719,19 @@ Paleta de cores inspirada em [LOCATION'S NATURAL/CULTURAL COLORS].
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [simeon-sanai](https://x.com/Naiknelofar788) | [X / Twitter](https://x.com/Naiknelofar788/status/2073217493913801191) | 2026-07-04 |
+| [Simply Ray](https://x.com/kingofdairyque) | [X / Twitter](https://x.com/kingofdairyque/status/2073329110059978822) | 2026-07-04 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2073217493913801191)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2073329110059978822)**
 
 </div>
 
 ---
 
-### No. 8: Pôster Tipográfico de Nova York
+### No. 14: Pôster Tipográfico de Nova York
 
 ![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
 
@@ -513,7 +792,7 @@ vetor plano premium, pôster de viagem minimalista, ilustração geométrica, br
 
 ---
 
-### No. 9: Logo 3D de Tinta Líquida Brilhante
+### No. 15: Logo 3D de Tinta Líquida Brilhante
 
 ![Categoria: Branding e Interface](https://img.shields.io/badge/Categoria-Branding%20e%20Interface-lightgrey)
 
@@ -586,7 +865,7 @@ Câmera: lente 50mm, vista frontal plana, distorção de perspectiva zero. Rende
 
 ---
 
-### No. 10: Pôster Esportivo Cartoon-Realista Misto
+### No. 16: Pôster Esportivo Cartoon-Realista Misto
 
 ![Categoria: Materiais de marketing](https://img.shields.io/badge/Categoria-Materiais%20de%20marketing-lightgrey)
 
@@ -653,25 +932,45 @@ Cria pôsteres esportivos 16:9 que fundem um atleta cartoon 3D exagerado com um 
 
 ---
 
-### No. 11: Retrato Esboço Semirrealista
+### No. 17: Retrato Rinpa Decorativo
 
 ![Categoria: Ilustração e IP](https://img.shields.io/badge/Categoria-Ilustra%C3%A7%C3%A3o%20e%20IP-lightgrey)
 
 #### 📚 Descrição
 
-Cria um retrato editorial semirrealista que funde grafite refinado e linhas de quadrinhos com paleta neutra e fundo arquitetônico minimalista.
+Reinterpreta a imagem de entrada como uma pintura japonesa Rinpa, preservando o charme do personagem com fundo dourado, flores, água fluida e amplo espaço em branco.
 
 #### 🌟 Prompt
 
-Retrato esboço digital semirrealista ultradetalhado que combina ilustração refinada a grafite, arte de …
+Com base na imagem de entrada, reconstrua-a como uma pintura japonesa decorativa e poética que evoque o …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Retrato esboço digital semirrealista ultradetalhado que combina ilustração refinada a grafite, arte de retrato editorial contemporânea e sutis traços de quadrinhos. Linhas de contorno a tinta limpas, porém expressivas, com hachuras delicadas e finas texturas de gravura. Renderização suave e natural da pele com poros realistas, sardas tênues, tons suaves de rubor, brilhos translúcidos e transições tonais suaves. Olhos altamente detalhados com reflexos brilhantes, cílios longos e naturais e fios de sobrancelha nítidos definidos individualmente.
-Estética elegante desenhada à mão com detalhamento facial meticuloso, sombreamento sutil de line-art e coloração digital pictórica. Cabelo renderizado com fios fluidos ultrafinos, volume em camadas e separação de textura realista. Fusão equilibrada de esboço e realismo, onde os traços permanecem visíveis sob superfícies pictóricas suaves. Iluminação suave de luz do dia ambiente, brilhos difusos, gradientes de sombra naturais e contraste cinematográfico de retrato.
-Paleta de cores neutra e suave dominada por bege quente, marfim suave, taupe pálido, marrom empoeirado, carvão suave e tons de pele delicados. Fundo minimalista em line-art arquitetônico com contornos monocromáticos leves, baixa distração visual e profundidade refinada. Qualidade sofisticada de ilustração de revista, renderização ultralimpa, artesanato premium de retrato digital, acabamento altamente polido, proporções realistas, elegância sutil e estética de retrato contemporânea atemporal.
+Com base na imagem de entrada, reconstrua-a como uma pintura japonesa decorativa e poética que evoque o estilo Rinpa, preservando plenamente o charme da pessoa ou personagem.
+
+O mais importante é não perder o charme original da pessoa ou personagem da imagem de entrada. Mantenha firmemente o núcleo daquilo que a torna única: traços do rosto, a impressão dos olhos, o penteado, a cor do cabelo, a expressão, a postura e a atmosfera. Sobre isso, traduza a apresentação geral, a composição, o fundo, o espaço em branco e a decoratividade para a sensibilidade estética Rinpa.
+
+O objetivo não é apenas dar um ar japonês ou vestir um quimono. Mantendo o charme da pessoa como protagonista, reconstrua-a como obra de arte por meio do amplo espaço em branco característico do Rinpa, dos planos de cor achatados, da decoratividade refinada, da composição fluida e da atmosfera de fundo dourado ou de biombos.
+
+Primeiro, leia com cuidado o núcleo do charme da pessoa na imagem de entrada. Valorize especialmente a impressão do rosto, a atmosfera dos olhos, o fluxo do cabelo, a temperatura emocional da expressão e a fofura ou a serenidade do personagem. Na imagem final, não a transforme em outra pessoa; faça com que o charme da imagem original seja imediatamente reconhecível.
+
+A pose e a composição podem ser alteradas para tornar a imagem final mais atraente. Reconstrua com flexibilidade a direção do corpo, a forma de mostrá-lo, a posição das mãos, o olhar e o enquadramento. Porém, não perca a atmosfera característica da pessoa da imagem original. A composição deve transmitir o refinado espaço em branco do Rinpa e um senso de fluxo na cena. Não a deixe simétrica demais; dê-lhe uma assimetria e um ritmo naturais.
+
+No fundo e na decoração, incorpore motivos que evoquem o Rinpa. Disponha, de forma decorativa e elegante, amplos espaços em branco que aproveitem o fundo dourado ou tons suaves, água corrente, nuvens, o fluir do vento, flores, ramos, plantas sazonais e curvas semelhantes a ondas. Contudo, não sobrecarregue de elementos nem deixe o fundo virar protagonista. Trate a decoração como algo que realça a pessoa.
+
+Represente plantas e motivos naturais com a simplicidade e a estilização próprias do Rinpa. Não os desenhe realistas demais em detalhes; disponha-os como formas achatadas e refinadas. Ao incluir sensação sazonal, não seja explicativo demais; trate-a apenas como lirismo e decoratividade da cena.
+
+As cores devem ser elegantes e decorativas, à maneira do Rinpa. Centre-se em ouro, cru, tinta nanquim, azul-ultramar, verde-azulado, vermelhão, branco e tons suaves de verde, com uma paleta serena mas com um toque de esplendor. Evite a sensação neon moderna, o brilho intenso e o aspecto digital cintilante. A pintura deve ser achatada e organizada, mostrando a beleza dos planos.
+
+As linhas devem ser delicadas e organizadas; contenha os fortes realces e a sensação de tinta espessa da animação moderna. Em vez de exagerar na tridimensionalidade, priorize a planaridade, a decoratividade e a beleza do espaço em branco. Mantendo o charme dos traços da pessoa da imagem original, dê à cena inteira a serenidade e a dignidade de uma pintura.
+
+O figurino não precisa reproduzir exatamente o da imagem original, mas redesenhe-o para combinar naturalmente com o charme da pessoa. Mesmo ao aproximá-lo do traje japonês, não faça um mero cosplay de quimono nem abuse de padrões japoneses chamativos. Priorize a harmonia entre a pessoa e a cena como um todo, mais do que o figurino em si.
+
+Não inclua textos legíveis na cena. Não a transforme excessivamente em um pôster; busque a perfeição de algo que se sustente como uma única pintura.
+
+No conjunto, faça uma obra silenciosa e esplêndida em que quem a vê sinta primeiro que "o charme da pessoa ou personagem original está bem preservado" e, sobre isso, que "nela habitam a beleza do espaço em branco, da decoração, do fundo dourado, das flores e do fluxo que evocam o Rinpa".
 ```
 
 </details>
@@ -679,7 +978,7 @@ Paleta de cores neutra e suave dominada por bege quente, marfim suave, taupe pá
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMRw-U-bYAAQ4fp.jpg" width="700" alt="Retrato Esboço Semirrealista">
+<img src="https://image.moge.ai/prompt_media/HMWbnDSa8AAdGQ0.jpg" width="700" alt="Retrato Rinpa Decorativo">
 </div>
 
 <br>
@@ -688,19 +987,19 @@ Paleta de cores neutra e suave dominada por bege quente, marfim suave, taupe pá
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [zayan](https://x.com/HustleXR) | [X / Twitter](https://x.com/HustleXR/status/2072905952094040099) | 2026-07-03 |
+| [きー from KiAI](https://x.com/kiAI_stable) | [X / Twitter](https://x.com/kiAI_stable/status/2073234320383410216) | 2026-07-04 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072905952094040099)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2073234320383410216)**
 
 </div>
 
 ---
 
-### No. 12: Retrato Editorial de Moda em Vermelho
+### No. 18: Retrato Editorial de Moda em Vermelho
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
@@ -745,55 +1044,97 @@ Retrato editorial de moda surreal, mulher com chapéu de aba larga totalmente br
 
 ---
 
-### No. 13: Pôster de Anúncio de Detergente Premium
+### No. 19: Pôster de Verão Starbucks Chase the Sun
 
 ![Categoria: Publicidade e produto](https://img.shields.io/badge/Categoria-Publicidade%20e%20produto-lightgrey)
 
 #### 📚 Descrição
 
-Cria um pôster publicitário premium de detergente com um modelo sorridente segurando o produto, efeitos de bolhas e água, e tipografia de marketing rica.
+Cria um pôster de campanha de verão premium da Starbucks em um beach club na golden hour, com bebida gelada em destaque, food styling e tipografia vibrante.
 
 #### 🌟 Prompt
 
-Crie um pôster publicitário premium e sofisticado para uma marca de detergente para roupas. Um jovem negro …
+CRIE UMA CAMPANHA DE VERÃO ULTRA-PREMIUM DA STARBUCKS INTITULADA: CHASE THE SUN. "Cada gole tem gosto de …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Crie um pôster publicitário premium e sofisticado para uma marca de detergente para roupas. Um jovem negro sorridente está de pé com confiança em uma lavanderia moderna, segurando uma grande embalagem de detergente com as duas mãos na altura do peito, olhando diretamente para a câmera com uma expressão amigável e confiável. A embalagem do detergente é o ponto focal principal, com uma paleta vibrante de azul e branco com acabamento brilhante, efeitos dinâmicos de respingos de água, bolhas de sabão, brilhos cintilantes, roupas brancas bem dobradas e uma estética de marca premium de limpeza doméstica.
+CRIE UMA CAMPANHA DE VERÃO ULTRA-PREMIUM DA STARBUCKS INTITULADA:
 
-O fundo é uma lavanderia moderna e iluminada com máquinas de lavar suavemente desfocadas por profundidade de campo rasa. Adicione bolhas flutuantes realistas, gotas de água, raios de luz brilhantes e gradientes azuis frescos por toda a composição para criar uma atmosfera limpa e refrescante.
+CHASE THE SUN.
 
-No lado esquerdo, inclua um título de marketing em negrito em tipografia moderna e grande: "BRIGHTER CLEAN, FRESHER CONFIDENCE!"
+"Cada gole tem gosto de verão."
 
-Abaixo, coloque uma mensagem curta de marketing: "Powerful clean. Long-lasting freshness. For you and your family."
+Isto NÃO é uma simples foto de produto.
 
-Adicione uma lista vertical de ícones de recursos premium:
+Isto NÃO é um anúncio de cardápio de café.
 
-Brightens Whites
+Esta é a campanha de verão global premium da Starbucks—um pôster de estilo de vida vibrante projetado para parecer o primeiro dia perfeito de praia da estação.
 
-Long Lasting Freshness
+O cenário é um sofisticado beach club da Califórnia durante a golden hour. Água turquesa cristalina, areia branca, palmeiras balançando, cabanas listradas, pranchas de surfe apoiadas em madeira desgastada e banhistas bronzeados criam uma atmosfera de luxo sem esforço. Tudo brilha sob a luz quente do fim de tarde.
 
-Effective Stain Removal
+O destaque é uma deslumbrante bebida gelada da Starbucks servida no icônico copo transparente da marca, elevada sobre um pedestal escultural de travertino natural colocado diretamente na areia. A bebida tem camadas de cold brew, leite cremoso, espuma de caramelo, gelo picado e um brilhante fio de caramelo escorrendo sobre a cobertura de chantilly. Minúsculas gotas de condensação brilham ao sol, tornando a bebida irresistivelmente gelada.
 
-Suitable for Front & Top Load
+Em vez do café ser derramado de cima, um dramático respingo de espuma fria de coco e fitas de espresso giram juntos no ar, congelados em um momento cinematográfico. Cubos de gelo, grãos de café, lascas de caramelo, fatias de cítricos e minúsculas gotas douradas orbitam ao redor da bebida como se estivessem sendo levadas por uma brisa quente do oceano.
 
-Adicione um selo de fita vermelho e azul "NEW IMPROVED FORMULA" no canto superior esquerdo e um selo escudo premium no canto superior direito com os dizeres: "Removes Tough Stains Even in Cold Water."
+O primeiro plano inclui food styling premium inspirado na praia:
 
-Na parte inferior, crie um banner promocional em negrito com o texto: "DEEP CLEAN THAT CARES EVERY DAY"
+• Croissant de manteiga fresco • Biscoitos de coco • Macarons de baunilha • Pêssegos frescos • Fatias de abacaxi • Fatias de limão • Pedaços de caramelo com flor de sal • Guardanapo de linho • Chapéu de palha de praia • Óculos de sol de grife
 
-Adicione quatro ícones circulares premium com legendas:
+A tipografia é ousada, divertida e premium.
 
-Powerful on Stains
+Uma enorme letra de pincel manuscrita domina a composição superior:
 
-Gentle on Fabrics
+CHASE THE SUN.
 
-Fresh Ocean Scent
+Tipografia secundária:
 
-Cleaner Home
+ICED NEVER LOOKED BETTER.
 
-Use iluminação publicitária comercial premium, fotografia de produto ultrarrealista, reflexos brilhantes, marca vibrante azul e branca, composição cinematográfica, design de embalagem de bens de consumo de luxo, tipografia altamente detalhada, textura de pele realista, layout com qualidade de revista, estética de marca global de detergente, fotorrealista, 8K, ultra nítido, pôster publicitário profissional pronto para impressão, direção criativa premiada.
+Golden Hour in Every Sip.
+
+Made for Beach Days.
+
+Cold Coffee. Warm Memories.
+
+Pequenos destaques de infográfico premium ressaltam características:
+
+✓ Espresso Recém-Preparado
+
+✓ Espuma Fria Aveludada
+
+✓ Swirl de Caramelo Salgado
+
+✓ Refresco Gelado
+
+✓ Feito para o Verão
+
+Delicados rabiscos desenhados à mão de ondas, sol, folhas de palmeira, linhas de surfe, estrelinhas e notas de férias manuscritas são sutilmente integrados por todo o design, dando uma estética editorial energética da Geração Z sem parecer confuso.
+
+A paleta de cores é brilhante, otimista e inconfundivelmente de verão:
+
+Azul oceano
+
+Turquesa
+
+Bege areia
+
+Creme quente
+
+Caramelo dourado
+
+Verde palmeira
+
+Laranja pôr do sol
+
+Branco
+
+Madeira natural
+
+Acentos de coral suave
+
+A iluminação é golden hour quente com belos lens flares, reflexos realistas, brilhos luminosos no gelo, atmosfera vibrante de praia, estilo de fotografia gastronômica premium, estética de publicidade comercial de luxo, texturas hiper-realistas, design gráfico contemporâneo, pôster colecionável de campanha da Starbucks, branding premium globalmente reconhecível, layout editorial, obra-prima ultra-detalhada em 8K.
 ```
 
 </details>
@@ -801,7 +1142,7 @@ Use iluminação publicitária comercial premium, fotografia de produto ultrarre
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMU78W9XsAA9zTg.jpg" width="700" alt="Pôster de Anúncio de Detergente Premium">
+<img src="https://image.moge.ai/prompt_media/HMXaUoabgAA9KIm.jpg" width="700" alt="Pôster de Verão Starbucks Chase the Sun">
 </div>
 
 <br>
@@ -810,19 +1151,19 @@ Use iluminação publicitária comercial premium, fotografia de produto ultrarre
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Abkr Sadiq](https://x.com/abs_uiux) | [X / Twitter](https://x.com/abs_uiux/status/2073129126152524005) | 2026-07-03 |
+| [Hemayxn.ai](https://x.com/hemayxn) | [X / Twitter](https://x.com/hemayxn/status/2073303285591863507) | 2026-07-04 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2073129126152524005)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2073303285591863507)**
 
 </div>
 
 ---
 
-### No. 14: Arte Conceitual Cinematográfica
+### No. 20: Arte Conceitual Cinematográfica
 
 ![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
 
@@ -867,7 +1208,7 @@ Usando 100% da semelhança dos objetos (de referência), transformados em um est
 
 ---
 
-### No. 15: Quadro de Evolução de Logotipos Esportivos
+### No. 21: Quadro de Evolução de Logotipos Esportivos
 
 ![Categoria: Branding e Interface](https://img.shields.io/badge/Categoria-Branding%20e%20Interface-lightgrey)
 
@@ -990,7 +1331,7 @@ Uma única imagem de apresentação polida mostrando o quadro de evolução de 6
 
 ---
 
-### No. 16: Pôster Vintage de Viagem da Turquia
+### No. 22: Pôster Vintage de Viagem da Turquia
 
 ![Categoria: Materiais de marketing](https://img.shields.io/badge/Categoria-Materiais%20de%20marketing-lightgrey)
 
@@ -1118,25 +1459,25 @@ Cria um pôster de viagem vertical estilo vintage romântico para a Turquia, com
 
 ---
 
-### No. 17: Retrato Sonhador à Beira do Canal
+### No. 23: Retrato Esboço Semirrealista
 
 ![Categoria: Ilustração e IP](https://img.shields.io/badge/Categoria-Ilustra%C3%A7%C3%A3o%20e%20IP-lightgrey)
 
 #### 📚 Descrição
 
-Ilustração cinematográfica em estilo caneta-riscada de uma jovem sentada e pensativa à beira de um canal urbano europeu.
+Cria um retrato editorial semirrealista que funde grafite refinado e linhas de quadrinhos com paleta neutra e fundo arquitetônico minimalista.
 
 #### 🌟 Prompt
 
-Retrato de ilustração cinematográfica estilo caneta-riscada ultrarrealista nível IMAX ao estilo Netflix, …
+Retrato esboço digital semirrealista ultradetalhado que combina ilustração refinada a grafite, arte de …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Retrato de ilustração cinematográfica estilo caneta-riscada ultrarrealista nível IMAX ao estilo Netflix, composição vertical 9:16, crie uma bela jovem adulta sentada tranquilamente à beira de um canal urbano calmo em um parque urbano sonhador de estilo europeu, capturada em uma elegante pose de perfil lateral com um joelho levantado, um cotovelo apoiado no joelho e o queixo suavemente apoiado na mão, o rosto voltado para cima com uma expressão calma e pensativa, sobrancelhas relaxadas, olhos suaves e sonhadores, lábios naturalmente definidos e emoção artística tranquila, sua pele luminosa clara de porcelana branco-leitosa renderizada por meio de sombreamento delicado de caneta-riscada, linhas finas de tinta e destaques suaves em lavagem cinza, o cabelo penteado em um coque baixo solto e desalinhado com fios aéreos e movimento natural ao redor do rosto, vestindo uma camisa cinza larga e oversized com mangas dobradas, uma saia preta fluida, tênis brancos robustos, um relógio de pulso fino e uma bolsa transversal preta apoiada ao seu lado, cercada por detalhes pacíficos da vida urbana incluindo gaivotas brancas perto de seus pés, carpas koi nadando na água reflexiva do canal, pessoas sentadas em bancos, um homem lendo um jornal, multidões urbanas suaves, lampiões antigos, grades, edifícios clássicos elegantes, arquitetura de torre distante, árvores frondosas e um sereno passeio à beira-rio, o estilo da obra deve parecer um design premium de caneta-riscada com finos contornos de tinta preta, hachura cruzada visível, textura de linha gravada, sombreamento cinza suave como lápis, acentos de aquarela pastel suaves, detalhes arquitetônicos desenhados à mão, delicadas pinceladas de penas de pássaro, marcas de esboço de ondulação da água e textura limpa de papel marfim, iluminação suave e cinematográfica com brilho suave da luz do dia, destaques sutis no rosto, cabelo, roupas e superfície da água, harmonia de cores ultra-rica mas suave com tons de papel marfim, sombras cinza-claras, folhagem verde suave, reflexos suaves de água azul e refinado contraste de tinta preta, clima de ilustração editorial premium, trabalho de linha altamente detalhado, acabamento de caderno de esboços artístico, qualidade de obra-prima.
-
-Prompt Negativo: aparência de câmera fotorrealista, pintura a óleo, lavagem pesada de aquarela, trabalho de linha desleixado, rosto distorcido, anatomia ruim, dedos extras, detalhes borrados, cores duras, sombreamento plano, perspectiva ruim, fundo ilegível, texto, marca d'água, logotipo, baixa qualidade.
+Retrato esboço digital semirrealista ultradetalhado que combina ilustração refinada a grafite, arte de retrato editorial contemporânea e sutis traços de quadrinhos. Linhas de contorno a tinta limpas, porém expressivas, com hachuras delicadas e finas texturas de gravura. Renderização suave e natural da pele com poros realistas, sardas tênues, tons suaves de rubor, brilhos translúcidos e transições tonais suaves. Olhos altamente detalhados com reflexos brilhantes, cílios longos e naturais e fios de sobrancelha nítidos definidos individualmente.
+Estética elegante desenhada à mão com detalhamento facial meticuloso, sombreamento sutil de line-art e coloração digital pictórica. Cabelo renderizado com fios fluidos ultrafinos, volume em camadas e separação de textura realista. Fusão equilibrada de esboço e realismo, onde os traços permanecem visíveis sob superfícies pictóricas suaves. Iluminação suave de luz do dia ambiente, brilhos difusos, gradientes de sombra naturais e contraste cinematográfico de retrato.
+Paleta de cores neutra e suave dominada por bege quente, marfim suave, taupe pálido, marrom empoeirado, carvão suave e tons de pele delicados. Fundo minimalista em line-art arquitetônico com contornos monocromáticos leves, baixa distração visual e profundidade refinada. Qualidade sofisticada de ilustração de revista, renderização ultralimpa, artesanato premium de retrato digital, acabamento altamente polido, proporções realistas, elegância sutil e estética de retrato contemporânea atemporal.
 ```
 
 </details>
@@ -1144,7 +1485,7 @@ Prompt Negativo: aparência de câmera fotorrealista, pintura a óleo, lavagem p
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMPycZnbsAARDON.jpg" width="700" alt="Retrato Sonhador à Beira do Canal">
+<img src="https://image.moge.ai/prompt_media/HMRw-U-bYAAQ4fp.jpg" width="700" alt="Retrato Esboço Semirrealista">
 </div>
 
 <br>
@@ -1153,35 +1494,76 @@ Prompt Negativo: aparência de câmera fotorrealista, pintura a óleo, lavagem p
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Gopal Tiwari](https://x.com/imGopalTiwari) | [X / Twitter](https://x.com/imGopalTiwari/status/2072840244890902931) | 2026-07-03 |
+| [zayan](https://x.com/HustleXR) | [X / Twitter](https://x.com/HustleXR/status/2072905952094040099) | 2026-07-03 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072840244890902931)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072905952094040099)**
 
 </div>
 
 ---
 
-### No. 18: Retrato Editorial Sonhador com Porsche
+### No. 24: Retrato de Verão no Parque de Diversões
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Cria uma foto editorial de moda minimalista de uma jovem sobre um Porsche 356 rosa vintage, em ângulo baixo contra uma enorme nuvem e céu azul de verão.
+Cria um retrato editorial vibrante em um parque de diversões de verão, com uma modelo sorridente e tipografia manuscrita cheia de energia jovem.
 
 #### 🌟 Prompt
 
-Uma fotografia de moda editorial e onírica de uma jovem minimalista sentada graciosamente sobre o teto de um …
+Use várias fotos de parque de diversões como referência de cenário e pose, mantendo os traços faciais, o …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Uma fotografia de moda editorial e onírica de uma jovem minimalista sentada graciosamente sobre o teto de um Porsche 356 vintage rosa pastel, fotografada de um ângulo baixo dramático contra uma enorme nuvem cumulus imponente que preenche o fundo. A composição enfatiza um vasto espaço negativo com um rico céu de verão azul profundo, criando uma atmosfera pacífica e cinematográfica. Ela veste uma camiseta raglan branca limpa com mangas cinza claro, calças de linho largas azul-marinho oversized e sandálias slide de couro marrom simples. Cabelo curto estilo bob escuro suavemente despenteado pela brisa, brincos e pulseira de prata sutis, maquiagem natural relaxada, expressão calma e contemplativa com olhos fechados ou olhando suavemente.
+Use várias fotos de parque de diversões como referência de cenário e pose, mantendo os traços faciais, o sorriso, os cabelos longos, o temperamento e o realismo da pessoa, mas integrando-a completamente ao cenário original.
+
+O estilo geral é um ensaio de verão em parque de diversões, cores vivas, alta saturação porém natural, com forte contraste visual entre o piso de borracha azul, os brinquedos amarelos, os tubos verdes, o escorregador metálico e os tênis vermelhos. A imagem deve transmitir juventude, vitalidade, liberdade e o movimento dinâmico do cabelo ao vento, como uma mistura de ensaio de revista jovem japonesa com pôster cheio de energia.
+
+O figurino mantém o estilo de parque de diversões: camisa amarelo-clara de manga curta, saia longa solta ou calça pantalona azul brilhante, meias brancas curtas, tênis retrô vermelhos, com fofos grampos coloridos no cabelo. A expressão deve ser naturalmente alegre, com um sorriso genuíno, sem rigidez, sem aparência de IA.
+
+Preserve a pose, a composição, o ângulo da câmera e a emoção de cada foto original: sentada no chão segurando um tubo verde, pendurada de cabeça para baixo no brinquedo, espiando por uma abertura azul, sentada dentro de um escorregador metálico, deitada na grama, passando entre pilares laranja, deitada no escorregador, acenando de cabeça para baixo na abertura do escorregador, saindo engatinhando da saída do escorregador circular.
+
+Adicione tipografia irregular em inglês ao redor da imagem, com fontes de rabisco manuscrito, pincel áspero, aspecto de giz, rasgado e diagramação livre. As cores do texto são principalmente branco e amarelo vivo, com estrelinhas, corações, setas, carinhas e traços de rabisco. O texto em inglês deve ter vida, não cobrir o rosto e integrar-se naturalmente à imagem.
+
+Palavras-chave: bright summer playground, youthful energy, lively smile, free spirit, colorful editorial poster, handwritten typography, rough brush lettering, playful doodles, magazine cover style, dynamic motion, natural daylight, film-like softness, high saturation, vivid blue yellow red color palette, realistic face, no watermark.
+
+Textos em inglês que podem ser usados:
+
+WILD JOY
+PLAY LOUD
+LIVING IN COLOR
+FREE ENERGY
+HELLO SUN
+JUMP INTO JOY
+FULL OF LIFE
+BRIGHT CHAOS
+SLIDE INTO FUN
+SPARK JOY
+LIFE MOVES
+PLAYFUL HEART
+FALL FOR LIFE
+NO GRAVITY
+WILD SPIRIT
+MOVE FREE
+HAPPY CHAOS
+PURE MOTION
+SHINE ON
+ALIVE NOW
+WAVE BRIGHT
+SEE YOU SMILE
+OUT TO PLAY
+LIFE IS NOW
+
+Prompt negativo:
+
+Não alterar a estrutura do cenário original, não trocar para ambiente interno, não usar estilo escuro, não usar estilo gótico, não sexualizar, não expor demais, sem expressões rígidas, sem pele plástica, sem suavização excessiva, não transformar em anime, sem marca d'água, sem marca d'água do Xiaohongshu, sem texto ilegível, não cobrir o rosto, sem dedos extras, sem deformação corporal, sem baixa resolução.
 ```
 
 </details>
@@ -1189,7 +1571,7 @@ Uma fotografia de moda editorial e onírica de uma jovem minimalista sentada gra
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMWq7cHaEAAqAq0.jpg" width="700" alt="Retrato Editorial Sonhador com Porsche">
+<img src="https://image.moge.ai/prompt_media/HMYU9VqasAA64Mx.jpg" width="700" alt="Retrato de Verão no Parque de Diversões">
 </div>
 
 <br>
@@ -1198,79 +1580,40 @@ Uma fotografia de moda editorial e onírica de uma jovem minimalista sentada gra
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [K](https://x.com/ChillaiKalan__) | [X / Twitter](https://x.com/ChillaiKalan__/status/2073251156739211475) | 2026-07-04 |
+| [serein](https://x.com/you1873118) | [X / Twitter](https://x.com/you1873118/status/2073367738505113678) | 2026-07-04 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2073251156739211475)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2073367738505113678)**
 
 </div>
 
 ---
 
-### No. 19: Pôster de Mel Orgânico Premium
+### No. 25: Cena de Diorama de Planejamento de Viagem com eSIM
 
 ![Categoria: Publicidade e produto](https://img.shields.io/badge/Categoria-Publicidade%20e%20produto-lightgrey)
 
 #### 📚 Descrição
 
-Cria um pôster publicitário fotorrealista e luxuoso para uma marca de mel orgânico, com um pote de vidro dourado, tipografia elegante e ícones de recursos.
+Cria uma cena de mesa premium de planejamento de viagem com mapa, marcos em papercraft e um smartphone mostrando um eSIM de conectividade, em estilo diorama de mídia mista.
 
 #### 🌟 Prompt
 
-Crie um pôster publicitário premium e fotorrealista para uma marca de mel orgânico de luxo chamada "PureBee …
+Uma cena de mesa premium de planejamento de viagem para [LOCATION], fotografada de um ângulo ligeiramente …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Crie um pôster publicitário premium e fotorrealista para uma marca de mel orgânico de luxo chamada "PureBee Honey." O design deve estar em layout vertical A4 retrato, com estilo de branding comercial limpo e moderno.
-
-Use uma paleta de cores dourado quente, amarelo-mel, creme e marrom escuro. Adicione mel realista escorrendo da borda superior, padrões sutis de favo de mel, abelhas voando com trajetos pontilhados, folhas verdes e delicados detalhes florais. O fundo deve apresentar uma paisagem campestre suavemente desfocada com luz solar natural e quente, para uma atmosfera orgânica e fresca da fazenda.
-
-Coloque um grande pote de vidro realista de mel dourado no lado direito, com um rótulo premium cor creme escrito "PureBee Honey", incluindo um pequeno logotipo de abelha, "Raw & Unfiltered", "100% Pure & Natural" e "Net Wt. 500g". Posicione o pote sobre uma fatia rústica de madeira, com uma colher de mel de madeira pingando mel fresco, pedaços de favo e flores brancas ao redor.
-
-No lado esquerdo, crie uma hierarquia tipográfica marcante:
-
-PURE (maiúsculas grandes, em negrito e desgastadas)
-
-Goodness (elegante caligrafia dourada à mão)
-
-STRAIGHT FROM NATURE (serifa clássica em maiúsculas)
-
-Adicione texto de apoio:
-
-Raw. Natural. Unfiltered. Honey as nature intended.
-
-Abaixo, inclua três ícones premium de características com legendas:
-
-100% Pure – No additives. No compromises.
-
-Natural Goodness – Rich in antioxidants & nutrients.
-
-Sourced With Care – From happy bees and trusted beekeepers.
-
-No centro superior, coloque o logotipo PureBee Honey com uma ilustração de abelha e o slogan:
-
-PURE • NATURAL • TRUSTED
-
-Adicione um selo em forma de fita marrom escuro no canto superior direito escrito:
-
-100% PURE & NATURAL
-
-Crie um rodapé premium curvado em marrom chocolate escuro com detalhes dourados. Inclua:
-
-Sweet by Nature, Made with Care.
-
-Uma faixa dourada escrita:
-
-GOOD FOR YOU. GOOD FOR NATURE.
-
-No lado direito do rodapé, adicione uma seção ORDER NOW com ícones de telefone, WhatsApp, Instagram e localização, usando dados de contato fictícios realistas.
-
-Estilo: publicidade alimentar de alto padrão, branding de produto de luxo, mockup de embalagem ultrarrealista, fotografia comercial, iluminação suave de estúdio, tipografia premium, composição elegante, profundidade de campo rasa, reflexos brilhantes no vidro, detalhes nítidos, gradação de cor cinematográfica, 8K, pronto para impressão, design publicitário premiado.
+Uma cena de mesa premium de planejamento de viagem para [LOCATION], fotografada de um ângulo ligeiramente elevado. Um mapa detalhado de [LOCATION] repousa sobre uma mesa de madeira quente sob um aconchegante abajur preto. Emergindo do mapa há marcos artesanais em papercraft, atrações icônicas, paisagens e destaques culturais de [LOCATION], posicionados em suas localizações geográficas aproximadas.
+Um pequeno personagem viajante com mochila e mala de rodinhas segue uma rota pontilhada vermelha pelo mapa, criando uma história visual de exploração. O viajante está no meio da jornada entre destinos.
+Um smartphone moderno exibe uma tela de conectividade de viagem "[LOCATION] eSIM". Ao redor do mapa há acessórios de planejamento de viagem incluindo um caderno de itinerário, cartões-postais, câmera, passaporte, livros de viagem e souvenirs temáticos locais.
+Estilo diorama de mídia mista, arquitetura intrincada em papercraft, terreno de papel em camadas, árvores em miniatura, objetos de mesa realistas, iluminação cinematográfica quente, profundidade de campo rasa, texturas altamente detalhadas, fotografia editorial de viagem, estética Pinterest, publicidade comercial premium, ultrarrealista, qualidade 8k, narrativa rica, composição limpa.
+Inclua estes destaques de [LOCATION]: [LANDMARK LIST].
+Paleta de cores inspirada em [LOCATION'S NATURAL/CULTURAL COLORS].
 ```
 
 </details>
@@ -1278,7 +1621,7 @@ Estilo: publicidade alimentar de alto padrão, branding de produto de luxo, mock
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMT6bdrXIAADEPx.jpg" width="700" alt="Pôster de Mel Orgânico Premium">
+<img src="https://image.moge.ai/prompt_media/HMWMUThbkAEBgH2.jpg" width="700" alt="Cena de Diorama de Planejamento de Viagem com eSIM">
 </div>
 
 <br>
@@ -1287,19 +1630,19 @@ Estilo: publicidade alimentar de alto padrão, branding de produto de luxo, mock
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Abkr Sadiq](https://x.com/abs_uiux) | [X / Twitter](https://x.com/abs_uiux/status/2073057092152287409) | 2026-07-03 |
+| [simeon-sanai](https://x.com/Naiknelofar788) | [X / Twitter](https://x.com/Naiknelofar788/status/2073217493913801191) | 2026-07-04 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2073057092152287409)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2073217493913801191)**
 
 </div>
 
 ---
 
-### No. 20: Editorial de Moda com Tipografia Couture
+### No. 26: Editorial de Moda com Tipografia Couture
 
 ![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
 
@@ -1382,7 +1725,7 @@ Gere apenas um pôster finalizado.
 
 ---
 
-### No. 21: Logotipo Mascote Retrô Indie
+### No. 27: Logotipo Mascote Retrô Indie
 
 ![Categoria: Branding e Interface](https://img.shields.io/badge/Categoria-Branding%20e%20Interface-lightgrey)
 
@@ -1442,7 +1785,7 @@ Evite texto que não seja em inglês, símbolos de copyright, marcas registradas
 
 ---
 
-### No. 22: Pôster Colagem de Papel para Viagens
+### No. 28: Pôster Colagem de Papel para Viagens
 
 ![Categoria: Materiais de marketing](https://img.shields.io/badge/Categoria-Materiais%20de%20marketing-lightgrey)
 
@@ -1536,7 +1879,330 @@ Cria um pôster de viagem vibrante em colagem de papel recortado, com tipografia
 
 ---
 
-### No. 23: Estilo Anime Minimalista Pastel
+### No. 29: Retrato Sonhador à Beira do Canal
+
+![Categoria: Ilustração e IP](https://img.shields.io/badge/Categoria-Ilustra%C3%A7%C3%A3o%20e%20IP-lightgrey)
+
+#### 📚 Descrição
+
+Ilustração cinematográfica em estilo caneta-riscada de uma jovem sentada e pensativa à beira de um canal urbano europeu.
+
+#### 🌟 Prompt
+
+Retrato de ilustração cinematográfica estilo caneta-riscada ultrarrealista nível IMAX ao estilo Netflix, …
+
+<details>
+<summary>Mostrar prompt completo</summary>
+
+```
+Retrato de ilustração cinematográfica estilo caneta-riscada ultrarrealista nível IMAX ao estilo Netflix, composição vertical 9:16, crie uma bela jovem adulta sentada tranquilamente à beira de um canal urbano calmo em um parque urbano sonhador de estilo europeu, capturada em uma elegante pose de perfil lateral com um joelho levantado, um cotovelo apoiado no joelho e o queixo suavemente apoiado na mão, o rosto voltado para cima com uma expressão calma e pensativa, sobrancelhas relaxadas, olhos suaves e sonhadores, lábios naturalmente definidos e emoção artística tranquila, sua pele luminosa clara de porcelana branco-leitosa renderizada por meio de sombreamento delicado de caneta-riscada, linhas finas de tinta e destaques suaves em lavagem cinza, o cabelo penteado em um coque baixo solto e desalinhado com fios aéreos e movimento natural ao redor do rosto, vestindo uma camisa cinza larga e oversized com mangas dobradas, uma saia preta fluida, tênis brancos robustos, um relógio de pulso fino e uma bolsa transversal preta apoiada ao seu lado, cercada por detalhes pacíficos da vida urbana incluindo gaivotas brancas perto de seus pés, carpas koi nadando na água reflexiva do canal, pessoas sentadas em bancos, um homem lendo um jornal, multidões urbanas suaves, lampiões antigos, grades, edifícios clássicos elegantes, arquitetura de torre distante, árvores frondosas e um sereno passeio à beira-rio, o estilo da obra deve parecer um design premium de caneta-riscada com finos contornos de tinta preta, hachura cruzada visível, textura de linha gravada, sombreamento cinza suave como lápis, acentos de aquarela pastel suaves, detalhes arquitetônicos desenhados à mão, delicadas pinceladas de penas de pássaro, marcas de esboço de ondulação da água e textura limpa de papel marfim, iluminação suave e cinematográfica com brilho suave da luz do dia, destaques sutis no rosto, cabelo, roupas e superfície da água, harmonia de cores ultra-rica mas suave com tons de papel marfim, sombras cinza-claras, folhagem verde suave, reflexos suaves de água azul e refinado contraste de tinta preta, clima de ilustração editorial premium, trabalho de linha altamente detalhado, acabamento de caderno de esboços artístico, qualidade de obra-prima.
+
+Prompt Negativo: aparência de câmera fotorrealista, pintura a óleo, lavagem pesada de aquarela, trabalho de linha desleixado, rosto distorcido, anatomia ruim, dedos extras, detalhes borrados, cores duras, sombreamento plano, perspectiva ruim, fundo ilegível, texto, marca d'água, logotipo, baixa qualidade.
+```
+
+</details>
+
+#### 🌁 Imagem gerada
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HMPycZnbsAARDON.jpg" width="700" alt="Retrato Sonhador à Beira do Canal">
+</div>
+
+<br>
+
+<div align="center">
+
+| Autor | Fonte | Publicado |
+| :---: | :---: | :---: |
+| [Gopal Tiwari](https://x.com/imGopalTiwari) | [X / Twitter](https://x.com/imGopalTiwari/status/2072840244890902931) | 2026-07-03 |
+
+</div>
+
+<div align="center">
+
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072840244890902931)**
+
+</div>
+
+---
+
+### No. 30: Retrato Editorial Sonhador com Porsche
+
+![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
+
+#### 📚 Descrição
+
+Cria uma foto editorial de moda minimalista de uma jovem sobre um Porsche 356 rosa vintage, em ângulo baixo contra uma enorme nuvem e céu azul de verão.
+
+#### 🌟 Prompt
+
+Uma fotografia de moda editorial e onírica de uma jovem minimalista sentada graciosamente sobre o teto de um …
+
+<details>
+<summary>Mostrar prompt completo</summary>
+
+```
+Uma fotografia de moda editorial e onírica de uma jovem minimalista sentada graciosamente sobre o teto de um Porsche 356 vintage rosa pastel, fotografada de um ângulo baixo dramático contra uma enorme nuvem cumulus imponente que preenche o fundo. A composição enfatiza um vasto espaço negativo com um rico céu de verão azul profundo, criando uma atmosfera pacífica e cinematográfica. Ela veste uma camiseta raglan branca limpa com mangas cinza claro, calças de linho largas azul-marinho oversized e sandálias slide de couro marrom simples. Cabelo curto estilo bob escuro suavemente despenteado pela brisa, brincos e pulseira de prata sutis, maquiagem natural relaxada, expressão calma e contemplativa com olhos fechados ou olhando suavemente.
+```
+
+</details>
+
+#### 🌁 Imagem gerada
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HMWq7cHaEAAqAq0.jpg" width="700" alt="Retrato Editorial Sonhador com Porsche">
+</div>
+
+<br>
+
+<div align="center">
+
+| Autor | Fonte | Publicado |
+| :---: | :---: | :---: |
+| [K](https://x.com/ChillaiKalan__) | [X / Twitter](https://x.com/ChillaiKalan__/status/2073251156739211475) | 2026-07-04 |
+
+</div>
+
+<div align="center">
+
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2073251156739211475)**
+
+</div>
+
+---
+
+### No. 31: Pôster de Anúncio de Detergente Premium
+
+![Categoria: Publicidade e produto](https://img.shields.io/badge/Categoria-Publicidade%20e%20produto-lightgrey)
+
+#### 📚 Descrição
+
+Cria um pôster publicitário premium de detergente com um modelo sorridente segurando o produto, efeitos de bolhas e água, e tipografia de marketing rica.
+
+#### 🌟 Prompt
+
+Crie um pôster publicitário premium e sofisticado para uma marca de detergente para roupas. Um jovem negro …
+
+<details>
+<summary>Mostrar prompt completo</summary>
+
+```
+Crie um pôster publicitário premium e sofisticado para uma marca de detergente para roupas. Um jovem negro sorridente está de pé com confiança em uma lavanderia moderna, segurando uma grande embalagem de detergente com as duas mãos na altura do peito, olhando diretamente para a câmera com uma expressão amigável e confiável. A embalagem do detergente é o ponto focal principal, com uma paleta vibrante de azul e branco com acabamento brilhante, efeitos dinâmicos de respingos de água, bolhas de sabão, brilhos cintilantes, roupas brancas bem dobradas e uma estética de marca premium de limpeza doméstica.
+
+O fundo é uma lavanderia moderna e iluminada com máquinas de lavar suavemente desfocadas por profundidade de campo rasa. Adicione bolhas flutuantes realistas, gotas de água, raios de luz brilhantes e gradientes azuis frescos por toda a composição para criar uma atmosfera limpa e refrescante.
+
+No lado esquerdo, inclua um título de marketing em negrito em tipografia moderna e grande: "BRIGHTER CLEAN, FRESHER CONFIDENCE!"
+
+Abaixo, coloque uma mensagem curta de marketing: "Powerful clean. Long-lasting freshness. For you and your family."
+
+Adicione uma lista vertical de ícones de recursos premium:
+
+Brightens Whites
+
+Long Lasting Freshness
+
+Effective Stain Removal
+
+Suitable for Front & Top Load
+
+Adicione um selo de fita vermelho e azul "NEW IMPROVED FORMULA" no canto superior esquerdo e um selo escudo premium no canto superior direito com os dizeres: "Removes Tough Stains Even in Cold Water."
+
+Na parte inferior, crie um banner promocional em negrito com o texto: "DEEP CLEAN THAT CARES EVERY DAY"
+
+Adicione quatro ícones circulares premium com legendas:
+
+Powerful on Stains
+
+Gentle on Fabrics
+
+Fresh Ocean Scent
+
+Cleaner Home
+
+Use iluminação publicitária comercial premium, fotografia de produto ultrarrealista, reflexos brilhantes, marca vibrante azul e branca, composição cinematográfica, design de embalagem de bens de consumo de luxo, tipografia altamente detalhada, textura de pele realista, layout com qualidade de revista, estética de marca global de detergente, fotorrealista, 8K, ultra nítido, pôster publicitário profissional pronto para impressão, direção criativa premiada.
+```
+
+</details>
+
+#### 🌁 Imagem gerada
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HMU78W9XsAA9zTg.jpg" width="700" alt="Pôster de Anúncio de Detergente Premium">
+</div>
+
+<br>
+
+<div align="center">
+
+| Autor | Fonte | Publicado |
+| :---: | :---: | :---: |
+| [Abkr Sadiq](https://x.com/abs_uiux) | [X / Twitter](https://x.com/abs_uiux/status/2073129126152524005) | 2026-07-03 |
+
+</div>
+
+<div align="center">
+
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2073129126152524005)**
+
+</div>
+
+---
+
+### No. 32: Diorama de Pizzaria em Miniatura
+
+![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
+
+#### 📚 Descrição
+
+Cria um diorama macro tilt-shift ultrarrealista de chefs em miniatura descarregando uma pizza gigante numa vila italiana feita de comida.
+
+#### 🌟 Prompt
+
+Crie um diorama em miniatura ultrarrealista de uma pequena equipe de produção de pizza preparando uma pizza …
+
+<details>
+<summary>Mostrar prompt completo</summary>
+
+```
+Crie um diorama em miniatura ultrarrealista de uma pequena equipe de produção de pizza preparando uma pizza de pepperoni gigante recém-assada. Dezenas de chefs em miniatura vestindo uniformes brancos e toucas descarregam com cuidado a pizza enorme da traseira de um caminhão de entrega vintage usando rampas de madeira. Alguns trabalhadores empurram a pizza para o lugar enquanto outros coordenam do teto do caminhão, ao lado de caixas de tomates frescos e utensílios de cozinha. Um vapor espesso sobe da pizza quente, enfatizando seu frescor.
+
+A cena se passa em uma charmosa rua de paralelepípedos projetada para lembrar uma pequena vila italiana. A estrada é criativamente feita de molho de tomate rico, enquanto queijo parmesão finamente ralado forma as calçadas. Casas rústicas de pão margeiam as ruas, postes de luz vintage iluminam a cena, caixas de madeira, pás de pizza, espátulas, folhas de manjericão fresco, tomates, blocos de queijo e utensílios de cozinha espalhados aprimoram a atmosfera lúdica. Trabalhadores minúsculos continuam a construção e o preparo de alimentos por todo o mundo em miniatura.
+
+Use uma perspectiva macro tilt-shift com uma profundidade de campo extremamente rasa para criar a ilusão de um modelo em miniatura feito à mão. Iluminação cinematográfica quente, texturas de comida ultrarrealistas, massa crocante, mussarela derretida, pepperoni brilhante, manjericão vibrante, vapor volumétrico, fotografia gastronômica premium, narrativa lúdica, realismo inspirado na Pixar, artesanato em miniatura intrincado, altamente detalhado, qualidade de publicidade comercial, 8K.
+```
+
+</details>
+
+#### 🌁 Imagem gerada
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HMUCqETaQAEj9Ol.jpg" width="700" alt="Diorama de Pizzaria em Miniatura">
+</div>
+
+<br>
+
+<div align="center">
+
+| Autor | Fonte | Publicado |
+| :---: | :---: | :---: |
+| [Synthia](https://x.com/AIwithSynthia) | [X / Twitter](https://x.com/AIwithSynthia/status/2073066136175005977) | 2026-07-03 |
+
+</div>
+
+<div align="center">
+
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2073066136175005977)**
+
+</div>
+
+---
+
+### No. 33: Painel de Embalagem de Marca para Viagem
+
+![Categoria: Branding e Interface](https://img.shields.io/badge/Categoria-Branding%20e%20Interface-lightgrey)
+
+#### 📚 Descrição
+
+Cria uma prancha de proposta realista de sistema de embalagem para viagem, reunindo artes gráficas, estrutura, mockups reais e cenários de aplicação em um só quadro.
+
+#### 🌟 Prompt
+
+Gere uma prancha de proposta de design de embalagem de marca, horizontal 4:3, realista e em alta definição, …
+
+<details>
+<summary>Mostrar prompt completo</summary>
+
+```
+Gere uma prancha de proposta de design de embalagem de marca, horizontal 4:3, realista e em alta definição, com o tema de um sistema de embalagem para viagem de 【categoria de produto】.
+
+Nome da marca: 【nome da marca】
+slogan: 【slogan da marca】
+Título do sistema: 【TAKEAWAY PACKAGING SYSTEM】
+Estilo: 【palavras-chave de estilo】
+Cor principal: 【cor principal】
+Materiais do produto: 【sacola de papel, copos, caixas, adesivos, cartões, papel de embrulho, guardanapos, produtos reais como detalhe】
+
+A imagem deve parecer uma prancha de proposta de embalagem sofisticada, e não uma foto de produto único. Deve mostrar ao mesmo tempo: artes gráficas planas, diagrama de estrutura da embalagem, mockups físicos reais, pequenas imagens de cenários de uso, cartela de cores e materiais, sistema de logo/ícones, textura do papel, detalhes funcionais locais e marcações à mão.
+
+Composição horizontal 4:3: no topo esquerdo, o grande título e as informações da marca; à esquerda, as artes planas e o diagrama de estrutura desdobrada; no topo direito, o mockup real de grande área como visual principal; ao centro, pequenas imagens de cenários de uso; embaixo à direita, DETAILS & MATERIALS; na base, detalhes locais de CONSTRUCTION & FUNCTION.
+
+O conjunto deve ter senso de design, ar de proposta, toque artesanal e realismo comercial. Adicione setas desenhadas à mão, anotações manuscritas, círculos, sublinhados, sensação de colagem de papel, sombras suaves e espaços em branco naturais. Os mockups físicos devem ser tridimensionais e reais, com espessura de papel, vincos das caixas, materiais transparentes, textura de impressão e luz e sombra naturais.
+
+Evite imagens publicitárias comuns, fotos de e-commerce em fundo branco, colagens duras, grades de linhas grossas, texto ilegível, baixa resolução, embalagens deformadas, composição plana e aparência barata.
+```
+
+</details>
+
+#### 🌁 Imagem gerada
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HMC0xfCX0AEkK4z.jpg" width="700" alt="Painel de Embalagem de Marca para Viagem">
+</div>
+
+<br>
+
+<div align="center">
+
+| Autor | Fonte | Publicado |
+| :---: | :---: | :---: |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2071855339222253944) | 2026-06-30 |
+
+</div>
+
+<div align="center">
+
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071855339222253944)**
+
+</div>
+
+---
+
+### No. 34: Pôster Caderno Brasil Copa 2026
+
+![Categoria: Materiais de marketing](https://img.shields.io/badge/Categoria-Materiais%20de%20marketing-lightgrey)
+
+#### 📚 Descrição
+
+Cria um pôster vibrante estilo caderno espiral da Copa 2026 com uma torcedora brasileira de camisa 10 cercada por rabiscos coloridos e tipografia em português.
+
+#### 🌟 Prompt
+
+Crie um pôster vibrante estilo caderno espiral da Copa do Mundo FIFA Brasil 2026 com uma mulher brasileira …
+
+<details>
+<summary>Mostrar prompt completo</summary>
+
+```
+Crie um pôster vibrante estilo caderno espiral da Copa do Mundo FIFA Brasil 2026 com uma mulher brasileira completamente diferente e bonita (sem corresponder a nenhum rosto anterior), com cabelo cacheado ou na altura dos ombros, vestindo a camisa amarela número 10 do Brasil, calça de moletom esportiva branca com listras laterais verde-amarelas, tênis brancos e uma bandeira do Brasil esvoaçante como uma capa. Ela fica confiante no centro segurando uma bola oficial da Copa do Mundo FIFA 2026, sorrindo abertamente para a câmera. Cerque-a com rabiscos coloridos feitos à mão incluindo o troféu da Copa do Mundo FIFA, bolas, esboços de estádios, fogos de artifício, formações táticas de futebol, chuteiras, estrelas, setas e ilustrações divertidas em estilo de caneta verde, amarela e azul. Adicione tipografia manuscrita em estilo português como "Rumo ao Hexa!", "Gol!", "Brasil World Cup 2026", "O Brasil é Nosso!", "Paixão que não se explica, se sente!", "Verde, Amarelo, Azul e Branco!", e um grande banner pintado a pincel com "COPIE E COLE MEU PROMPT". Fundo de papel creme limpo com encadernação espiral de caderno realista à esquerda, layout editorial premium, ultra-detalhado, colorido, design gráfico moderno, qualidade de impressão de alto nível, resolução 8K, composição vertical 9:16.
+```
+
+</details>
+
+#### 🌁 Imagem gerada
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HL5mTmZaQAAT-Ki.jpg" width="700" alt="Pôster Caderno Brasil Copa 2026">
+</div>
+
+<br>
+
+<div align="center">
+
+| Autor | Fonte | Publicado |
+| :---: | :---: | :---: |
+| [Synthia](https://x.com/AIwithSynthia) | [X / Twitter](https://x.com/AIwithSynthia/status/2071205375748239514) | 2026-06-28 |
+
+</div>
+
+<div align="center">
+
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071205375748239514)**
+
+</div>
+
+---
+
+### No. 35: Estilo Anime Minimalista Pastel
 
 ![Categoria: Ilustração e IP](https://img.shields.io/badge/Categoria-Ilustra%C3%A7%C3%A3o%20e%20IP-lightgrey)
 
@@ -1611,7 +2277,7 @@ Ao adaptar o estilo a um novo tema, preserve estas constantes: contenção paste
 
 ---
 
-### No. 24: Retrato de Cabelo Luxuoso em Salão
+### No. 36: Retrato de Cabelo Luxuoso em Salão
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
@@ -1656,40 +2322,67 @@ Um retrato cinematográfico em alta resolução 8K de uma jovem deslumbrante com
 
 ---
 
-### No. 25: Teatro de Corte Transversal do Produto
+### No. 37: Pôster de Mel Orgânico Premium
 
 ![Categoria: Publicidade e produto](https://img.shields.io/badge/Categoria-Publicidade%20e%20produto-lightgrey)
 
 #### 📚 Descrição
 
-Cria uma imagem publicitária premium mostrando o produto em um corte transversal cinematográfico, onde cada camada interna revela função, textura e valor emocional.
+Cria um pôster publicitário fotorrealista e luxuoso para uma marca de mel orgânico, com um pote de vidro dourado, tipografia elegante e ícones de recursos.
 
 #### 🌟 Prompt
 
-Crie uma imagem publicitária premium para [PRODUTO / MARCA]. Sistema visual: Teatro de Corte Transversal do …
+Crie um pôster publicitário premium e fotorrealista para uma marca de mel orgânico de luxo chamada "PureBee …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Crie uma imagem publicitária premium para [PRODUTO / MARCA].
+Crie um pôster publicitário premium e fotorrealista para uma marca de mel orgânico de luxo chamada "PureBee Honey." O design deve estar em layout vertical A4 retrato, com estilo de branding comercial limpo e moderno.
 
-Sistema visual: Teatro de Corte Transversal do Produto.
+Use uma paleta de cores dourado quente, amarelo-mel, creme e marrom escuro. Adicione mel realista escorrendo da borda superior, padrões sutis de favo de mel, abelhas voando com trajetos pontilhados, folhas verdes e delicados detalhes florais. O fundo deve apresentar uma paisagem campestre suavemente desfocada com luz solar natural e quente, para uma atmosfera orgânica e fresca da fazenda.
 
-Mostre o produto como protagonista, aberto por meio de um corte transversal cinematográfico e limpo, não explodido aleatoriamente. O interior deve parecer um mundo visual encenado, onde cada camada revela a função, textura, benefício e valor emocional do produto.
+Coloque um grande pote de vidro realista de mel dourado no lado direito, com um rótulo premium cor creme escrito "PureBee Honey", incluindo um pequeno logotipo de abelha, "Raw & Unfiltered", "100% Pure & Natural" e "Net Wt. 500g". Posicione o pote sobre uma fatia rústica de madeira, com uma colher de mel de madeira pingando mel fresco, pedaços de favo e flores brancas ao redor.
 
-As camadas do corte devem parecer intencionais, elegantes e premium:
-- casca externa / embalagem
-- estrutura de material interna
-- camada de desempenho ou sensorial
-- benefício invisível tornado visível
+No lado esquerdo, crie uma hierarquia tipográfica marcante:
 
-Use iluminação de estúdio de alto padrão, sombras dramáticas, composição refinada, renderização de produto ultra-realista, detalhe macro, acabamento comercial premium, foco nítido, proporção 16:9.
+PURE (maiúsculas grandes, em negrito e desgastadas)
 
-Evite peças bagunçadas, estilo de raio-x médico, rótulos infantis, infográficos confusos, 3D barato, objetos flutuantes aleatórios e excesso de texto.
+Goodness (elegante caligrafia dourada à mão)
 
-Texto opcional na imagem:
-[LINHA DE CAMPANHA CURTA]
+STRAIGHT FROM NATURE (serifa clássica em maiúsculas)
+
+Adicione texto de apoio:
+
+Raw. Natural. Unfiltered. Honey as nature intended.
+
+Abaixo, inclua três ícones premium de características com legendas:
+
+100% Pure – No additives. No compromises.
+
+Natural Goodness – Rich in antioxidants & nutrients.
+
+Sourced With Care – From happy bees and trusted beekeepers.
+
+No centro superior, coloque o logotipo PureBee Honey com uma ilustração de abelha e o slogan:
+
+PURE • NATURAL • TRUSTED
+
+Adicione um selo em forma de fita marrom escuro no canto superior direito escrito:
+
+100% PURE & NATURAL
+
+Crie um rodapé premium curvado em marrom chocolate escuro com detalhes dourados. Inclua:
+
+Sweet by Nature, Made with Care.
+
+Uma faixa dourada escrita:
+
+GOOD FOR YOU. GOOD FOR NATURE.
+
+No lado direito do rodapé, adicione uma seção ORDER NOW com ícones de telefone, WhatsApp, Instagram e localização, usando dados de contato fictícios realistas.
+
+Estilo: publicidade alimentar de alto padrão, branding de produto de luxo, mockup de embalagem ultrarrealista, fotografia comercial, iluminação suave de estúdio, tipografia premium, composição elegante, profundidade de campo rasa, reflexos brilhantes no vidro, detalhes nítidos, gradação de cor cinematográfica, 8K, pronto para impressão, design publicitário premiado.
 ```
 
 </details>
@@ -1697,7 +2390,7 @@ Texto opcional na imagem:
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMTeoIOXQAANwl2.jpg" width="700" alt="Teatro de Corte Transversal do Produto">
+<img src="https://image.moge.ai/prompt_media/HMT6bdrXIAADEPx.jpg" width="700" alt="Pôster de Mel Orgânico Premium">
 </div>
 
 <br>
@@ -1706,349 +2399,19 @@ Texto opcional na imagem:
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [AZIZ \| AI 🇸🇦](https://x.com/aziz4ai) | [X / Twitter](https://x.com/aziz4ai/status/2073026525243310084) | 2026-07-03 |
+| [Abkr Sadiq](https://x.com/abs_uiux) | [X / Twitter](https://x.com/abs_uiux/status/2073057092152287409) | 2026-07-03 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2073026525243310084)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2073057092152287409)**
 
 </div>
 
 ---
 
-### No. 26: Diorama de Pizzaria em Miniatura
-
-![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
-
-#### 📚 Descrição
-
-Cria um diorama macro tilt-shift ultrarrealista de chefs em miniatura descarregando uma pizza gigante numa vila italiana feita de comida.
-
-#### 🌟 Prompt
-
-Crie um diorama em miniatura ultrarrealista de uma pequena equipe de produção de pizza preparando uma pizza …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
-```
-Crie um diorama em miniatura ultrarrealista de uma pequena equipe de produção de pizza preparando uma pizza de pepperoni gigante recém-assada. Dezenas de chefs em miniatura vestindo uniformes brancos e toucas descarregam com cuidado a pizza enorme da traseira de um caminhão de entrega vintage usando rampas de madeira. Alguns trabalhadores empurram a pizza para o lugar enquanto outros coordenam do teto do caminhão, ao lado de caixas de tomates frescos e utensílios de cozinha. Um vapor espesso sobe da pizza quente, enfatizando seu frescor.
-
-A cena se passa em uma charmosa rua de paralelepípedos projetada para lembrar uma pequena vila italiana. A estrada é criativamente feita de molho de tomate rico, enquanto queijo parmesão finamente ralado forma as calçadas. Casas rústicas de pão margeiam as ruas, postes de luz vintage iluminam a cena, caixas de madeira, pás de pizza, espátulas, folhas de manjericão fresco, tomates, blocos de queijo e utensílios de cozinha espalhados aprimoram a atmosfera lúdica. Trabalhadores minúsculos continuam a construção e o preparo de alimentos por todo o mundo em miniatura.
-
-Use uma perspectiva macro tilt-shift com uma profundidade de campo extremamente rasa para criar a ilusão de um modelo em miniatura feito à mão. Iluminação cinematográfica quente, texturas de comida ultrarrealistas, massa crocante, mussarela derretida, pepperoni brilhante, manjericão vibrante, vapor volumétrico, fotografia gastronômica premium, narrativa lúdica, realismo inspirado na Pixar, artesanato em miniatura intrincado, altamente detalhado, qualidade de publicidade comercial, 8K.
-```
-
-</details>
-
-#### 🌁 Imagem gerada
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HMUCqETaQAEj9Ol.jpg" width="700" alt="Diorama de Pizzaria em Miniatura">
-</div>
-
-<br>
-
-<div align="center">
-
-| Autor | Fonte | Publicado |
-| :---: | :---: | :---: |
-| [Synthia](https://x.com/AIwithSynthia) | [X / Twitter](https://x.com/AIwithSynthia/status/2073066136175005977) | 2026-07-03 |
-
-</div>
-
-<div align="center">
-
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2073066136175005977)**
-
-</div>
-
----
-
-### No. 27: Painel de Embalagem de Marca para Viagem
-
-![Categoria: Branding e Interface](https://img.shields.io/badge/Categoria-Branding%20e%20Interface-lightgrey)
-
-#### 📚 Descrição
-
-Cria uma prancha de proposta realista de sistema de embalagem para viagem, reunindo artes gráficas, estrutura, mockups reais e cenários de aplicação em um só quadro.
-
-#### 🌟 Prompt
-
-Gere uma prancha de proposta de design de embalagem de marca, horizontal 4:3, realista e em alta definição, …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
-```
-Gere uma prancha de proposta de design de embalagem de marca, horizontal 4:3, realista e em alta definição, com o tema de um sistema de embalagem para viagem de 【categoria de produto】.
-
-Nome da marca: 【nome da marca】
-slogan: 【slogan da marca】
-Título do sistema: 【TAKEAWAY PACKAGING SYSTEM】
-Estilo: 【palavras-chave de estilo】
-Cor principal: 【cor principal】
-Materiais do produto: 【sacola de papel, copos, caixas, adesivos, cartões, papel de embrulho, guardanapos, produtos reais como detalhe】
-
-A imagem deve parecer uma prancha de proposta de embalagem sofisticada, e não uma foto de produto único. Deve mostrar ao mesmo tempo: artes gráficas planas, diagrama de estrutura da embalagem, mockups físicos reais, pequenas imagens de cenários de uso, cartela de cores e materiais, sistema de logo/ícones, textura do papel, detalhes funcionais locais e marcações à mão.
-
-Composição horizontal 4:3: no topo esquerdo, o grande título e as informações da marca; à esquerda, as artes planas e o diagrama de estrutura desdobrada; no topo direito, o mockup real de grande área como visual principal; ao centro, pequenas imagens de cenários de uso; embaixo à direita, DETAILS & MATERIALS; na base, detalhes locais de CONSTRUCTION & FUNCTION.
-
-O conjunto deve ter senso de design, ar de proposta, toque artesanal e realismo comercial. Adicione setas desenhadas à mão, anotações manuscritas, círculos, sublinhados, sensação de colagem de papel, sombras suaves e espaços em branco naturais. Os mockups físicos devem ser tridimensionais e reais, com espessura de papel, vincos das caixas, materiais transparentes, textura de impressão e luz e sombra naturais.
-
-Evite imagens publicitárias comuns, fotos de e-commerce em fundo branco, colagens duras, grades de linhas grossas, texto ilegível, baixa resolução, embalagens deformadas, composição plana e aparência barata.
-```
-
-</details>
-
-#### 🌁 Imagem gerada
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HMC0xfCX0AEkK4z.jpg" width="700" alt="Painel de Embalagem de Marca para Viagem">
-</div>
-
-<br>
-
-<div align="center">
-
-| Autor | Fonte | Publicado |
-| :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2071855339222253944) | 2026-06-30 |
-
-</div>
-
-<div align="center">
-
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071855339222253944)**
-
-</div>
-
----
-
-### No. 28: Pôster Caderno Brasil Copa 2026
-
-![Categoria: Materiais de marketing](https://img.shields.io/badge/Categoria-Materiais%20de%20marketing-lightgrey)
-
-#### 📚 Descrição
-
-Cria um pôster vibrante estilo caderno espiral da Copa 2026 com uma torcedora brasileira de camisa 10 cercada por rabiscos coloridos e tipografia em português.
-
-#### 🌟 Prompt
-
-Crie um pôster vibrante estilo caderno espiral da Copa do Mundo FIFA Brasil 2026 com uma mulher brasileira …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
-```
-Crie um pôster vibrante estilo caderno espiral da Copa do Mundo FIFA Brasil 2026 com uma mulher brasileira completamente diferente e bonita (sem corresponder a nenhum rosto anterior), com cabelo cacheado ou na altura dos ombros, vestindo a camisa amarela número 10 do Brasil, calça de moletom esportiva branca com listras laterais verde-amarelas, tênis brancos e uma bandeira do Brasil esvoaçante como uma capa. Ela fica confiante no centro segurando uma bola oficial da Copa do Mundo FIFA 2026, sorrindo abertamente para a câmera. Cerque-a com rabiscos coloridos feitos à mão incluindo o troféu da Copa do Mundo FIFA, bolas, esboços de estádios, fogos de artifício, formações táticas de futebol, chuteiras, estrelas, setas e ilustrações divertidas em estilo de caneta verde, amarela e azul. Adicione tipografia manuscrita em estilo português como "Rumo ao Hexa!", "Gol!", "Brasil World Cup 2026", "O Brasil é Nosso!", "Paixão que não se explica, se sente!", "Verde, Amarelo, Azul e Branco!", e um grande banner pintado a pincel com "COPIE E COLE MEU PROMPT". Fundo de papel creme limpo com encadernação espiral de caderno realista à esquerda, layout editorial premium, ultra-detalhado, colorido, design gráfico moderno, qualidade de impressão de alto nível, resolução 8K, composição vertical 9:16.
-```
-
-</details>
-
-#### 🌁 Imagem gerada
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HL5mTmZaQAAT-Ki.jpg" width="700" alt="Pôster Caderno Brasil Copa 2026">
-</div>
-
-<br>
-
-<div align="center">
-
-| Autor | Fonte | Publicado |
-| :---: | :---: | :---: |
-| [Synthia](https://x.com/AIwithSynthia) | [X / Twitter](https://x.com/AIwithSynthia/status/2071205375748239514) | 2026-06-28 |
-
-</div>
-
-<div align="center">
-
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071205375748239514)**
-
-</div>
-
----
-
-### No. 29: Devaneio em Tinta de Sonhador
-
-![Categoria: Ilustração e IP](https://img.shields.io/badge/Categoria-Ilustra%C3%A7%C3%A3o%20e%20IP-lightgrey)
-
-#### 📚 Descrição
-
-Transforma qualquer sujeito em uma cena onírica de tinta expressiva, com linhas fluidas, hachuras e pontilhados em tons etéreos.
-
-#### 🌟 Prompt
-
-```
-[SUBJECT] renderizado em um Devaneio em Tinta de Sonhador, onde a realidade se dissolve em paisagens oníricas rodopiantes e padrões fluidos. Use linhas de tinta expressivas, hachuras intrincadas e pontilhado, com toques etéreos de [COLOR1] e [COLOR2] para criar atmosfera
-```
-
-#### 🌁 Imagem gerada
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HMOlBthWkAAuzZe.jpg" width="700" alt="Devaneio em Tinta de Sonhador">
-</div>
-
-<br>
-
-<div align="center">
-
-| Autor | Fonte | Publicado |
-| :---: | :---: | :---: |
-| [LudovicCreator](https://x.com/LudovicCreator) | [X / Twitter](https://x.com/LudovicCreator/status/2072681721070281032) | 2026-07-02 |
-
-</div>
-
-<div align="center">
-
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072681721070281032)**
-
-</div>
-
----
-
-### No. 30: Retrato de Verão na Parede Terracota
-
-![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
-
-#### 📚 Descrição
-
-Um retrato editorial de verão fotorrealista de uma jovem sentada em um muro de terracota sob um céu azul, com luz forte da tarde e sombras diagonais.
-
-#### 🌟 Prompt
-
-Tema: Parede vermelha e perfil de verão Personagem/Expressão: Mulher na casa dos 20 anos. Pele clara em tom …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
-```
-Tema:
-Parede vermelha e perfil de verão
-
-Personagem/Expressão:
-Mulher na casa dos 20 anos. Pele clara em tom marfim-bege, com um matiz rosado natural. Realces suaves nas bochechas, ponta do nariz, ombros e clavículas, preservando uma textura de pele delicada em vez de retoque excessivo. Maquiagem japonesa refinada e delicada estilo boneca, blush rosa-suave, sombra bege-champanhe e marrom-rosado, cílios finos e longos, aegyo-sal natural, sobrancelhas castanho-claras, gloss rosa-bege translúcido. Pequeno brilho nítido nos olhos. Expressão calma, olhando ao longe com um ar levemente frio. Cabelo castanho-escuro preso em um rabo de cavalo baixo e solto, com fios finos soltos ao redor do rosto ao vento.
-
-Roupa/Pose:
-Regata canelada de alça fina em marfim, com leveza de verão. As linhas da clavícula e dos ombros aparecem naturalmente, mas a exposição é discreta e elegante. Na parte de baixo, calça larga de cintura alta em bege cru, tecido leve com mistura de linho, com um cinto longo de tecido da mesma cor amarrado na cintura. Nos pés, sandálias de tiras finas em marrom-bege. A figura senta-se de lado sobre um muro baixo cor terracota, apoiando o corpo com a mão direita sobre o muro, com o joelho esquerdo levemente levantado e a perna direita estendida naturalmente para baixo. O tronco gira levemente para a esquerda do quadro e o rosto se volta para o céu azul.
-
-Fundo/Luz:
-Espaço arquitetônico minimalista, como um museu de arte contemporânea japonês ou um terraço moderno à beira-mar. Parede de terracota vermelho-amarronzada, parapeito baixo, grande parede vertical à esquerda, marquise fina no topo e céu de verão límpido ao fundo. Parede e piso têm textura fina de estuque e concreto. A forte luz solar da tarde entra pelo canto superior esquerdo, lançando uma grande sombra diagonal na parede esquerda e a sombra da figura na superfície. Luz quente incide nos ombros, bochechas e contorno do cabelo; o lado da sombra é profundo, mas levemente aliviado pelo reflexo azul do céu.
-
-Composição/Câmera:
-Vertical 3:4. Retrato de moda em média distância. A figura fica à direita do quadro, deixando amplo espaço de céu azul na metade superior. A parede vermelha e a sombra diagonal à esquerda criam uma forte composição geométrica. O corpo inteiro aparece, com uma pequena folga na borda inferior perto das sandálias. Câmera em nível de olhar um pouco baixo, com leve contra-plongée. Foco no rosto e no tronco, profundidade de campo natural, sem fundo raso demais.
-
-Textura/Estilo:
-Imagem de IA com aparência de foto realista. Editorial de moda de verão japonês, luz forte, ar seco, contraste de campos de cor entre terracota e céu azul. Pele com textura natural, roupas com trama visível de linho e malha canelada. Alto contraste, mas não excessivamente duro, com grão fino e tons sóbrios como uma foto de filme. Evitar HDR excessivo, retoque de pele exagerado e estilo anime.
-
-Negativo:
-rosto de aparência infantil, olhar não natural, maquiagem de influenciadora excessiva, pele plástica, exposição excessiva, roupas transparentes, dedos extras ou faltando, fusão de mãos e pés, articulações quebradas, postura sentada não natural, contato ruim com o muro, flutuação, sombras que contradizem a fonte de luz, perspectiva incorreta, pessoas ou objetos desnecessários, texto, logotipos, marcas d'água, copiar diretamente a composição ou a roupa da imagem de referência.
-```
-
-</details>
-
-#### 🌁 Imagem gerada
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HMJc8PVaUAAXy_u.jpg" width="700" alt="Retrato de Verão na Parede Terracota">
-</div>
-
-<br>
-
-<div align="center">
-
-| Autor | Fonte | Publicado |
-| :---: | :---: | :---: |
-| [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026) | [X / Twitter](https://x.com/CyberTotal2026/status/2072851820406338026) | 2026-07-03 |
-
-</div>
-
-<div align="center">
-
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072851820406338026)**
-
-</div>
-
----
-
-### No. 31: Anúncio de Campo de Aura do Produto
-
-![Categoria: Publicidade e produto](https://img.shields.io/badge/Categoria-Publicidade%20e%20produto-lightgrey)
-
-#### 📚 Descrição
-
-Cria um pôster publicitário premium onde o produto é o herói cercado por campos de aura visíveis que expressam sabor, aroma, som ou emoção conforme a categoria e o DNA da marca.
-
-#### 🌟 Prompt
-
-Crie um pôster publicitário premium para [BRAND] apresentando [PRODUCT]. Construa a imagem em torno de um …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
-```
-Crie um pôster publicitário premium para [BRAND] apresentando [PRODUCT].
-
-Construa a imagem em torno de um conceito de CAMPO DE AURA.
-
-O produto deve ser o herói claro, colocado em uma composição comercial premium com detalhes nítidos, materiais realistas, iluminação cinematográfica e forte hierarquia visual.
-
-Em torno do produto, crie campos de aura visíveis que expressem o que o produto faz as pessoas sentirem, saborearem, ouvirem, cheirarem, vestirem ou experimentarem.
-
-A aura não deve parecer magia aleatória. Ela deve ser projetada como uma linguagem visual refinada baseada na categoria do produto e no DNA da marca.
-
-Adapte a aura ao produto:
-- produtos alimentícios criam ondas de sabor, migalhas, creme, chocolate, vapor, partículas crocantes ou energia de apetite
-- produtos de fragrância e beleza criam rastros de aroma, névoa, pétalas, brilho da pele, partículas botânicas ou ar líquido suave
-- produtos de tecnologia criam campos de dados limpos, grades de luz, partículas de interface, ondas de sinal ou brilho inteligente
-- produtos de moda e óculos criam rastros de movimento, linhas de atitude, reflexos, energia urbana ou luz editorial
-- produtos para casa criam atmosfera calma, calor, textura, ondas de conforto, sombras suaves ou energia ritual
-- produtos de performance criam campos de velocidade, anéis de impacto, pressão do ar, linhas de foco ou energia cinética
-
-A aura deve envolver o produto, interagir com sua forma e fazer o produto parecer poderoso, desejável e icônico.
-
-Mantenha a composição premium, minimalista onde necessário e altamente polida. Use tipografia refinada inspirada na linguagem visual da marca com um slogan curto de 3 palavras.
-
-Não use pessoas em miniatura, micromundos, narrativa de sombras, molduras de espaço negativo, composição em vista explodida, monumentos de produto ou realidade dividida.
-
-Evite copiar qualquer campanha real existente. Crie um conceito de anúncio original e novo.
-
-Marca: [BRAND]
-Produto: [PRODUCT]
-Tipo de aura: [SENSORY / EMOTIONAL / FUNCTIONAL AURA]
-Proporção: [RATIO]
-```
-
-</details>
-
-#### 🌁 Imagem gerada
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HMNg-o6XoAE7DCD.jpg" width="700" alt="Anúncio de Campo de Aura do Produto">
-</div>
-
-<br>
-
-<div align="center">
-
-| Autor | Fonte | Publicado |
-| :---: | :---: | :---: |
-| [AZIZ \| AI 🇸🇦](https://x.com/aziz4ai) | [X / Twitter](https://x.com/aziz4ai/status/2072606903683670040) | 2026-07-02 |
-
-</div>
-
-<div align="center">
-
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072606903683670040)**
-
-</div>
-
----
-
-### No. 32: Pôster de Relevo em Marfim de Marcos Urbanos
+### No. 38: Pôster de Relevo em Marfim de Marcos Urbanos
 
 ![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
 
@@ -2117,7 +2480,7 @@ Renderização em qualidade 8K, rico em detalhes finos por toda parte, evocando 
 
 ---
 
-### No. 33: Crachá Y2K Harajuku de Marca
+### No. 39: Crachá Y2K Harajuku de Marca
 
 ![Categoria: Branding e Interface](https://img.shields.io/badge/Categoria-Branding%20e%20Interface-lightgrey)
 
@@ -2188,7 +2551,7 @@ Apenas vetor plano. Zero gradientes, efeitos, desfoque ou renderização. Bordas
 
 ---
 
-### No. 34: Pôster Fluido de Música Experimental
+### No. 40: Pôster Fluido de Música Experimental
 
 ![Categoria: Materiais de marketing](https://img.shields.io/badge/Categoria-Materiais%20de%20marketing-lightgrey)
 
@@ -2270,37 +2633,24 @@ Garanta que a imagem pareça um pôster de evento artístico chinês realmente p
 
 ---
 
-### No. 35: Estilo de Ilustração Cartoon Editorial Caprichosa
+### No. 41: Devaneio em Tinta de Sonhador
 
 ![Categoria: Ilustração e IP](https://img.shields.io/badge/Categoria-Ilustra%C3%A7%C3%A3o%20e%20IP-lightgrey)
 
 #### 📚 Descrição
 
-Uma referência de estilo que mistura ilustração editorial caprichosa com cartoon desenhado à mão, com traços de tinta soltos e paleta azul-laranja para personagens expressivos e peculiares.
+Transforma qualquer sujeito em uma cena onírica de tinta expressiva, com linhas fluidas, hachuras e pontilhados em tons etéreos.
 
 #### 🌟 Prompt
 
-Este estilo Midjourney combina ilustração editorial caprichosa com estética de cartoon desenhado à mão de …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
 ```
-Este estilo Midjourney combina ilustração editorial caprichosa com estética de cartoon desenhado à mão de forma ingênua:
-
---sref 2857031319
-
-Traços de tinta soltos, proporções imperfeitas, pincelada texturizada e uma paleta contida de azul e laranja criam personagens peculiares e expressivos, cheios de personalidade.
-
-As composições minimalistas e as imperfeições lúdicas dão a cada ilustração o charme de um livro ilustrado independente ou de uma arte de revista contemporânea.
+[SUBJECT] renderizado em um Devaneio em Tinta de Sonhador, onde a realidade se dissolve em paisagens oníricas rodopiantes e padrões fluidos. Use linhas de tinta expressivas, hachuras intrincadas e pontilhado, com toques etéreos de [COLOR1] e [COLOR2] para criar atmosfera
 ```
-
-</details>
 
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMOSaxsWcAA5eWg.jpg" width="700" alt="Estilo de Ilustração Cartoon Editorial Caprichosa">
+<img src="https://image.moge.ai/prompt_media/HMOlBthWkAAuzZe.jpg" width="700" alt="Devaneio em Tinta de Sonhador">
 </div>
 
 <br>
@@ -2309,36 +2659,35 @@ As composições minimalistas e as imperfeições lúdicas dão a cada ilustraç
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [OscarAI](https://x.com/Artedeingenio) | [X / Twitter](https://x.com/Artedeingenio/status/2072661317849128989) | 2026-07-02 |
+| [LudovicCreator](https://x.com/LudovicCreator) | [X / Twitter](https://x.com/LudovicCreator/status/2072681721070281032) | 2026-07-02 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072661317849128989)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072681721070281032)**
 
 </div>
 
 ---
 
-### No. 36: Anúncio de Moda de Luxo em Paris
+### No. 42: Foto Publicitária de Latte Caramelo Gelado
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Cria um anúncio de moda de luxo em preto e branco no estilo editorial parisiense, com uma modelo elegante, arquitetura icônica e tipografia refinada de revista.
+Cria uma foto comercial de latte caramelo gelado com espresso sendo despejado, respingos de caramelo e cenário de estúdio quente.
 
 #### 🌟 Prompt
 
-Crie um anúncio de moda de luxo premium em estilo editorial parisiense minimalista. Uma mulher sofisticada …
+Uma fotografia comercial profissional de alimentos de um latte de caramelo gelado em um copo plástico …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Crie um anúncio de moda de luxo premium em estilo editorial parisiense minimalista. Uma mulher sofisticada usando óculos de sol pretos oversized e um casaco de lã preto estruturado com gola alta está em pé com confiança em uma clássica rua parisiense. Ela está posicionada no canto inferior direito da composição, olhando para a esquerda com uma expressão calma e elegante. Seu cabelo está penteado em um coque baixo e liso. O fundo apresenta a icônica arquitetura parisiense com suave profundidade de campo cinematográfica e a Torre Eiffel sutilmente visível ao longe. A imagem inteira é em preto e branco com contraste profundo, iluminação natural suave, detalhes nítidos e uma estética de alta moda atemporal. O layout se assemelha à capa de uma revista de luxo com generoso espaço negativo. No topo central, coloque um grande nome de marca em serifa elegante, com uma pequena localização em maiúsculas acima dele e um título de coleção refinado abaixo dele. No lado esquerdo, inclua um slogan de moda ousado, em maiúsculas, em fonte sans-serif moderna. Abaixo dele, adicione uma breve descrição da coleção em tipografia pequena e limpa. Finalize com um rodapé preto minimalista contendo um site, localização da boutique e ícones de mídia social.
-Branding de luxo, editorial Vogue, estética Harper's Bazaar, layout de grade suíça, tipografia premium, composição minimalista, fotografia cinematográfica, ultra-realista, lente 85mm, profundidade de campo rasa, luz ambiente suave, monocromático, 8K, qualidade de impressão de revista, pôster vertical A4.
+Uma fotografia comercial profissional de alimentos de um latte de caramelo gelado em um copo plástico transparente com um logotipo de coração vermelho, colocado sobre um pedestal de pedra redondo. Espuma de leite branca e espessa por cima, regada com um padrão de grade perfeito de calda de caramelo dourada. Uma dose de espresso escuro e fresco está sendo despejada de uma pequena jarra de vidro no topo, dentro do copo, no ar. Ao fundo, há um cenário de estúdio bege e quente com caramelo pegajoso escorrendo pelos cantos superiores. Ao redor do copo principal, sobre uma mesa bege, há um pequeno prato com cubos de caramelo, uma tigela de calda de caramelo, um copo de espresso, uma pequena jarra de vidro com leite fresco, um folhado recém-assado e grãos de café espalhados. Iluminação de estúdio, sombras suaves, estética quente, resolução 8k, fotorrealista, estilo de anúncio publicitário comercial.
 ```
 
 </details>
@@ -2346,7 +2695,7 @@ Branding de luxo, editorial Vogue, estética Harper's Bazaar, layout de grade su
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMNuXfvbgAAhQiz.jpg" width="700" alt="Anúncio de Moda de Luxo em Paris">
+<img src="https://image.moge.ai/prompt_media/HMRTa-KbIAAfI9w.jpg" width="700" alt="Foto Publicitária de Latte Caramelo Gelado">
 </div>
 
 <br>
@@ -2355,59 +2704,52 @@ Branding de luxo, editorial Vogue, estética Harper's Bazaar, layout de grade su
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Harboris](https://x.com/harboriis) | [X / Twitter](https://x.com/harboriis/status/2072621622796726279) | 2026-07-02 |
+| [Zyro](https://x.com/Itswsm105f) | [X / Twitter](https://x.com/Itswsm105f/status/2072873772412268763) | 2026-07-03 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072621622796726279)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072873772412268763)**
 
 </div>
 
 ---
 
-### No. 37: Pôster de Lançamento com Tipografia Gigante
+### No. 43: Teatro de Corte Transversal do Produto
 
 ![Categoria: Publicidade e produto](https://img.shields.io/badge/Categoria-Publicidade%20e%20produto-lightgrey)
 
 #### 📚 Descrição
 
-Gera um pôster comercial vertical 3:4 com o produto como herói e uma manchete tipográfica gigante que se transforma no cenário, com sistema completo de informações de campanha.
+Cria uma imagem publicitária premium mostrando o produto em um corte transversal cinematográfico, onde cada camada interna revela função, textura e valor emocional.
 
 #### 🌟 Prompt
 
-[Tema]: Pôster de Promoção de Novo Produto [Tipo de Produto] [Nome da Marca]: [Nome da Marca] [Nome do …
+Crie uma imagem publicitária premium para [PRODUTO / MARCA]. Sistema visual: Teatro de Corte Transversal do …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-[Tema]: Pôster de Promoção de Novo Produto [Tipo de Produto]
-[Nome da Marca]: [Nome da Marca]
-[Nome do Produto]: [Nome do Produto]
-[Título Principal (Texto Grande)]: [ex.: SCENT / TIME / SOUND / EXPLORE]
-[Subtítulo]: [Um slogan curto e cativante]
-[Paleta de Cores]: [Cor Primária + Cor Secundária + Cor de Destaque]
-[Tipo de Sujeito/Modelo]: [ex.: Sem modelos / Modelo masculino / Modelo feminino / Figura moderna / Entusiasta outdoor]
-[Cena/Atmosfera]: [ex.: Espaço de fragrância / Túnel do tempo / Trajetória de onda sonora / Terreno montanhoso]
-[Principais Pontos de Venda]: [Ponto 1], [Ponto 2], [Ponto 3], [Ponto 4]
-[Proporção]: Vertical 3:4
-Por favor, gere um pôster publicitário comercial em alta definição na proporção vertical 3:4 (imagem única; sem colagens ou layouts de múltiplos painéis).
+Crie uma imagem publicitária premium para [PRODUTO / MARCA].
 
-Este é um pôster promocional de uma marca original e fictícia; não inclua logotipos de marcas reais. O estilo geral é um "pôster focado no produto com tipografia em grande escala orientada pela perspectiva." A imagem deve se assemelhar ao visual-chave de uma campanha oficial de marca, transmitindo uma estética comercial profissional, design tipográfico forte, sensação de empolgação de lançamento, impacto visual e um layout de informações abrangente.
+Sistema visual: Teatro de Corte Transversal do Produto.
 
-O sujeito central da imagem é o [Nome do Produto]. O produto deve ser renderizado de forma clara e requintada—como um "produto herói" em um anúncio—posicionado no primeiro plano ou na área central inferior. Deve apresentar materiais realistas, integridade estrutural e detalhes nítidos; não deve parecer pequeno demais ou borrado. Incorpore figuras ou cenários de uso apropriados conforme o tipo de produto (ex.: modelos masculinos/femininos, indivíduos modernos, entusiastas outdoor ou ações/humores associados ao usuário). Os modelos devem parecer autênticos e sofisticados, reforçando a identidade da marca sem ofuscar o produto.
+Mostre o produto como protagonista, aberto por meio de um corte transversal cinematográfico e limpo, não explodido aleatoriamente. O interior deve parecer um mundo visual encenado, onde cada camada revela a função, textura, benefício e valor emocional do produto.
 
-O título principal ([Título Principal (Texto Grande)]) deve servir como a espinha dorsal visual da composição, usando uma fonte sans-serif superdimensionada e em negrito que domina o quadro. O texto não deve ser apenas um título padrão, mas parte integral da estrutura espacial da imagem—transformando-se em elementos como uma parede de fundo, uma pista, uma estrada, uma rampa, um túnel do tempo, um caminho de onda sonora, um espaço perfumado, uma trilha na montanha, uma instalação de perspectiva ou um símbolo-chave da marca. O produto, a figura e o título devem compartilhar uma lógica espacial unificada, estabelecendo relações realistas entre primeiro e segundo plano, oclusão, sombras de contato e profundidade em perspectiva.
+As camadas do corte devem parecer intencionais, elegantes e premium:
+- casca externa / embalagem
+- estrutura de material interna
+- camada de desempenho ou sensorial
+- benefício invisível tornado visível
 
-A composição deve incorporar um sistema completo e formal de informações de pôster; não deve parecer vazia ou como uma imagem de banco genérica. Coloque o nome da marca no canto superior esquerdo e o subtexto da campanha (ex.: NEW RELEASE / PRODUCT CAMPAIGN / SERIES 2026) no canto superior direito. Inclua texto vertical, códigos de produto, números de série ou IDs de campanha na lateral. Adicione de 3 a 5 tags concisas de recursos/pontos de venda perto do produto (ex.: [Recurso 1], [Recurso 2], etc.). Inclua uma barra formal de informações na parte inferior contendo o nome do produto, subtítulo, data de lançamento, especificações principais, créditos em letras miúdas, linhas divisórias e códigos de barras ou números de série decorativos. Textos pequenos podem funcionar como "microtipografia" estilística—nem todo caractere precisa ser perfeitamente legível, mas o nome da marca, o nome do produto e o título principal devem ser claros.
+Use iluminação de estúdio de alto padrão, sombras dramáticas, composição refinada, renderização de produto ultra-realista, detalhe macro, acabamento comercial premium, foco nítido, proporção 16:9.
 
-A paleta de cores deve centrar-se em um [Tom Primário], com o fundo elaborado para evocar uma atmosfera específica—como um espaço de moda minimalista, um ambiente de névoa aromática, um cenário metálico/mecânico, um espaço musical iluminado por neon, uma natureza selvagem ao ar livre ou uma paisagem nevada e rochosa. Elementos sutis como luz e sombra, névoa, reflexos, granulado, efeitos de vento, perspectiva atmosférica, rastros de movimento ou refrações de material podem ser adicionados para realçar a sensação premium, desde que o resultado permaneça organizado e evite uma estética barata de e-commerce.
+Evite peças bagunçadas, estilo de raio-x médico, rótulos infantis, infográficos confusos, 3D barato, objetos flutuantes aleatórios e excesso de texto.
 
-A imagem deve ser de alta resolução e nítida, com perspectiva precisa, texturas realistas e iluminação consistente, assemelhando-se a um autêntico pôster de campanha de marca. É adequada para categorias como perfumes, relógios, fones de ouvido, produtos digitais, vestuário outdoor, marcas esportivas e bens de consumo.
-
-Evite: colagens ou composições de múltiplas imagens, logotipos de marcas reais, fotos de banco genéricas, estética barata de e-commerce, estilos cartunescos, fundos desordenados, produtos subdimensionados, rostos artificiais nas figuras, estilização de título plana/genérica ou áreas de informação insuficientes.
+Texto opcional na imagem:
+[LINHA DE CAMPANHA CURTA]
 ```
 
 </details>
@@ -2415,7 +2757,7 @@ Evite: colagens ou composições de múltiplas imagens, logotipos de marcas reai
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMMJbX6aMAA7CkI.jpg" width="700" alt="Pôster de Lançamento com Tipografia Gigante">
+<img src="https://image.moge.ai/prompt_media/HMTeoIOXQAANwl2.jpg" width="700" alt="Teatro de Corte Transversal do Produto">
 </div>
 
 <br>
@@ -2424,19 +2766,19 @@ Evite: colagens ou composições de múltiplas imagens, logotipos de marcas reai
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [PixuryAI](https://x.com/PixuryAI) | [X / Twitter](https://x.com/PixuryAI/status/2072510729090167081) | 2026-07-02 |
+| [AZIZ \| AI 🇸🇦](https://x.com/aziz4ai) | [X / Twitter](https://x.com/aziz4ai/status/2073026525243310084) | 2026-07-03 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072510729090167081)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2073026525243310084)**
 
 </div>
 
 ---
 
-### No. 38: Pôster Zen Oriental de Portão Circular
+### No. 44: Pôster Zen Oriental de Portão Circular
 
 ![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
 
@@ -2490,7 +2832,7 @@ Requisitos adicionais: o portão redondo deve ser simples e sofisticado, a figur
 
 ---
 
-### No. 39: Logo de Marca em Giz de Cera Infantil
+### No. 45: Logo de Marca em Giz de Cera Infantil
 
 ![Categoria: Branding e Interface](https://img.shields.io/badge/Categoria-Branding%20e%20Interface-lightgrey)
 
@@ -2561,7 +2903,7 @@ Ilustração 2D plana, sem 3D, sem simulação de iluminação, sem gradientes. 
 
 ---
 
-### No. 40: Pôster de Exposição Neochinês
+### No. 46: Pôster de Exposição Neochinês
 
 ![Categoria: Materiais de marketing](https://img.shields.io/badge/Categoria-Materiais%20de%20marketing-lightgrey)
 
@@ -2623,7 +2965,355 @@ Evite: título em aguada de tinta, manchas dentro dos caracteres, desfoque amplo
 
 ---
 
-### No. 41: Estilo Colecionável Anime Tropical
+### No. 47: Estilo de Ilustração Cartoon Editorial Caprichosa
+
+![Categoria: Ilustração e IP](https://img.shields.io/badge/Categoria-Ilustra%C3%A7%C3%A3o%20e%20IP-lightgrey)
+
+#### 📚 Descrição
+
+Uma referência de estilo que mistura ilustração editorial caprichosa com cartoon desenhado à mão, com traços de tinta soltos e paleta azul-laranja para personagens expressivos e peculiares.
+
+#### 🌟 Prompt
+
+Este estilo Midjourney combina ilustração editorial caprichosa com estética de cartoon desenhado à mão de …
+
+<details>
+<summary>Mostrar prompt completo</summary>
+
+```
+Este estilo Midjourney combina ilustração editorial caprichosa com estética de cartoon desenhado à mão de forma ingênua:
+
+--sref 2857031319
+
+Traços de tinta soltos, proporções imperfeitas, pincelada texturizada e uma paleta contida de azul e laranja criam personagens peculiares e expressivos, cheios de personalidade.
+
+As composições minimalistas e as imperfeições lúdicas dão a cada ilustração o charme de um livro ilustrado independente ou de uma arte de revista contemporânea.
+```
+
+</details>
+
+#### 🌁 Imagem gerada
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HMOSaxsWcAA5eWg.jpg" width="700" alt="Estilo de Ilustração Cartoon Editorial Caprichosa">
+</div>
+
+<br>
+
+<div align="center">
+
+| Autor | Fonte | Publicado |
+| :---: | :---: | :---: |
+| [OscarAI](https://x.com/Artedeingenio) | [X / Twitter](https://x.com/Artedeingenio/status/2072661317849128989) | 2026-07-02 |
+
+</div>
+
+<div align="center">
+
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072661317849128989)**
+
+</div>
+
+---
+
+### No. 48: Retrato de Verão na Parede Terracota
+
+![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
+
+#### 📚 Descrição
+
+Um retrato editorial de verão fotorrealista de uma jovem sentada em um muro de terracota sob um céu azul, com luz forte da tarde e sombras diagonais.
+
+#### 🌟 Prompt
+
+Tema: Parede vermelha e perfil de verão Personagem/Expressão: Mulher na casa dos 20 anos. Pele clara em tom …
+
+<details>
+<summary>Mostrar prompt completo</summary>
+
+```
+Tema:
+Parede vermelha e perfil de verão
+
+Personagem/Expressão:
+Mulher na casa dos 20 anos. Pele clara em tom marfim-bege, com um matiz rosado natural. Realces suaves nas bochechas, ponta do nariz, ombros e clavículas, preservando uma textura de pele delicada em vez de retoque excessivo. Maquiagem japonesa refinada e delicada estilo boneca, blush rosa-suave, sombra bege-champanhe e marrom-rosado, cílios finos e longos, aegyo-sal natural, sobrancelhas castanho-claras, gloss rosa-bege translúcido. Pequeno brilho nítido nos olhos. Expressão calma, olhando ao longe com um ar levemente frio. Cabelo castanho-escuro preso em um rabo de cavalo baixo e solto, com fios finos soltos ao redor do rosto ao vento.
+
+Roupa/Pose:
+Regata canelada de alça fina em marfim, com leveza de verão. As linhas da clavícula e dos ombros aparecem naturalmente, mas a exposição é discreta e elegante. Na parte de baixo, calça larga de cintura alta em bege cru, tecido leve com mistura de linho, com um cinto longo de tecido da mesma cor amarrado na cintura. Nos pés, sandálias de tiras finas em marrom-bege. A figura senta-se de lado sobre um muro baixo cor terracota, apoiando o corpo com a mão direita sobre o muro, com o joelho esquerdo levemente levantado e a perna direita estendida naturalmente para baixo. O tronco gira levemente para a esquerda do quadro e o rosto se volta para o céu azul.
+
+Fundo/Luz:
+Espaço arquitetônico minimalista, como um museu de arte contemporânea japonês ou um terraço moderno à beira-mar. Parede de terracota vermelho-amarronzada, parapeito baixo, grande parede vertical à esquerda, marquise fina no topo e céu de verão límpido ao fundo. Parede e piso têm textura fina de estuque e concreto. A forte luz solar da tarde entra pelo canto superior esquerdo, lançando uma grande sombra diagonal na parede esquerda e a sombra da figura na superfície. Luz quente incide nos ombros, bochechas e contorno do cabelo; o lado da sombra é profundo, mas levemente aliviado pelo reflexo azul do céu.
+
+Composição/Câmera:
+Vertical 3:4. Retrato de moda em média distância. A figura fica à direita do quadro, deixando amplo espaço de céu azul na metade superior. A parede vermelha e a sombra diagonal à esquerda criam uma forte composição geométrica. O corpo inteiro aparece, com uma pequena folga na borda inferior perto das sandálias. Câmera em nível de olhar um pouco baixo, com leve contra-plongée. Foco no rosto e no tronco, profundidade de campo natural, sem fundo raso demais.
+
+Textura/Estilo:
+Imagem de IA com aparência de foto realista. Editorial de moda de verão japonês, luz forte, ar seco, contraste de campos de cor entre terracota e céu azul. Pele com textura natural, roupas com trama visível de linho e malha canelada. Alto contraste, mas não excessivamente duro, com grão fino e tons sóbrios como uma foto de filme. Evitar HDR excessivo, retoque de pele exagerado e estilo anime.
+
+Negativo:
+rosto de aparência infantil, olhar não natural, maquiagem de influenciadora excessiva, pele plástica, exposição excessiva, roupas transparentes, dedos extras ou faltando, fusão de mãos e pés, articulações quebradas, postura sentada não natural, contato ruim com o muro, flutuação, sombras que contradizem a fonte de luz, perspectiva incorreta, pessoas ou objetos desnecessários, texto, logotipos, marcas d'água, copiar diretamente a composição ou a roupa da imagem de referência.
+```
+
+</details>
+
+#### 🌁 Imagem gerada
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HMJc8PVaUAAXy_u.jpg" width="700" alt="Retrato de Verão na Parede Terracota">
+</div>
+
+<br>
+
+<div align="center">
+
+| Autor | Fonte | Publicado |
+| :---: | :---: | :---: |
+| [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026) | [X / Twitter](https://x.com/CyberTotal2026/status/2072851820406338026) | 2026-07-03 |
+
+</div>
+
+<div align="center">
+
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072851820406338026)**
+
+</div>
+
+---
+
+### No. 49: Anúncio de Campo de Aura do Produto
+
+![Categoria: Publicidade e produto](https://img.shields.io/badge/Categoria-Publicidade%20e%20produto-lightgrey)
+
+#### 📚 Descrição
+
+Cria um pôster publicitário premium onde o produto é o herói cercado por campos de aura visíveis que expressam sabor, aroma, som ou emoção conforme a categoria e o DNA da marca.
+
+#### 🌟 Prompt
+
+Crie um pôster publicitário premium para [BRAND] apresentando [PRODUCT]. Construa a imagem em torno de um …
+
+<details>
+<summary>Mostrar prompt completo</summary>
+
+```
+Crie um pôster publicitário premium para [BRAND] apresentando [PRODUCT].
+
+Construa a imagem em torno de um conceito de CAMPO DE AURA.
+
+O produto deve ser o herói claro, colocado em uma composição comercial premium com detalhes nítidos, materiais realistas, iluminação cinematográfica e forte hierarquia visual.
+
+Em torno do produto, crie campos de aura visíveis que expressem o que o produto faz as pessoas sentirem, saborearem, ouvirem, cheirarem, vestirem ou experimentarem.
+
+A aura não deve parecer magia aleatória. Ela deve ser projetada como uma linguagem visual refinada baseada na categoria do produto e no DNA da marca.
+
+Adapte a aura ao produto:
+- produtos alimentícios criam ondas de sabor, migalhas, creme, chocolate, vapor, partículas crocantes ou energia de apetite
+- produtos de fragrância e beleza criam rastros de aroma, névoa, pétalas, brilho da pele, partículas botânicas ou ar líquido suave
+- produtos de tecnologia criam campos de dados limpos, grades de luz, partículas de interface, ondas de sinal ou brilho inteligente
+- produtos de moda e óculos criam rastros de movimento, linhas de atitude, reflexos, energia urbana ou luz editorial
+- produtos para casa criam atmosfera calma, calor, textura, ondas de conforto, sombras suaves ou energia ritual
+- produtos de performance criam campos de velocidade, anéis de impacto, pressão do ar, linhas de foco ou energia cinética
+
+A aura deve envolver o produto, interagir com sua forma e fazer o produto parecer poderoso, desejável e icônico.
+
+Mantenha a composição premium, minimalista onde necessário e altamente polida. Use tipografia refinada inspirada na linguagem visual da marca com um slogan curto de 3 palavras.
+
+Não use pessoas em miniatura, micromundos, narrativa de sombras, molduras de espaço negativo, composição em vista explodida, monumentos de produto ou realidade dividida.
+
+Evite copiar qualquer campanha real existente. Crie um conceito de anúncio original e novo.
+
+Marca: [BRAND]
+Produto: [PRODUCT]
+Tipo de aura: [SENSORY / EMOTIONAL / FUNCTIONAL AURA]
+Proporção: [RATIO]
+```
+
+</details>
+
+#### 🌁 Imagem gerada
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HMNg-o6XoAE7DCD.jpg" width="700" alt="Anúncio de Campo de Aura do Produto">
+</div>
+
+<br>
+
+<div align="center">
+
+| Autor | Fonte | Publicado |
+| :---: | :---: | :---: |
+| [AZIZ \| AI 🇸🇦](https://x.com/aziz4ai) | [X / Twitter](https://x.com/aziz4ai/status/2072606903683670040) | 2026-07-02 |
+
+</div>
+
+<div align="center">
+
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072606903683670040)**
+
+</div>
+
+---
+
+### No. 50: Slides Infográficos de Frutas e Vegetais
+
+![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
+
+#### 📚 Descrição
+
+Gera 10 slides estilo PPT em 16:9, cada um apresentando uma fruta ou vegetal diferente com frases de efeito, conhecimento e layouts variados.
+
+#### 🌟 Prompt
+
+```
+Tema: apresentar 10 frutas e vegetais de verão
+Gere 10 imagens em sequência, cada uma apresentando uma fruta/vegetal diferente, com lógica de frases de efeito, lógica de conhecimento, além de lógica de paleta de cores e de layout
+Semelhante a um PPT, gere 10, garantindo diferenças de layout entre elas
+Proporção 16:9
+```
+
+#### 🌁 Imagem gerada
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HMSreFqasAAGekX.jpg" width="700" alt="Slides Infográficos de Frutas e Vegetais">
+</div>
+
+<br>
+
+<div align="center">
+
+| Autor | Fonte | Publicado |
+| :---: | :---: | :---: |
+| [小小东](https://x.com/xiaoxiaodong01) | [X / Twitter](https://x.com/xiaoxiaodong01/status/2072970775896977595) | 2026-07-03 |
+
+</div>
+
+<div align="center">
+
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072970775896977595)**
+
+</div>
+
+---
+
+### No. 51: Sistema de Padrão de Identidade da Seleção
+
+![Categoria: Branding e Interface](https://img.shields.io/badge/Categoria-Branding%20e%20Interface-lightgrey)
+
+#### 📚 Descrição
+
+Gera um padrão geométrico abstrato e perfeitamente repetível, de nível de federação, baseado na identidade de uma seleção de futebol.
+
+#### 🌟 Prompt
+
+Crie um padrão perfeitamente repetível inspirado na seleção nacional de futebol para [TEAM\_NAME], para o …
+
+<details>
+<summary>Mostrar prompt completo</summary>
+
+```
+Crie um padrão perfeitamente repetível inspirado na seleção nacional de futebol para [TEAM_NAME], para o palco mundial do futebol de 2026.
+
+Projete um padrão abstrato premium inspirado na identidade da seleção nacional de futebol de [TEAM_NAME]. Use a paleta de cores oficial de futebol da equipe e traduza sua identidade em movimento geométrico abstrato, sem copiar diretamente a bandeira ou o brasão.
+
+Use formas geométricas translúcidas em camadas, faixas diagonais, formas modulares curvas, blocos rítmicos, gradientes suaves, sutil granulação de papel e uma estética premium de credenciamento esportivo oficial. O padrão deve parecer atlético, icônico, limpo, colecionável e de nível de federação.
+
+A imagem deve ser um ladrilho de repetição perfeitamente contínuo. Sem texto, sem tipografia, sem logotipo, sem brasão, sem jogador, sem bola de futebol, sem objeto central, sem moldura de cartão, sem borda, sem mockup.
+```
+
+</details>
+
+#### 🌁 Imagem gerada
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HL7GxnSWAAArkiX.jpg" width="700" alt="Sistema de Padrão de Identidade da Seleção">
+</div>
+
+<br>
+
+<div align="center">
+
+| Autor | Fonte | Publicado |
+| :---: | :---: | :---: |
+| [AmirMušić](https://x.com/AmirMushich) | [X / Twitter](https://x.com/AmirMushich/status/2071311441420796310) | 2026-06-28 |
+
+</div>
+
+<div align="center">
+
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071311441420796310)**
+
+</div>
+
+---
+
+### No. 52: Cartaz Tipografia-Cenário Azul Cobalto
+
+![Categoria: Materiais de marketing](https://img.shields.io/badge/Categoria-Materiais%20de%20marketing-lightgrey)
+
+#### 📚 Descrição
+
+Gera um cartaz de evento em azul cobalt chapado com título gigante de 2 palavras da altura do personagem manga e bloco de informações laranja.
+
+#### 🌟 Prompt
+
+{ "regras\_de\_estilo": { "fundo": "azul cobalto elétrico sólido, totalmente chapado — sem gradiente, sem …
+
+<details>
+<summary>Mostrar prompt completo</summary>
+
+```
+{
+  "regras_de_estilo": {
+    "fundo": "azul cobalto elétrico sólido, totalmente chapado — sem gradiente, sem textura, sem granulação",
+    "fonte_do_titulo": "tipografia display branca gigante, estilo pixel/robusta com cantos arredondados, preenche a metade esquerda da tela — altura das letras aproximadamente igual à altura do personagem, MÁX. 2 PALAVRAS",
+    "personagem": "estilo de ilustração mangá, pose de ação dinâmica, roupa de subcultura específica com acessórios detalhados e calçado característico",
+    "relacao_personagem_texto": "personagem posicionado AO LADO, DENTRO ou SOBREPONDO as letras do título — peso espacial igual, nenhum subordinado ao outro",
+    "objeto_heroi": "um objeto de primeiro plano superdimensionado, mesma escala do personagem ou maior, muito detalhado: globo de gacha / caixa de som-jardineira / caixa de entrega geométrica / cilindro de aquário sci-fi",
+    "bloco_de_info": "retângulo laranja preenchido, texto branco, formato de 3 linhas: [substantivo da atividade] / [substantivo do tipo de local] / [horário HH:MM]",
+    "cor_de_destaque": "apenas laranja — sem terceira cor",
+    "linhas_de_velocidade": "formas geométricas angulares brancas / cortes em raio atravessam o fundo azul",
+    "regra_de_texto": "ZERO descrição do que é o evento — todo o significado da marca é carregado apenas pelo design do personagem + objeto",
+    "formato": "16:9 horizontal"
+  },
+  "negativo": "texto descritivo do evento, fundo com gradiente, título pequeno em relação ao personagem, fotografia realista, mais de 2 cores de destaque",
+  "variaveis": {
+    "nome_do_evento": "[título de 2 palavras: TOKEN RUSH / SKY SPROUT / NOVA DROP / BUBBLE SHIFT]",
+    "personagem": "[identidade de subcultura específica: gamer streetwear / jardineiro de terraço / entregador noturno / técnico de aquário]",
+    "roupa_caracteristica": "[roupa que comunica a identidade sem palavras: crocs + macacão / calça cargo + correntes / luvas neon + moletom]",
+    "objeto_heroi": "[um objeto superdimensionado: globo de máquina de cápsulas gacha / caixa de som como jardineira / caixa gráfica geométrica / cápsula cilíndrica de aquário]",
+    "conteudo_bloco_info": "[substantivo da atividade] / [substantivo do tipo de local] / [HH:MM]",
+    "posicionamento_personagem": "[ao lado das letras / de pé entre duas palavras / sobrepondo o limite do texto]"
+  }
+}
+```
+
+</details>
+
+#### 🌁 Imagem gerada
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HLzdDZtW0AMK0Hw.jpg" width="700" alt="Cartaz Tipografia-Cenário Azul Cobalto">
+</div>
+
+<br>
+
+<div align="center">
+
+| Autor | Fonte | Publicado |
+| :---: | :---: | :---: |
+| [Vigo Zhao](https://x.com/VigoCreativeAI) | [X / Twitter](https://x.com/VigoCreativeAI/status/2070773045795365165) | 2026-06-27 |
+
+</div>
+
+<div align="center">
+
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2070773045795365165)**
+
+</div>
+
+---
+
+### No. 53: Estilo Colecionável Anime Tropical
 
 ![Categoria: Ilustração e IP](https://img.shields.io/badge/Categoria-Ilustra%C3%A7%C3%A3o%20e%20IP-lightgrey)
 
@@ -2708,37 +3398,33 @@ Estilo = {
 
 ---
 
-### No. 42: Retrato de Campanha de Óculos de Luxo
+### No. 54: Retrato Etéreo com Cabelo ao Vento
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Cria um retrato fotorrealista de moda masculina em um terraço urbano, com óculos de sol oversized como destaque em um estilo de luxo minimalista e comercial.
+Um retrato feminino de costas, banhado pelo sol, com cabelos longos ao vento e blusa branca leve sob um céu azul claro e luminoso.
 
 #### 🌟 Prompt
 
-Uma campanha fotorrealista de óculos de moda premium com um jovem modelo masculino elegante (20-26) de …
+CABELO: Cabelo castanho‑escuro ultralongo e sedoso com reflexos quentes dourados pelo sol; movimento natural …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Uma campanha fotorrealista de óculos de moda premium com um jovem modelo masculino elegante (20-26) de constituição esguia, fotografado em um terraço urbano moderno sob a luz natural intensa do meio-dia. A imagem incorpora luxo minimalista, simplicidade escandinava e estética masculina contemporânea, com óculos de sol quadrados oversized como o centro visual inconfundível. Os óculos apresentam uma armação fina de acetato preto fosco e lentes gradientes âmbar quentes que revelam suavemente os olhos do modelo enquanto captam reflexos realistas da luz do dia.
+CABELO: Cabelo castanho‑escuro ultralongo e sedoso com reflexos quentes dourados pelo sol; movimento natural e suave ao vento, fios finos erguidos e fluindo livremente pelo rosto e para fora na brisa; a luz de fundo intensa cria bordas luminosas e brilhantes e uma textura leve e aérea, com o brilho saudável totalmente preservado.
 
-O modelo tem rosto oval com mandíbula suavemente definida, maçãs do rosto equilibradas, pele clara neutra com poros realistas e acabamento fosco saudável, sobrancelhas médias e retas, nariz reto, lábios foscos naturais e aparência bem barbeada. Seu penteado é um moderno French crop com cabelo curto e liso castanho-escuro, franja reta e acabamento fosco natural. Sua expressão é calma, relaxada, confiante e pensativa, com o olhar direcionado para fora da câmera à esquerda. Sua boca permanece naturalmente relaxada enquanto a cabeça está virada em um sutil perfil de três quartos, criando uma pose editorial elegante.
+QUALIDADE DA CAPTURA: Retrato estilo filme banhado pelo sol, paleta de cores clara e aérea, grão fino sutil, acabamento suave de foco delicado, efeito onírico de reflexo de lente, detalhe nítido no tecido e na textura do cabelo — SEM suavização excessiva, SEM filtros duros, SEM CGI.
 
-Ele veste uma camiseta premium de gola redonda de algodão pesado preto com caimento ajustado e relaxado, refletindo luxo discreto e moda masculina minimalista. A composição é um retrato fechado de cabeça e ombros captado ao nível dos olhos, com o sujeito posicionado ligeiramente à esquerda do centro contra um fundo suavemente desfocado de arquitetura moderna e limpa em tons de cinza claro, branco e azul suave. A pouca profundidade de campo cria um bokeh arquitetônico suave que realça a estética comercial de luxo sem distrair do sujeito.
+POSE E EXPRESSÃO: Pose relaxada de três quartos de costas, olhando gentilmente de volta para o observador; expressão calma e serena, olhar suave e natural, ombro exposto com textura de pele natural e lisa.
 
-A iluminação consiste na luz natural intensa do meio-dia vindo do canto superior frontal direito, equilibrada por um grande refletor branco que preenche suavemente as sombras faciais. O resultado é de contraste médio com sombras definidas porém limpas que preservam a textura natural da pele e a profundidade facial realista. Reflexos âmbar quentes nos óculos complementam sutilmente a paleta de cores neutra enquanto adicionam riqueza visual.
+TRAJE: Blusa branca solta com ombros de fora, feita de tecido leve texturizado e amassado; decote elástico franzido, dobras suaves e volumosas, fluxo natural e qualidade levemente translúcida realçada pela luz solar intensa.
 
-Capturada em uma Sony A1 com lente prime 85mm GM em f/2, 1/1600 seg, ISO 100, balanço de branco de luz do dia, produzindo um retrato excepcionalmente nítido com pouca profundidade de campo e separação óptica cinematográfica. Cada detalhe, incluindo poros realistas da pele, fios de cabelo individuais, textura macia do tecido de algodão e armações de acetato nítidas com reflexos autênticos, é renderizado com precisão de nível comercial.
+CENÁRIO E ILUMINAÇÃO: Céu azul‑claro brilhante e limpo com leve névoa fina; luz solar de fundo em ângulo alto cria uma luz de contorno brilhante ao redor do cabelo e dos ombros, iluminação frontal suave e difusa, atmosfera fresca, aberta e ensolarada.
 
-A gradação de cor segue um estilo comercial premium com contraste equilibrado, realces naturais suaves, sombras limpas, saturação levemente suavizada e tons de pele quentes e realistas. A paleta geral mistura preto profundo, bege quente, âmbar, marrom suave e cinzas arquitetônicos frios para uma sensação de luxo refinada. O pós-processamento inclui retoque de beleza editorial de alto nível, clareza média-alta, nitidez seletiva nos olhos, óculos e contornos faciais, ampla faixa dinâmica e um acabamento comercial ultralimpo.
-
-O clima geral é moderno, limpo, confiante, luxuoso, fresco, urbano e discreto, inspirado em campanhas de óculos de luxo da Gentle Monster, Persol, Oliver Peoples, COS e Acne Studios. A imagem final deve parecer um retrato comercial de altíssimo nível com realismo impecável, faixa dinâmica máxima, nitidez excepcional e verdadeira qualidade 8K.
-
-Prompt negativo: desenho animado, anime, HDR, cores supersaturadas, pele plástica, barba densa, fundo carregado, texto, marca d'água, baixa resolução, ruído, anatomia deformada.
+REGRA ESTRITA: Todas as características faciais, proporções, pose, design das roupas, iluminação e estética clara e aérea correspondem exatamente à referência; zero mudanças ou desvios.
 ```
 
 </details>
@@ -2746,7 +3432,7 @@ Prompt negativo: desenho animado, anime, HDR, cores supersaturadas, pele plásti
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMMREkUbYAAOhdR.jpg" width="700" alt="Retrato de Campanha de Óculos de Luxo">
+<img src="https://image.moge.ai/prompt_media/HMPcsVoXYAACHx3.jpg" width="700" alt="Retrato Etéreo com Cabelo ao Vento">
 </div>
 
 <br>
@@ -2755,19 +3441,367 @@ Prompt negativo: desenho animado, anime, HDR, cores supersaturadas, pele plásti
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Virena](https://x.com/vireonixx) | [X / Twitter](https://x.com/vireonixx/status/2072519037897367958) | 2026-07-02 |
+| [Talia](https://x.com/TaliaAariz) | [X / Twitter](https://x.com/TaliaAariz/status/2072742911645450392) | 2026-07-02 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072519037897367958)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072742911645450392)**
 
 </div>
 
 ---
 
-### No. 43: Pôster Colagem de Papel Rasgado da Marca
+### No. 55: Pôster de Lançamento com Tipografia Gigante
+
+![Categoria: Publicidade e produto](https://img.shields.io/badge/Categoria-Publicidade%20e%20produto-lightgrey)
+
+#### 📚 Descrição
+
+Gera um pôster comercial vertical 3:4 com o produto como herói e uma manchete tipográfica gigante que se transforma no cenário, com sistema completo de informações de campanha.
+
+#### 🌟 Prompt
+
+[Tema]: Pôster de Promoção de Novo Produto [Tipo de Produto] [Nome da Marca]: [Nome da Marca] [Nome do …
+
+<details>
+<summary>Mostrar prompt completo</summary>
+
+```
+[Tema]: Pôster de Promoção de Novo Produto [Tipo de Produto]
+[Nome da Marca]: [Nome da Marca]
+[Nome do Produto]: [Nome do Produto]
+[Título Principal (Texto Grande)]: [ex.: SCENT / TIME / SOUND / EXPLORE]
+[Subtítulo]: [Um slogan curto e cativante]
+[Paleta de Cores]: [Cor Primária + Cor Secundária + Cor de Destaque]
+[Tipo de Sujeito/Modelo]: [ex.: Sem modelos / Modelo masculino / Modelo feminino / Figura moderna / Entusiasta outdoor]
+[Cena/Atmosfera]: [ex.: Espaço de fragrância / Túnel do tempo / Trajetória de onda sonora / Terreno montanhoso]
+[Principais Pontos de Venda]: [Ponto 1], [Ponto 2], [Ponto 3], [Ponto 4]
+[Proporção]: Vertical 3:4
+Por favor, gere um pôster publicitário comercial em alta definição na proporção vertical 3:4 (imagem única; sem colagens ou layouts de múltiplos painéis).
+
+Este é um pôster promocional de uma marca original e fictícia; não inclua logotipos de marcas reais. O estilo geral é um "pôster focado no produto com tipografia em grande escala orientada pela perspectiva." A imagem deve se assemelhar ao visual-chave de uma campanha oficial de marca, transmitindo uma estética comercial profissional, design tipográfico forte, sensação de empolgação de lançamento, impacto visual e um layout de informações abrangente.
+
+O sujeito central da imagem é o [Nome do Produto]. O produto deve ser renderizado de forma clara e requintada—como um "produto herói" em um anúncio—posicionado no primeiro plano ou na área central inferior. Deve apresentar materiais realistas, integridade estrutural e detalhes nítidos; não deve parecer pequeno demais ou borrado. Incorpore figuras ou cenários de uso apropriados conforme o tipo de produto (ex.: modelos masculinos/femininos, indivíduos modernos, entusiastas outdoor ou ações/humores associados ao usuário). Os modelos devem parecer autênticos e sofisticados, reforçando a identidade da marca sem ofuscar o produto.
+
+O título principal ([Título Principal (Texto Grande)]) deve servir como a espinha dorsal visual da composição, usando uma fonte sans-serif superdimensionada e em negrito que domina o quadro. O texto não deve ser apenas um título padrão, mas parte integral da estrutura espacial da imagem—transformando-se em elementos como uma parede de fundo, uma pista, uma estrada, uma rampa, um túnel do tempo, um caminho de onda sonora, um espaço perfumado, uma trilha na montanha, uma instalação de perspectiva ou um símbolo-chave da marca. O produto, a figura e o título devem compartilhar uma lógica espacial unificada, estabelecendo relações realistas entre primeiro e segundo plano, oclusão, sombras de contato e profundidade em perspectiva.
+
+A composição deve incorporar um sistema completo e formal de informações de pôster; não deve parecer vazia ou como uma imagem de banco genérica. Coloque o nome da marca no canto superior esquerdo e o subtexto da campanha (ex.: NEW RELEASE / PRODUCT CAMPAIGN / SERIES 2026) no canto superior direito. Inclua texto vertical, códigos de produto, números de série ou IDs de campanha na lateral. Adicione de 3 a 5 tags concisas de recursos/pontos de venda perto do produto (ex.: [Recurso 1], [Recurso 2], etc.). Inclua uma barra formal de informações na parte inferior contendo o nome do produto, subtítulo, data de lançamento, especificações principais, créditos em letras miúdas, linhas divisórias e códigos de barras ou números de série decorativos. Textos pequenos podem funcionar como "microtipografia" estilística—nem todo caractere precisa ser perfeitamente legível, mas o nome da marca, o nome do produto e o título principal devem ser claros.
+
+A paleta de cores deve centrar-se em um [Tom Primário], com o fundo elaborado para evocar uma atmosfera específica—como um espaço de moda minimalista, um ambiente de névoa aromática, um cenário metálico/mecânico, um espaço musical iluminado por neon, uma natureza selvagem ao ar livre ou uma paisagem nevada e rochosa. Elementos sutis como luz e sombra, névoa, reflexos, granulado, efeitos de vento, perspectiva atmosférica, rastros de movimento ou refrações de material podem ser adicionados para realçar a sensação premium, desde que o resultado permaneça organizado e evite uma estética barata de e-commerce.
+
+A imagem deve ser de alta resolução e nítida, com perspectiva precisa, texturas realistas e iluminação consistente, assemelhando-se a um autêntico pôster de campanha de marca. É adequada para categorias como perfumes, relógios, fones de ouvido, produtos digitais, vestuário outdoor, marcas esportivas e bens de consumo.
+
+Evite: colagens ou composições de múltiplas imagens, logotipos de marcas reais, fotos de banco genéricas, estética barata de e-commerce, estilos cartunescos, fundos desordenados, produtos subdimensionados, rostos artificiais nas figuras, estilização de título plana/genérica ou áreas de informação insuficientes.
+```
+
+</details>
+
+#### 🌁 Imagem gerada
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HMMJbX6aMAA7CkI.jpg" width="700" alt="Pôster de Lançamento com Tipografia Gigante">
+</div>
+
+<br>
+
+<div align="center">
+
+| Autor | Fonte | Publicado |
+| :---: | :---: | :---: |
+| [PixuryAI](https://x.com/PixuryAI) | [X / Twitter](https://x.com/PixuryAI/status/2072510729090167081) | 2026-07-02 |
+
+</div>
+
+<div align="center">
+
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072510729090167081)**
+
+</div>
+
+---
+
+### No. 56: Pôster de Viagem em Risografia
+
+![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
+
+#### 📚 Descrição
+
+Cria um pôster de viagem moderno em estilo risografia, com ilustrações vetoriais dos marcos do destino, tintas fluorescentes sobrepostas e textura de impressão granulada.
+
+#### 🌟 Prompt
+
+Crie um pôster de viagem moderno e estiloso inspirado na risografia sobre {DESTINATION\_NAME}. Use imagens …
+
+<details>
+<summary>Mostrar prompt completo</summary>
+
+```
+Crie um pôster de viagem moderno e estiloso inspirado na risografia sobre {DESTINATION_NAME}. Use imagens ilustradas simplificadas representando os marcos, arquitetura, paisagens, elementos culturais, transporte, fauna local, comida, mercados, objetos tradicionais, cenas de rua, características naturais e detalhes simbólicos mais icônicos do destino. Inclua pequenos motivos decorativos abstratos e elementos gráficos que reflitam a identidade do destino sem copiar nenhuma obra específica.
+
+Crie um pôster risográfico ousado e em múltiplas camadas com registro de tinta imperfeito, tintas fluorescentes translúcidas sobrepostas, granulado halftone autêntico, textura áspera de papel reciclado, ilustrações planas em estilo vetorial, formas geométricas lúdicas, formas orgânicas, composição editorial dinâmica, imperfeições intencionais de impressão e separações de cores em camadas típicas da impressão risográfica independente.
+
+Use uma paleta vibrante de rosa fluorescente, azul elétrico, amarelo quente, laranja-vermelho, verde folha, azul cobalto intenso e cores de destaque complementares sobre um fundo de papel branco limpo. Equilibre sobreposições de cores ousadas com espaço negativo generoso para uma estética contemporânea de qualidade de galeria.
+
+Tipografia:
+• Título principal: "{DESTINATION_NAME}"
+• Subtítulo: "{SHORT_DESTINATION_DESCRIPTION}"
+• Rodapé: "ARTISTIC PRINTING · {DESTINATION_THEME} · {YEAR}"
+
+O design geral deve parecer brilhante, cultural, moderno, lúdico, colecionável e adequado como um art print independente premium celebrando a identidade única do destino. Enfatize originalidade, narrativa visual e design de pôster editorial contemporâneo inspirado nas técnicas tradicionais de impressão risográfica.
+
+Evite copiar qualquer pôster existente, estilo assinatura de artista, marca corporativa, campanha turística, logo, mascote, personagem protegido por direitos autorais, composição exata, design comercial reconhecível ou identidade visual protegida. Crie uma composição completamente original inspirada apenas na estética da impressão risográfica e no design moderno de pôster independente.
+```
+
+</details>
+
+#### 🌁 Imagem gerada
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HMSEFVSacAABqjz.jpg" width="700" alt="Pôster de Viagem em Risografia">
+</div>
+
+<br>
+
+<div align="center">
+
+| Autor | Fonte | Publicado |
+| :---: | :---: | :---: |
+| [Saul Goodman](https://x.com/Goodmanprotocol) | [X / Twitter](https://x.com/Goodmanprotocol/status/2072926988587929997) | 2026-07-03 |
+
+</div>
+
+<div align="center">
+
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072926988587929997)**
+
+</div>
+
+---
+
+### No. 57: Sistema Visual de Sacolas de Marca
+
+![Categoria: Branding e Interface](https://img.shields.io/badge/Categoria-Branding%20e%20Interface-lightgrey)
+
+#### 📚 Descrição
+
+Gera um painel de proposta de embalagem que exibe 12 ou 16 variações de sacola para uma única marca de alimentos, com identidade unificada e layouts diversos em grade.
+
+#### 🌟 Prompt
+
+Gere uma imagem vertical 3:4 de proposta de sistema visual de embalagem de sacolas para uma marca …
+
+<details>
+<summary>Mostrar prompt completo</summary>
+
+```
+Gere uma imagem vertical 3:4 de proposta de sistema visual de embalagem de sacolas para uma marca gastronômica.
+
+Tipo de marca: 【tipo de marca】
+Nome da marca em chinês: 【nome em chinês】
+Nome da marca em inglês: 【nome em inglês】
+Linha de produto: 【linha de produto】
+Cor principal: 【cor principal】
+Cor secundária: 【cor secundária】
+Cor de destaque: 【cor de destaque】
+Quantidade exibida: 【12 / 16】
+IP ou símbolo da marca: 【IP ou símbolo】
+
+A imagem é um painel de apresentação estilo portfólio de design sofisticado, fundo escuro, exibindo 【12 / 16】 layouts de sacola da mesma marca. No topo há uma área de título com forte design: número grande, título em inglês, subtítulo em inglês e descrição da marca em chinês, no estilo de uma página de proposta de embalagem.
+
+O elemento principal são as sacolas dispostas em grade ordenada; cada sacola tem identidade de marca unificada, mas layouts diferentes: logo grande, minimalista com espaço em branco, letras grandes em inglês, texto vertical, personagem IP, ilustração do produto, selo, elementos de padrão, etiqueta lateral, faixa inferior, mistura de chinês e inglês, etc.
+
+Estilo geral: design de embalagem de marca gastronômica premium, vetorial flat, tipografia editorial moderna, forte identidade de marca, cores unificadas, grade limpa, viável comercialmente.
+
+Evite modelos cafonas, layout bagunçado, cores em excesso, texto denso demais, sacolas deformadas, aparência barata, excesso de cartoon, excesso de 3D, cenas fotográficas reais.
+```
+
+</details>
+
+#### 🌁 Imagem gerada
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HL5JZD5XQAEqPwj.jpg" width="700" alt="Sistema Visual de Sacolas de Marca">
+</div>
+
+<br>
+
+<div align="center">
+
+| Autor | Fonte | Publicado |
+| :---: | :---: | :---: |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2071173959328968845) | 2026-06-28 |
+
+</div>
+
+<div align="center">
+
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071173959328968845)**
+
+</div>
+
+---
+
+### No. 58: Infográfico de Análise de Maquiagem
+
+![Categoria: Materiais de marketing](https://img.shields.io/badge/Categoria-Materiais%20de%20marketing-lightgrey)
+
+#### 📚 Descrição
+
+Cria um infográfico editorial de luxo que analisa subtom, contraste, tons ideais e traços faciais a partir de um retrato.
+
+#### 🌟 Prompt
+
+Infográfico de Guia de Análise de Maquiagem (9:16) Crie um infográfico no estilo de revista de beleza de luxo …
+
+<details>
+<summary>Mostrar prompt completo</summary>
+
+```
+Infográfico de Guia de Análise de Maquiagem (9:16)
+
+Crie um infográfico no estilo de revista de beleza de luxo usando o retrato enviado, preservando a identidade facial exata da pessoa, proporções faciais, sorriso, olhos, nariz, lábios, textura da pele e expressão natural. Aplique apenas retoque editorial realista.
+
+Estilo: Cabelo em camadas suave e glamouroso com sutis mechas balayage, elegante blusa de tricô marfim ombro a ombro, colar dourado minimalista, pose relaxada com uma mão sob o queixo.
+
+Fundo: Gradiente suave de lavanda a creme com estética editorial premium.
+
+Título: MAKEUP ANALYSIS GUIDE
+Subtítulo: Natural. Balanced. Radiant.
+Inclua:
+
+Subtom: Neutro Quente (3 círculos sobrepostos de tom de pele)
+
+Nível de Contraste: Médio (slider minimalista em escala de cinza)
+Melhores Tons: Amostras circulares para Olhos, Bochechas, Lábios
+Análise Facial: Chamadas pontilhadas para Sobrancelhas, Olhos, Pele, Lábios com notas curtas
+Detalhamento das Características: Recortes em close de Sobrancelhas, Olhos, Pele, Bochechas, Lábios com descrições concisas
+Produtos Recomendados: Base, Corretivo, Bronzer, Blush, Paleta de Sombras, Máscara, Batom com recomendações de uma linha
+Dicas Rápidas: Acabamento dewy, Cílios levantados, Aplicação alta de blush, Tom de lábio natural, Menos é mais
+Use títulos em serifa elegante, texto sans-serif moderno, acentos suaves em lavanda e dourado champanhe, layout em grade limpo, mockups realistas de produtos cosméticos, ícones vetoriais de beleza, sombras sutis e espaçamento editorial de luxo.
+
+Qualidade: Ultrarrealista, 8K, HDR, textura de pele nítida, tipografia altamente legível, estética de campanha de beleza fotorrealista, sem artefatos de IA.
+```
+
+</details>
+
+#### 🌁 Imagem gerada
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HLuw_dObAAABC3n.jpg" width="700" alt="Infográfico de Análise de Maquiagem">
+</div>
+
+<br>
+
+<div align="center">
+
+| Autor | Fonte | Publicado |
+| :---: | :---: | :---: |
+| [Mira Sterling](https://x.com/Chaemate_) | [X / Twitter](https://x.com/Chaemate_/status/2070443532637376542) | 2026-06-26 |
+
+</div>
+
+<div align="center">
+
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2070443532637376542)**
+
+</div>
+
+---
+
+### No. 59: Foto para Esboço Cartoon Fofo
+
+![Categoria: Ilustração e IP](https://img.shields.io/badge/Categoria-Ilustra%C3%A7%C3%A3o%20e%20IP-lightgrey)
+
+#### 📚 Descrição
+
+Cria uma grade comparativa 2x4 que transforma fotos reais de crianças em personagens cartoon chibi minimalistas em preto e branco.
+
+#### 🌟 Prompt
+
+Uma grade de compilação de 2 linhas por 4 colunas mostrando uma transformação de fotos reais em esboços …
+
+<details>
+<summary>Mostrar prompt completo</summary>
+
+```
+Uma grade de compilação de 2 linhas por 4 colunas mostrando uma transformação de fotos reais em esboços cartoon 2D. Linha Superior (Linha 1): Apresenta 4 fotografias realistas distintas de diferentes crianças e adolescentes estilosos com rostos expressivos e penteados variados (como cortes chanel, cabelo curto bagunçado, cabelo longo ondulado e maria-chiquinhas). Linha Inferior (Linha 2): Diretamente abaixo de cada foto, exiba sua correspondente transformação em personagem cartoon 2D. Os esboços devem ser arte de linha preta limpa sobre um fundo branco sólido, com rostos fofos estilo chibi, olhos grandes e expressivos e sorrisos simples e encantadores que retêm a identidade central do penteado da foto acima. A estética geral deve ser arte digital de alta qualidade, perfeitamente alinhada, organizada como uma folha de comparação dividida e organizada, estilo de ilustração de livro infantil moderno.
+```
+
+</details>
+
+#### 🌁 Imagem gerada
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HMKB_fUagAER70Q.jpg" width="700" alt="Foto para Esboço Cartoon Fofo">
+</div>
+
+<br>
+
+<div align="center">
+
+| Autor | Fonte | Publicado |
+| :---: | :---: | :---: |
+| [Cherry 2.O](https://x.com/Mind_Boticni) | [X / Twitter](https://x.com/Mind_Boticni/status/2072361733273117108) | 2026-07-01 |
+
+</div>
+
+<div align="center">
+
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072361733273117108)**
+
+</div>
+
+---
+
+### No. 60: Anúncio de Moda de Luxo em Paris
+
+![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
+
+#### 📚 Descrição
+
+Cria um anúncio de moda de luxo em preto e branco no estilo editorial parisiense, com uma modelo elegante, arquitetura icônica e tipografia refinada de revista.
+
+#### 🌟 Prompt
+
+Crie um anúncio de moda de luxo premium em estilo editorial parisiense minimalista. Uma mulher sofisticada …
+
+<details>
+<summary>Mostrar prompt completo</summary>
+
+```
+Crie um anúncio de moda de luxo premium em estilo editorial parisiense minimalista. Uma mulher sofisticada usando óculos de sol pretos oversized e um casaco de lã preto estruturado com gola alta está em pé com confiança em uma clássica rua parisiense. Ela está posicionada no canto inferior direito da composição, olhando para a esquerda com uma expressão calma e elegante. Seu cabelo está penteado em um coque baixo e liso. O fundo apresenta a icônica arquitetura parisiense com suave profundidade de campo cinematográfica e a Torre Eiffel sutilmente visível ao longe. A imagem inteira é em preto e branco com contraste profundo, iluminação natural suave, detalhes nítidos e uma estética de alta moda atemporal. O layout se assemelha à capa de uma revista de luxo com generoso espaço negativo. No topo central, coloque um grande nome de marca em serifa elegante, com uma pequena localização em maiúsculas acima dele e um título de coleção refinado abaixo dele. No lado esquerdo, inclua um slogan de moda ousado, em maiúsculas, em fonte sans-serif moderna. Abaixo dele, adicione uma breve descrição da coleção em tipografia pequena e limpa. Finalize com um rodapé preto minimalista contendo um site, localização da boutique e ícones de mídia social.
+Branding de luxo, editorial Vogue, estética Harper's Bazaar, layout de grade suíça, tipografia premium, composição minimalista, fotografia cinematográfica, ultra-realista, lente 85mm, profundidade de campo rasa, luz ambiente suave, monocromático, 8K, qualidade de impressão de revista, pôster vertical A4.
+```
+
+</details>
+
+#### 🌁 Imagem gerada
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HMNuXfvbgAAhQiz.jpg" width="700" alt="Anúncio de Moda de Luxo em Paris">
+</div>
+
+<br>
+
+<div align="center">
+
+| Autor | Fonte | Publicado |
+| :---: | :---: | :---: |
+| [Harboris](https://x.com/harboriis) | [X / Twitter](https://x.com/harboriis/status/2072621622796726279) | 2026-07-02 |
+
+</div>
+
+<div align="center">
+
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072621622796726279)**
+
+</div>
+
+---
+
+### No. 61: Pôster Colagem de Papel Rasgado da Marca
 
 ![Categoria: Publicidade e produto](https://img.shields.io/badge/Categoria-Publicidade%20e%20produto-lightgrey)
 
@@ -2848,650 +3882,7 @@ Crie um pôster de colagem estilo scrapbook, polido e profissional, para [NOME D
 
 ---
 
-### No. 44: Slides Infográficos de Frutas e Vegetais
-
-![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
-
-#### 📚 Descrição
-
-Gera 10 slides estilo PPT em 16:9, cada um apresentando uma fruta ou vegetal diferente com frases de efeito, conhecimento e layouts variados.
-
-#### 🌟 Prompt
-
-```
-Tema: apresentar 10 frutas e vegetais de verão
-Gere 10 imagens em sequência, cada uma apresentando uma fruta/vegetal diferente, com lógica de frases de efeito, lógica de conhecimento, além de lógica de paleta de cores e de layout
-Semelhante a um PPT, gere 10, garantindo diferenças de layout entre elas
-Proporção 16:9
-```
-
-#### 🌁 Imagem gerada
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HMSreFqasAAGekX.jpg" width="700" alt="Slides Infográficos de Frutas e Vegetais">
-</div>
-
-<br>
-
-<div align="center">
-
-| Autor | Fonte | Publicado |
-| :---: | :---: | :---: |
-| [小小东](https://x.com/xiaoxiaodong01) | [X / Twitter](https://x.com/xiaoxiaodong01/status/2072970775896977595) | 2026-07-03 |
-
-</div>
-
-<div align="center">
-
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072970775896977595)**
-
-</div>
-
----
-
-### No. 45: Sistema de Padrão de Identidade da Seleção
-
-![Categoria: Branding e Interface](https://img.shields.io/badge/Categoria-Branding%20e%20Interface-lightgrey)
-
-#### 📚 Descrição
-
-Gera um padrão geométrico abstrato e perfeitamente repetível, de nível de federação, baseado na identidade de uma seleção de futebol.
-
-#### 🌟 Prompt
-
-Crie um padrão perfeitamente repetível inspirado na seleção nacional de futebol para [TEAM\_NAME], para o …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
-```
-Crie um padrão perfeitamente repetível inspirado na seleção nacional de futebol para [TEAM_NAME], para o palco mundial do futebol de 2026.
-
-Projete um padrão abstrato premium inspirado na identidade da seleção nacional de futebol de [TEAM_NAME]. Use a paleta de cores oficial de futebol da equipe e traduza sua identidade em movimento geométrico abstrato, sem copiar diretamente a bandeira ou o brasão.
-
-Use formas geométricas translúcidas em camadas, faixas diagonais, formas modulares curvas, blocos rítmicos, gradientes suaves, sutil granulação de papel e uma estética premium de credenciamento esportivo oficial. O padrão deve parecer atlético, icônico, limpo, colecionável e de nível de federação.
-
-A imagem deve ser um ladrilho de repetição perfeitamente contínuo. Sem texto, sem tipografia, sem logotipo, sem brasão, sem jogador, sem bola de futebol, sem objeto central, sem moldura de cartão, sem borda, sem mockup.
-```
-
-</details>
-
-#### 🌁 Imagem gerada
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HL7GxnSWAAArkiX.jpg" width="700" alt="Sistema de Padrão de Identidade da Seleção">
-</div>
-
-<br>
-
-<div align="center">
-
-| Autor | Fonte | Publicado |
-| :---: | :---: | :---: |
-| [AmirMušić](https://x.com/AmirMushich) | [X / Twitter](https://x.com/AmirMushich/status/2071311441420796310) | 2026-06-28 |
-
-</div>
-
-<div align="center">
-
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071311441420796310)**
-
-</div>
-
----
-
-### No. 46: Cartaz Tipografia-Cenário Azul Cobalto
-
-![Categoria: Materiais de marketing](https://img.shields.io/badge/Categoria-Materiais%20de%20marketing-lightgrey)
-
-#### 📚 Descrição
-
-Gera um cartaz de evento em azul cobalt chapado com título gigante de 2 palavras da altura do personagem manga e bloco de informações laranja.
-
-#### 🌟 Prompt
-
-{ "regras\_de\_estilo": { "fundo": "azul cobalto elétrico sólido, totalmente chapado — sem gradiente, sem …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
-```
-{
-  "regras_de_estilo": {
-    "fundo": "azul cobalto elétrico sólido, totalmente chapado — sem gradiente, sem textura, sem granulação",
-    "fonte_do_titulo": "tipografia display branca gigante, estilo pixel/robusta com cantos arredondados, preenche a metade esquerda da tela — altura das letras aproximadamente igual à altura do personagem, MÁX. 2 PALAVRAS",
-    "personagem": "estilo de ilustração mangá, pose de ação dinâmica, roupa de subcultura específica com acessórios detalhados e calçado característico",
-    "relacao_personagem_texto": "personagem posicionado AO LADO, DENTRO ou SOBREPONDO as letras do título — peso espacial igual, nenhum subordinado ao outro",
-    "objeto_heroi": "um objeto de primeiro plano superdimensionado, mesma escala do personagem ou maior, muito detalhado: globo de gacha / caixa de som-jardineira / caixa de entrega geométrica / cilindro de aquário sci-fi",
-    "bloco_de_info": "retângulo laranja preenchido, texto branco, formato de 3 linhas: [substantivo da atividade] / [substantivo do tipo de local] / [horário HH:MM]",
-    "cor_de_destaque": "apenas laranja — sem terceira cor",
-    "linhas_de_velocidade": "formas geométricas angulares brancas / cortes em raio atravessam o fundo azul",
-    "regra_de_texto": "ZERO descrição do que é o evento — todo o significado da marca é carregado apenas pelo design do personagem + objeto",
-    "formato": "16:9 horizontal"
-  },
-  "negativo": "texto descritivo do evento, fundo com gradiente, título pequeno em relação ao personagem, fotografia realista, mais de 2 cores de destaque",
-  "variaveis": {
-    "nome_do_evento": "[título de 2 palavras: TOKEN RUSH / SKY SPROUT / NOVA DROP / BUBBLE SHIFT]",
-    "personagem": "[identidade de subcultura específica: gamer streetwear / jardineiro de terraço / entregador noturno / técnico de aquário]",
-    "roupa_caracteristica": "[roupa que comunica a identidade sem palavras: crocs + macacão / calça cargo + correntes / luvas neon + moletom]",
-    "objeto_heroi": "[um objeto superdimensionado: globo de máquina de cápsulas gacha / caixa de som como jardineira / caixa gráfica geométrica / cápsula cilíndrica de aquário]",
-    "conteudo_bloco_info": "[substantivo da atividade] / [substantivo do tipo de local] / [HH:MM]",
-    "posicionamento_personagem": "[ao lado das letras / de pé entre duas palavras / sobrepondo o limite do texto]"
-  }
-}
-```
-
-</details>
-
-#### 🌁 Imagem gerada
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HLzdDZtW0AMK0Hw.jpg" width="700" alt="Cartaz Tipografia-Cenário Azul Cobalto">
-</div>
-
-<br>
-
-<div align="center">
-
-| Autor | Fonte | Publicado |
-| :---: | :---: | :---: |
-| [Vigo Zhao](https://x.com/VigoCreativeAI) | [X / Twitter](https://x.com/VigoCreativeAI/status/2070773045795365165) | 2026-06-27 |
-
-</div>
-
-<div align="center">
-
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2070773045795365165)**
-
-</div>
-
----
-
-### No. 47: Foto para Esboço Cartoon Fofo
-
-![Categoria: Ilustração e IP](https://img.shields.io/badge/Categoria-Ilustra%C3%A7%C3%A3o%20e%20IP-lightgrey)
-
-#### 📚 Descrição
-
-Cria uma grade comparativa 2x4 que transforma fotos reais de crianças em personagens cartoon chibi minimalistas em preto e branco.
-
-#### 🌟 Prompt
-
-Uma grade de compilação de 2 linhas por 4 colunas mostrando uma transformação de fotos reais em esboços …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
-```
-Uma grade de compilação de 2 linhas por 4 colunas mostrando uma transformação de fotos reais em esboços cartoon 2D. Linha Superior (Linha 1): Apresenta 4 fotografias realistas distintas de diferentes crianças e adolescentes estilosos com rostos expressivos e penteados variados (como cortes chanel, cabelo curto bagunçado, cabelo longo ondulado e maria-chiquinhas). Linha Inferior (Linha 2): Diretamente abaixo de cada foto, exiba sua correspondente transformação em personagem cartoon 2D. Os esboços devem ser arte de linha preta limpa sobre um fundo branco sólido, com rostos fofos estilo chibi, olhos grandes e expressivos e sorrisos simples e encantadores que retêm a identidade central do penteado da foto acima. A estética geral deve ser arte digital de alta qualidade, perfeitamente alinhada, organizada como uma folha de comparação dividida e organizada, estilo de ilustração de livro infantil moderno.
-```
-
-</details>
-
-#### 🌁 Imagem gerada
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HMKB_fUagAER70Q.jpg" width="700" alt="Foto para Esboço Cartoon Fofo">
-</div>
-
-<br>
-
-<div align="center">
-
-| Autor | Fonte | Publicado |
-| :---: | :---: | :---: |
-| [Cherry 2.O](https://x.com/Mind_Boticni) | [X / Twitter](https://x.com/Mind_Boticni/status/2072361733273117108) | 2026-07-01 |
-
-</div>
-
-<div align="center">
-
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072361733273117108)**
-
-</div>
-
----
-
-### No. 48: Retrato Urbano com Casaco Amarelo
-
-![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
-
-#### 📚 Descrição
-
-Retrato cinematográfico de rua de uma mulher com casaco amarelo nítida em meio a uma multidão desfocada, com efeito de cor seletiva em preto e branco.
-
-#### 🌟 Prompt
-
-Um retrato cinematográfico de rua de uma bela jovem vestindo um vibrante casaco amarelo-mostarda enquanto …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
-```
-Um retrato cinematográfico de rua de uma bela jovem vestindo um vibrante casaco amarelo-mostarda enquanto caminha por uma movimentada multidão urbana. A mulher permanece perfeitamente nítida e em foco enquanto os pedestres ao redor se dissolvem em um dramático desfoque de movimento horizontal, criando uma poderosa sensação de movimento e isolamento. Efeito de cor seletiva: toda a cena é monocromática em preto e branco, exceto o rico casaco amarelo-dourado, que se torna a única cor vibrante do quadro.
-
-Capturado de perfil lateral com uma lente de 50mm, profundidade de campo rasa, iluminação natural nublada, textura de pele realista, cabelo curto ondulado ao vento, expressão emocional sutil, elegante bolsa de ombro, moda urbana moderna, suave contraste cinematográfico, alta faixa dinâmica, ultra-fotorrealista, fotografia de moda editorial, qualidade de capa de revista, visual Leica, tons inspirados em Kodak Portra, detalhes faciais nítidos, efeito de fotografia panorâmica, desfoque de movimento de longa exposição, composição minimalista, fotografia de rua premium de belas-artes, 8K, fotografia premiada.
-
-Configurações da câmera:
-Sony A7R V, lente 50mm f/1.4, f/1.8, ISO 100, obturador 1/15s, composição ao nível dos olhos, luz ambiente natural, ultra-alto detalhe.
-
-Tratamento de cor:
-Cor seletiva (apenas casaco amarelo), cidade monocromática, multidão em escala de cinza, fundo cinematográfico em preto e branco, rica textura de tecido dourado.
-```
-
-</details>
-
-#### 🌁 Imagem gerada
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HMJNIo2bMAAhZLO.jpg" width="700" alt="Retrato Urbano com Casaco Amarelo">
-</div>
-
-<br>
-
-<div align="center">
-
-| Autor | Fonte | Publicado |
-| :---: | :---: | :---: |
-| [Taaruk](https://x.com/Taaruk_) | [X / Twitter](https://x.com/Taaruk_/status/2072303607094145099) | 2026-07-01 |
-
-</div>
-
-<div align="center">
-
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072303607094145099)**
-
-</div>
-
----
-
-### No. 49: Foto de Produto Premium Flutuante
-
-![Categoria: Publicidade e produto](https://img.shields.io/badge/Categoria-Publicidade%20e%20produto-lightgrey)
-
-#### 📚 Descrição
-
-Cria uma foto comercial premium de um produto flutuando em ambiente minimalista, com iluminação de estúdio, sombras suaves e texturas hiper-realistas.
-
-#### 🌟 Prompt
-
-```
-Foto premium de produto de [objeto], flutuando em um ambiente minimalista [cor], sombras suaves, iluminação de estúdio, reflexos na superfície, texturas hiper-realistas, estilo de publicidade comercial, composição ultralimpa
-```
-
-#### 🌁 Imagem gerada
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HMJyLO9aYAEApaZ.jpg" width="700" alt="Foto de Produto Premium Flutuante">
-</div>
-
-<br>
-
-<div align="center">
-
-| Autor | Fonte | Publicado |
-| :---: | :---: | :---: |
-| [Al-Shamus](https://x.com/im_shahid7) | [X / Twitter](https://x.com/im_shahid7/status/2072344325501972768) | 2026-07-01 |
-
-</div>
-
-<div align="center">
-
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072344325501972768)**
-
-</div>
-
----
-
-### No. 50: Pôster de Viagem em Risografia
-
-![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
-
-#### 📚 Descrição
-
-Cria um pôster de viagem moderno em estilo risografia, com ilustrações vetoriais dos marcos do destino, tintas fluorescentes sobrepostas e textura de impressão granulada.
-
-#### 🌟 Prompt
-
-Crie um pôster de viagem moderno e estiloso inspirado na risografia sobre {DESTINATION\_NAME}. Use imagens …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
-```
-Crie um pôster de viagem moderno e estiloso inspirado na risografia sobre {DESTINATION_NAME}. Use imagens ilustradas simplificadas representando os marcos, arquitetura, paisagens, elementos culturais, transporte, fauna local, comida, mercados, objetos tradicionais, cenas de rua, características naturais e detalhes simbólicos mais icônicos do destino. Inclua pequenos motivos decorativos abstratos e elementos gráficos que reflitam a identidade do destino sem copiar nenhuma obra específica.
-
-Crie um pôster risográfico ousado e em múltiplas camadas com registro de tinta imperfeito, tintas fluorescentes translúcidas sobrepostas, granulado halftone autêntico, textura áspera de papel reciclado, ilustrações planas em estilo vetorial, formas geométricas lúdicas, formas orgânicas, composição editorial dinâmica, imperfeições intencionais de impressão e separações de cores em camadas típicas da impressão risográfica independente.
-
-Use uma paleta vibrante de rosa fluorescente, azul elétrico, amarelo quente, laranja-vermelho, verde folha, azul cobalto intenso e cores de destaque complementares sobre um fundo de papel branco limpo. Equilibre sobreposições de cores ousadas com espaço negativo generoso para uma estética contemporânea de qualidade de galeria.
-
-Tipografia:
-• Título principal: "{DESTINATION_NAME}"
-• Subtítulo: "{SHORT_DESTINATION_DESCRIPTION}"
-• Rodapé: "ARTISTIC PRINTING · {DESTINATION_THEME} · {YEAR}"
-
-O design geral deve parecer brilhante, cultural, moderno, lúdico, colecionável e adequado como um art print independente premium celebrando a identidade única do destino. Enfatize originalidade, narrativa visual e design de pôster editorial contemporâneo inspirado nas técnicas tradicionais de impressão risográfica.
-
-Evite copiar qualquer pôster existente, estilo assinatura de artista, marca corporativa, campanha turística, logo, mascote, personagem protegido por direitos autorais, composição exata, design comercial reconhecível ou identidade visual protegida. Crie uma composição completamente original inspirada apenas na estética da impressão risográfica e no design moderno de pôster independente.
-```
-
-</details>
-
-#### 🌁 Imagem gerada
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HMSEFVSacAABqjz.jpg" width="700" alt="Pôster de Viagem em Risografia">
-</div>
-
-<br>
-
-<div align="center">
-
-| Autor | Fonte | Publicado |
-| :---: | :---: | :---: |
-| [Saul Goodman](https://x.com/Goodmanprotocol) | [X / Twitter](https://x.com/Goodmanprotocol/status/2072926988587929997) | 2026-07-03 |
-
-</div>
-
-<div align="center">
-
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072926988587929997)**
-
-</div>
-
----
-
-### No. 51: Sistema Visual de Sacolas de Marca
-
-![Categoria: Branding e Interface](https://img.shields.io/badge/Categoria-Branding%20e%20Interface-lightgrey)
-
-#### 📚 Descrição
-
-Gera um painel de proposta de embalagem que exibe 12 ou 16 variações de sacola para uma única marca de alimentos, com identidade unificada e layouts diversos em grade.
-
-#### 🌟 Prompt
-
-Gere uma imagem vertical 3:4 de proposta de sistema visual de embalagem de sacolas para uma marca …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
-```
-Gere uma imagem vertical 3:4 de proposta de sistema visual de embalagem de sacolas para uma marca gastronômica.
-
-Tipo de marca: 【tipo de marca】
-Nome da marca em chinês: 【nome em chinês】
-Nome da marca em inglês: 【nome em inglês】
-Linha de produto: 【linha de produto】
-Cor principal: 【cor principal】
-Cor secundária: 【cor secundária】
-Cor de destaque: 【cor de destaque】
-Quantidade exibida: 【12 / 16】
-IP ou símbolo da marca: 【IP ou símbolo】
-
-A imagem é um painel de apresentação estilo portfólio de design sofisticado, fundo escuro, exibindo 【12 / 16】 layouts de sacola da mesma marca. No topo há uma área de título com forte design: número grande, título em inglês, subtítulo em inglês e descrição da marca em chinês, no estilo de uma página de proposta de embalagem.
-
-O elemento principal são as sacolas dispostas em grade ordenada; cada sacola tem identidade de marca unificada, mas layouts diferentes: logo grande, minimalista com espaço em branco, letras grandes em inglês, texto vertical, personagem IP, ilustração do produto, selo, elementos de padrão, etiqueta lateral, faixa inferior, mistura de chinês e inglês, etc.
-
-Estilo geral: design de embalagem de marca gastronômica premium, vetorial flat, tipografia editorial moderna, forte identidade de marca, cores unificadas, grade limpa, viável comercialmente.
-
-Evite modelos cafonas, layout bagunçado, cores em excesso, texto denso demais, sacolas deformadas, aparência barata, excesso de cartoon, excesso de 3D, cenas fotográficas reais.
-```
-
-</details>
-
-#### 🌁 Imagem gerada
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HL5JZD5XQAEqPwj.jpg" width="700" alt="Sistema Visual de Sacolas de Marca">
-</div>
-
-<br>
-
-<div align="center">
-
-| Autor | Fonte | Publicado |
-| :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2071173959328968845) | 2026-06-28 |
-
-</div>
-
-<div align="center">
-
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071173959328968845)**
-
-</div>
-
----
-
-### No. 52: Infográfico de Análise de Maquiagem
-
-![Categoria: Materiais de marketing](https://img.shields.io/badge/Categoria-Materiais%20de%20marketing-lightgrey)
-
-#### 📚 Descrição
-
-Cria um infográfico editorial de luxo que analisa subtom, contraste, tons ideais e traços faciais a partir de um retrato.
-
-#### 🌟 Prompt
-
-Infográfico de Guia de Análise de Maquiagem (9:16) Crie um infográfico no estilo de revista de beleza de luxo …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
-```
-Infográfico de Guia de Análise de Maquiagem (9:16)
-
-Crie um infográfico no estilo de revista de beleza de luxo usando o retrato enviado, preservando a identidade facial exata da pessoa, proporções faciais, sorriso, olhos, nariz, lábios, textura da pele e expressão natural. Aplique apenas retoque editorial realista.
-
-Estilo: Cabelo em camadas suave e glamouroso com sutis mechas balayage, elegante blusa de tricô marfim ombro a ombro, colar dourado minimalista, pose relaxada com uma mão sob o queixo.
-
-Fundo: Gradiente suave de lavanda a creme com estética editorial premium.
-
-Título: MAKEUP ANALYSIS GUIDE
-Subtítulo: Natural. Balanced. Radiant.
-Inclua:
-
-Subtom: Neutro Quente (3 círculos sobrepostos de tom de pele)
-
-Nível de Contraste: Médio (slider minimalista em escala de cinza)
-Melhores Tons: Amostras circulares para Olhos, Bochechas, Lábios
-Análise Facial: Chamadas pontilhadas para Sobrancelhas, Olhos, Pele, Lábios com notas curtas
-Detalhamento das Características: Recortes em close de Sobrancelhas, Olhos, Pele, Bochechas, Lábios com descrições concisas
-Produtos Recomendados: Base, Corretivo, Bronzer, Blush, Paleta de Sombras, Máscara, Batom com recomendações de uma linha
-Dicas Rápidas: Acabamento dewy, Cílios levantados, Aplicação alta de blush, Tom de lábio natural, Menos é mais
-Use títulos em serifa elegante, texto sans-serif moderno, acentos suaves em lavanda e dourado champanhe, layout em grade limpo, mockups realistas de produtos cosméticos, ícones vetoriais de beleza, sombras sutis e espaçamento editorial de luxo.
-
-Qualidade: Ultrarrealista, 8K, HDR, textura de pele nítida, tipografia altamente legível, estética de campanha de beleza fotorrealista, sem artefatos de IA.
-```
-
-</details>
-
-#### 🌁 Imagem gerada
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HLuw_dObAAABC3n.jpg" width="700" alt="Infográfico de Análise de Maquiagem">
-</div>
-
-<br>
-
-<div align="center">
-
-| Autor | Fonte | Publicado |
-| :---: | :---: | :---: |
-| [Mira Sterling](https://x.com/Chaemate_) | [X / Twitter](https://x.com/Chaemate_/status/2070443532637376542) | 2026-06-26 |
-
-</div>
-
-<div align="center">
-
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2070443532637376542)**
-
-</div>
-
----
-
-### No. 53: Grade Chibi Estilo Webtoon
-
-![Categoria: Ilustração e IP](https://img.shields.io/badge/Categoria-Ilustra%C3%A7%C3%A3o%20e%20IP-lightgrey)
-
-#### 📚 Descrição
-
-Cria uma colagem em grade de 4 painéis com garotas chibi estilosas em estética de webtoon coreano, com vetor plano minimalista e cores vibrantes.
-
-#### 🌟 Prompt
-
-Uma colagem em grade de 4 painéis limpa com quatro garotas chibi distintas e estilosas em uma estética de …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
-```
-Uma colagem em grade de 4 painéis limpa com quatro garotas chibi distintas e estilosas em uma estética de webtoon coreano. A ilustração usa um design vetorial plano minimalista com contornos pretos ousados e nítidos e um clima de quadrinhos pop-art. Cada painel apresenta um fundo de cor sólida única, incluindo turquesa vibrante, amarelo-sol brilhante e azul-royal profundo. As personagens têm grandes olhos escuros brilhantes ao estilo anime, bochechas rosadas suavemente coradas e penteados modernos como tranças laterais bem-feitas e coques baixos elegantes. Elas vestem golas altas listradas de alto contraste da moda e suéteres pretos elegantes, acessorizadas com argolas coloridas grandes. Simetria perfeita, alta resolução, estilo de arte gráfica. --ar 3:4
-```
-
-</details>
-
-#### 🌁 Imagem gerada
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HMJEguTb0AA99uW.jpg" width="700" alt="Grade Chibi Estilo Webtoon">
-</div>
-
-<br>
-
-<div align="center">
-
-| Autor | Fonte | Publicado |
-| :---: | :---: | :---: |
-| [Cherry 2.O](https://x.com/Mind_Boticni) | [X / Twitter](https://x.com/Mind_Boticni/status/2072294123152044416) | 2026-07-01 |
-
-</div>
-
-<div align="center">
-
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072294123152044416)**
-
-</div>
-
----
-
-### No. 54: Atleta em Corrida com Motion Blur
-
-![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
-
-#### 📚 Descrição
-
-Cria uma foto de campanha esportiva dinâmica de um atleta em pleno sprint, com forte motion blur e estética atlética futurista de estúdio.
-
-#### 🌟 Prompt
-
-Foto de campanha de moda esportiva dinâmica de um atleta masculino esprintando no ar, efeito intenso de …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
-```
-Foto de campanha de moda esportiva dinâmica de um atleta masculino esprintando no ar, efeito intenso de motion blur, fotografia de longa exposição, pose de corrida em perfil lateral, fundo de estúdio monocromático vibrante branco e azul, composição minimalista, estética atlética futurista, iluminação cinematográfica, gradientes ultra suaves, membros e tênis borrados para enfatizar a velocidade, foco nítido no rosto, reflexo no piso brilhante, visual comercial energético estilo Nike, efeito de arraste de obturador alto, fotografia editorial premium.
-```
-
-</details>
-
-#### 🌁 Imagem gerada
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HMHIMgnbsAAUBEG.jpg" width="700" alt="Atleta em Corrida com Motion Blur">
-</div>
-
-<br>
-
-<div align="center">
-
-| Autor | Fonte | Publicado |
-| :---: | :---: | :---: |
-| [Kashberg](https://x.com/Kashberg_0) | [X / Twitter](https://x.com/Kashberg_0/status/2072157436891611332) | 2026-07-01 |
-
-</div>
-
-<div align="center">
-
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072157436891611332)**
-
-</div>
-
----
-
-### No. 55: Painel Visual de Loja de Delivery
-
-![Categoria: Publicidade e produto](https://img.shields.io/badge/Categoria-Publicidade%20e%20produto-lightgrey)
-
-#### 📚 Descrição
-
-Gera uma placa vertical completa de proposta visual para uma marca de delivery, com banner principal, mockup mobile, cartões de produtos e paleta de cores padrão.
-
-#### 🌟 Prompt
-
-Categoria da loja: 【ex.: café especial / refeição ocidental / lanche de sanduíche / doces de padaria / …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
-```
-Categoria da loja: 【ex.: café especial / refeição ocidental / lanche de sanduíche / doces de padaria / petiscos chineses】
-Nome da marca: 【insira um nome de marca fictício】
-Nome em inglês: 【opcional】
-Produtos principais: 【insira 3-6 produtos】
-Diferencial central: 【insira um slogan de uma frase】
-Cor principal: 【insira a cor principal】
-Cor secundária: 【insira a cor secundária】
-Direção de estilo: 【ex.: sensação de café especial / alta gastronomia ocidental / comida saudável / padaria europeia】
-
-Gere uma imagem de design comercial vertical 9:16 em alta definição, com o tema de um caso de decoração de loja de delivery de 【categoria da loja】, marca 【nome da marca】, nome em inglês 【nome em inglês】.
-
-No geral não é um único cartaz, mas uma placa completa de proposta visual de loja de delivery, como um caso real de decoração de marca de restaurante feito por um designer. A imagem deve ter uma completa sensação de sistema de marca, aterrissagem em plataforma e apresentação comercial.
-
-O layout inclui:
-área de título do caso no topo;
-um grande banner de visual principal;
-um banner horizontal auxiliar;
-um mockup da loja de delivery no celular no canto inferior esquerdo;
-uma matriz de 6-8 cartões de produtos à direita;
-4 blocos de STANDARD COLOR na parte inferior.
-
-O estilo visual geral usa 【cor principal】 como cor principal e 【cor secundária】 como cor auxiliar, seguindo 【direção de estilo】. Layout claro, hierarquia de informação nítida, o visual principal é o maior, a página do celular vem em seguida, os cartões de produto depois e a paleta é a menor. No geral parece um caso de design de decoração de loja de delivery completo, real e aplicável.
-
-Exige que comidas e bebidas sejam realistas em alta definição, com forte sensação de fotografia comercial, materiais reais, luz e sombra naturais, imagem refinada e unificada.
-
-Evite: logos de plataformas reais, nomes de marcas reais, QR codes, marcas d'água, excesso de texto pequeno, caracteres confusos, deformação de comida, distorção da UI do celular, imagem bagunçada, sensação de template barato.
-```
-
-</details>
-
-#### 🌁 Imagem gerada
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HMJPo81WQAAs5-0.jpg" width="700" alt="Painel Visual de Loja de Delivery">
-</div>
-
-<br>
-
-<div align="center">
-
-| Autor | Fonte | Publicado |
-| :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2072307212148469822) | 2026-07-01 |
-
-</div>
-
-<div align="center">
-
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072307212148469822)**
-
-</div>
-
----
-
-### No. 56: Rabisco Preto Provocando Retrato
+### No. 62: Rabisco Preto Provocando Retrato
 
 ![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
 
@@ -3584,7 +3975,7 @@ sangue, ferimento, horror, abuso, conteúdo sexual, monstro assustador, criatura
 
 ---
 
-### No. 57: Site de Viagens em Diorama 3D no Laptop
+### No. 63: Site de Viagens em Diorama 3D no Laptop
 
 ![Categoria: Branding e Interface](https://img.shields.io/badge/Categoria-Branding%20e%20Interface-lightgrey)
 
@@ -3629,7 +4020,7 @@ Plataforma de viagens ultra-premium visualizada como um mundo em miniatura que e
 
 ---
 
-### No. 58: Pôster Premium de Marketing 5G
+### No. 64: Pôster Premium de Marketing 5G
 
 ![Categoria: Materiais de marketing](https://img.shields.io/badge/Categoria-Materiais%20de%20marketing-lightgrey)
 
@@ -3933,7 +4324,299 @@ Crie-o
 
 ---
 
-### No. 59: Doodle Editorial Coreano Fofo
+### No. 65: Grade Chibi Estilo Webtoon
+
+![Categoria: Ilustração e IP](https://img.shields.io/badge/Categoria-Ilustra%C3%A7%C3%A3o%20e%20IP-lightgrey)
+
+#### 📚 Descrição
+
+Cria uma colagem em grade de 4 painéis com garotas chibi estilosas em estética de webtoon coreano, com vetor plano minimalista e cores vibrantes.
+
+#### 🌟 Prompt
+
+Uma colagem em grade de 4 painéis limpa com quatro garotas chibi distintas e estilosas em uma estética de …
+
+<details>
+<summary>Mostrar prompt completo</summary>
+
+```
+Uma colagem em grade de 4 painéis limpa com quatro garotas chibi distintas e estilosas em uma estética de webtoon coreano. A ilustração usa um design vetorial plano minimalista com contornos pretos ousados e nítidos e um clima de quadrinhos pop-art. Cada painel apresenta um fundo de cor sólida única, incluindo turquesa vibrante, amarelo-sol brilhante e azul-royal profundo. As personagens têm grandes olhos escuros brilhantes ao estilo anime, bochechas rosadas suavemente coradas e penteados modernos como tranças laterais bem-feitas e coques baixos elegantes. Elas vestem golas altas listradas de alto contraste da moda e suéteres pretos elegantes, acessorizadas com argolas coloridas grandes. Simetria perfeita, alta resolução, estilo de arte gráfica. --ar 3:4
+```
+
+</details>
+
+#### 🌁 Imagem gerada
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HMJEguTb0AA99uW.jpg" width="700" alt="Grade Chibi Estilo Webtoon">
+</div>
+
+<br>
+
+<div align="center">
+
+| Autor | Fonte | Publicado |
+| :---: | :---: | :---: |
+| [Cherry 2.O](https://x.com/Mind_Boticni) | [X / Twitter](https://x.com/Mind_Boticni/status/2072294123152044416) | 2026-07-01 |
+
+</div>
+
+<div align="center">
+
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072294123152044416)**
+
+</div>
+
+---
+
+### No. 66: Retrato de Campanha de Óculos de Luxo
+
+![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
+
+#### 📚 Descrição
+
+Cria um retrato fotorrealista de moda masculina em um terraço urbano, com óculos de sol oversized como destaque em um estilo de luxo minimalista e comercial.
+
+#### 🌟 Prompt
+
+Uma campanha fotorrealista de óculos de moda premium com um jovem modelo masculino elegante (20-26) de …
+
+<details>
+<summary>Mostrar prompt completo</summary>
+
+```
+Uma campanha fotorrealista de óculos de moda premium com um jovem modelo masculino elegante (20-26) de constituição esguia, fotografado em um terraço urbano moderno sob a luz natural intensa do meio-dia. A imagem incorpora luxo minimalista, simplicidade escandinava e estética masculina contemporânea, com óculos de sol quadrados oversized como o centro visual inconfundível. Os óculos apresentam uma armação fina de acetato preto fosco e lentes gradientes âmbar quentes que revelam suavemente os olhos do modelo enquanto captam reflexos realistas da luz do dia.
+
+O modelo tem rosto oval com mandíbula suavemente definida, maçãs do rosto equilibradas, pele clara neutra com poros realistas e acabamento fosco saudável, sobrancelhas médias e retas, nariz reto, lábios foscos naturais e aparência bem barbeada. Seu penteado é um moderno French crop com cabelo curto e liso castanho-escuro, franja reta e acabamento fosco natural. Sua expressão é calma, relaxada, confiante e pensativa, com o olhar direcionado para fora da câmera à esquerda. Sua boca permanece naturalmente relaxada enquanto a cabeça está virada em um sutil perfil de três quartos, criando uma pose editorial elegante.
+
+Ele veste uma camiseta premium de gola redonda de algodão pesado preto com caimento ajustado e relaxado, refletindo luxo discreto e moda masculina minimalista. A composição é um retrato fechado de cabeça e ombros captado ao nível dos olhos, com o sujeito posicionado ligeiramente à esquerda do centro contra um fundo suavemente desfocado de arquitetura moderna e limpa em tons de cinza claro, branco e azul suave. A pouca profundidade de campo cria um bokeh arquitetônico suave que realça a estética comercial de luxo sem distrair do sujeito.
+
+A iluminação consiste na luz natural intensa do meio-dia vindo do canto superior frontal direito, equilibrada por um grande refletor branco que preenche suavemente as sombras faciais. O resultado é de contraste médio com sombras definidas porém limpas que preservam a textura natural da pele e a profundidade facial realista. Reflexos âmbar quentes nos óculos complementam sutilmente a paleta de cores neutra enquanto adicionam riqueza visual.
+
+Capturada em uma Sony A1 com lente prime 85mm GM em f/2, 1/1600 seg, ISO 100, balanço de branco de luz do dia, produzindo um retrato excepcionalmente nítido com pouca profundidade de campo e separação óptica cinematográfica. Cada detalhe, incluindo poros realistas da pele, fios de cabelo individuais, textura macia do tecido de algodão e armações de acetato nítidas com reflexos autênticos, é renderizado com precisão de nível comercial.
+
+A gradação de cor segue um estilo comercial premium com contraste equilibrado, realces naturais suaves, sombras limpas, saturação levemente suavizada e tons de pele quentes e realistas. A paleta geral mistura preto profundo, bege quente, âmbar, marrom suave e cinzas arquitetônicos frios para uma sensação de luxo refinada. O pós-processamento inclui retoque de beleza editorial de alto nível, clareza média-alta, nitidez seletiva nos olhos, óculos e contornos faciais, ampla faixa dinâmica e um acabamento comercial ultralimpo.
+
+O clima geral é moderno, limpo, confiante, luxuoso, fresco, urbano e discreto, inspirado em campanhas de óculos de luxo da Gentle Monster, Persol, Oliver Peoples, COS e Acne Studios. A imagem final deve parecer um retrato comercial de altíssimo nível com realismo impecável, faixa dinâmica máxima, nitidez excepcional e verdadeira qualidade 8K.
+
+Prompt negativo: desenho animado, anime, HDR, cores supersaturadas, pele plástica, barba densa, fundo carregado, texto, marca d'água, baixa resolução, ruído, anatomia deformada.
+```
+
+</details>
+
+#### 🌁 Imagem gerada
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HMMREkUbYAAOhdR.jpg" width="700" alt="Retrato de Campanha de Óculos de Luxo">
+</div>
+
+<br>
+
+<div align="center">
+
+| Autor | Fonte | Publicado |
+| :---: | :---: | :---: |
+| [Virena](https://x.com/vireonixx) | [X / Twitter](https://x.com/vireonixx/status/2072519037897367958) | 2026-07-02 |
+
+</div>
+
+<div align="center">
+
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072519037897367958)**
+
+</div>
+
+---
+
+### No. 67: Foto de Produto Premium Flutuante
+
+![Categoria: Publicidade e produto](https://img.shields.io/badge/Categoria-Publicidade%20e%20produto-lightgrey)
+
+#### 📚 Descrição
+
+Cria uma foto comercial premium de um produto flutuando em ambiente minimalista, com iluminação de estúdio, sombras suaves e texturas hiper-realistas.
+
+#### 🌟 Prompt
+
+```
+Foto premium de produto de [objeto], flutuando em um ambiente minimalista [cor], sombras suaves, iluminação de estúdio, reflexos na superfície, texturas hiper-realistas, estilo de publicidade comercial, composição ultralimpa
+```
+
+#### 🌁 Imagem gerada
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HMJyLO9aYAEApaZ.jpg" width="700" alt="Foto de Produto Premium Flutuante">
+</div>
+
+<br>
+
+<div align="center">
+
+| Autor | Fonte | Publicado |
+| :---: | :---: | :---: |
+| [Al-Shamus](https://x.com/im_shahid7) | [X / Twitter](https://x.com/im_shahid7/status/2072344325501972768) | 2026-07-01 |
+
+</div>
+
+<div align="center">
+
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072344325501972768)**
+
+</div>
+
+---
+
+### No. 68: Design Minimalista Personalizável
+
+![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
+
+#### 📚 Descrição
+
+Gera ilustrações minimalistas e modernas com elementos personalizáveis em alta resolução para uso digital e impresso.
+
+#### 🌟 Prompt
+
+```
+Este prompt gera designs minimalistas, limpos e contemporâneos com elementos personalizáveis. Use a variável para adaptar a ilustração às suas necessidades. Perfeito para saídas em alta resolução, adequadas tanto para uso digital quanto impresso. Ideal para designers gráficos, artistas e criativos que buscam um toque moderno e estiloso em seus projetos!
+```
+
+#### 🌁 Imagem gerada
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HMRxkAoagAAm3AL.jpg" width="700" alt="Design Minimalista Personalizável">
+</div>
+
+<br>
+
+<div align="center">
+
+| Autor | Fonte | Publicado |
+| :---: | :---: | :---: |
+| [Nomi AI](https://x.com/AiwithNomi) | [X / Twitter](https://x.com/AiwithNomi/status/2072906654652502314) | 2026-07-03 |
+
+</div>
+
+<div align="center">
+
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072906654652502314)**
+
+</div>
+
+---
+
+### No. 69: Logo Tipográfico Oriental de Linha Fina
+
+![Categoria: Branding e Interface](https://img.shields.io/badge/Categoria-Branding%20e%20Interface-lightgrey)
+
+#### 📚 Descrição
+
+Cria um logo tipográfico chinês minimalista onde os próprios caracteres em linha fina viram a marca, com pinyin auxiliar, muito espaço em branco e um pequeno selo vermelhão.
+
+#### 🌟 Prompt
+
+[Nome da marca]: [Pinyin auxiliar]: [Direção da marca]: casa de chá / vaso de flores / cerâmica / livraria / …
+
+<details>
+<summary>Mostrar prompt completo</summary>
+
+```
+[Nome da marca]:
+[Pinyin auxiliar]:
+[Direção da marca]: casa de chá / vaso de flores / cerâmica / livraria / perfume / utensílios / pousada / marca de estilo de vida oriental
+[Estrutura tipográfica]: grade 2×2 / vertical / horizontal / entrelaçamento deslocado
+[Palavras-chave de atmosfera]: frio sereno / contido / refinado / espaço em branco / oriental moderno / tipografia de linha fina
+
+Gere um "Logo Tipográfico Oriental de Linha Fina".
+
+O conjunto é um logo tipográfico chinês minimalista, com fundo branco ou cinza-esbranquiçado muito claro e bastante espaço em branco. O elemento principal não é uma ilustração nem um gráfico, mas o próprio nome da marca em chinês desenhado como marca visual.
+
+Os caracteres chineses principais usam traços de linha fina em preto, alongados, leves, contidos e frios, com sensação oriental moderna. Alguns traços podem ter leve reconstrução geométrica, alongamento, traços interrompidos, deslocamento ou tratamento de espaço em branco, mas o conjunto deve manter legibilidade e unidade, sem virar caracteres ilegíveis.
+
+O foco é "a tipografia é o logo": o nome da marca em chinês é o visual principal; o pinyin ou inglês servem apenas como composição auxiliar. O pinyin pode ficar abaixo, ao lado, na vertical ou entrelaçado junto aos caracteres principais, com espaçamento amplo, mantendo um ar sofisticado, silencioso e contido.
+
+Adicione um pequeno selo de gravura em vermelhão; o conteúdo pode ser um único caractere de estilo antigo ou um símbolo de selo abstrato e arcaico. O selo é apenas um toque final, não pode ser grande nem roubar o protagonismo.
+
+O efeito final deve parecer um logo tipográfico chinês moderno de uma marca real: limpo, plano, com design e senso de série, adequado para propostas de marca, fachadas, embalagens, avatares de redes sociais e extensão do sistema visual.
+```
+
+</details>
+
+#### 🌁 Imagem gerada
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HLqAqrfXkAALfBu.jpg" width="700" alt="Logo Tipográfico Oriental de Linha Fina">
+</div>
+
+<br>
+
+<div align="center">
+
+| Autor | Fonte | Publicado |
+| :---: | :---: | :---: |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2070108653546328355) | 2026-06-25 |
+
+</div>
+
+<div align="center">
+
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2070108653546328355)**
+
+</div>
+
+---
+
+### No. 70: Pôster de Viagem Minimalista da Cidade
+
+![Categoria: Materiais de marketing](https://img.shields.io/badge/Categoria-Materiais%20de%20marketing-lightgrey)
+
+#### 📚 Descrição
+
+Cria um pôster de viagem plano e minimalista de uma cidade com ilustração vetorial estilizada, tipografia em negrito e paleta de cores saturada.
+
+#### 🌟 Prompt
+
+Um pôster de viagem plano e minimalista para a cidade de [City Name], apresentando uma ilustração estilizada …
+
+<details>
+<summary>Mostrar prompt completo</summary>
+
+```
+Um pôster de viagem plano e minimalista para a cidade de [City Name], apresentando uma ilustração estilizada de [Main Subject].
+Use formas vetoriais limpas com uma silhueta lúdica e simplificada.
+Texto sem serifa em negrito no topo soletra o nome da cidade, com um subtítulo menor abaixo.
+Aplique uma paleta de cores [Color Palette] composta por 2 a 4 tons saturados, de alto contraste ou pastel.
+Use um fundo de cor sólida e evite gradientes ou sombras.
+O design do pôster deve evocar wanderlust moderno e vibrações de pôster pop art.
+Proporção da imagem é 2:3.
+```
+
+</details>
+
+#### 🌁 Imagem gerada
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HLtKSjRaUAAaOA9.jpg" width="700" alt="Pôster de Viagem Minimalista da Cidade">
+</div>
+
+<br>
+
+<div align="center">
+
+| Autor | Fonte | Publicado |
+| :---: | :---: | :---: |
+| [simeon-sanai](https://x.com/Naiknelofar788) | [X / Twitter](https://x.com/Naiknelofar788/status/2070330146259869851) | 2026-06-26 |
+
+</div>
+
+<div align="center">
+
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2070330146259869851)**
+
+</div>
+
+---
+
+### No. 71: Doodle Editorial Coreano Fofo
 
 ![Categoria: Ilustração e IP](https://img.shields.io/badge/Categoria-Ilustra%C3%A7%C3%A3o%20e%20IP-lightgrey)
 
@@ -4028,23 +4711,31 @@ personagens excessivamente renderizados.
 
 ---
 
-### No. 60: Retrato Doodle Infantil Divertido
+### No. 72: Retrato Urbano com Casaco Amarelo
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Cria um retrato de estúdio de alta luminosidade de uma criança correndo, com um boneco palito rabiscado puxando a camisa para um efeito lúdico.
+Retrato cinematográfico de rua de uma mulher com casaco amarelo nítida em meio a uma multidão desfocada, com efeito de cor seletiva em preto e branco.
 
 #### 🌟 Prompt
 
-Um retrato de estúdio lúdico e de alta luminosidade de [subject] correndo alegremente sobre um fundo cinza …
+Um retrato cinematográfico de rua de uma bela jovem vestindo um vibrante casaco amarelo-mostarda enquanto …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Um retrato de estúdio lúdico e de alta luminosidade de [subject] correndo alegremente sobre um fundo cinza claro contínuo, capturado em meio ao passo com uma perna erguida e um sorriso amplo e genuíno. O sujeito veste um conjunto casual oversized em tons neutros suaves (ou cores vibrantes), criando uma sensação dinâmica de movimento. Atrás dele, um simples boneco palito de desenho animado preto feito à mão agarra e estica as costas da camisa, fazendo o tecido parecer elasticamente puxado como se tentasse pará-lo. O personagem rabiscado está integrado naturalmente à cena com linhas de movimento expressivas e uma expressão facial humorística. O sujeito segura um adereço divertido (como um brinquedo de dinossauro, um pirulito gigante, um ursinho de pelúcia ou um balão), reforçando a narrativa lúdica. Composição minimalista, iluminação de estúdio limpa, sombras suaves, foco ultra nítido, textura de pele realista, cores vibrantes porém naturais, fotografia editorial caprichosa, estética de campanha de moda infantil premium, altamente detalhado, fotorrealista, 8K.
+Um retrato cinematográfico de rua de uma bela jovem vestindo um vibrante casaco amarelo-mostarda enquanto caminha por uma movimentada multidão urbana. A mulher permanece perfeitamente nítida e em foco enquanto os pedestres ao redor se dissolvem em um dramático desfoque de movimento horizontal, criando uma poderosa sensação de movimento e isolamento. Efeito de cor seletiva: toda a cena é monocromática em preto e branco, exceto o rico casaco amarelo-dourado, que se torna a única cor vibrante do quadro.
+
+Capturado de perfil lateral com uma lente de 50mm, profundidade de campo rasa, iluminação natural nublada, textura de pele realista, cabelo curto ondulado ao vento, expressão emocional sutil, elegante bolsa de ombro, moda urbana moderna, suave contraste cinematográfico, alta faixa dinâmica, ultra-fotorrealista, fotografia de moda editorial, qualidade de capa de revista, visual Leica, tons inspirados em Kodak Portra, detalhes faciais nítidos, efeito de fotografia panorâmica, desfoque de movimento de longa exposição, composição minimalista, fotografia de rua premium de belas-artes, 8K, fotografia premiada.
+
+Configurações da câmera:
+Sony A7R V, lente 50mm f/1.4, f/1.8, ISO 100, obturador 1/15s, composição ao nível dos olhos, luz ambiente natural, ultra-alto detalhe.
+
+Tratamento de cor:
+Cor seletiva (apenas casaco amarelo), cidade monocromática, multidão em escala de cinza, fundo cinematográfico em preto e branco, rica textura de tecido dourado.
 ```
 
 </details>
@@ -4052,7 +4743,7 @@ Um retrato de estúdio lúdico e de alta luminosidade de [subject] correndo aleg
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMD4r5XWcAAlMXs.jpg" width="700" alt="Retrato Doodle Infantil Divertido">
+<img src="https://image.moge.ai/prompt_media/HMJNIo2bMAAhZLO.jpg" width="700" alt="Retrato Urbano com Casaco Amarelo">
 </div>
 
 <br>
@@ -4061,71 +4752,60 @@ Um retrato de estúdio lúdico e de alta luminosidade de [subject] correndo aleg
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Sairah](https://x.com/Sairah_0) | [X / Twitter](https://x.com/Sairah_0/status/2071929275897491491) | 2026-06-30 |
+| [Taaruk](https://x.com/Taaruk_) | [X / Twitter](https://x.com/Taaruk_/status/2072303607094145099) | 2026-07-01 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071929275897491491)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072303607094145099)**
 
 </div>
 
 ---
 
-### No. 61: Anúncio de Realidade Dividida
+### No. 73: Painel Visual de Loja de Delivery
 
 ![Categoria: Publicidade e produto](https://img.shields.io/badge/Categoria-Publicidade%20e%20produto-lightgrey)
 
 #### 📚 Descrição
 
-Cria um pôster publicitário premium dividido em dois mundos contrastantes, com o produto no centro como ponte entre o 'antes' e o 'depois'.
+Gera uma placa vertical completa de proposta visual para uma marca de delivery, com banner principal, mockup mobile, cartões de produtos e paleta de cores padrão.
 
 #### 🌟 Prompt
 
-Crie um pôster publicitário premium para [BRAND] apresentando [PRODUCT]. Construa a composição em torno de um …
+Categoria da loja: 【ex.: café especial / refeição ocidental / lanche de sanduíche / doces de padaria / …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Crie um pôster publicitário premium para [BRAND] apresentando [PRODUCT].
+Categoria da loja: 【ex.: café especial / refeição ocidental / lanche de sanduíche / doces de padaria / petiscos chineses】
+Nome da marca: 【insira um nome de marca fictício】
+Nome em inglês: 【opcional】
+Produtos principais: 【insira 3-6 produtos】
+Diferencial central: 【insira um slogan de uma frase】
+Cor principal: 【insira a cor principal】
+Cor secundária: 【insira a cor secundária】
+Direção de estilo: 【ex.: sensação de café especial / alta gastronomia ocidental / comida saudável / padaria europeia】
 
-Construa a composição em torno de um conceito claro de REALIDADE DIVIDIDA.
+Gere uma imagem de design comercial vertical 9:16 em alta definição, com o tema de um caso de decoração de loja de delivery de 【categoria da loja】, marca 【nome da marca】, nome em inglês 【nome em inglês】.
 
-O pôster deve ser dividido em dois mundos visualmente contrastantes que mostrem a transformação, o contraste ou a dualidade criada pelo produto.
+No geral não é um único cartaz, mas uma placa completa de proposta visual de loja de delivery, como um caso real de decoração de marca de restaurante feito por um designer. A imagem deve ter uma completa sensação de sistema de marca, aterrissagem em plataforma e apresentação comercial.
 
-O produto deve ficar no centro da divisão como a ponte visual entre as duas realidades.
+O layout inclui:
+área de título do caso no topo;
+um grande banner de visual principal;
+um banner horizontal auxiliar;
+um mockup da loja de delivery no celular no canto inferior esquerdo;
+uma matriz de 6-8 cartões de produtos à direita;
+4 blocos de STANDARD COLOR na parte inferior.
 
-Um lado deve representar o estado “antes”, o problema, a matéria-prima, o mundo comum, o caos, o atrito, o ruído, a opacidade ou a limitação.
+O estilo visual geral usa 【cor principal】 como cor principal e 【cor secundária】 como cor auxiliar, seguindo 【direção de estilo】. Layout claro, hierarquia de informação nítida, o visual principal é o maior, a página do celular vem em seguida, os cartões de produto depois e a paleta é a menor. No geral parece um caso de design de decoração de loja de delivery completo, real e aplicável.
 
-O outro lado deve representar o estado “depois”, a solução, a experiência refinada, o mundo elevado, a clareza, o controle, a beleza, a energia, o sabor, o desempenho ou o desejo.
+Exige que comidas e bebidas sejam realistas em alta definição, com forte sensação de fotografia comercial, materiais reais, luz e sombra naturais, imagem refinada e unificada.
 
-A divisão deve parecer intencional e cinematográfica, não como uma simples colagem antes/depois.
-
-Faça o produto preciso, reconhecível, nítido, premium e visualmente dominante.
-
-Adapte a lógica da divisão ao DNA da marca:
-- produtos de tecnologia mostram caos vs controle, analógico vs inteligente, limitação vs possibilidade
-- produtos alimentícios mostram ingrediente cru vs experiência final irresistível
-- produtos de beleza mostram opacidade vs brilho, rotina vs ritual, natureza bruta vs cuidado refinado
-- produtos de moda mostram presença comum vs identidade elevada
-- produtos de luxo mostram artesanato bruto vs refinamento atemporal
-- produtos para casa mostram bagunça cotidiana vs atmosfera projetada
-
-Use fotografia comercial premium, iluminação cinematográfica, forte contraste entre os dois mundos, tipografia refinada, detalhe nítido do produto, materiais realistas, composição elegante, sombras polidas e acabamento de campanha de classe mundial.
-
-Adicione uma tipografia de pôster elegante inspirada na marca com um slogan curto de 3 palavras.
-
-Não use pessoas em miniatura, micromundos, monumentos de produto, narrativa por sombras, composição de vista explodida ou molduras de espaço negativo.
-
-Evite copiar qualquer campanha existente. Crie um anúncio original e fresco de realidade dividida.
-
-Marca: [BRAND]
-Produto: [PRODUCT]
-Realidade da esquerda: [DESCRIBE]
-Realidade da direita: [DESCRIBE]
-Proporção: [RATIO]
+Evite: logos de plataformas reais, nomes de marcas reais, QR codes, marcas d'água, excesso de texto pequeno, caracteres confusos, deformação de comida, distorção da UI do celular, imagem bagunçada, sensação de template barato.
 ```
 
 </details>
@@ -4133,7 +4813,7 @@ Proporção: [RATIO]
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMJLu0MXEAAkwPM.jpg" width="700" alt="Anúncio de Realidade Dividida">
+<img src="https://image.moge.ai/prompt_media/HMJPo81WQAAs5-0.jpg" width="700" alt="Painel Visual de Loja de Delivery">
 </div>
 
 <br>
@@ -4142,343 +4822,19 @@ Proporção: [RATIO]
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [AZIZ \| AI 🇸🇦](https://x.com/aziz4ai) | [X / Twitter](https://x.com/aziz4ai/status/2072302054765150453) | 2026-07-01 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2072307212148469822) | 2026-07-01 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072302054765150453)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072307212148469822)**
 
 </div>
 
 ---
 
-### No. 62: Design Minimalista Personalizável
-
-![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
-
-#### 📚 Descrição
-
-Gera ilustrações minimalistas e modernas com elementos personalizáveis em alta resolução para uso digital e impresso.
-
-#### 🌟 Prompt
-
-```
-Este prompt gera designs minimalistas, limpos e contemporâneos com elementos personalizáveis. Use a variável para adaptar a ilustração às suas necessidades. Perfeito para saídas em alta resolução, adequadas tanto para uso digital quanto impresso. Ideal para designers gráficos, artistas e criativos que buscam um toque moderno e estiloso em seus projetos!
-```
-
-#### 🌁 Imagem gerada
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HMRxkAoagAAm3AL.jpg" width="700" alt="Design Minimalista Personalizável">
-</div>
-
-<br>
-
-<div align="center">
-
-| Autor | Fonte | Publicado |
-| :---: | :---: | :---: |
-| [Nomi AI](https://x.com/AiwithNomi) | [X / Twitter](https://x.com/AiwithNomi/status/2072906654652502314) | 2026-07-03 |
-
-</div>
-
-<div align="center">
-
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072906654652502314)**
-
-</div>
-
----
-
-### No. 63: Logo Tipográfico Oriental de Linha Fina
-
-![Categoria: Branding e Interface](https://img.shields.io/badge/Categoria-Branding%20e%20Interface-lightgrey)
-
-#### 📚 Descrição
-
-Cria um logo tipográfico chinês minimalista onde os próprios caracteres em linha fina viram a marca, com pinyin auxiliar, muito espaço em branco e um pequeno selo vermelhão.
-
-#### 🌟 Prompt
-
-[Nome da marca]: [Pinyin auxiliar]: [Direção da marca]: casa de chá / vaso de flores / cerâmica / livraria / …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
-```
-[Nome da marca]:
-[Pinyin auxiliar]:
-[Direção da marca]: casa de chá / vaso de flores / cerâmica / livraria / perfume / utensílios / pousada / marca de estilo de vida oriental
-[Estrutura tipográfica]: grade 2×2 / vertical / horizontal / entrelaçamento deslocado
-[Palavras-chave de atmosfera]: frio sereno / contido / refinado / espaço em branco / oriental moderno / tipografia de linha fina
-
-Gere um "Logo Tipográfico Oriental de Linha Fina".
-
-O conjunto é um logo tipográfico chinês minimalista, com fundo branco ou cinza-esbranquiçado muito claro e bastante espaço em branco. O elemento principal não é uma ilustração nem um gráfico, mas o próprio nome da marca em chinês desenhado como marca visual.
-
-Os caracteres chineses principais usam traços de linha fina em preto, alongados, leves, contidos e frios, com sensação oriental moderna. Alguns traços podem ter leve reconstrução geométrica, alongamento, traços interrompidos, deslocamento ou tratamento de espaço em branco, mas o conjunto deve manter legibilidade e unidade, sem virar caracteres ilegíveis.
-
-O foco é "a tipografia é o logo": o nome da marca em chinês é o visual principal; o pinyin ou inglês servem apenas como composição auxiliar. O pinyin pode ficar abaixo, ao lado, na vertical ou entrelaçado junto aos caracteres principais, com espaçamento amplo, mantendo um ar sofisticado, silencioso e contido.
-
-Adicione um pequeno selo de gravura em vermelhão; o conteúdo pode ser um único caractere de estilo antigo ou um símbolo de selo abstrato e arcaico. O selo é apenas um toque final, não pode ser grande nem roubar o protagonismo.
-
-O efeito final deve parecer um logo tipográfico chinês moderno de uma marca real: limpo, plano, com design e senso de série, adequado para propostas de marca, fachadas, embalagens, avatares de redes sociais e extensão do sistema visual.
-```
-
-</details>
-
-#### 🌁 Imagem gerada
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HLqAqrfXkAALfBu.jpg" width="700" alt="Logo Tipográfico Oriental de Linha Fina">
-</div>
-
-<br>
-
-<div align="center">
-
-| Autor | Fonte | Publicado |
-| :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2070108653546328355) | 2026-06-25 |
-
-</div>
-
-<div align="center">
-
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2070108653546328355)**
-
-</div>
-
----
-
-### No. 64: Pôster de Viagem Minimalista da Cidade
-
-![Categoria: Materiais de marketing](https://img.shields.io/badge/Categoria-Materiais%20de%20marketing-lightgrey)
-
-#### 📚 Descrição
-
-Cria um pôster de viagem plano e minimalista de uma cidade com ilustração vetorial estilizada, tipografia em negrito e paleta de cores saturada.
-
-#### 🌟 Prompt
-
-Um pôster de viagem plano e minimalista para a cidade de [City Name], apresentando uma ilustração estilizada …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
-```
-Um pôster de viagem plano e minimalista para a cidade de [City Name], apresentando uma ilustração estilizada de [Main Subject].
-Use formas vetoriais limpas com uma silhueta lúdica e simplificada.
-Texto sem serifa em negrito no topo soletra o nome da cidade, com um subtítulo menor abaixo.
-Aplique uma paleta de cores [Color Palette] composta por 2 a 4 tons saturados, de alto contraste ou pastel.
-Use um fundo de cor sólida e evite gradientes ou sombras.
-O design do pôster deve evocar wanderlust moderno e vibrações de pôster pop art.
-Proporção da imagem é 2:3.
-```
-
-</details>
-
-#### 🌁 Imagem gerada
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HLtKSjRaUAAaOA9.jpg" width="700" alt="Pôster de Viagem Minimalista da Cidade">
-</div>
-
-<br>
-
-<div align="center">
-
-| Autor | Fonte | Publicado |
-| :---: | :---: | :---: |
-| [simeon-sanai](https://x.com/Naiknelofar788) | [X / Twitter](https://x.com/Naiknelofar788/status/2070330146259869851) | 2026-06-26 |
-
-</div>
-
-<div align="center">
-
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2070330146259869851)**
-
-</div>
-
----
-
-### No. 65: Estilo de Livro Ilustrado Vintage
-
-![Categoria: Ilustração e IP](https://img.shields.io/badge/Categoria-Ilustra%C3%A7%C3%A3o%20e%20IP-lightgrey)
-
-#### 📚 Descrição
-
-Cria ilustrações de personagens expressivos com traço elegante, texturas de pincel e paleta vintage aconchegante, no charme de livros animados clássicos.
-
-#### 🌟 Prompt
-
-```
---sref 3434845700
-
-Personagens expressivos, traço elegante, texturas de pincel picturais e uma paleta de cores vintage e quente criam ilustrações cheias de personalidade e emoção. Charme de livro animado clássico com um toque fresco e contemporâneo. Perfeito para design de personagens, narrativa visual, livros infantis e cenas animadas cinematográficas.
-```
-
-#### 🌁 Imagem gerada
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HMINkWRXIAE-n8V.jpg" width="700" alt="Estilo de Livro Ilustrado Vintage">
-</div>
-
-<br>
-
-<div align="center">
-
-| Autor | Fonte | Publicado |
-| :---: | :---: | :---: |
-| [OscarAI](https://x.com/Artedeingenio) | [X / Twitter](https://x.com/Artedeingenio/status/2072233780694130901) | 2026-07-01 |
-
-</div>
-
-<div align="center">
-
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072233780694130901)**
-
-</div>
-
----
-
-### No. 66: Colagem Diário em Grade 3x3
-
-![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
-
-#### 📚 Descrição
-
-Cria uma colagem em grade 3x3 da mesma pessoa em momentos e ângulos diferentes, com linhas desenhadas à mão em branco e cores claras, como uma página de diário viva.
-
-#### 🌟 Prompt
-
-Colagem de fotos em grade 3x3, mostrando a mesma pessoa em momentos, ângulos e distâncias diferentes. Cada …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
-```
-Colagem de fotos em grade 3x3, mostrando a mesma pessoa em momentos, ângulos e distâncias diferentes. Cada foto parece real, com luz natural, fundo limpo e uma sensação luminosa e fresca.
-
-Linhas brancas desenhadas à mão percorrem toda a imagem, contornando a pessoa, retratando movimentos, desenhando pequenos coraçõezinhos ✨, brilhos, ondas e linhas de movimento.
-
-A paleta geral é clara e saturada, com cores naturais suaves e pequenos detalhes, sem sombras pesadas. No final parece uma página de diário viva, com nove momentos nítidos cada um, mas visualmente unidos numa história cheia de ritmo.
-```
-
-</details>
-
-#### 🌁 Imagem gerada
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HMC0AQpW0AAUbyA.jpg" width="700" alt="Colagem Diário em Grade 3x3">
-</div>
-
-<br>
-
-<div align="center">
-
-| Autor | Fonte | Publicado |
-| :---: | :---: | :---: |
-| [千寻｜AI 分享 🌸](https://x.com/Crypto_QianXun) | [X / Twitter](https://x.com/Crypto_QianXun/status/2071853756484923525) | 2026-06-30 |
-
-</div>
-
-<div align="center">
-
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071853756484923525)**
-
-</div>
-
----
-
-### No. 67: Café com Chocolate em Vista Explodida
-
-![Categoria: Publicidade e produto](https://img.shields.io/badge/Categoria-Publicidade%20e%20produto-lightgrey)
-
-#### 📚 Descrição
-
-Cria uma infografia vertical hiper-realista com os ingredientes de um café com chocolate flutuando em camadas separadas sobre um fundo escuro de estúdio.
-
-#### 🌟 Prompt
-
-{ "subject": "Uma decomposição vertical hiper-realista em vista explodida de uma bebida de café com …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
-```
-{
-  "subject": "Uma decomposição vertical hiper-realista em vista explodida de uma bebida de café com chocolate",
-  "layout": "Alinhamento vertical centralizado, com cada ingrediente flutuando como sua própria camada separada e claramente espaçada",
-  "layers": [
-    {
-      "component": "Partículas finas de cacau em pó",
-      "position": "Topo"
-    },
-    {
-      "component": "Fitas brilhantes de calda de chocolate amargo com bordas escorrendo",
-      "position": "Camada flutuante separada"
-    },
-    {
-      "component": "Um pequeno monte leve de chantilly",
-      "position": "Camada flutuante separada"
-    },
-    {
-      "component": "Uma camada líquida sedosa de café com chocolate",
-      "position": "Camada flutuante separada"
-    },
-    {
-      "component": "Grãos de café torrados",
-      "position": "Camada flutuante separada"
-    },
-    {
-      "component": "Cristais de açúcar",
-      "position": "Camada flutuante separada"
-    },
-    {
-      "component": "Um pequeno copo de vidro transparente e texturizado com base pesada, vazio",
-      "position": "Base"
-    }
-  ],
-  "background": "Fundo escuro premium: um cenário de estúdio limpo com um gradiente suave de grafite a carvão quase preto",
-  "lighting_and_style": {
-    "lighting": "Iluminação de estúdio suave e controlada, com sombras distintas em camadas sob cada ingrediente flutuante",
-    "detail": "Realismo macro ultranítido, com linhas-guia finas e mínimas e rótulos em inglês no lado direito",
-    "category": "Infográfico de produto de alto padrão",
-    "resolution": "8K"
-  }
-}
-```
-
-</details>
-
-#### 🌁 Imagem gerada
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HMG_gENa8AAjaBU.jpg" width="700" alt="Café com Chocolate em Vista Explodida">
-</div>
-
-<br>
-
-<div align="center">
-
-| Autor | Fonte | Publicado |
-| :---: | :---: | :---: |
-| [PromptLab](https://x.com/iamaiistudio) | [X / Twitter](https://x.com/iamaiistudio/status/2072148184932192581) | 2026-07-01 |
-
-</div>
-
-<div align="center">
-
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072148184932192581)**
-
-</div>
-
----
-
-### No. 68: Capa Pop com Tipografia de Ídolo
+### No. 74: Capa Pop com Tipografia de Ídolo
 
 ![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
 
@@ -4560,7 +4916,7 @@ Gere apenas um pôster finalizado.
 
 ---
 
-### No. 69: Design Conceitual de Embalagem de Alimentos
+### No. 75: Design Conceitual de Embalagem de Alimentos
 
 ![Categoria: Branding e Interface](https://img.shields.io/badge/Categoria-Branding%20e%20Interface-lightgrey)
 
@@ -4605,7 +4961,7 @@ Crie um design de embalagem conceitual premium para [PRODUCT NAME], um(a) [PRODU
 
 ---
 
-### No. 70: Pôster Tipográfico Vintage de Paris
+### No. 76: Pôster Tipográfico Vintage de Paris
 
 ![Categoria: Materiais de marketing](https://img.shields.io/badge/Categoria-Materiais%20de%20marketing-lightgrey)
 
@@ -4657,69 +5013,26 @@ tipografia ornamentada, hand lettering, pôster de viagem vintage, romance franc
 
 ---
 
-### No. 71: Pôster de Viagem em Aquarela de Cidade
+### No. 77: Estilo de Livro Ilustrado Vintage
 
 ![Categoria: Ilustração e IP](https://img.shields.io/badge/Categoria-Ilustra%C3%A7%C3%A3o%20e%20IP-lightgrey)
 
 #### 📚 Descrição
 
-Cria uma ilustração de viagem em aquarela ao estilo de livro de contos, com uma cidade europeia acolhedora, tons azuis suaves e um título caligráfico personalizável.
+Cria ilustrações de personagens expressivos com traço elegante, texturas de pincel e paleta vintage aconchegante, no charme de livros animados clássicos.
 
 #### 🌟 Prompt
 
-Crie uma ilustração de viagem em aquarela onírica no estilo de um livro de contos premium e pôster de viagem …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
 ```
-Crie uma ilustração de viagem em aquarela onírica no estilo de um livro de contos premium e pôster de viagem vintage. A arte apresenta uma cidade europeia tranquila em tons suaves de aquarela azul com delicados contornos de tinta, textura de papel creme quente e uma atmosfera aconchegante de conto de fadas.
+--sref 3434845700
 
-No topo, coloque um grande título em caligrafia de aquarela pintado à mão:
-"[NOME DA CIDADE]"
-Abaixo dele, adicione um pequeno subtítulo elegante:
-"[Uma breve frase poética]"
-
-Composição da Cena:
-Um charmoso passeio à beira-rio ou canal com marcos locais icônicos ao fundo, ruas de paralelepípedos, pontes antigas, edifícios históricos, cafés floridos, padarias aconchegantes, lampiões vintage, reflexos suaves na água calma, pequenos barcos, pássaros, flores exuberantes e nuvens fofas.
-
-Primeiro Plano:
-Pessoas ilustradas fofas aproveitando a vida cotidiana—caminhando com café, lendo livros, desenhando, pedalando, passeando com um cachorrinho, casais em pontes, crianças alimentando pássaros, artistas pintando e turistas tirando fotos. Todos têm proporções adoráveis de livro de contos e expressões faciais suaves.
-
-Detalhes do Ambiente:
-• Cafés aconchegantes com lousas escritas à mão
-• Padaria exibindo pães e doces frescos
-• Floreiras nas janelas
-• Bicicleta estacionada ao lado de um canal
-• Pombos e cisnes
-• Luzes suspensas
-• Bancos de madeira
-• Pequenos barcos
-• Reflexos na água
-• Flores desabrochando
-• Placas de lojas fofas escritas à mão
-• Pequenos rabiscos de corações
-• Estrelas e ilustrações botânicas ao redor do título
-
-Estilo de Tipografia:
-Elegante letra de pincel em aquarela azul para o nome da cidade, subtítulo minimalista manuscrito, pequenos ícones decorativos, layout editorial suave, estética sutil de diário de viagem.
-
-Paleta de Cores:
-Azul pastel suave, creme, bege quente, cinza claro, verde suave, amarelo pálido, lavagens de aquarela com gradientes delicados e granulação de papel.
-
-Estilo:
-Ilustração em aquarela caprichosa, atmosfera inspirada no Studio Ghibli, charme de Beatrix Potter, ilustração de livro de contos, diário de viagem europeu aconchegante, aquarela pintada à mão, ultradetalhada, iluminação suave, composição limpa, estética premium de livro infantil, pôster de viagem onírico, alto detalhe, 8K.
-
-Proporção:
-Retrato (4:5)
+Personagens expressivos, traço elegante, texturas de pincel picturais e uma paleta de cores vintage e quente criam ilustrações cheias de personalidade e emoção. Charme de livro animado clássico com um toque fresco e contemporâneo. Perfeito para design de personagens, narrativa visual, livros infantis e cenas animadas cinematográficas.
 ```
-
-</details>
 
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMHn5sCbAAAmGXW.jpg" width="700" alt="Pôster de Viagem em Aquarela de Cidade">
+<img src="https://image.moge.ai/prompt_media/HMINkWRXIAE-n8V.jpg" width="700" alt="Estilo de Livro Ilustrado Vintage">
 </div>
 
 <br>
@@ -4728,35 +5041,39 @@ Retrato (4:5)
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Taaruk](https://x.com/Taaruk_) | [X / Twitter](https://x.com/Taaruk_/status/2072192393932354027) | 2026-07-01 |
+| [OscarAI](https://x.com/Artedeingenio) | [X / Twitter](https://x.com/Artedeingenio/status/2072233780694130901) | 2026-07-01 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072192393932354027)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072233780694130901)**
 
 </div>
 
 ---
 
-### No. 72: Retrato de Beleza Monocromático em Vermelho
+### No. 78: Retrato Editorial de Verão Japonês
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Cria um retrato editorial de alta moda de uma mulher com óculos vermelhos e vestido de cetim sobre fundo vermelho monocromático e iluminação dramática de estúdio.
+Cria uma capa de revista de luxo ultrarrealista com um jovem à janela sob luz dourada de verão, inspirada em filmes japoneses.
 
 #### 🌟 Prompt
 
-Retrato beauty de alta moda de uma jovem com cabelo castanho liso repartido ao meio, óculos de sol quadrados …
+Use o rosto de referência exatamente. Preserve a identidade facial, as proporções faciais, o penteado, o tom …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Retrato beauty de alta moda de uma jovem com cabelo castanho liso repartido ao meio, óculos de sol quadrados vermelhos tingidos erguidos com ambas as mãos emoldurando o rosto, batom vermelho intenso, brinco de argola e anel dourados visíveis, contato visual direto e intenso com a câmera através das lentes, vestindo vestido slip de cetim vermelho sobre gola alta canelada vermelho profundo, fundo vermelho profundo monocromático sólido, forte iluminação de contorno separando a modelo do fundo, sutil textura de grão de filme, iluminação dramática de estúdio, composição vertical 4:5, fotografia editorial monocromática ousada --ar 4:5 --v 6
+Use o rosto de referência exatamente. Preserve a identidade facial, as proporções faciais, o penteado, o tom de pele, a idade e todas as características reconhecíveis. Crie uma capa de revista editorial de luxo ultrarrealista inspirada em filmes de verão japoneses. O espectador está do lado de fora de uma janela sem chuva, olhando através do vidro para um jovem bonito sentado perto do parapeito. Retrato em close (o rosto preenche 65–70% do quadro), ângulo levemente alto. Ele apoia suavemente o queixo nos braços cruzados, primeiro olhando serenamente para fora antes de encontrar naturalmente a câmera com um sorriso genuíno e caloroso, como se recebesse alguém por quem esperava.
+
+Seus olhos expressivos são o foco principal. A suave luz dourada do sol da tarde de verão envolve seu rosto com sombras naturais realistas. O vidro mostra reflexos delicados de árvores verdes exuberantes, céu azul e minúsculos brilhos de luz sem esconder seu rosto. Tons quentes de marfim, creme, verde-oliva e pastel, textura de pele autêntica, sutil grão de filme cinematográfico, contraste suave, profundidade de campo rasa e cremosa, atmosfera nostálgica e tranquila, fotografia de estilo de vida premium. Capa de revista de luxo minimalista e limpa com título serifado elegante "The Moment" no canto superior esquerdo e um subtítulo refinado abaixo, amplo espaço negativo, composição premiada, fotorrealista, cinematográfica, qualidade 8K, proporção 3:4.
+
+Evite pele com aparência de IA, características faciais alteradas, olhos exagerados, HDR, supersaturação, bokeh pesado, forte reflexo de lente, fundos desordenados ou reflexos cobrindo o rosto.
 ```
 
 </details>
@@ -4764,7 +5081,7 @@ Retrato beauty de alta moda de uma jovem com cabelo castanho liso repartido ao m
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMCja1DW0AAaY2A.jpg" width="700" alt="Retrato de Beleza Monocromático em Vermelho">
+<img src="https://image.moge.ai/prompt_media/HMILgC9a4AA6vWM.jpg" width="700" alt="Retrato Editorial de Verão Japonês">
 </div>
 
 <br>
@@ -4773,29 +5090,29 @@ Retrato beauty de alta moda de uma jovem com cabelo castanho liso repartido ao m
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Shahid Wani](https://x.com/meng_dagg695) | [X / Twitter](https://x.com/meng_dagg695/status/2071835761620709472) | 2026-06-30 |
+| [Eesha](https://x.com/MissDelulu9) | [X / Twitter](https://x.com/MissDelulu9/status/2072231437865193606) | 2026-07-01 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071835761620709472)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072231437865193606)**
 
 </div>
 
 ---
 
-### No. 73: Anúncio de Espaço Negativo com Produto Rompendo a Moldura
+### No. 79: Anúncio de Realidade Dividida
 
 ![Categoria: Publicidade e produto](https://img.shields.io/badge/Categoria-Publicidade%20e%20produto-lightgrey)
 
 #### 📚 Descrição
 
-Cria um pôster publicitário premium em espaço negativo, no qual a silhueta característica da marca emoldura um mundo cinematográfico e o produto herói rompe dramaticamente a moldura.
+Cria um pôster publicitário premium dividido em dois mundos contrastantes, com o produto no centro como ponte entre o 'antes' e o 'depois'.
 
 #### 🌟 Prompt
 
-Crie um pôster publicitário premium para [BRAND] apresentando [PRODUCT]. Use o logotipo, o ícone, a …
+Crie um pôster publicitário premium para [BRAND] apresentando [PRODUCT]. Construa a composição em torno de um …
 
 <details>
 <summary>Mostrar prompt completo</summary>
@@ -4803,41 +5120,40 @@ Crie um pôster publicitário premium para [BRAND] apresentando [PRODUCT]. Use o
 ```
 Crie um pôster publicitário premium para [BRAND] apresentando [PRODUCT].
 
-Use o logotipo, o ícone, a tipografia, o formato do rótulo, a moldura da embalagem ou a silhueta característica da marca como uma verdadeira moldura de espaço negativo.
+Construa a composição em torno de um conceito claro de REALIDADE DIVIDIDA.
 
-Construa um mundo visual cinematográfico dentro dessa forma de espaço negativo que expresse a história, a emoção, a origem, a textura, a função, o artesanato, o sabor, o aroma, o som ou a promessa da marca do produto.
+O pôster deve ser dividido em dois mundos visualmente contrastantes que mostrem a transformação, o contraste ou a dualidade criada pelo produto.
 
-A tela externa deve permanecer limpa, minimalista, elegante e controlada.
+O produto deve ficar no centro da divisão como a ponte visual entre as duas realidades.
 
-O interior da forma deve parecer rico, atmosférico, detalhado e visualmente imersivo.
+Um lado deve representar o estado “antes”, o problema, a matéria-prima, o mundo comum, o caos, o atrito, o ruído, a opacidade ou a limitação.
 
-O produto herói não deve ficar preso dentro da moldura.
+O outro lado deve representar o estado “depois”, a solução, a experiência refinada, o mundo elevado, a clareza, o controle, a beleza, a energia, o sabor, o desempenho ou o desejo.
 
-Faça o produto romper o limite do espaço negativo de forma premium e intencional:
-parte do produto permanece dentro do mundo visual, enquanto outra parte se estende além da moldura para o espaço externo limpo.
+A divisão deve parecer intencional e cinematográfica, não como uma simples colagem antes/depois.
 
-Esse momento de ruptura da moldura deve criar profundidade, tensão, hierarquia e um forte gancho visual em nível de campanha.
+Faça o produto preciso, reconhecível, nítido, premium e visualmente dominante.
 
-O espaço negativo deve parecer literal e profissional — não apenas uma simples máscara de imagem. A silhueta deve moldar claramente a composição, enquanto o produto interage com ela de forma natural e poderosa.
+Adapte a lógica da divisão ao DNA da marca:
+- produtos de tecnologia mostram caos vs controle, analógico vs inteligente, limitação vs possibilidade
+- produtos alimentícios mostram ingrediente cru vs experiência final irresistível
+- produtos de beleza mostram opacidade vs brilho, rotina vs ritual, natureza bruta vs cuidado refinado
+- produtos de moda mostram presença comum vs identidade elevada
+- produtos de luxo mostram artesanato bruto vs refinamento atemporal
+- produtos para casa mostram bagunça cotidiana vs atmosfera projetada
 
-Adapte a execução ao DNA da marca:
-- tecnologia deve parecer limpa, precisa, futurista e inteligente
-- fragrância e beleza devem parecer elegantes, sensuais, refinadas e atmosféricas
-- alimentos devem parecer ricos, apetitosos, texturizados e indulgentes
-- moda deve parecer editorial, estilosa, cultural e dinâmica
-- áudio deve parecer imersivo, energético, tátil e cinematográfico
-- luxo deve parecer contido, polido, atemporal e caro
+Use fotografia comercial premium, iluminação cinematográfica, forte contraste entre os dois mundos, tipografia refinada, detalhe nítido do produto, materiais realistas, composição elegante, sombras polidas e acabamento de campanha de classe mundial.
 
-Use fotografia comercial premium, iluminação cinematográfica, tipografia refinada, forte contraste, sombras polidas, materiais realistas, detalhe nítido do produto, composição de alto nível e acabamento publicitário de classe mundial.
+Adicione uma tipografia de pôster elegante inspirada na marca com um slogan curto de 3 palavras.
 
-Adicione uma tipografia de pôster de bom gosto, inspirada na linguagem visual da marca, com um slogan curto de 3 palavras.
+Não use pessoas em miniatura, micromundos, monumentos de produto, narrativa por sombras, composição de vista explodida ou molduras de espaço negativo.
 
-Não use pessoas em miniatura, mundos minúsculos, microcidades, monumentos de produto ou composição em vista explodida.
-
-Evite copiar qualquer campanha real existente. Crie uma nova propaganda original de espaço negativo.
+Evite copiar qualquer campanha existente. Crie um anúncio original e fresco de realidade dividida.
 
 Marca: [BRAND]
 Produto: [PRODUCT]
+Realidade da esquerda: [DESCRIBE]
+Realidade da direita: [DESCRIBE]
 Proporção: [RATIO]
 ```
 
@@ -4846,7 +5162,7 @@ Proporção: [RATIO]
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMG0HEcXsAAKwJR.jpg" width="700" alt="Anúncio de Espaço Negativo com Produto Rompendo a Moldura">
+<img src="https://image.moge.ai/prompt_media/HMJLu0MXEAAkwPM.jpg" width="700" alt="Anúncio de Realidade Dividida">
 </div>
 
 <br>
@@ -4855,19 +5171,19 @@ Proporção: [RATIO]
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [AZIZ \| AI 🇸🇦](https://x.com/aziz4ai) | [X / Twitter](https://x.com/aziz4ai/status/2072135344628118006) | 2026-07-01 |
+| [AZIZ \| AI 🇸🇦](https://x.com/aziz4ai) | [X / Twitter](https://x.com/aziz4ai/status/2072302054765150453) | 2026-07-01 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072135344628118006)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072302054765150453)**
 
 </div>
 
 ---
 
-### No. 74: Colagem de Origami em Mundo de Papel
+### No. 80: Colagem de Origami em Mundo de Papel
 
 ![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
 
@@ -4936,7 +5252,7 @@ Estética branca minimalista, mulher realista, detalhes de rabiscos pretos mistu
 
 ---
 
-### No. 75: Folha de Conceitos de Logotipo
+### No. 81: Folha de Conceitos de Logotipo
 
 ![Categoria: Branding e Interface](https://img.shields.io/badge/Categoria-Branding%20e%20Interface-lightgrey)
 
@@ -5151,7 +5467,7 @@ sterile luxury logo template, overly clean corporate logo, fragile thin line art
 
 ---
 
-### No. 76: Pôster de Exposição de Museu Oriental
+### No. 82: Pôster de Exposição de Museu Oriental
 
 ![Categoria: Materiais de marketing](https://img.shields.io/badge/Categoria-Materiais%20de%20marketing-lightgrey)
 
@@ -5219,24 +5535,69 @@ Evite estilo guochao barato, pôster turístico, anúncio de e-commerce, aparên
 
 ---
 
-### No. 77: Ilustração de Tinta e Aquarela
+### No. 83: Pôster de Viagem em Aquarela de Cidade
 
 ![Categoria: Ilustração e IP](https://img.shields.io/badge/Categoria-Ilustra%C3%A7%C3%A3o%20e%20IP-lightgrey)
 
 #### 📚 Descrição
 
-Cria uma ilustração desenhada à mão que combina contornos finos de tinta com pintura solta em aquarela, com texturas fluidas e respingos vibrantes.
+Cria uma ilustração de viagem em aquarela ao estilo de livro de contos, com uma cidade europeia acolhedora, tons azuis suaves e um título caligráfico personalizável.
 
 #### 🌟 Prompt
 
+Crie uma ilustração de viagem em aquarela onírica no estilo de um livro de contos premium e pôster de viagem …
+
+<details>
+<summary>Mostrar prompt completo</summary>
+
 ```
-Ilustração desenhada à mão de [subject], contornos finos de tinta combinados com pintura solta em aquarela, texturas de pigmento fluidas, respingos vibrantes, granulação artística de papel, estilo artesanal elegante
+Crie uma ilustração de viagem em aquarela onírica no estilo de um livro de contos premium e pôster de viagem vintage. A arte apresenta uma cidade europeia tranquila em tons suaves de aquarela azul com delicados contornos de tinta, textura de papel creme quente e uma atmosfera aconchegante de conto de fadas.
+
+No topo, coloque um grande título em caligrafia de aquarela pintado à mão:
+"[NOME DA CIDADE]"
+Abaixo dele, adicione um pequeno subtítulo elegante:
+"[Uma breve frase poética]"
+
+Composição da Cena:
+Um charmoso passeio à beira-rio ou canal com marcos locais icônicos ao fundo, ruas de paralelepípedos, pontes antigas, edifícios históricos, cafés floridos, padarias aconchegantes, lampiões vintage, reflexos suaves na água calma, pequenos barcos, pássaros, flores exuberantes e nuvens fofas.
+
+Primeiro Plano:
+Pessoas ilustradas fofas aproveitando a vida cotidiana—caminhando com café, lendo livros, desenhando, pedalando, passeando com um cachorrinho, casais em pontes, crianças alimentando pássaros, artistas pintando e turistas tirando fotos. Todos têm proporções adoráveis de livro de contos e expressões faciais suaves.
+
+Detalhes do Ambiente:
+• Cafés aconchegantes com lousas escritas à mão
+• Padaria exibindo pães e doces frescos
+• Floreiras nas janelas
+• Bicicleta estacionada ao lado de um canal
+• Pombos e cisnes
+• Luzes suspensas
+• Bancos de madeira
+• Pequenos barcos
+• Reflexos na água
+• Flores desabrochando
+• Placas de lojas fofas escritas à mão
+• Pequenos rabiscos de corações
+• Estrelas e ilustrações botânicas ao redor do título
+
+Estilo de Tipografia:
+Elegante letra de pincel em aquarela azul para o nome da cidade, subtítulo minimalista manuscrito, pequenos ícones decorativos, layout editorial suave, estética sutil de diário de viagem.
+
+Paleta de Cores:
+Azul pastel suave, creme, bege quente, cinza claro, verde suave, amarelo pálido, lavagens de aquarela com gradientes delicados e granulação de papel.
+
+Estilo:
+Ilustração em aquarela caprichosa, atmosfera inspirada no Studio Ghibli, charme de Beatrix Potter, ilustração de livro de contos, diário de viagem europeu aconchegante, aquarela pintada à mão, ultradetalhada, iluminação suave, composição limpa, estética premium de livro infantil, pôster de viagem onírico, alto detalhe, 8K.
+
+Proporção:
+Retrato (4:5)
 ```
+
+</details>
 
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HME6YGFacAIaRT6.jpg" width="700" alt="Ilustração de Tinta e Aquarela">
+<img src="https://image.moge.ai/prompt_media/HMHn5sCbAAAmGXW.jpg" width="700" alt="Pôster de Viagem em Aquarela de Cidade">
 </div>
 
 <br>
@@ -5245,35 +5606,35 @@ Ilustração desenhada à mão de [subject], contornos finos de tinta combinados
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Zephyra Leigh](https://x.com/ZephyraLeigh) | [X / Twitter](https://x.com/ZephyraLeigh/status/2072126267806318981) | 2026-07-01 |
+| [Taaruk](https://x.com/Taaruk_) | [X / Twitter](https://x.com/Taaruk_/status/2072192393932354027) | 2026-07-01 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072126267806318981)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072192393932354027)**
 
 </div>
 
 ---
 
-### No. 78: Estudo de Revolucionário Francês
+### No. 84: Atleta em Corrida com Motion Blur
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Cria um retrato de corpo inteiro de um revolucionário francês em estilo de pintura a óleo histórica dos antigos mestres, com iluminação em claro-escuro.
+Cria uma foto de campanha esportiva dinâmica de um atleta em pleno sprint, com forte motion blur e estética atlética futurista de estúdio.
 
 #### 🌟 Prompt
 
-Estudo de personagem de corpo inteiro, homem revolucionário francês maduro, pintura a óleo histórica …
+Foto de campanha de moda esportiva dinâmica de um atleta masculino esprintando no ar, efeito intenso de …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Estudo de personagem de corpo inteiro, homem revolucionário francês maduro, pintura a óleo histórica realista, estilo acadêmico dos antigos mestres. Rosto curtido e robusto, perto dos quarenta anos, expressão calma e serena, leve sujeira, barba por fazer, cabelo escuro preso atrás com mechas soltas. Camisa de linho off-white folgada, gola ligeiramente aberta, mangas arregaçadas, faixa tricolor na cintura, calças bege, botas de montaria de couro gastas. Pose em pé relaxada, peso sobre uma perna, uma mão ao lado, discretamente confiante. Iluminação claro-escuro, luz direcional suave e quente de fonte única, sombras profundas, pinceladas ricas em camadas, anatomia naturalista, dobras de tecido e textura de linho detalhadas, pátina de verniz envelhecido, qualidade de museu. Reminiscente de Delacroix e David. Paleta terrosa suave - off-white, bege quente, vermelho sangue de boi - com acentos tricolores saturados. Fundo neutro dentro de um painel retangular arredondado de tonalidade suave, sombra projetada no chão abaixo. Cinematográfico, digno, historicamente fundamentado. --ar 4:5 --profile qilq22f --stylize 250 --v 8.1
+Foto de campanha de moda esportiva dinâmica de um atleta masculino esprintando no ar, efeito intenso de motion blur, fotografia de longa exposição, pose de corrida em perfil lateral, fundo de estúdio monocromático vibrante branco e azul, composição minimalista, estética atlética futurista, iluminação cinematográfica, gradientes ultra suaves, membros e tênis borrados para enfatizar a velocidade, foco nítido no rosto, reflexo no piso brilhante, visual comercial energético estilo Nike, efeito de arraste de obturador alto, fotografia editorial premium.
 ```
 
 </details>
@@ -5281,7 +5642,7 @@ Estudo de personagem de corpo inteiro, homem revolucionário francês maduro, pi
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HL_bpI7bwAELLYU.jpg" width="700" alt="Estudo de Revolucionário Francês">
+<img src="https://image.moge.ai/prompt_media/HMHIMgnbsAAUBEG.jpg" width="700" alt="Atleta em Corrida com Motion Blur">
 </div>
 
 <br>
@@ -5290,39 +5651,75 @@ Estudo de personagem de corpo inteiro, homem revolucionário francês maduro, pi
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [INK](https://x.com/0xInk_) | [X / Twitter](https://x.com/0xInk_/status/2071638324138148202) | 2026-06-29 |
+| [Kashberg](https://x.com/Kashberg_0) | [X / Twitter](https://x.com/Kashberg_0/status/2072157436891611332) | 2026-07-01 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071638324138148202)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072157436891611332)**
 
 </div>
 
 ---
 
-### No. 79: Pôster de Lançamento de Ventilador de Luxo
+### No. 85: Café com Chocolate em Vista Explodida
 
 ![Categoria: Publicidade e produto](https://img.shields.io/badge/Categoria-Publicidade%20e%20produto-lightgrey)
 
 #### 📚 Descrição
 
-Cria um pôster publicitário cinematográfico de um ventilador de teto de luxo descendo sob um holofote, com tipografia metálica iluminada da marca.
+Cria uma infografia vertical hiper-realista com os ingredientes de um café com chocolate flutuando em camadas separadas sobre um fundo escuro de estúdio.
 
 #### 🌟 Prompt
 
-Crie um anúncio premium premiado apresentando um ventilador de teto de luxo descendo dramaticamente da …
+{ "subject": "Uma decomposição vertical hiper-realista em vista explodida de uma bebida de café com …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Crie um anúncio premium premiado apresentando um ventilador de teto de luxo descendo dramaticamente da escuridão para um holofote. Partículas flutuantes, raios de luz volumétricos e reflexos brilhantes criam uma revelação cinematográfica.
-
-Atrás do ventilador, coloque uma enorme tipografia metálica iluminada exibindo “Crompton”.
-
-Fotografia comercial de luxo, estética de lançamento de produto estilo keynote da Apple, materiais hiper-realistas, ray tracing, HDR, ultra detalhado, obra-prima publicitária, 8K.
+{
+  "subject": "Uma decomposição vertical hiper-realista em vista explodida de uma bebida de café com chocolate",
+  "layout": "Alinhamento vertical centralizado, com cada ingrediente flutuando como sua própria camada separada e claramente espaçada",
+  "layers": [
+    {
+      "component": "Partículas finas de cacau em pó",
+      "position": "Topo"
+    },
+    {
+      "component": "Fitas brilhantes de calda de chocolate amargo com bordas escorrendo",
+      "position": "Camada flutuante separada"
+    },
+    {
+      "component": "Um pequeno monte leve de chantilly",
+      "position": "Camada flutuante separada"
+    },
+    {
+      "component": "Uma camada líquida sedosa de café com chocolate",
+      "position": "Camada flutuante separada"
+    },
+    {
+      "component": "Grãos de café torrados",
+      "position": "Camada flutuante separada"
+    },
+    {
+      "component": "Cristais de açúcar",
+      "position": "Camada flutuante separada"
+    },
+    {
+      "component": "Um pequeno copo de vidro transparente e texturizado com base pesada, vazio",
+      "position": "Base"
+    }
+  ],
+  "background": "Fundo escuro premium: um cenário de estúdio limpo com um gradiente suave de grafite a carvão quase preto",
+  "lighting_and_style": {
+    "lighting": "Iluminação de estúdio suave e controlada, com sombras distintas em camadas sob cada ingrediente flutuante",
+    "detail": "Realismo macro ultranítido, com linhas-guia finas e mínimas e rótulos em inglês no lado direito",
+    "category": "Infográfico de produto de alto padrão",
+    "resolution": "8K"
+  }
+}
 ```
 
 </details>
@@ -5330,7 +5727,7 @@ Fotografia comercial de luxo, estética de lançamento de produto estilo keynote
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMEOZNzWMAAh56x.jpg" width="700" alt="Pôster de Lançamento de Ventilador de Luxo">
+<img src="https://image.moge.ai/prompt_media/HMG_gENa8AAjaBU.jpg" width="700" alt="Café com Chocolate em Vista Explodida">
 </div>
 
 <br>
@@ -5339,19 +5736,19 @@ Fotografia comercial de luxo, estética de lançamento de produto estilo keynote
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Snow](https://x.com/iamrealsnow) | [X / Twitter](https://x.com/iamrealsnow/status/2071953139767611839) | 2026-06-30 |
+| [PromptLab](https://x.com/iamaiistudio) | [X / Twitter](https://x.com/iamaiistudio/status/2072148184932192581) | 2026-07-01 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071953139767611839)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072148184932192581)**
 
 </div>
 
 ---
 
-### No. 80: Dioramas Isométricos de Maravilhas Naturais
+### No. 86: Dioramas Isométricos de Maravilhas Naturais
 
 ![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
 
@@ -5405,7 +5802,7 @@ Na segunda linha, mostre [NATURAL WONDER]. Adicione um ícone simples de naturez
 
 ---
 
-### No. 81: Marca Animal de Fábula
+### No. 87: Marca Animal de Fábula
 
 ![Categoria: Branding e Interface](https://img.shields.io/badge/Categoria-Branding%20e%20Interface-lightgrey)
 
@@ -5464,7 +5861,7 @@ Resultado final: uma marca animal refinada e fabular para uma marca de lifestyle
 
 ---
 
-### No. 82: Pôster Visual Sazonal Sofisticado
+### No. 88: Pôster Visual Sazonal Sofisticado
 
 ![Categoria: Materiais de marketing](https://img.shields.io/badge/Categoria-Materiais%20de%20marketing-lightgrey)
 
@@ -5519,64 +5916,24 @@ Não incluir [pessoas/fundos complexos/decorações baratas/UI de plataforma/mar
 
 ---
 
-### No. 83: Pôster Vintage de Viagem da Ilha Hormoz
+### No. 89: Ilustração de Tinta e Aquarela
 
 ![Categoria: Ilustração e IP](https://img.shields.io/badge/Categoria-Ilustra%C3%A7%C3%A3o%20e%20IP-lightgrey)
 
 #### 📚 Descrição
 
-Cria um pôster de viagem minimalista e sofisticado da Ilha Hormoz em estilo vetorial pastel, com paisagem cênica, veículo off-road e o Vale Arco-Íris.
+Cria uma ilustração desenhada à mão que combina contornos finos de tinta com pintura solta em aquarela, com texturas fluidas e respingos vibrantes.
 
 #### 🌟 Prompt
 
-Crie um pôster de viagem vintage minimalista premium da Ilha Hormoz-Irã, inspirado na ilustração editorial …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
 ```
-Crie um pôster de viagem vintage minimalista premium da Ilha Hormoz-Irã, inspirado na ilustração editorial japonesa, na arte de fundo do Studio Ghibli, no minimalismo escandinavo e nas capas de revistas de turismo de luxo.
-
-Estilo:
-Paleta de cores pastel suave, ilustração vetorial plana, formas geométricas limpas, traçado elegante, textura sutil de grão de papel, estilo exato de tons terrosos, profundidade atmosférica, luz solar suave, estética de folheto de viagem de alto padrão, clima calmo e sereno.
-
-Composição:
-Uma ampla paisagem cênica com o marco mais icônico do destino dominando o centro. Inclua uma estrada sinuosa ou trilha de caminhada levando à cena, um veículo off-road 4x4 estacionado, caminhantes com mochilas, fotógrafos, viajantes explorando miradouros, pequenas plantas nativas, arbustos do deserto, formações rochosas, o Vale Arco-Íris em camadas, céu azul suave com nuvens mínimas, criando uma sensação de aventura e escala.
-
-Tipografia:
-Grande título serifado elegante no canto superior esquerdo:
-"HORMOZ"
-
-Pequeno subtítulo poético abaixo:
-"Rainbow Island"
-
-Exemplos:
-• Time carved in stone.
-• Red silence under the sky.
-• Where adventure begins.
-• Nature sculpted by time.
-• Wander beyond the horizon.
-
-Layout:
-• Pôster vertical A4
-• Amplo espaço negativo limpo
-• Tipografia editorial sofisticada
-• Branding de turismo moderno
-• Composição minimalista e equilibrada
-• Sem logos
-• Sem marca d'água
-• Sem texto desnecessário
-
-Direção de Arte:
-Pôster de viagem de luxo, ilustração premium de parque nacional, perspectiva cinematográfica, névoa atmosférica suave, paisagem altamente detalhada, sombras sutis, acabamento vetorial limpo, paleta pastel do deserto, ilustração premiada do Behance, arte com qualidade de revista, ultra detalhada, 8K.
+Ilustração desenhada à mão de [subject], contornos finos de tinta combinados com pintura solta em aquarela, texturas de pigmento fluidas, respingos vibrantes, granulação artística de papel, estilo artesanal elegante
 ```
-
-</details>
 
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMD4_pgXsAA62Tr.jpg" width="700" alt="Pôster Vintage de Viagem da Ilha Hormoz">
+<img src="https://image.moge.ai/prompt_media/HME6YGFacAIaRT6.jpg" width="700" alt="Ilustração de Tinta e Aquarela">
 </div>
 
 <br>
@@ -5585,35 +5942,35 @@ Pôster de viagem de luxo, ilustração premium de parque nacional, perspectiva 
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Shojaie 🛡️](https://x.com/0xShojaie) | [X / Twitter](https://x.com/0xShojaie/status/2071929606828068884) | 2026-06-30 |
+| [Zephyra Leigh](https://x.com/ZephyraLeigh) | [X / Twitter](https://x.com/ZephyraLeigh/status/2072126267806318981) | 2026-07-01 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071929606828068884)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072126267806318981)**
 
 </div>
 
 ---
 
-### No. 84: Moda Surreal em Quarto de Jornal
+### No. 90: Retrato Doodle Infantil Divertido
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Retrato de moda editorial surreal de uma mulher sentada num pequeno quarto totalmente revestido de jornal, com roupas vermelhas e iluminação dramática.
+Cria um retrato de estúdio de alta luminosidade de uma criança correndo, com um boneco palito rabiscado puxando a camisa para um efeito lúdico.
 
 #### 🌟 Prompt
 
-Foto de moda surreal em plano aberto, mulher sentada de pernas cruzadas centralizada dentro de um pequeno …
+Um retrato de estúdio lúdico e de alta luminosidade de [subject] correndo alegremente sobre um fundo cinza …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Foto de moda surreal em plano aberto, mulher sentada de pernas cruzadas centralizada dentro de um pequeno quarto-caixa totalmente coberto por textura de jornal em todas as superfícies, top xadrez e calças vermelhas, tênis vermelhos, fones vermelhos, holofote dramático vindo de cima, leve inclinação para criar tensão, espaço negativo no topo do quadro no teto de jornal para texto de legenda, composição vertical 4:5, fotografia editorial de alto conceito --ar 4:5 --v 6
+Um retrato de estúdio lúdico e de alta luminosidade de [subject] correndo alegremente sobre um fundo cinza claro contínuo, capturado em meio ao passo com uma perna erguida e um sorriso amplo e genuíno. O sujeito veste um conjunto casual oversized em tons neutros suaves (ou cores vibrantes), criando uma sensação dinâmica de movimento. Atrás dele, um simples boneco palito de desenho animado preto feito à mão agarra e estica as costas da camisa, fazendo o tecido parecer elasticamente puxado como se tentasse pará-lo. O personagem rabiscado está integrado naturalmente à cena com linhas de movimento expressivas e uma expressão facial humorística. O sujeito segura um adereço divertido (como um brinquedo de dinossauro, um pirulito gigante, um ursinho de pelúcia ou um balão), reforçando a narrativa lúdica. Composição minimalista, iluminação de estúdio limpa, sombras suaves, foco ultra nítido, textura de pele realista, cores vibrantes porém naturais, fotografia editorial caprichosa, estética de campanha de moda infantil premium, altamente detalhado, fotorrealista, 8K.
 ```
 
 </details>
@@ -5621,7 +5978,7 @@ Foto de moda surreal em plano aberto, mulher sentada de pernas cruzadas centrali
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HL-z29laAAAiGtl.jpg" width="700" alt="Moda Surreal em Quarto de Jornal">
+<img src="https://image.moge.ai/prompt_media/HMD4r5XWcAAlMXs.jpg" width="700" alt="Retrato Doodle Infantil Divertido">
 </div>
 
 <br>
@@ -5630,321 +5987,13 @@ Foto de moda surreal em plano aberto, mulher sentada de pernas cruzadas centrali
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Shahid Wani](https://x.com/meng_dagg695) | [X / Twitter](https://x.com/meng_dagg695/status/2071572165833691237) | 2026-06-29 |
+| [Sairah](https://x.com/Sairah_0) | [X / Twitter](https://x.com/Sairah_0/status/2071929275897491491) | 2026-06-30 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071572165833691237)**
-
-</div>
-
----
-
-### No. 85: Pôster Publicitário Infantil de Arte
-
-![Categoria: Publicidade e produto](https://img.shields.io/badge/Categoria-Publicidade%20e%20produto-lightgrey)
-
-#### 📚 Descrição
-
-Cria um pôster publicitário vibrante para uma marca de arte infantil, com um menino orgulhoso ao lado de um cavalete gigante e tipografia colorida pintada à mão.
-
-#### 🌟 Prompt
-
-Um pôster publicitário infantil criativo e brilhante. Um menino entusiasmado de 8 anos com tinta por todo o …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
-```
-Um pôster publicitário infantil criativo e brilhante. Um menino entusiasmado de 8 anos com tinta por todo o rosto está orgulhosamente ao lado de um cavalete de madeira gigante 3x sua altura, segurando uma pintura colorida de um arco-íris, com "ARTKIDZ" escrito em pinceladas coloridas na moldura do cavalete. Fundo de um ateliê de arte ensolarado e brilhante com potes de tinta, pincéis e obras coloridas nas paredes. Tipografia lúdica pintada à mão "ARTKIDZ" em multicolorido preenchendo o fundo. Slogan na parte inferior: "Create without limits." Um pequeno texto no canto superior direito diz "Designed with GPT Image 2" em cinza. Fotorrealista, comercial divertido de produto criativo infantil, iluminação quente e brilhante de ateliê.
-```
-
-</details>
-
-#### 🌁 Imagem gerada
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HMEGV7MWcAA_A6I.jpg" width="700" alt="Pôster Publicitário Infantil de Arte">
-</div>
-
-<br>
-
-<div align="center">
-
-| Autor | Fonte | Publicado |
-| :---: | :---: | :---: |
-| [𝐌](https://x.com/Strength04_X) | [X / Twitter](https://x.com/Strength04_X/status/2071944311705620971) | 2026-06-30 |
-
-</div>
-
-<div align="center">
-
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071944311705620971)**
-
-</div>
-
----
-
-### No. 86: Estilo Abstrato de Referência no Midjourney
-
-![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
-
-#### 📚 Descrição
-
-Gera uma imagem estilizada de proporção 3:2 usando uma referência de estilo com alta variação criativa e acabamento em alta definição.
-
-#### 🌟 Prompt
-
-```
---chaos 8 --ar 3:2 --sref 3371799739 --sw 500 --stylize 500 --hd
-```
-
-#### 🌁 Imagem gerada
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HMMpqddasAAFDh2.jpg" width="700" alt="Estilo Abstrato de Referência no Midjourney">
-</div>
-
-<br>
-
-<div align="center">
-
-| Autor | Fonte | Publicado |
-| :---: | :---: | :---: |
-| [Amira Zairi](https://x.com/azed_ai) | [X / Twitter](https://x.com/azed_ai/status/2072546090923237835) | 2026-07-02 |
-
-</div>
-
-<div align="center">
-
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2072546090923237835)**
-
-</div>
-
----
-
-### No. 87: Marca de Letra com Ilusão Óptica
-
-![Categoria: Branding e Interface](https://img.shields.io/badge/Categoria-Branding%20e%20Interface-lightgrey)
-
-#### 📚 Descrição
-
-Transforma uma única letra em uma marca geométrica premium com ilusão óptica, profundidade espacial e forte espaço negativo.
-
-#### 🌟 Prompt
-
-Crie um design de logotipo premium e limpo para 【Brand name】 baseado na letra 【Core letter】. Transforme a …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
-```
-Crie um design de logotipo premium e limpo para 【Brand name】 baseado na letra 【Core letter】.
-
-Transforme a letra em uma marca de ilusão óptica usando geometria dobrada, profundidade espacial, bordas precisas e forte espaço negativo. O logotipo deve expressar 【Symbol meaning】 permanecendo legível, minimalista e memorável.
-
-Centralize uma grande marca de logotipo em um fundo liso marfim quente ou cinza claro suave. Adicione apenas o nome da marca “【Brand name】” abaixo, com um subtítulo curto opcional “【Subtitle】”. Paleta minimalista preto-branco-cinza, design de identidade moderno e premium.
-
-Sem layout de pôster, sem grade de construção, sem anotações, sem ícones extras, sem textos decorativos pequenos, sem desordem de mockup, sem 3D confuso, sem tipografia distorcida.
-```
-
-</details>
-
-#### 🌁 Imagem gerada
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HLKiRlJWIAAJ9H0.jpg" width="700" alt="Marca de Letra com Ilusão Óptica">
-</div>
-
-<br>
-
-<div align="center">
-
-| Autor | Fonte | Publicado |
-| :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2067893658079068361) | 2026-06-19 |
-
-</div>
-
-<div align="center">
-
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2067893658079068361)**
-
-</div>
-
----
-
-### No. 88: Pôster de Vôlei de Rua Urbano
-
-![Categoria: Materiais de marketing](https://img.shields.io/badge/Categoria-Materiais%20de%20marketing-lightgrey)
-
-#### 📚 Descrição
-
-Cria um pôster esportivo cru de vôlei de rua com uma jogadora determinada, parede de grafite e tipografia em estêncil de alto impacto.
-
-#### 🌟 Prompt
-
-Crie um pôster de vôlei de rua de alto impacto em um ambiente urbano cru. Uma jovem jogadora de vôlei …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
-```
-Crie um pôster de vôlei de rua de alto impacto em um ambiente urbano cru. Uma jovem jogadora de vôlei determinada está em uma quadra ao ar livre abandonada, segurando uma bola de vôlei gasta ao lado do corpo. Ela usa um moletom escuro oversized, calça preta de vôlei e equipamento esportivo. Sua expressão é focada e intensa, olhando para a câmera.
-O fundo apresenta paredes de concreto desgastadas cobertas de grafite, arte urbana, slogans motivacionais, respingos de tinta e texturas envelhecidas. Uma rede de vôlei se estende pela cena. A atmosfera é crua, competitiva e rebelde, como um movimento clandestino de esporte de rua. Uma tipografia grande e em negrito domina a composição com as palavras "STREET VOLLEYBALL" em letras estêncil envelhecidas e superdimensionadas. Elementos de texto adicionais em estilo grafite incluem frases motivacionais como "No Excuses. No Fear.", "Outwork Everyone" e "Earn Every Point". Inclua coordenadas de localização sutis, marcações de quadra, grafismos de spray, coroas, ícones de vôlei e detalhes de arte de rua urbana. Fotografia esportiva cinematográfica, iluminação dramática, paleta de cores monocromática com tons suaves de carvão, cinza concreto, preto e acentos laranja ferrugem. Texturas ultradetalhadas, dobras de tecido realistas, granulação de filme, alto contraste, profundidade de campo rasa, estética de campanha esportiva editorial, design premium de pôster, anúncio esportivo no estilo Nike/Mizuno, fotorrealista, qualidade 8k, foco nítido, composição dinâmica.
-```
-
-</details>
-
-#### 🌁 Imagem gerada
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HLbsTVfbgAAslAy.jpg" width="700" alt="Pôster de Vôlei de Rua Urbano">
-</div>
-
-<br>
-
-<div align="center">
-
-| Autor | Fonte | Publicado |
-| :---: | :---: | :---: |
-| [Heisenberg](https://x.com/rovvmut_) | [X / Twitter](https://x.com/rovvmut_/status/2069100942927286539) | 2026-06-22 |
-
-</div>
-
-<div align="center">
-
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2069100942927286539)**
-
-</div>
-
----
-
-### No. 89: Personagem IP 3D com Estilo Consistente
-
-![Categoria: Ilustração e IP](https://img.shields.io/badge/Categoria-Ilustra%C3%A7%C3%A3o%20e%20IP-lightgrey)
-
-#### 📚 Descrição
-
-Cria um personagem IP 3D em estilo de animação CG, com proporções exageradas, sobrancelhas grossas em V, blush vermelho vivo e elementos de marca fixos para uso consistente em qualquer cena.
-
-#### 🌟 Prompt
-
-Um personagem 3D em estilo de animação CG cinematográfica. Cabeça extremamente pequena, proporção 1:5, ombros …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
-```
-Um personagem 3D em estilo de animação CG cinematográfica. Cabeça extremamente pequena, proporção 1:5, ombros 4x a largura da cabeça, antebraços mais grossos que a cabeça, peito em barril. Sobrancelhas pretas em V extremamente grossas dominando o rosto, olhos minúsculos em fenda estreita, carranca feroz, blush circular VERMELHO CARMESIM VIVO nas bochechas. Óculos redondos de armação preta, marca de cruz na maçã esquerda do rosto. Jaqueta techwear preta com forro verde-limão, camiseta "CREATE > IMPACT", calça cargo preta, botas com solas verde-limão. Pele CG suave e quente, NÃO uma foto de um brinquedo real.
-```
-
-</details>
-
-#### 🌁 Imagem gerada
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HMDq5XhXUAA_NgV.jpg" width="700" alt="Personagem IP 3D com Estilo Consistente">
-</div>
-
-<br>
-
-<div align="center">
-
-| Autor | Fonte | Publicado |
-| :---: | :---: | :---: |
-| [Vigo Zhao](https://x.com/VigoCreativeAI) | [X / Twitter](https://x.com/VigoCreativeAI/status/2071914143859253473) | 2026-06-30 |
-
-</div>
-
-<div align="center">
-
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071914143859253473)**
-
-</div>
-
----
-
-### No. 90: Colagem 3x3 com Doodles Lúdicos
-
-![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
-
-#### 📚 Descrição
-
-Cria uma colagem 3x3 vista de cima da mesma jovem em nove cenas criativas, combinada com rabiscos pretos desenhados à mão sobre um fundo branco minimalista.
-
-#### 🌟 Prompt
-
-Uma colagem profissional 3x3 apresentando a mesma bela jovem fotografada da imagem de referência, com cabelo …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
-```
-Uma colagem profissional 3x3 apresentando a mesma bela jovem fotografada da imagem de referência, com cabelo normal e óculos, em vista de cima sobre um cobertor branco texturizado e macio. A mulher aparece em nove cenas criativas diferentes. Cada painel contém ilustrações de rabiscos pretos desenhados à mão interagindo com sua pose. Iluminação natural brilhante, fundo branco limpo, fotografia lifestyle de alto padrão, detalhes ultranítidos, composição de qualidade de revista, narrativa lúdica, proporções humanas realistas, traços faciais consistentes em todos os nove painéis.
-
-Painel 1 (Atleta):
-
-A jovem veste um top curto branco esportivo, shorts atléticos pretos e tênis de corrida. Ela é capturada em pleno salto, como se pulasse um obstáculo de barreira desenhado à mão. Pose de ação dinâmica, expressão enérgica.
-
-Painel 2 (Artista de Circo):
-
-A mulher veste uma roupa inspirada no circo, vermelha com detalhes dourados. Ela se equilibra em um pé sobre um tambor de circo desenhado à mão, erguendo as duas mãos para o equilíbrio. Sorriso alegre e confiante.
-
-Painel 3 (Amante de Sorvete):
-
-A mulher veste um vestido de verão rosa pastel e tênis brancos. Ela se senta entre duas cadeiras de café desenhadas à mão segurando uma grande casquinha de sorvete em doodle perto da boca. Expressão fofa e brincalhona.
-
-Painel 4 (Super-Heroína):
-
-A mulher veste um traje elegante de super-heroína com capa esvoaçante, macacão justo e botas. Ela ergue os dois punhos triunfantemente em direção ao céu. Grande extensão de capa desenhada à mão atrás dela. Expressão heroica.
-
-Painel 5 (Modo Férias):
-
-A mulher veste um vestido floral tropical, óculos de sol ao lado e sandálias. Ela relaxa sobre uma toalha de praia desenhada à mão com as mãos atrás da cabeça. Rabiscos próximos incluem protetor solar e chinelos. Clima de férias tranquilo.
-
-Painel 6 (Luta na Academia):
-
-A mulher veste uma roupa de academia justa com leggings e tênis de treino. Um halter gigante em doodle aparece ao lado dela. Ela faz uma careta engraçada e exagerada de esforço, como se levantasse um peso impossível. Conceito fitness humorístico.
-
-Painel 7 (Ginasta):
-
-A mulher veste um collant de ginástica. Ela se pendura entre duas argolas de ginástica desenhadas à mão com expressão atlética concentrada. Pose forte e graciosa.
-
-Painel 8 (Rainha das Compras):
-
-A mulher veste um traje moderno e elegante composto por blazer, saia e saltos. Ela segura duas sacolas de compras rotuladas "Shopping Day". Sorriso feliz e confiante, clima de estilo de vida luxuoso.
-
-Painel 9 (Estrela do Rock):
-
-A mulher veste uma jaqueta de couro preta, jeans rasgado, botas, pulseiras e uma bandana. Uma guitarra elétrica desenhada à mão está posicionada sobre seu corpo. Pose de roqueira com os braços bem abertos e expressão confiante.
-
-Estilo geral: estética branca minimalista, ilustrações de rabiscos pretos desenhados à mão, narrativa caprichosa, composição flat-lay limpa, tendência viral do Instagram, fotografia de estúdio profissional, jovem ultrarrealista, alto detalhe, qualidade 8K, aparência consistente em todos os painéis, iluminação suave e brilhante, editorial de estilo de vida moderno.
-```
-
-</details>
-
-#### 🌁 Imagem gerada
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HL-xlEZbIAAzoY_.jpg" width="700" alt="Colagem 3x3 com Doodles Lúdicos">
-</div>
-
-<br>
-
-<div align="center">
-
-| Autor | Fonte | Publicado |
-| :---: | :---: | :---: |
-| [Synthia](https://x.com/AIwithSynthia) | [X / Twitter](https://x.com/AIwithSynthia/status/2071569612375048564) | 2026-06-29 |
-
-</div>
-
-<div align="center">
-
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071569612375048564)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2071929275897491491)**
 
 </div>
 
