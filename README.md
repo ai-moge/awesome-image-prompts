@@ -35,38 +35,72 @@ Full Prompt Text · Preview Images · **10 Languages**
 
 ## 🎩 Latest Curated Prompts
 
-### No. 1: Dark Gourmet Food Poster System
+### No. 1: Kinder Joy Magical Poster
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a vertical premium restaurant-brand poster on a dark background with a giant title, a single dish as the hero visual, and a bottom info bar.
+Creates a premium 4:5 Kinder Joy ad poster revealing a magical miniature world emerging from the opened egg, with full packaging fidelity and luxurious commercial studio lighting.
 
 #### 🌟 Prompt
 
-【Theme】: 【fill in the theme】 【Brand name】: 【fill in the English brand name】 【Chinese name】: 【fill in the …
+Act as a world-class FMCG commercial photographer, Ferrero creative director, and elite advertising retoucher …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-【Theme】: 【fill in the theme】
-【Brand name】: 【fill in the English brand name】
-【Chinese name】: 【fill in the Chinese brand name】
-【Main title】: 【fill in the big headline】
-【English subtitle】: 【fill in the English subtitle】
-【Ratio】: 【3:4 / 4:5】
-【Main color】: 【fill in the main color】
-【Accent color】: 【fill in the accent color】
-【Hero food】: 【fill in the product】
-【Action/prop】: 【fill in the action/prop】
+Act as a world-class FMCG commercial photographer, Ferrero creative director, and elite advertising retoucher specializing in premium confectionery campaigns.
 
-Generate a 【Ratio】 vertical dark premium restaurant-brand poster with the theme 【Theme】. Use a fully original brand campaign design, without copying any text or information from reference cases; only learn the structure of "dark background + giant title + single food hero visual + a few design marks + bottom info bar".
+Create an ultra-premium 4:5 Instagram hero campaign for Kinder Joy.
 
-Use a 【Main color】 dark background with 【Accent color】 details. Place an original logo, the 【Brand name】 and the 【Chinese name】 in the top-left; a giant main title 【Main title】 in the upper part; and the English subtitle 【English subtitle】 in the top-right. In the mid-lower area, place a realistic, high-quality 【Hero food】, creating a being-enjoyed moment through 【Action/prop】, with clear food texture and a strong appetizing feel. Around it, add a few arcs, dashed lines, circular stamps, and annotation-style graphics. At the bottom, build a 4-column info module to form a complete brand system.
+CAMPAIGN DNA
+60% playful wonder
+25% premium FMCG realism
+15% Pixar-like magical storytelling
 
-Overall it should be high-end, restrained, design-forward, and have a series feel, suitable for restaurant brand proposals and social media display. Avoid food distortion, wrong props, cheap promotional feel, cluttered layout, and low clarity.
+CORE IDEA
+Kinder Joy opening reveals a magical miniature world emerging from inside the egg.
+
+PRODUCT FIDELITY
+Absolute packaging accuracy:
+white upper shell
+bright orange lower shell
+official Kinder Joy branding
+glossy premium plastic texture
+
+Dessert side:
+milk cream
+cocoa cream swirl
+two crispy wafer balls
+small spoon
+
+ENVIRONMENT
+Clean white studio with floating orange-blue playful elements.
+
+LIGHTING
+Soft premium commercial lighting
+glossy reflections
+bright highlights
+clean shadows
+
+COMPOSITION
+4:5 vertical
+85mm lens
+hero-centered composition
+luxury negative space
+
+TYPOGRAPHY
+Headline:
+A WORLD OF JOY INSIDE
+
+CTA:
+Open. Scoop. Play.
+
+Ultra photorealistic
+8K
+premium retouch
 ```
 
 </details>
@@ -74,7 +108,7 @@ Overall it should be high-end, restrained, design-forward, and have a series fee
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMZOMA9aMAAxiJv.jpg" width="700" alt="Dark Gourmet Food Poster System">
+<img src="https://image.moge.ai/prompt_media/HMdEKxBbcAA_zE6.jpg" width="700" alt="Kinder Joy Magical Poster">
 </div>
 
 <br>
@@ -83,35 +117,57 @@ Overall it should be high-end, restrained, design-forward, and have a series fee
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2073430949141127577) | 2026-07-04 |
+| [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) | [X / Twitter](https://x.com/Diplomeme/status/2073701114281894271) | 2026-07-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073430949141127577)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073701114281894271)**
 
 </div>
 
 ---
 
-### No. 2: Avant-Garde Editorial Poster
+### No. 2: Depth-of-Field Sports Editorial Poster
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Creates a refined monochrome editorial poster with an asymmetrical modular grid, black-dominant image blocks and color accents, in a Swiss-meets-avant-garde high-fashion style.
+Creates a 16:9 editorial sports poster built on three optical focus planes — blurred neon spheres in the foreground, a sharp athlete and navy headline, and the same title enlarged and defocused in the background.
 
 #### 🌟 Prompt
 
-Avant-garde graphic design poster page, elegant editorial layout, off-white background, 4:5 aspect ratio. …
+Editorial sports poster, 16:9 horizontal — off-white background; real photography of [athlete + action], …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Avant-garde graphic design poster page, elegant editorial layout, off-white background, 4:5 aspect ratio. Build a clean asymmetrical modular grid with four distinct image blocks: one high-contrast close portrait of [HUMAN], one cinematic photograph of [CAR], one striking image of [ANIMAL], and one atmospheric photograph of [PLACE], each contained in its own rectangular block. Use black as the dominant color with subtle accents of [ACCENT1] and [ACCENT2], minimal but refined. Add one abstract distortion or texture panel to reinforce the experimental design language. Include a bold title reading “[TITLE]”, a small minimalist logo reading “[LOGO]”, microtypography, short editorial text columns, tiny serial numbers, thin dividers, small captions, and elegant negative space. High-fashion graphic design aesthetic, niche magazine page, refined Swiss-meets-avant-garde composition, crisp typography, monochrome photography, subtle blur and texture variation, sophisticated art-direction.
+Editorial sports poster, 16:9 horizontal — off-white background; real photography of [athlete + action], dressed in white/near-white; ultra-condensed heavy navy two-word title "[title]", athlete sandwiched between and overlapping the letters; the same title behind, enlarged about 3x, in very pale grey, like an out-of-focus echo; 2-3 heavily blurred neon yellow-green tennis balls floating at the frame edges as a foreground depth layer; sharp hand-drawn neon starbursts and zigzag doodles around the subject; orange "ISSUE [XX]" box top right, barcode, column label "[label]", and 4-6 short imperative sentences as small body copy; palette navy + neon yellow-green + orange on off-white background — no uniformly sharp flat layout, no dark background, no dark clothing, no missing foreground blur
+
+{
+  "style_rules": {
+    "background": "off-white/pale grey editorial canvas",
+    "focal_planes": "THREE optical layers — (1) foreground: 2-3 neon yellow-green spheres (tennis balls) heavily blurred at frame edges, (2) focus plane: athlete + navy title, tack sharp, (3) background: same title repeated ~3x larger in very pale grey (~10% opacity), reads as out-of-focus distance",
+    "title": "ultra-condensed heavy navy sans-serif, 2 words — athlete sandwiched between/overlapping the letters",
+    "subject": "real sports photography, athlete dressed in white/near-white so the navy type becomes the loudest element; small teal/orange gear accents allowed",
+    "doodles": "hand-drawn neon yellow-green starbursts/zigzags/squiggles annotating motion, kept sharp (they live on the focus plane)",
+    "issue_system": "orange ISSUE XX box top right + barcode + column label + 4-6 short imperative sentences as small body copy + vertical side-rail text",
+    "color_system": "navy + neon yellow-green + orange accents on off-white",
+    "format": "16:9 horizontal"
+  },
+  "negative": "everything uniformly sharp, dark background, subject in dark clothing, no foreground blur objects, single flat text layer, more than 3 accent colors",
+  "variables": {
+    "sport": "[dance / drumline / scooter / parkour]",
+    "title": "[2-word title: MOVE LOUD / BEAT RUSH / AIR MODE / FAST LINE]",
+    "issue_number": "[ISSUE 03 / ISSUE 12]",
+    "column_label": "[RHYTHM ISSUE DAILY FORM / tempo test field note / FLIGHT STUDY / URBAN ROUTE]",
+    "body_copy": "[4-6 short imperative sentences: 'Study the air. Control the spin. Every jump is data...']",
+    "blur_object": "[optional swap: tennis balls / any neon sphere]"
+  }
+}
 ```
 
 </details>
@@ -119,7 +175,7 @@ Avant-garde graphic design poster page, elegant editorial layout, off-white back
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMZQrf9WcAAsPfH.jpg" width="700" alt="Avant-Garde Editorial Poster">
+<img src="https://image.moge.ai/prompt_media/HMeKSC_XAAA6uqo.jpg" width="700" alt="Depth-of-Field Sports Editorial Poster">
 </div>
 
 <br>
@@ -128,13 +184,13 @@ Avant-garde graphic design poster page, elegant editorial layout, off-white back
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Anissa](https://x.com/SimplyAnnisa) | [X / Twitter](https://x.com/SimplyAnnisa/status/2073433391530455535) | 2026-07-04 |
+| [Vigo Zhao](https://x.com/VigoCreativeAI) | [X / Twitter](https://x.com/VigoCreativeAI/status/2073778362674200893) | 2026-07-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073433391530455535)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073778362674200893)**
 
 </div>
 
@@ -260,24 +316,31 @@ Create a corporate conference poster for "Apple WWDC Design Futures", keynote sp
 
 ---
 
-### No. 5: Layered Paper-Cut Craft Illustration
+### No. 5: Dark Anime Swordsman Portrait
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Creates a handmade paper-cut illustration with colorful layered paper textures, soft depth shadows, and a playful modern aesthetic.
+Creates an ultra-detailed dark anime portrait of an orange-haired swordsman with crossed katanas and dramatic typography in a manga cover style.
 
 #### 🌟 Prompt
 
+Ultra-detailed dark anime portrait of an orange-haired swordsman inspired by a legendary soul reaper, …
+
+<details>
+<summary>Show full prompt</summary>
+
 ```
-A paper-cut craft illustration of a [subject], layered colorful paper textures, soft drop depth effect, handmade craft appearance, clean layered composition, playful and modern design aesthetic.
+Ultra-detailed dark anime portrait of an orange-haired swordsman inspired by a legendary soul reaper, centered composition, looking down with a calm, intimidating expression, dramatic low-angle shot, sharp amber glowing eyes, highly detailed face, spiky orange hair, black and white robe with torn captain cloak, crossed black and white katanas in the foreground, cinematic rim lighting, deep shadows, realistic anime illustration, painterly masterpiece, high contrast, monochrome grunge background with black ink smoke swirling around, gigantic stretched condensed white typography in the background reading "TRUE BANKAI", minimal color palette, gritty texture, premium manga cover aesthetic, ultra-sharp focus, volumetric lighting, dramatic atmosphere, trending on ArtStation, masterpiece, best quality, 8k.
 ```
+
+</details>
 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMYmpQcXYAAtfvg.jpg" width="700" alt="Layered Paper-Cut Craft Illustration">
+<img src="https://image.moge.ai/prompt_media/HMeQC1oboAAxhuR.jpg" width="700" alt="Dark Anime Swordsman Portrait">
 </div>
 
 <br>
@@ -286,39 +349,35 @@ A paper-cut craft illustration of a [subject], layered colorful paper textures, 
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Zephyra Leigh](https://x.com/ZephyraLeigh) | [X / Twitter](https://x.com/ZephyraLeigh/status/2073387175950082282) | 2026-07-04 |
+| [Anissa](https://x.com/SimplyAnnisa) | [X / Twitter](https://x.com/SimplyAnnisa/status/2073784536480305525) | 2026-07-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073387175950082282)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073784536480305525)**
 
 </div>
 
 ---
 
-### No. 6: Golden Hour Floral Portrait
+### No. 6: Elegant Indian Woman in Silk Saree
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-An ultra-realistic editorial portrait of a woman covering her face with a flower-adorned hand in warm golden-hour light.
+Creates an ultra-realistic portrait of a young Indian woman in a black silk saree with gold border and traditional jewelry in a cozy bedroom.
 
 #### 🌟 Prompt
 
-Ultra-realistic portrait photography of a young woman with long wavy dark brown hair, wearing an oversized …
+Ultra-realistic beautiful young Indian woman in a cozy aesthetic bedroom, wearing an elegant black silk saree …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Ultra-realistic portrait photography of a young woman with long wavy dark brown hair, wearing an oversized vintage brown leather jacket, standing outdoors in front of a rustic stone wall during golden hour. She covers most of her face with one hand placed vertically over her eyes and nose, creating a mysterious aesthetic. Fresh colorful flowers are attached to her hand and fingers: a deep purple flower centered on the hand, a bright red flower on one finger, and a soft pink flower near the wrist. A pale pink daisy-like flower is tucked behind her ear. Warm sunlight illuminates her hair and jacket from the side, creating rich highlights, soft shadows, and cinematic contrast. Natural skin texture, realistic hair strands, shallow depth of field, creamy background bokeh, moody editorial fashion style, candid composition, soft earthy tones, highly detailed, DSLR photography, 85mm lens, f/1.8, photorealistic, ultra sharp focus, 8K quality, natural outdoor lighting, luxury fashion magazine aesthetic, vertical portrait, centered composition.
-
-Negative Prompt:
-
-blurry, low quality, extra fingers, distorted hand, visible full face, overexposed lighting, cartoon, anime, CGI, unrealistic flowers, duplicate flowers, bad anatomy, plastic skin, watermark, text, logo, cropped hand, deformed eyes, oversaturated colors, noisy background, artificial lighting, motion blur.
+Ultra-realistic beautiful young Indian woman in a cozy aesthetic bedroom, wearing an elegant black silk saree with luxurious antique gold border and a matching black blouse with gold sleeves. She has an extremely long, thick, wavy black hairstyle decorated with black bindi, traditional gold maang tikka, gold jhumka earrings, delicate gold necklace, waist chain, stacked black and gold bangles, gold anklets, and intricate red lotus mehndi designs on both hands, with a smile, and expressive.
 ```
 
 </details>
@@ -326,7 +385,7 @@ blurry, low quality, extra fingers, distorted hand, visible full face, overexpos
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMZhTZPaIAEh7Wi.jpg" width="700" alt="Golden Hour Floral Portrait">
+<img src="https://image.moge.ai/prompt_media/HMdhM0_XkAEZLCY.jpg" width="700" alt="Elegant Indian Woman in Silk Saree">
 </div>
 
 <br>
@@ -335,73 +394,61 @@ blurry, low quality, extra fingers, distorted hand, visible full face, overexpos
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [auqib](https://x.com/auqibhabib) | [X / Twitter](https://x.com/auqibhabib/status/2073451701089320968) | 2026-07-04 |
+| [Talia](https://x.com/TaliaAariz) | [X / Twitter](https://x.com/TaliaAariz/status/2073733029579616579) | 2026-07-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073451701089320968)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073733029579616579)**
 
 </div>
 
 ---
 
-### No. 7: Playful Doodle on Product Photo
+### No. 7: Product-Hero Branded Proof Ad
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Adds a hand-drawn black line-art doodle character with a handwritten text bubble on top of a realistic product photo, keeping a clean light background.
+Creates a premium 16:9 advertising key visual that makes the uploaded product the dominant hero with a readable logo and label, while the environment proves its benefit.
 
 #### 🌟 Prompt
 
-```
-Take this product photo and add a playful hand-drawn doodle character on top of it — simple black line-art style, cartoon arms and legs, expressive face showing [EMOTION]. Add a short handwritten-style text bubble saying '[CAPTION]'. Keep the product photo untouched and realistic, background clean white/light grey.
-```
-
-#### 🌁 Generated Image
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HMY43QFboAACZ3v.jpg" width="700" alt="Playful Doodle on Product Photo">
-</div>
-
-<br>
-
-<div align="center">
-
-| Author | Source | Published |
-| :---: | :---: | :---: |
-| [simeon-sanai](https://x.com/Naiknelofar788) | [X / Twitter](https://x.com/Naiknelofar788/status/2073407209753788771) | 2026-07-04 |
-
-</div>
-
-<div align="center">
-
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073407209753788771)**
-
-</div>
-
----
-
-### No. 8: Double Exposure Editorial Portrait
-
-![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
-
-#### 📚 Description
-
-Creates a cinematic, hyper-realistic portrait of a young Asian woman blended with mixed-media textures, autumn leaves, and editorial typography on a minimalist white background.
-
-#### 🌟 Prompt
-
-Create a masterpiece 9:16 vertical, 8K ultra-HD, hyper-realistic cinematic editorial double exposure portrait …
+Upload a clear product image first. Create a premium 16:9 advertising key visual using the uploaded product …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a masterpiece 9:16 vertical, 8K ultra-HD, hyper-realistic cinematic editorial double exposure portrait of a young Asian woman with calm expression, blue-green eyes, natural matte makeup, realistic skin with subtle freckles, and medium-length wavy ash blonde, platinum, and silver hair gently blowing in the wind. She wears a dark winter jacket and a thick light-brown knitted scarf. Blend her portrait with elegant mixed media elements including grunge textures, watercolor splashes, ink effects, architectural blueprints, wireframes, geometric lines, concrete textures, and transparent digital overlays. Add naturally floating golden yellow, burnt orange, and copper autumn maple leaves. Use a clean white minimalist background with abstract paint splashes, modern editorial typography featuring the large vertical word "FANTASTIC", subtle grid layouts, and graphic design elements. Apply soft cinematic lighting, HDR, ray tracing, global illumination, volumetric lighting, shallow depth of field, sharp eye focus, luxury magazine cover aesthetics, premium color grading, and award-winning photorealistic quality.
+Upload a clear product image first.
+
+Create a premium 16:9 advertising key visual using the uploaded product as the exact hero reference.
+
+The product must be large, front-facing or best-selling angle, sharply focused, and occupy 35–50% of the frame.
+
+Keep the logo, label, packaging shape, colors, proportions, typography, and recognizable brand details accurate, readable, and unobstructed.
+
+Use the visual system: “Branded Proof”.
+
+Do not just make a pretty scene.
+Make the environment prove the product’s benefit.
+
+The product stays clean, pristine, and dominant.
+Everything around it becomes evidence of what the product does:
+before/after contrast, texture change, temperature shift, freshness, speed, impact, comfort, flavor, protection, glow, silence, energy, or luxury.
+
+Build a strong foreground, midground, and background.
+The eye should land on the logo first, then understand the benefit in one second.
+
+Style:
+premium commercial photography, cinematic lighting, agency-grade campaign visual, high contrast, tactile realism, clean negative space, realistic shadows, polished reflections, scroll-stopping composition.
+
+Avoid:
+tiny people, micro worlds, UI overlays, holograms, fake floating logos, messy clutter, unreadable labels, hidden branding, random effects, extra text overlays.
+
+Output: one hero ad image, 16:9.
 ```
 
 </details>
@@ -409,7 +456,7 @@ Create a masterpiece 9:16 vertical, 8K ultra-HD, hyper-realistic cinematic edito
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMYjr-pWYAA2t1e.jpg" width="700" alt="Double Exposure Editorial Portrait">
+<img src="https://image.moge.ai/prompt_media/HMc7cbmWUAEIjdl.jpg" width="700" alt="Product-Hero Branded Proof Ad">
 </div>
 
 <br>
@@ -418,13 +465,97 @@ Create a masterpiece 9:16 vertical, 8K ultra-HD, hyper-realistic cinematic edito
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Anissa](https://x.com/SimplyAnnisa) | [X / Twitter](https://x.com/SimplyAnnisa/status/2073383922000343309) | 2026-07-04 |
+| [AZIZ \| AI 🇸🇦](https://x.com/aziz4ai) | [X / Twitter](https://x.com/aziz4ai/status/2073691521564451078) | 2026-07-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073383922000343309)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073691521564451078)**
+
+</div>
+
+---
+
+### No. 8: Distorted Portrait Posters
+
+![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
+
+#### 📚 Description
+
+Creates experimental 9:16 portrait posters with a clean editorial layout, using controlled distortion like blur, chromatic glitch, and grid overlays across four directions.
+
+#### 🌟 Prompt
+
+Create a 9:16 high-end experimental portrait poster with a clean editorial layout. The image should feel …
+
+<details>
+<summary>Show full prompt</summary>
+
+```
+Create a 9:16 high-end experimental portrait poster with a clean editorial layout.
+The image should feel original, modern, visually striking, and design-driven.
+Use a single adult model as the main subject. Keep the face recognizable, while reshaping the portrait through controlled visual effects such as blur, scan distortion, subtle grid overlays, spotlight shadow, or chromatic glitch.
+Typography should feel custom, refined, and minimal, with an original title and a few short supporting phrases. Keep the layout clean, elevated, and poster-like.
+
+4 directions:
+
+1. STATIC VEIL
+   A monochrome black-and-gray portrait poster.
+   A young male model with a shaved head and bold geometric black sunglasses.
+   The head and glasses stay sharp, while the lower half of the portrait dissolves into horizontal scan distortion and stretched blur, as if the figure is being pulled into static.
+   Fine grain texture in the background.
+   Use a custom text system such as: “STATIC VEIL”, “visual noise”, “shadow signal”, “blurred matter”, “a portrait reduced to rhythm”.
+   Cold, minimal, futuristic, powerful.
+
+2. SPECTRAL DRIFT
+   A white-background experimental beauty portrait poster.
+   A young female model in side or three-quarter profile, with one eye and facial structure remaining clear.
+   Controlled chromatic glitch trails in cyan, magenta, blue, and violet sweep horizontally across the face and body.
+   The effect should feel luminous and elegant.
+   Use a custom text system such as: “SPECTRAL DRIFT”, “motion layer”, “color echo”, “synthetic portrait”, “light offset”, “frame memory”.
+   Clean, futuristic, vivid, dreamlike.
+
+3. SIGNAL FACE
+   A white or light-gray portrait poster with a digital identity feeling.
+   A young East Asian male model wearing slim black sunglasses, centered in frame.
+   The middle of the face remains sharp, while the edges of the hair, shoulders, and outline have soft motion blur and slight RGB drift.
+   Overlay a subtle transparent grid across the composition.
+   Use small blue accent text sparingly.
+   Use a custom text system such as: “SIGNAL FACE”, “portrait sample”, “digital identity”, “soft focus study”, “visual layer”, “north field”.
+   Minimal, precise, polished.
+
+4. NARROW BEAM
+   A dark blue to black portrait poster with a moody experimental lighting setup.
+   A young male model facing forward, with a narrow beam of light cutting across the eyes and upper face, while the lower face and body fade into darkness.
+   Add faint grid texture or very thin technical lines in the background.
+   Use a custom text system such as: “NARROW BEAM”, “where shadow holds”, “vision remains”, “silence defines the frame”, “a study of presence held in blue”.
+   Quiet, restrained, cinematic, intense.
+
+You can swap the model, title, color logic, and effect treatment, while keeping the same overall quality: a clear focal point, original text, controlled distortion, and strong poster composition.
+```
+
+</details>
+
+#### 🌁 Generated Image
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HMeBIrZW8AAumlG.jpg" width="700" alt="Distorted Portrait Posters">
+</div>
+
+<br>
+
+<div align="center">
+
+| Author | Source | Published |
+| :---: | :---: | :---: |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2073769013323202833) | 2026-07-05 |
+
+</div>
+
+<div align="center">
+
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073769013323202833)**
 
 </div>
 
@@ -557,24 +688,23 @@ Add large, bold white typography behind me that reads "JULY", with elegant handw
 
 ---
 
-### No. 11: Whimsical Corgi Chase Sticker Art
+### No. 11: B&W Engraved Line Art Portrait
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Creates a humorous 3D sticker of a young woman running, chased by a corgi, superimposed onto a real photo of a sunny park.
+Turns the attached subject into a monochrome engraved line-art portrait with flowing woodcut-inspired strokes on a plain white background.
 
 #### 🌟 Prompt
 
-A vibrant and humorous 3D-style sticker design superimposed onto a real-life photograph of a sunny city park …
+A highly detailed black-and-white engraved line art style portrait of the enclosed object rendered 100% …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-A vibrant and humorous 3D-style sticker design superimposed onto a real-life photograph of a sunny city park pathway. A cute East Asian young woman is captured in a dynamic running pose, her body leaning forward. She wears a bright yellow baseball cap that is just lifting off her head, caught by a sudden gust of wind. One hand reaches back desperately, a motion blur trying to grab it. Her other hand holds a half-eaten ice cream cone, the scoop comically starting to slide off. Her expression is one of pure, wide-eyed mock terror, mouth open in a silent scream. Behind her, a small, energetic, and slightly goofy-looking corgi is mid-bark, its legs a blur of motion. The art style blends whimsical caricature with bold outlines and exaggerated proportions against the soft-focus, natural background of green grass, trees, and a distant playground. Motion lines emphasize the chase. Bright, saturated colors on the sticker, flat but punchy lighting. A stray cat tail is a sticker element curling from a real park bench at the bottom left corner. Playful, slapstick, kinetic energy.
-dutch angle, stray cat tail --ar 3:4 ratio
+A highly detailed black-and-white engraved line art style portrait of the enclosed object rendered 100% identical. Monochrome portrait illustration with very clean curved contour shading, smooth flowing parallel lines shading the face and anatomy, an aesthetic inspired by vintage woodcuts and linoleum, thick black ink outlines combined with thin rhythmic engraved strokes, minimalist grayscale composition on a plain white background, an elegant high-contrast vector engraving look, precise contour lines wrapping naturally around facial structures and body curves, a subtle ink etching texture, a modern editorial illustration combined with classic printing techniques, subtle organic line density transitions, sharp negative space highlights, a handmade etching illustration look, very sharp line consistency, a refined retro poster aesthetic, a clean graphic novel engraving style, a sophisticated monochrome portrait rendering, flowing hair and beard created with layered ink strokes, contemporary digital engraving art inspired by linoleum.
 ```
 
 </details>
@@ -582,7 +712,7 @@ dutch angle, stray cat tail --ar 3:4 ratio
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMWtBpPbkAA3pBg.jpg" width="700" alt="Whimsical Corgi Chase Sticker Art">
+<img src="https://image.moge.ai/prompt_media/HMd_iQcaEAA6rBF.jpg" width="700" alt="B&amp;W Engraved Line Art Portrait">
 </div>
 
 <br>
@@ -591,73 +721,35 @@ dutch angle, stray cat tail --ar 3:4 ratio
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Maverick \| AI](https://x.com/RizwanAly07) | [X / Twitter](https://x.com/RizwanAly07/status/2073253495814451402) | 2026-07-04 |
+| [zayan](https://x.com/HustleXR) | [X / Twitter](https://x.com/HustleXR/status/2073766385562550547) | 2026-07-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073253495814451402)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073766385562550547)**
 
 </div>
 
 ---
 
-### No. 12: 3×3 Character Collage of One Woman
+### No. 12: Doodle Character Hug Portrait
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-Creates a top-down 3×3 editorial collage of the same woman in nine characters, with hand-drawn black doodles on a minimalist white background.
+A minimalist studio fashion portrait of a young woman hugged from behind by a black-and-white doodle character, in a playful and wholesome mood.
 
 #### 🌟 Prompt
 
-A professional 3×3 collage featuring the same beautiful young woman from the reference image, maintaining …
+A cute minimalist portrait of a young woman sitting casually on the floor in a clean studio setting with a …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-A professional 3×3 collage featuring the same beautiful young woman from the reference image, maintaining identical facial features, hairstyle, eyeglasses, body proportions, and appearance across all nine panels. She is photographed from a top-down perspective lying on a soft white textured blanket with bright natural lighting and a clean minimalist white background. Each panel tells a unique visual story through playful hand-drawn black doodle illustrations that interact naturally with her pose. Ultra-realistic editorial photography, Instagram viral trend, magazine-quality composition, consistent character identity, ultra-sharp 8K detail.
-
-Panel 1 – Astronaut
-
-The woman wears a modern white astronaut suit with subtle blue accents. She floats through hand-drawn planets, stars, satellites, and a rocket. Curious and adventurous expression.
-
-Panel 2 – Mermaid
-
-She wears a shimmering teal mermaid tail with a seashell top. Hand-drawn coral reefs, bubbles, fish, starfish, and waves surround her. Peaceful underwater pose.
-
-Panel 3 – Chef
-
-She wears a professional chef uniform with an apron and chef hat. Hand-drawn frying pans, vegetables, recipes, and cooking utensils create a lively kitchen scene. Happy smile.
-
-Panel 4 – Detective
-
-She wears a beige trench coat, black boots, and a detective hat while holding a magnifying glass. Hand-drawn footprints, clues, question marks, and a city map surround her. Curious expression.
-
-Panel 5 – Artist
-
-She wears denim overalls over a white T-shirt. Hand-drawn paint brushes, color splashes, palettes, pencils, and easels surround her while she pretends to paint the background. Creative and cheerful mood.
-
-Panel 6 – Gamer
-
-She wears a colorful oversized hoodie, shorts, and sneakers. Hand-drawn game controllers, keyboards, headphones, lightning bolts, coins, and pixel hearts float around her. Excited expression.
-
-Panel 7 – Scientist
-
-She wears a white lab coat, safety goggles, and gloves. Hand-drawn chemistry beakers, molecules, formulas, atoms, and bubbling experiments surround her. Fascinated expression.
-
-Panel 8 – Pilot
-
-She wears a stylish airline pilot uniform with aviator sunglasses. Hand-drawn airplanes, clouds, airport runway, luggage, and travel stamps complete the scene. Confident smile.
-
-Panel 9 – Magician
-
-She wears an elegant black magician's suit with a top hat and white gloves. Hand-drawn magic cards, rabbits, stars, sparkles, and a wand create an enchanting illusion. Playful mysterious smile.
-
-Overall Style: Minimalist white aesthetic, playful hand-drawn black doodles, whimsical storytelling, premium flat-lay composition, luxury editorial photography, soft natural lighting, consistent facial identity across every panel, ultra-realistic human anatomy, crisp details, clean shadows, Instagram-worthy viral aesthetic, 8K.
+A cute minimalist portrait of a young woman sitting casually on the floor in a clean studio setting with a light grey background. She wears an oversized dark charcoal hoodie, cream straight-leg pants, white socks, and chunky white sneakers. Relaxed seated pose with crossed legs, one eye slightly closed in a playful wink and a soft smile. Behind her, a large black-and-white doodle character hugs her from behind, wrapping its cartoon arms around her shoulders and gently squeezing her cheek. The doodle figure has a simple round head, tiny eyes, and a hand-drawn sketch style. Soft studio lighting, modern aesthetic, playful and wholesome mood, minimalist composition, high-quality fashion portrait, realistic photography, subtle shadows, ultra-detailed, clean background, candid expression.
 ```
 
 </details>
@@ -665,7 +757,7 @@ Overall Style: Minimalist white aesthetic, playful hand-drawn black doodles, whi
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMYsfTcacAAKfBz.jpg" width="700" alt="3×3 Character Collage of One Woman">
+<img src="https://image.moge.ai/prompt_media/HMcX3LFWYAAAd6R.jpg" width="700" alt="Doodle Character Hug Portrait">
 </div>
 
 <br>
@@ -674,35 +766,40 @@ Overall Style: Minimalist white aesthetic, playful hand-drawn black doodles, whi
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Smiling Khan](https://x.com/AIwithkhan) | [X / Twitter](https://x.com/AIwithkhan/status/2073393598197051834) | 2026-07-04 |
+| [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_) | [X / Twitter](https://x.com/saniaspeaks_/status/2073718421586428035) | 2026-07-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073393598197051834)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073718421586428035)**
 
 </div>
 
 ---
 
-### No. 13: Retro Motorsport Car Poster
+### No. 13: Blueberry Lemonade Ad Poster
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Generates a vertical vintage motorsport poster featuring a low-angle front hero shot of a car, geometric graphic elements, and a distressed, sun-bleached print editorial finish.
+Creates a premium, ultra-realistic blueberry lemonade advertisement poster with floating fruit, ice, and luxury brand typography.
 
 #### 🌟 Prompt
 
-Retro motorsport poster for [CAR], 4:5 vertical. Show a front-facing low-angle hero view of the [COLOR] …
+Create a premium, ultra-realistic beverage advertisement poster featuring a large transparent plastic cup …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Retro motorsport poster for [CAR], 4:5 vertical. Show a front-facing low-angle hero view of the [COLOR] [CAR], centered in the composition on [SCENERY]. Build the background with minimalist scenic depth and layered graphic design elements: a large sun shape, overlapping geometric blocks, angled panels, soft stripes, translucent shapes, and clean negative space, all blended into the scenery. Add a bold title reading “[TITLE]” at the top, a small [BRAND] logo, and a short slogan reading “[SLOGAN]”. Use [PALETTE], vintage print fading, distressed paper texture, subtle scratches, slightly sun-bleached tones, crisp automotive detail, poster-style symmetry, and a refined race-inspired editorial finish.
+Create a premium, ultra-realistic beverage advertisement poster featuring a large transparent plastic cup filled with vibrant blueberry lemonade. The drink has a rich purple-blue gradient, sparkling ice cubes, fresh whole blueberries floating inside and around the cup, and thin lemon slices submerged throughout. The cup is covered with realistic condensation droplets, creating a refreshing, chilled appearance. A black drinking straw extends from the top.
+Surround the drink with floating fresh blueberries, lemon halves, lemon slices, mint leaves, water droplets, and crystal-clear ice cubes for a dynamic composition. Use dramatic studio lighting with glossy reflections and soft shadows to create a luxury commercial look. Background consists of a modern split design with deep navy blue on the left and soft lavender-purple on the right, including subtle gradients and rounded geometric shapes. Place the beverage in the center as the hero product. Add bold vertical white typography on the left reading "BLUEBERRY" in a large modern sans-serif font. On the upper right, include a clean promotional text layout:
+THE BEST IS HERE
+AT HEIS DRINKS
+
+Use a minimal luxury branding style with excellent typography hierarchy and generous spacing. Hyper-realistic food photography, commercial product advertising, premium beverage campaign, vibrant colors, photorealistic fruit textures, crystal-clear ice, ultra-detailed condensation, cinematic lighting, soft depth of field, 8K resolution, Adobe Photoshop advertising mockup, modern Instagram food poster, high-end drink promotion.
 ```
 
 </details>
@@ -710,7 +807,7 @@ Retro motorsport poster for [CAR], 4:5 vertical. Show a front-facing low-angle h
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMXx1YLb0AA95AL.jpg" width="700" alt="Retro Motorsport Car Poster">
+<img src="https://image.moge.ai/prompt_media/HMcLlDTa8AATbvH.jpg" width="700" alt="Blueberry Lemonade Ad Poster">
 </div>
 
 <br>
@@ -719,51 +816,41 @@ Retro motorsport poster for [CAR], 4:5 vertical. Show a front-facing low-angle h
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Simply Ray](https://x.com/kingofdairyque) | [X / Twitter](https://x.com/kingofdairyque/status/2073329110059978822) | 2026-07-04 |
+| [Heisenberg](https://x.com/rovvmut_) | [X / Twitter](https://x.com/rovvmut_/status/2073638890842517632) | 2026-07-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073329110059978822)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073638890842517632)**
 
 </div>
 
 ---
 
-### No. 14: New York Typographic Travel Poster
+### No. 14: KitKat Product Design Sketch
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Creates a minimalist travel poster where the letters of "NEW YORK" act as cut-out windows revealing the city's iconic landmarks in flat vector illustration.
+Creates a designer's notebook page with a detailed industrial design sketch of a KitKat bar, handwritten annotations, and red marker accents.
 
 #### 🌟 Prompt
 
-Clean, modern typographic travel poster in a 3:2 landscape format. The words "NEW YORK" — seven large, bold, …
+Create a highly detailed industrial design concept sketch on an off-white lined notebook page featuring a …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Clean, modern typographic travel poster in a 3:2 landscape format. The words "NEW YORK" — seven large, bold, uppercase geometric sans-serif letters set on a single line (or "NEW" stacked above "YORK" if better balanced) — span the full width and ARE the entire composition. Every illustrated element lives strictly INSIDE the letterforms, as if each letter is a window cut out of white paper revealing a scene; nothing spills outside the letter silhouettes. Outside the letters: pure, empty, flat white background — no objects, no cast shadows, no decoration.
+Create a highly detailed industrial design concept sketch on an off-white lined notebook page featuring a Nestlé KitKat chocolate bar as the main subject. The page should resemble a real product designer's brainstorming notebook with a large three-quarter perspective hand-drawn illustration of a partially unwrapped KitKat bar. The wrapper is bright red with the classic white KitKat logo, while the exposed chocolate fingers reveal realistic crunchy wafer layers, including one broken piece with visible crispy wafer texture and scattered chocolate crumbs.
 
-— WHAT FILLS EACH LETTER (NYC-accurate, clipped to the letter shape) —
-N : the Statue of Liberty — standing torch raised, following one vertical of the N.
-E : stacked Manhattan brownstone facades with fire escapes nested in the three horizontal bars.
-W : the Brooklyn Bridge — its two Gothic stone arches and suspension cables spanning the W's zig-zag, a small boat on the East River below.
-Y : the Empire State Building — the Art-Deco spire cradled in the fork of the Y.
-O : the ring frames Times Square — glowing billboards, a yellow taxi cab, a scramble of tiny pedestrians.
-R : the Flatiron Building's distinctive triangular wedge silhouette inside the R.
-K : Central Park greenery and the One World Trade Center spire slicing along the K's diagonals; a subway car along the base.
+Render the sketch using black ballpoint pen linework, fine cross-hatching, architectural perspective lines, and red marker accents that match the KitKat packaging. Add handwritten annotations, arrows, and design callouts pointing to features such as "Crunchy Wafer Texture," "Classic Red Wrapper," "Chocolate Coating," "Easy Tear Opening," "Signature Logo Placement," "Wafer Cross Section," and "Break Here."
 
-Small city details (a yellow cab, a hot-dog cart with faint steam, a pigeon, a subway roundel, drifting clouds) appear ONLY where they fit within a letter's interior. Keep full legibility of "NEW YORK".
+Include tiny doodle illustrations of a person enjoying a KitKat with a cup of coffee, playful sketch icons, rough concept thumbnails, engineering notes, and packaging design variations scattered naturally across the page. Place a small reference image of the actual KitKat bar in the lower-left corner with a bold blue arrow pointing toward the main concept sketch, indicating the design study reference.
 
-— STYLE —
-Elegant flat vector illustration, crisp geometric shapes, minimal detail, clean outlines, subtle shadows contained inside the letters only. Limited palette: deep navy, warm cream, muted red, soft gray-blue — a restrained warm-yellow accent used ONLY on the taxis / Times Square glow. Optional minimal tagline beneath in wide-spaced small capitals: "THE CITY THAT NEVER SLEEPS", thin and understated. Perfectly balanced centered composition.
-
-premium flat vector, minimalist travel poster, geometric illustration, editorial tourism branding, clean typography, high contrast, ultra-sharp lines, museum-quality print, scalable SVG aesthetic, 8K.
+Add subtle coffee stains, pencil guidelines, erased construction marks, folded paper corners, light ink smudges, notebook punch holes, and realistic paper texture to make it feel like an authentic designer's notebook. At the top, write a handwritten title: "Character – Product Study 01", with Nestlé KitKat logos sketched in the corners. Premium industrial design sketchbook aesthetic, realistic pen and marker rendering, product concept art, clean composition, ultra-detailed, high-resolution, professional design presentation, 8K.
 ```
 
 </details>
@@ -771,7 +858,7 @@ premium flat vector, minimalist travel poster, geometric illustration, editorial
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMWurFrbMAAcxCv.jpg" width="700" alt="New York Typographic Travel Poster">
+<img src="https://image.moge.ai/prompt_media/HMd3335bwAA-nbS.jpg" width="700" alt="KitKat Product Design Sketch">
 </div>
 
 <br>
@@ -780,13 +867,13 @@ premium flat vector, minimalist travel poster, geometric illustration, editorial
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Sairah](https://x.com/Sairah_0) | [X / Twitter](https://x.com/Sairah_0/status/2073255273654013966) | 2026-07-04 |
+| [Synthia](https://x.com/AIwithSynthia) | [X / Twitter](https://x.com/AIwithSynthia/status/2073757965598044422) | 2026-07-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073255273654013966)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073757965598044422)**
 
 </div>
 
@@ -932,53 +1019,24 @@ Generates 16:9 sports posters fusing an exaggerated 3D cartoon athlete with a ph
 
 ---
 
-### No. 17: Rinpa-Style Decorative Portrait
+### No. 17: Whimsical Children's Book Illustration
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Reimagines the input image as a Rinpa-style Japanese painting, keeping the character's charm with gold ground, florals, flowing water, and bold negative space.
+Creates a soft and cheerful children's book illustration with bright colors, gentle textures, and storybook charm.
 
 #### 🌟 Prompt
 
-Based on the input image, reconstruct it as a decorative, poetic Japanese painting evoking the Rinpa school, …
-
-<details>
-<summary>Show full prompt</summary>
-
 ```
-Based on the input image, reconstruct it as a decorative, poetic Japanese painting evoking the Rinpa school, while firmly preserving the charm of the person or character.
-
-Most important is not to lose the original charm of the person or character in the input image. Firmly retain the core of what makes them who they are: facial features, the impression of the eyes, hairstyle, hair color, expression, bearing, and atmosphere. On top of that, translate the overall presentation, composition, background, negative space, and decorativeness into a Rinpa-like aesthetic sensibility.
-
-The goal is not merely to make it look Japanese or dress it in a kimono. Keeping the person's charm as the protagonist, reconstruct it as a work of art through Rinpa's characteristic bold negative space, flat color planes, refined decorativeness, flowing composition, and the atmosphere of gold ground or folding-screen paintings.
-
-First, carefully read the core of the person's charm from the input image. Especially value the impression of the face, the mood of the eyes, the flow of the hair, the emotional warmth of the expression, and the cuteness or stillness of the character. In the finished image, do not turn them into a different person; make the charm of the original image immediately recognizable.
-
-The pose and composition may be changed to make the finished image more attractive. Flexibly reconstruct the person's orientation, how the body is shown, the position of the hands, the gaze, and the cropping. However, do not lose the characteristic atmosphere of the person from the original image. Give the composition Rinpa-like refined negative space and a sense of flow across the picture. Do not arrange it too symmetrically; give it natural asymmetry and rhythm.
-
-In the background and decoration, incorporate motifs evoking Rinpa. Decoratively and tastefully arrange wide negative space that makes use of gold ground or soft base tones, flowing water, clouds, the flow of wind, flowers, branches, seasonal plants, and wave-like curves. However, do not cram in too many elements, and do not let the background become the protagonist. Treat the decoration as something that sets off the person.
-
-Express plants and natural motifs with Rinpa-like simplicity and stylization. Do not render them too realistically in detail; arrange them as flat, refined forms. Even when adding a sense of season, do not become too explanatory; treat it merely as the lyricism and decorativeness of the picture.
-
-Make the colors elegant and decorative in the Rinpa manner. Center on gold, unbleached tones, ink black, ultramarine, malachite green, vermilion, white, and soft grass tones, with a palette that is calm yet feels splendid. Avoid a modern neon feel, strong glow, and a glittery digital look. The coloring should be flat and orderly, showing beauty through its planes.
-
-The lines should be delicate and orderly; restrain the strong highlights and thick-paint feel of modern anime. Rather than overdoing three-dimensionality, prioritize flatness, decorativeness, and the beauty of negative space. While keeping the charm of the person's facial features from the original, give the whole picture the stillness and dignity of a painting.
-
-The costume need not reproduce the original image exactly, but redesign it so it naturally suits the person's charm. Even when leaning toward Japanese dress, do not make it mere kimono cosplay or overuse flashy Japanese patterns. Prioritize the harmony between the person and the whole picture over the costume itself.
-
-Do not include any legible text within the picture. Do not turn it excessively into a poster; aim for a level of completion that stands as a single painting.
-
-Overall, create a quiet yet splendid work in which the viewer first feels that "the charm of the original person or character is properly preserved," and on top of that feels that "it holds the beauty of negative space, decoration, gold ground, flowers, and flow that evokes Rinpa."
+Whimsical children's book illustration of a [subject] [doing something], soft and simple aesthetic, bright and cheerful colors, gentle textures, in the style of Clémence Guillemaud, storybook charm, imaginative and playful atmosphere.
 ```
-
-</details>
 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMWbnDSa8AAdGQ0.jpg" width="700" alt="Rinpa-Style Decorative Portrait">
+<img src="https://image.moge.ai/prompt_media/HMdZDubbgAAQazi.jpg" width="700" alt="Whimsical Children&#x27;s Book Illustration">
 </div>
 
 <br>
@@ -987,35 +1045,36 @@ Overall, create a quiet yet splendid work in which the viewer first feels that "
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [きー from KiAI](https://x.com/kiAI_stable) | [X / Twitter](https://x.com/kiAI_stable/status/2073234320383410216) | 2026-07-04 |
+| [Amira Zairi](https://x.com/azed_ai) | [X / Twitter](https://x.com/azed_ai/status/2073724103673180249) | 2026-07-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073234320383410216)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073724103673180249)**
 
 </div>
 
 ---
 
-### No. 18: Crimson Surreal Fashion Portrait
+### No. 18: Pink Outfit Mirror Selfie
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-A surreal fashion editorial portrait of a woman in white beside a crimson tiger against a deep blood-red background.
+Creates a realistic fashion portrait of a young woman taking a full-body mirror selfie in a baby pink outfit within a minimalist room.
 
 #### 🌟 Prompt
 
-Surreal fashion editorial portrait, woman in full white wide-brim hat and long structured white coat, …
+A full-body mirror selfie of a young East Asian woman with a stylish short dark purple-black bob haircut with …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Surreal fashion editorial portrait, woman in full white wide-brim hat and long structured white coat, platinum hair, facing camera with direct commanding gaze, massive tiger beside her with fur entirely saturated deep crimson red matching the background, tiger stripes visible in darker red tones, tiger's face turned toward camera mirroring her gaze, her gloved hand resting gently on tiger's head, deep blood-red solid background, white figure as sole contrast element, slight low angle, rich saturated red color grade, vertical 4:5 composition --ar 4:5 --v 6
+A full-body mirror selfie of a young East Asian woman with a stylish short dark purple-black bob haircut with soft layers and bangs, fair skin, subtle makeup with dark eyeliner. She is wearing a baby pink off-the-shoulder ruffled long-sleeve top with thin straps and front buttons, high-waisted baby pink pleated wide-leg trousers, and shiny black chunky platform loafers. She has a thin black choker necklace. She stands with one leg slightly crossed in front of the other, hip gently tilted, her left hand resting on her waist while her right hand holds a black smartphone up to take the photo.
+She stands in a minimalist modern room with plain light gray walls, dark wood baseboard, and gray concrete floor. On the left wall hangs a small framed picture of a Japanese torii gate at sunset. On the right is a dark wooden cabinet with a black vase containing dried branches. Soft natural lighting, realistic photography style, clean composition, neutral color palette with a focus on the baby pink outfit, fashion portrait, 8k detail.
 ```
 
 </details>
@@ -1023,7 +1082,7 @@ Surreal fashion editorial portrait, woman in full white wide-brim hat and long s
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMYnzdPbEAAWTBn.jpg" width="700" alt="Crimson Surreal Fashion Portrait">
+<img src="https://image.moge.ai/prompt_media/HMcZ9Nib0AABd4R.jpg" width="700" alt="Pink Outfit Mirror Selfie">
 </div>
 
 <br>
@@ -1032,109 +1091,50 @@ Surreal fashion editorial portrait, woman in full white wide-brim hat and long s
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Shahid Wani](https://x.com/meng_dagg695) | [X / Twitter](https://x.com/meng_dagg695/status/2073389192709820828) | 2026-07-04 |
+| [Sharon Riley](https://x.com/Just_sharon7) | [X / Twitter](https://x.com/Just_sharon7/status/2073654739598987333) | 2026-07-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073389192709820828)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073654739598987333)**
 
 </div>
 
 ---
 
-### No. 19: Starbucks Chase the Sun Summer Poster
+### No. 19: Dark Gourmet Food Poster System
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a premium Starbucks summer campaign poster set at a golden-hour beach club, with a hero iced beverage, lush food styling, and vibrant typography.
+Creates a vertical premium restaurant-brand poster on a dark background with a giant title, a single dish as the hero visual, and a bottom info bar.
 
 #### 🌟 Prompt
 
-CREATE AN ULTRA-PREMIUM STARBUCKS SUMMER CAMPAIGN TITLED: CHASE THE SUN. "Every sip tastes like summer." This …
+【Theme】: 【fill in the theme】 【Brand name】: 【fill in the English brand name】 【Chinese name】: 【fill in the …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-CREATE AN ULTRA-PREMIUM STARBUCKS SUMMER CAMPAIGN TITLED:
+【Theme】: 【fill in the theme】
+【Brand name】: 【fill in the English brand name】
+【Chinese name】: 【fill in the Chinese brand name】
+【Main title】: 【fill in the big headline】
+【English subtitle】: 【fill in the English subtitle】
+【Ratio】: 【3:4 / 4:5】
+【Main color】: 【fill in the main color】
+【Accent color】: 【fill in the accent color】
+【Hero food】: 【fill in the product】
+【Action/prop】: 【fill in the action/prop】
 
-CHASE THE SUN.
+Generate a 【Ratio】 vertical dark premium restaurant-brand poster with the theme 【Theme】. Use a fully original brand campaign design, without copying any text or information from reference cases; only learn the structure of "dark background + giant title + single food hero visual + a few design marks + bottom info bar".
 
-"Every sip tastes like summer."
+Use a 【Main color】 dark background with 【Accent color】 details. Place an original logo, the 【Brand name】 and the 【Chinese name】 in the top-left; a giant main title 【Main title】 in the upper part; and the English subtitle 【English subtitle】 in the top-right. In the mid-lower area, place a realistic, high-quality 【Hero food】, creating a being-enjoyed moment through 【Action/prop】, with clear food texture and a strong appetizing feel. Around it, add a few arcs, dashed lines, circular stamps, and annotation-style graphics. At the bottom, build a 4-column info module to form a complete brand system.
 
-This is NOT a simple product shot.
-
-This is NOT a café menu advertisement.
-
-This is Starbucks' premium global summer campaign—a vibrant lifestyle poster designed to feel like the first perfect beach day of the season.
-
-The setting is an upscale California beach club during golden hour. Crystal-clear turquoise water, white sand, swaying palm trees, striped cabanas, surfboards resting against weathered wood, and sun-kissed beachgoers create an atmosphere of effortless luxury. Everything glows under warm late-afternoon sunlight.
-
-The hero is a stunning Starbucks iced beverage served inside the brand's iconic transparent cup, elevated on a sculptural natural travertine pedestal placed directly on the sand. The drink features layered cold brew, creamy milk, caramel foam, crushed ice, and glossy caramel drizzle cascading over the whipped topping. Tiny droplets of condensation sparkle in the sunlight, making the drink look irresistibly cold.
-
-Instead of coffee being poured from above, a dramatic splash of chilled coconut cold foam and espresso ribbons swirl together in mid-air, frozen in a cinematic moment. Ice cubes, coffee beans, caramel shards, citrus slices, and tiny golden water droplets orbit around the drink as if caught in a warm ocean breeze.
-
-The foreground includes beach-inspired premium food styling:
-
-• Fresh butter croissant • Coconut cookies • Vanilla macarons • Fresh peaches • Pineapple wedges • Lime slices • Sea salt caramel pieces • Linen napkin • Straw beach hat • Designer sunglasses
-
-Typography is bold, playful, and premium.
-
-Massive handwritten brush lettering dominates the upper composition:
-
-CHASE THE SUN.
-
-Secondary typography:
-
-ICED NEVER LOOKED BETTER.
-
-Golden Hour in Every Sip.
-
-Made for Beach Days.
-
-Cold Coffee. Warm Memories.
-
-Small premium infographic callouts highlight features:
-
-✓ Freshly Brewed Espresso
-
-✓ Velvety Cold Foam
-
-✓ Salted Caramel Swirl
-
-✓ Ice-Cold Refreshment
-
-✓ Crafted for Summer
-
-Delicate hand-drawn doodles of waves, sunshine, palm leaves, surf lines, tiny stars, and handwritten vacation notes are subtly integrated throughout the design, giving it an energetic Gen Z editorial aesthetic without feeling cluttered.
-
-The color palette is bright, optimistic, and unmistakably summer:
-
-Ocean blue
-
-Turquoise
-
-Sand beige
-
-Warm cream
-
-Golden caramel
-
-Palm green
-
-Sunset orange
-
-White
-
-Natural wood
-
-Soft coral accents
-
-Lighting is warm golden hour with beautiful lens flares, realistic reflections, glowing highlights on the ice, vibrant beach atmosphere, premium food photography styling, luxury commercial advertising aesthetics, hyper-realistic textures, contemporary graphic design, collectible Starbucks campaign poster, globally recognizable premium branding, editorial layout, 8K ultra-detailed masterpiece.
+Overall it should be high-end, restrained, design-forward, and have a series feel, suitable for restaurant brand proposals and social media display. Avoid food distortion, wrong props, cheap promotional feel, cluttered layout, and low clarity.
 ```
 
 </details>
@@ -1142,7 +1142,7 @@ Lighting is warm golden hour with beautiful lens flares, realistic reflections, 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMXaUoabgAA9KIm.jpg" width="700" alt="Starbucks Chase the Sun Summer Poster">
+<img src="https://image.moge.ai/prompt_media/HMZOMA9aMAAxiJv.jpg" width="700" alt="Dark Gourmet Food Poster System">
 </div>
 
 <br>
@@ -1151,35 +1151,44 @@ Lighting is warm golden hour with beautiful lens flares, realistic reflections, 
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Hemayxn.ai](https://x.com/hemayxn) | [X / Twitter](https://x.com/hemayxn/status/2073303285591863507) | 2026-07-04 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2073430949141127577) | 2026-07-04 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073303285591863507)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073430949141127577)**
 
 </div>
 
 ---
 
-### No. 20: Cinematic Concept Art Illustration
+### No. 20: Ukiyo-e Football Samurai Warrior
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Transforms reference objects into a semi-realistic digital illustration with cinematic concept art aesthetics, bold brushstrokes, and high-contrast warm lighting.
+Creates an epic ukiyo-e style sports poster turning a legendary footballer into a samurai, with a national spirit guardian beast and Hokusai waves.
 
 #### 🌟 Prompt
 
-Using 100% likeness of (reference) objects, transformed into a dynamic, semi-realistic digital illustration …
+Epic Japanese ukiyo-e inspired sports poster featuring a legendary football player transformed into an …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Using 100% likeness of (reference) objects, transformed into a dynamic, semi-realistic digital illustration style with a cinematic concept art aesthetic, combining sharp anime-inspired rendering and high-end game splash art. Strong, angular brushstrokes with confident hand-painted strokes, clean yet expressive line accents, and artistic layered shading. High-contrast lighting with bright warm highlights and deep neutral shadows, creating dramatic depth and intensity. The color palette is dominated by warm ivory, soft beige, sand, light gray, charcoal, and bright orange as the main accents, with subtle black details. Smooth gradient transitions mixed with sharp edge highlights, realistic material rendering for metal, fabric, and hard surfaces. Energetic composition, highly detailed textures, bold and smooth silhouettes. No text, no logo, no watermark. AR 9:16.
+Epic Japanese ukiyo-e inspired sports poster featuring a legendary football player transformed into an ancient samurai warrior. The player wears highly detailed traditional samurai armor fused with his national football kit, including the country's crest and jersey number integrated into the armor. He stands heroically on rugged coastal cliffs in a powerful battle stance, gripping a beautifully crafted katana.
+
+Behind him rises a colossal spirit guardian animal representing the nation (lion, jaguar, eagle, shark, dragon, wolf, tiger, falcon, etc.), emerging dramatically from swirling waves, clouds, smoke, or divine energy. The guardian appears semi-transparent and mythical, protecting the warrior.
+
+Traditional Japanese aesthetics throughout: ukiyo-e woodblock print style, Hokusai-inspired crashing waves, ornate kimono fabric patterns, flowing cape with national flag colors, cherry blossoms, wind-blown leaves, ink splashes, ancient paper texture, Japanese calligraphy banners, red seal stamps, gold foil details, decorative borders, weathered parchment background.
+
+Color palette matches the nation's flag, with rich layered textures, dynamic lighting, intricate armor engravings, cinematic composition, dramatic atmosphere, highly detailed face, realistic anatomy, ultra-sharp focus, masterpiece illustration, fantasy realism, collectible poster design, premium sports artwork, museum-quality digital painting, ArtStation trending, 8K, vertical 2:3 composition.
+
+Style keywords:
+Japanese samurai, ukiyo-e, Hokusai waves, fantasy sports poster, mythical guardian beast, ancient warrior, traditional Japanese art, detailed armor, cinematic illustration, ornate patterns, epic composition, high-detail digital painting, masterpiece, ultra realistic illustration.
 ```
 
 </details>
@@ -1187,7 +1196,7 @@ Using 100% likeness of (reference) objects, transformed into a dynamic, semi-rea
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMUWVknXsAEsFmP.jpg" width="700" alt="Cinematic Concept Art Illustration">
+<img src="https://image.moge.ai/prompt_media/HMb0-joaYAAzCLv.jpg" width="700" alt="Ukiyo-e Football Samurai Warrior">
 </div>
 
 <br>
@@ -1196,13 +1205,13 @@ Using 100% likeness of (reference) objects, transformed into a dynamic, semi-rea
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [zayan](https://x.com/HustleXR) | [X / Twitter](https://x.com/HustleXR/status/2073087788858372604) | 2026-07-03 |
+| [Taaruk](https://x.com/Taaruk_) | [X / Twitter](https://x.com/Taaruk_/status/2073614059971531121) | 2026-07-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073087788858372604)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073614059971531121)**
 
 </div>
 
@@ -1460,25 +1469,23 @@ Creates a vertical romantic vintage travel poster for Turkey featuring giant cal
 
 ---
 
-### No. 23: Semi-Realistic Sketch Portrait
+### No. 23: Ukiyo-e Oni Samurai with Panther
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Creates a semi-realistic editorial portrait blending refined graphite and comic linework with a muted neutral palette and minimalist architectural background.
+Creates a dark-fantasy ukiyo-e illustration of an Oni samurai in an ornate kimono with a black panther companion amid ghostly flames.
 
 #### 🌟 Prompt
 
-Ultra-detailed semi-realistic digital sketch portrait blending refined graphite illustration, contemporary …
+Masterpiece, ultra-detailed Japanese ukiyo-e inspired illustration of a fearsome Oni Samurai wearing an …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Ultra-detailed semi-realistic digital sketch portrait blending refined graphite illustration, contemporary editorial portrait art, and subtle comic-book linework. Clean yet expressive ink contour lines with delicate cross-hatching and fine engraving textures. Soft natural skin rendering featuring realistic pores, faint freckles, gentle blush tones, translucent skin highlights, and smooth tonal transitions. Highly detailed eyes with glossy reflections, long natural eyelashes, and crisp eyebrow strands individually defined.
-Elegant hand-drawn aesthetic with meticulous facial detailing, subtle line-art shading, and painterly digital coloring. Hair rendered with ultra-fine flowing strands, layered volume, and realistic texture separation. Balanced fusion of sketch and realism where linework remains visible beneath smooth painterly surfaces. Soft ambient daylight illumination, diffused highlights, natural shadow gradients, and cinematic portrait contrast.
-Muted neutral color palette dominated by warm beige, soft ivory, pale taupe, dusty brown, muted charcoal, and gentle skin tones. Minimalistic architectural line-art background with light monochromatic outlines, low visual distraction, and refined depth. Sophisticated magazine-illustration quality, ultra-clean rendering, premium digital portrait craftsmanship, highly polished finish, realistic proportions, subtle elegance, and timeless contemporary portrait aesthetic.
+Masterpiece, ultra-detailed Japanese ukiyo-e inspired illustration of a fearsome Oni Samurai wearing an intricately patterned luxury kimono with ornate gold floral embroidery and large blue roses, traditional Hannya/Oni mask with curved horns, white tied-up hair, carrying dual katanas with highly decorated hilts. A massive black panther companion with glowing red eyes and bared fangs stands beside the warrior in an aggressive pose. Ethereal Japanese ghost flames and swirling smoke surround both figures, creating a supernatural aura. Rich indigo, cobalt blue, black, gold and ivory color palette with aged parchment washi paper background, traditional woodblock print texture, ink linework, hand-painted aesthetic, highly detailed textile patterns, botanical roses, dramatic composition, mythological Japanese folklore, dark fantasy, elegant yet terrifying, museum-quality ukiyo-e artwork, sharp intricate details, authentic Edo-period print style, vertical composition, 8K.
 ```
 
 </details>
@@ -1486,7 +1493,7 @@ Muted neutral color palette dominated by warm beige, soft ivory, pale taupe, dus
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMRw-U-bYAAQ4fp.jpg" width="700" alt="Semi-Realistic Sketch Portrait">
+<img src="https://image.moge.ai/prompt_media/HMc8nKoa0AATVvq.jpg" width="700" alt="Ukiyo-e Oni Samurai with Panther">
 </div>
 
 <br>
@@ -1495,76 +1502,36 @@ Muted neutral color palette dominated by warm beige, soft ivory, pale taupe, dus
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [zayan](https://x.com/HustleXR) | [X / Twitter](https://x.com/HustleXR/status/2072905952094040099) | 2026-07-03 |
+| [Anissa](https://x.com/SimplyAnnisa) | [X / Twitter](https://x.com/SimplyAnnisa/status/2073692804807532622) | 2026-07-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072905952094040099)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073692804807532622)**
 
 </div>
 
 ---
 
-### No. 24: Bright Summer Playground Portrait
+### No. 24: Monochrome Cinematic Beauty Portrait
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-Creates a vibrant editorial portrait at a summer playground, featuring a smiling model and lively handwritten typography full of youthful energy.
+Generates a black-and-white close-up female editorial portrait with dramatic cinematic lighting and strong facial identity preservation.
 
 #### 🌟 Prompt
 
-Use a series of playground photos as references for the scene and poses, keeping the subject's facial …
+Ultra-realistic IMAX-level Netflix-style cinematic black-and-white beauty portrait, 9:16 vertical …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Use a series of playground photos as references for the scene and poses, keeping the subject's facial features, smile, long hair, temperament, and realism, while fully blending into the original scene.
-
-The overall style is a bright summer playground photoshoot, with vivid colors, high but natural saturation, and strong visual contrast between the blue rubber ground, yellow play equipment, green pipes, metal slide, and red sneakers. The image should convey youthfulness, vitality, freedom, and the dynamic motion of wind-blown hair, like a blend of Japanese youth magazine photography and an energetic poster.
-
-The outfit keeps the playground style: a light yellow short-sleeve shirt, a loose bright blue long skirt or wide-leg pants, short white socks, red retro sneakers, and cute colorful hair clips. The expression should be naturally happy, with a genuine smile, not stiff, and without an AI feel.
-
-Preserve the pose, composition, camera angle, and emotion of each original photo: sitting on the ground holding a green pipe, hanging upside down on the play equipment, peeking out of a blue opening, sitting inside a metal slide, lying on the grass, moving between orange pillars, lying on the slide, waving upside down from the slide opening, crawling out of the round slide exit.
-
-Add irregular English typography around the image, with handwritten doodle fonts, rough brush lettering, chalk feel, torn feel, and free layout style. Text colors are mainly white and bright yellow, with small stars, hearts, arrows, smileys, and doodle lines. The English text should feel lively, not cover the subject's face, and blend naturally into the image.
-
-Keywords: bright summer playground, youthful energy, lively smile, free spirit, colorful editorial poster, handwritten typography, rough brush lettering, playful doodles, magazine cover style, dynamic motion, natural daylight, film-like softness, high saturation, vivid blue yellow red color palette, realistic face, no watermark.
-
-English typography text options:
-
-WILD JOY
-PLAY LOUD
-LIVING IN COLOR
-FREE ENERGY
-HELLO SUN
-JUMP INTO JOY
-FULL OF LIFE
-BRIGHT CHAOS
-SLIDE INTO FUN
-SPARK JOY
-LIFE MOVES
-PLAYFUL HEART
-FALL FOR LIFE
-NO GRAVITY
-WILD SPIRIT
-MOVE FREE
-HAPPY CHAOS
-PURE MOTION
-SHINE ON
-ALIVE NOW
-WAVE BRIGHT
-SEE YOU SMILE
-OUT TO PLAY
-LIFE IS NOW
-
-Negative prompt:
-
-Do not change the original scene structure, do not switch to indoors, no dark style, no gothic style, no sexualization, no exposure, no stiff expressions, no plastic skin, no excessive skin smoothing, do not turn into anime, no watermark, no Xiaohongshu watermark, no garbled text, do not cover the face, no extra fingers, no body deformation, no low resolution.
+Ultra-realistic IMAX-level Netflix-style cinematic black-and-white beauty portrait, 9:16 vertical composition, use the uploaded image as the primary facial reference with maximum face consistency and exact facial identity preservation, create a beautiful young adult woman in a dramatic close-up editorial portrait, her face turned slightly to the side and tilted upward with a mysterious soft intense expression, dreamy eyes looking away from the camera, relaxed brows, glossy naturally parted lips and quiet cinematic emotion, her luminous fair porcelain milky-white skin rendered in premium monochrome with ultra-smooth clean texture, soft glow and realistic facial depth, her long deep-black hair styled in messy wet-look waves with airy bangs and loose strands falling across her forehead and cheeks, wearing an elegant silky off-shoulder white satin shirt slipping softly from one shoulder, exposing the shoulder in a graceful fashion-editorial way, background deep dark and minimal with soft shadow gradients, lighting highly cinematic with strong directional window-light style, sharp shadow band crossing part of her face, glossy highlights on lips, hair and satin fabric, rich black-and-white contrast, soft skin glow, moody luxury atmosphere, shallow depth of field, HDR lighting, global illumination, photorealistic rendering, masterpiece quality, ultra-detailed hair texture, realistic satin folds, 8K production detail.
+Negative Prompt: bad anatomy, distorted face, identity mismatch, blurry eyes, uneven skin tone, overexposed highlights, messy shadow placement, unnatural lips, plastic skin, flat lighting, dull contrast, cartoon, anime, CGI look, text, watermark, logo, low quality.
 ```
 
 </details>
@@ -1572,7 +1539,7 @@ Do not change the original scene structure, do not switch to indoors, no dark st
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMYU9VqasAA64Mx.jpg" width="700" alt="Bright Summer Playground Portrait">
+<img src="https://image.moge.ai/prompt_media/HMZzYH6asAAfWH5.jpg" width="700" alt="Monochrome Cinematic Beauty Portrait">
 </div>
 
 <br>
@@ -1581,48 +1548,36 @@ Do not change the original scene structure, do not switch to indoors, no dark st
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [serein](https://x.com/you1873118) | [X / Twitter](https://x.com/you1873118/status/2073367738505113678) | 2026-07-04 |
+| [Gopal Tiwari](https://x.com/imGopalTiwari) | [X / Twitter](https://x.com/imGopalTiwari/status/2073595220092960951) | 2026-07-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073367738505113678)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073595220092960951)**
 
 </div>
 
 ---
 
-### No. 25: eSIM Travel Planning Diorama Scene
+### No. 25: Playful Doodle on Product Photo
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a premium travel-planning tabletop scene with a map, papercraft landmarks, and a smartphone showing an eSIM connectivity screen in mixed-media diorama style.
+Adds a hand-drawn black line-art doodle character with a handwritten text bubble on top of a realistic product photo, keeping a clean light background.
 
 #### 🌟 Prompt
 
-A premium travel-planning tabletop scene for [LOCATION], photographed from a slightly elevated angle. A …
-
-<details>
-<summary>Show full prompt</summary>
-
 ```
-A premium travel-planning tabletop scene for [LOCATION], photographed from a slightly elevated angle. A detailed map of [LOCATION] lies on a warm wooden desk under a cozy black desk lamp. Emerging from the map are handcrafted papercraft landmarks, iconic attractions, landscapes, and cultural highlights from [LOCATION], positioned in their approximate geographic locations.
-A tiny traveler character with a backpack and rolling suitcase follows a dotted red journey route across the map, creating a visual story of exploration. The traveler is mid-journey between destinations.
-A modern smartphone displays a "[LOCATION] eSIM" travel connectivity screen. Around the map are travel-planning accessories including a notebook itinerary, postcards, camera, passport, travel books, and local-themed souvenirs.
-Mixed-media diorama style, intricate papercraft architecture, layered paper terrain, miniature trees, realistic desk objects, warm cinematic lighting, shallow depth of field, highly detailed textures, editorial travel photography, Pinterest aesthetic, premium commercial advertising, ultra-realistic, 8k quality, rich storytelling, clean composition.
-Include these [LOCATION] highlights: [LANDMARK LIST].
-Color palette inspired by [LOCATION'S NATURAL/CULTURAL COLORS].
+Take this product photo and add a playful hand-drawn doodle character on top of it — simple black line-art style, cartoon arms and legs, expressive face showing [EMOTION]. Add a short handwritten-style text bubble saying '[CAPTION]'. Keep the product photo untouched and realistic, background clean white/light grey.
 ```
-
-</details>
 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMWMUThbkAEBgH2.jpg" width="700" alt="eSIM Travel Planning Diorama Scene">
+<img src="https://image.moge.ai/prompt_media/HMY43QFboAACZ3v.jpg" width="700" alt="Playful Doodle on Product Photo">
 </div>
 
 <br>
@@ -1631,73 +1586,39 @@ Color palette inspired by [LOCATION'S NATURAL/CULTURAL COLORS].
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [simeon-sanai](https://x.com/Naiknelofar788) | [X / Twitter](https://x.com/Naiknelofar788/status/2073217493913801191) | 2026-07-04 |
+| [simeon-sanai](https://x.com/Naiknelofar788) | [X / Twitter](https://x.com/Naiknelofar788/status/2073407209753788771) | 2026-07-04 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073217493913801191)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073407209753788771)**
 
 </div>
 
 ---
 
-### No. 26: Type Couture Fashion Editorial
+### No. 26: Pop-Up Avatar Leaping From a Book
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Creates a high-end fashion editorial poster where oversized typography becomes part of the composition, with the model and garments interacting with the letters.
+Turns your reference avatar into a delicate paper-craft figure rising from a luxurious pop-up book, with festive colors and commercial-photo quality.
 
 #### 🌟 Prompt
 
-Create a high-end type couture editorial poster where typography becomes part of the fashion composition. …
+Aspect ratio: {change here} Make the avatar in the attached reference image the sole protagonist, faithfully …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a high-end type couture editorial poster where typography becomes part of the fashion composition.
+Aspect ratio: {change here}
 
-Theme: [fashion campaign / couture poster / lookbook / designer editorial / luxury visual]
-Direction: [circular window luxury editorial / stacked type seated poster / transparent typography garment / diagonal motion fashion editorial]
-Brand name: [original fictional brand name]
-Main title: [original title]
-Subtitle: [short original subtitle]
-Subject: [adult fashion model / coat look / seated menswear look / experimental garment / walking couture look]
-Mood: [luxury / minimal / experimental / elegant / structured / editorial]
-Color palette: [cream-white-black / soft grey / black-white / warm neutral]
-Aspect ratio: [9:16]
+Make the avatar in the attached reference image the sole protagonist, faithfully preserving face, hairstyle, hair color, eyes, outfit, color scheme, and expression; do not turn it into a different character. Composition optimized for the specified aspect ratio. A luxurious hardcover pop-up art book opened on a fine desk. From the center of the page, the avatar rises as an ornate, precise paper-craft piece. Realistically render multiple layers of colored paper, creases, cuts, tabs, paper edges, matte-paper, pearl-paper, and foil-stamping-like accents, with delicate shadows and depth. Based on the reference image's colors, stars, petals, clouds, ribbons, light particles, and geometric frames spread out festively. Bright and vivid, elegant and lavish, soft natural light, gentle bokeh, commercial-photo quality, eye-catching on social media.
 
-The poster should feel like a premium fashion campaign, designer lookbook page or couture editorial.
-
-Use oversized typography as part of the visual structure, not just as a title.
-Make the words interact with the model, garment or space through overlap, masking, cropping, transparency, diagonal slicing, circular framing or spatial layering.
-
-Choose one direction:
-
-1. Circular window luxury editorial
-   Use a clean white background, a large circular image window, a full-body fashion model in a luxury coat, and refined serif typography. Let the model stand in front of the circular scene.
-
-2. Stacked type seated poster
-   Use huge black block letters as a background structure. Place a seated fashion model in front of the letters, with the chair and body partially overlapping the type.
-
-3. Transparent typography garment
-   Use a walking fashion model wearing a transparent outer layer covered with original letterforms, thin lines and abstract typography, as if text becomes fabric.
-
-4. Diagonal motion fashion editorial
-   Use a walking couture model with flowing white fabric. Add large diagonal typography bands cutting across the composition, matching the motion of the garment.
-
-Keep all text original.
-Do not use real brand names, real magazine names, issue numbers, dates, barcodes, URLs, watermarks, copyright marks or reference-image wording.
-
-Keep it refined, original, editorial and visually designed.
-
-Avoid cheap templates, cluttered layouts, random small text, fake logos, messy typography, distorted anatomy, broken hands, plastic skin and low-end fashion ad style.
-
-Generate one finished poster only.
+Negative: existing logos, company names, personal names, real names, URL, QR, barcode, signatures, watermarks, celebrities, famous characters, existing-work style, garbled text, long text, low resolution, distorted book, broken paper craft, extra people, face/hairstyle/outfit/color scheme different from the reference, turning into a different character, dull, dark, overly muted, cluttered background, excessive props, plastic, 3D figure, toy-like feel, chrome-like feel, glassy texture
 ```
 
 </details>
@@ -1705,7 +1626,7 @@ Generate one finished poster only.
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMUDAFeXMAAcrON.jpg" width="700" alt="Type Couture Fashion Editorial">
+<img src="https://image.moge.ai/prompt_media/HMbwBfsbwAA-XpS.jpg" width="700" alt="Pop-Up Avatar Leaping From a Book">
 </div>
 
 <br>
@@ -1714,13 +1635,13 @@ Generate one finished poster only.
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2073066567328321783) | 2026-07-03 |
+| [AIライフハック](https://x.com/ai_lifehack55) | [X / Twitter](https://x.com/ai_lifehack55/status/2073608935441871107) | 2026-07-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073066567328321783)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073608935441871107)**
 
 </div>
 
@@ -1880,25 +1801,23 @@ Creates a vibrant travel-themed paper cutout collage poster with bold central ty
 
 ---
 
-### No. 29: Dreamy Canal-Side Portrait
+### No. 29: Fox & Rat Samurai in Sumi-e
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-A cinematic scratch-pen illustration of a pensive young woman sitting by a European-style urban canal.
+A monochrome sumi-e ink illustration of two anthropomorphic samurai — a fox and a rat — standing back-to-back in Edo kimonos with katanas.
 
 #### 🌟 Prompt
 
-Ultra-realistic IMAX-level Netflix-style cinematic scratch-pen illustration portrait, 9:16 vertical …
+Masterpiece Japanese sumi-e ink wash illustration of two anthropomorphic samurai warriors standing …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Ultra-realistic IMAX-level Netflix-style cinematic scratch-pen illustration portrait, 9:16 vertical composition, create a beautiful young adult woman sitting peacefully beside a calm city canal in a dreamy European-style urban park, captured in an elegant side-profile pose with one knee raised, one elbow resting on her knee and her chin softly supported by her hand, her face turned upward with a calm thoughtful expression, relaxed brows, soft dreamy eyes, naturally defined lips and quiet artistic emotion, her luminous fair porcelain milky-white skin rendered through delicate scratch-pen shading, fine ink lines and soft grey wash highlights, her hair styled in a loose messy low bun with airy strands and natural movement around her face, wearing a loose oversized grey shirt with rolled sleeves, a flowing black skirt, white chunky sneakers, a slim wristwatch and a black crossbody bag resting near her side, surrounded by peaceful city-life details including white seagulls near her feet, koi fish swimming in the reflective canal water, people sitting on benches, a man reading a newspaper, soft urban crowds, old street lamps, railings, elegant classical buildings, distant tower architecture, leafy trees and a serene riverside walkway, artwork style must look like a premium scratch-pen design with fine black ink outlines, visible cross-hatching, etched line texture, soft pencil-like grey shading, muted pastel watercolor accents, hand-drawn architectural details, delicate bird feather strokes, water ripple sketch marks and clean ivory paper texture, lighting soft and cinematic with gentle daylight glow, subtle highlights on her face, hair, clothes and water surface, ultra-rich but soft color harmony with ivory paper tones, pale grey shadows, muted green foliage, soft blue water reflections and refined black ink contrast, premium editorial illustration mood, highly detailed linework, artistic sketchbook finish, masterpiece quality.
-
-Negative Prompt: photorealistic camera look, oil painting, heavy watercolor wash, messy linework, distorted face, bad anatomy, extra fingers, blurry details, harsh colors, flat shading, poor perspective, unreadable background, text, watermark, logo, low quality.
+Masterpiece Japanese sumi-e ink wash illustration of two anthropomorphic samurai warriors standing back-to-back in a calm yet powerful pose, one an elegant white fox with sharp ears and multiple flowing tails, the other a noble rat with realistic facial features and rounded ears. Both wear traditional Edo-period kimono and layered haori robes with worn fabric textures, each carrying two authentic katana swords tucked into the obi. The fox grips the katana hilt with quiet confidence while the rat stands vigilant, symbolizing loyalty and wisdom. Minimalist white rice-paper background with expressive black ink splashes, watercolor bleeding, dry-brush textures, bold calligraphic brush strokes, dynamic ink splatter, fine cross-hatching, delicate pen linework, Zen aesthetics, wabi-sabi composition, traditional Japanese brush painting, manga-inspired ink illustration, monochrome black and white palette with only small red hanko seals and vertical kanji calligraphy, ultra-detailed, high contrast, handcrafted ink texture, negative space, museum-quality concept art, cinematic composition, elegant lighting, sharp focus, 8K, vertical 9:16.
 ```
 
 </details>
@@ -1906,7 +1825,7 @@ Negative Prompt: photorealistic camera look, oil painting, heavy watercolor wash
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMPycZnbsAARDON.jpg" width="700" alt="Dreamy Canal-Side Portrait">
+<img src="https://image.moge.ai/prompt_media/HMcJAJXbUAA1M2f.jpg" width="700" alt="Fox &amp; Rat Samurai in Sumi-e">
 </div>
 
 <br>
@@ -1915,35 +1834,39 @@ Negative Prompt: photorealistic camera look, oil painting, heavy watercolor wash
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Gopal Tiwari](https://x.com/imGopalTiwari) | [X / Twitter](https://x.com/imGopalTiwari/status/2072840244890902931) | 2026-07-03 |
+| [Simply Ray](https://x.com/kingofdairyque) | [X / Twitter](https://x.com/kingofdairyque/status/2073636057019797543) | 2026-07-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072840244890902931)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073636057019797543)**
 
 </div>
 
 ---
 
-### No. 30: Dreamy Editorial Porsche Portrait
+### No. 30: Golden Hour Floral Portrait
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-Creates a minimalist editorial fashion photo of a young woman on a vintage pink Porsche 356, shot low-angle against a towering cloud and blue summer sky.
+An ultra-realistic editorial portrait of a woman covering her face with a flower-adorned hand in warm golden-hour light.
 
 #### 🌟 Prompt
 
-A dreamy editorial fashion photograph of a minimalist young woman sitting gracefully on the roof of a vintage …
+Ultra-realistic portrait photography of a young woman with long wavy dark brown hair, wearing an oversized …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-A dreamy editorial fashion photograph of a minimalist young woman sitting gracefully on the roof of a vintage pastel pink Porsche 356, photographed from a dramatic low-angle perspective against an enormous towering cumulus cloud filling the background. The composition emphasizes vast negative space with a rich deep-blue summer sky, creating a peaceful, cinematic atmosphere. She wears a clean white raglan T-shirt with light gray sleeves, oversized navy wide-leg linen trousers, and simple brown leather slide sandals. Short dark bob haircut gently tousled by the breeze, subtle silver earrings and bracelet, relaxed natural makeup, calm contemplative expression with closed or softly gazing eyes.
+Ultra-realistic portrait photography of a young woman with long wavy dark brown hair, wearing an oversized vintage brown leather jacket, standing outdoors in front of a rustic stone wall during golden hour. She covers most of her face with one hand placed vertically over her eyes and nose, creating a mysterious aesthetic. Fresh colorful flowers are attached to her hand and fingers: a deep purple flower centered on the hand, a bright red flower on one finger, and a soft pink flower near the wrist. A pale pink daisy-like flower is tucked behind her ear. Warm sunlight illuminates her hair and jacket from the side, creating rich highlights, soft shadows, and cinematic contrast. Natural skin texture, realistic hair strands, shallow depth of field, creamy background bokeh, moody editorial fashion style, candid composition, soft earthy tones, highly detailed, DSLR photography, 85mm lens, f/1.8, photorealistic, ultra sharp focus, 8K quality, natural outdoor lighting, luxury fashion magazine aesthetic, vertical portrait, centered composition.
+
+Negative Prompt:
+
+blurry, low quality, extra fingers, distorted hand, visible full face, overexposed lighting, cartoon, anime, CGI, unrealistic flowers, duplicate flowers, bad anatomy, plastic skin, watermark, text, logo, cropped hand, deformed eyes, oversaturated colors, noisy background, artificial lighting, motion blur.
 ```
 
 </details>
@@ -1951,7 +1874,7 @@ A dreamy editorial fashion photograph of a minimalist young woman sitting gracef
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMWq7cHaEAAqAq0.jpg" width="700" alt="Dreamy Editorial Porsche Portrait">
+<img src="https://image.moge.ai/prompt_media/HMZhTZPaIAEh7Wi.jpg" width="700" alt="Golden Hour Floral Portrait">
 </div>
 
 <br>
@@ -1960,67 +1883,35 @@ A dreamy editorial fashion photograph of a minimalist young woman sitting gracef
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [K](https://x.com/ChillaiKalan__) | [X / Twitter](https://x.com/ChillaiKalan__/status/2073251156739211475) | 2026-07-04 |
+| [auqib](https://x.com/auqibhabib) | [X / Twitter](https://x.com/auqibhabib/status/2073451701089320968) | 2026-07-04 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073251156739211475)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073451701089320968)**
 
 </div>
 
 ---
 
-### No. 31: Premium Detergent Ad Poster
+### No. 31: Retro Motorsport Car Poster
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a premium detergent ad poster with a smiling model holding the product, bubble and water effects, and rich marketing typography.
+Generates a vertical vintage motorsport poster featuring a low-angle front hero shot of a car, geometric graphic elements, and a distressed, sun-bleached print editorial finish.
 
 #### 🌟 Prompt
 
-Create a premium, high-end advertising poster for a laundry detergent brand. A smiling young Black man stands …
+Retro motorsport poster for [CAR], 4:5 vertical. Show a front-facing low-angle hero view of the [COLOR] …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a premium, high-end advertising poster for a laundry detergent brand. A smiling young Black man stands confidently in a modern laundry room, holding a large detergent package with both hands at chest level, looking directly at the camera with a friendly, trustworthy expression. The detergent packaging is the main focal point, featuring a vibrant blue and white color palette with glossy finish, dynamic water splash effects, soap bubbles, sparkling highlights, neatly folded white clothes, and a premium household cleaning brand aesthetic.
-
-The background is a bright, modern laundry room with washing machines softly blurred using shallow depth of field. Add realistic floating bubbles, water droplets, glowing light rays, and fresh blue gradients throughout the composition to create a clean, refreshing atmosphere.
-
-On the left side, include a bold marketing headline in large modern typography: "BRIGHTER CLEAN, FRESHER CONFIDENCE!"
-
-Below it, place a short marketing message: "Powerful clean. Long-lasting freshness. For you and your family."
-
-Add a vertical list of premium feature icons:
-
-Brightens Whites
-
-Long Lasting Freshness
-
-Effective Stain Removal
-
-Suitable for Front & Top Load
-
-Add a red and blue "NEW IMPROVED FORMULA" ribbon badge in the top-left corner and a premium shield badge in the top-right corner reading: "Removes Tough Stains Even in Cold Water."
-
-At the bottom, create a bold promotional banner with the text: "DEEP CLEAN THAT CARES EVERY DAY"
-
-Add four premium circular icons with captions:
-
-Powerful on Stains
-
-Gentle on Fabrics
-
-Fresh Ocean Scent
-
-Cleaner Home
-
-Use premium commercial advertising lighting, ultra-realistic product photography, glossy reflections, vibrant blue and white branding, cinematic composition, luxury FMCG packaging design, highly detailed typography, realistic skin texture, magazine-quality layout, global detergent brand aesthetic, photorealistic, 8K, ultra-sharp, professional print-ready advertising poster, award-winning creative direction.
+Retro motorsport poster for [CAR], 4:5 vertical. Show a front-facing low-angle hero view of the [COLOR] [CAR], centered in the composition on [SCENERY]. Build the background with minimalist scenic depth and layered graphic design elements: a large sun shape, overlapping geometric blocks, angled panels, soft stripes, translucent shapes, and clean negative space, all blended into the scenery. Add a bold title reading “[TITLE]” at the top, a small [BRAND] logo, and a short slogan reading “[SLOGAN]”. Use [PALETTE], vintage print fading, distressed paper texture, subtle scratches, slightly sun-bleached tones, crisp automotive detail, poster-style symmetry, and a refined race-inspired editorial finish.
 ```
 
 </details>
@@ -2028,7 +1919,7 @@ Use premium commercial advertising lighting, ultra-realistic product photography
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMU78W9XsAA9zTg.jpg" width="700" alt="Premium Detergent Ad Poster">
+<img src="https://image.moge.ai/prompt_media/HMXx1YLb0AA95AL.jpg" width="700" alt="Retro Motorsport Car Poster">
 </div>
 
 <br>
@@ -2037,39 +1928,67 @@ Use premium commercial advertising lighting, ultra-realistic product photography
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Abkr Sadiq](https://x.com/abs_uiux) | [X / Twitter](https://x.com/abs_uiux/status/2073129126152524005) | 2026-07-03 |
+| [Simply Ray](https://x.com/kingofdairyque) | [X / Twitter](https://x.com/kingofdairyque/status/2073329110059978822) | 2026-07-04 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073129126152524005)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073329110059978822)**
 
 </div>
 
 ---
 
-### No. 32: Miniature Pizza Workshop Diorama
+### No. 32: Papercraft Travel Collectible Bookmark
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Creates an ultra-realistic macro tilt-shift diorama of miniature chefs unloading a giant pizza in an Italian village built from food.
+Creates a collectible 2:3 travel bookmark with a layered papercraft diorama of the destination, 3D clay miniatures, and a premium handcrafted souvenir aesthetic.
 
 #### 🌟 Prompt
 
-Create an ultra-realistic miniature diorama of a tiny pizza production team preparing a giant freshly baked …
+Create a premium vertical 2:3 collectible travel bookmark featuring {LOCATION}. The bookmark should be a …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create an ultra-realistic miniature diorama of a tiny pizza production team preparing a giant freshly baked pepperoni pizza. Dozens of miniature chefs wearing white uniforms and chef hats carefully unload the oversized pizza from the back of a vintage delivery truck using wooden ramps. Some workers push the pizza into place while others coordinate from the truck roof beside crates of fresh tomatoes and kitchen tools. Thick steam rises from the hot pizza, emphasizing its freshness.
-
-The scene is set on a charming cobblestone street designed to resemble a tiny Italian village. The road is creatively made from rich tomato sauce, while finely grated parmesan cheese forms the sidewalks. Rustic bread houses line the streets, vintage lamp posts illuminate the scene, wooden crates, pizza peels, spatulas, fresh basil leaves, tomatoes, cheese blocks, and scattered kitchen utensils enhance the playful atmosphere. Tiny workers continue construction and food preparation throughout the miniature world.
-
-Use a macro tilt-shift perspective with an extremely shallow depth of field to create the illusion of a handcrafted miniature model. Warm cinematic lighting, ultra-realistic food textures, crispy pizza crust, melted mozzarella, glossy pepperoni, vibrant basil, volumetric steam, premium food photography, whimsical storytelling, Pixar-inspired realism, intricate miniature craftsmanship, highly detailed, commercial advertising quality, 8K.
+Create a premium vertical 2:3 collectible travel bookmark featuring {LOCATION}.
+The bookmark should be a tall, rounded-corner cardstock bookmark resting at a subtle 7° clockwise angle on a warm cream textured background with generous negative space. The bookmark has realistic paper thickness, soft embossed texture, smooth rounded edges, and a centered punch hole with a short braided tassel whose colors are inspired by {LOCATION}. Add soft natural shadows to make it feel like a real handcrafted souvenir.
+The upper two-thirds of the bookmark showcases a breathtaking layered papercraft diorama of {LOCATION}, highlighting its most iconic landmarks, landscapes, architecture, flora, and cultural elements. Build the scene using stacked paper layers with visible cut edges, realistic paper textures, dimensional shadows, and rich handcrafted detail. The scene should immediately evoke the destination while remaining elegant and uncluttered.
+Use a vibrant destination-inspired color palette while maintaining a premium handcrafted aesthetic.
+At the top, use large hand-painted brush lettering similar to a modern travel poster.
+Headline:
+EXPLORE {LOCATION}
+Below the title, include a short travel-inspired tagline (6–10 words) that captures the spirit of the destination.
+The lower third transitions into a soft ivory panel with subtle cultural decorative accents inspired by {LOCATION}.
+Section title:
+YOUR {LOCATION} EXPERIENCE
+Include three premium 3D clay miniature cards with rounded corners and soft shadows representing:
+Iconic Landmarks
+Nature & Scenic Beauty
+Local Cuisine or Culture
+Each clay miniature should have a handcrafted matte finish with charming proportions and vibrant colors.
+Add a large rounded call-to-action button reading:
+START EXPLORING
+Decorate the bookmark subtly using motifs inspired by {LOCATION}, such as geometric borders, traditional patterns, native flowers, leaves, waves, symbols, or architectural details. Keep these accents elegant and minimal.
+The overall style should feel like a luxury travel keepsake, combining:
+layered papercraft
+premium 3D clay miniatures
+handcrafted paper textures
+soft natural lighting
+realistic shadows
+collectible souvenir aesthetic
+warm studio photography
+highly detailed
+vibrant
+whimsical yet sophisticated
+ultra-realistic
+8K quality
+Avoid mobile app UI elements, device frames, navigation icons, hearts, menus, or interface buttons. The final composition should look like a premium handcrafted bookmark photographed on a tabletop, suitable for a luxury travel collection.
 ```
 
 </details>
@@ -2077,7 +1996,7 @@ Use a macro tilt-shift perspective with an extremely shallow depth of field to c
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMUCqETaQAEj9Ol.jpg" width="700" alt="Miniature Pizza Workshop Diorama">
+<img src="https://image.moge.ai/prompt_media/HMbexJFasAAy_G_.jpg" width="700" alt="Papercraft Travel Collectible Bookmark">
 </div>
 
 <br>
@@ -2086,13 +2005,13 @@ Use a macro tilt-shift perspective with an extremely shallow depth of field to c
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Synthia](https://x.com/AIwithSynthia) | [X / Twitter](https://x.com/AIwithSynthia/status/2073066136175005977) | 2026-07-03 |
+| [simeon-sanai](https://x.com/Naiknelofar788) | [X / Twitter](https://x.com/Naiknelofar788/status/2073589668839633280) | 2026-07-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073066136175005977)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073589668839633280)**
 
 </div>
 
@@ -2203,61 +2122,24 @@ Create a vibrant spiral-bound notebook style Brazil FIFA World Cup 2026 poster f
 
 ---
 
-### No. 35: Quiet Minimalist Pastel Anime Style
+### No. 35: Layered Paper-Cut Craft Illustration
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-A style director that applies a minimalist, pastel, and serene anime aesthetic to any subject, using simplified forms, soft cel shading, and little to no line art.
+Creates a handmade paper-cut illustration with colorful layered paper textures, soft depth shadows, and a playful modern aesthetic.
 
 #### 🌟 Prompt
 
-You are a visual style director for a quiet minimalist anime inspired illustration style. Apply this style to …
-
-<details>
-<summary>Show full prompt</summary>
-
 ```
-You are a visual style director for a quiet minimalist anime inspired illustration style. Apply this style to any subject the user provides, including characters, animals, objects, interiors, landscapes, architecture, fantasy scenes, symbolic compositions, and still life subjects.
-
-The style is defined by restraint, silence, soft shape design, and clear emotional atmosphere. Do not chase realism. Do not add excessive detail. Do not decorate the image beyond what the subject requires. The final image should feel calm, suspended, pale, and dreamlike, as if built from simple color planes and gentle light.
-
-Use a soft pastel color palette with low saturation. Favor misty blue, grey green, warm ivory, pale rose, soft lavender, muted beige, off white, charcoal black, and washed sky tones. Keep contrast gentle. Dark values may appear in hair, silhouettes, trees, shadows, or small anchors, but they should not overpower the image.
-
-Use clean simplified forms. Build the subject from broad readable shapes. Edges should be smooth and controlled. Details should be reduced to their most essential visual function. Clothing, fur, feathers, leaves, water, stone, glass, and clouds should be suggested through shape, tone, and rhythm rather than through dense texture.
-
-Use no line art or very low line art. Avoid heavy outlines. Separate forms through color boundaries, soft shadow shapes, and subtle value shifts. The image should look designed rather than rendered.
-
-Use soft cel shading. Shadows should be flat, simple, and quiet, with two or three main value steps. Avoid glossy highlights, hard rim lighting, intense bloom, dramatic contrast, and heavy painterly brushwork. Lighting should feel diffused, like an overcast sky, pale morning, late afternoon haze, or reflected light near water.
-
-For character subjects, use anime inspired proportions and a delicate silhouette. Faces may be simplified, faceless, or minimally indicated depending on the subject request. Hair should be treated as a strong graphic shape with a few flowing strands. Poses should feel still, inward, modest, and composed. Avoid exaggerated expression, theatrical gesture, and busy costume detail.
-
-For animal subjects, simplify the anatomy into soft masses and clear silhouettes. Eyes, ears, tails, wings, paws, horns, scales, or feathers should be reduced to elegant readable shapes. Preserve the animal’s identity without turning it into a realistic wildlife study.
-
-For object subjects, treat the object like a quiet emblem. Use clean shape, soft contact shadow, limited detail, and gentle color separation. The object should feel placed in air and light rather than photographed.
-
-For landscapes and environments, use layered flat shapes. Distant trees, hills, buildings, water, sky, clouds, paths, windows, and reflections should be simplified into calm bands and planes. Atmosphere is more important than precision. Use negative space generously.
-
-Composition should be calm and uncluttered. Center the subject or place it slightly off center with careful balance. Leave breathing room around the main form. Use background elements to frame the subject softly, not to compete with it.
-
-The mood should be quiet, ethereal, wistful, and clear. Avoid melodrama. Avoid horror unless the user explicitly asks for it, and even then keep the style restrained and poetic rather than graphic.
-
-Do not use generic quality tags or empty promotional language. Avoid phrases such as masterpiece, best quality, ultra detailed, hyper realistic, cinematic, award winning, stunning, breathtaking, insanely detailed, trending, perfect anatomy, professional render, 8k, or beautiful lighting. Describe only the actual visual decisions that shape the image.
-
-Do not add text, logos, watermarks, signatures, captions, interface elements, or decorative borders unless the user explicitly requests them.
-
-Do not sexualize subjects. Do not add fetishized posing, revealing emphasis, explicit anatomy, or voyeuristic framing. Keep the image suitable for a refined illustration portfolio.
-
-When adapting the style to a new subject, preserve these constants: pastel restraint, simplified forms, soft cel shading, low or absent outlines, quiet composition, gentle atmosphere, reduced detail, and an inward dreamlike mood.
+A paper-cut craft illustration of a [subject], layered colorful paper textures, soft drop depth effect, handmade craft appearance, clean layered composition, playful and modern design aesthetic.
 ```
-
-</details>
 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMP0XinWwAEtkmU.jpg" width="700" alt="Quiet Minimalist Pastel Anime Style">
+<img src="https://image.moge.ai/prompt_media/HMYmpQcXYAAtfvg.jpg" width="700" alt="Layered Paper-Cut Craft Illustration">
 </div>
 
 <br>
@@ -2266,35 +2148,73 @@ When adapting the style to a new subject, preserve these constants: pastel restr
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Emily](https://x.com/IamEmily2050) | [X / Twitter](https://x.com/IamEmily2050/status/2072769110426136659) | 2026-07-02 |
+| [Zephyra Leigh](https://x.com/ZephyraLeigh) | [X / Twitter](https://x.com/ZephyraLeigh/status/2073387175950082282) | 2026-07-04 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072769110426136659)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073387175950082282)**
 
 </div>
 
 ---
 
-### No. 36: Luxury Salon Long-Hair Portrait
+### No. 36: 3×3 Character Collage of One Woman
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-Creates an ultra-realistic cinematic portrait of a young woman with long wavy black hair in a luxury salon lit by golden bokeh.
+Creates a top-down 3×3 editorial collage of the same woman in nine characters, with hand-drawn black doodles on a minimalist white background.
 
 #### 🌟 Prompt
 
-A cinematic 8K high-resolution portrait of a stunning young woman with striking green eyes, subtle freckles, …
+A professional 3×3 collage featuring the same beautiful young woman from the reference image, maintaining …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-A cinematic 8K high-resolution portrait of a stunning young woman with striking green eyes, subtle freckles, rosy cheeks, and soft Douyin-style makeup featuring coral lipstick. She has extremely long, voluminous, and wavy jet-black hair flowing past her waist. She is wearing an elegant all-black outfit consisting of a button-up shirt and a matching skirt. She is standing inside a luxury salon background with warm, golden bokeh lighting. In the background, there is a prominent black and gold sign that reads "HAIR FANTASY ACADEMY - WHERE EXTRAORDINARY HAIR BECOMES REALITY" with a stylized hair logo. The shot is captured with a professional DSLR camera, highly detailed texture, realistic skin pores, and a sophisticated, ultra-realistic fashion photography style.
+A professional 3×3 collage featuring the same beautiful young woman from the reference image, maintaining identical facial features, hairstyle, eyeglasses, body proportions, and appearance across all nine panels. She is photographed from a top-down perspective lying on a soft white textured blanket with bright natural lighting and a clean minimalist white background. Each panel tells a unique visual story through playful hand-drawn black doodle illustrations that interact naturally with her pose. Ultra-realistic editorial photography, Instagram viral trend, magazine-quality composition, consistent character identity, ultra-sharp 8K detail.
+
+Panel 1 – Astronaut
+
+The woman wears a modern white astronaut suit with subtle blue accents. She floats through hand-drawn planets, stars, satellites, and a rocket. Curious and adventurous expression.
+
+Panel 2 – Mermaid
+
+She wears a shimmering teal mermaid tail with a seashell top. Hand-drawn coral reefs, bubbles, fish, starfish, and waves surround her. Peaceful underwater pose.
+
+Panel 3 – Chef
+
+She wears a professional chef uniform with an apron and chef hat. Hand-drawn frying pans, vegetables, recipes, and cooking utensils create a lively kitchen scene. Happy smile.
+
+Panel 4 – Detective
+
+She wears a beige trench coat, black boots, and a detective hat while holding a magnifying glass. Hand-drawn footprints, clues, question marks, and a city map surround her. Curious expression.
+
+Panel 5 – Artist
+
+She wears denim overalls over a white T-shirt. Hand-drawn paint brushes, color splashes, palettes, pencils, and easels surround her while she pretends to paint the background. Creative and cheerful mood.
+
+Panel 6 – Gamer
+
+She wears a colorful oversized hoodie, shorts, and sneakers. Hand-drawn game controllers, keyboards, headphones, lightning bolts, coins, and pixel hearts float around her. Excited expression.
+
+Panel 7 – Scientist
+
+She wears a white lab coat, safety goggles, and gloves. Hand-drawn chemistry beakers, molecules, formulas, atoms, and bubbling experiments surround her. Fascinated expression.
+
+Panel 8 – Pilot
+
+She wears a stylish airline pilot uniform with aviator sunglasses. Hand-drawn airplanes, clouds, airport runway, luggage, and travel stamps complete the scene. Confident smile.
+
+Panel 9 – Magician
+
+She wears an elegant black magician's suit with a top hat and white gloves. Hand-drawn magic cards, rabbits, stars, sparkles, and a wand create an enchanting illusion. Playful mysterious smile.
+
+Overall Style: Minimalist white aesthetic, playful hand-drawn black doodles, whimsical storytelling, premium flat-lay composition, luxury editorial photography, soft natural lighting, consistent facial identity across every panel, ultra-realistic human anatomy, crisp details, clean shadows, Instagram-worthy viral aesthetic, 8K.
 ```
 
 </details>
@@ -2302,7 +2222,7 @@ A cinematic 8K high-resolution portrait of a stunning young woman with striking 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMUfQpHXUAA2LRW.jpg" width="700" alt="Luxury Salon Long-Hair Portrait">
+<img src="https://image.moge.ai/prompt_media/HMYsfTcacAAKfBz.jpg" width="700" alt="3×3 Character Collage of One Woman">
 </div>
 
 <br>
@@ -2311,79 +2231,109 @@ A cinematic 8K high-resolution portrait of a stunning young woman with striking 
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Talia](https://x.com/TaliaAariz) | [X / Twitter](https://x.com/TaliaAariz/status/2073097579860988361) | 2026-07-03 |
+| [Smiling Khan](https://x.com/AIwithkhan) | [X / Twitter](https://x.com/AIwithkhan/status/2073393598197051834) | 2026-07-04 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073097579860988361)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073393598197051834)**
 
 </div>
 
 ---
 
-### No. 37: Premium Organic Honey Ad Poster
+### No. 37: Starbucks Chase the Sun Summer Poster
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a photorealistic luxury advertising poster for an organic honey brand, featuring a golden glass jar, elegant typography, and feature icons.
+Creates a premium Starbucks summer campaign poster set at a golden-hour beach club, with a hero iced beverage, lush food styling, and vibrant typography.
 
 #### 🌟 Prompt
 
-Create a premium, photorealistic advertising poster for a luxury organic honey brand called "PureBee Honey." …
+CREATE AN ULTRA-PREMIUM STARBUCKS SUMMER CAMPAIGN TITLED: CHASE THE SUN. "Every sip tastes like summer." This …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a premium, photorealistic advertising poster for a luxury organic honey brand called "PureBee Honey." The design should be in a vertical A4 portrait layout with a clean, modern commercial branding style.
+CREATE AN ULTRA-PREMIUM STARBUCKS SUMMER CAMPAIGN TITLED:
 
-Use a warm golden, honey-yellow, cream, and dark brown color palette. Add realistic honey dripping from the top edge, subtle honeycomb patterns, flying bees with dotted flight paths, green leaves, and soft floral accents. The background should feature a softly blurred countryside landscape with warm natural sunlight for an organic, farm-fresh atmosphere.
+CHASE THE SUN.
 
-Place a large realistic glass jar of golden honey on the right side, with a premium cream-colored label reading "PureBee Honey", including a small bee logo, "Raw & Unfiltered", "100% Pure & Natural", and "Net Wt. 500g". Position the jar on a rustic wooden slice with a wooden honey dipper dripping fresh honey, honeycomb pieces, and white blossoms around it.
+"Every sip tastes like summer."
 
-On the left side, create a bold typographic hierarchy:
+This is NOT a simple product shot.
 
-PURE (large bold distressed uppercase)
+This is NOT a café menu advertisement.
 
-Goodness (elegant golden handwritten script)
+This is Starbucks' premium global summer campaign—a vibrant lifestyle poster designed to feel like the first perfect beach day of the season.
 
-STRAIGHT FROM NATURE (classic serif uppercase)
+The setting is an upscale California beach club during golden hour. Crystal-clear turquoise water, white sand, swaying palm trees, striped cabanas, surfboards resting against weathered wood, and sun-kissed beachgoers create an atmosphere of effortless luxury. Everything glows under warm late-afternoon sunlight.
 
-Add supporting text:
+The hero is a stunning Starbucks iced beverage served inside the brand's iconic transparent cup, elevated on a sculptural natural travertine pedestal placed directly on the sand. The drink features layered cold brew, creamy milk, caramel foam, crushed ice, and glossy caramel drizzle cascading over the whipped topping. Tiny droplets of condensation sparkle in the sunlight, making the drink look irresistibly cold.
 
-Raw. Natural. Unfiltered. Honey as nature intended.
+Instead of coffee being poured from above, a dramatic splash of chilled coconut cold foam and espresso ribbons swirl together in mid-air, frozen in a cinematic moment. Ice cubes, coffee beans, caramel shards, citrus slices, and tiny golden water droplets orbit around the drink as if caught in a warm ocean breeze.
 
-Below, include three premium feature icons with captions:
+The foreground includes beach-inspired premium food styling:
 
-100% Pure – No additives. No compromises.
+• Fresh butter croissant • Coconut cookies • Vanilla macarons • Fresh peaches • Pineapple wedges • Lime slices • Sea salt caramel pieces • Linen napkin • Straw beach hat • Designer sunglasses
 
-Natural Goodness – Rich in antioxidants & nutrients.
+Typography is bold, playful, and premium.
 
-Sourced With Care – From happy bees and trusted beekeepers.
+Massive handwritten brush lettering dominates the upper composition:
 
-At the top center, place the PureBee Honey logo with a bee illustration and the tagline:
+CHASE THE SUN.
 
-PURE • NATURAL • TRUSTED
+Secondary typography:
 
-Add a dark brown ribbon badge in the top-right corner reading:
+ICED NEVER LOOKED BETTER.
 
-100% PURE & NATURAL
+Golden Hour in Every Sip.
 
-Create a premium curved footer in dark chocolate brown with gold accents. Include:
+Made for Beach Days.
 
-Sweet by Nature, Made with Care.
+Cold Coffee. Warm Memories.
 
-A gold banner reading:
+Small premium infographic callouts highlight features:
 
-GOOD FOR YOU. GOOD FOR NATURE.
+✓ Freshly Brewed Espresso
 
-On the right side of the footer, add an ORDER NOW section with phone, WhatsApp, Instagram, and location icons, using realistic placeholder contact details.
+✓ Velvety Cold Foam
 
-Style: high-end food advertising, luxury product branding, ultra-realistic packaging mockup, commercial photography, soft studio lighting, premium typography, elegant composition, shallow depth of field, glossy glass reflections, crisp details, cinematic color grading, 8K, print-ready, award-winning advertising design.
+✓ Salted Caramel Swirl
+
+✓ Ice-Cold Refreshment
+
+✓ Crafted for Summer
+
+Delicate hand-drawn doodles of waves, sunshine, palm leaves, surf lines, tiny stars, and handwritten vacation notes are subtly integrated throughout the design, giving it an energetic Gen Z editorial aesthetic without feeling cluttered.
+
+The color palette is bright, optimistic, and unmistakably summer:
+
+Ocean blue
+
+Turquoise
+
+Sand beige
+
+Warm cream
+
+Golden caramel
+
+Palm green
+
+Sunset orange
+
+White
+
+Natural wood
+
+Soft coral accents
+
+Lighting is warm golden hour with beautiful lens flares, realistic reflections, glowing highlights on the ice, vibrant beach atmosphere, premium food photography styling, luxury commercial advertising aesthetics, hyper-realistic textures, contemporary graphic design, collectible Starbucks campaign poster, globally recognizable premium branding, editorial layout, 8K ultra-detailed masterpiece.
 ```
 
 </details>
@@ -2391,7 +2341,7 @@ Style: high-end food advertising, luxury product branding, ultra-realistic packa
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMT6bdrXIAADEPx.jpg" width="700" alt="Premium Organic Honey Ad Poster">
+<img src="https://image.moge.ai/prompt_media/HMXaUoabgAA9KIm.jpg" width="700" alt="Starbucks Chase the Sun Summer Poster">
 </div>
 
 <br>
@@ -2400,59 +2350,35 @@ Style: high-end food advertising, luxury product branding, ultra-realistic packa
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Abkr Sadiq](https://x.com/abs_uiux) | [X / Twitter](https://x.com/abs_uiux/status/2073057092152287409) | 2026-07-03 |
+| [Hemayxn.ai](https://x.com/hemayxn) | [X / Twitter](https://x.com/hemayxn/status/2073303285591863507) | 2026-07-04 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073057092152287409)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073303285591863507)**
 
 </div>
 
 ---
 
-### No. 38: Ivory Embossed City Landmark Poster
+### No. 38: Avant-Garde Editorial Poster
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Renders a city's most iconic landmark as an ivory embossed architectural poster, with a matte-gold glowing hero building and elegant serif typography.
+Creates a refined monochrome editorial poster with an asymmetrical modular grid, black-dominant image blocks and color accents, in a Swiss-meets-avant-garde high-fashion style.
 
 #### 🌟 Prompt
 
-An embossed relief-style architectural poster, Chinese seal-press / paper debossing aesthetic (印压凹凸立体画风), …
+Avant-garde graphic design poster page, elegant editorial layout, off-white background, 4:5 aspect ratio. …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-An embossed relief-style architectural poster, Chinese seal-press / paper debossing aesthetic (印压凹凸立体画风), panoramic bird's-eye view of {CITY}'s single most iconic historical or cultural landmark.
-
-[OVERALL TECHNIQUE]
-The entire image is rendered as if pressed or embossed into thick ivory-white paper or plaster — all forms are created through subtle relief, shadow, and highlight rather than flat color or line art. Minimalist line-carving technique (极简线描手法) defines architectural edges. The background is a clean, seamless ivory-white (乳白色), with no visible horizon line or sky detail — just soft gradient emptiness receding into the distance.
-
-[LANDMARK SUBJECT — AUTO-DERIVED FROM CITY]
-Identify the single most globally recognizable architectural or monumental landmark associated with {CITY} — the one structure that, if shown in silhouette alone, would be instantly identified as representing {CITY}. Render a symmetrical, wide-angle bird's-eye view of this landmark and its immediate architectural surroundings (courtyards, plazas, gardens, colonnades, gates, or approach paths — whatever is authentic to that specific landmark's real layout). The full complex recedes into the distance along a strong central axis, with repeating symmetrical structures flanking both sides in diminishing scale, creating strong linear perspective and depth. All structures share the same ivory-white embossed material as the background, distinguished only by relief depth, shadow, and fine linework.
-
-[GOLD ACCENT — HERO BUILDING]
-The single most iconic structure within that landmark complex is positioned at the mid-ground, centered, rendered with matte gold texture (哑金光质感) picking out its structural details — roofline, facade ornamentation, columns, doorways, or spire, whatever is architecturally authentic to it. This building's edges emit a low-intensity warm white glow (低亮度白光), as if lit from within or by soft dawn light, making it the clear focal point against the otherwise monochrome ivory scene.
-
-[TYPOGRAPHY]
-Centered in the composition, positioned in front of or just above the hero building: a serif wordmark reading the country or region name in English, followed by a vertical bar, followed by the landmark's name in its native language and script — e.g. formatted as "{COUNTRY} | {LANDMARK NATIVE NAME}" — in elegant refined gold serif type. The text width spans roughly half the frame's width — commanding but not oversized.
-At the bottom of the composition:
-- Lower left corner, very small text: today's date in "YYYY Mon.DD" format
-Both in the same muted gold tone, minimal, unobtrusive.
-
-[COMPOSITION]
-Wide symmetrical composition, camera positioned at a high elevated angle looking down the central axis of the complex. Negative white space occupies approximately 60% of the frame — generous emptiness above and around the architecture emphasizes depth, scale, and stillness. The vanishing point sits at the upper-center of the frame, where the architecture recedes into soft white haze.
-
-[STYLE REFERENCES]
-Combine: Akira Yamaguchi's meticulous architectural detail work, Tadao Ando's minimalist symmetry and negative space philosophy, Zao Wou-Ki's abstract sense of spatial depth, George Segal's soft sculptural relief quality, and Wim Wenders' elevated urban framing sensibility. The embossed texture should feel naturally hand-pressed — uniform, clean linework with no visual noise or artifacts.
-
-[QUALITY & MOOD]
-8K quality rendering, rich fine detail throughout, evoking a serene, radiant atmosphere (宁静辉光). The image should feel like a reinterpretation of {CITY}'s most iconic landmark — where historical weight and contemporary art intersect — delivering a visually tranquil yet culturally resonant narrative.
+Avant-garde graphic design poster page, elegant editorial layout, off-white background, 4:5 aspect ratio. Build a clean asymmetrical modular grid with four distinct image blocks: one high-contrast close portrait of [HUMAN], one cinematic photograph of [CAR], one striking image of [ANIMAL], and one atmospheric photograph of [PLACE], each contained in its own rectangular block. Use black as the dominant color with subtle accents of [ACCENT1] and [ACCENT2], minimal but refined. Add one abstract distortion or texture panel to reinforce the experimental design language. Include a bold title reading “[TITLE]”, a small minimalist logo reading “[LOGO]”, microtypography, short editorial text columns, tiny serial numbers, thin dividers, small captions, and elegant negative space. High-fashion graphic design aesthetic, niche magazine page, refined Swiss-meets-avant-garde composition, crisp typography, monochrome photography, subtle blur and texture variation, sophisticated art-direction.
 ```
 
 </details>
@@ -2460,7 +2386,7 @@ Combine: Akira Yamaguchi's meticulous architectural detail work, Tadao Ando's mi
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMTe0TWaUAAb-cL.jpg" width="700" alt="Ivory Embossed City Landmark Poster">
+<img src="https://image.moge.ai/prompt_media/HMZQrf9WcAAsPfH.jpg" width="700" alt="Avant-Garde Editorial Poster">
 </div>
 
 <br>
@@ -2469,13 +2395,13 @@ Combine: Akira Yamaguchi's meticulous architectural detail work, Tadao Ando's mi
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [两斤](https://x.com/0x00_Krypt) | [X / Twitter](https://x.com/0x00_Krypt/status/2073026725601222773) | 2026-07-03 |
+| [Anissa](https://x.com/SimplyAnnisa) | [X / Twitter](https://x.com/SimplyAnnisa/status/2073433391530455535) | 2026-07-04 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073026725601222773)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073433391530455535)**
 
 </div>
 
@@ -2634,24 +2560,32 @@ Ensure the image looks like a Chinese art-event poster truly ready for publicati
 
 ---
 
-### No. 41: Dreamer's Ink Reverie
+### No. 41: Whimsical Corgi Chase Sticker Art
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Turns any subject into a dreamlike ink scene with expressive lines, hatching, and stippling in ethereal tones.
+Creates a humorous 3D sticker of a young woman running, chased by a corgi, superimposed onto a real photo of a sunny park.
 
 #### 🌟 Prompt
 
+A vibrant and humorous 3D-style sticker design superimposed onto a real-life photograph of a sunny city park …
+
+<details>
+<summary>Show full prompt</summary>
+
 ```
-[SUBJECT] rendered in a Dreamer’s Ink Reverie, where reality blurs into swirling dreamscapes and flowing patterns. Use expressive ink lines, intricate hatching, and stippling, with ethereal touches of [COLOR1] and [COLOR2] for atmosphere
+A vibrant and humorous 3D-style sticker design superimposed onto a real-life photograph of a sunny city park pathway. A cute East Asian young woman is captured in a dynamic running pose, her body leaning forward. She wears a bright yellow baseball cap that is just lifting off her head, caught by a sudden gust of wind. One hand reaches back desperately, a motion blur trying to grab it. Her other hand holds a half-eaten ice cream cone, the scoop comically starting to slide off. Her expression is one of pure, wide-eyed mock terror, mouth open in a silent scream. Behind her, a small, energetic, and slightly goofy-looking corgi is mid-bark, its legs a blur of motion. The art style blends whimsical caricature with bold outlines and exaggerated proportions against the soft-focus, natural background of green grass, trees, and a distant playground. Motion lines emphasize the chase. Bright, saturated colors on the sticker, flat but punchy lighting. A stray cat tail is a sticker element curling from a real park bench at the bottom left corner. Playful, slapstick, kinetic energy.
+dutch angle, stray cat tail --ar 3:4 ratio
 ```
+
+</details>
 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMOlBthWkAAuzZe.jpg" width="700" alt="Dreamer&#x27;s Ink Reverie">
+<img src="https://image.moge.ai/prompt_media/HMWtBpPbkAA3pBg.jpg" width="700" alt="Whimsical Corgi Chase Sticker Art">
 </div>
 
 <br>
@@ -2660,35 +2594,35 @@ Turns any subject into a dreamlike ink scene with expressive lines, hatching, an
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [LudovicCreator](https://x.com/LudovicCreator) | [X / Twitter](https://x.com/LudovicCreator/status/2072681721070281032) | 2026-07-02 |
+| [Maverick \| AI](https://x.com/RizwanAly07) | [X / Twitter](https://x.com/RizwanAly07/status/2073253495814451402) | 2026-07-04 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072681721070281032)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073253495814451402)**
 
 </div>
 
 ---
 
-### No. 42: Iced Caramel Latte Ad Photography
+### No. 42: Crimson Surreal Fashion Portrait
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-Creates a commercial photo of an iced caramel latte with pouring espresso, caramel drips, and a warm studio backdrop.
+A surreal fashion editorial portrait of a woman in white beside a crimson tiger against a deep blood-red background.
 
 #### 🌟 Prompt
 
-A professional commercial food photography of an iced caramel latte in a clear plastic cup with a red heart …
+Surreal fashion editorial portrait, woman in full white wide-brim hat and long structured white coat, …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-A professional commercial food photography of an iced caramel latte in a clear plastic cup with a red heart logo, placed on a round stone pedestal. Thick white milk foam on top, drizzled with a perfect grid pattern of golden caramel sauce. Fresh dark espresso shot is being poured from a small glass pitcher at the top into the cup in mid-air. In the background, there is a warm beige studio backdrop with gooey caramel dripping from the top corners. Around the main cup on a beige table, there is a small plate with caramel cubes, a bowl of caramel sauce, a glass shot of espresso, a small glass jug of fresh milk, a freshly baked flaky pastry, and scattered coffee beans. Studio lighting, soft shadows, warm aesthetic, 8k resolution, photorealistic, commercial advertisement style.
+Surreal fashion editorial portrait, woman in full white wide-brim hat and long structured white coat, platinum hair, facing camera with direct commanding gaze, massive tiger beside her with fur entirely saturated deep crimson red matching the background, tiger stripes visible in darker red tones, tiger's face turned toward camera mirroring her gaze, her gloved hand resting gently on tiger's head, deep blood-red solid background, white figure as sole contrast element, slight low angle, rich saturated red color grade, vertical 4:5 composition --ar 4:5 --v 6
 ```
 
 </details>
@@ -2696,7 +2630,7 @@ A professional commercial food photography of an iced caramel latte in a clear p
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMRTa-KbIAAfI9w.jpg" width="700" alt="Iced Caramel Latte Ad Photography">
+<img src="https://image.moge.ai/prompt_media/HMYnzdPbEAAWTBn.jpg" width="700" alt="Crimson Surreal Fashion Portrait">
 </div>
 
 <br>
@@ -2705,52 +2639,40 @@ A professional commercial food photography of an iced caramel latte in a clear p
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Zyro](https://x.com/Itswsm105f) | [X / Twitter](https://x.com/Itswsm105f/status/2072873772412268763) | 2026-07-03 |
+| [Shahid Wani](https://x.com/meng_dagg695) | [X / Twitter](https://x.com/meng_dagg695/status/2073389192709820828) | 2026-07-04 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072873772412268763)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073389192709820828)**
 
 </div>
 
 ---
 
-### No. 43: Product Cutaway Theater Ad
+### No. 43: eSIM Travel Planning Diorama Scene
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a premium advertising image showing the product in a cinematic cutaway cross-section, where each inner layer reveals function, texture, and emotional value.
+Creates a premium travel-planning tabletop scene with a map, papercraft landmarks, and a smartphone showing an eSIM connectivity screen in mixed-media diorama style.
 
 #### 🌟 Prompt
 
-Create a premium advertising image for [PRODUCT / BRAND]. Visual system: Product Cutaway Theater. Show the …
+A premium travel-planning tabletop scene for [LOCATION], photographed from a slightly elevated angle. A …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a premium advertising image for [PRODUCT / BRAND].
-
-Visual system: Product Cutaway Theater.
-
-Show the product as the hero, opened through a clean cinematic cross-section, not exploded randomly. The inside should feel like a staged visual world where each layer reveals the product’s function, texture, benefit, and emotional value.
-
-The cutaway layers must look intentional, elegant, and premium:
-- outer shell / packaging
-- inner material structure
-- performance or sensory layer
-- invisible benefit made visible
-
-Use high-end studio lighting, dramatic shadows, refined composition, ultra-realistic product rendering, macro detail, premium commercial finish, sharp focus, 16:9 aspect ratio.
-
-Avoid messy parts, medical x-ray style, childish labels, cluttered infographics, cheap 3D, random floating objects, and excessive text.
-
-Optional text on image:
-[SHORT CAMPAIGN LINE]
+A premium travel-planning tabletop scene for [LOCATION], photographed from a slightly elevated angle. A detailed map of [LOCATION] lies on a warm wooden desk under a cozy black desk lamp. Emerging from the map are handcrafted papercraft landmarks, iconic attractions, landscapes, and cultural highlights from [LOCATION], positioned in their approximate geographic locations.
+A tiny traveler character with a backpack and rolling suitcase follows a dotted red journey route across the map, creating a visual story of exploration. The traveler is mid-journey between destinations.
+A modern smartphone displays a "[LOCATION] eSIM" travel connectivity screen. Around the map are travel-planning accessories including a notebook itinerary, postcards, camera, passport, travel books, and local-themed souvenirs.
+Mixed-media diorama style, intricate papercraft architecture, layered paper terrain, miniature trees, realistic desk objects, warm cinematic lighting, shallow depth of field, highly detailed textures, editorial travel photography, Pinterest aesthetic, premium commercial advertising, ultra-realistic, 8k quality, rich storytelling, clean composition.
+Include these [LOCATION] highlights: [LANDMARK LIST].
+Color palette inspired by [LOCATION'S NATURAL/CULTURAL COLORS].
 ```
 
 </details>
@@ -2758,7 +2680,7 @@ Optional text on image:
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMTeoIOXQAANwl2.jpg" width="700" alt="Product Cutaway Theater Ad">
+<img src="https://image.moge.ai/prompt_media/HMWMUThbkAEBgH2.jpg" width="700" alt="eSIM Travel Planning Diorama Scene">
 </div>
 
 <br>
@@ -2767,44 +2689,35 @@ Optional text on image:
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [AZIZ \| AI 🇸🇦](https://x.com/aziz4ai) | [X / Twitter](https://x.com/aziz4ai/status/2073026525243310084) | 2026-07-03 |
+| [simeon-sanai](https://x.com/Naiknelofar788) | [X / Twitter](https://x.com/Naiknelofar788/status/2073217493913801191) | 2026-07-04 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073026525243310084)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073217493913801191)**
 
 </div>
 
 ---
 
-### No. 44: Oriental Zen Round-Gate Poster
+### No. 44: Double Exposure Editorial Portrait
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Creates a high-contrast minimalist neo-Chinese zen poster with a tiny figure before a vermilion round gate about to step into a bright courtyard.
+Creates a cinematic, hyper-realistic portrait of a young Asian woman blended with mixed-media textures, autumn leaves, and editorial typography on a minimalist white background.
 
 #### 🌟 Prompt
 
-Theme direction: Oriental zen minimalist poster Style branch: high-contrast neo-Chinese Main subject: a tiny …
+Create a masterpiece 9:16 vertical, 8K ultra-HD, hyper-realistic cinematic editorial double exposure portrait …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Theme direction: Oriental zen minimalist poster
-Style branch: high-contrast neo-Chinese
-Main subject: a tiny figure standing before a half-open vermilion round gate, about to step into the courtyard
-Emotional motif: entering, subtlety, oriental courtyard, radiant summer
-Scene and imagery: vermilion round gate, cream-white wall, emerald-green bamboo shadows, bright courtyard beyond the gate, silhouette of a small figure
-Composition and space: centered composition, the round gate as a strong symbolic subject, large empty area on the wall, figure in small proportion before the gate
-Color control: cream-white as the wall base, vermilion for the round gate, emerald green only in the bamboo shadows and a few plants inside, figure as an ink-blue silhouette; avoid the wall also turning the same red-green color
-Light and texture: natural daylight, wall with a light paper feel, crisp bamboo shadows, clean edges
-Aspect ratio: 9:16
-Additional requirements: the round gate should be simple and refined, the figure small yet story-rich, the whole like a bright neo-Chinese brand poster
+Create a masterpiece 9:16 vertical, 8K ultra-HD, hyper-realistic cinematic editorial double exposure portrait of a young Asian woman with calm expression, blue-green eyes, natural matte makeup, realistic skin with subtle freckles, and medium-length wavy ash blonde, platinum, and silver hair gently blowing in the wind. She wears a dark winter jacket and a thick light-brown knitted scarf. Blend her portrait with elegant mixed media elements including grunge textures, watercolor splashes, ink effects, architectural blueprints, wireframes, geometric lines, concrete textures, and transparent digital overlays. Add naturally floating golden yellow, burnt orange, and copper autumn maple leaves. Use a clean white minimalist background with abstract paint splashes, modern editorial typography featuring the large vertical word "FANTASTIC", subtle grid layouts, and graphic design elements. Apply soft cinematic lighting, HDR, ray tracing, global illumination, volumetric lighting, shallow depth of field, sharp eye focus, luxury magazine cover aesthetics, premium color grading, and award-winning photorealistic quality.
 ```
 
 </details>
@@ -2812,7 +2725,7 @@ Additional requirements: the round gate should be simple and refined, the figure
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMS6FbXa8AAFM00.jpg" width="700" alt="Oriental Zen Round-Gate Poster">
+<img src="https://image.moge.ai/prompt_media/HMYjr-pWYAA2t1e.jpg" width="700" alt="Double Exposure Editorial Portrait">
 </div>
 
 <br>
@@ -2821,13 +2734,13 @@ Additional requirements: the round gate should be simple and refined, the figure
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [李岳](https://x.com/liyue_ai) | [X / Twitter](https://x.com/liyue_ai/status/2072992670360957244) | 2026-07-03 |
+| [Anissa](https://x.com/SimplyAnnisa) | [X / Twitter](https://x.com/SimplyAnnisa/status/2073383922000343309) | 2026-07-04 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072992670360957244)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073383922000343309)**
 
 </div>
 
@@ -2966,29 +2879,45 @@ Avoid: ink-wash title, speckling inside characters, large-area blur of whole cha
 
 ---
 
-### No. 47: Whimsical Editorial Cartoon Illustration Style
+### No. 47: Rinpa-Style Decorative Portrait
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-A style reference blending whimsical editorial illustration with naïve hand-drawn cartoons, using loose ink lines and a blue-and-orange palette to create quirky, expressive characters.
+Reimagines the input image as a Rinpa-style Japanese painting, keeping the character's charm with gold ground, florals, flowing water, and bold negative space.
 
 #### 🌟 Prompt
 
-This Midjourney style combines whimsical editorial illustration with naïve hand-drawn cartoon aesthetics: …
+Based on the input image, reconstruct it as a decorative, poetic Japanese painting evoking the Rinpa school, …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-This Midjourney style combines whimsical editorial illustration with naïve hand-drawn cartoon aesthetics:
+Based on the input image, reconstruct it as a decorative, poetic Japanese painting evoking the Rinpa school, while firmly preserving the charm of the person or character.
 
---sref 2857031319
+Most important is not to lose the original charm of the person or character in the input image. Firmly retain the core of what makes them who they are: facial features, the impression of the eyes, hairstyle, hair color, expression, bearing, and atmosphere. On top of that, translate the overall presentation, composition, background, negative space, and decorativeness into a Rinpa-like aesthetic sensibility.
 
-Loose ink lines, imperfect proportions, textured brushwork and a restrained blue-and-orange palette create quirky, expressive characters full of personality.
+The goal is not merely to make it look Japanese or dress it in a kimono. Keeping the person's charm as the protagonist, reconstruct it as a work of art through Rinpa's characteristic bold negative space, flat color planes, refined decorativeness, flowing composition, and the atmosphere of gold ground or folding-screen paintings.
 
-The minimalist compositions and playful imperfections give every illustration the charm of an independent picture book or contemporary magazine artwork.
+First, carefully read the core of the person's charm from the input image. Especially value the impression of the face, the mood of the eyes, the flow of the hair, the emotional warmth of the expression, and the cuteness or stillness of the character. In the finished image, do not turn them into a different person; make the charm of the original image immediately recognizable.
+
+The pose and composition may be changed to make the finished image more attractive. Flexibly reconstruct the person's orientation, how the body is shown, the position of the hands, the gaze, and the cropping. However, do not lose the characteristic atmosphere of the person from the original image. Give the composition Rinpa-like refined negative space and a sense of flow across the picture. Do not arrange it too symmetrically; give it natural asymmetry and rhythm.
+
+In the background and decoration, incorporate motifs evoking Rinpa. Decoratively and tastefully arrange wide negative space that makes use of gold ground or soft base tones, flowing water, clouds, the flow of wind, flowers, branches, seasonal plants, and wave-like curves. However, do not cram in too many elements, and do not let the background become the protagonist. Treat the decoration as something that sets off the person.
+
+Express plants and natural motifs with Rinpa-like simplicity and stylization. Do not render them too realistically in detail; arrange them as flat, refined forms. Even when adding a sense of season, do not become too explanatory; treat it merely as the lyricism and decorativeness of the picture.
+
+Make the colors elegant and decorative in the Rinpa manner. Center on gold, unbleached tones, ink black, ultramarine, malachite green, vermilion, white, and soft grass tones, with a palette that is calm yet feels splendid. Avoid a modern neon feel, strong glow, and a glittery digital look. The coloring should be flat and orderly, showing beauty through its planes.
+
+The lines should be delicate and orderly; restrain the strong highlights and thick-paint feel of modern anime. Rather than overdoing three-dimensionality, prioritize flatness, decorativeness, and the beauty of negative space. While keeping the charm of the person's facial features from the original, give the whole picture the stillness and dignity of a painting.
+
+The costume need not reproduce the original image exactly, but redesign it so it naturally suits the person's charm. Even when leaning toward Japanese dress, do not make it mere kimono cosplay or overuse flashy Japanese patterns. Prioritize the harmony between the person and the whole picture over the costume itself.
+
+Do not include any legible text within the picture. Do not turn it excessively into a poster; aim for a level of completion that stands as a single painting.
+
+Overall, create a quiet yet splendid work in which the viewer first feels that "the charm of the original person or character is properly preserved," and on top of that feels that "it holds the beauty of negative space, decoration, gold ground, flowers, and flow that evokes Rinpa."
 ```
 
 </details>
@@ -2996,7 +2925,7 @@ The minimalist compositions and playful imperfections give every illustration th
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMOSaxsWcAA5eWg.jpg" width="700" alt="Whimsical Editorial Cartoon Illustration Style">
+<img src="https://image.moge.ai/prompt_media/HMWbnDSa8AAdGQ0.jpg" width="700" alt="Rinpa-Style Decorative Portrait">
 </div>
 
 <br>
@@ -3005,54 +2934,76 @@ The minimalist compositions and playful imperfections give every illustration th
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [OscarAI](https://x.com/Artedeingenio) | [X / Twitter](https://x.com/Artedeingenio/status/2072661317849128989) | 2026-07-02 |
+| [きー from KiAI](https://x.com/kiAI_stable) | [X / Twitter](https://x.com/kiAI_stable/status/2073234320383410216) | 2026-07-04 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072661317849128989)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073234320383410216)**
 
 </div>
 
 ---
 
-### No. 48: Summer Portrait by the Terracotta Wall
+### No. 48: Bright Summer Playground Portrait
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-A photorealistic summer editorial portrait of a young woman sitting on a terracotta wall against a clear blue sky, with strong afternoon light and diagonal shadows.
+Creates a vibrant editorial portrait at a summer playground, featuring a smiling model and lively handwritten typography full of youthful energy.
 
 #### 🌟 Prompt
 
-Subject: Red wall and summer profile Character/Expression: A woman in her 20s. Bright, ivory-beige-leaning …
+Use a series of playground photos as references for the scene and poses, keeping the subject's facial …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Subject:
-Red wall and summer profile
+Use a series of playground photos as references for the scene and poses, keeping the subject's facial features, smile, long hair, temperament, and realism, while fully blending into the original scene.
 
-Character/Expression:
-A woman in her 20s. Bright, ivory-beige-leaning fair skin with a subtly pink, natural complexion. Soft highlights on the cheeks, nose tip, shoulders, and collarbones, keeping a fine skin texture rather than excessive retouching. Precise, elegant doll-like Japanese makeup, pale rose-pink blush, champagne-beige and pink-brown eyeshadow, fine long lashes, natural under-eye aegyo-sal, light brown eyebrows, translucent pink-beige gloss lips. A small, clear catchlight in the eyes. A calm expression, gazing into the distance with a slightly cool air. Dark brown hair tied in a loose, low ponytail, with fine stray strands drifting around the face in the wind.
+The overall style is a bright summer playground photoshoot, with vivid colors, high but natural saturation, and strong visual contrast between the blue rubber ground, yellow play equipment, green pipes, metal slide, and red sneakers. The image should convey youthfulness, vitality, freedom, and the dynamic motion of wind-blown hair, like a blend of Japanese youth magazine photography and an energetic poster.
 
-Outfit/Pose:
-An ivory ribbed-knit camisole with thin straps and a summery lightness. The collarbone and shoulder lines show naturally, but the exposure stays tasteful and restrained. On the bottom, high-waisted wide-leg pants in natural off-white beige, in a thin linen-blend fabric, with a long cloth belt of the same color tied at the waist. On the feet, brown-beige thin-strap sandals. The figure sits sideways on a low terracotta-colored wall, bracing her body with her own right hand on the wall, the left knee slightly raised and the right leg extended naturally downward. The upper body twists slightly toward the left of the frame, and the face turns toward the blue sky.
+The outfit keeps the playground style: a light yellow short-sleeve shirt, a loose bright blue long skirt or wide-leg pants, short white socks, red retro sneakers, and cute colorful hair clips. The expression should be naturally happy, with a genuine smile, not stiff, and without an AI feel.
 
-Background/Light:
-A minimalist architectural space, like a Japanese contemporary art museum or a modern seaside rooftop terrace. A red-brown terracotta wall, a low parapet, a large vertical wall on the left, a thin eave above, and a clear summer blue sky opening up in the distance. The wall and floor have a fine stucco and concrete texture. Strong afternoon sunlight streams in from the upper left of the frame, casting a large diagonal shadow on the left wall and the figure's shadow onto the surface. Warm light falls on the shoulders, cheeks, and hair edges; the shadow side is deep but slightly lifted by blue reflected light from the sky.
+Preserve the pose, composition, camera angle, and emotion of each original photo: sitting on the ground holding a green pipe, hanging upside down on the play equipment, peeking out of a blue opening, sitting inside a metal slide, lying on the grass, moving between orange pillars, lying on the slide, waving upside down from the slide opening, crawling out of the round slide exit.
 
-Composition/Camera:
-Vertical 3:4. A medium-distance fashion portrait. The figure is placed to the right of the frame, leaving wide blue-sky negative space in the upper half. The red wall and diagonal shadow on the left form a strong geometric composition. The full figure is in frame, with a little margin near the sandals at the bottom edge. The camera is at a slightly low eye level, with a slight upward angle. Focus is on the face and upper body, with a natural depth of field that isn't too shallow.
+Add irregular English typography around the image, with handwritten doodle fonts, rough brush lettering, chalk feel, torn feel, and free layout style. Text colors are mainly white and bright yellow, with small stars, hearts, arrows, smileys, and doodle lines. The English text should feel lively, not cover the subject's face, and blend naturally into the image.
 
-Texture/Style:
-A realistic photo-style AI image. A Japanese summer fashion editorial, strong sunlight, dry air, a color-field contrast of terracotta and blue sky. Skin with natural texture, clothing with visible weave of linen and ribbed knit. High contrast but not too harsh, with fine film-like grain and subdued tones. Avoid excessive HDR, over-retouched skin, and anime style.
+Keywords: bright summer playground, youthful energy, lively smile, free spirit, colorful editorial poster, handwritten typography, rough brush lettering, playful doodles, magazine cover style, dynamic motion, natural daylight, film-like softness, high saturation, vivid blue yellow red color palette, realistic face, no watermark.
 
-Negative:
-childish-looking face, unnatural gaze, excessive influencer makeup, plastic-like skin, overexposure, see-through clothing, extra or missing fingers, fusion of hands and feet, broken joints, unnatural sitting posture, poor contact with the wall, floating, shadows contradicting the light source, incorrect perspective, unnecessary people or props, text, logos, watermarks, directly copying the composition or outfit of the reference image.
+English typography text options:
+
+WILD JOY
+PLAY LOUD
+LIVING IN COLOR
+FREE ENERGY
+HELLO SUN
+JUMP INTO JOY
+FULL OF LIFE
+BRIGHT CHAOS
+SLIDE INTO FUN
+SPARK JOY
+LIFE MOVES
+PLAYFUL HEART
+FALL FOR LIFE
+NO GRAVITY
+WILD SPIRIT
+MOVE FREE
+HAPPY CHAOS
+PURE MOTION
+SHINE ON
+ALIVE NOW
+WAVE BRIGHT
+SEE YOU SMILE
+OUT TO PLAY
+LIFE IS NOW
+
+Negative prompt:
+
+Do not change the original scene structure, do not switch to indoors, no dark style, no gothic style, no sexualization, no exposure, no stiff expressions, no plastic skin, no excessive skin smoothing, do not turn into anime, no watermark, no Xiaohongshu watermark, no garbled text, do not cover the face, no extra fingers, no body deformation, no low resolution.
 ```
 
 </details>
@@ -3060,7 +3011,7 @@ childish-looking face, unnatural gaze, excessive influencer makeup, plastic-like
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMJc8PVaUAAXy_u.jpg" width="700" alt="Summer Portrait by the Terracotta Wall">
+<img src="https://image.moge.ai/prompt_media/HMYU9VqasAA64Mx.jpg" width="700" alt="Bright Summer Playground Portrait">
 </div>
 
 <br>
@@ -3069,64 +3020,67 @@ childish-looking face, unnatural gaze, excessive influencer makeup, plastic-like
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026) | [X / Twitter](https://x.com/CyberTotal2026/status/2072851820406338026) | 2026-07-03 |
+| [serein](https://x.com/you1873118) | [X / Twitter](https://x.com/you1873118/status/2073367738505113678) | 2026-07-04 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072851820406338026)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073367738505113678)**
 
 </div>
 
 ---
 
-### No. 49: Product Aura Field Ad
+### No. 49: Premium Detergent Ad Poster
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a premium ad poster where the product is the hero wrapped in visible aura fields that express taste, scent, sound, or emotion based on the product category and brand DNA.
+Creates a premium detergent ad poster with a smiling model holding the product, bubble and water effects, and rich marketing typography.
 
 #### 🌟 Prompt
 
-Create a premium advertising poster for [BRAND] featuring [PRODUCT]. Build the image around an AURA FIELD …
+Create a premium, high-end advertising poster for a laundry detergent brand. A smiling young Black man stands …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a premium advertising poster for [BRAND] featuring [PRODUCT].
+Create a premium, high-end advertising poster for a laundry detergent brand. A smiling young Black man stands confidently in a modern laundry room, holding a large detergent package with both hands at chest level, looking directly at the camera with a friendly, trustworthy expression. The detergent packaging is the main focal point, featuring a vibrant blue and white color palette with glossy finish, dynamic water splash effects, soap bubbles, sparkling highlights, neatly folded white clothes, and a premium household cleaning brand aesthetic.
 
-Build the image around an AURA FIELD concept.
+The background is a bright, modern laundry room with washing machines softly blurred using shallow depth of field. Add realistic floating bubbles, water droplets, glowing light rays, and fresh blue gradients throughout the composition to create a clean, refreshing atmosphere.
 
-The product must be the clear hero, placed in a premium commercial composition with sharp detail, realistic materials, cinematic lighting, and strong visual hierarchy.
+On the left side, include a bold marketing headline in large modern typography: "BRIGHTER CLEAN, FRESHER CONFIDENCE!"
 
-Around the product, create visible aura fields that express what the product makes people feel, taste, hear, smell, wear, or experience.
+Below it, place a short marketing message: "Powerful clean. Long-lasting freshness. For you and your family."
 
-The aura should not look like random magic. It must be designed as a refined visual language based on the product category and brand DNA.
+Add a vertical list of premium feature icons:
 
-Adapt the aura to the product:
-- food products create flavor waves, crumbs, cream, chocolate, steam, crunch particles, or appetite energy
-- fragrance and beauty products create scent trails, mist, petals, skin glow, botanical particles, or soft liquid air
-- tech products create clean data fields, light grids, interface particles, signal waves, or intelligent glow
-- fashion and eyewear products create motion trails, attitude lines, reflections, street energy, or editorial light
-- home products create calm atmosphere, warmth, texture, comfort waves, soft shadows, or ritual energy
-- performance products create speed fields, impact rings, air pressure, focus lines, or kinetic energy
+Brightens Whites
 
-The aura must wrap around the product, interact with its shape, and make the product feel powerful, desirable, and iconic.
+Long Lasting Freshness
 
-Keep the composition premium, minimal where needed, and highly polished. Use refined typography inspired by the brand's visual language with a short 3-word slogan.
+Effective Stain Removal
 
-Do not use miniature people, micro worlds, shadow storytelling, negative-space frames, exploded-view composition, product monuments, or split reality.
+Suitable for Front & Top Load
 
-Avoid copying any existing real campaign. Create a fresh original ad concept.
+Add a red and blue "NEW IMPROVED FORMULA" ribbon badge in the top-left corner and a premium shield badge in the top-right corner reading: "Removes Tough Stains Even in Cold Water."
 
-Brand: [BRAND]
-Product: [PRODUCT]
-Aura type: [SENSORY / EMOTIONAL / FUNCTIONAL AURA]
-Aspect ratio: [RATIO]
+At the bottom, create a bold promotional banner with the text: "DEEP CLEAN THAT CARES EVERY DAY"
+
+Add four premium circular icons with captions:
+
+Powerful on Stains
+
+Gentle on Fabrics
+
+Fresh Ocean Scent
+
+Cleaner Home
+
+Use premium commercial advertising lighting, ultra-realistic product photography, glossy reflections, vibrant blue and white branding, cinematic composition, luxury FMCG packaging design, highly detailed typography, realistic skin texture, magazine-quality layout, global detergent brand aesthetic, photorealistic, 8K, ultra-sharp, professional print-ready advertising poster, award-winning creative direction.
 ```
 
 </details>
@@ -3134,7 +3088,7 @@ Aspect ratio: [RATIO]
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMNg-o6XoAE7DCD.jpg" width="700" alt="Product Aura Field Ad">
+<img src="https://image.moge.ai/prompt_media/HMU78W9XsAA9zTg.jpg" width="700" alt="Premium Detergent Ad Poster">
 </div>
 
 <br>
@@ -3143,39 +3097,59 @@ Aspect ratio: [RATIO]
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [AZIZ \| AI 🇸🇦](https://x.com/aziz4ai) | [X / Twitter](https://x.com/aziz4ai/status/2072606903683670040) | 2026-07-02 |
+| [Abkr Sadiq](https://x.com/abs_uiux) | [X / Twitter](https://x.com/abs_uiux/status/2073129126152524005) | 2026-07-03 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072606903683670040)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073129126152524005)**
 
 </div>
 
 ---
 
-### No. 50: Fruit & Veggie Infographic Slides
+### No. 50: New York Typographic Travel Poster
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Generates 10 PPT-style 16:9 slides, each introducing a different fruit or vegetable with catchy lines, knowledge points, and varied layouts.
+Creates a minimalist travel poster where the letters of "NEW YORK" act as cut-out windows revealing the city's iconic landmarks in flat vector illustration.
 
 #### 🌟 Prompt
 
+Clean, modern typographic travel poster in a 3:2 landscape format. The words "NEW YORK" — seven large, bold, …
+
+<details>
+<summary>Show full prompt</summary>
+
 ```
-Theme: introduce 10 summer fruits and vegetables
-Generate 10 images in a row, each introducing a different fruit/vegetable, with catchy-line logic, knowledge logic, plus color-scheme and layout logic
-Similar to a PPT, generate 10, ensuring layout differences between them
-Aspect ratio 16:9
+Clean, modern typographic travel poster in a 3:2 landscape format. The words "NEW YORK" — seven large, bold, uppercase geometric sans-serif letters set on a single line (or "NEW" stacked above "YORK" if better balanced) — span the full width and ARE the entire composition. Every illustrated element lives strictly INSIDE the letterforms, as if each letter is a window cut out of white paper revealing a scene; nothing spills outside the letter silhouettes. Outside the letters: pure, empty, flat white background — no objects, no cast shadows, no decoration.
+
+— WHAT FILLS EACH LETTER (NYC-accurate, clipped to the letter shape) —
+N : the Statue of Liberty — standing torch raised, following one vertical of the N.
+E : stacked Manhattan brownstone facades with fire escapes nested in the three horizontal bars.
+W : the Brooklyn Bridge — its two Gothic stone arches and suspension cables spanning the W's zig-zag, a small boat on the East River below.
+Y : the Empire State Building — the Art-Deco spire cradled in the fork of the Y.
+O : the ring frames Times Square — glowing billboards, a yellow taxi cab, a scramble of tiny pedestrians.
+R : the Flatiron Building's distinctive triangular wedge silhouette inside the R.
+K : Central Park greenery and the One World Trade Center spire slicing along the K's diagonals; a subway car along the base.
+
+Small city details (a yellow cab, a hot-dog cart with faint steam, a pigeon, a subway roundel, drifting clouds) appear ONLY where they fit within a letter's interior. Keep full legibility of "NEW YORK".
+
+— STYLE —
+Elegant flat vector illustration, crisp geometric shapes, minimal detail, clean outlines, subtle shadows contained inside the letters only. Limited palette: deep navy, warm cream, muted red, soft gray-blue — a restrained warm-yellow accent used ONLY on the taxis / Times Square glow. Optional minimal tagline beneath in wide-spaced small capitals: "THE CITY THAT NEVER SLEEPS", thin and understated. Perfectly balanced centered composition.
+
+premium flat vector, minimalist travel poster, geometric illustration, editorial tourism branding, clean typography, high contrast, ultra-sharp lines, museum-quality print, scalable SVG aesthetic, 8K.
 ```
+
+</details>
 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMSreFqasAAGekX.jpg" width="700" alt="Fruit &amp; Veggie Infographic Slides">
+<img src="https://image.moge.ai/prompt_media/HMWurFrbMAAcxCv.jpg" width="700" alt="New York Typographic Travel Poster">
 </div>
 
 <br>
@@ -3184,13 +3158,13 @@ Aspect ratio 16:9
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [小小东](https://x.com/xiaoxiaodong01) | [X / Twitter](https://x.com/xiaoxiaodong01/status/2072970775896977595) | 2026-07-03 |
+| [Sairah](https://x.com/Sairah_0) | [X / Twitter](https://x.com/Sairah_0/status/2073255273654013966) | 2026-07-04 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072970775896977595)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073255273654013966)**
 
 </div>
 
@@ -3314,63 +3288,25 @@ Generates a flat cobalt-blue event poster with a giant 2-word title as tall as t
 
 ---
 
-### No. 53: Tropical Anime Collectible Style
+### No. 53: Semi-Realistic Sketch Portrait
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Turns any photo or topic into a glossy anime collectible figure staged in a bright tropical festival scene, ready for social media.
+Creates a semi-realistic editorial portrait blending refined graphite and comic linework with a muted neutral palette and minimalist architectural background.
 
 #### 🌟 Prompt
 
-Style = { &lt;tropical\_anime\_collectible\_tableau&gt; MEDIUM: Glossy anime game key art fused with designer-toy …
+Ultra-detailed semi-realistic digital sketch portrait blending refined graphite illustration, contemporary …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Style = {
-  <tropical_anime_collectible_tableau>
-  MEDIUM: Glossy anime game key art fused with designer-toy product staging and tropical festival set design.
-  SURFACE: Smooth stylized 3D anime rendering, polished vinyl-toy softness, clean skin shading, glossy eyes, matte ceramic props.
-  FORM: Cute expressive characters or subjects with simplified sculptural shapes, oversized readable features, rounded accessories, and toy-like object clarity.
-  COLOR: Bright tropical palette with aqua sky, palm green, coral pink, warm yellow, cream, glossy black accents, and festive red details.
-  LIGHTING: Bright sunny daylight with soft highlights, clean shadows, and cheerful outdoor vibrancy.
-  COMPOSITION: Character-forward or object-forward staging with colorful festival architecture, plants, props, and lifestyle-display balance.
-  MOOD: Playful, fashionable, cheerful, slightly mischievous, collectible, and social-media-ready.
-  </tropical_anime_collectible_tableau>
-
-  <transformation>
-  - Convert the subject into a polished anime-inspired collectible figure or centerpiece with expressive simplified features.
-  - Reinterpret surrounding elements as tropical festival props, decorative plants, colorful architecture, cheerful objects, and staged lifestyle accessories.
-  - Convert realistic proportions into cute stylized forms with clean silhouettes, smooth surfaces, and readable emotional posture.
-  - Replace complex surface detail with glossy anime shading, vinyl-toy smoothness, ceramic accents, and bold color blocking.
-  - Convert clothing, armor, tools, or natural textures into simplified costume-like panels, sculpted accessories, or designer-object details.
-  - Turn background environments into bright staged sets with palm-like greenery, festive ornaments, decorative signage, and playful depth.
-  - Preserve the subject’s core identity and action, but make it feel like a high-end anime figure photographed inside a vibrant tropical toy-world scene.
-  </transformation>
-
-  <shape_language>
-  - Favor rounded heads, clean eyes, soft hands, simplified hair or surface masses, oversized accessories, and chunky readable props.
-  - Use contrast between smooth character surfaces and decorative background detail.
-  - Keep every object charming, collectible, and visually clear at thumbnail size.
-  </shape_language>
-
-  <finish>
-  - Bright anime designer-toy key art.
-  - Tropical festival energy with polished collectible staging.
-  - Glossy, cute, colorful, clean, and viral-ready.
-  </finish>
-
-  <avoid>
-  - Avoid gritty realism.
-  - Avoid dull muted colors.
-  - Avoid overly complex anatomy or texture.
-  - Avoid horror lighting or documentary realism.
-  - Avoid making the scene look flat; keep it staged and dimensional.
-  </avoid>
-}
+Ultra-detailed semi-realistic digital sketch portrait blending refined graphite illustration, contemporary editorial portrait art, and subtle comic-book linework. Clean yet expressive ink contour lines with delicate cross-hatching and fine engraving textures. Soft natural skin rendering featuring realistic pores, faint freckles, gentle blush tones, translucent skin highlights, and smooth tonal transitions. Highly detailed eyes with glossy reflections, long natural eyelashes, and crisp eyebrow strands individually defined.
+Elegant hand-drawn aesthetic with meticulous facial detailing, subtle line-art shading, and painterly digital coloring. Hair rendered with ultra-fine flowing strands, layered volume, and realistic texture separation. Balanced fusion of sketch and realism where linework remains visible beneath smooth painterly surfaces. Soft ambient daylight illumination, diffused highlights, natural shadow gradients, and cinematic portrait contrast.
+Muted neutral color palette dominated by warm beige, soft ivory, pale taupe, dusty brown, muted charcoal, and gentle skin tones. Minimalistic architectural line-art background with light monochromatic outlines, low visual distraction, and refined depth. Sophisticated magazine-illustration quality, ultra-clean rendering, premium digital portrait craftsmanship, highly polished finish, realistic proportions, subtle elegance, and timeless contemporary portrait aesthetic.
 ```
 
 </details>
@@ -3378,7 +3314,7 @@ Style = {
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HL-jX7DWYAAWlkB.jpg" width="700" alt="Tropical Anime Collectible Style">
+<img src="https://image.moge.ai/prompt_media/HMRw-U-bYAAQ4fp.jpg" width="700" alt="Semi-Realistic Sketch Portrait">
 </div>
 
 <br>
@@ -3387,45 +3323,35 @@ Style = {
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Gadgetify](https://x.com/Gdgtify) | [X / Twitter](https://x.com/Gdgtify/status/2072369392017461322) | 2026-07-01 |
+| [zayan](https://x.com/HustleXR) | [X / Twitter](https://x.com/HustleXR/status/2072905952094040099) | 2026-07-03 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072369392017461322)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072905952094040099)**
 
 </div>
 
 ---
 
-### No. 54: Sunlit Windblown Hair Portrait
+### No. 54: Dreamy Editorial Porsche Portrait
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-A sun-drenched back-turned female portrait with long windblown hair and a light white top against a bright pale blue sky.
+Creates a minimalist editorial fashion photo of a young woman on a vintage pink Porsche 356, shot low-angle against a towering cloud and blue summer sky.
 
 #### 🌟 Prompt
 
-HAIRSTYLE: Ultra‑long, sleek dark brown hair with warm sun‑kissed highlights; soft natural wind‑blown …
+A dreamy editorial fashion photograph of a minimalist young woman sitting gracefully on the roof of a vintage …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-HAIRSTYLE: Ultra‑long, sleek dark brown hair with warm sun‑kissed highlights; soft natural wind‑blown movement, fine strands lifted and flowing freely across the face and outward in the breeze; bright backlight creates luminous glowing edges and soft airy texture, healthy shine fully preserved.
-
-CAPTURE QUALITY: Soft sun‑drenched film‑style portrait, bright airy color palette, subtle fine grain, gentle soft‑focus finish, dreamy lens flare effect, crisp detail on fabric and hair texture — NO over‑smoothing, NO harsh filters, NO CGI.
-
-POSE & EXPRESSION: Relaxed three‑quarter back‑turned pose, looking gently back toward the viewer; calm serene expression, soft natural gaze, exposed shoulder with smooth natural skin texture.
-
-ATTIRE: Loose off‑the‑shoulder white top crafted from lightweight crinkled textured fabric; gathered elasticated neckline, soft billowy folds, natural flow and soft translucent quality enhanced by bright sunlight.
-
-SETTING & LIGHTING: Bright clear pale blue sky with soft wispy haze; high‑angle backlit sunlight creates glowing rim‑light around hair and shoulders, soft diffused frontal illumination, fresh open sunlit atmosphere.
-
-STRICT RULE: All facial features, proportions, pose, clothing design, lighting, and bright airy aesthetic match the reference exactly; zero changes or deviations.
+A dreamy editorial fashion photograph of a minimalist young woman sitting gracefully on the roof of a vintage pastel pink Porsche 356, photographed from a dramatic low-angle perspective against an enormous towering cumulus cloud filling the background. The composition emphasizes vast negative space with a rich deep-blue summer sky, creating a peaceful, cinematic atmosphere. She wears a clean white raglan T-shirt with light gray sleeves, oversized navy wide-leg linen trousers, and simple brown leather slide sandals. Short dark bob haircut gently tousled by the breeze, subtle silver earrings and bracelet, relaxed natural makeup, calm contemplative expression with closed or softly gazing eyes.
 ```
 
 </details>
@@ -3433,7 +3359,7 @@ STRICT RULE: All facial features, proportions, pose, clothing design, lighting, 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMPcsVoXYAACHx3.jpg" width="700" alt="Sunlit Windblown Hair Portrait">
+<img src="https://image.moge.ai/prompt_media/HMWq7cHaEAAqAq0.jpg" width="700" alt="Dreamy Editorial Porsche Portrait">
 </div>
 
 <br>
@@ -3442,59 +3368,79 @@ STRICT RULE: All facial features, proportions, pose, clothing design, lighting, 
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Talia](https://x.com/TaliaAariz) | [X / Twitter](https://x.com/TaliaAariz/status/2072742911645450392) | 2026-07-02 |
+| [K](https://x.com/ChillaiKalan__) | [X / Twitter](https://x.com/ChillaiKalan__/status/2073251156739211475) | 2026-07-04 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072742911645450392)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073251156739211475)**
 
 </div>
 
 ---
 
-### No. 55: Giant-Typography Product Launch Poster
+### No. 55: Premium Organic Honey Ad Poster
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Generates a vertical 3:4 commercial ad poster with the product as hero and a giant typographic headline that morphs into the scene, complete with a full campaign information layout.
+Creates a photorealistic luxury advertising poster for an organic honey brand, featuring a golden glass jar, elegant typography, and feature icons.
 
 #### 🌟 Prompt
 
-[Theme]: [Product Type] New Product Promotion Poster [Brand Name]: [Brand Name] [Product Name]: [Product …
+Create a premium, photorealistic advertising poster for a luxury organic honey brand called "PureBee Honey." …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-[Theme]: [Product Type] New Product Promotion Poster
-[Brand Name]: [Brand Name]
-[Product Name]: [Product Name]
-[Main Headline (Large Text)]: [e.g., SCENT / TIME / SOUND / EXPLORE]
-[Sub-headline]: [A short, catchy slogan]
-[Color Palette]: [Primary Color + Secondary Color + Accent Color]
-[Subject/Model Type]: [e.g., No models / Male model / Female model / Trendy figure / Outdoor enthusiast]
-[Scene/Atmosphere]: [e.g., Fragrance space / Time tunnel / Sound wave trajectory / Mountain terrain]
-[Key Selling Points]: [Point 1], [Point 2], [Point 3], [Point 4]
-[Aspect Ratio]: Vertical 3:4
-Please generate a high-definition commercial advertising poster in a vertical 3:4 aspect ratio (single image only; no collages or multi-panel layouts).
+Create a premium, photorealistic advertising poster for a luxury organic honey brand called "PureBee Honey." The design should be in a vertical A4 portrait layout with a clean, modern commercial branding style.
 
-This is a promotional poster for an original, fictional brand; do not include logos of real-world brands. The overall style is a "product-focused poster featuring large-scale, perspective-driven typography." The image should resemble the key visual of an official brand campaign, conveying a professional commercial aesthetic, strong typographic design, a sense of product launch excitement, visual impact, and a comprehensive information layout.
+Use a warm golden, honey-yellow, cream, and dark brown color palette. Add realistic honey dripping from the top edge, subtle honeycomb patterns, flying bees with dotted flight paths, green leaves, and soft floral accents. The background should feature a softly blurred countryside landscape with warm natural sunlight for an organic, farm-fresh atmosphere.
 
-The core subject of the image is the [Product Name]. The product must be rendered clearly and exquisitely—like a "hero product" in an advertisement—positioned in the foreground or the lower-center area. It should feature realistic materials, structural integrity, and sharp details; it must not appear too small or blurry. Incorporate appropriate figures or usage scenarios based on the product type (e.g., male/female models, trendy individuals, outdoor enthusiasts, or actions/moods associated with the user). Models should look authentic and sophisticated, reinforcing the brand's identity without overshadowing the product itself.
+Place a large realistic glass jar of golden honey on the right side, with a premium cream-colored label reading "PureBee Honey", including a small bee logo, "Raw & Unfiltered", "100% Pure & Natural", and "Net Wt. 500g". Position the jar on a rustic wooden slice with a wooden honey dipper dripping fresh honey, honeycomb pieces, and white blossoms around it.
 
-The main headline ([Main Headline (Large Text)]) must serve as the visual backbone of the composition, utilizing an oversized, bold sans-serif typeface that dominates the frame. The text should not merely be a standard heading but an integral part of the image's spatial structure—transforming into elements such as a background wall, a track, a highway, a ramp, a time tunnel, a sound wave path, a fragrance-filled space, a mountain trail, a perspective-shifting installation, or a key brand symbol. The product, the figure, and the headline must share a unified spatial logic, establishing realistic foreground-background relationships, occlusion, contact shadows, and perspectival depth.
+On the left side, create a bold typographic hierarchy:
 
-The composition must incorporate a complete, formal poster information system; it should not look empty or like a generic stock image. Place the brand name in the top-left corner and campaign sub-text (e.g., NEW RELEASE / PRODUCT CAMPAIGN / SERIES 2026) in the top-right. Include vertical text, product codes, series numbers, or campaign IDs along the side. Add 3–5 concise feature/selling-point tags near the product (e.g., [Feature 1], [Feature 2], etc.). Include a formal information bar at the bottom containing the product name, subtitle, release date, key specifications, fine-print credits, divider lines, and decorative barcodes or serial numbers. Small text may function as stylistic "micro-typography"—not every character needs to be perfectly legible, but the brand name, product name, and main headline must be clear.
+PURE (large bold distressed uppercase)
 
-The color palette should center on a [Primary Tone], with the background crafted to evoke a specific atmosphere—such as a minimalist fashion space, an aromatic mist environment, a metallic/mechanical setting, a neon-lit musical space, an outdoor wilderness, or a snowy, rocky landscape. Subtle elements like light and shadow, mist, reflections, grain, wind effects, atmospheric perspective, motion trails, or material refractions can be added to enhance the premium feel, provided the result remains uncluttered and avoids a cheap e-commerce aesthetic.
+Goodness (elegant golden handwritten script)
 
-The image must be high-resolution and sharp, with accurate perspective, realistic textures, and consistent lighting, resembling an authentic brand campaign poster. It is suitable for categories such as perfumes, watches, headphones, digital products, outdoor apparel, sports brands, and consumer goods.
+STRAIGHT FROM NATURE (classic serif uppercase)
 
-Avoid: collages or multi-image composites, actual brand logos, generic stock photos, cheap e-commerce aesthetics, cartoonish styles, cluttered backgrounds, undersized products, artificial-looking faces on figures, flat/generic headline styling, or insufficient information areas.
+Add supporting text:
+
+Raw. Natural. Unfiltered. Honey as nature intended.
+
+Below, include three premium feature icons with captions:
+
+100% Pure – No additives. No compromises.
+
+Natural Goodness – Rich in antioxidants & nutrients.
+
+Sourced With Care – From happy bees and trusted beekeepers.
+
+At the top center, place the PureBee Honey logo with a bee illustration and the tagline:
+
+PURE • NATURAL • TRUSTED
+
+Add a dark brown ribbon badge in the top-right corner reading:
+
+100% PURE & NATURAL
+
+Create a premium curved footer in dark chocolate brown with gold accents. Include:
+
+Sweet by Nature, Made with Care.
+
+A gold banner reading:
+
+GOOD FOR YOU. GOOD FOR NATURE.
+
+On the right side of the footer, add an ORDER NOW section with phone, WhatsApp, Instagram, and location icons, using realistic placeholder contact details.
+
+Style: high-end food advertising, luxury product branding, ultra-realistic packaging mockup, commercial photography, soft studio lighting, premium typography, elegant composition, shallow depth of field, glossy glass reflections, crisp details, cinematic color grading, 8K, print-ready, award-winning advertising design.
 ```
 
 </details>
@@ -3502,7 +3448,7 @@ Avoid: collages or multi-image composites, actual brand logos, generic stock pho
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMMJbX6aMAA7CkI.jpg" width="700" alt="Giant-Typography Product Launch Poster">
+<img src="https://image.moge.ai/prompt_media/HMT6bdrXIAADEPx.jpg" width="700" alt="Premium Organic Honey Ad Poster">
 </div>
 
 <br>
@@ -3511,48 +3457,35 @@ Avoid: collages or multi-image composites, actual brand logos, generic stock pho
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [PixuryAI](https://x.com/PixuryAI) | [X / Twitter](https://x.com/PixuryAI/status/2072510729090167081) | 2026-07-02 |
+| [Abkr Sadiq](https://x.com/abs_uiux) | [X / Twitter](https://x.com/abs_uiux/status/2073057092152287409) | 2026-07-03 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072510729090167081)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073057092152287409)**
 
 </div>
 
 ---
 
-### No. 56: Risograph Travel Poster
+### No. 56: Cinematic Concept Art Illustration
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Generates a modern risograph-style travel poster with vector-style illustrations of a destination's landmarks, overlapping fluorescent inks, and grainy print texture.
+Transforms reference objects into a semi-realistic digital illustration with cinematic concept art aesthetics, bold brushstrokes, and high-contrast warm lighting.
 
 #### 🌟 Prompt
 
-Create a stylish modern travel poster inspired by risography about {DESTINATION\_NAME}. Use simplified …
+Using 100% likeness of (reference) objects, transformed into a dynamic, semi-realistic digital illustration …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a stylish modern travel poster inspired by risography about {DESTINATION_NAME}. Use simplified illustrated imagery representing the destination's most iconic landmarks, architecture, landscapes, cultural elements, transportation, local wildlife, food, markets, traditional objects, street scenes, natural features, and symbolic details. Include small abstract decorative motifs and graphic elements that reflect the destination's identity without copying any specific artwork.
-
-Create a bold, multi-layered risographic poster featuring imperfect ink registration, translucent overlapping fluorescent inks, authentic halftone grain, rough recycled paper texture, flat vector-style illustrations, playful geometric forms, organic shapes, dynamic editorial composition, intentional print imperfections, and layered color separations typical of independent risograph printing.
-
-Use a vibrant palette of fluorescent pink, electric blue, warm yellow, orange-red, leafy green, rich cobalt blue, and complementary accent colors on a clean white paper background. Balance bold color overlaps with generous negative space for a contemporary gallery-quality aesthetic.
-
-Typography:
-• Main Title: "{DESTINATION_NAME}"
-• Subtitle: "{SHORT_DESTINATION_DESCRIPTION}"
-• Footer: "ARTISTIC PRINTING · {DESTINATION_THEME} · {YEAR}"
-
-The overall design should feel bright, cultural, modern, playful, collectible, and suitable as a premium independent art print celebrating the destination's unique identity. Emphasize originality, visual storytelling, and contemporary editorial poster design inspired by traditional risographic printing techniques.
-
-Avoid copying any existing poster, artist's signature style, corporate branding, tourism campaign, logo, mascot, copyrighted character, exact composition, recognizable commercial design, or protected visual identity. Create a completely original composition inspired only by risograph printing aesthetics and modern independent poster design.
+Using 100% likeness of (reference) objects, transformed into a dynamic, semi-realistic digital illustration style with a cinematic concept art aesthetic, combining sharp anime-inspired rendering and high-end game splash art. Strong, angular brushstrokes with confident hand-painted strokes, clean yet expressive line accents, and artistic layered shading. High-contrast lighting with bright warm highlights and deep neutral shadows, creating dramatic depth and intensity. The color palette is dominated by warm ivory, soft beige, sand, light gray, charcoal, and bright orange as the main accents, with subtle black details. Smooth gradient transitions mixed with sharp edge highlights, realistic material rendering for metal, fabric, and hard surfaces. Energetic composition, highly detailed textures, bold and smooth silhouettes. No text, no logo, no watermark. AR 9:16.
 ```
 
 </details>
@@ -3560,7 +3493,7 @@ Avoid copying any existing poster, artist's signature style, corporate branding,
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMSEFVSacAABqjz.jpg" width="700" alt="Risograph Travel Poster">
+<img src="https://image.moge.ai/prompt_media/HMUWVknXsAEsFmP.jpg" width="700" alt="Cinematic Concept Art Illustration">
 </div>
 
 <br>
@@ -3569,13 +3502,13 @@ Avoid copying any existing poster, artist's signature style, corporate branding,
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Saul Goodman](https://x.com/Goodmanprotocol) | [X / Twitter](https://x.com/Goodmanprotocol/status/2072926988587929997) | 2026-07-03 |
+| [zayan](https://x.com/HustleXR) | [X / Twitter](https://x.com/HustleXR/status/2073087788858372604) | 2026-07-03 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072926988587929997)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073087788858372604)**
 
 </div>
 
@@ -3711,23 +3644,25 @@ Quality: Ultra-realistic, 8K, HDR, crisp skin texture, highly legible typography
 
 ---
 
-### No. 59: Photo to Cute Cartoon Sketch
+### No. 59: Dreamy Canal-Side Portrait
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Creates a 2x4 comparison grid transforming real photos of children into minimalist black-and-white chibi cartoon characters.
+A cinematic scratch-pen illustration of a pensive young woman sitting by a European-style urban canal.
 
 #### 🌟 Prompt
 
-A 2-row by 4-column compilation grid showcasing a transformation from real photos to 2D cartoon sketches. Top …
+Ultra-realistic IMAX-level Netflix-style cinematic scratch-pen illustration portrait, 9:16 vertical …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-A 2-row by 4-column compilation grid showcasing a transformation from real photos to 2D cartoon sketches. Top Row (Row 1): Features 4 distinct realistic photographs of different stylish children and teenagers with expressive faces and varied hairstyles (such as bob cuts, messy short hair, long wavy hair, and pigtails). Bottom Row (Row 2): Directly underneath each photo, display its corresponding 2D minimalist cartoon character transformation. The sketches must be clean black line art on a solid white background, featuring cute chibi-style faces, large expressive eyes, and simple charming smiles that retain the core hairstyle identity of the photo above it. Overall aesthetic should be high-quality digital art, perfectly aligned, organized as a neat split comparison sheet, modern children's book illustration style.
+Ultra-realistic IMAX-level Netflix-style cinematic scratch-pen illustration portrait, 9:16 vertical composition, create a beautiful young adult woman sitting peacefully beside a calm city canal in a dreamy European-style urban park, captured in an elegant side-profile pose with one knee raised, one elbow resting on her knee and her chin softly supported by her hand, her face turned upward with a calm thoughtful expression, relaxed brows, soft dreamy eyes, naturally defined lips and quiet artistic emotion, her luminous fair porcelain milky-white skin rendered through delicate scratch-pen shading, fine ink lines and soft grey wash highlights, her hair styled in a loose messy low bun with airy strands and natural movement around her face, wearing a loose oversized grey shirt with rolled sleeves, a flowing black skirt, white chunky sneakers, a slim wristwatch and a black crossbody bag resting near her side, surrounded by peaceful city-life details including white seagulls near her feet, koi fish swimming in the reflective canal water, people sitting on benches, a man reading a newspaper, soft urban crowds, old street lamps, railings, elegant classical buildings, distant tower architecture, leafy trees and a serene riverside walkway, artwork style must look like a premium scratch-pen design with fine black ink outlines, visible cross-hatching, etched line texture, soft pencil-like grey shading, muted pastel watercolor accents, hand-drawn architectural details, delicate bird feather strokes, water ripple sketch marks and clean ivory paper texture, lighting soft and cinematic with gentle daylight glow, subtle highlights on her face, hair, clothes and water surface, ultra-rich but soft color harmony with ivory paper tones, pale grey shadows, muted green foliage, soft blue water reflections and refined black ink contrast, premium editorial illustration mood, highly detailed linework, artistic sketchbook finish, masterpiece quality.
+
+Negative Prompt: photorealistic camera look, oil painting, heavy watercolor wash, messy linework, distorted face, bad anatomy, extra fingers, blurry details, harsh colors, flat shading, poor perspective, unreadable background, text, watermark, logo, low quality.
 ```
 
 </details>
@@ -3735,7 +3670,7 @@ A 2-row by 4-column compilation grid showcasing a transformation from real photo
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMKB_fUagAER70Q.jpg" width="700" alt="Photo to Cute Cartoon Sketch">
+<img src="https://image.moge.ai/prompt_media/HMPycZnbsAARDON.jpg" width="700" alt="Dreamy Canal-Side Portrait">
 </div>
 
 <br>
@@ -3744,36 +3679,35 @@ A 2-row by 4-column compilation grid showcasing a transformation from real photo
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Cherry 2.O](https://x.com/Mind_Boticni) | [X / Twitter](https://x.com/Mind_Boticni/status/2072361733273117108) | 2026-07-01 |
+| [Gopal Tiwari](https://x.com/imGopalTiwari) | [X / Twitter](https://x.com/imGopalTiwari/status/2072840244890902931) | 2026-07-03 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072361733273117108)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072840244890902931)**
 
 </div>
 
 ---
 
-### No. 60: Parisian Luxury Fashion Ad
+### No. 60: Luxury Salon Long-Hair Portrait
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-Creates a black-and-white Parisian editorial-style luxury fashion ad with an elegant model, iconic architecture, and refined magazine typography.
+Creates an ultra-realistic cinematic portrait of a young woman with long wavy black hair in a luxury salon lit by golden bokeh.
 
 #### 🌟 Prompt
 
-Create a premium luxury fashion advertisement in a minimalist Parisian editorial style. A sophisticated woman …
+A cinematic 8K high-resolution portrait of a stunning young woman with striking green eyes, subtle freckles, …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a premium luxury fashion advertisement in a minimalist Parisian editorial style. A sophisticated woman wearing oversized black sunglasses and a structured black wool coat with a high collar stands confidently on a classic Parisian street. She is positioned on the lower right of the composition, looking toward the left with a calm, elegant expression. Her hair is styled in a sleek low bun. The background features iconic Parisian architecture with soft cinematic depth of field and the Eiffel Tower subtly visible in the distance. The entire image is black and white with deep contrast, soft natural lighting, crisp details, and a timeless high-fashion aesthetic. The layout resembles a luxury magazine cover with generous negative space. At the top center, place a large elegant serif brand name, with a small uppercase location above it and a refined collection title beneath it. On the left side, include a bold, uppercase fashion slogan in a modern sans-serif font. Below it, add a short collection description in small, clean typography. Finish with a minimalist black footer containing a website, boutique location, and social media icons.
-Luxury branding, Vogue editorial, Harper's Bazaar aesthetic, Swiss grid layout, premium typography, minimalist composition, cinematic photography, ultra-realistic, 85mm lens, shallow depth of field, soft ambient light, monochrome, 8K, magazine-quality print, vertical A4 poster.
+A cinematic 8K high-resolution portrait of a stunning young woman with striking green eyes, subtle freckles, rosy cheeks, and soft Douyin-style makeup featuring coral lipstick. She has extremely long, voluminous, and wavy jet-black hair flowing past her waist. She is wearing an elegant all-black outfit consisting of a button-up shirt and a matching skirt. She is standing inside a luxury salon background with warm, golden bokeh lighting. In the background, there is a prominent black and gold sign that reads "HAIR FANTASY ACADEMY - WHERE EXTRAORDINARY HAIR BECOMES REALITY" with a stylized hair logo. The shot is captured with a professional DSLR camera, highly detailed texture, realistic skin pores, and a sophisticated, ultra-realistic fashion photography style.
 ```
 
 </details>
@@ -3781,7 +3715,7 @@ Luxury branding, Vogue editorial, Harper's Bazaar aesthetic, Swiss grid layout, 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMNuXfvbgAAhQiz.jpg" width="700" alt="Parisian Luxury Fashion Ad">
+<img src="https://image.moge.ai/prompt_media/HMUfQpHXUAA2LRW.jpg" width="700" alt="Luxury Salon Long-Hair Portrait">
 </div>
 
 <br>
@@ -3790,71 +3724,52 @@ Luxury branding, Vogue editorial, Harper's Bazaar aesthetic, Swiss grid layout, 
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Harboris](https://x.com/harboriis) | [X / Twitter](https://x.com/harboriis/status/2072621622796726279) | 2026-07-02 |
+| [Talia](https://x.com/TaliaAariz) | [X / Twitter](https://x.com/TaliaAariz/status/2073097579860988361) | 2026-07-03 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072621622796726279)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073097579860988361)**
 
 </div>
 
 ---
 
-### No. 61: Ripped-Paper Brand Collage Poster
+### No. 61: Product Cutaway Theater Ad
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a scrapbook-style collage poster for a brand, combining a 3D product render, torn-edge photos, tape, and industrial-style stamps.
+Creates a premium advertising image showing the product in a cinematic cutaway cross-section, where each inner layer reveals function, texture, and emotional value.
 
 #### 🌟 Prompt
 
-[BRAND NAME] [PRODUCT TYPE] (Clothing / Food / Automotive / Tech) Create a polished professional …
+Create a premium advertising image for [PRODUCT / BRAND]. Visual system: Product Cutaway Theater. Show the …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-[BRAND NAME]
+Create a premium advertising image for [PRODUCT / BRAND].
 
-[PRODUCT TYPE] (Clothing / Food / Automotive / Tech)
+Visual system: Product Cutaway Theater.
 
-Create a polished professional scrapbook-style collage poster for [BRAND NAME], built around a [PRODUCT TYPE].
+Show the product as the hero, opened through a clean cinematic cross-section, not exploded randomly. The inside should feel like a staged visual world where each layer reveals the product’s function, texture, benefit, and emotional value.
 
-1. HERO PRODUCT AT THE BOTTOM
+The cutaway layers must look intentional, elegant, and premium:
+- outer shell / packaging
+- inner material structure
+- performance or sensory layer
+- invisible benefit made visible
 
-- Main object: A crisp, realistic, high-definition 3D render of the [BRAND NAME] [PRODUCT TYPE], positioned at the bottom center.
+Use high-end studio lighting, dramatic shadows, refined composition, ultra-realistic product rendering, macro detail, premium commercial finish, sharp focus, 16:9 aspect ratio.
 
-- Placement: Set the product at a slight angle for dimensional depth, resting on a clean off-white floor with soft, believable contact shadows.
+Avoid messy parts, medical x-ray style, childish labels, cluttered infographics, cheap 3D, random floating objects, and excessive text.
 
-2. LAYERED COLLAGE STRUCTURE
-
-- Photo stack: Above the hero product, build a vertical arrangement of overlapping photos with rough torn-paper edges and ragged handmade borders.
-
-- Photo content: Show the [PRODUCT TYPE] being used, lifestyle scenes connected to [BRAND NAME], and close-up detail shots of the product.
-
-- Material pieces: Add physical texture swatches related to the [PRODUCT TYPE], such as leather or fabric for clothing, metal or carbon fiber for cars, or natural ingredients for food. Make raw edges, fibers, seams, and stitching visible.
-
-- Fasteners: Hold the collage pieces together with semi-transparent masking tape and black duct tape printed with the [BRAND NAME] logo in white.
-
-3. GRAPHIC DETAILS AND STAMPS
-
-- Stamp element: Place a distressed black ink stamp or seal near the hero product that reads: "AUTHENTIC QUALITY // SUSTAINABLE CHOICE".
-
-- Typography: Add small clean sans-serif captions and typewriter-style text blocks near the bottom, describing the heritage and identity of [BRAND NAME].
-
-- Logo: Put the main [BRAND NAME] logo at the very bottom center in a minimal, refined font.
-
-4. VISUAL STYLE AND ATMOSPHERE
-
-- Overall aesthetic: Industrial DIY workshop moodboard mixed with high-end editorial collage design.
-
-- Lighting: Bright high-key studio lighting, with soft layered shadows separating the paper scraps, material swatches, tape, photos, and product.
-
-- Quality: 8K output, extremely detailed paper grain, fabric fibers, torn edges, stitching, tape adhesive, and realistic surface textures.
+Optional text on image:
+[SHORT CAMPAIGN LINE]
 ```
 
 </details>
@@ -3862,7 +3777,7 @@ Create a polished professional scrapbook-style collage poster for [BRAND NAME], 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMK2pPRbgAADAR_.jpg" width="700" alt="Ripped-Paper Brand Collage Poster">
+<img src="https://image.moge.ai/prompt_media/HMTeoIOXQAANwl2.jpg" width="700" alt="Product Cutaway Theater Ad">
 </div>
 
 <br>
@@ -3871,83 +3786,73 @@ Create a polished professional scrapbook-style collage poster for [BRAND NAME], 
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [PromptLab](https://x.com/iamaiistudio) | [X / Twitter](https://x.com/iamaiistudio/status/2072419986220675238) | 2026-07-01 |
+| [AZIZ \| AI 🇸🇦](https://x.com/aziz4ai) | [X / Twitter](https://x.com/aziz4ai/status/2073026525243310084) | 2026-07-03 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072419986220675238)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073026525243310084)**
 
 </div>
 
 ---
 
-### No. 62: Black Doodle Teasing Portrait
+### No. 62: Type Couture Fashion Editorial
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Creates a surreal studio portrait combining a realistic person with a minimalist black doodle figure that playfully bullies them in a funny, meme-like way.
+Creates a high-end fashion editorial poster where oversized typography becomes part of the composition, with the model and garments interacting with the letters.
 
 #### 🌟 Prompt
 
-Use the uploaded portrait as the strict identity reference. Preserve the person’s face, facial structure, …
+Create a high-end type couture editorial poster where typography becomes part of the fashion composition. …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Use the uploaded portrait as the strict identity reference. Preserve the person’s face, facial structure, eyes, nose, lips, skin tone, hairstyle, hair color, age impression, gender presentation, and overall recognizable vibe.
+Create a high-end type couture editorial poster where typography becomes part of the fashion composition.
 
-Create a high-quality surreal mixed-style portrait featuring:
+Theme: [fashion campaign / couture poster / lookbook / designer editorial / luxury visual]
+Direction: [circular window luxury editorial / stacked type seated poster / transparent typography garment / diagonal motion fashion editorial]
+Brand name: [original fictional brand name]
+Main title: [original title]
+Subtitle: [short original subtitle]
+Subject: [adult fashion model / coat look / seated menswear look / experimental garment / walking couture look]
+Mood: [luxury / minimal / experimental / elegant / structured / editorial]
+Color palette: [cream-white-black / soft grey / black-white / warm neutral]
+Aspect ratio: [9:16]
 
-1. The uploaded person as a realistic human subject
-2. A mysterious simple black line-doodle figure physically teasing or bothering them in a funny way
+The poster should feel like a premium fashion campaign, designer lookbook page or couture editorial.
 
-The real person must remain realistic, attractive, natural, and recognizable — not cartoon or anime. Keep their original gender presentation and create a clean studio-photo look.
+Use oversized typography as part of the visual structure, not just as a title.
+Make the words interact with the model, garment or space through overlap, masking, cropping, transparency, diagonal slicing, circular framing or spatial layering.
 
-The doodle character should be a minimalist black hand-drawn stick/line figure:
+Choose one direction:
 
-- bold black outlines only
-- simple head and body
-- tiny dot eyes or blank face
-- no identity, color, shading, clothing, or realistic details
-- flat graphic style contrasting with the realistic person
+1. Circular window luxury editorial
+   Use a clean white background, a large circular image window, a full-body fashion model in a luxury coat, and refined serif typography. Let the model stand in front of the circular scene.
 
-Choose one random playful “bullying” interaction each time, such as:
+2. Stacked type seated poster
+   Use huge black block letters as a background structure. Place a seated fashion model in front of the letters, with the chair and body partially overlapping the type.
 
-- gently grabbing arms, legs, wrists, or shoulders
-- dragging or lifting them awkwardly
-- wrapping around or trapping them
-- carrying them like an object
-- squeezing them into a silly pose
-- covering their mouth playfully
-- making them sit or lie awkwardly
+3. Transparent typography garment
+   Use a walking fashion model wearing a transparent outer layer covered with original letterforms, thin lines and abstract typography, as if text becomes fabric.
 
-The interaction should feel mischievous, annoying, absurd, cute, and meme-like — never violent, scary, sexual, or harmful.
+4. Diagonal motion fashion editorial
+   Use a walking couture model with flowing white fabric. Add large diagonal typography bands cutting across the composition, matching the motion of the garment.
 
-The person’s reaction should naturally match:
-annoyed, confused, tired, embarrassed, surprised, unamused, helpless, or mildly frustrated. Keep it funny and relatable, not exaggerated.
+Keep all text original.
+Do not use real brand names, real magazine names, issue numbers, dates, barcodes, URLs, watermarks, copyright marks or reference-image wording.
 
-Choose a simple clean outfit that fits the person:
-casual clothing, sweatshirt, knitwear, T-shirt, loungewear, minimal fashion, or neat everyday style.
+Keep it refined, original, editorial and visually designed.
 
-Use a plain white, gray, or neutral studio background. Avoid clutter and distractions.
+Avoid cheap templates, cluttered layouts, random small text, fake logos, messy typography, distorted anatomy, broken hands, plastic skin and low-end fashion ad style.
 
-Composition:
-
-- vertical 4:5 or 9:16
-- full-body or 3/4-body framing
-- show both characters clearly
-- doodle figure must physically interact with the person
-
-Style goals:
-realistic photography + flat black doodle art, strong contrast, surreal meme humor, clean polished social-media aesthetic, realistic anatomy, strong identity match.
-
-Negative prompt:
-gore, blood, injury, horror, abuse, sexual content, creepy monster, realistic creature, detailed doodle face, colored doodle, messy background, cartoon human, anime style, weak resemblance, extra limbs, bad anatomy, floating body, no contact, text, watermark.
+Generate one finished poster only.
 ```
 
 </details>
@@ -3955,7 +3860,7 @@ gore, blood, injury, horror, abuse, sexual content, creepy monster, realistic cr
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMR05mSaIAA7JGp.jpg" width="700" alt="Black Doodle Teasing Portrait">
+<img src="https://image.moge.ai/prompt_media/HMUDAFeXMAAcrON.jpg" width="700" alt="Type Couture Fashion Editorial">
 </div>
 
 <br>
@@ -3964,13 +3869,13 @@ gore, blood, injury, horror, abuse, sexual content, creepy monster, realistic cr
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Oogie](https://x.com/oggii_0) | [X / Twitter](https://x.com/oggii_0/status/2072910272101335103) | 2026-07-03 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2073066567328321783) | 2026-07-03 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072910272101335103)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073066567328321783)**
 
 </div>
 
@@ -4325,23 +4230,53 @@ Create it
 
 ---
 
-### No. 65: Webtoon Chibi Girls Grid
+### No. 65: Quiet Minimalist Pastel Anime Style
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Creates a 4-panel grid collage of four stylish chibi girls in a Korean webtoon aesthetic, with minimalist flat vector design and vibrant colors.
+A style director that applies a minimalist, pastel, and serene anime aesthetic to any subject, using simplified forms, soft cel shading, and little to no line art.
 
 #### 🌟 Prompt
 
-A clean 4-panel grid art collage featuring four distinct, stylish chibi girls in a Korean webtoon aesthetic. …
+You are a visual style director for a quiet minimalist anime inspired illustration style. Apply this style to …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-A clean 4-panel grid art collage featuring four distinct, stylish chibi girls in a Korean webtoon aesthetic. The illustration uses a minimalist flat vector design with bold, crisp black outlines and a pop-art comic vibe. Each panel features a unique solid color backdrop, including vibrant teal, bright sun yellow, and deep royal blue. The characters have large glossy anime-style dark eyes, softly blushed pink cheeks, and trendy hairstyles such as neat side-braids and elegant low buns. They wear fashionable high-contrast striped turtlenecks and sleek black sweaters, accessorized with oversized colorful hoop earrings. Perfect symmetry, high resolution, graphic art style. --ar 3:4
+You are a visual style director for a quiet minimalist anime inspired illustration style. Apply this style to any subject the user provides, including characters, animals, objects, interiors, landscapes, architecture, fantasy scenes, symbolic compositions, and still life subjects.
+
+The style is defined by restraint, silence, soft shape design, and clear emotional atmosphere. Do not chase realism. Do not add excessive detail. Do not decorate the image beyond what the subject requires. The final image should feel calm, suspended, pale, and dreamlike, as if built from simple color planes and gentle light.
+
+Use a soft pastel color palette with low saturation. Favor misty blue, grey green, warm ivory, pale rose, soft lavender, muted beige, off white, charcoal black, and washed sky tones. Keep contrast gentle. Dark values may appear in hair, silhouettes, trees, shadows, or small anchors, but they should not overpower the image.
+
+Use clean simplified forms. Build the subject from broad readable shapes. Edges should be smooth and controlled. Details should be reduced to their most essential visual function. Clothing, fur, feathers, leaves, water, stone, glass, and clouds should be suggested through shape, tone, and rhythm rather than through dense texture.
+
+Use no line art or very low line art. Avoid heavy outlines. Separate forms through color boundaries, soft shadow shapes, and subtle value shifts. The image should look designed rather than rendered.
+
+Use soft cel shading. Shadows should be flat, simple, and quiet, with two or three main value steps. Avoid glossy highlights, hard rim lighting, intense bloom, dramatic contrast, and heavy painterly brushwork. Lighting should feel diffused, like an overcast sky, pale morning, late afternoon haze, or reflected light near water.
+
+For character subjects, use anime inspired proportions and a delicate silhouette. Faces may be simplified, faceless, or minimally indicated depending on the subject request. Hair should be treated as a strong graphic shape with a few flowing strands. Poses should feel still, inward, modest, and composed. Avoid exaggerated expression, theatrical gesture, and busy costume detail.
+
+For animal subjects, simplify the anatomy into soft masses and clear silhouettes. Eyes, ears, tails, wings, paws, horns, scales, or feathers should be reduced to elegant readable shapes. Preserve the animal’s identity without turning it into a realistic wildlife study.
+
+For object subjects, treat the object like a quiet emblem. Use clean shape, soft contact shadow, limited detail, and gentle color separation. The object should feel placed in air and light rather than photographed.
+
+For landscapes and environments, use layered flat shapes. Distant trees, hills, buildings, water, sky, clouds, paths, windows, and reflections should be simplified into calm bands and planes. Atmosphere is more important than precision. Use negative space generously.
+
+Composition should be calm and uncluttered. Center the subject or place it slightly off center with careful balance. Leave breathing room around the main form. Use background elements to frame the subject softly, not to compete with it.
+
+The mood should be quiet, ethereal, wistful, and clear. Avoid melodrama. Avoid horror unless the user explicitly asks for it, and even then keep the style restrained and poetic rather than graphic.
+
+Do not use generic quality tags or empty promotional language. Avoid phrases such as masterpiece, best quality, ultra detailed, hyper realistic, cinematic, award winning, stunning, breathtaking, insanely detailed, trending, perfect anatomy, professional render, 8k, or beautiful lighting. Describe only the actual visual decisions that shape the image.
+
+Do not add text, logos, watermarks, signatures, captions, interface elements, or decorative borders unless the user explicitly requests them.
+
+Do not sexualize subjects. Do not add fetishized posing, revealing emphasis, explicit anatomy, or voyeuristic framing. Keep the image suitable for a refined illustration portfolio.
+
+When adapting the style to a new subject, preserve these constants: pastel restraint, simplified forms, soft cel shading, low or absent outlines, quiet composition, gentle atmosphere, reduced detail, and an inward dreamlike mood.
 ```
 
 </details>
@@ -4349,7 +4284,7 @@ A clean 4-panel grid art collage featuring four distinct, stylish chibi girls in
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMJEguTb0AA99uW.jpg" width="700" alt="Webtoon Chibi Girls Grid">
+<img src="https://image.moge.ai/prompt_media/HMP0XinWwAEtkmU.jpg" width="700" alt="Quiet Minimalist Pastel Anime Style">
 </div>
 
 <br>
@@ -4358,49 +4293,35 @@ A clean 4-panel grid art collage featuring four distinct, stylish chibi girls in
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Cherry 2.O](https://x.com/Mind_Boticni) | [X / Twitter](https://x.com/Mind_Boticni/status/2072294123152044416) | 2026-07-01 |
+| [Emily](https://x.com/IamEmily2050) | [X / Twitter](https://x.com/IamEmily2050/status/2072769110426136659) | 2026-07-02 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072294123152044416)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072769110426136659)**
 
 </div>
 
 ---
 
-### No. 66: Luxury Eyewear Campaign Portrait
+### No. 66: Iced Caramel Latte Ad Photography
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-Creates a photorealistic menswear portrait on an urban rooftop, featuring oversized sunglasses as the centerpiece in a minimal luxury commercial style.
+Creates a commercial photo of an iced caramel latte with pouring espresso, caramel drips, and a warm studio backdrop.
 
 #### 🌟 Prompt
 
-A photorealistic premium fashion eyewear campaign featuring a stylish young male model (20-26) with a slim …
+A professional commercial food photography of an iced caramel latte in a clear plastic cup with a red heart …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-A photorealistic premium fashion eyewear campaign featuring a stylish young male model (20-26) with a slim build, photographed in a modern urban rooftop setting under bright natural midday sunlight. The image embodies minimal luxury, Scandinavian simplicity, and contemporary menswear aesthetics, with oversized square sunglasses as the unmistakable visual centerpiece. The sunglasses feature a thin matte black acetate frame and warm amber gradient lenses that softly reveal the model's eyes while catching realistic daylight reflections.
-
-The model has an oval face with softly defined jawline, balanced cheekbones, light neutral skin with realistic pores and a healthy matte finish, medium straight eyebrows, a straight nose, natural matte lips, and a clean-shaven appearance. His hairstyle is a modern French crop with short straight dark brown hair, a blunt fringe, and a natural matte finish. His expression is calm, relaxed, confident, and thoughtful, with his gaze directed off-camera to the left. His mouth remains naturally relaxed while his head is turned into a subtle three-quarter profile, creating an elegant editorial pose.
-
-He wears a premium heavyweight black cotton crew-neck T-shirt with a tailored relaxed fit, reflecting quiet luxury and minimalist menswear. The composition is a tight head-and-shoulders portrait captured at eye level, with the subject positioned slightly left of center against a softly blurred background of clean modern architecture in light grey, white, and soft blue tones. The shallow depth of field creates smooth architectural bokeh that enhances the luxury commercial aesthetic without distracting from the subject.
-
-Lighting consists of bright natural midday sunlight coming from the upper front-right, balanced with a large white reflector that softly fills facial shadows. The result is medium contrast with defined yet clean shadows that preserve natural skin texture and realistic facial depth. Warm amber reflections on the sunglasses subtly complement the neutral color palette while adding visual richness.
-
-Captured on a Sony A1 with an 85mm GM prime lens at f/2, 1/1600 sec, ISO 100, daylight white balance, producing an exceptionally sharp portrait with shallow depth of field and cinematic optical separation. Every detail, including realistic skin pores, individual hair strands, soft cotton fabric texture, and crisp acetate frames with authentic reflections, is rendered with commercial-level precision.
-
-Color grading follows a premium commercial style with balanced contrast, soft natural highlights, clean shadows, slightly muted saturation, and warm, realistic skin tones. The overall palette blends deep black, warm beige, amber, soft brown, and cool architectural greys for a refined luxury feel. Post-processing includes high-end editorial beauty retouching, medium-high clarity, selective sharpening on the eyes, sunglasses, and facial contours, wide dynamic range, and an ultra-clean commercial finish.
-
-The overall mood is modern, clean, confident, luxurious, fresh, urban, and understated, inspired by luxury eyewear campaigns from Gentle Monster, Persol, Oliver Peoples, COS, and Acne Studios. The final image should resemble an elite high-end commercial portrait with flawless realism, maximum dynamic range, exceptional sharpness, and true 8K quality.
-
-Negative prompt: cartoon, anime, HDR, oversaturated colors, plastic skin, heavy facial hair, busy background, text, watermark, low resolution, noise, deformed anatomy.
+A professional commercial food photography of an iced caramel latte in a clear plastic cup with a red heart logo, placed on a round stone pedestal. Thick white milk foam on top, drizzled with a perfect grid pattern of golden caramel sauce. Fresh dark espresso shot is being poured from a small glass pitcher at the top into the cup in mid-air. In the background, there is a warm beige studio backdrop with gooey caramel dripping from the top corners. Around the main cup on a beige table, there is a small plate with caramel cubes, a bowl of caramel sauce, a glass shot of espresso, a small glass jug of fresh milk, a freshly baked flaky pastry, and scattered coffee beans. Studio lighting, soft shadows, warm aesthetic, 8k resolution, photorealistic, commercial advertisement style.
 ```
 
 </details>
@@ -4408,7 +4329,7 @@ Negative prompt: cartoon, anime, HDR, oversaturated colors, plastic skin, heavy 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMMREkUbYAAOhdR.jpg" width="700" alt="Luxury Eyewear Campaign Portrait">
+<img src="https://image.moge.ai/prompt_media/HMRTa-KbIAAfI9w.jpg" width="700" alt="Iced Caramel Latte Ad Photography">
 </div>
 
 <br>
@@ -4417,36 +4338,72 @@ Negative prompt: cartoon, anime, HDR, oversaturated colors, plastic skin, heavy 
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Virena](https://x.com/vireonixx) | [X / Twitter](https://x.com/vireonixx/status/2072519037897367958) | 2026-07-02 |
+| [Zyro](https://x.com/Itswsm105f) | [X / Twitter](https://x.com/Itswsm105f/status/2072873772412268763) | 2026-07-03 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072519037897367958)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072873772412268763)**
 
 </div>
 
 ---
 
-### No. 67: Floating Premium Product Shot
+### No. 67: Product Aura Field Ad
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a premium commercial photo of a product floating in a minimal environment with studio lighting, soft shadows, and hyper-realistic textures.
+Creates a premium ad poster where the product is the hero wrapped in visible aura fields that express taste, scent, sound, or emotion based on the product category and brand DNA.
 
 #### 🌟 Prompt
 
+Create a premium advertising poster for [BRAND] featuring [PRODUCT]. Build the image around an AURA FIELD …
+
+<details>
+<summary>Show full prompt</summary>
+
 ```
-Premium product shot of [object], floating in a minimal [colour] environment, soft shadows, studio lighting, reflections on surface, hyper-realistic textures, commercial advertising style, ultra-clean composition
+Create a premium advertising poster for [BRAND] featuring [PRODUCT].
+
+Build the image around an AURA FIELD concept.
+
+The product must be the clear hero, placed in a premium commercial composition with sharp detail, realistic materials, cinematic lighting, and strong visual hierarchy.
+
+Around the product, create visible aura fields that express what the product makes people feel, taste, hear, smell, wear, or experience.
+
+The aura should not look like random magic. It must be designed as a refined visual language based on the product category and brand DNA.
+
+Adapt the aura to the product:
+- food products create flavor waves, crumbs, cream, chocolate, steam, crunch particles, or appetite energy
+- fragrance and beauty products create scent trails, mist, petals, skin glow, botanical particles, or soft liquid air
+- tech products create clean data fields, light grids, interface particles, signal waves, or intelligent glow
+- fashion and eyewear products create motion trails, attitude lines, reflections, street energy, or editorial light
+- home products create calm atmosphere, warmth, texture, comfort waves, soft shadows, or ritual energy
+- performance products create speed fields, impact rings, air pressure, focus lines, or kinetic energy
+
+The aura must wrap around the product, interact with its shape, and make the product feel powerful, desirable, and iconic.
+
+Keep the composition premium, minimal where needed, and highly polished. Use refined typography inspired by the brand's visual language with a short 3-word slogan.
+
+Do not use miniature people, micro worlds, shadow storytelling, negative-space frames, exploded-view composition, product monuments, or split reality.
+
+Avoid copying any existing real campaign. Create a fresh original ad concept.
+
+Brand: [BRAND]
+Product: [PRODUCT]
+Aura type: [SENSORY / EMOTIONAL / FUNCTIONAL AURA]
+Aspect ratio: [RATIO]
 ```
+
+</details>
 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMJyLO9aYAEApaZ.jpg" width="700" alt="Floating Premium Product Shot">
+<img src="https://image.moge.ai/prompt_media/HMNg-o6XoAE7DCD.jpg" width="700" alt="Product Aura Field Ad">
 </div>
 
 <br>
@@ -4455,36 +4412,47 @@ Premium product shot of [object], floating in a minimal [colour] environment, so
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Al-Shamus](https://x.com/im_shahid7) | [X / Twitter](https://x.com/im_shahid7/status/2072344325501972768) | 2026-07-01 |
+| [AZIZ \| AI 🇸🇦](https://x.com/aziz4ai) | [X / Twitter](https://x.com/aziz4ai/status/2072606903683670040) | 2026-07-02 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072344325501972768)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072606903683670040)**
 
 </div>
 
 ---
 
-### No. 68: Customizable Minimalist Design
+### No. 68: Miniature Pizza Workshop Diorama
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Generates minimal, modern high-resolution illustrations with customizable elements for digital and print use.
+Creates an ultra-realistic macro tilt-shift diorama of miniature chefs unloading a giant pizza in an Italian village built from food.
 
 #### 🌟 Prompt
 
+Create an ultra-realistic miniature diorama of a tiny pizza production team preparing a giant freshly baked …
+
+<details>
+<summary>Show full prompt</summary>
+
 ```
-This prompt generates minimal, clean, and contemporary designs with customizable elements. Use the variable to adapt the illustration to your needs. Perfect for high-resolution outputs suitable for both digital and print use. Ideal for graphic designers, artists, and creatives seeking a modern, stylish touch in their projects!
+Create an ultra-realistic miniature diorama of a tiny pizza production team preparing a giant freshly baked pepperoni pizza. Dozens of miniature chefs wearing white uniforms and chef hats carefully unload the oversized pizza from the back of a vintage delivery truck using wooden ramps. Some workers push the pizza into place while others coordinate from the truck roof beside crates of fresh tomatoes and kitchen tools. Thick steam rises from the hot pizza, emphasizing its freshness.
+
+The scene is set on a charming cobblestone street designed to resemble a tiny Italian village. The road is creatively made from rich tomato sauce, while finely grated parmesan cheese forms the sidewalks. Rustic bread houses line the streets, vintage lamp posts illuminate the scene, wooden crates, pizza peels, spatulas, fresh basil leaves, tomatoes, cheese blocks, and scattered kitchen utensils enhance the playful atmosphere. Tiny workers continue construction and food preparation throughout the miniature world.
+
+Use a macro tilt-shift perspective with an extremely shallow depth of field to create the illusion of a handcrafted miniature model. Warm cinematic lighting, ultra-realistic food textures, crispy pizza crust, melted mozzarella, glossy pepperoni, vibrant basil, volumetric steam, premium food photography, whimsical storytelling, Pixar-inspired realism, intricate miniature craftsmanship, highly detailed, commercial advertising quality, 8K.
 ```
+
+</details>
 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMRxkAoagAAm3AL.jpg" width="700" alt="Customizable Minimalist Design">
+<img src="https://image.moge.ai/prompt_media/HMUCqETaQAEj9Ol.jpg" width="700" alt="Miniature Pizza Workshop Diorama">
 </div>
 
 <br>
@@ -4493,13 +4461,13 @@ This prompt generates minimal, clean, and contemporary designs with customizable
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Nomi AI](https://x.com/AiwithNomi) | [X / Twitter](https://x.com/AiwithNomi/status/2072906654652502314) | 2026-07-03 |
+| [Synthia](https://x.com/AIwithSynthia) | [X / Twitter](https://x.com/AIwithSynthia/status/2073066136175005977) | 2026-07-03 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072906654652502314)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073066136175005977)**
 
 </div>
 
@@ -4617,81 +4585,24 @@ Image ratio is 2:3.
 
 ---
 
-### No. 71: Cute Korean Doodle Editorial
+### No. 71: Dreamer's Ink Reverie
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Creates a cute hand-drawn Korean editorial illustration with minimal lines and soft pastel colors around an everyday topic.
+Turns any subject into a dreamlike ink scene with expressive lines, hatching, and stippling in ethereal tones.
 
 #### 🌟 Prompt
 
-Create a simple and cute Korean doodled editorial illustration based on [TOPIC]. Style: hand-drawn doodle …
-
-<details>
-<summary>Show full prompt</summary>
-
 ```
-Create a simple and cute Korean doodled editorial illustration based on [TOPIC].
-
-Style:
-hand-drawn doodle cartoon,
-minimal editorial infographic illustration,
-clean black ink outlines,
-slightly imperfect sketchy lines,
-flat 2D composition,
-minimal line art,
-large clean white negative space,
-soft warm pastel accent colors only.
-
-Scene:
-design a cozy everyday moment around [TOPIC] featuring one young Korean woman.
-Use a simple background with only essential objects and props related to the topic.
-
-Character:
-cute simplified proportions,
-minimal facial features,
-small relaxed smile,
-natural pose,
-simple casual outfit,
-restrained doodle character style.
-
-Composition:
-vertical 3:4 ratio,
-eye-level view,
-main subject placed on one side or lower area,
-large empty space on the opposite side,
-sparse and airy layout.
-
-Objects:
-minimal doodle-style props such as books, coffee cups, plants, umbrellas, signs, clouds, hearts, notes, windows, etc.
-
-Typography:
-add small English handwritten text in the empty space.
-
-Mood:
-calm, cozy, warm, quiet, cute.
-
-Avoid:
-watercolor painting,
-anime style,
-realistic lighting,
-cinematic rendering,
-complex perspective,
-high detail,
-dense composition,
-luxury poster mood,
-painterly textures,
-over-rendered characters.
+[SUBJECT] rendered in a Dreamer’s Ink Reverie, where reality blurs into swirling dreamscapes and flowing patterns. Use expressive ink lines, intricate hatching, and stippling, with ethereal touches of [COLOR1] and [COLOR2] for atmosphere
 ```
-
-</details>
 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMIRVJ4bkAAs_Su.jpg" width="700" alt="Cute Korean Doodle Editorial">
+<img src="https://image.moge.ai/prompt_media/HMOlBthWkAAuzZe.jpg" width="700" alt="Dreamer&#x27;s Ink Reverie">
 </div>
 
 <br>
@@ -4700,43 +4611,54 @@ over-rendered characters.
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Sairah](https://x.com/Sairah_0) | [X / Twitter](https://x.com/Sairah_0/status/2072237844794585184) | 2026-07-01 |
+| [LudovicCreator](https://x.com/LudovicCreator) | [X / Twitter](https://x.com/LudovicCreator/status/2072681721070281032) | 2026-07-02 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072237844794585184)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072681721070281032)**
 
 </div>
 
 ---
 
-### No. 72: Yellow Coat Urban Portrait
+### No. 72: Summer Portrait by the Terracotta Wall
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-A cinematic street portrait of a woman in a yellow coat kept sharp amid a blurred crowd, rendered in black-and-white with a selective color effect.
+A photorealistic summer editorial portrait of a young woman sitting on a terracotta wall against a clear blue sky, with strong afternoon light and diagonal shadows.
 
 #### 🌟 Prompt
 
-A cinematic street portrait of a beautiful young woman wearing a vibrant mustard-yellow coat while walking …
+Subject: Red wall and summer profile Character/Expression: A woman in her 20s. Bright, ivory-beige-leaning …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-A cinematic street portrait of a beautiful young woman wearing a vibrant mustard-yellow coat while walking through a busy city crowd. The woman remains perfectly sharp and in focus as the surrounding pedestrians dissolve into dramatic horizontal motion blur, creating a powerful sense of movement and isolation. Selective color effect: the entire scene is monochrome black-and-white except for the rich golden-yellow coat, which becomes the only vibrant color in the frame.
+Subject:
+Red wall and summer profile
 
-Captured from a side profile with a 50mm lens, shallow depth of field, natural overcast lighting, realistic skin texture, wind-blown short wavy hair, subtle emotional expression, elegant shoulder bag, modern urban fashion, soft cinematic contrast, high dynamic range, ultra-photorealistic, editorial fashion photography, magazine cover quality, Leica look, Kodak Portra-inspired tones, crisp facial details, panning photography effect, long exposure motion blur, minimal composition, premium fine-art street photography, 8K, award-winning photography.
+Character/Expression:
+A woman in her 20s. Bright, ivory-beige-leaning fair skin with a subtly pink, natural complexion. Soft highlights on the cheeks, nose tip, shoulders, and collarbones, keeping a fine skin texture rather than excessive retouching. Precise, elegant doll-like Japanese makeup, pale rose-pink blush, champagne-beige and pink-brown eyeshadow, fine long lashes, natural under-eye aegyo-sal, light brown eyebrows, translucent pink-beige gloss lips. A small, clear catchlight in the eyes. A calm expression, gazing into the distance with a slightly cool air. Dark brown hair tied in a loose, low ponytail, with fine stray strands drifting around the face in the wind.
 
-Camera Settings:
-Sony A7R V, 50mm f/1.4 lens, f/1.8, ISO 100, 1/15s shutter, eye-level composition, natural ambient light, ultra-high detail.
+Outfit/Pose:
+An ivory ribbed-knit camisole with thin straps and a summery lightness. The collarbone and shoulder lines show naturally, but the exposure stays tasteful and restrained. On the bottom, high-waisted wide-leg pants in natural off-white beige, in a thin linen-blend fabric, with a long cloth belt of the same color tied at the waist. On the feet, brown-beige thin-strap sandals. The figure sits sideways on a low terracotta-colored wall, bracing her body with her own right hand on the wall, the left knee slightly raised and the right leg extended naturally downward. The upper body twists slightly toward the left of the frame, and the face turns toward the blue sky.
 
-Color Treatment:
-Selective color (yellow coat only), monochrome city, grayscale crowd, cinematic black-and-white background, rich golden fabric texture.
+Background/Light:
+A minimalist architectural space, like a Japanese contemporary art museum or a modern seaside rooftop terrace. A red-brown terracotta wall, a low parapet, a large vertical wall on the left, a thin eave above, and a clear summer blue sky opening up in the distance. The wall and floor have a fine stucco and concrete texture. Strong afternoon sunlight streams in from the upper left of the frame, casting a large diagonal shadow on the left wall and the figure's shadow onto the surface. Warm light falls on the shoulders, cheeks, and hair edges; the shadow side is deep but slightly lifted by blue reflected light from the sky.
+
+Composition/Camera:
+Vertical 3:4. A medium-distance fashion portrait. The figure is placed to the right of the frame, leaving wide blue-sky negative space in the upper half. The red wall and diagonal shadow on the left form a strong geometric composition. The full figure is in frame, with a little margin near the sandals at the bottom edge. The camera is at a slightly low eye level, with a slight upward angle. Focus is on the face and upper body, with a natural depth of field that isn't too shallow.
+
+Texture/Style:
+A realistic photo-style AI image. A Japanese summer fashion editorial, strong sunlight, dry air, a color-field contrast of terracotta and blue sky. Skin with natural texture, clothing with visible weave of linen and ribbed knit. High contrast but not too harsh, with fine film-like grain and subdued tones. Avoid excessive HDR, over-retouched skin, and anime style.
+
+Negative:
+childish-looking face, unnatural gaze, excessive influencer makeup, plastic-like skin, overexposure, see-through clothing, extra or missing fingers, fusion of hands and feet, broken joints, unnatural sitting posture, poor contact with the wall, floating, shadows contradicting the light source, incorrect perspective, unnecessary people or props, text, logos, watermarks, directly copying the composition or outfit of the reference image.
 ```
 
 </details>
@@ -4744,7 +4666,7 @@ Selective color (yellow coat only), monochrome city, grayscale crowd, cinematic 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMJNIo2bMAAhZLO.jpg" width="700" alt="Yellow Coat Urban Portrait">
+<img src="https://image.moge.ai/prompt_media/HMJc8PVaUAAXy_u.jpg" width="700" alt="Summer Portrait by the Terracotta Wall">
 </div>
 
 <br>
@@ -4753,60 +4675,59 @@ Selective color (yellow coat only), monochrome city, grayscale crowd, cinematic 
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Taaruk](https://x.com/Taaruk_) | [X / Twitter](https://x.com/Taaruk_/status/2072303607094145099) | 2026-07-01 |
+| [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026) | [X / Twitter](https://x.com/CyberTotal2026/status/2072851820406338026) | 2026-07-03 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072303607094145099)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072851820406338026)**
 
 </div>
 
 ---
 
-### No. 73: Delivery Storefront Visual Board
+### No. 73: Giant-Typography Product Launch Poster
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Generates a complete vertical visual proposal board for a delivery brand, featuring a hero banner, mobile mockup, product card matrix, and standard color palette.
+Generates a vertical 3:4 commercial ad poster with the product as hero and a giant typographic headline that morphs into the scene, complete with a full campaign information layout.
 
 #### 🌟 Prompt
 
-Store category: 【e.g.: specialty coffee / Western bistro / sandwich light meal / bakery dessert / Chinese …
+[Theme]: [Product Type] New Product Promotion Poster [Brand Name]: [Brand Name] [Product Name]: [Product …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Store category: 【e.g.: specialty coffee / Western bistro / sandwich light meal / bakery dessert / Chinese snacks】
-Brand name: 【enter a fictional brand name】
-English name: 【optional】
-Signature products: 【enter 3-6 products】
-Core selling point: 【enter a one-sentence selling point】
-Primary color: 【enter the primary color】
-Secondary color: 【enter the secondary color】
-Style direction: 【e.g.: specialty coffee feel / fine Western dining feel / healthy light-meal feel / European bakery feel】
+[Theme]: [Product Type] New Product Promotion Poster
+[Brand Name]: [Brand Name]
+[Product Name]: [Product Name]
+[Main Headline (Large Text)]: [e.g., SCENT / TIME / SOUND / EXPLORE]
+[Sub-headline]: [A short, catchy slogan]
+[Color Palette]: [Primary Color + Secondary Color + Accent Color]
+[Subject/Model Type]: [e.g., No models / Male model / Female model / Trendy figure / Outdoor enthusiast]
+[Scene/Atmosphere]: [e.g., Fragrance space / Time tunnel / Sound wave trajectory / Mountain terrain]
+[Key Selling Points]: [Point 1], [Point 2], [Point 3], [Point 4]
+[Aspect Ratio]: Vertical 3:4
+Please generate a high-definition commercial advertising poster in a vertical 3:4 aspect ratio (single image only; no collages or multi-panel layouts).
 
-Generate a 9:16 vertical high-definition commercial design image, themed on a 【store category】 delivery storefront decoration case, brand name 【brand name】, English name 【English name】.
+This is a promotional poster for an original, fictional brand; do not include logos of real-world brands. The overall style is a "product-focused poster featuring large-scale, perspective-driven typography." The image should resemble the key visual of an official brand campaign, conveying a professional commercial aesthetic, strong typographic design, a sense of product launch excitement, visual impact, and a comprehensive information layout.
 
-As a whole it is not a single poster, but a complete delivery storefront visual proposal board, like a real restaurant-brand delivery decoration case made by an actual designer. The image should convey a full sense of brand system, platform implementation, and commercial display.
+The core subject of the image is the [Product Name]. The product must be rendered clearly and exquisitely—like a "hero product" in an advertisement—positioned in the foreground or the lower-center area. It should feature realistic materials, structural integrity, and sharp details; it must not appear too small or blurry. Incorporate appropriate figures or usage scenarios based on the product type (e.g., male/female models, trendy individuals, outdoor enthusiasts, or actions/moods associated with the user). Models should look authentic and sophisticated, reinforcing the brand's identity without overshadowing the product itself.
 
-The layout includes:
-a case title area at the top;
-one large hero visual banner;
-one auxiliary horizontal banner;
-a mobile delivery storefront mockup in the lower left;
-a matrix of 6-8 product cards on the right;
-4 STANDARD COLOR blocks at the bottom.
+The main headline ([Main Headline (Large Text)]) must serve as the visual backbone of the composition, utilizing an oversized, bold sans-serif typeface that dominates the frame. The text should not merely be a standard heading but an integral part of the image's spatial structure—transforming into elements such as a background wall, a track, a highway, a ramp, a time tunnel, a sound wave path, a fragrance-filled space, a mountain trail, a perspective-shifting installation, or a key brand symbol. The product, the figure, and the headline must share a unified spatial logic, establishing realistic foreground-background relationships, occlusion, contact shadows, and perspectival depth.
 
-The overall visual style uses 【primary color】 as the primary color and 【secondary color】 as the auxiliary color, matching 【style direction】. Clear layout, distinct information hierarchy, the hero visual largest, the mobile page next, the product cards after that, and the color palette smallest. Overall it looks like a complete, realistic, implementable delivery storefront decoration design case.
+The composition must incorporate a complete, formal poster information system; it should not look empty or like a generic stock image. Place the brand name in the top-left corner and campaign sub-text (e.g., NEW RELEASE / PRODUCT CAMPAIGN / SERIES 2026) in the top-right. Include vertical text, product codes, series numbers, or campaign IDs along the side. Add 3–5 concise feature/selling-point tags near the product (e.g., [Feature 1], [Feature 2], etc.). Include a formal information bar at the bottom containing the product name, subtitle, release date, key specifications, fine-print credits, divider lines, and decorative barcodes or serial numbers. Small text may function as stylistic "micro-typography"—not every character needs to be perfectly legible, but the brand name, product name, and main headline must be clear.
 
-Requires food and drinks to be high-definition and realistic, with a strong commercial photography feel, real materials, natural light and shadow, and a refined, unified image.
+The color palette should center on a [Primary Tone], with the background crafted to evoke a specific atmosphere—such as a minimalist fashion space, an aromatic mist environment, a metallic/mechanical setting, a neon-lit musical space, an outdoor wilderness, or a snowy, rocky landscape. Subtle elements like light and shadow, mist, reflections, grain, wind effects, atmospheric perspective, motion trails, or material refractions can be added to enhance the premium feel, provided the result remains uncluttered and avoids a cheap e-commerce aesthetic.
 
-Avoid: real platform logos, real brand names, QR codes, watermarks, excessive small text, garbled characters, food deformation, distorted phone UI, cluttered image, cheap template feel.
+The image must be high-resolution and sharp, with accurate perspective, realistic textures, and consistent lighting, resembling an authentic brand campaign poster. It is suitable for categories such as perfumes, watches, headphones, digital products, outdoor apparel, sports brands, and consumer goods.
+
+Avoid: collages or multi-image composites, actual brand logos, generic stock photos, cheap e-commerce aesthetics, cartoonish styles, cluttered backgrounds, undersized products, artificial-looking faces on figures, flat/generic headline styling, or insufficient information areas.
 ```
 
 </details>
@@ -4814,7 +4735,7 @@ Avoid: real platform logos, real brand names, QR codes, watermarks, excessive sm
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMJPo81WQAAs5-0.jpg" width="700" alt="Delivery Storefront Visual Board">
+<img src="https://image.moge.ai/prompt_media/HMMJbX6aMAA7CkI.jpg" width="700" alt="Giant-Typography Product Launch Poster">
 </div>
 
 <br>
@@ -4823,72 +4744,59 @@ Avoid: real platform logos, real brand names, QR codes, watermarks, excessive sm
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2072307212148469822) | 2026-07-01 |
+| [PixuryAI](https://x.com/PixuryAI) | [X / Twitter](https://x.com/PixuryAI/status/2072510729090167081) | 2026-07-02 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072307212148469822)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072510729090167081)**
 
 </div>
 
 ---
 
-### No. 74: Pop Idol Typography Cover
+### No. 74: Ivory Embossed City Landmark Poster
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Creates a premium pop editorial cover where oversized typography interacts with an idol through overlap, cropping and layering, across four visual directions.
+Renders a city's most iconic landmark as an ivory embossed architectural poster, with a matte-gold glowing hero building and elegant serif typography.
 
 #### 🌟 Prompt
 
-Create a high-end pop idol typography cover with strong interaction between the person and the words. Theme: …
+An embossed relief-style architectural poster, Chinese seal-press / paper debossing aesthetic (印压凹凸立体画风), …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a high-end pop idol typography cover with strong interaction between the person and the words.
+An embossed relief-style architectural poster, Chinese seal-press / paper debossing aesthetic (印压凹凸立体画风), panoramic bird's-eye view of {CITY}'s single most iconic historical or cultural landmark.
 
-Theme: [music cover / idol visual / pop editorial / campaign concept]
-Direction: [dynamic red typography cover / kinetic idol poster / red focus portrait cover / headphone pop editorial cover]
-Title: [main title]
-Subtitle: [short subtitle]
-Edition text: [issue / edition / small info]
-Subject: [adult young female idol / adult young male idol / pop artist / performer]
-Mood: [bold / stylish / emotional / kinetic / youthful / graphic / editorial]
-Color palette: [red / white / black / deep red / soft white]
-Aspect ratio: [9:16]
+[OVERALL TECHNIQUE]
+The entire image is rendered as if pressed or embossed into thick ivory-white paper or plaster — all forms are created through subtle relief, shadow, and highlight rather than flat color or line art. Minimalist line-carving technique (极简线描手法) defines architectural edges. The background is a clean, seamless ivory-white (乳白色), with no visible horizon line or sky detail — just soft gradient emptiness receding into the distance.
 
-The image should feel like a premium pop editorial cover or music magazine poster.
+[LANDMARK SUBJECT — AUTO-DERIVED FROM CITY]
+Identify the single most globally recognizable architectural or monumental landmark associated with {CITY} — the one structure that, if shown in silhouette alone, would be instantly identified as representing {CITY}. Render a symmetrical, wide-angle bird's-eye view of this landmark and its immediate architectural surroundings (courtyards, plazas, gardens, colonnades, gates, or approach paths — whatever is authentic to that specific landmark's real layout). The full complex recedes into the distance along a strong central axis, with repeating symmetrical structures flanking both sides in diminishing scale, creating strong linear perspective and depth. All structures share the same ivory-white embossed material as the background, distinguished only by relief depth, shadow, and fine linework.
 
-Use oversized typography as part of the composition, not just as a title.
-Make the person interact with the text through overlap, masking, perspective, cropping, blur, or spatial layering.
-Keep the layout clean and striking.
-Use only a small amount of supporting text.
+[GOLD ACCENT — HERO BUILDING]
+The single most iconic structure within that landmark complex is positioned at the mid-ground, centered, rendered with matte gold texture (哑金光质感) picking out its structural details — roofline, facade ornamentation, columns, doorways, or spire, whatever is architecturally authentic to it. This building's edges emit a low-intensity warm white glow (低亮度白光), as if lit from within or by soft dawn light, making it the clear focal point against the otherwise monochrome ivory scene.
 
-Choose one direction:
+[TYPOGRAPHY]
+Centered in the composition, positioned in front of or just above the hero building: a serif wordmark reading the country or region name in English, followed by a vertical bar, followed by the landmark's name in its native language and script — e.g. formatted as "{COUNTRY} | {LANDMARK NATIVE NAME}" — in elegant refined gold serif type. The text width spans roughly half the frame's width — commanding but not oversized.
+At the bottom of the composition:
+- Lower left corner, very small text: today's date in "YYYY Mon.DD" format
+Both in the same muted gold tone, minimal, unobtrusive.
 
-1. Dynamic red typography cover
-   Use a clean white or off-white background with huge red bold letters. Show a full-body adult female pop artist in a dynamic pose, with her body interacting with the oversized text.
+[COMPOSITION]
+Wide symmetrical composition, camera positioned at a high elevated angle looking down the central axis of the complex. Negative white space occupies approximately 60% of the frame — generous emptiness above and around the architecture emphasizes depth, scale, and stillness. The vanishing point sits at the upper-center of the frame, where the architecture recedes into soft white haze.
 
-2. Red focus portrait cover
-   Use a rich red background and a close-up adult female portrait. Add elegant white serif typography, a subtle focus frame over the eyes, and a slightly soft or dreamy atmosphere while keeping the eyes clear.
+[STYLE REFERENCES]
+Combine: Akira Yamaguchi's meticulous architectural detail work, Tadao Ando's minimalist symmetry and negative space philosophy, Zao Wou-Ki's abstract sense of spatial depth, George Segal's soft sculptural relief quality, and Wim Wenders' elevated urban framing sensibility. The embossed texture should feel naturally hand-pressed — uniform, clean linework with no visual noise or artifacts.
 
-3. Kinetic idol poster
-   Use a strong performance pose with dramatic perspective, such as a leg or boot closer to the camera. Add huge bold typography that gets cut by the body. Make it feel like a stage visual or music performance poster.
-
-4. Headphone pop editorial cover
-   Use an adult young woman wearing headphones in a close or half-body portrait. Add tall vertical typography interacting with the figure, plus 1 or 2 small label-style text boxes only. Keep it stylish and not too busy.
-
-Keep it bold, clean, modern and visually designed.
-
-Avoid cheap template layouts, too much small text, messy composition, weak typography, fake brand logos, distorted anatomy, broken hands, extra fingers, plastic skin, or cluttered sticker effects.
-
-Generate one finished poster only.
+[QUALITY & MOOD]
+8K quality rendering, rich fine detail throughout, evoking a serene, radiant atmosphere (宁静辉光). The image should feel like a reinterpretation of {CITY}'s most iconic landmark — where historical weight and contemporary art intersect — delivering a visually tranquil yet culturally resonant narrative.
 ```
 
 </details>
@@ -4896,7 +4804,7 @@ Generate one finished poster only.
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMO4QUpWoAAuhsC.jpg" width="700" alt="Pop Idol Typography Cover">
+<img src="https://image.moge.ai/prompt_media/HMTe0TWaUAAb-cL.jpg" width="700" alt="Ivory Embossed City Landmark Poster">
 </div>
 
 <br>
@@ -4905,13 +4813,13 @@ Generate one finished poster only.
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2072702921507049746) | 2026-07-02 |
+| [两斤](https://x.com/0x00_Krypt) | [X / Twitter](https://x.com/0x00_Krypt/status/2073026725601222773) | 2026-07-03 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072702921507049746)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2073026725601222773)**
 
 </div>
 
@@ -5014,26 +4922,37 @@ ornate typography, hand lettering, vintage travel poster, French romance, Victor
 
 ---
 
-### No. 77: Vintage Storybook Illustration Style
+### No. 77: Whimsical Editorial Cartoon Illustration Style
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Generates expressive character illustrations with elegant linework, painterly brush textures, and a warm vintage palette, echoing classic animated storybooks.
+A style reference blending whimsical editorial illustration with naïve hand-drawn cartoons, using loose ink lines and a blue-and-orange palette to create quirky, expressive characters.
 
 #### 🌟 Prompt
 
-```
---sref 3434845700
+This Midjourney style combines whimsical editorial illustration with naïve hand-drawn cartoon aesthetics: …
 
-Expressive characters, elegant linework, painterly brush textures, and a warm vintage-inspired color palette create illustrations full of personality and emotion. Classic animated storybook charm with a fresh, contemporary twist. Perfect for character design, visual storytelling, children's books, and cinematic animated scenes.
+<details>
+<summary>Show full prompt</summary>
+
 ```
+This Midjourney style combines whimsical editorial illustration with naïve hand-drawn cartoon aesthetics:
+
+--sref 2857031319
+
+Loose ink lines, imperfect proportions, textured brushwork and a restrained blue-and-orange palette create quirky, expressive characters full of personality.
+
+The minimalist compositions and playful imperfections give every illustration the charm of an independent picture book or contemporary magazine artwork.
+```
+
+</details>
 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMINkWRXIAE-n8V.jpg" width="700" alt="Vintage Storybook Illustration Style">
+<img src="https://image.moge.ai/prompt_media/HMOSaxsWcAA5eWg.jpg" width="700" alt="Whimsical Editorial Cartoon Illustration Style">
 </div>
 
 <br>
@@ -5042,39 +4961,45 @@ Expressive characters, elegant linework, painterly brush textures, and a warm vi
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [OscarAI](https://x.com/Artedeingenio) | [X / Twitter](https://x.com/Artedeingenio/status/2072233780694130901) | 2026-07-01 |
+| [OscarAI](https://x.com/Artedeingenio) | [X / Twitter](https://x.com/Artedeingenio/status/2072661317849128989) | 2026-07-02 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072233780694130901)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072661317849128989)**
 
 </div>
 
 ---
 
-### No. 78: Japanese Summer Editorial Portrait
+### No. 78: Sunlit Windblown Hair Portrait
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-Creates an ultra-realistic luxury magazine cover of a young man by a window in golden summer light, inspired by Japanese films.
+A sun-drenched back-turned female portrait with long windblown hair and a light white top against a bright pale blue sky.
 
 #### 🌟 Prompt
 
-Use the reference face exactly. Preserve facial identity, facial proportions, hairstyle, skin tone, age, and …
+HAIRSTYLE: Ultra‑long, sleek dark brown hair with warm sun‑kissed highlights; soft natural wind‑blown …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Use the reference face exactly. Preserve facial identity, facial proportions, hairstyle, skin tone, age, and every recognizable feature. Create an ultra-realistic luxury editorial magazine cover inspired by Japanese summer films. The viewer stands outside a rain-free window, looking through the glass at a handsome young man sitting close to the windowsill. Close-up portrait (face fills 65–70% of the frame), slightly high angle. He gently rests his chin on folded arms, first gazing peacefully outside before naturally meeting the camera with a genuine, heartwarming smile, as if welcoming someone he has been waiting for.
+HAIRSTYLE: Ultra‑long, sleek dark brown hair with warm sun‑kissed highlights; soft natural wind‑blown movement, fine strands lifted and flowing freely across the face and outward in the breeze; bright backlight creates luminous glowing edges and soft airy texture, healthy shine fully preserved.
 
-His expressive eyes are the main focus. Soft golden summer afternoon sunlight wraps around his face with realistic natural shadows. The glass shows delicate reflections of lush green trees, blue sky, and tiny light sparkles without hiding his face. Warm ivory, cream, olive-green, and pastel tones, authentic skin texture, subtle cinematic film grain, soft contrast, creamy shallow depth of field, quiet nostalgic atmosphere, premium lifestyle photography. Clean minimalist luxury magazine cover with elegant serif title "The Moment" at the top-left and a refined subtitle beneath, generous negative space, award-winning composition, photorealistic, cinematic, 8K quality, 3:4 aspect ratio.
+CAPTURE QUALITY: Soft sun‑drenched film‑style portrait, bright airy color palette, subtle fine grain, gentle soft‑focus finish, dreamy lens flare effect, crisp detail on fabric and hair texture — NO over‑smoothing, NO harsh filters, NO CGI.
 
-Avoid AI-looking skin, altered facial features, exaggerated eyes, HDR, oversaturation, heavy bokeh, strong lens flare, cluttered backgrounds, or reflections covering the face.
+POSE & EXPRESSION: Relaxed three‑quarter back‑turned pose, looking gently back toward the viewer; calm serene expression, soft natural gaze, exposed shoulder with smooth natural skin texture.
+
+ATTIRE: Loose off‑the‑shoulder white top crafted from lightweight crinkled textured fabric; gathered elasticated neckline, soft billowy folds, natural flow and soft translucent quality enhanced by bright sunlight.
+
+SETTING & LIGHTING: Bright clear pale blue sky with soft wispy haze; high‑angle backlit sunlight creates glowing rim‑light around hair and shoulders, soft diffused frontal illumination, fresh open sunlit atmosphere.
+
+STRICT RULE: All facial features, proportions, pose, clothing design, lighting, and bright airy aesthetic match the reference exactly; zero changes or deviations.
 ```
 
 </details>
@@ -5082,7 +5007,7 @@ Avoid AI-looking skin, altered facial features, exaggerated eyes, HDR, oversatur
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMILgC9a4AA6vWM.jpg" width="700" alt="Japanese Summer Editorial Portrait">
+<img src="https://image.moge.ai/prompt_media/HMPcsVoXYAACHx3.jpg" width="700" alt="Sunlit Windblown Hair Portrait">
 </div>
 
 <br>
@@ -5091,71 +5016,71 @@ Avoid AI-looking skin, altered facial features, exaggerated eyes, HDR, oversatur
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Eesha](https://x.com/MissDelulu9) | [X / Twitter](https://x.com/MissDelulu9/status/2072231437865193606) | 2026-07-01 |
+| [Talia](https://x.com/TaliaAariz) | [X / Twitter](https://x.com/TaliaAariz/status/2072742911645450392) | 2026-07-02 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072231437865193606)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072742911645450392)**
 
 </div>
 
 ---
 
-### No. 79: Split Reality Product Ad
+### No. 79: Ripped-Paper Brand Collage Poster
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a premium ad poster split into two contrasting worlds, with the product at the center as the bridge between the 'before' and 'after'.
+Creates a scrapbook-style collage poster for a brand, combining a 3D product render, torn-edge photos, tape, and industrial-style stamps.
 
 #### 🌟 Prompt
 
-Create a premium advertising poster for [BRAND] featuring [PRODUCT]. Build the composition around a clear …
+[BRAND NAME] [PRODUCT TYPE] (Clothing / Food / Automotive / Tech) Create a polished professional …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a premium advertising poster for [BRAND] featuring [PRODUCT].
+[BRAND NAME]
 
-Build the composition around a clear SPLIT REALITY concept.
+[PRODUCT TYPE] (Clothing / Food / Automotive / Tech)
 
-The poster should be divided into two visually contrasting worlds that show the transformation, contrast, or duality created by the product.
+Create a polished professional scrapbook-style collage poster for [BRAND NAME], built around a [PRODUCT TYPE].
 
-The product must sit at the center of the split as the visual bridge between both realities.
+1. HERO PRODUCT AT THE BOTTOM
 
-One side should represent the “before” state, problem, raw material, ordinary world, chaos, friction, noise, dullness, or limitation.
+- Main object: A crisp, realistic, high-definition 3D render of the [BRAND NAME] [PRODUCT TYPE], positioned at the bottom center.
 
-The other side should represent the “after” state, solution, refined experience, elevated world, clarity, control, beauty, energy, taste, performance, or desire.
+- Placement: Set the product at a slight angle for dimensional depth, resting on a clean off-white floor with soft, believable contact shadows.
 
-The split should feel intentional and cinematic, not like a simple before/after collage.
+2. LAYERED COLLAGE STRUCTURE
 
-Make the product accurate, recognizable, sharp, premium, and visually dominant.
+- Photo stack: Above the hero product, build a vertical arrangement of overlapping photos with rough torn-paper edges and ragged handmade borders.
 
-Adapt the split logic to the brand DNA:
-- tech products show chaos vs control, analog vs intelligent, limitation vs possibility
-- food products show raw ingredient vs irresistible final experience
-- beauty products show dullness vs glow, routine vs ritual, raw nature vs refined care
-- fashion products show ordinary presence vs elevated identity
-- luxury products show raw craft vs timeless refinement
-- home products show everyday mess vs designed atmosphere
+- Photo content: Show the [PRODUCT TYPE] being used, lifestyle scenes connected to [BRAND NAME], and close-up detail shots of the product.
 
-Use premium commercial photography, cinematic lighting, strong contrast between both worlds, refined typography, sharp product detail, realistic materials, elegant composition, polished shadows, and world-class campaign finishing.
+- Material pieces: Add physical texture swatches related to the [PRODUCT TYPE], such as leather or fabric for clothing, metal or carbon fiber for cars, or natural ingredients for food. Make raw edges, fibers, seams, and stitching visible.
 
-Add tasteful poster typography inspired by the brand with a short 3-word slogan.
+- Fasteners: Hold the collage pieces together with semi-transparent masking tape and black duct tape printed with the [BRAND NAME] logo in white.
 
-Do not use miniature people, micro worlds, product monuments, shadow storytelling, exploded-view composition, or negative-space frames.
+3. GRAPHIC DETAILS AND STAMPS
 
-Avoid copying any existing campaign. Create a fresh original split-reality advertisement.
+- Stamp element: Place a distressed black ink stamp or seal near the hero product that reads: "AUTHENTIC QUALITY // SUSTAINABLE CHOICE".
 
-Brand: [BRAND]
-Product: [PRODUCT]
-Left reality: [DESCRIBE]
-Right reality: [DESCRIBE]
-Aspect ratio: [RATIO]
+- Typography: Add small clean sans-serif captions and typewriter-style text blocks near the bottom, describing the heritage and identity of [BRAND NAME].
+
+- Logo: Put the main [BRAND NAME] logo at the very bottom center in a minimal, refined font.
+
+4. VISUAL STYLE AND ATMOSPHERE
+
+- Overall aesthetic: Industrial DIY workshop moodboard mixed with high-end editorial collage design.
+
+- Lighting: Bright high-key studio lighting, with soft layered shadows separating the paper scraps, material swatches, tape, photos, and product.
+
+- Quality: 8K output, extremely detailed paper grain, fabric fibers, torn edges, stitching, tape adhesive, and realistic surface textures.
 ```
 
 </details>
@@ -5163,7 +5088,7 @@ Aspect ratio: [RATIO]
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMJLu0MXEAAkwPM.jpg" width="700" alt="Split Reality Product Ad">
+<img src="https://image.moge.ai/prompt_media/HMK2pPRbgAADAR_.jpg" width="700" alt="Ripped-Paper Brand Collage Poster">
 </div>
 
 <br>
@@ -5172,59 +5097,44 @@ Aspect ratio: [RATIO]
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [AZIZ \| AI 🇸🇦](https://x.com/aziz4ai) | [X / Twitter](https://x.com/aziz4ai/status/2072302054765150453) | 2026-07-01 |
+| [PromptLab](https://x.com/iamaiistudio) | [X / Twitter](https://x.com/iamaiistudio/status/2072419986220675238) | 2026-07-01 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072302054765150453)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072419986220675238)**
 
 </div>
 
 ---
 
-### No. 80: Origami Paper-World Collage
+### No. 80: Oriental Zen Round-Gate Poster
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Creates a realistic 3x3 collage of a woman exploring a magical world made entirely of paper origami.
+Creates a high-contrast minimalist neo-Chinese zen poster with a tiny figure before a vermilion round gate about to step into a bright courtyard.
 
 #### 🌟 Prompt
 
-A professional 3x3 collage featuring the same beautiful woman from the uploaded reference image with …
+Theme direction: Oriental zen minimalist poster Style branch: high-contrast neo-Chinese Main subject: a tiny …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-A professional 3x3 collage featuring the same beautiful woman from the uploaded reference image with identical facial features, hairstyle, eyeglasses and realistic proportions.
-
-Top-down view on a clean white blanket.
-
-Each panel shows her interacting with a magical world made entirely of folded paper origami creations.
-
-Panel 1: Walking across an origami dragon.
-
-Panel 2: Sailing inside an origami swan.
-
-Panel 3: Climbing an origami mountain.
-
-Panel 4: Flying with giant origami butterflies.
-
-Panel 5: Resting beneath an origami cherry blossom tree.
-
-Panel 6: Escaping a paper tornado.
-
-Panel 7: Riding an origami whale through paper waves.
-
-Panel 8: Opening an enormous origami flower.
-
-Panel 9: Standing inside a giant unfolding paper castle.
-
-Minimal white aesthetic, realistic woman, black doodle accents mixed with detailed paper art, ultra-realistic editorial photography, cinematic lighting, 8K.
+Theme direction: Oriental zen minimalist poster
+Style branch: high-contrast neo-Chinese
+Main subject: a tiny figure standing before a half-open vermilion round gate, about to step into the courtyard
+Emotional motif: entering, subtlety, oriental courtyard, radiant summer
+Scene and imagery: vermilion round gate, cream-white wall, emerald-green bamboo shadows, bright courtyard beyond the gate, silhouette of a small figure
+Composition and space: centered composition, the round gate as a strong symbolic subject, large empty area on the wall, figure in small proportion before the gate
+Color control: cream-white as the wall base, vermilion for the round gate, emerald green only in the bamboo shadows and a few plants inside, figure as an ink-blue silhouette; avoid the wall also turning the same red-green color
+Light and texture: natural daylight, wall with a light paper feel, crisp bamboo shadows, clean edges
+Aspect ratio: 9:16
+Additional requirements: the round gate should be simple and refined, the figure small yet story-rich, the whole like a bright neo-Chinese brand poster
 ```
 
 </details>
@@ -5232,7 +5142,7 @@ Minimal white aesthetic, realistic woman, black doodle accents mixed with detail
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMOilsXboAAvIgD.jpg" width="700" alt="Origami Paper-World Collage">
+<img src="https://image.moge.ai/prompt_media/HMS6FbXa8AAFM00.jpg" width="700" alt="Oriental Zen Round-Gate Poster">
 </div>
 
 <br>
@@ -5241,13 +5151,13 @@ Minimal white aesthetic, realistic woman, black doodle accents mixed with detail
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Laraib Fatima‎](https://x.com/AiwithLariab) | [X / Twitter](https://x.com/AiwithLariab/status/2072679039031230705) | 2026-07-02 |
+| [李岳](https://x.com/liyue_ai) | [X / Twitter](https://x.com/liyue_ai/status/2072992670360957244) | 2026-07-03 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072679039031230705)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072992670360957244)**
 
 </div>
 
@@ -5536,190 +5446,62 @@ Avoid cheap guochao, tourism posters, e-commerce ads, cartoonish feel, neon feel
 
 ---
 
-### No. 83: Watercolor City Travel Poster
+### No. 83: Tropical Anime Collectible Style
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Creates a storybook-style watercolor travel illustration featuring a cozy European city in soft blue tones with a customizable calligraphy title.
+Turns any photo or topic into a glossy anime collectible figure staged in a bright tropical festival scene, ready for social media.
 
 #### 🌟 Prompt
 
-Create a dreamy watercolor travel illustration in the style of a premium storybook and vintage travel poster. …
+Style = { &lt;tropical\_anime\_collectible\_tableau&gt; MEDIUM: Glossy anime game key art fused with designer-toy …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a dreamy watercolor travel illustration in the style of a premium storybook and vintage travel poster. The artwork features a peaceful European city in soft blue watercolor tones with delicate ink outlines, warm cream paper texture, and a cozy fairytale atmosphere.
+Style = {
+  <tropical_anime_collectible_tableau>
+  MEDIUM: Glossy anime game key art fused with designer-toy product staging and tropical festival set design.
+  SURFACE: Smooth stylized 3D anime rendering, polished vinyl-toy softness, clean skin shading, glossy eyes, matte ceramic props.
+  FORM: Cute expressive characters or subjects with simplified sculptural shapes, oversized readable features, rounded accessories, and toy-like object clarity.
+  COLOR: Bright tropical palette with aqua sky, palm green, coral pink, warm yellow, cream, glossy black accents, and festive red details.
+  LIGHTING: Bright sunny daylight with soft highlights, clean shadows, and cheerful outdoor vibrancy.
+  COMPOSITION: Character-forward or object-forward staging with colorful festival architecture, plants, props, and lifestyle-display balance.
+  MOOD: Playful, fashionable, cheerful, slightly mischievous, collectible, and social-media-ready.
+  </tropical_anime_collectible_tableau>
 
-At the top, place a large hand-painted watercolor calligraphy title:
-"[CITY NAME]"
-Below it, add a small elegant subtitle:
-"[A short poetic tagline]"
+  <transformation>
+  - Convert the subject into a polished anime-inspired collectible figure or centerpiece with expressive simplified features.
+  - Reinterpret surrounding elements as tropical festival props, decorative plants, colorful architecture, cheerful objects, and staged lifestyle accessories.
+  - Convert realistic proportions into cute stylized forms with clean silhouettes, smooth surfaces, and readable emotional posture.
+  - Replace complex surface detail with glossy anime shading, vinyl-toy smoothness, ceramic accents, and bold color blocking.
+  - Convert clothing, armor, tools, or natural textures into simplified costume-like panels, sculpted accessories, or designer-object details.
+  - Turn background environments into bright staged sets with palm-like greenery, festive ornaments, decorative signage, and playful depth.
+  - Preserve the subject’s core identity and action, but make it feel like a high-end anime figure photographed inside a vibrant tropical toy-world scene.
+  </transformation>
 
-Scene Composition:
-A charming riverside or canal promenade with iconic local landmarks in the background, cobblestone streets, old bridges, historic buildings, flower-filled cafés, cozy bakeries, vintage street lamps, gentle reflections on calm water, small boats, birds, lush flowers, and soft fluffy clouds.
+  <shape_language>
+  - Favor rounded heads, clean eyes, soft hands, simplified hair or surface masses, oversized accessories, and chunky readable props.
+  - Use contrast between smooth character surfaces and decorative background detail.
+  - Keep every object charming, collectible, and visually clear at thumbnail size.
+  </shape_language>
 
-Foreground:
-Cute illustrated people enjoying everyday life—walking with coffee, reading books, sketching, cycling, walking a small dog, couples on bridges, children feeding birds, artists painting, and tourists taking photos. Everyone has adorable storybook proportions and soft facial expressions.
+  <finish>
+  - Bright anime designer-toy key art.
+  - Tropical festival energy with polished collectible staging.
+  - Glossy, cute, colorful, clean, and viral-ready.
+  </finish>
 
-Environment Details:
-• Cozy cafés with handwritten chalkboards
-• Bakery displaying fresh bread and pastries
-• Window flower boxes
-• Bicycle parked beside a canal
-• Pigeons and swans
-• Hanging lights
-• Wooden benches
-• Small boats
-• Water reflections
-• Blooming flowers
-• Cute handwritten shop signs
-• Tiny heart doodles
-• Stars and botanical illustrations around the title
-
-Typography Style:
-Elegant blue watercolor brush lettering for the city name, minimalist handwritten subtitle, tiny decorative icons, soft editorial layout, subtle travel journal aesthetic.
-
-Color Palette:
-Soft pastel blue, cream, warm beige, light grey, muted green, pale yellow, watercolor washes with delicate gradients and paper grain.
-
-Style:
-Whimsical watercolor illustration, Studio Ghibli-inspired atmosphere, Beatrix Potter charm, storybook illustration, cozy European travel journal, hand-painted watercolor, ultra-detailed, soft lighting, clean composition, premium children's book aesthetic, dreamy travel poster, high detail, 8K.
-
-Aspect Ratio:
-Portrait (4:5)
-```
-
-</details>
-
-#### 🌁 Generated Image
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HMHn5sCbAAAmGXW.jpg" width="700" alt="Watercolor City Travel Poster">
-</div>
-
-<br>
-
-<div align="center">
-
-| Author | Source | Published |
-| :---: | :---: | :---: |
-| [Taaruk](https://x.com/Taaruk_) | [X / Twitter](https://x.com/Taaruk_/status/2072192393932354027) | 2026-07-01 |
-
-</div>
-
-<div align="center">
-
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072192393932354027)**
-
-</div>
-
----
-
-### No. 84: Sprinting Athlete Motion Blur
-
-![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
-
-#### 📚 Description
-
-Creates a dynamic sports campaign photo of a sprinting athlete with intense motion blur and a futuristic studio athletic aesthetic.
-
-#### 🌟 Prompt
-
-Dynamic sports fashion campaign photo of a male athlete sprinting mid-air, intense motion blur effect, long …
-
-<details>
-<summary>Show full prompt</summary>
-
-```
-Dynamic sports fashion campaign photo of a male athlete sprinting mid-air, intense motion blur effect, long exposure photography, side profile running pose, vibrant monochrome white blue studio background, minimal composition, futuristic athletic aesthetic, cinematic lighting, ultra smooth gradients, blurred limbs and shoes to emphasize speed, sharp focus on face, glossy floor reflection, energetic Nike-style commercial look, high shutter drag effect, premium editorial photography.
-```
-
-</details>
-
-#### 🌁 Generated Image
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HMHIMgnbsAAUBEG.jpg" width="700" alt="Sprinting Athlete Motion Blur">
-</div>
-
-<br>
-
-<div align="center">
-
-| Author | Source | Published |
-| :---: | :---: | :---: |
-| [Kashberg](https://x.com/Kashberg_0) | [X / Twitter](https://x.com/Kashberg_0/status/2072157436891611332) | 2026-07-01 |
-
-</div>
-
-<div align="center">
-
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072157436891611332)**
-
-</div>
-
----
-
-### No. 85: Exploded Chocolate Coffee Infographic
-
-![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
-
-#### 📚 Description
-
-Creates a hyper-realistic vertical infographic with the ingredients of a chocolate coffee drink floating as separate layers on a dark studio background.
-
-#### 🌟 Prompt
-
-{ "subject": "A hyper-realistic vertical exploded-view breakdown of a chocolate coffee drink", "layout": …
-
-<details>
-<summary>Show full prompt</summary>
-
-```
-{
-  "subject": "A hyper-realistic vertical exploded-view breakdown of a chocolate coffee drink",
-  "layout": "Centered vertical alignment, with every ingredient floating as its own separate layer and clearly spaced apart",
-  "layers": [
-    {
-      "component": "Fine cocoa powder particles",
-      "position": "Top"
-    },
-    {
-      "component": "Glossy dark chocolate sauce ribbons with dripping edges",
-      "position": "Separate floating layer"
-    },
-    {
-      "component": "A light mound of whipped cream",
-      "position": "Separate floating layer"
-    },
-    {
-      "component": "A silky liquid layer of chocolate coffee",
-      "position": "Separate floating layer"
-    },
-    {
-      "component": "Roasted coffee beans",
-      "position": "Separate floating layer"
-    },
-    {
-      "component": "Sugar crystals",
-      "position": "Separate floating layer"
-    },
-    {
-      "component": "A small transparent textured glass cup with a weighted base, empty",
-      "position": "Bottom"
-    }
-  ],
-  "background": "Premium dark background: a clean studio backdrop with a smooth near-black graphite-to-charcoal gradient",
-  "lighting_and_style": {
-    "lighting": "Soft, controlled studio lighting with distinct layered shadows beneath each floating ingredient",
-    "detail": "Ultra-sharp macro realism, with minimal thin guide lines and English labels on the right side",
-    "category": "High-end product infographic",
-    "resolution": "8K"
-  }
+  <avoid>
+  - Avoid gritty realism.
+  - Avoid dull muted colors.
+  - Avoid overly complex anatomy or texture.
+  - Avoid horror lighting or documentary realism.
+  - Avoid making the scene look flat; keep it staged and dimensional.
+  </avoid>
 }
 ```
 
@@ -5728,7 +5510,7 @@ Creates a hyper-realistic vertical infographic with the ingredients of a chocola
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMG_gENa8AAjaBU.jpg" width="700" alt="Exploded Chocolate Coffee Infographic">
+<img src="https://image.moge.ai/prompt_media/HL-jX7DWYAAWlkB.jpg" width="700" alt="Tropical Anime Collectible Style">
 </div>
 
 <br>
@@ -5737,44 +5519,36 @@ Creates a hyper-realistic vertical infographic with the ingredients of a chocola
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [PromptLab](https://x.com/iamaiistudio) | [X / Twitter](https://x.com/iamaiistudio/status/2072148184932192581) | 2026-07-01 |
+| [Gadgetify](https://x.com/Gdgtify) | [X / Twitter](https://x.com/Gdgtify/status/2072369392017461322) | 2026-07-01 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072148184932192581)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072369392017461322)**
 
 </div>
 
 ---
 
-### No. 86: Isometric Natural Wonder Dioramas
+### No. 84: Parisian Luxury Fashion Ad
 
-![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
+![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-Creates an isometric miniature 3D diorama of a natural wonder on a raised base, with layered terrain, tiny explorers, and bold country-name text.
+Creates a black-and-white Parisian editorial-style luxury fashion ad with an elegant model, iconic architecture, and refined magazine typography.
 
 #### 🌟 Prompt
 
-Build an isometric miniature 3D diorama of the natural landmark [NATURAL WONDER] from [COUNTRY NAME/PLANET]. …
+Create a premium luxury fashion advertisement in a minimalist Parisian editorial style. A sophisticated woman …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Build an isometric miniature 3D diorama of the natural landmark [NATURAL WONDER] from [COUNTRY NAME/PLANET].
-
-Frame it from a 40-45 degree overhead angle. Make the surfaces organic and realistic, using PBR-style materials, with soft atmospheric lighting.
-
-Set the scene on a raised display base that reveals layered terrain, plants, and the surrounding geography. Include tiny stylized explorers or wildlife, but keep faces featureless.
-
-Use a plain solid [BACKGROUND COLOR] backdrop.
-
-At the top center, place bold text reading [COUNTRY NAME].
-On the second line, show [NATURAL WONDER]. Add a simple nature icon underneath. Ensure all text automatically adjusts for strong contrast.
+Create a premium luxury fashion advertisement in a minimalist Parisian editorial style. A sophisticated woman wearing oversized black sunglasses and a structured black wool coat with a high collar stands confidently on a classic Parisian street. She is positioned on the lower right of the composition, looking toward the left with a calm, elegant expression. Her hair is styled in a sleek low bun. The background features iconic Parisian architecture with soft cinematic depth of field and the Eiffel Tower subtly visible in the distance. The entire image is black and white with deep contrast, soft natural lighting, crisp details, and a timeless high-fashion aesthetic. The layout resembles a luxury magazine cover with generous negative space. At the top center, place a large elegant serif brand name, with a small uppercase location above it and a refined collection title beneath it. On the left side, include a bold, uppercase fashion slogan in a modern sans-serif font. Below it, add a short collection description in small, clean typography. Finish with a minimalist black footer containing a website, boutique location, and social media icons.
+Luxury branding, Vogue editorial, Harper's Bazaar aesthetic, Swiss grid layout, premium typography, minimalist composition, cinematic photography, ultra-realistic, 85mm lens, shallow depth of field, soft ambient light, monochrome, 8K, magazine-quality print, vertical A4 poster.
 ```
 
 </details>
@@ -5782,7 +5556,7 @@ On the second line, show [NATURAL WONDER]. Add a simple nature icon underneath. 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMNAjR6bYAAH4pe.jpg" width="700" alt="Isometric Natural Wonder Dioramas">
+<img src="https://image.moge.ai/prompt_media/HMNuXfvbgAAhQiz.jpg" width="700" alt="Parisian Luxury Fashion Ad">
 </div>
 
 <br>
@@ -5791,13 +5565,92 @@ On the second line, show [NATURAL WONDER]. Add a simple nature icon underneath. 
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [PromptLab](https://x.com/iamaiistudio) | [X / Twitter](https://x.com/iamaiistudio/status/2072571375454183684) | 2026-07-02 |
+| [Harboris](https://x.com/harboriis) | [X / Twitter](https://x.com/harboriis/status/2072621622796726279) | 2026-07-02 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072571375454183684)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072621622796726279)**
+
+</div>
+
+---
+
+### No. 85: Floating Premium Product Shot
+
+![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
+
+#### 📚 Description
+
+Creates a premium commercial photo of a product floating in a minimal environment with studio lighting, soft shadows, and hyper-realistic textures.
+
+#### 🌟 Prompt
+
+```
+Premium product shot of [object], floating in a minimal [colour] environment, soft shadows, studio lighting, reflections on surface, hyper-realistic textures, commercial advertising style, ultra-clean composition
+```
+
+#### 🌁 Generated Image
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HMJyLO9aYAEApaZ.jpg" width="700" alt="Floating Premium Product Shot">
+</div>
+
+<br>
+
+<div align="center">
+
+| Author | Source | Published |
+| :---: | :---: | :---: |
+| [Al-Shamus](https://x.com/im_shahid7) | [X / Twitter](https://x.com/im_shahid7/status/2072344325501972768) | 2026-07-01 |
+
+</div>
+
+<div align="center">
+
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072344325501972768)**
+
+</div>
+
+---
+
+### No. 86: Fruit & Veggie Infographic Slides
+
+![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
+
+#### 📚 Description
+
+Generates 10 PPT-style 16:9 slides, each introducing a different fruit or vegetable with catchy lines, knowledge points, and varied layouts.
+
+#### 🌟 Prompt
+
+```
+Theme: introduce 10 summer fruits and vegetables
+Generate 10 images in a row, each introducing a different fruit/vegetable, with catchy-line logic, knowledge logic, plus color-scheme and layout logic
+Similar to a PPT, generate 10, ensuring layout differences between them
+Aspect ratio 16:9
+```
+
+#### 🌁 Generated Image
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HMSreFqasAAGekX.jpg" width="700" alt="Fruit &amp; Veggie Infographic Slides">
+</div>
+
+<br>
+
+<div align="center">
+
+| Author | Source | Published |
+| :---: | :---: | :---: |
+| [小小东](https://x.com/xiaoxiaodong01) | [X / Twitter](https://x.com/xiaoxiaodong01/status/2072970775896977595) | 2026-07-03 |
+
+</div>
+
+<div align="center">
+
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072970775896977595)**
 
 </div>
 
@@ -5917,61 +5770,23 @@ Do not include [people/complex backgrounds/cheap decorations/platform UI/waterma
 
 ---
 
-### No. 89: Ink & Watercolor Illustration
+### No. 89: Photo to Cute Cartoon Sketch
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Creates a hand-drawn illustration blending fine ink outlines with loose watercolor painting, flowing textures, and vibrant splashes.
+Creates a 2x4 comparison grid transforming real photos of children into minimalist black-and-white chibi cartoon characters.
 
 #### 🌟 Prompt
 
-```
-Hand-drawn illustration of [subject], fine ink outlines combined with loose watercolor painting, flowing pigment textures, vibrant splashes, artistic paper grain, elegant handcrafted style
-```
-
-#### 🌁 Generated Image
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HME6YGFacAIaRT6.jpg" width="700" alt="Ink &amp; Watercolor Illustration">
-</div>
-
-<br>
-
-<div align="center">
-
-| Author | Source | Published |
-| :---: | :---: | :---: |
-| [Zephyra Leigh](https://x.com/ZephyraLeigh) | [X / Twitter](https://x.com/ZephyraLeigh/status/2072126267806318981) | 2026-07-01 |
-
-</div>
-
-<div align="center">
-
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072126267806318981)**
-
-</div>
-
----
-
-### No. 90: Playful Kids Doodle Portrait
-
-![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
-
-#### 📚 Description
-
-Creates a high-key studio portrait of a running child, with a doodled stick figure tugging their shirt for a playful effect.
-
-#### 🌟 Prompt
-
-A playful, high-key studio portrait of [subject] running joyfully across a seamless light gray background, …
+A 2-row by 4-column compilation grid showcasing a transformation from real photos to 2D cartoon sketches. Top …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-A playful, high-key studio portrait of [subject] running joyfully across a seamless light gray background, captured mid-stride with one leg lifted and a wide genuine smile. The subject wears a casual oversized outfit with soft neutral tones (or vibrant colors), creating a dynamic sense of motion. Behind them, a simple black hand-drawn cartoon stick figure grabs and stretches the back of their shirt, making the fabric appear elastically pulled as if trying to stop them. The doodle character is integrated naturally into the scene with expressive motion lines and a humorous facial expression. The subject holds a fun prop (such as a dinosaur toy, oversized lollipop, teddy bear, or balloon), enhancing the playful storytelling. Minimalist composition, clean studio lighting, soft shadows, ultra-sharp focus, realistic skin texture, vibrant yet natural colors, whimsical editorial photography, premium children’s fashion campaign aesthetic, highly detailed, photorealistic, 8K.
+A 2-row by 4-column compilation grid showcasing a transformation from real photos to 2D cartoon sketches. Top Row (Row 1): Features 4 distinct realistic photographs of different stylish children and teenagers with expressive faces and varied hairstyles (such as bob cuts, messy short hair, long wavy hair, and pigtails). Bottom Row (Row 2): Directly underneath each photo, display its corresponding 2D minimalist cartoon character transformation. The sketches must be clean black line art on a solid white background, featuring cute chibi-style faces, large expressive eyes, and simple charming smiles that retain the core hairstyle identity of the photo above it. Overall aesthetic should be high-quality digital art, perfectly aligned, organized as a neat split comparison sheet, modern children's book illustration style.
 ```
 
 </details>
@@ -5979,7 +5794,7 @@ A playful, high-key studio portrait of [subject] running joyfully across a seaml
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMD4r5XWcAAlMXs.jpg" width="700" alt="Playful Kids Doodle Portrait">
+<img src="https://image.moge.ai/prompt_media/HMKB_fUagAER70Q.jpg" width="700" alt="Photo to Cute Cartoon Sketch">
 </div>
 
 <br>
@@ -5988,13 +5803,72 @@ A playful, high-key studio portrait of [subject] running joyfully across a seaml
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Sairah](https://x.com/Sairah_0) | [X / Twitter](https://x.com/Sairah_0/status/2071929275897491491) | 2026-06-30 |
+| [Cherry 2.O](https://x.com/Mind_Boticni) | [X / Twitter](https://x.com/Mind_Boticni/status/2072361733273117108) | 2026-07-01 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2071929275897491491)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072361733273117108)**
+
+</div>
+
+---
+
+### No. 90: Luxury Eyewear Campaign Portrait
+
+![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
+
+#### 📚 Description
+
+Creates a photorealistic menswear portrait on an urban rooftop, featuring oversized sunglasses as the centerpiece in a minimal luxury commercial style.
+
+#### 🌟 Prompt
+
+A photorealistic premium fashion eyewear campaign featuring a stylish young male model (20-26) with a slim …
+
+<details>
+<summary>Show full prompt</summary>
+
+```
+A photorealistic premium fashion eyewear campaign featuring a stylish young male model (20-26) with a slim build, photographed in a modern urban rooftop setting under bright natural midday sunlight. The image embodies minimal luxury, Scandinavian simplicity, and contemporary menswear aesthetics, with oversized square sunglasses as the unmistakable visual centerpiece. The sunglasses feature a thin matte black acetate frame and warm amber gradient lenses that softly reveal the model's eyes while catching realistic daylight reflections.
+
+The model has an oval face with softly defined jawline, balanced cheekbones, light neutral skin with realistic pores and a healthy matte finish, medium straight eyebrows, a straight nose, natural matte lips, and a clean-shaven appearance. His hairstyle is a modern French crop with short straight dark brown hair, a blunt fringe, and a natural matte finish. His expression is calm, relaxed, confident, and thoughtful, with his gaze directed off-camera to the left. His mouth remains naturally relaxed while his head is turned into a subtle three-quarter profile, creating an elegant editorial pose.
+
+He wears a premium heavyweight black cotton crew-neck T-shirt with a tailored relaxed fit, reflecting quiet luxury and minimalist menswear. The composition is a tight head-and-shoulders portrait captured at eye level, with the subject positioned slightly left of center against a softly blurred background of clean modern architecture in light grey, white, and soft blue tones. The shallow depth of field creates smooth architectural bokeh that enhances the luxury commercial aesthetic without distracting from the subject.
+
+Lighting consists of bright natural midday sunlight coming from the upper front-right, balanced with a large white reflector that softly fills facial shadows. The result is medium contrast with defined yet clean shadows that preserve natural skin texture and realistic facial depth. Warm amber reflections on the sunglasses subtly complement the neutral color palette while adding visual richness.
+
+Captured on a Sony A1 with an 85mm GM prime lens at f/2, 1/1600 sec, ISO 100, daylight white balance, producing an exceptionally sharp portrait with shallow depth of field and cinematic optical separation. Every detail, including realistic skin pores, individual hair strands, soft cotton fabric texture, and crisp acetate frames with authentic reflections, is rendered with commercial-level precision.
+
+Color grading follows a premium commercial style with balanced contrast, soft natural highlights, clean shadows, slightly muted saturation, and warm, realistic skin tones. The overall palette blends deep black, warm beige, amber, soft brown, and cool architectural greys for a refined luxury feel. Post-processing includes high-end editorial beauty retouching, medium-high clarity, selective sharpening on the eyes, sunglasses, and facial contours, wide dynamic range, and an ultra-clean commercial finish.
+
+The overall mood is modern, clean, confident, luxurious, fresh, urban, and understated, inspired by luxury eyewear campaigns from Gentle Monster, Persol, Oliver Peoples, COS, and Acne Studios. The final image should resemble an elite high-end commercial portrait with flawless realism, maximum dynamic range, exceptional sharpness, and true 8K quality.
+
+Negative prompt: cartoon, anime, HDR, oversaturated colors, plastic skin, heavy facial hair, busy background, text, watermark, low resolution, noise, deformed anatomy.
+```
+
+</details>
+
+#### 🌁 Generated Image
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HMMREkUbYAAOhdR.jpg" width="700" alt="Luxury Eyewear Campaign Portrait">
+</div>
+
+<br>
+
+<div align="center">
+
+| Author | Source | Published |
+| :---: | :---: | :---: |
+| [Virena](https://x.com/vireonixx) | [X / Twitter](https://x.com/vireonixx/status/2072519037897367958) | 2026-07-02 |
+
+</div>
+
+<div align="center">
+
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2072519037897367958)**
 
 </div>
 
