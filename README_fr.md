@@ -35,29 +35,112 @@ Texte complet du prompt · images d'aperçu · **10 langues**
 
 ## 🎩 Derniers prompts sélectionnés
 
-### No. 1: Esthétique de Boisson Fraîche et Translucide
+### No. 1: Affiche de Montre de Luxe dans l'Écume Sous-Marine
 
 ![Catégorie: Publicité & produit](https://img.shields.io/badge/Cat%C3%A9gorie-Publicit%C3%A9%20%26%20produit-lightgrey)
 
 #### 📚 Description
 
-Crée un visuel publicitaire de boisson frais et épuré, avec un verre flottant dans un espace aéré et translucide, entouré de brume, de cristaux de glace et de beaucoup d'espace blanc.
+Crée une affiche publicitaire premium d'une montre de plongée de luxe suspendue dans une explosion d'écume blanche et de microbulles sous-marines, capturée à haute vitesse.
 
 #### 🌟 Prompt
 
-Génère un visuel de boisson frais et léger autour d'un thème de boisson précis : le cœur de l'image est un …
+Crée une affiche commerciale ultra-premium de \*\*style laboratoire à haute vitesse\*\* pour la \*\*Rolex …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Génère un visuel de boisson frais et léger autour d'un thème de boisson précis : le cœur de l'image est un seul gobelet produit porté par un vaste champ d'air propre et très lumineux. Le gobelet est situé sous le centre visuel, comme soulevé doucement par une brume douce, des cristaux de glace, de la vapeur ou une matière thématique, avec une couche de reflet translucide à la base, rendant le produit à la fois réel et d'une fraîcheur flottante. L'arrière-plan reste clair, propre, aéré et en couches transparentes ; au loin seulement des volumes doux à faible contraste et de légères suggestions d'ambiance, sans empiler de scènes complexes. L'emballage principal a des informations nettes, avec la couleur, la texture et les détails granuleux de la boisson à la surface du gobelet, la sensation de glace et les reflets humides finement visibles. Les couleurs sont tirées de la saveur, de la matière et de l'émotion de la boisson elle-même, gardant une vaste base claire, quelques couleurs d'accent thématiques saturées et nettes, des dégradés propres et des ombres à faible bruit, laissant l'ensemble lumineux, frais et transparent. Les couleurs d'accent servent surtout le titre, les icônes illustrées, les étiquettes et quelques lignes structurelles ; l'arrière-plan et la brume portent la respiration, et le texte porte le point de mémoire. Le titre emploie de grands caractères fins, sobres et bien espacés formant un rythme de lecture vertical marquant, accompagné de petites informations en anglais ou de courtes phrases, réparties sur les bords avec beaucoup d'espace blanc par rapport au produit ; la couleur du texte provient de la même source que l'accent thématique, avec des bords nets et sans ombres lourdes. La texture globale ressemble à une publicité de boisson fraîche : enveloppée de brume, glacée et transparente, information légère, espace blanc abondant, produit, texte et sensation d'air créant ensemble la sensation immédiate qu'"une gorgée rafraîchit déjà".
+Crée une affiche commerciale ultra-premium de **style laboratoire à haute vitesse** pour la **Rolex Submariner**, photographiée comme dans un studio de recherche sur les liquides de classe mondiale à la microseconde exacte d'une violente explosion de pression sous-marine. La montre doit rester l'objet héros absolu : iconique, précise, luxueuse et instantanément reconnaissable comme une Rolex Submariner. Autour de la montre doit se trouver une explosion hautement contrôlée de **mousse sous-marine blanche et dense, de nuages de microbulles comprimées et de turbulence liquide entraînée par la pression**, capturée avec une précision d'obturateur extrême. La mousse blanche doit sembler physiquement réelle et générée naturellement par la force sous-marine, non décorative. Elle doit envelopper la structure externe de la montre, surtout autour du boîtier, de la lunette, des jonctions du bracelet et de parties du bord du verre, avec **une très petite et élégante quantité d'occlusion naturelle traversant des zones limitées du périmètre du cadran**, rendant l'interaction sous-marine plus crédible et plus proche de la photographie expérimentale à haute vitesse.
 
-——————
-Remplacer par : boisson glacée coco-citron vert, un gobelet de boisson de coco rafraîchissante en tons bleu-vert clair
-Pour image sociale : comme image de recommandation de boisson d'été, l'image reste centrée sur un seul gobelet et beaucoup d'espace blanc
-Doit apparaître : étiquette du gobelet nette, avec une légèreté soulevée par des cristaux de glace, de la vapeur et de la brume
-Taille : vertical 9:10
+Composition principale :
+Utilise une composition héros centrée avec la **Rolex Submariner** face à l'avant au milieu du cadre, agrandie et monumentale, occupant la majeure partie de l'image verticalement. La montre doit sembler suspendue dans une chambre de pression en eaux profondes. Autour d'elle, construis un halo dense et sculptural d'eau blanche aérée et de floraison de bulles, particulièrement concentré près des moitiés supérieure et inférieure et des bords latéraux du boîtier. Le cadran reste le point focal, mais il ne doit plus apparaître parfaitement isolé ; au lieu de cela, des parties du bord extérieur doivent être effleurées par la mousse blanche et les bulles comprimées pour un aspect immergé plus naturel.
+
+Concept de laboratoire à haute vitesse :
+L'image doit sembler être une montre de luxe photographiée dans un laboratoire de dynamique des liquides à l'aide d'une capture stroboscopique ultra-rapide :
+floraison d'eau figée en microsecondes,
+bords de bulles ultra-nets,
+turbulence blanche sous-marine comprimée,
+nuages de pression mousseux et denses,
+fines gouttelettes en suspension,
+recul liquide contrôlé,
+séparation nette entre la géométrie nette de la montre et la force fluide chaotique.
+Tout doit sembler techniquement parfait, élégant et physiquement convaincant, comme une capture scientifique transformée en publicité de luxe.
+
+Comportement de la mousse et des bulles :
+L'élément visuel clé est la **mousse d'eau blanche et dense** autour de la montre. Cette mousse doit sembler :
+née de la pression,
+épaisse et aérée,
+semblable à un nuage mais sous-marine,
+remplie de microbulles,
+doucement lumineuse,
+enveloppant naturellement les surfaces métalliques.
+Ajoute :
+une brume de microbulles ultra-fines près du bord du verre,
+une floraison de bulles blanches plus épaisse autour du bracelet et de la lunette,
+des sphères d'air isolées plus grandes dérivant vers l'extérieur,
+un brouillard liquide comprimé autour de la silhouette de la montre.
+La mousse blanche doit traverser légèrement de minuscules portions du bord de la lunette et de la zone extérieure du cadran, mais seulement de manière minimale et avec goût.
+
+Interaction avec le cadran :
+Ceci est crucial :
+permets à **une petite quantité de mousse blanche douce et de brume de bulles de chevaucher le périmètre extérieur du cadran et le bord du verre**,
+assombris légèrement de minuscules zones de bord,
+maintiens l'image de marque Rolex, les aiguilles et l'architecture du cadran lisibles,
+évite un look de catalogue totalement propre.
+L'objectif est une immersion sous-marine réaliste avec un masquage partiel contrôlé.
+
+Réalisme de la montre :
+Rends la Rolex Submariner avec une fidélité absolue de produit de luxe :
+acier brossé et poli parfait,
+marqueurs de lunette précis,
+index horaires lumineux nets,
+aiguilles Mercedes acérées,
+reflets de verre saphir premium,
+géométrie de boîtier détaillée,
+articulation de bracelet haut de gamme,
+poids de métal subtil et précision d'ingénierie.
+La montre doit sembler chère, robuste et noble, même enlacée par l'eau blanche turbulente.
+
+Éclairage :
+Utilise un éclairage d'élite de **photographie de liquides en studio à haute vitesse** :
+éclairage stroboscopique froid et contrôlé,
+reflets spéculaires nets sur les bords en acier,
+contraste ambiant bleu-noir profond,
+lumière subtile transmise à travers les bulles,
+micro-contraste dans la mousse blanche,
+reflets de verre propres,
+modelage lumineux doux sur le cadran.
+L'éclairage doit sembler précis, technique, froid et luxueux.
+
+Arrière-plan :
+Garde l'arrière-plan extrêmement minimaliste et propre comme un laboratoire, avec un dégradé aquatique profond :
+bleu minuit,
+bleu marine foncé,
+espace sous-marin presque noir,
+brume immergée douce.
+Pas de fond océanique, pas de poissons, pas de corail, pas d'accessoires. Seulement un vide expérimental de luxe autour de la montre.
+
+Typographie et image de marque :
+Inclus un **logo officiel Rolex** raffiné et un titre sobre tel que **SUBMARINER**. La typographie doit être minimaliste, élégante et placée dans un espace négatif propre. Pas d'encombrement, pas de texte surdimensionné, pas de style d'annonce sportive bon marché.
+
+Palette de couleurs :
+bleu minuit,
+noir bleu marine profond,
+argent acier,
+mousse blanche froide,
+translucidité claire des bulles,
+accents lumineux subtils du cadran.
+L'ambiance doit rester fraîche, précise, masculine et élite.
+
+Ambiance :
+laboratoire à haute vitesse, pression sous-marine, luxe conçu, précision scientifique, violence contrôlée, élégance des profondeurs, publicité premium de montre suisse.
+
+Rendu :
+photographie de produit de luxe hyper-réaliste, capture de liquide en laboratoire à haute vitesse, mousse sous-marine blanche ultra-détaillée, simulation dense de microbulles, occlusion partielle sobre du cadran, réalisme macro de montre premium, éclairage froid cinématographique, 8k, qualité de campagne publicitaire de classe mondiale.
+
+Prompt négatif :
+montre isolée parfaitement propre, cadran totalement dégagé, pétillement de soda aléatoire, mousse de savon, éclaboussure désordonnée et incontrôlée, eau de dessin animé, proportions de montre déformées, métal plastique, environnement sous-marin encombré, poissons, corail, plongeur, texte excessif, bulles peu détaillées, affiche sportive bon marché
 ```
 
 </details>
@@ -65,7 +148,7 @@ Taille : vertical 9:10
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMy4JVVboAE0du-.jpg" width="700" alt="Esthétique de Boisson Fraîche et Translucide">
+<img src="https://image.moge.ai/prompt_media/HMytxF1bwAA4PiE.jpg" width="700" alt="Affiche de Montre de Luxe dans l&#x27;Écume Sous-Marine">
 </div>
 
 <br>
@@ -74,13 +157,13 @@ Taille : vertical 9:10
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [小小东](https://x.com/xiaoxiaodong01) | [X / Twitter](https://x.com/xiaoxiaodong01/status/2075236593900920914) | 2026-07-09 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2075224644098109861) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2075236593900920914)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2075224644098109861)**
 
 </div>
 
@@ -401,112 +484,97 @@ chaos de nourriture désordonnée, photo de restaurant bon marché, éclairage p
 
 ---
 
-### No. 7: Affiche de Montre de Luxe dans l'Écume Sous-Marine
+### No. 7: Affiche Lipton style livre pour enfants
 
 ![Catégorie: Publicité & produit](https://img.shields.io/badge/Cat%C3%A9gorie-Publicit%C3%A9%20%26%20produit-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche publicitaire premium d'une montre de plongée de luxe suspendue dans une explosion d'écume blanche et de microbulles sous-marines, capturée à haute vitesse.
+Crée une affiche publicitaire haut de gamme pour le thé noir Lipton dans un style de livre pour enfants français aux tons pastel, avec une fillette buvant à côté d'un crocodile fantaisiste et la bouteille de marque mise en avant.
 
 #### 🌟 Prompt
 
-Crée une affiche commerciale ultra-premium de \*\*style laboratoire à haute vitesse\*\* pour la \*\*Rolex …
+Créez une affiche publicitaire ultra-premium pour les \*\*boissons de thé noir Lipton\*\* dans un \*\*style de …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Crée une affiche commerciale ultra-premium de **style laboratoire à haute vitesse** pour la **Rolex Submariner**, photographiée comme dans un studio de recherche sur les liquides de classe mondiale à la microseconde exacte d'une violente explosion de pression sous-marine. La montre doit rester l'objet héros absolu : iconique, précise, luxueuse et instantanément reconnaissable comme une Rolex Submariner. Autour de la montre doit se trouver une explosion hautement contrôlée de **mousse sous-marine blanche et dense, de nuages de microbulles comprimées et de turbulence liquide entraînée par la pression**, capturée avec une précision d'obturateur extrême. La mousse blanche doit sembler physiquement réelle et générée naturellement par la force sous-marine, non décorative. Elle doit envelopper la structure externe de la montre, surtout autour du boîtier, de la lunette, des jonctions du bracelet et de parties du bord du verre, avec **une très petite et élégante quantité d'occlusion naturelle traversant des zones limitées du périmètre du cadran**, rendant l'interaction sous-marine plus crédible et plus proche de la photographie expérimentale à haute vitesse.
+Créez une affiche publicitaire ultra-premium pour les **boissons de thé noir Lipton** dans un **style de livre d'images pour enfants français aux tons pastel**, en utilisant une mise en page inspirée d'une affiche imprimée commerciale classique : une grande scène d'histoire illustrée dans la zone supérieure, un bloc de titre en gras en haut à droite et une bande de pied propre et de marque en bas avec la bouteille du produit ancrée en bas à droite. L'image doit ressembler à une couverture de livre pour enfants européen haut de gamme fusionnée avec de la publicité professionnelle de boissons. Le récit principal met en scène **une petite fille buvant joyeusement du thé noir Lipton à côté d'un grand crocodile fantaisiste**, avec une atmosphère douce aquarelle-pastel, des textures raffinées peintes à la main, un espace négatif élégant et une forte lisibilité d'affiche. La **bouteille Lipton doit rester réaliste, de marque et commercialement claire**, tandis que le reste de la scène semble poétique, adapté aux enfants, doux et collectionnable.
 
-Composition principale :
-Utilise une composition héros centrée avec la **Rolex Submariner** face à l'avant au milieu du cadre, agrandie et monumentale, occupant la majeure partie de l'image verticalement. La montre doit sembler suspendue dans une chambre de pression en eaux profondes. Autour d'elle, construis un halo dense et sculptural d'eau blanche aérée et de floraison de bulles, particulièrement concentré près des moitiés supérieure et inférieure et des bords latéraux du boîtier. Le cadran reste le point focal, mais il ne doit plus apparaître parfaitement isolé ; au lieu de cela, des parties du bord extérieur doivent être effleurées par la mousse blanche et les bulles comprimées pour un aspect immergé plus naturel.
+Mise en page et composition de l'affiche :
+Utilisez une **composition d'affiche verticale** avec une structure publicitaire très claire.
+Zone supérieure :
+laissez un ciel pâle ouvert et un espace négatif atmosphérique doux en haut à droite pour un grand titre dirigé artistiquement.
+Centre-gauche / plan intermédiaire :
+placez un grand crocodile doux comme silhouette de personnage illustré dominante, debout ou penché de manière ludique, occupant une grande partie de la composition gauche et centrale.
+Premier plan centre-inférieur :
+placez la petite fille buvant du Lipton, plus petite que le crocodile, créant un charmant contraste d'échelle et un fort focus narratif.
+Zone inférieure :
+ajoutez une **bande de pied horizontale propre en jaune Lipton** couvrant toute la largeur de l'affiche.
+Coin inférieur droit :
+placez une grande **bouteille réaliste de boisson de thé noir Lipton** chevauchant légèrement la scène illustrée au-dessus de la bande jaune, comme un placement de produit héros classique dans la publicité imprimée.
+Centre inférieur :
+réservez de l'espace pour un slogan court et élégant ou une ligne de marque.
+La composition doit sembler équilibrée, iconique, très lisible et élégante, avec une séparation claire entre l'illustration de l'histoire, la zone de titre et la zone de marque du produit.
 
-Concept de laboratoire à haute vitesse :
-L'image doit sembler être une montre de luxe photographiée dans un laboratoire de dynamique des liquides à l'aide d'une capture stroboscopique ultra-rapide :
-floraison d'eau figée en microsecondes,
-bords de bulles ultra-nets,
-turbulence blanche sous-marine comprimée,
-nuages de pression mousseux et denses,
-fines gouttelettes en suspension,
-recul liquide contrôlé,
-séparation nette entre la géométrie nette de la montre et la force fluide chaotique.
-Tout doit sembler techniquement parfait, élégant et physiquement convaincant, comme une capture scientifique transformée en publicité de luxe.
+Direction de style :
+Rendez la scène principale dans un **style d'illustration de livre pour enfants français aux tons pastel** ultra-premium :
+diffusion douce d'aquarelle,
+superposition pastel atténuée,
+douceur de pinceau peint à la main,
+texture douce semblable au papier,
+design de contour raffiné,
+sensation d'animation premium adaptée aux enfants,
+atmosphère poétique chaleureuse.
+Évitez le style de dessin animé bon marché, l'animation générique brillante ou les détails excessivement bruyants. Le résultat doit sembler cultivé, doux et intemporel.
 
-Comportement de la mousse et des bulles :
-L'élément visuel clé est la **mousse d'eau blanche et dense** autour de la montre. Cette mousse doit sembler :
-née de la pression,
-épaisse et aérée,
-semblable à un nuage mais sous-marine,
-remplie de microbulles,
-doucement lumineuse,
-enveloppant naturellement les surfaces métalliques.
-Ajoute :
-une brume de microbulles ultra-fines près du bord du verre,
-une floraison de bulles blanches plus épaisse autour du bracelet et de la lunette,
-des sphères d'air isolées plus grandes dérivant vers l'extérieur,
-un brouillard liquide comprimé autour de la silhouette de la montre.
-La mousse blanche doit traverser légèrement de minuscules portions du bord de la lunette et de la zone extérieure du cadran, mais seulement de manière minimale et avec goût.
+Relation fille et crocodile :
+La fille doit sembler joyeuse, expressive et innocente, tenant ou buvant la boisson Lipton naturellement. Elle doit être charmante et vive, mais pas exagérée. Le crocodile doit sembler surdimensionné, fantaisiste, humoristique et non menaçant, avec une anatomie adoucie, des yeux gentils et une personnalité ludique. Leur relation doit sembler surprenante, magique et affectueuse, comme s'ils appartenaient au même monde illustré de rêve.
 
-Interaction avec le cadran :
-Ceci est crucial :
-permets à **une petite quantité de mousse blanche douce et de brume de bulles de chevaucher le périmètre extérieur du cadran et le bord du verre**,
-assombris légèrement de minuscules zones de bord,
-maintiens l'image de marque Rolex, les aiguilles et l'architecture du cadran lisibles,
-évite un look de catalogue totalement propre.
-L'objectif est une immersion sous-marine réaliste avec un masquage partiel contrôlé.
+Environnement :
+Créez un cadre doux au bord de la rivière ou de type zone humide avec de l'herbe pâle, de l'eau tranquille, un ciel pastel et de subtils détails botaniques. Gardez l'environnement aéré et élégant, avec suffisamment de simplification pour préserver la clarté de l'affiche. La scène doit soutenir le thème du crocodile tout en restant chaleureuse, paisible et adaptée aux enfants.
 
-Réalisme de la montre :
-Rends la Rolex Submariner avec une fidélité absolue de produit de luxe :
-acier brossé et poli parfait,
-marqueurs de lunette précis,
-index horaires lumineux nets,
-aiguilles Mercedes acérées,
-reflets de verre saphir premium,
-géométrie de boîtier détaillée,
-articulation de bracelet haut de gamme,
-poids de métal subtil et précision d'ingénierie.
-La montre doit sembler chère, robuste et noble, même enlacée par l'eau blanche turbulente.
-
-Éclairage :
-Utilise un éclairage d'élite de **photographie de liquides en studio à haute vitesse** :
-éclairage stroboscopique froid et contrôlé,
-reflets spéculaires nets sur les bords en acier,
-contraste ambiant bleu-noir profond,
-lumière subtile transmise à travers les bulles,
-micro-contraste dans la mousse blanche,
-reflets de verre propres,
-modelage lumineux doux sur le cadran.
-L'éclairage doit sembler précis, technique, froid et luxueux.
-
-Arrière-plan :
-Garde l'arrière-plan extrêmement minimaliste et propre comme un laboratoire, avec un dégradé aquatique profond :
-bleu minuit,
-bleu marine foncé,
-espace sous-marin presque noir,
-brume immergée douce.
-Pas de fond océanique, pas de poissons, pas de corail, pas d'accessoires. Seulement un vide expérimental de luxe autour de la montre.
+Réalisme de la boisson :
+La **bouteille de boisson de thé noir Lipton** doit être réaliste et nettement de marque :
+proportions précises de la bouteille,
+étiquette Lipton claire,
+couleur de thé réaliste,
+reflets subtils,
+détail de matériau premium,
+clarté de qualité commerciale.
+La bouteille doit contraster légèrement avec le monde illustré pour qu'elle se lise comme le produit héros sans avoir l'air maladroitement collée.
 
 Typographie et image de marque :
-Inclus un **logo officiel Rolex** raffiné et un titre sobre tel que **SUBMARINER**. La typographie doit être minimaliste, élégante et placée dans un espace négatif propre. Pas d'encombrement, pas de texte surdimensionné, pas de style d'annonce sportive bon marché.
+En haut à droite, incluez un grand titre publicitaire raffiné dans un style éditorial premium propre, inspiré des affiches de boissons classiques. La typographie doit être en gras, élégante et très lisible, mais toujours de bon goût. Incluez le **logo officiel Lipton** clairement sur la bouteille et éventuellement dans la mise en page. Dans la bande jaune inférieure, incluez un slogan court centré dans un style premium soigné. Le texte doit sembler intégré, équilibré et dirigé artistiquement, jamais bon marché, jamais encombré.
+
+Éclairage :
+Utilisez une lumière du jour douce et lumineuse avec une qualité de livre pour enfants pastel :
+reflets chauds doux,
+brume atmosphérique subtile,
+transitions d'ombre tendres,
+reflets propres du produit,
+modelage de lumière raffiné sur la fille et le crocodile.
+La lumière doit sembler réconfortante, élégante et premium.
 
 Palette de couleurs :
-bleu minuit,
-noir bleu marine profond,
-argent acier,
-mousse blanche froide,
-translucidité claire des bulles,
-accents lumineux subtils du cadran.
-L'ambiance doit rester fraîche, précise, masculine et élite.
+jaune Lipton,
+ambre de thé doux,
+vert sauge,
+vert crocodile pastel,
+ciel bleu poudre,
+crème chaude,
+tons terreux botaniques atténués.
+La palette doit sembler douce, fraîche, premium et adaptée à l'affiche.
 
 Ambiance :
-laboratoire à haute vitesse, pression sous-marine, luxe conçu, précision scientifique, violence contrôlée, élégance des profondeurs, publicité premium de montre suisse.
+française, poétique, adaptée aux enfants, fantaisiste, premium, chaleureuse, collectionnable, doucement humoristique, élégante, fusion histoire-commerce.
 
 Rendu :
-photographie de produit de luxe hyper-réaliste, capture de liquide en laboratoire à haute vitesse, mousse sous-marine blanche ultra-détaillée, simulation dense de microbulles, occlusion partielle sobre du cadran, réalisme macro de montre premium, éclairage froid cinématographique, 8k, qualité de campagne publicitaire de classe mondiale.
+illustration de livre pour enfants français ultra-premium, délicate scène d'affiche peinte à la main à l'aquarelle et au pastel, rendu réaliste de produit de boisson de marque, mise en page d'annonce imprimée classique, éclairage doux lumineux, composition commerciale propre, 8k, qualité d'illustration publicitaire de classe mondiale.
 
 Prompt négatif :
-montre isolée parfaitement propre, cadran totalement dégagé, pétillement de soda aléatoire, mousse de savon, éclaboussure désordonnée et incontrôlée, eau de dessin animé, proportions de montre déformées, métal plastique, environnement sous-marin encombré, poissons, corail, plongeur, texte excessif, bulles peu détaillées, affiche sportive bon marché
+style de dessin animé bon marché, crocodile effrayant, ambiance violente, arrière-plan encombré, titre illisible, hiérarchie d'affiche faible, couleurs plates, bouteille peu détaillée, mise en page de pied désordonnée, affiche pour enfants générique, contraste dur, illustration d'aspect plastique, style d'animation bas de gamme
 ```
 
 </details>
@@ -514,7 +582,7 @@ montre isolée parfaitement propre, cadran totalement dégagé, pétillement de 
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMytxF1bwAA4PiE.jpg" width="700" alt="Affiche de Montre de Luxe dans l&#x27;Écume Sous-Marine">
+<img src="https://image.moge.ai/prompt_media/HMyjdu2bgAEE75n.jpg" width="700" alt="Affiche Lipton style livre pour enfants">
 </div>
 
 <br>
@@ -523,13 +591,13 @@ montre isolée parfaitement propre, cadran totalement dégagé, pétillement de 
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2075224644098109861) | 2026-07-09 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2075213371453190506) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2075224644098109861)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2075213371453190506)**
 
 </div>
 
@@ -781,97 +849,92 @@ Portrait de mode de luxe ultra-réaliste d'une élégante femme noire à la peau
 
 ---
 
-### No. 13: Affiche Lipton style livre pour enfants
+### No. 13: Déesse du lait blanc pur
 
 ![Catégorie: Publicité & produit](https://img.shields.io/badge/Cat%C3%A9gorie-Publicit%C3%A9%20%26%20produit-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche publicitaire haut de gamme pour le thé noir Lipton dans un style de livre pour enfants français aux tons pastel, avec une fillette buvant à côté d'un crocodile fantaisiste et la bouteille de marque mise en avant.
+Crée une affiche de luxe entièrement blanche pour du lait, avec une femme asiatique s'élevant, fusionnée au lait liquide en ailes éthérées, dans une esthétique sacrée et raffinée.
 
 #### 🌟 Prompt
 
-Créez une affiche publicitaire ultra-premium pour les \*\*boissons de thé noir Lipton\*\* dans un \*\*style de …
+Crée une \*\*affiche de luxe sacrée entièrement blanche\*\* ultra-premium pour le \*\*Lait Nestlé\*\*, centrée sur le …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Créez une affiche publicitaire ultra-premium pour les **boissons de thé noir Lipton** dans un **style de livre d'images pour enfants français aux tons pastel**, en utilisant une mise en page inspirée d'une affiche imprimée commerciale classique : une grande scène d'histoire illustrée dans la zone supérieure, un bloc de titre en gras en haut à droite et une bande de pied propre et de marque en bas avec la bouteille du produit ancrée en bas à droite. L'image doit ressembler à une couverture de livre pour enfants européen haut de gamme fusionnée avec de la publicité professionnelle de boissons. Le récit principal met en scène **une petite fille buvant joyeusement du thé noir Lipton à côté d'un grand crocodile fantaisiste**, avec une atmosphère douce aquarelle-pastel, des textures raffinées peintes à la main, un espace négatif élégant et une forte lisibilité d'affiche. La **bouteille Lipton doit rester réaliste, de marque et commercialement claire**, tandis que le reste de la scène semble poétique, adapté aux enfants, doux et collectionnable.
+Crée une **affiche de luxe sacrée entièrement blanche** ultra-premium pour le **Lait Nestlé**, centrée sur le thème d'**une jeune femme d'Asie de l'Est mature s'élevant en vol et fusionnée de façon transparente avec du lait fluide**, comme si elle naissait de la lumière, de la pureté et de la douceur liquide elle-même. Toute l'image doit sembler sacrée, sereine, en apesanteur et d'un raffinement à couper le souffle, telle une fusion de photographie de beauté haut de gamme, d'art sculptural sacré et de capture de lait liquide à haute vitesse. La femme ne doit pas sembler porter un costume fait de lait ; au contraire, son corps et le lait doivent exister comme une seule forme vivante continue. Son buste, son visage, ses épaules et ses bras émergent gracieusement du lait lumineux, tandis que le lait environnant s'étend en vastes structures ailées légères comme des plumes, voiles fluides, rubans liquides et formes translucides traînantes. L'image finale doit exprimer pureté, nutrition, douceur, grâce et élévation spirituelle.
 
-Mise en page et composition de l'affiche :
-Utilisez une **composition d'affiche verticale** avec une structure publicitaire très claire.
-Zone supérieure :
-laissez un ciel pâle ouvert et un espace négatif atmosphérique doux en haut à droite pour un grand titre dirigé artistiquement.
-Centre-gauche / plan intermédiaire :
-placez un grand crocodile doux comme silhouette de personnage illustré dominante, debout ou penché de manière ludique, occupant une grande partie de la composition gauche et centrale.
-Premier plan centre-inférieur :
-placez la petite fille buvant du Lipton, plus petite que le crocodile, créant un charmant contraste d'échelle et un fort focus narratif.
-Zone inférieure :
-ajoutez une **bande de pied horizontale propre en jaune Lipton** couvrant toute la largeur de l'affiche.
-Coin inférieur droit :
-placez une grande **bouteille réaliste de boisson de thé noir Lipton** chevauchant légèrement la scène illustrée au-dessus de la bande jaune, comme un placement de produit héros classique dans la publicité imprimée.
-Centre inférieur :
-réservez de l'espace pour un slogan court et élégant ou une ligne de marque.
-La composition doit sembler équilibrée, iconique, très lisible et élégante, avec une séparation claire entre l'illustration de l'histoire, la zone de titre et la zone de marque du produit.
+Composition principale :
+Utilise une composition héroïque épurée et centrée avec une seule figure féminine flottant ou s'élevant au centre du cadre. Sa pose doit sembler balletique, en apesanteur et d'une élégance presque en prière, le corps s'élevant dans un doux mouvement vertical-diagonal. Ses bras doivent s'ouvrir ou se lever avec une extension gracieuse, et le lait doit se répandre derrière et autour d'elle comme des ailes sacrées fluides faites de lumière liquide. La silhouette doit sembler iconique, noble et sculpturale, avec un abondant espace négatif et un calme visuel parfait.
 
-Direction de style :
-Rendez la scène principale dans un **style d'illustration de livre pour enfants français aux tons pastel** ultra-premium :
-diffusion douce d'aquarelle,
-superposition pastel atténuée,
-douceur de pinceau peint à la main,
-texture douce semblable au papier,
-design de contour raffiné,
-sensation d'animation premium adaptée aux enfants,
-atmosphère poétique chaleureuse.
-Évitez le style de dessin animé bon marché, l'animation générique brillante ou les détails excessivement bruyants. Le résultat doit sembler cultivé, doux et intemporel.
+Direction du personnage :
+La figure féminine doit être une **beauté d'Asie de l'Est mature japonaise/coréenne**, élégante, raffinée, naturellement belle, avec une ossature douce, un cou et des épaules gracieux et une expression calme, lumineuse et intelligente. Elle ne doit pas ressembler à un ange de fantaisie ou à un mannequin influenceuse. Sa beauté doit sembler élevée, poétique et premium, avec une sereine quiétude intérieure. Son mouvement doit suggérer le vol, l'abandon, la douceur et l'ascension.
 
-Relation fille et crocodile :
-La fille doit sembler joyeuse, expressive et innocente, tenant ou buvant la boisson Lipton naturellement. Elle doit être charmante et vive, mais pas exagérée. Le crocodile doit sembler surdimensionné, fantaisiste, humoristique et non menaçant, avec une anatomie adoucie, des yeux gentils et une personnalité ludique. Leur relation doit sembler surprenante, magique et affectueuse, comme s'ils appartenaient au même monde illustré de rêve.
+Concept de fusion avec le lait blanc pur :
+Le lait doit se comporter comme un matériau sacré, soyeux et vivant, suspendu entre liquide, soie, brume et lumière. Le corps doit passer de façon transparente au lait :
+du lait s'épanouissant du dos en arcs ailés,
+du lait enveloppant la taille et le bas du torse en un mouvement sculptural fluide,
+du lait s'étendant des bras en traînées douces,
+de fines membranes translucides de lait brillant comme de la soie liquide,
+de petites gouttelettes en suspension orbitant la figure comme des particules sacrées.
+La transformation doit être totalement naturelle, sans coutures dures, sans effet de robe-costume, sans apparence d'éclaboussure collée. La jeune femme doit sembler formée de lait et de lumière au même instant.
 
-Environnement :
-Créez un cadre doux au bord de la rivière ou de type zone humide avec de l'herbe pâle, de l'eau tranquille, un ciel pastel et de subtils détails botaniques. Gardez l'environnement aéré et élégant, avec suffisamment de simplification pour préserver la clarté de l'affiche. La scène doit soutenir le thème du crocodile tout en restant chaleureuse, paisible et adaptée aux enfants.
+Réalisme liquide :
+Le lait doit être hyperréaliste, luxueux et radieux :
+lait blanc dense et crémeux,
+viscosité soyeuse,
+translucidité lumineuse douce dans les zones fines,
+tension lisse sur les bords liquides,
+reflets veloutés,
+fines gouttelettes en suspension,
+traînées liquides brumeuses,
+précision d'éclaboussure haute vitesse épurée.
+Le lait doit sembler pur, nourrissant, doux et luxueux, jamais aqueux, jamais crayeux, jamais plastique, jamais dur.
 
-Réalisme de la boisson :
-La **bouteille de boisson de thé noir Lipton** doit être réaliste et nettement de marque :
-proportions précises de la bouteille,
-étiquette Lipton claire,
-couleur de thé réaliste,
-reflets subtils,
-détail de matériau premium,
-clarté de qualité commerciale.
-La bouteille doit contraster légèrement avec le monde illustré pour qu'elle se lise comme le produit héros sans avoir l'air maladroitement collée.
+Stylisation sacrée blanc pur :
+Pousse toute l'image vers un monde visuel presque transcendant et entièrement blanc. Le lait, la lumière, le fond et l'atmosphère doivent rester dans un spectre raffiné de blanc, perle, blanc-ivoire, blanc-argenté et gris froid à peine perceptible. La scène doit sembler inondée de douce pureté et de silence, comme si la figure flottait dans un espace sacré lumineux. L'effet émotionnel doit être épuré, apaisant, angélique dans l'ambiance mais non littéral dans la stylisation.
 
-Typographie et image de marque :
-En haut à droite, incluez un grand titre publicitaire raffiné dans un style éditorial premium propre, inspiré des affiches de boissons classiques. La typographie doit être en gras, élégante et très lisible, mais toujours de bon goût. Incluez le **logo officiel Lipton** clairement sur la bouteille et éventuellement dans la mise en page. Dans la bande jaune inférieure, incluez un slogan court centré dans un style premium soigné. Le texte doit sembler intégré, équilibré et dirigé artistiquement, jamais bon marché, jamais encombré.
+Effet de mouvement et de traînée :
+L'effet de queue liquide doit être élégant et en apesanteur. Le lait doit balayer vers l'extérieur et vers le haut comme de douces ailes saisies dans un envol au ralenti, avec de longs arcs fluides, de doux rubans liquides et des formes aériennes en suspension. La figure doit sembler figée à la plus belle microseconde de l'ascension, avec un mouvement fluide, gracieux et spirituellement calme plutôt qu'explosif.
+
+Présence de la marque :
+Inclus une présence de marque **Lait Nestlé** subtile et premium. Un emballage produit épuré, une bouteille ou un élément d'emballage officiel discret peut apparaître près de la composition inférieure avec un équilibre élégant. Le logo officiel doit être discret, petit et intégré naturellement à la mise en page. La communication de marque doit sembler premium, pure, digne de confiance et élevée, jamais trop commerciale.
 
 Éclairage :
-Utilisez une lumière du jour douce et lumineuse avec une qualité de livre pour enfants pastel :
-reflets chauds doux,
-brume atmosphérique subtile,
-transitions d'ombre tendres,
-reflets propres du produit,
-modelage de lumière raffiné sur la fille et le crocodile.
-La lumière doit sembler réconfortante, élégante et premium.
+Utilise un éclairage de beauté **blanc pur** extrêmement doux avec une clarté divine :
+doux halo frontal sur le visage et le torse,
+éclairage de contour en halo autour des ailes de lait,
+reflets épurés sur les bords liquides,
+lueur transmise subtile à travers les membranes de lait plus fines,
+couches tonales délicates avec presque aucune ombre dure,
+micro-contraste uniquement là où nécessaire pour révéler la texture liquide.
+L'éclairage doit sembler céleste, crémeux, pur et luxueux, comme si la figure était illuminée à la fois de l'extérieur et de l'intérieur.
+
+Arrière-plan :
+Garde l'arrière-plan ultra-minimaliste et presque entièrement blanc, avec un doux dégradé de blanc-perle, blanc-ivoire, blanc-brume et gris-argenté ténu. L'espace doit sembler illimité, silencieux et lumineux. Pas d'accessoires, pas de décor, pas d'objets décoratifs, pas d'encombrement. Seulement un espace négatif sacré et premium.
+
+Typographie :
+Utilise uniquement une typographie minimaliste et élégante. Inclus un titre raffiné **Lait Nestlé**, un petit logo officiel et au plus une courte ligne poétique. La typographie doit sembler aérée, douce et de luxe sacré dans le ton, avec un espacement parfait et un placement dirigé artistiquement. Pas de polices grasses lourdes, pas de sensation d'affiche de vente au détail, pas de texte encombré.
 
 Palette de couleurs :
-jaune Lipton,
-ambre de thé doux,
-vert sauge,
-vert crocodile pastel,
-ciel bleu poudre,
-crème chaude,
-tons terreux botaniques atténués.
-La palette doit sembler douce, fraîche, premium et adaptée à l'affiche.
+blanc lait pur,
+blanc-perle,
+blanc-ivoire,
+blanc-argenté doux,
+gris-brume,
+tons clairs froids à peine perceptibles.
 
 Ambiance :
-française, poétique, adaptée aux enfants, fantaisiste, premium, chaleureuse, collectionnable, doucement humoristique, élégante, fusion histoire-commerce.
+pur, sacré, serein, édifiant, en apesanteur, lumineux, maternel, élégant, nourrissant, spirituel, premium, poétique, inoubliable.
 
 Rendu :
-illustration de livre pour enfants français ultra-premium, délicate scène d'affiche peinte à la main à l'aquarelle et au pastel, rendu réaliste de produit de boisson de marque, mise en page d'annonce imprimée classique, éclairage doux lumineux, composition commerciale propre, 8k, qualité d'illustration publicitaire de classe mondiale.
+photographie hyperréaliste de lait liquide à haute vitesse, style publicitaire beauté de luxe sacré, simulation d'éclaboussure de lait ultra-détaillée, silhouette féminine élégante en vol, arrière-plan minimaliste entièrement blanc, éclairage de beauté raffiné, 8k, qualité de campagne publicitaire de classe mondiale.
 
 Prompt négatif :
-style de dessin animé bon marché, crocodile effrayant, ambiance violente, arrière-plan encombré, titre illisible, hiérarchie d'affiche faible, couleurs plates, bouteille peu détaillée, mise en page de pied désordonnée, affiche pour enfants générique, contraste dur, illustration d'aspect plastique, style d'animation bas de gamme
+lait aqueux, blancs sales grisâtres, chaos d'éclaboussures désordonnées, fausses ailes, robe de lait type costume, liquide de dessin animé, peau plastique, visage d'influenceuse, couture dure corps-liquide, arrière-plan encombré, emballage surdimensionné, affiche de supermarché bon marché, typographie lourde, costume d'ange de fantaisie, gouttelettes peu détaillées, éclairage dur
 ```
 
 </details>
@@ -879,7 +942,7 @@ style de dessin animé bon marché, crocodile effrayant, ambiance violente, arri
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMyjdu2bgAEE75n.jpg" width="700" alt="Affiche Lipton style livre pour enfants">
+<img src="https://image.moge.ai/prompt_media/HMydWtTbwAAqZNp.jpg" width="700" alt="Déesse du lait blanc pur">
 </div>
 
 <br>
@@ -888,13 +951,13 @@ style de dessin animé bon marché, crocodile effrayant, ambiance violente, arri
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2075213371453190506) | 2026-07-09 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2075206557449744726) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2075213371453190506)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2075206557449744726)**
 
 </div>
 
@@ -1267,92 +1330,59 @@ Conserve la masse tonale noire dominante à droite du cadre et l’éclairage gr
 
 ---
 
-### No. 19: Déesse du lait blanc pur
+### No. 19: Le Ballet de la Mousse Guinness
 
 ![Catégorie: Publicité & produit](https://img.shields.io/badge/Cat%C3%A9gorie-Publicit%C3%A9%20%26%20produit-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche de luxe entièrement blanche pour du lait, avec une femme asiatique s'élevant, fusionnée au lait liquide en ailes éthérées, dans une esthétique sacrée et raffinée.
+Crée une affiche publicitaire haut de gamme Guinness où la mousse crémeuse de la bière se transforme naturellement en une ballerine élégante sur fond noir.
 
 #### 🌟 Prompt
 
-Crée une \*\*affiche de luxe sacrée entièrement blanche\*\* ultra-premium pour le \*\*Lait Nestlé\*\*, centrée sur le …
+Crée une affiche publicitaire ultra-premium pour Guinness, présentant une pinte hyperréaliste de stout noire …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Crée une **affiche de luxe sacrée entièrement blanche** ultra-premium pour le **Lait Nestlé**, centrée sur le thème d'**une jeune femme d'Asie de l'Est mature s'élevant en vol et fusionnée de façon transparente avec du lait fluide**, comme si elle naissait de la lumière, de la pureté et de la douceur liquide elle-même. Toute l'image doit sembler sacrée, sereine, en apesanteur et d'un raffinement à couper le souffle, telle une fusion de photographie de beauté haut de gamme, d'art sculptural sacré et de capture de lait liquide à haute vitesse. La femme ne doit pas sembler porter un costume fait de lait ; au contraire, son corps et le lait doivent exister comme une seule forme vivante continue. Son buste, son visage, ses épaules et ses bras émergent gracieusement du lait lumineux, tandis que le lait environnant s'étend en vastes structures ailées légères comme des plumes, voiles fluides, rubans liquides et formes translucides traînantes. L'image finale doit exprimer pureté, nutrition, douceur, grâce et élévation spirituelle.
+Crée une affiche publicitaire ultra-premium pour Guinness, présentant une pinte hyperréaliste de stout noire avec une mousse crémeuse qui se transforme en la silhouette élégante d'une ballerine. L'image doit sembler luxueuse, poétique et iconique, comme une campagne de boisson de classe mondiale où le produit et la figure ne font plus qu'un dans un moment sculptural sans couture. La ballerine ne doit pas apparaître comme une personne distincte faite de mousse posée au-dessus de la bière. Elle doit sembler née naturellement de la mousse de bière elle-même, avec une transition exquise et fluide entre mousse dense, bords aériens d'éclaboussure et forme figurative gracieuse.
 
 Composition principale :
-Utilise une composition héroïque épurée et centrée avec une seule figure féminine flottant ou s'élevant au centre du cadre. Sa pose doit sembler balletique, en apesanteur et d'une élégance presque en prière, le corps s'élevant dans un doux mouvement vertical-diagonal. Ses bras doivent s'ouvrir ou se lever avec une extension gracieuse, et le lait doit se répandre derrière et autour d'elle comme des ailes sacrées fluides faites de lumière liquide. La silhouette doit sembler iconique, noble et sculpturale, avec un abondant espace négatif et un calme visuel parfait.
+Utilise une composition verticale centrée sur un fond noir pur ou très sombre. Place une pinte Guinness très réaliste dans la zone inférieure-médiane comme objet héros. Le verre doit être iconique, élégant et parfaitement reconnaissable, rempli de riche stout noire profonde et coiffé d'une épaisse mousse crémeuse ivoire. Depuis la couche supérieure, la mousse s'élève et s'étend vers le haut pour former la silhouette d'une ballerine saisie dans un geste de danse gracieux. L'ensemble doit sembler verticalement équilibré, le verre ancrant l'image et la figure de mousse la soulevant.
 
-Direction du personnage :
-La figure féminine doit être une **beauté d'Asie de l'Est mature japonaise/coréenne**, élégante, raffinée, naturellement belle, avec une ossature douce, un cou et des épaules gracieux et une expression calme, lumineuse et intelligente. Elle ne doit pas ressembler à un ange de fantaisie ou à un mannequin influenceuse. Sa beauté doit sembler élevée, poétique et premium, avec une sereine quiétude intérieure. Son mouvement doit suggérer le vol, l'abandon, la douceur et l'ascension.
+Logique visuelle centrale :
+La ballerine doit être formée de la mousse elle-même. Le bas de son corps doit rester dense et crémeux là où il émerge de la mousse, tandis que les membres supérieurs, les bords en forme de jupe et les transitions de geste doivent devenir plus légers, aériens et semblables à des éclaboussures. Le spectateur doit comprendre instantanément que la figure n'est pas séparée de la bière, mais une transformation poétique de la mousse Guinness. La transition entre mousse de bière et silhouette humaine doit être parfaitement naturelle et fluide.
 
-Concept de fusion avec le lait blanc pur :
-Le lait doit se comporter comme un matériau sacré, soyeux et vivant, suspendu entre liquide, soie, brume et lumière. Le corps doit passer de façon transparente au lait :
-du lait s'épanouissant du dos en arcs ailés,
-du lait enveloppant la taille et le bas du torse en un mouvement sculptural fluide,
-du lait s'étendant des bras en traînées douces,
-de fines membranes translucides de lait brillant comme de la soie liquide,
-de petites gouttelettes en suspension orbitant la figure comme des particules sacrées.
-La transformation doit être totalement naturelle, sans coutures dures, sans effet de robe-costume, sans apparence d'éclaboussure collée. La jeune femme doit sembler formée de lait et de lumière au même instant.
+Conception de la figure de mousse :
+Conçois la ballerine comme une silhouette féminine élégante formée de mousse crémeuse : ligne de torse gracieuse, bras étendus raffinés, cou doucement arqué, menton relevé, posture inspirée d'une légère pirouette de ballet ou d'un arabesque, mouvement de mousse aérien en forme de jupe, bords délicats d'éclaboussure suggérant le mouvement. Le visage ne doit pas être nettement réaliste. Il doit rester doucement indiqué par des contours élégants et la masse de mousse, la beauté venant de la posture et de la silhouette plutôt que du détail facial. La figure doit sembler légère, noble et éthérée.
 
-Réalisme liquide :
-Le lait doit être hyperréaliste, luxueux et radieux :
-lait blanc dense et crémeux,
-viscosité soyeuse,
-translucidité lumineuse douce dans les zones fines,
-tension lisse sur les bords liquides,
-reflets veloutés,
-fines gouttelettes en suspension,
-traînées liquides brumeuses,
-précision d'éclaboussure haute vitesse épurée.
-Le lait doit sembler pur, nourrissant, doux et luxueux, jamais aqueux, jamais crayeux, jamais plastique, jamais dur.
+Texture de la mousse :
+Utilise une mousse Guinness extrêmement réaliste : mousse crémeuse dense, texture de micro-bulles, surface veloutée, structure fouettée douce, bords aériens d'éclaboussure, fine brume de mousse, subtile fragmentation de gouttelettes, éclat humide naturel. La mousse doit sembler à la fois substantielle et délicate, avec un équilibre parfait entre densité sculpturale et mouvement d'éclaboussure.
 
-Stylisation sacrée blanc pur :
-Pousse toute l'image vers un monde visuel presque transcendant et entièrement blanc. Le lait, la lumière, le fond et l'atmosphère doivent rester dans un spectre raffiné de blanc, perle, blanc-ivoire, blanc-argenté et gris froid à peine perceptible. La scène doit sembler inondée de douce pureté et de silence, comme si la figure flottait dans un espace sacré lumineux. L'effet émotionnel doit être épuré, apaisant, angélique dans l'ambiance mais non littéral dans la stylisation.
-
-Effet de mouvement et de traînée :
-L'effet de queue liquide doit être élégant et en apesanteur. Le lait doit balayer vers l'extérieur et vers le haut comme de douces ailes saisies dans un envol au ralenti, avec de longs arcs fluides, de doux rubans liquides et des formes aériennes en suspension. La figure doit sembler figée à la plus belle microseconde de l'ascension, avec un mouvement fluide, gracieux et spirituellement calme plutôt qu'explosif.
-
-Présence de la marque :
-Inclus une présence de marque **Lait Nestlé** subtile et premium. Un emballage produit épuré, une bouteille ou un élément d'emballage officiel discret peut apparaître près de la composition inférieure avec un équilibre élégant. Le logo officiel doit être discret, petit et intégré naturellement à la mise en page. La communication de marque doit sembler premium, pure, digne de confiance et élevée, jamais trop commerciale.
+Réalisme de la bière et du verre :
+La pinte Guinness doit être très réaliste : épaisseur claire du verre, beau rebord courbé, reflets premium, condensation subtile, corps de stout noir profond, chauds et faibles reflets bruns à l'intérieur de la bière, col de mousse crémeux au rebord, rendu élégant du matériau. Le verre et le liquide doivent rester commercialement forts et désirables.
 
 Éclairage :
-Utilise un éclairage de beauté **blanc pur** extrêmement doux avec une clarté divine :
-doux halo frontal sur le visage et le torse,
-éclairage de contour en halo autour des ailes de lait,
-reflets épurés sur les bords liquides,
-lueur transmise subtile à travers les membranes de lait plus fines,
-couches tonales délicates avec presque aucune ombre dure,
-micro-contraste uniquement là où nécessaire pour révéler la texture liquide.
-L'éclairage doit sembler céleste, crémeux, pur et luxueux, comme si la figure était illuminée à la fois de l'extérieur et de l'intérieur.
+Utilise un éclairage cinématographique extrêmement raffiné et doux. La lumière doit être délicate et luxueuse, révélant : la profondeur crémeuse de la mousse, la translucidité aux bords d'éclaboussure, les reflets brillants sur le verre, la subtile lueur interne de la stout, la séparation dimensionnelle entre bière noire et mousse blanche. Garde l'éclairage doux, velouté et premium, sans éclat spéculaire dur.
 
 Arrière-plan :
-Garde l'arrière-plan ultra-minimaliste et presque entièrement blanc, avec un doux dégradé de blanc-perle, blanc-ivoire, blanc-brume et gris-argenté ténu. L'espace doit sembler illimité, silencieux et lumineux. Pas d'accessoires, pas de décor, pas d'objets décoratifs, pas d'encombrement. Seulement un espace négatif sacré et premium.
+Utilise un fond minimaliste noir pur ou ultra-profond sombre avec un espace négatif ample. L'obscurité doit faire briller magnifiquement la mousse crème et les reflets du verre. Aucun encombrement, aucun accessoire, aucun élément distrayant.
 
 Typographie :
-Utilise uniquement une typographie minimaliste et élégante. Inclus un titre raffiné **Lait Nestlé**, un petit logo officiel et au plus une courte ligne poétique. La typographie doit sembler aérée, douce et de luxe sacré dans le ton, avec un espacement parfait et un placement dirigé artistiquement. Pas de polices grasses lourdes, pas de sensation d'affiche de vente au détail, pas de texte encombré.
+Garde la typographie minimale et élégante si nécessaire : « GUINNESS » Ligne de soutien optionnelle : « Dance of Foam ». La typographie doit être subtile, premium et secondaire.
 
 Palette de couleurs :
-blanc lait pur,
-blanc-perle,
-blanc-ivoire,
-blanc-argenté doux,
-gris-brume,
-tons clairs froids à peine perceptibles.
+noir Guinness profond, mousse crème ivoire, reflets blanc perle doux, sous-tons chauds de stout brune, reflets argentés du verre, fond noir pur. La palette doit sembler luxueuse, sobre et iconique.
 
 Ambiance :
-pur, sacré, serein, édifiant, en apesanteur, lumineux, maternel, élégant, nourrissant, spirituel, premium, poétique, inoubliable.
+poétique, élégante, luxueuse, hyperréaliste, sculpturale, iconique, raffinée, surréelle-mais-naturelle, qualité de campagne de boisson premium.
 
 Rendu :
-photographie hyperréaliste de lait liquide à haute vitesse, style publicitaire beauté de luxe sacré, simulation d'éclaboussure de lait ultra-détaillée, silhouette féminine élégante en vol, arrière-plan minimaliste entièrement blanc, éclairage de beauté raffiné, 8k, qualité de campagne publicitaire de classe mondiale.
+photographie commerciale de boissons hyperréaliste, pinte Guinness ultra-détaillée, ballerine de mousse crémeuse émergeant parfaitement de la mousse, fusion parfaite produit-figure, texture de micro-mousse veloutée, bords élégants d'éclaboussure, éclairage cinématographique doux, fond sombre minimaliste, finition publicitaire de classe mondiale, 8k, chef-d'œuvre.
 
 Prompt négatif :
-lait aqueux, blancs sales grisâtres, chaos d'éclaboussures désordonnées, fausses ailes, robe de lait type costume, liquide de dessin animé, peau plastique, visage d'influenceuse, couture dure corps-liquide, arrière-plan encombré, emballage surdimensionné, affiche de supermarché bon marché, typographie lourde, costume d'ange de fantaisie, gouttelettes peu détaillées, éclairage dur
+danseuse séparée au-dessus du verre, figure humaine détachée de la mousse, visage réaliste net, éclaboussure chaotique, verre brisé, publicité de bière bon marché, texture de mousse faible, liquide d'aspect plastique, fond encombré, éclairage dur, figure de dessin animé, composition désordonnée, bulles peu détaillées
 ```
 
 </details>
@@ -1360,7 +1390,7 @@ lait aqueux, blancs sales grisâtres, chaos d'éclaboussures désordonnées, fau
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMydWtTbwAAqZNp.jpg" width="700" alt="Déesse du lait blanc pur">
+<img src="https://image.moge.ai/prompt_media/HMx3Qaqa0AE_KKU.jpg" width="700" alt="Le Ballet de la Mousse Guinness">
 </div>
 
 <br>
@@ -1369,13 +1399,13 @@ lait aqueux, blancs sales grisâtres, chaos d'éclaboussures désordonnées, fau
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2075206557449744726) | 2026-07-09 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2075164698283319343) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2075206557449744726)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2075164698283319343)**
 
 </div>
 
@@ -1665,59 +1695,29 @@ Manoir de luxe moderne ultra réaliste, design architectural grandiose, grandes 
 
 ---
 
-### No. 25: Le Ballet de la Mousse Guinness
+### No. 25: Publicités de Boissons Fruitées Premium
 
 ![Catégorie: Publicité & produit](https://img.shields.io/badge/Cat%C3%A9gorie-Publicit%C3%A9%20%26%20produit-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche publicitaire haut de gamme Guinness où la mousse crémeuse de la bière se transforme naturellement en une ballerine élégante sur fond noir.
+Crée des publicités hyperréalistes de smoothies et yaourts aux fruits avec éclaboussures figées, fruits flottants et mise en scène produit de luxe.
 
 #### 🌟 Prompt
 
-Crée une affiche publicitaire ultra-premium pour Guinness, présentant une pinte hyperréaliste de stout noire …
+Publicité commerciale premium ultra-réaliste présentant un verre cristallin rempli d'un smoothie à la fraise …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Crée une affiche publicitaire ultra-premium pour Guinness, présentant une pinte hyperréaliste de stout noire avec une mousse crémeuse qui se transforme en la silhouette élégante d'une ballerine. L'image doit sembler luxueuse, poétique et iconique, comme une campagne de boisson de classe mondiale où le produit et la figure ne font plus qu'un dans un moment sculptural sans couture. La ballerine ne doit pas apparaître comme une personne distincte faite de mousse posée au-dessus de la bière. Elle doit sembler née naturellement de la mousse de bière elle-même, avec une transition exquise et fluide entre mousse dense, bords aériens d'éclaboussure et forme figurative gracieuse.
+Publicité commerciale premium ultra-réaliste présentant un verre cristallin rempli d'un smoothie à la fraise riche et crémeux placé au centre d'un luxueux fond de studio à dégradé cramoisi profond. Des fraises entières fraîches et des fraises tranchées flottent élégamment autour du verre tandis qu'une chantilly soyeuse couronne le smoothie avec des feuilles de menthe fraîche. Deux fraises parfaitement tranchées lévitent au centre du verre entourées d'une éclaboussure d'eau transparente explosive créant un effet flottant magique. De minuscules gouttes de condensation couvrent le verre pour une apparence fraîchement glacée. Éclairage volumétrique doux, ombres réalistes, reflets brillants, stylisme culinaire premium, particules de fruits flottantes, profondeur de champ cinématographique, typographie élégante indiquant « Fresh Strawberry Smoothie », logo moderne de marque de jus, mise en page minimaliste, palette de couleurs rouge vif, publicité de boisson de luxe, photographie de produit hyperréaliste, 8K, ultra détaillé.
 
-Composition principale :
-Utilise une composition verticale centrée sur un fond noir pur ou très sombre. Place une pinte Guinness très réaliste dans la zone inférieure-médiane comme objet héros. Le verre doit être iconique, élégant et parfaitement reconnaissable, rempli de riche stout noire profonde et coiffé d'une épaisse mousse crémeuse ivoire. Depuis la couche supérieure, la mousse s'élève et s'étend vers le haut pour former la silhouette d'une ballerine saisie dans un geste de danse gracieux. L'ensemble doit sembler verticalement équilibré, le verre ancrant l'image et la figure de mousse la soulevant.
+Publicité commerciale premium ultra-réaliste présentant un luxueux smoothie à la mangue servi dans un verre premium transparent à texture crémeuse avec une purée de mangue fraîche coulant naturellement. De grands cubes de mangue juteux, des tranches de mangue, des feuilles de menthe et des gouttes de jus réalistes flottent autour de la boisson. Le centre du verre est entouré d'une éclaboussure énergique de jus de mangue créant une scène d'action figée. Fond de studio à dégradé tropical jaune et orange vif avec une douce lueur. La condensation couvre le verre avec des reflets premium et des ombres réalistes. Typographie élégante indiquant « Fresh Mango Smoothie », branding minimaliste, stylisme culinaire cinématographique, campagne de boisson de luxe, hyperréaliste, photographie de produit commerciale, 8K.
 
-Logique visuelle centrale :
-La ballerine doit être formée de la mousse elle-même. Le bas de son corps doit rester dense et crémeux là où il émerge de la mousse, tandis que les membres supérieurs, les bords en forme de jupe et les transitions de geste doivent devenir plus légers, aériens et semblables à des éclaboussures. Le spectateur doit comprendre instantanément que la figure n'est pas séparée de la bière, mais une transformation poétique de la mousse Guinness. La transition entre mousse de bière et silhouette humaine doit être parfaitement naturelle et fluide.
+Publicité commerciale de produit de luxe ultra-réaliste présentant une bouteille de protéines premium mate flottant au-dessus d'une éclaboussure énergique de yaourt crémeux mélangé à du jus de baies. Des fraises, myrtilles, framboises et mûres fraîches explosent autour de la bouteille avec un mouvement suspendu et des gouttes de liquide réalistes. Bouteille givrée couverte de condensation, éclairage de studio dramatique, reflets brillants, design d'emballage premium, fond à dégradé violet doux et baies profondes, feuilles de menthe flottantes, profondeur de champ cinématographique, typographie premium indiquant « Mixed Berry Protein », campagne de boisson fitness de luxe, photographie d'éclaboussure figée, ultra détaillé, photoréaliste, 8K.
 
-Conception de la figure de mousse :
-Conçois la ballerine comme une silhouette féminine élégante formée de mousse crémeuse : ligne de torse gracieuse, bras étendus raffinés, cou doucement arqué, menton relevé, posture inspirée d'une légère pirouette de ballet ou d'un arabesque, mouvement de mousse aérien en forme de jupe, bords délicats d'éclaboussure suggérant le mouvement. Le visage ne doit pas être nettement réaliste. Il doit rester doucement indiqué par des contours élégants et la masse de mousse, la beauté venant de la posture et de la silhouette plutôt que du détail facial. La figure doit sembler légère, noble et éthérée.
-
-Texture de la mousse :
-Utilise une mousse Guinness extrêmement réaliste : mousse crémeuse dense, texture de micro-bulles, surface veloutée, structure fouettée douce, bords aériens d'éclaboussure, fine brume de mousse, subtile fragmentation de gouttelettes, éclat humide naturel. La mousse doit sembler à la fois substantielle et délicate, avec un équilibre parfait entre densité sculpturale et mouvement d'éclaboussure.
-
-Réalisme de la bière et du verre :
-La pinte Guinness doit être très réaliste : épaisseur claire du verre, beau rebord courbé, reflets premium, condensation subtile, corps de stout noir profond, chauds et faibles reflets bruns à l'intérieur de la bière, col de mousse crémeux au rebord, rendu élégant du matériau. Le verre et le liquide doivent rester commercialement forts et désirables.
-
-Éclairage :
-Utilise un éclairage cinématographique extrêmement raffiné et doux. La lumière doit être délicate et luxueuse, révélant : la profondeur crémeuse de la mousse, la translucidité aux bords d'éclaboussure, les reflets brillants sur le verre, la subtile lueur interne de la stout, la séparation dimensionnelle entre bière noire et mousse blanche. Garde l'éclairage doux, velouté et premium, sans éclat spéculaire dur.
-
-Arrière-plan :
-Utilise un fond minimaliste noir pur ou ultra-profond sombre avec un espace négatif ample. L'obscurité doit faire briller magnifiquement la mousse crème et les reflets du verre. Aucun encombrement, aucun accessoire, aucun élément distrayant.
-
-Typographie :
-Garde la typographie minimale et élégante si nécessaire : « GUINNESS » Ligne de soutien optionnelle : « Dance of Foam ». La typographie doit être subtile, premium et secondaire.
-
-Palette de couleurs :
-noir Guinness profond, mousse crème ivoire, reflets blanc perle doux, sous-tons chauds de stout brune, reflets argentés du verre, fond noir pur. La palette doit sembler luxueuse, sobre et iconique.
-
-Ambiance :
-poétique, élégante, luxueuse, hyperréaliste, sculpturale, iconique, raffinée, surréelle-mais-naturelle, qualité de campagne de boisson premium.
-
-Rendu :
-photographie commerciale de boissons hyperréaliste, pinte Guinness ultra-détaillée, ballerine de mousse crémeuse émergeant parfaitement de la mousse, fusion parfaite produit-figure, texture de micro-mousse veloutée, bords élégants d'éclaboussure, éclairage cinématographique doux, fond sombre minimaliste, finition publicitaire de classe mondiale, 8k, chef-d'œuvre.
-
-Prompt négatif :
-danseuse séparée au-dessus du verre, figure humaine détachée de la mousse, visage réaliste net, éclaboussure chaotique, verre brisé, publicité de bière bon marché, texture de mousse faible, liquide d'aspect plastique, fond encombré, éclairage dur, figure de dessin animé, composition désordonnée, bulles peu détaillées
+Publicité commerciale premium ultra-réaliste présentant une bouteille de yaourt bleu cobalt mate suspendue dans les airs au-dessus d'une éclaboussure explosive de lait crémeux. Des myrtilles fraîches, des myrtilles coupées en deux et de minuscules particules de myrtille volent dynamiquement autour de la bouteille avec un flou de mouvement réaliste. La bouteille est couverte de gouttes de condensation détaillées et de reflets doux. Des feuilles de menthe flottantes ajoutent de la fraîcheur tandis que de riches volutes de lait enveloppent naturellement la bouteille. Fond à dégradé net de bleu à violet avec éclairage de contour cinématographique, ombres de produit premium, reflets lustrés, branding minimaliste indiquant « Blueberry Protein Yogurt », photographie commerciale laitière de luxe, textures ultra-réalistes, composition dynamique, cliché d'action figé, éclairage de studio commercial, 8K, photoréaliste.
 ```
 
 </details>
@@ -1725,7 +1725,7 @@ danseuse séparée au-dessus du verre, figure humaine détachée de la mousse, v
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMx3Qaqa0AE_KKU.jpg" width="700" alt="Le Ballet de la Mousse Guinness">
+<img src="https://image.moge.ai/prompt_media/HMxj1h1akAAbUzt.jpg" width="700" alt="Publicités de Boissons Fruitées Premium">
 </div>
 
 <br>
@@ -1734,13 +1734,13 @@ danseuse séparée au-dessus du verre, figure humaine détachée de la mousse, v
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2075164698283319343) | 2026-07-09 |
+| [Snow](https://x.com/iamrealsnow) | [X / Twitter](https://x.com/iamrealsnow/status/2075143322818224489) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2075164698283319343)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2075143322818224489)**
 
 </div>
 
@@ -2078,29 +2078,62 @@ Photographie de campagne de mode de luxe, éditorial Vogue, style de vie europé
 
 ---
 
-### No. 31: Publicités de Boissons Fruitées Premium
+### No. 31: Affiche minimaliste de vin de fruits
 
 ![Catégorie: Publicité & produit](https://img.shields.io/badge/Cat%C3%A9gorie-Publicit%C3%A9%20%26%20produit-lightgrey)
 
 #### 📚 Description
 
-Crée des publicités hyperréalistes de smoothies et yaourts aux fruits avec éclaboussures figées, fruits flottants et mise en scène produit de luxe.
+Crée une affiche ultra-premium de vin rouge de fruits en vue de dessus, la bouteille couchée au centre entourée de cerises, canneberges, blé et terre, dans un style aquarelle doux et luxueux.
 
 #### 🌟 Prompt
 
-Publicité commerciale premium ultra-réaliste présentant un verre cristallin rempli d'un smoothie à la fraise …
+Crée une affiche minimaliste ultra-premium pour le vin rouge de fruits espagnol ORAN, poursuivant le même …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Publicité commerciale premium ultra-réaliste présentant un verre cristallin rempli d'un smoothie à la fraise riche et crémeux placé au centre d'un luxueux fond de studio à dégradé cramoisi profond. Des fraises entières fraîches et des fraises tranchées flottent élégamment autour du verre tandis qu'une chantilly soyeuse couronne le smoothie avec des feuilles de menthe fraîche. Deux fraises parfaitement tranchées lévitent au centre du verre entourées d'une éclaboussure d'eau transparente explosive créant un effet flottant magique. De minuscules gouttes de condensation couvrent le verre pour une apparence fraîchement glacée. Éclairage volumétrique doux, ombres réalistes, reflets brillants, stylisme culinaire premium, particules de fruits flottantes, profondeur de champ cinématographique, typographie élégante indiquant « Fresh Strawberry Smoothie », logo moderne de marque de jus, mise en page minimaliste, palette de couleurs rouge vif, publicité de boisson de luxe, photographie de produit hyperréaliste, 8K, ultra détaillé.
+Crée une affiche minimaliste ultra-premium pour le vin rouge de fruits espagnol ORAN, poursuivant le même langage raffiné de la série : fond épuré type galerie, typographie contenue, atmosphère aquarelle/couleur claire saturée mais élégante, et lumière cinématographique extrêmement douce. La composition doit être une vue strictement de dessus (flat lay), tous les éléments disposés sur une surface plane comme une nature morte de luxe. L'image doit sembler poétique, tactile, équilibrée et digne d'un collectionneur.
 
-Publicité commerciale premium ultra-réaliste présentant un luxueux smoothie à la mangue servi dans un verre premium transparent à texture crémeuse avec une purée de mangue fraîche coulant naturellement. De grands cubes de mangue juteux, des tranches de mangue, des feuilles de menthe et des gouttes de jus réalistes flottent autour de la boisson. Le centre du verre est entouré d'une éclaboussure énergique de jus de mangue créant une scène d'action figée. Fond de studio à dégradé tropical jaune et orange vif avec une douce lueur. La condensation couvre le verre avec des reflets premium et des ombres réalistes. Typographie élégante indiquant « Fresh Mango Smoothie », branding minimaliste, stylisme culinaire cinématographique, campagne de boisson de luxe, hyperréaliste, photographie de produit commerciale, 8K.
+Composition principale :
+Utilise une composition stricte en vue de dessus. Place une bouteille réaliste de vin rouge de fruits ORAN couchée au centre du cadre sur un fond ivoire chaud, parchemin pâle ou crème doux. La bouteille doit être l'ancre visuelle, entièrement visible d'en haut, avec des proportions élégantes et une étiquette lisible. Autour de la bouteille, dispose les ingrédients d'appoint dans un arrangement flat-lay soigneusement composé, naturel, organique et luxueux. Toute l'image doit sembler être une nature morte de table ou de papier d'art vue directement d'en haut.
 
-Publicité commerciale de produit de luxe ultra-réaliste présentant une bouteille de protéines premium mate flottant au-dessus d'une éclaboussure énergique de yaourt crémeux mélangé à du jus de baies. Des fraises, myrtilles, framboises et mûres fraîches explosent autour de la bouteille avec un mouvement suspendu et des gouttes de liquide réalistes. Bouteille givrée couverte de condensation, éclairage de studio dramatique, reflets brillants, design d'emballage premium, fond à dégradé violet doux et baies profondes, feuilles de menthe flottantes, profondeur de champ cinématographique, typographie premium indiquant « Mixed Berry Protein », campagne de boisson fitness de luxe, photographie d'éclaboussure figée, ultra détaillé, photoréaliste, 8K.
+Style de la bouteille :
+La bouteille doit être hyperréaliste et premium : reflets profonds du verre, silhouette raffinée de bouteille de vin, texture d'étiquette de luxe, dégradé subtil des reflets, ton de verre rouge foncé riche, branding premium clair. La bouteille doit être couchée horizontalement ou avec une très légère inclinaison diagonale pour le rythme, mais rester centrale et dominante.
 
-Publicité commerciale premium ultra-réaliste présentant une bouteille de yaourt bleu cobalt mate suspendue dans les airs au-dessus d'une éclaboussure explosive de lait crémeux. Des myrtilles fraîches, des myrtilles coupées en deux et de minuscules particules de myrtille volent dynamiquement autour de la bouteille avec un flou de mouvement réaliste. La bouteille est couverte de gouttes de condensation détaillées et de reflets doux. Des feuilles de menthe flottantes ajoutent de la fraîcheur tandis que de riches volutes de lait enveloppent naturellement la bouteille. Fond à dégradé net de bleu à violet avec éclairage de contour cinématographique, ombres de produit premium, reflets lustrés, branding minimaliste indiquant « Blueberry Protein Yogurt », photographie commerciale laitière de luxe, textures ultra-réalistes, composition dynamique, cliché d'action figé, éclairage de studio commercial, 8K, photoréaliste.
+Arrangement des ingrédients :
+Dispose les éléments d'appoint à plat autour de la bouteille de manière naturelle mais très dirigée : terre sombre fine, épis de blé, cerises rouges fraîches, canneberges, baies rouges confites ou fruits rouges conservés, quelques graines ou fragments naturels dispersés si élégant. Ces ingrédients doivent s'étaler autour de la bouteille avec équilibre et espace, jamais empilés verticalement. La terre doit apparaître comme de délicates taches texturées sous et autour de parties de la bouteille. Les épis de blé doivent s'arquer gracieusement. Cerises et baies doivent ponctuer la mise en page comme de précieux accents rouges. Tout doit sembler intentionnel mais naturellement harmonieux.
+
+Logique visuelle :
+La bouteille et les ingrédients doivent se lire comme une seule nature morte flat-lay unifiée. La terre ancre le vin dans le terroir, le blé suggère la récolte et la campagne, et les fruits rouges expriment l'identité fruitée. L'arrangement doit sembler que la bouteille a été délicatement posée dans sa propre histoire d'origine. Aucun élément ne doit sembler dispersé au hasard.
+
+Caméra et perspective :
+La caméra doit être directement au-dessus, de haut en bas, sans angle frontal ni inclinaison de perspective. La composition doit sembler graphique, calme et très contrôlée, mettant l'accent sur la forme, l'espacement et le contraste des matières sur un plan plat.
+
+Traitement de style :
+Applique une atmosphère raffinée aquarelle/couleur claire saturée à l'ambiance générale tout en préservant un fort réalisme sur la bouteille et les ingrédients. L'image peut avoir : une floraison tonale douce type pigment, une chaleur subtile de papier d'art, une douceur picturale légère en arrière-plan, une saturation contrôlée sur les fruits et le blé, des transitions tonales organiques douces. La sensation aquarelle doit enrichir l'atmosphère sans réduire le réalisme des objets.
+
+Éclairage :
+Utilise un éclairage extrêmement délicat, doux et premium venant d'en haut. Priorise : un dégradé doux des reflets sur le verre, des ombres douces près des objets, un relief subtil dans la texture de la terre, des reflets discrets dans les peaux de cerises, des transitions tonales veloutées sur la surface flat-lay. La lumière doit sembler calme, muséale et coûteuse, sans drame directionnel dur.
+
+Arrière-plan :
+Garde l'arrière-plan très propre et mat, comme du papier beaux-arts, un mur premium ou une table éditoriale de luxe. Utilise ivoire chaud, parchemin pâle ou crème neutre doux. Pas d'accessoires supplémentaires, pas de décor, pas de désordre. L'espace vide doit faire partie de l'élégance.
+
+Typographie :
+Garde la typographie minimale et uniquement de titre. N'ajoute qu'un titre élégant contenu si nécessaire : « ORAN ». Sous-titre petit optionnel : « Spanish Fruit Red Wine ». La typographie doit être subtile, aérée et secondaire, avec un espace généreux.
+
+Palette de couleurs :
+ivoire chaud, parchemin pâle, rouge vin profond, rouge cerise rubis, cramoisi canneberge, bordeaux de baies confites, doré blé, brun terre, ombres neutres douces. La palette doit sembler riche mais contenue, tactile et premium.
+
+Ambiance :
+minimale, poétique, tactile, raffinée, orientée récolte, luxueuse, nature morte flat-lay, type galerie, image de campagne de vin de qualité collection.
+
+Rendu :
+photographie flat-lay premium ultra-détaillée, bouteille de vin ORAN réaliste, composition de nature morte vue de dessus, arrangement naturel des ingrédients, texture fine de terre, placement élégant du blé, cerises et canneberges brillantes, baies rouges confites, finition aquarelle/couleur claire saturée, éclairage cinématographique doux du dessus, composition de luxe minimaliste, finition d'affiche de vin de niveau musée, 8k, chef-d'œuvre.
+
+Prompt négatif :
+bouteille de face, bouteille debout, perspective angulaire, composition encombrée, tas d'ingrédients désordonné, flash studio dur, aspect d'étiquette bon marché, trop de fruits, accessoires aléatoires, aquarelle cartoon, terre boueuse, cerises d'aspect plastique, texte excessif, style d'affiche de supermarché, bouteille peu détaillée
 ```
 
 </details>
@@ -2108,7 +2141,7 @@ Publicité commerciale premium ultra-réaliste présentant une bouteille de yaou
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMxj1h1akAAbUzt.jpg" width="700" alt="Publicités de Boissons Fruitées Premium">
+<img src="https://image.moge.ai/prompt_media/HMxXrbWbgAE0BbN.jpg" width="700" alt="Affiche minimaliste de vin de fruits">
 </div>
 
 <br>
@@ -2117,13 +2150,13 @@ Publicité commerciale premium ultra-réaliste présentant une bouteille de yaou
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Snow](https://x.com/iamrealsnow) | [X / Twitter](https://x.com/iamrealsnow/status/2075143322818224489) | 2026-07-09 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2075130053403591081) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2075143322818224489)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2075130053403591081)**
 
 </div>
 
@@ -2439,62 +2472,87 @@ cartoon, CGI, anime, illustration, basse résolution, flou, peau sur-traitée, m
 
 ---
 
-### No. 37: Affiche minimaliste de vin de fruits
+### No. 37: Affiche de Vin de Fruits en Silhouette de Vigne
 
 ![Catégorie: Publicité & produit](https://img.shields.io/badge/Cat%C3%A9gorie-Publicit%C3%A9%20%26%20produit-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche ultra-premium de vin rouge de fruits en vue de dessus, la bouteille couchée au centre entourée de cerises, canneberges, blé et terre, dans un style aquarelle doux et luxueux.
+Crée une affiche minimaliste et haut de gamme de vin de fruits dont la silhouette de bouteille est formée de vraies vignes avec quelques raisins rubis.
 
 #### 🌟 Prompt
 
-Crée une affiche minimaliste ultra-premium pour le vin rouge de fruits espagnol ORAN, poursuivant le même …
+Créez une affiche ultra-premium minimaliste pour le vin rouge de fruits espagnol Oran, inspirée d'une …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Crée une affiche minimaliste ultra-premium pour le vin rouge de fruits espagnol ORAN, poursuivant le même langage raffiné de la série : fond épuré type galerie, typographie contenue, atmosphère aquarelle/couleur claire saturée mais élégante, et lumière cinématographique extrêmement douce. La composition doit être une vue strictement de dessus (flat lay), tous les éléments disposés sur une surface plane comme une nature morte de luxe. L'image doit sembler poétique, tactile, équilibrée et digne d'un collectionneur.
+Créez une affiche ultra-premium minimaliste pour le vin rouge de fruits espagnol Oran, inspirée d'une composition botanique raffinée en silhouette de bouteille. Utilisez un grand fond blanc propre ou ivoire doux avec un généreux espace négatif. L'image centrale doit être une forme de bouteille de vin naturellement formée par de vraies vignes, des tiges tendres, des vrilles enroulées et d'élégantes feuilles de vigne. La silhouette de la bouteille doit sembler délicate, verticale, aérienne et parfaitement équilibrée, comme si la nature elle-même avait tranquillement dessiné le contour de la bouteille de vin.
 
 Composition principale :
-Utilise une composition stricte en vue de dessus. Place une bouteille réaliste de vin rouge de fruits ORAN couchée au centre du cadre sur un fond ivoire chaud, parchemin pâle ou crème doux. La bouteille doit être l'ancre visuelle, entièrement visible d'en haut, avec des proportions élégantes et une étiquette lisible. Autour de la bouteille, dispose les ingrédients d'appoint dans un arrangement flat-lay soigneusement composé, naturel, organique et luxueux. Toute l'image doit sembler être une nature morte de table ou de papier d'art vue directement d'en haut.
+Construisez la silhouette complète d'une bouteille de vin debout en utilisant uniquement des éléments réalistes de vigne :
+tiges vertes fines,
+nœuds de ramification naturels,
+vrilles enroulées,
+petites feuilles de vigne fraîches,
+subtile asymétrie organique,
+proportions nettes de bouteille.
+Le contour doit être immédiatement lisible comme une bouteille, mais doit tout de même sembler botanique et poussé naturellement plutôt que rigidement graphique.
 
-Style de la bouteille :
-La bouteille doit être hyperréaliste et premium : reflets profonds du verre, silhouette raffinée de bouteille de vin, texture d'étiquette de luxe, dégradé subtil des reflets, ton de verre rouge foncé riche, branding premium clair. La bouteille doit être couchée horizontalement ou avec une très légère inclinaison diagonale pour le rythme, mais rester centrale et dominante.
+Détails des raisins :
+Ajoutez seulement un petit nombre de raisins comme accents précieux, pas une grappe lourde. Utilisez quelques raisins rouge rubis ou violet bordeaux profonds attachés naturellement à la structure de la vigne, avec des tiges crédibles et un espacement élégant. Les raisins doivent sembler légèrement placés et parfaitement connectés à la vigne, comme s'ils y avaient vraiment poussé. Leur rôle est de ponctuer la composition et de suggérer la richesse du vin de fruits, non de dominer la silhouette de la bouteille.
 
-Arrangement des ingrédients :
-Dispose les éléments d'appoint à plat autour de la bouteille de manière naturelle mais très dirigée : terre sombre fine, épis de blé, cerises rouges fraîches, canneberges, baies rouges confites ou fruits rouges conservés, quelques graines ou fragments naturels dispersés si élégant. Ces ingrédients doivent s'étaler autour de la bouteille avec équilibre et espace, jamais empilés verticalement. La terre doit apparaître comme de délicates taches texturées sous et autour de parties de la bouteille. Les épis de blé doivent s'arquer gracieusement. Cerises et baies doivent ponctuer la mise en page comme de précieux accents rouges. Tout doit sembler intentionnel mais naturellement harmonieux.
+Intégration marque/produit :
+Dans la partie inférieure-centrale de la silhouette de bouteille formée par la vigne, placez une zone d'étiquette raffinée ou un élégant insert d'étiquette de bouteille faisant référence au vin rouge de fruits Oran. L'étiquette doit sembler premium, petite et de bon goût, avec une subtile élégance de vin espagnol et un discret indice d'identité du Petit Chaperon Rouge si désiré. Gardez-la retenue et luxueuse, jamais criarde ni commercialement chargée.
 
-Logique visuelle :
-La bouteille et les ingrédients doivent se lire comme une seule nature morte flat-lay unifiée. La terre ancre le vin dans le terroir, le blé suggère la récolte et la campagne, et les fruits rouges expriment l'identité fruitée. L'arrangement doit sembler que la bouteille a été délicatement posée dans sa propre histoire d'origine. Aucun élément ne doit sembler dispersé au hasard.
+Lumière et ombre :
+Utilisez un éclairage extrêmement délicat, doux et premium. La lumière doit sembler naturelle et veloutée, révélant :
+la tendre translucidité des feuilles de vigne fraîches,
+la surface lisse des raisins,
+la texture organique des tiges,
+le subtil relief du fond semblable au papier,
+l'ombre douce projetée par la silhouette de bouteille en vigne.
+Les ombres doivent être douces, diffuses et élégantes, donnant à l'image une profondeur tranquille sans drame.
 
-Caméra et perspective :
-La caméra doit être directement au-dessus, de haut en bas, sans angle frontal ni inclinaison de perspective. La composition doit sembler graphique, calme et très contrôlée, mettant l'accent sur la forme, l'espacement et le contraste des matières sur un plan plat.
-
-Traitement de style :
-Applique une atmosphère raffinée aquarelle/couleur claire saturée à l'ambiance générale tout en préservant un fort réalisme sur la bouteille et les ingrédients. L'image peut avoir : une floraison tonale douce type pigment, une chaleur subtile de papier d'art, une douceur picturale légère en arrière-plan, une saturation contrôlée sur les fruits et le blé, des transitions tonales organiques douces. La sensation aquarelle doit enrichir l'atmosphère sans réduire le réalisme des objets.
-
-Éclairage :
-Utilise un éclairage extrêmement délicat, doux et premium venant d'en haut. Priorise : un dégradé doux des reflets sur le verre, des ombres douces près des objets, un relief subtil dans la texture de la terre, des reflets discrets dans les peaux de cerises, des transitions tonales veloutées sur la surface flat-lay. La lumière doit sembler calme, muséale et coûteuse, sans drame directionnel dur.
+Réalisme botanique :
+Poussez le réalisme au niveau le plus élevé :
+tons verts frais de vigne,
+petites nervures de feuilles,
+nœuds naturels de tiges,
+fine boucle de vrille,
+pruine sur la peau des raisins,
+légère translucidité sur les bords des raisins,
+douces imperfections naturelles.
+Tout doit sembler tactile, vivant et exquis.
 
 Arrière-plan :
-Garde l'arrière-plan très propre et mat, comme du papier beaux-arts, un mur premium ou une table éditoriale de luxe. Utilise ivoire chaud, parchemin pâle ou crème neutre doux. Pas d'accessoires supplémentaires, pas de décor, pas de désordre. L'espace vide doit faire partie de l'élégance.
+Gardez l'arrière-plan extrêmement minimaliste, propre et mat, en blanc doux, ivoire chaud ou parchemin pâle. Il doit ressembler à du papier beaux-arts ou à un support mural de galerie premium. Pas de désordre, pas d'accessoires supplémentaires, pas de mise en table, pas de bruit décoratif.
 
 Typographie :
-Garde la typographie minimale et uniquement de titre. N'ajoute qu'un titre élégant contenu si nécessaire : « ORAN ». Sous-titre petit optionnel : « Spanish Fruit Red Wine ». La typographie doit être subtile, aérée et secondaire, avec un espace généreux.
+Gardez le texte extrêmement minimaliste et élégant. Ajoutez uniquement un titre raffiné si nécessaire :
+« ORAN »
+Ligne de support optionnelle :
+« Fruit Red Wine »
+La typographie doit être petite, luxueuse, aérée et dirigée artistiquement, avec un généreux espace de respiration. Évitez le texte lourd et les polices grasses génériques.
 
 Palette de couleurs :
-ivoire chaud, parchemin pâle, rouge vin profond, rouge cerise rubis, cramoisi canneberge, bordeaux de baies confites, doré blé, brun terre, ombres neutres douces. La palette doit sembler riche mais contenue, tactile et premium.
+ivoire doux,
+vert frais de vigne,
+vert botanique clair,
+raisin rubis profond,
+accents violet bordeaux,
+ombres neutres douces.
+La palette doit sembler retenue, botanique, luxueuse et poétique.
 
 Ambiance :
-minimale, poétique, tactile, raffinée, orientée récolte, luxueuse, nature morte flat-lay, type galerie, image de campagne de vin de qualité collection.
+minimaliste, botanique, luxueuse, poétique, élégante, style galerie, raffinée, naturelle, qualité d'affiche de vin premium.
 
 Rendu :
-photographie flat-lay premium ultra-détaillée, bouteille de vin ORAN réaliste, composition de nature morte vue de dessus, arrangement naturel des ingrédients, texture fine de terre, placement élégant du blé, cerises et canneberges brillantes, baies rouges confites, finition aquarelle/couleur claire saturée, éclairage cinématographique doux du dessus, composition de luxe minimaliste, finition d'affiche de vin de niveau musée, 8k, chef-d'œuvre.
+photographie botanique hyper-réaliste, texture de vigne ultra-détaillée, élégante silhouette de bouteille formée par de vraies vignes, subtils accents de raisin rubis, éclairage premium doux, ombres délicates, fond propre de papier artistique, typographie de luxe minimaliste, image de campagne de vin de qualité muséale, 8k, chef-d'œuvre.
 
 Prompt négatif :
-bouteille de face, bouteille debout, perspective angulaire, composition encombrée, tas d'ingrédients désordonné, flash studio dur, aspect d'étiquette bon marché, trop de fruits, accessoires aléatoires, aquarelle cartoon, terre boueuse, cerises d'aspect plastique, texte excessif, style d'affiche de supermarché, bouteille peu détaillée
+grappes de raisin lourdes, composition encombrée, fond sombre dramatique, tiges désordonnées, contour de bouteille factice, étiquette commerciale criarde, texte excessif, feuilles de dessin animé, raisins d'aspect plastique, ombres dures, accessoires aléatoires, look d'affiche de vin bon marché
 ```
 
 </details>
@@ -2502,7 +2560,7 @@ bouteille de face, bouteille debout, perspective angulaire, composition encombr�
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMxXrbWbgAE0BbN.jpg" width="700" alt="Affiche minimaliste de vin de fruits">
+<img src="https://image.moge.ai/prompt_media/HMxQ1hzaEAALLvO.jpg" width="700" alt="Affiche de Vin de Fruits en Silhouette de Vigne">
 </div>
 
 <br>
@@ -2511,13 +2569,13 @@ bouteille de face, bouteille debout, perspective angulaire, composition encombr�
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2075130053403591081) | 2026-07-09 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2075122423691936218) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2075130053403591081)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2075122423691936218)**
 
 </div>
 
@@ -2825,87 +2883,219 @@ Portrait lifestyle ultra-réaliste d'une jeune femme joyeuse à la peau claire d
 
 ---
 
-### No. 43: Affiche de Vin de Fruits en Silhouette de Vigne
+### No. 43: Affiche de campagne éditoriale Future Vibes AI
 
 ![Catégorie: Publicité & produit](https://img.shields.io/badge/Cat%C3%A9gorie-Publicit%C3%A9%20%26%20produit-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche minimaliste et haut de gamme de vin de fruits dont la silhouette de bouteille est formée de vraies vignes avec quelques raisins rubis.
+Crée une affiche éditoriale 4:5 en flat-lay vue de dessus d'une créatrice IA entourée de matériel cinéma et d'une typographie de marque Future Vibes AI dense.
 
 #### 🌟 Prompt
 
-Créez une affiche ultra-premium minimaliste pour le vin rouge de fruits espagnol Oran, inspirée d'une …
+Une affiche premium 4:5 de campagne de marque éditoriale pour Future Vibes AI. Sujet Principal : Une jeune …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Créez une affiche ultra-premium minimaliste pour le vin rouge de fruits espagnol Oran, inspirée d'une composition botanique raffinée en silhouette de bouteille. Utilisez un grand fond blanc propre ou ivoire doux avec un généreux espace négatif. L'image centrale doit être une forme de bouteille de vin naturellement formée par de vraies vignes, des tiges tendres, des vrilles enroulées et d'élégantes feuilles de vigne. La silhouette de la bouteille doit sembler délicate, verticale, aérienne et parfaitement équilibrée, comme si la nature elle-même avait tranquillement dessiné le contour de la bouteille de vin.
+Une affiche premium 4:5 de campagne de marque éditoriale pour Future Vibes AI.
 
-Composition principale :
-Construisez la silhouette complète d'une bouteille de vin debout en utilisant uniquement des éléments réalistes de vigne :
-tiges vertes fines,
-nœuds de ramification naturels,
-vrilles enroulées,
-petites feuilles de vigne fraîches,
-subtile asymétrie organique,
-proportions nettes de bouteille.
-Le contour doit être immédiatement lisible comme une bouteille, mais doit tout de même sembler botanique et poussé naturellement plutôt que rigidement graphique.
+Sujet Principal : Une jeune créatrice IA indienne aux traits du visage exactement identiques à l'image de référence, allongée à plat sur le sol.
 
-Détails des raisins :
-Ajoutez seulement un petit nombre de raisins comme accents précieux, pas une grappe lourde. Utilisez quelques raisins rouge rubis ou violet bordeaux profonds attachés naturellement à la structure de la vigne, avec des tiges crédibles et un espacement élégant. Les raisins doivent sembler légèrement placés et parfaitement connectés à la vigne, comme s'ils y avaient vraiment poussé. Leur rôle est de ponctuer la composition et de suggérer la richesse du vin de fruits, non de dominer la silhouette de la bouteille.
+Angle de Caméra : Prise de vue flat-lay directe en plongée depuis le plafond.
 
-Intégration marque/produit :
-Dans la partie inférieure-centrale de la silhouette de bouteille formée par la vigne, placez une zone d'étiquette raffinée ou un élégant insert d'étiquette de bouteille faisant référence au vin rouge de fruits Oran. L'étiquette doit sembler premium, petite et de bon goût, avec une subtile élégance de vin espagnol et un discret indice d'identité du Petit Chaperon Rouge si désiré. Gardez-la retenue et luxueuse, jamais criarde ni commercialement chargée.
+Pose : Pose détendue, une main tenant un smartphone affichant une scène cinématographique générée par IA, l'autre main tenant un stylet. Regardant directement l'objectif avec un sourire confiant.
 
-Lumière et ombre :
-Utilisez un éclairage extrêmement délicat, doux et premium. La lumière doit sembler naturelle et veloutée, révélant :
-la tendre translucidité des feuilles de vigne fraîches,
-la surface lisse des raisins,
-la texture organique des tiges,
-le subtil relief du fond semblable au papier,
-l'ombre douce projetée par la silhouette de bouteille en vigne.
-Les ombres doivent être douces, diffuses et élégantes, donnant à l'image une profondeur tranquille sans drame.
+Autour d'Elle (Remplacer par des Objets Future Vibes AI)
 
-Réalisme botanique :
-Poussez le réalisme au niveau le plus élevé :
-tons verts frais de vigne,
-petites nervures de feuilles,
-nœuds naturels de tiges,
-fine boucle de vrille,
-pruine sur la peau des raisins,
-légère translucidité sur les bords des raisins,
-douces imperfections naturelles.
-Tout doit sembler tactile, vivant et exquis.
+Tout est disposé artistiquement autour d'elle comme un mood board créatif.
 
-Arrière-plan :
-Gardez l'arrière-plan extrêmement minimaliste, propre et mat, en blanc doux, ivoire chaud ou parchemin pâle. Il doit ressembler à du papier beaux-arts ou à un support mural de galerie premium. Pas de désordre, pas d'accessoires supplémentaires, pas de mise en table, pas de bruit décoratif.
+MacBook Pro affichant une timeline de montage vidéo IA.
 
-Typographie :
-Gardez le texte extrêmement minimaliste et élégant. Ajoutez uniquement un titre raffiné si nécessaire :
-« ORAN »
-Ligne de support optionnelle :
-« Fruit Red Wine »
-La typographie doit être petite, luxueuse, aérée et dirigée artistiquement, avec un généreux espace de respiration. Évitez le texte lourd et les polices grasses génériques.
+iPad montrant du concept art et du design de prompts.
 
-Palette de couleurs :
-ivoire doux,
-vert frais de vigne,
-vert botanique clair,
-raisin rubis profond,
-accents violet bordeaux,
-ombres neutres douces.
-La palette doit sembler retenue, botanique, luxueuse et poétique.
+Clavier mécanique.
 
-Ambiance :
-minimaliste, botanique, luxueuse, poétique, élégante, style galerie, raffinée, naturelle, qualité d'affiche de vin premium.
+Écouteurs sans fil.
 
-Rendu :
-photographie botanique hyper-réaliste, texture de vigne ultra-détaillée, élégante silhouette de bouteille formée par de vraies vignes, subtils accents de raisin rubis, éclairage premium doux, ombres délicates, fond propre de papier artistique, typographie de luxe minimaliste, image de campagne de vin de qualité muséale, 8k, chef-d'œuvre.
+Microphone professionnel.
 
-Prompt négatif :
-grappes de raisin lourdes, composition encombrée, fond sombre dramatique, tiges désordonnées, contour de bouteille factice, étiquette commerciale criarde, texte excessif, feuilles de dessin animé, raisins d'aspect plastique, ombres dures, accessoires aléatoires, look d'affiche de vin bon marché
+Caméra (style cinéma Sony/Canon).
+
+Drone.
+
+Passeport avec tampons de voyage.
+
+Cartes d'embarquement.
+
+Mini globe terrestre.
+
+Tasse de café étiquetée Future Vibes AI.
+
+Croquis de workflow IA.
+
+Storyboards.
+
+Notes autocollantes avec des idées de prompts.
+
+Nuanciers de couleurs inspirés du logo Adobe Firefly.
+
+Claquette de cinéma étiquetée Future Vibes AI Productions.
+
+Disques SSD.
+
+Cartes mémoire.
+
+Filtres d'objectif.
+
+Batteries de caméra cinéma.
+
+Petites figurines de robots IA.
+
+Bouton Play Argent YouTube.
+
+Carnet rempli de notes d'ingénierie de prompts.
+
+Autocollants d'ordinateur portable :
+
+Future Vibes AI
+
+Create with AI
+
+Prompt Engineer
+
+AI Filmmaker
+
+Travel Creator
+
+Dream Build Repeat
+
+Carte du monde avec des épingles de voyage.
+
+Mini trophée style Oscar.
+
+Fiches de personnages générées par IA.
+
+Petites fusées, étoiles, ampoules, gribouillis de réseau neuronal.
+
+Bandes de film flottantes et graphiques de cadres cinématographiques.
+
+Tenue
+
+Sweat à capuche noir oversize avec le logo Future Vibes AI.
+
+Jean décontracté bleu clair.
+
+Baskets noires et blanches.
+
+Bijoux argentés minimalistes.
+
+Arrière-plan
+
+Au lieu du vert émeraude :
+
+Noir charbon mat avec des dégradés subtils.
+
+Lignes abstraites de réseau neuronal IA.
+
+Motifs de circuits bleus et violets lumineux.
+
+Petits points de constellation.
+
+Superpositions géométriques holographiques.
+
+Léger grain cinématographique.
+
+Typographie
+
+Énorme typographie intégrée enveloppant le corps :
+
+FUTURE VIBES AI
+
+Typographie plus petite :
+
+CREATE • INNOVATE • INSPIRE
+
+PROMPT • SHOOT • EDIT • REPEAT
+
+AI FILMMAKER • EDUCATOR • TRAVEL CREATOR
+
+Éléments Graphiques
+
+Extraits de prompts manuscrits.
+
+Guides de cadrage de caméra.
+
+Marqueurs de timeline.
+
+Perforations de film.
+
+Textures de collage papier.
+
+Tampons de voyage.
+
+Gribouillis d'avion.
+
+Étoiles.
+
+Éclairs.
+
+Diagrammes de réseau neuronal.
+
+Autocollants de code-barres.
+
+Graphiques inspirés des QR codes.
+
+Fenêtres d'UI minimalistes.
+
+Connexions de nœuds IA.
+
+Éclairage
+
+Éclairage de studio commercial de luxe.
+
+Ombres cinématographiques douces.
+
+Éclairage de mode éditoriale haut de gamme.
+
+Lumière de contour subtile.
+
+Ambiance
+
+Créative.
+
+Innovante.
+
+Premium.
+
+Tech-forward.
+
+Cinématographique.
+
+Jeune.
+
+Confiante.
+
+Palette de Couleurs
+
+Noir mat
+
+Rouge Adobe
+
+Bleu électrique
+
+Violet néon
+
+Blanc
+
+Argent métallisé
+
+Accents dorés chauds
+
+Ratio d'aspect : 4:5 vertical.
+
+Campagne éditoriale de luxe virale sur Pinterest, photographie de produit style Apple rencontrant le branding créatif Adobe, ultra détaillé, hyperréaliste, qualité commerciale cinématographique, chef-d'œuvre 8K.
 ```
 
 </details>
@@ -2913,7 +3103,7 @@ grappes de raisin lourdes, composition encombrée, fond sombre dramatique, tiges
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMxQ1hzaEAALLvO.jpg" width="700" alt="Affiche de Vin de Fruits en Silhouette de Vigne">
+<img src="https://image.moge.ai/prompt_media/HMxIwhCaUAAWBYF.jpg" width="700" alt="Affiche de campagne éditoriale Future Vibes AI">
 </div>
 
 <br>
@@ -2922,13 +3112,13 @@ grappes de raisin lourdes, composition encombrée, fond sombre dramatique, tiges
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2075122423691936218) | 2026-07-09 |
+| [Future AI 🧩](https://x.com/FutureVibesAi) | [X / Twitter](https://x.com/FutureVibesAi/status/2075113534481109162) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2075122423691936218)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2075113534481109162)**
 
 </div>
 
@@ -3192,219 +3382,23 @@ Arrière-plan blanc minimaliste, photographie éditoriale de mode haut de gamme,
 
 ---
 
-### No. 49: Affiche de campagne éditoriale Future Vibes AI
+### No. 49: Photo Produit Alimentaire Pastel
 
 ![Catégorie: Publicité & produit](https://img.shields.io/badge/Cat%C3%A9gorie-Publicit%C3%A9%20%26%20produit-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche éditoriale 4:5 en flat-lay vue de dessus d'une créatrice IA entourée de matériel cinéma et d'une typographie de marque Future Vibes AI dense.
+Transforme la photo d'un aliment ou d'une boisson en une séance studio premium aux tons pastel, avec fond doux, éclairage diffus et typographie de marque élégante au format vertical 4:5.
 
 #### 🌟 Prompt
 
-Une affiche premium 4:5 de campagne de marque éditoriale pour Future Vibes AI. Sujet Principal : Une jeune …
+Utilisez l'image d'aliment/boisson téléchargée comme référence principale. Préservez exactement l'identité, …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Une affiche premium 4:5 de campagne de marque éditoriale pour Future Vibes AI.
-
-Sujet Principal : Une jeune créatrice IA indienne aux traits du visage exactement identiques à l'image de référence, allongée à plat sur le sol.
-
-Angle de Caméra : Prise de vue flat-lay directe en plongée depuis le plafond.
-
-Pose : Pose détendue, une main tenant un smartphone affichant une scène cinématographique générée par IA, l'autre main tenant un stylet. Regardant directement l'objectif avec un sourire confiant.
-
-Autour d'Elle (Remplacer par des Objets Future Vibes AI)
-
-Tout est disposé artistiquement autour d'elle comme un mood board créatif.
-
-MacBook Pro affichant une timeline de montage vidéo IA.
-
-iPad montrant du concept art et du design de prompts.
-
-Clavier mécanique.
-
-Écouteurs sans fil.
-
-Microphone professionnel.
-
-Caméra (style cinéma Sony/Canon).
-
-Drone.
-
-Passeport avec tampons de voyage.
-
-Cartes d'embarquement.
-
-Mini globe terrestre.
-
-Tasse de café étiquetée Future Vibes AI.
-
-Croquis de workflow IA.
-
-Storyboards.
-
-Notes autocollantes avec des idées de prompts.
-
-Nuanciers de couleurs inspirés du logo Adobe Firefly.
-
-Claquette de cinéma étiquetée Future Vibes AI Productions.
-
-Disques SSD.
-
-Cartes mémoire.
-
-Filtres d'objectif.
-
-Batteries de caméra cinéma.
-
-Petites figurines de robots IA.
-
-Bouton Play Argent YouTube.
-
-Carnet rempli de notes d'ingénierie de prompts.
-
-Autocollants d'ordinateur portable :
-
-Future Vibes AI
-
-Create with AI
-
-Prompt Engineer
-
-AI Filmmaker
-
-Travel Creator
-
-Dream Build Repeat
-
-Carte du monde avec des épingles de voyage.
-
-Mini trophée style Oscar.
-
-Fiches de personnages générées par IA.
-
-Petites fusées, étoiles, ampoules, gribouillis de réseau neuronal.
-
-Bandes de film flottantes et graphiques de cadres cinématographiques.
-
-Tenue
-
-Sweat à capuche noir oversize avec le logo Future Vibes AI.
-
-Jean décontracté bleu clair.
-
-Baskets noires et blanches.
-
-Bijoux argentés minimalistes.
-
-Arrière-plan
-
-Au lieu du vert émeraude :
-
-Noir charbon mat avec des dégradés subtils.
-
-Lignes abstraites de réseau neuronal IA.
-
-Motifs de circuits bleus et violets lumineux.
-
-Petits points de constellation.
-
-Superpositions géométriques holographiques.
-
-Léger grain cinématographique.
-
-Typographie
-
-Énorme typographie intégrée enveloppant le corps :
-
-FUTURE VIBES AI
-
-Typographie plus petite :
-
-CREATE • INNOVATE • INSPIRE
-
-PROMPT • SHOOT • EDIT • REPEAT
-
-AI FILMMAKER • EDUCATOR • TRAVEL CREATOR
-
-Éléments Graphiques
-
-Extraits de prompts manuscrits.
-
-Guides de cadrage de caméra.
-
-Marqueurs de timeline.
-
-Perforations de film.
-
-Textures de collage papier.
-
-Tampons de voyage.
-
-Gribouillis d'avion.
-
-Étoiles.
-
-Éclairs.
-
-Diagrammes de réseau neuronal.
-
-Autocollants de code-barres.
-
-Graphiques inspirés des QR codes.
-
-Fenêtres d'UI minimalistes.
-
-Connexions de nœuds IA.
-
-Éclairage
-
-Éclairage de studio commercial de luxe.
-
-Ombres cinématographiques douces.
-
-Éclairage de mode éditoriale haut de gamme.
-
-Lumière de contour subtile.
-
-Ambiance
-
-Créative.
-
-Innovante.
-
-Premium.
-
-Tech-forward.
-
-Cinématographique.
-
-Jeune.
-
-Confiante.
-
-Palette de Couleurs
-
-Noir mat
-
-Rouge Adobe
-
-Bleu électrique
-
-Violet néon
-
-Blanc
-
-Argent métallisé
-
-Accents dorés chauds
-
-Ratio d'aspect : 4:5 vertical.
-
-Campagne éditoriale de luxe virale sur Pinterest, photographie de produit style Apple rencontrant le branding créatif Adobe, ultra détaillé, hyperréaliste, qualité commerciale cinématographique, chef-d'œuvre 8K.
+Utilisez l'image d'aliment/boisson téléchargée comme référence principale. Préservez exactement l'identité, l'apparence, la texture, les couleurs et le mode de présentation du produit. Transformez-la en une séance studio premium aux tons pastel doux, dans un style de photographie culinaire commerciale lumineux, épuré et moderne. Utilisez un fond pastel complémentaire, des accessoires minimaux et élégants, un dressage raffiné, une lumière douce et diffuse, des ombres réalistes et des détails naturels appétissants. Gardez le produit comme héros, avec une composition équilibrée, un espace négatif et une zone de branding luxueux subtile. Ajoutez une typographie minimale et élégante pour le nom du produit, le nom de la marque et un CTA optionnel. Résultat final : image verticale 4:5 ultra-réaliste, de qualité publicitaire alimentaire professionnelle, fraîche, soignée, premium et prête pour les réseaux sociaux.
 ```
 
 </details>
@@ -3412,7 +3406,7 @@ Campagne éditoriale de luxe virale sur Pinterest, photographie de produit style
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMxIwhCaUAAWBYF.jpg" width="700" alt="Affiche de campagne éditoriale Future Vibes AI">
+<img src="https://image.moge.ai/prompt_media/HMxGyU1WUAAxJwv.jpg" width="700" alt="Photo Produit Alimentaire Pastel">
 </div>
 
 <br>
@@ -3421,13 +3415,13 @@ Campagne éditoriale de luxe virale sur Pinterest, photographie de produit style
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Future AI 🧩](https://x.com/FutureVibesAi) | [X / Twitter](https://x.com/FutureVibesAi/status/2075113534481109162) | 2026-07-09 |
+| [Anissa](https://x.com/SimplyAnnisa) | [X / Twitter](https://x.com/SimplyAnnisa/status/2075111363064848511) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2075113534481109162)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2075111363064848511)**
 
 </div>
 
@@ -3773,23 +3767,44 @@ Un vaste paysage désertique aride resplendit sous la chaude lumière du jour. U
 
 ---
 
-### No. 55: Photo Produit Alimentaire Pastel
+### No. 55: Affiche de Fraîcheur Estivale Limca
 
 ![Catégorie: Publicité & produit](https://img.shields.io/badge/Cat%C3%A9gorie-Publicit%C3%A9%20%26%20produit-lightgrey)
 
 #### 📚 Description
 
-Transforme la photo d'un aliment ou d'une boisson en une séance studio premium aux tons pastel, avec fond doux, éclairage diffus et typographie de marque élégante au format vertical 4:5.
+Crée une affiche Instagram hyperréaliste pour Limca capturant le moment glacé de rafraîchissement après l'effort estival, avec le produit en vedette et une typographie éditoriale audacieuse.
 
 #### 🌟 Prompt
 
-Utilisez l'image d'aliment/boisson téléchargée comme référence principale. Préservez exactement l'identité, …
+Crée une affiche SMM premium et hyperréaliste pour Instagram de Limca qui ressemble à une campagne officielle …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Utilisez l'image d'aliment/boisson téléchargée comme référence principale. Préservez exactement l'identité, l'apparence, la texture, les couleurs et le mode de présentation du produit. Transformez-la en une séance studio premium aux tons pastel doux, dans un style de photographie culinaire commerciale lumineux, épuré et moderne. Utilisez un fond pastel complémentaire, des accessoires minimaux et élégants, un dressage raffiné, une lumière douce et diffuse, des ombres réalistes et des détails naturels appétissants. Gardez le produit comme héros, avec une composition équilibrée, un espace négatif et une zone de branding luxueux subtile. Ajoutez une typographie minimale et élégante pour le nom du produit, le nom de la marque et un CTA optionnel. Résultat final : image verticale 4:5 ultra-réaliste, de qualité publicitaire alimentaire professionnelle, fraîche, soignée, premium et prête pour les réseaux sociaux.
+Crée une affiche SMM premium et hyperréaliste pour Instagram de Limca qui ressemble à une campagne officielle Coca-Cola India × Ogilvy. Évite les publicités de boissons génériques, les bouteilles flottantes, les images fitness de banque d'images, les éclaboussures excessives, les artefacts d'IA, le désordre ou les éléments caricaturaux.
+
+Concept : Capture le moment authentique de rafraîchissement après l'effort. Un jeune adulte indien vient de terminer une course, du vélo, un match de cricket, de basket ou une marche sous une chaleur estivale intense. Il dévisse une bouteille de Limca glacée, la condensation, la carbonatation et une légère brume soulignant la sensation instantanée de soulagement et de revitalisation.
+
+Décor : Un environnement urbain indien chaud comme une piste de course, un terrain de cricket, un terrain de basket, un toit-terrasse ou une rue de ville sous la lumière dorée de l'été. Contraste l'environnement chaud avec la fraîcheur glacée de la boisson.
+
+Composition (4:5 | 1080×1350) :
+• 40% action humaine
+• 35% produit Limca en vedette
+• 15% environnement
+• 10% typographie et CTA
+
+Montre la bouteille de Limca avec un branding parfaitement net, une condensation réaliste, un verre glacé, des microbulles et un éclairage de photographie de boissons premium. Ajoute de subtils accents de citron vert, des motion graphics éditoriaux épurés et des superpositions de fraîcheur minimales.
+
+Palette de couleurs : Vert citron, Jaune citron, Blanc net avec des accents de Menthe fraîche et d'Argent doux.
+
+Titre : **FEEL THE ZING** (sans-serif éditorial grand et gras)
+CTA : **Refresh Now**
+
+Éclairage : Éclairage commercial de luxe pour boissons avec lumière du soleil chaude, contre-jour lumineux, lumière de contour nette, reflets spéculaires froids et ombres naturelles.
+
+Style : Qualité mise en avant sur Behance, publicité Coca-Cola India, publicité éditoriale premium, photographie hyperréaliste, mode de vie indien authentique, énergique, rafraîchissant, moderne, minimaliste, ultra-détaillé.
 ```
 
 </details>
@@ -3797,7 +3812,7 @@ Utilisez l'image d'aliment/boisson téléchargée comme référence principale. 
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMxGyU1WUAAxJwv.jpg" width="700" alt="Photo Produit Alimentaire Pastel">
+<img src="https://image.moge.ai/prompt_media/HMwtC0cbAAAdPNz.jpg" width="700" alt="Affiche de Fraîcheur Estivale Limca">
 </div>
 
 <br>
@@ -3806,13 +3821,13 @@ Utilisez l'image d'aliment/boisson téléchargée comme référence principale. 
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Anissa](https://x.com/SimplyAnnisa) | [X / Twitter](https://x.com/SimplyAnnisa/status/2075111363064848511) | 2026-07-09 |
+| [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) | [X / Twitter](https://x.com/Diplomeme/status/2075083065127571574) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2075111363064848511)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2075083065127571574)**
 
 </div>
 
@@ -4112,44 +4127,97 @@ Une photographie de mode éditoriale professionnelle d'une jeune femme avec un c
 
 ---
 
-### No. 61: Affiche de Fraîcheur Estivale Limca
+### No. 61: Portail Enchanté du Beaujolais
 
 ![Catégorie: Publicité & produit](https://img.shields.io/badge/Cat%C3%A9gorie-Publicit%C3%A9%20%26%20produit-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche Instagram hyperréaliste pour Limca capturant le moment glacé de rafraîchissement après l'effort estival, avec le produit en vedette et une typographie éditoriale audacieuse.
+Crée une affiche publicitaire cinématographique de vin où la nature forme une silhouette de bouteille révélant le paysage lumineux du Beaujolais.
 
 #### 🌟 Prompt
 
-Crée une affiche SMM premium et hyperréaliste pour Instagram de Limca qui ressemble à une campagne officielle …
+Créez une affiche publicitaire cinématographique ultra-premium pour Georges Duboeuf Beaujolais Nouveau, …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Crée une affiche SMM premium et hyperréaliste pour Instagram de Limca qui ressemble à une campagne officielle Coca-Cola India × Ogilvy. Évite les publicités de boissons génériques, les bouteilles flottantes, les images fitness de banque d'images, les éclaboussures excessives, les artefacts d'IA, le désordre ou les éléments caricaturaux.
+Créez une affiche publicitaire cinématographique ultra-premium pour Georges Duboeuf Beaujolais Nouveau, conçue comme une scène fantastique poétique sur l'origine du vin français, avec une forte atmosphère sacrée et un storytelling de marque de luxe. L'image doit ressembler à une campagne de vin de classe mondiale où la nature elle-même s'ouvre en la silhouette d'une bouteille de vin, révélant le lieu de naissance lumineux du nouveau vin. La composition globale doit être élégante, dramatique, mystique et profondément française, avec un riche réalisme naturel, une lumière raffinée et une sensation d'entrer dans l'âme du Beaujolais.
 
-Concept : Capture le moment authentique de rafraîchissement après l'effort. Un jeune adulte indien vient de terminer une course, du vélo, un match de cricket, de basket ou une marche sous une chaleur estivale intense. Il dévisse une bouteille de Limca glacée, la condensation, la carbonatation et une légère brume soulignant la sensation instantanée de soulagement et de revitalisation.
+Composition principale :
+Utilisez une composition d'affiche verticale avec un premier plan naturel sombre et immersif et une ouverture centrale rayonnante ayant exactement la forme d'une bouteille de vin haute. La forme de la bouteille ne doit pas être une bouteille en verre littérale posée dans le paysage ; à la place, l'environnement environnant doit former naturellement la silhouette de la bouteille comme un portail ou une ouverture sacrée. Des arbres denses, des vignes, des branches, des feuilles et une végétation naturelle doivent encadrer l'espace négatif en forme de bouteille. À travers cette ouverture lumineuse en forme de bouteille, révélez un paysage magique du Beaujolais français rayonnant au loin.
 
-Décor : Un environnement urbain indien chaud comme une piste de course, un terrain de cricket, un terrain de basket, un toit-terrasse ou une rue de ville sous la lumière dorée de l'été. Contraste l'environnement chaud avec la fraîcheur glacée de la boisson.
+Concept de scène :
+L'ouverture centrale en forme de bouteille doit révéler l'esprit vivant du Beaujolais Nouveau :
+collines vallonnées de vignobles,
+lumière dorée du début de l'automne,
+un ruisseau sinueux ou un chemin de campagne,
+rythme doux de la campagne française,
+rangées subtiles de vignes,
+brume dans la vallée,
+douce lueur des vendanges,
+atmosphère romantique de la région de Bourgogne.
+Le paysage à l'intérieur de la silhouette de la bouteille doit sembler être le lieu de naissance du vin, comme si la bouteille contenait le terroir, la saison, la lumière et l'âme des vendanges elles-mêmes.
 
-Composition (4:5 | 1080×1350) :
-• 40% action humaine
-• 35% produit Limca en vedette
-• 15% environnement
-• 10% typographie et CTA
+Environnement de premier plan :
+L'environnement extérieur autour de l'ouverture en forme de bouteille doit sembler riche, sombre et légèrement enchanté :
+lisières de bois français,
+pierres moussues,
+racines,
+plantes basses,
+textures du sol forestier,
+feuilles de vigne,
+croissance subtile de vigne,
+ombres vert foncé,
+douce humidité naturelle.
+Ce cadre extérieur doit sembler protecteur et immersif, comme si la nature façonnait la bouteille à partir de matière vivante. Le contraste entre le premier plan plus sombre et le paysage intérieur lumineux est essentiel.
 
-Montre la bouteille de Limca avec un branding parfaitement net, une condensation réaliste, un verre glacé, des microbulles et un éclairage de photographie de boissons premium. Ajoute de subtils accents de citron vert, des motion graphics éditoriaux épurés et des superpositions de fraîcheur minimales.
+Lumière et atmosphère :
+Utilisez des rayons de lumière cinématographiques dramatiques traversant l'ouverture en forme de bouteille. La lumière centrale doit sembler dorée, chaude et presque spirituelle, avec de doux faisceaux volumétriques traversant branches, brume matinale et feuilles. L'air doit contenir une subtile brume, de la poussière flottante et une lueur atmosphérique. L'éclairage doit sembler pictural mais hyper-réel, avec une finition premium de publicité de vin.
 
-Palette de couleurs : Vert citron, Jaune citron, Blanc net avec des accents de Menthe fraîche et d'Argent doux.
+Identité et émotion du vin :
+L'image doit communiquer l'essence émotionnelle du Beaujolais Nouveau :
+vendange fraîche,
+anticipation joyeuse,
+romance de la campagne française,
+sortie saisonnière,
+vitalité du vin jeune,
+tradition artistique,
+origine naturelle.
+Elle doit sembler festive mais élégante, vibrante mais raffinée. Le monde global doit évoquer l'idée que ce vin naît de la terre, de la lumière et de la magie des vendanges.
 
-Titre : **FEEL THE ZING** (sans-serif éditorial grand et gras)
-CTA : **Refresh Now**
+Intégration de la marque :
+Placez la marque Georges Duboeuf avec goût dans le centre lumineux ou la composition inférieure-centrale, intégrée comme une campagne de vin premium. Si un élément d'étiquette ou un emblème apparaît, il doit sembler élégant et discret. La marque ne doit jamais dominer la magie du paysage. Le héros visuel est le portail en forme de bouteille et le monde qu'il contient.
 
-Éclairage : Éclairage commercial de luxe pour boissons avec lumière du soleil chaude, contre-jour lumineux, lumière de contour nette, reflets spéculaires froids et ombres naturelles.
+Typographie :
+Gardez la typographie luxueuse et minimale. Ajoutez un branding élégant tel que :
+« Georges Duboeuf »
+Ligne de soutien optionnelle :
+« Beaujolais Nouveau »
+Ligne poétique optionnelle :
+« The Harvest Awakens »
+La typographie doit sembler raffinée, classique, française et dirigée artistiquement, jamais bruyante ou bon marché.
 
-Style : Qualité mise en avant sur Behance, publicité Coca-Cola India, publicité éditoriale premium, photographie hyperréaliste, mode de vie indien authentique, énergique, rafraîchissant, moderne, minimaliste, ultra-détaillé.
+Palette de couleurs :
+vert forêt profond,
+tons d'ombre moussue,
+lever de soleil doré,
+ambre chaud des vendanges,
+vert frais de vignoble,
+blanc de brume douce,
+brun terre,
+subtils accents rouge-vin.
+La palette doit sembler riche, naturelle, premium et émotionnellement lumineuse.
+
+Ambiance :
+poétique, sacrée, française, portée par les vendanges, lumineuse, cinématographique, naturelle, luxueuse, mystique, axée sur le terroir, élégante, qualité de campagne de vin premium.
+
+Rendu :
+photographie publicitaire de luxe hyper-réaliste, environnement cinématographique de campagne française, composition de portail naturel en forme de bouteille, rayons de lumière volumétriques, brume atmosphérique premium, feuillage et mousse ultra-détaillés, paysage de vignoble du Beaujolais rayonnant, finition de campagne de vin de classe mondiale, 8k, chef-d'œuvre.
+
+Prompt négatif :
+bouteille littérale flottant dans la forêt, portail fantastique générique, composition encombrée, aspect de publicité de vin bon marché, éclairage plat, silhouette de bouteille faible, campagne aléatoire, feuillage peu détaillé, forêt de dessin animé, texte excessif, éléments urbains modernes, environnement d'aspect plastique
 ```
 
 </details>
@@ -4157,7 +4225,7 @@ Style : Qualité mise en avant sur Behance, publicité Coca-Cola India, publicit
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMwtC0cbAAAdPNz.jpg" width="700" alt="Affiche de Fraîcheur Estivale Limca">
+<img src="https://image.moge.ai/prompt_media/HMutsKxbAAAGpmc.jpg" width="700" alt="Portail Enchanté du Beaujolais">
 </div>
 
 <br>
@@ -4166,13 +4234,13 @@ Style : Qualité mise en avant sur Behance, publicité Coca-Cola India, publicit
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) | [X / Twitter](https://x.com/Diplomeme/status/2075083065127571574) | 2026-07-09 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2074943088544612551) | 2026-07-08 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2075083065127571574)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2074943088544612551)**
 
 </div>
 
@@ -4461,97 +4529,109 @@ Ne pas changer la taille de l'image.
 
 ---
 
-### No. 67: Portail Enchanté du Beaujolais
+### No. 67: Affiche Publicitaire Dragon de Ramen
 
 ![Catégorie: Publicité & produit](https://img.shields.io/badge/Cat%C3%A9gorie-Publicit%C3%A9%20%26%20produit-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche publicitaire cinématographique de vin où la nature forme une silhouette de bouteille révélant le paysage lumineux du Beaujolais.
+Crée une affiche culinaire ultra-premium où le ramen bœuf-œuf au chou mariné s'élève du bol et se transforme en un majestueux dragon chinois fait de nouilles, de bouillon et de vapeur.
 
 #### 🌟 Prompt
 
-Créez une affiche publicitaire cinématographique ultra-premium pour Georges Duboeuf Beaujolais Nouveau, …
+Crée une affiche publicitaire ultra-premium pour la marque Oulaolao, présentant un ramen bœuf-œuf au chou …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Créez une affiche publicitaire cinématographique ultra-premium pour Georges Duboeuf Beaujolais Nouveau, conçue comme une scène fantastique poétique sur l'origine du vin français, avec une forte atmosphère sacrée et un storytelling de marque de luxe. L'image doit ressembler à une campagne de vin de classe mondiale où la nature elle-même s'ouvre en la silhouette d'une bouteille de vin, révélant le lieu de naissance lumineux du nouveau vin. La composition globale doit être élégante, dramatique, mystique et profondément française, avec un riche réalisme naturel, une lumière raffinée et une sensation d'entrer dans l'âme du Beaujolais.
+Crée une affiche publicitaire ultra-premium pour la marque Oulaolao, présentant un ramen bœuf-œuf au chou mariné transformé en un majestueux dragon chinois. L'image doit donner l'impression d'une scène gastronomique complète et haut de gamme : sobre dans la composition, luxueuse dans le style, mais audacieuse et explosive dans l'expression des saveurs. Le dragon de ramen doit croître directement du bol lui-même, profondément fusionné avec la texture des nouilles, le mouvement du bouillon, le chou mariné, les tranches de bœuf, la richesse de l'œuf, l'huile de piment, la vapeur et la chaleur. Ajoute une paire raffinée de baguettes et un repose-baguettes pour parfaire l'atmosphère élégante du repas.
 
 Composition principale :
-Utilisez une composition d'affiche verticale avec un premier plan naturel sombre et immersif et une ouverture centrale rayonnante ayant exactement la forme d'une bouteille de vin haute. La forme de la bouteille ne doit pas être une bouteille en verre littérale posée dans le paysage ; à la place, l'environnement environnant doit former naturellement la silhouette de la bouteille comme un portail ou une ouverture sacrée. Des arbres denses, des vignes, des branches, des feuilles et une végétation naturelle doivent encadrer l'espace négatif en forme de bouteille. À travers cette ouverture lumineuse en forme de bouteille, révélez un paysage magique du Beaujolais français rayonnant au loin.
+Utilise une composition verticale d'affiche gastronomique premium, avec un espace négatif épuré et un fond chaud maîtrisé. Place un élégant bol de ramen Oulaolao au centre inférieur comme produit vedette. Le bol doit paraître raffiné, marqué et appétissant, avec le ramen visiblement riche et fumant à l'intérieur. Depuis le bol, les nouilles et le bouillon s'élèvent et se transforment en un dragon chinois dynamique occupant la moitié supérieure de la composition. Au premier plan inférieur, place une paire de baguettes premium reposant soigneusement sur une petite base, alignées avec soin pour que la scène ressemble à un dressage gastronomique complet et intentionnel.
 
-Concept de scène :
-L'ouverture centrale en forme de bouteille doit révéler l'esprit vivant du Beaujolais Nouveau :
-collines vallonnées de vignobles,
-lumière dorée du début de l'automne,
-un ruisseau sinueux ou un chemin de campagne,
-rythme doux de la campagne française,
-rangées subtiles de vignes,
-brume dans la vallée,
-douce lueur des vendanges,
-atmosphère romantique de la région de Bourgogne.
-Le paysage à l'intérieur de la silhouette de la bouteille doit sembler être le lieu de naissance du vin, comme si la bouteille contenait le terroir, la saison, la lumière et l'âme des vendanges elles-mêmes.
+Identité de marque :
+Utilise le nom de marque Oulaolao au lieu de HOTOL. Le marquage du bol doit afficher « Oulaolao » de manière raffinée et premium, adaptée à une marque chinoise de nouilles moderne et élevée. La présence du logo doit être élégante et claire, jamais surdimensionnée ni bon marché.
 
-Environnement de premier plan :
-L'environnement extérieur autour de l'ouverture en forme de bouteille doit sembler riche, sombre et légèrement enchanté :
-lisières de bois français,
-pierres moussues,
-racines,
-plantes basses,
-textures du sol forestier,
-feuilles de vigne,
-croissance subtile de vigne,
-ombres vert foncé,
-douce humidité naturelle.
-Ce cadre extérieur doit sembler protecteur et immersif, comme si la nature façonnait la bouteille à partir de matière vivante. Le contraste entre le premier plan plus sombre et le paysage intérieur lumineux est essentiel.
+Logique visuelle centrale :
+Le dragon ne doit pas sembler une créature de fantaisie distincte flottant au-dessus du bol. Il doit paraître physiquement né du ramen lui-même. La tête, le cou, les moustaches, la crinière, la crête, la colonne et le corps doivent tous être faits de nouilles, de bouillon, de vapeur, d'huile de piment et d'ingrédients. Le spectateur doit comprendre instantanément que le dragon est l'âme du ramen s'élevant du bol.
 
-Lumière et atmosphère :
-Utilisez des rayons de lumière cinématographiques dramatiques traversant l'ouverture en forme de bouteille. La lumière centrale doit sembler dorée, chaude et presque spirituelle, avec de doux faisceaux volumétriques traversant branches, brume matinale et feuilles. L'air doit contenir une subtile brume, de la poussière flottante et une lueur atmosphérique. L'éclairage doit sembler pictural mais hyper-réel, avec une finition premium de publicité de vin.
+Fusion dragon-ingrédient :
+Construis le dragon avec une intégration alimentaire profonde :
+le corps formé de nouilles dorées, élastiques et superposées,
+les moustaches et la crinière faites de fins brins de nouilles, de rubans de vapeur et de traînées de bouillon chaud,
+la crête du dragon et les nageoires fluides façonnées par des éclaboussures de soupe et des arcs d'huile de piment,
+le chou mariné tissé naturellement dans la texture du corps et le rythme de la crinière,
+des tranches de bœuf incrustées dans les sections plus riches autour du cou et du corps,
+des textures d'œuf et l'éclat du jaune intégrés près de la transition inférieure du bol au dragon,
+de petits flocons de piment, des touches de ciboule et des gouttelettes d'huile soutenant le mouvement.
+Le dragon doit paraître comestible, chaud, aromatique et vivant de saveur, non sculptural ni artificiel.
 
-Identité et émotion du vin :
-L'image doit communiquer l'essence émotionnelle du Beaujolais Nouveau :
-vendange fraîche,
-anticipation joyeuse,
-romance de la campagne française,
-sortie saisonnière,
-vitalité du vin jeune,
-tradition artistique,
-origine naturelle.
-Elle doit sembler festive mais élégante, vibrante mais raffinée. Le monde global doit évoquer l'idée que ce vin naît de la terre, de la lumière et de la magie des vendanges.
+Raffinement de la scène de repas :
+Ajoute une paire de baguettes raffinées et un petit repose-baguettes au premier plan ou dans la partie inférieure de l'image pour parfaire le rituel du repas. Les baguettes doivent paraître élégantes et tactiles, comme du bois foncé, du bambou laqué ou un matériau subtilement poli. Le repose-baguettes doit être minimaliste et raffiné. Leur placement doit équilibrer la composition et renforcer l'atmosphère de repas premium et posée. Ils ne doivent pas détourner l'attention du bol et du dragon, mais faire en sorte que l'ensemble de l'image ressemble à une scène de table achevée plutôt qu'à un rendu de produit isolé.
 
-Intégration de la marque :
-Placez la marque Georges Duboeuf avec goût dans le centre lumineux ou la composition inférieure-centrale, intégrée comme une campagne de vin premium. Si un élément d'étiquette ou un emblème apparaît, il doit sembler élégant et discret. La marque ne doit jamais dominer la magie du paysage. Le héros visuel est le portail en forme de bouteille et le monde qu'il contient.
+Ambiance sobre mais explosive :
+C'est essentiel. La composition doit rester calme, épurée et premium, avec beaucoup d'espace pour respirer et seulement quelques éléments de soutien. En même temps, le dragon de ramen, la chaleur, la vapeur et le mouvement du bouillon doivent paraître audacieux, énergiques et pleins d'attrait gourmand. La tension émotionnelle doit naître du contraste entre le dressage maîtrisé en bas et la transformation dramatique de l'aliment en haut.
+
+Effets de chaleur, de fluide et de particules :
+Utilise des effets de fluide détaillés mais maîtrisés :
+des arcs de bouillon lumineux,
+des reflets d'huile de piment,
+des gouttelettes flottantes,
+des rubans de vapeur,
+une brume de chaleur,
+des microparticules d'épices,
+une subtile brume dorée.
+Ces effets doivent souligner l'arôme, la chaleur et l'intensité sans rendre l'image confuse. Le dragon doit paraître puissant, mais le langage visuel doit rester premium et élégant.
+
+Détail du produit :
+Le bol de ramen bœuf-œuf au chou mariné Oulaolao doit paraître irrésistible :
+des nouilles riches et fumantes,
+un bouillon luisant,
+un éclat vif d'huile de piment,
+le détail du chou mariné,
+le persillage des tranches de bœuf,
+un jaune d'œuf doré,
+une garniture fraîche,
+une finition premium du bol en céramique.
+La nourriture doit paraître extrêmement détaillée, chaude, désirable et luxueuse.
+
+Forme du dragon :
+Utilise une silhouette classique de dragon chinois, avec un long corps serpentin, des cornes élégantes, des moustaches fluides et une courbure ascendante dynamique. Le dragon doit paraître noble et énergique, avec un fort rythme visuel, tout en restant clairement fait d'ingrédients de ramen et de l'énergie de la soupe chaude.
+
+Arrière-plan :
+Garde l'arrière-plan minimaliste et raffiné, en utilisant un beige neutre chaud, un or doux ou des tons ambre épicés atténués. Le fond doit soutenir le produit et le dragon sans encombrement. Évite les accessoires supplémentaires ou les éléments décoratifs inutiles.
+
+Éclairage :
+Utilise un éclairage de studio premium, avec des reflets chauds sur le bouillon, les nouilles, l'huile de piment et les surfaces en céramique. Le bol, les baguettes et le repose-baguettes doivent paraître tactiles et coûteux. Le dragon doit être rehaussé par un léger contre-jour à travers la vapeur et les bords liquides, créant profondeur et chaleur.
 
 Typographie :
-Gardez la typographie luxueuse et minimale. Ajoutez un branding élégant tel que :
-« Georges Duboeuf »
+Garde la typographie minimaliste et premium. Ajoute le marquage si nécessaire :
+« Oulaolao »
 Ligne de soutien optionnelle :
-« Beaujolais Nouveau »
-Ligne poétique optionnelle :
-« The Harvest Awakens »
-La typographie doit sembler raffinée, classique, française et dirigée artistiquement, jamais bruyante ou bon marché.
+« Ramen Bœuf-Œuf au Chou Mariné »
+La typographie doit paraître épurée, moderne et secondaire.
 
 Palette de couleurs :
-vert forêt profond,
-tons d'ombre moussue,
-lever de soleil doré,
-ambre chaud des vendanges,
-vert frais de vignoble,
-blanc de brume douce,
-brun terre,
-subtils accents rouge-vin.
-La palette doit sembler riche, naturelle, premium et émotionnellement lumineuse.
+jaune doré des nouilles,
+ambre du bouillon chaud,
+rouge-orange épicé,
+vert du chou mariné,
+brun riche du bœuf,
+or du jaune d'œuf,
+blanc chaud de la vapeur,
+fond beige doux,
+baguettes en bois foncé.
+La palette doit paraître riche, chaude, raffinée et appétissante.
 
 Ambiance :
-poétique, sacrée, française, portée par les vendanges, lumineuse, cinématographique, naturelle, luxueuse, mystique, axée sur le terroir, élégante, qualité de campagne de vin premium.
+sobre mais audacieuse, premium, chaude, appétissante, cinématographique, iconique, gastronomie chinoise raffinée, luxueuse, dynamique, désirable, qualité de campagne culinaire de classe mondiale.
 
 Rendu :
-photographie publicitaire de luxe hyper-réaliste, environnement cinématographique de campagne française, composition de portail naturel en forme de bouteille, rayons de lumière volumétriques, brume atmosphérique premium, feuillage et mousse ultra-détaillés, paysage de vignoble du Beaujolais rayonnant, finition de campagne de vin de classe mondiale, 8k, chef-d'œuvre.
+photographie culinaire commerciale hyperréaliste, texture de nouilles ultra-détaillée, rendu premium du bol Oulaolao, silhouette de dragon chinois formée d'ingrédients de ramen, mouvement élégant de bouillon et d'huile de piment, effets raffinés de vapeur et de particules, baguettes premium et repose-baguettes, composition complète de scène de repas, finition publicitaire haut de gamme, 8k, chef-d'œuvre.
 
 Prompt négatif :
-bouteille littérale flottant dans la forêt, portail fantastique générique, composition encombrée, aspect de publicité de vin bon marché, éclairage plat, silhouette de bouteille faible, campagne aléatoire, feuillage peu détaillé, forêt de dessin animé, texte excessif, éléments urbains modernes, environnement d'aspect plastique
+dragon séparé au-dessus du bol, dragon de fantaisie générique, anatomie de dragon occidental, accessoires en désordre, table de repas encombrée, publicité bon marché de nouilles instantanées, soupe à l'aspect plastique, nouilles déconnectées, éléments d'arrière-plan excessifs, ingrédients peu détaillés, nourriture de dessin animé, marquage faible, aspect de baguettes jetables, mauvais équilibre de composition
 ```
 
 </details>
@@ -4559,7 +4639,7 @@ bouteille littérale flottant dans la forêt, portail fantastique générique, c
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMutsKxbAAAGpmc.jpg" width="700" alt="Portail Enchanté du Beaujolais">
+<img src="https://image.moge.ai/prompt_media/HMuKaEybMAAyVJG.jpg" width="700" alt="Affiche Publicitaire Dragon de Ramen">
 </div>
 
 <br>
@@ -4568,13 +4648,13 @@ bouteille littérale flottant dans la forêt, portail fantastique générique, c
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2074943088544612551) | 2026-07-08 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2074904275139068333) | 2026-07-08 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2074943088544612551)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2074904275139068333)**
 
 </div>
 
