@@ -35,97 +35,29 @@ Vollständiger Prompt-Text · Vorschaubilder · **10 Sprachen**
 
 ## 🎩 Neueste kuratierte Prompts
 
-### No. 1: Magisches Beaujolais-Weinportal
+### No. 1: Erfrischende, Transluzente Getränke-Ästhetik
 
 ![Kategorie: Werbung & Produkt](https://img.shields.io/badge/Kategorie-Werbung%20%26%20Produkt-lightgrey)
 
 #### 📚 Beschreibung
 
-Erstellt ein filmisches Wein-Werbeplakat, bei dem die Natur eine Flaschensilhouette formt, die die leuchtende Beaujolais-Landschaft enthüllt.
+Erzeugt ein frisches Getränke-Werbevisual mit einem Becher, der in luftigem, transluzentem Raum aus Nebel, Eiskristallen und viel Weißraum zu schweben scheint.
 
 #### 🌟 Prompt
 
-Erstelle ein ultra-premium filmisches Werbeplakat für Georges Duboeuf Beaujolais Nouveau, konzipiert als …
+Erzeuge ein frisches, leichtes Getränke-Visual rund um ein konkretes Getränkethema: Der Bildkern ist ein …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Erstelle ein ultra-premium filmisches Werbeplakat für Georges Duboeuf Beaujolais Nouveau, konzipiert als poetische französische Wein-Ursprungs-Fantasieszene mit starker sakraler Atmosphäre und Luxusmarken-Storytelling. Das Bild soll sich wie eine Weinkampagne von Weltklasse anfühlen, in der sich die Natur selbst in die Silhouette einer Weinflasche öffnet und den leuchtenden Geburtsort des neuen Weins offenbart. Die Gesamtkomposition muss elegant, dramatisch, mystisch und zutiefst französisch sein, mit reichem natürlichem Realismus, raffiniertem Licht und dem Gefühl, in die Seele des Beaujolais einzutreten.
+Erzeuge ein frisches, leichtes Getränke-Visual rund um ein konkretes Getränkethema: Der Bildkern ist ein einzelner Produktbecher, getragen von einem großflächigen, sauberen Luftraum hoher Helligkeit. Der Becher liegt unterhalb des visuellen Schwerpunkts, wie sanft von weichem Nebel, Eiskristallen, Dampf oder Themenmaterial angehoben, mit einer transluzenten Reflexionsschicht am Boden, sodass das Produkt real wirkt und zugleich schwebend-kühl. Der Hintergrund bleibt hell, sauber, luftig und mit transparenten Ebenen; in der Ferne nur weiche, kontrastarme Volumen und zarte Umgebungsandeutungen, keine komplexen Szenen. Die Hauptverpackung zeigt klare Informationen, auf der Becheroberfläche Farbe, Textur und körnige Details des Getränks, Eisgefühl und feuchte Glanzlichter fein sichtbar. Die Farben werden aus Geschmack, Material und Stimmung des Getränks selbst gewonnen, mit großflächiger heller Grundfarbe, wenigen gesättigten klaren thematischen Akzentfarben, sauberen Abstufungen und rauscharmen Schatten, sodass alles hell, frisch und transparent bleibt. Akzentfarben dienen vor allem Titel, illustrierten Icons, Etiketten und wenigen Strukturlinien; Hintergrund und Nebel tragen die Atmung, der Text den Merkpunkt. Der Titel nutzt schmale, zurückhaltende, luftig gesetzte Großzeichen für einen markanten vertikalen Leserhythmus, ergänzt durch kleine englische Informationen oder Kurzsätze, randnah verteilt mit viel Weißraum zum Produkt; die Textfarbe stammt aus derselben Quelle wie der Themenakzent, mit scharfen Kanten und ohne schwere Schatten. Die Gesamtanmutung gleicht einer Werbung für ein frisches Getränk: von Nebel umhüllt, eiskühl und transparent, leichte Information, reichlich Weißraum, Produkt, Text und Luftgefühl erzeugen gemeinsam das sofortige Gefühl "ein Schluck und es kühlt ab".
 
-Hauptkomposition:
-Verwende eine vertikale Plakatkomposition mit einem dunklen, immersiven natürlichen Vordergrund und einer strahlenden zentralen Öffnung, die genau wie eine hohe Weinflasche geformt ist. Die Flaschenform darf keine buchstäbliche Glasflasche sein, die in der Landschaft steht; stattdessen soll die umgebende Umwelt natürlich die Flaschensilhouette als Portal oder sakrale Öffnung bilden. Dichte Bäume, Reben, Zweige, Blätter und natürlicher Wuchs sollen den flaschenförmigen Negativraum einrahmen. Durch diese leuchtende flaschenförmige Öffnung offenbare eine magische französische Beaujolais-Landschaft, die in der Ferne glüht.
-
-Szenenkonzept:
-Die zentrale flaschenförmige Öffnung soll den lebendigen Geist des Beaujolais Nouveau offenbaren:
-sanft gewellte Weinberghügel,
-goldenes Frühherbstlicht,
-ein gewundener Bach oder Landweg,
-sanfter französischer Landschaftsrhythmus,
-subtile Rebreihen,
-Nebel im Tal,
-weiches Ernteglühen,
-romantische Burgund-Atmosphäre.
-Die Landschaft innerhalb der Flaschensilhouette soll sich wie der Geburtsort des Weins anfühlen, als ob die Flasche das Terroir, die Jahreszeit, das Licht und die Seele der Ernte selbst enthielte.
-
-Vordergrundumgebung:
-Die äußere Umgebung um die flaschenförmige Öffnung soll sich reich, dunkel und leicht verzaubert anfühlen:
-französische Waldränder,
-moosbedeckte Steine,
-Wurzeln,
-niedrige Pflanzen,
-Waldbodentexturen,
-Rebblätter,
-subtiler Rebwuchs,
-tiefgrüne Schatten,
-weiche natürliche Feuchtigkeit.
-Dieser äußere Rahmen soll sich schützend und immersiv anfühlen, als ob die Natur die Flasche aus lebendiger Materie formte. Der Kontrast zwischen dem dunkleren Vordergrund und der leuchtenden inneren Landschaft ist essenziell.
-
-Licht und Atmosphäre:
-Verwende dramatische filmische Lichtstrahlen, die durch die flaschenförmige Öffnung strömen. Das zentrale Licht soll golden, warm und fast spirituell wirken, mit weichen volumetrischen Strahlen, die durch Zweige, Morgennebel und Blätter dringen. Die Luft soll subtilen Dunst, schwebenden Staub und atmosphärisches Glühen enthalten. Die Beleuchtung muss malerisch, aber hyperreal wirken, mit einem Premium-Wein-Werbe-Finish.
-
-Weinidentität und Emotion:
-Das Bild soll die emotionale Essenz des Beaujolais Nouveau vermitteln:
-frische Ernte,
-freudige Vorfreude,
-französische Landromantik,
-saisonale Veröffentlichung,
-junge Weinvitalität,
-künstlerische Tradition,
-natürlicher Ursprung.
-Es soll festlich, aber elegant, lebendig, aber raffiniert wirken. Die Gesamtwelt soll die Idee hervorrufen, dass dieser Wein aus Land, Licht und Erntemagie geboren ist.
-
-Markenintegration:
-Platziere das Georges-Duboeuf-Branding geschmackvoll im leuchtenden Zentrum oder in der unteren mittleren Komposition, integriert wie eine Premium-Weinkampagne. Falls ein Etikettenelement oder Emblem erscheint, soll es elegant und zurückhaltend wirken. Die Marke soll niemals die Landschaftsmagie überstrahlen. Der visuelle Held ist das flaschenförmige Portal und die Welt darin.
-
-Typografie:
-Halte die Typografie luxuriös und minimal. Füge elegantes Branding hinzu wie:
-„Georges Duboeuf“
-Optionale Unterstützungszeile:
-„Beaujolais Nouveau“
-Optionale poetische Zeile:
-„The Harvest Awakens“
-Die Typografie soll raffiniert, klassisch, französisch und art-directed wirken, niemals laut oder billig.
-
-Farbpalette:
-tiefes Waldgrün,
-moosige Schattentöne,
-goldener Sonnenaufgang,
-warmes Ernte-Bernstein,
-frisches Weinberggrün,
-weiches Nebelweiß,
-Erdbraun,
-subtile weinrote Akzente.
-Die Palette soll reich, natürlich, premium und emotional leuchtend wirken.
-
-Stimmung:
-poetisch, sakral, französisch, erntegetrieben, leuchtend, filmisch, natürlich, luxuriös, mystisch, terroir-fokussiert, elegant, Premium-Weinkampagnen-Qualität.
-
-Rendering:
-hyperrealistische Luxus-Werbefotografie, filmische französische Landumgebung, flaschenförmige natürliche Portalkomposition, volumetrische Lichtstrahlen, Premium-Atmosphärendunst, ultradetailliertes Laub und Moos, glühende Beaujolais-Weinberglandschaft, Wein-Kampagnen-Finish von Weltklasse, 8k, Meisterwerk.
-
-Negativer Prompt:
-buchstäbliche im Wald schwebende Flasche, generisches Fantasy-Portal, überladene Komposition, billiger Weinwerbelook, flache Beleuchtung, schwache Flaschensilhouette, zufällige Landschaft, detailarmes Laub, Cartoon-Wald, übermäßiger Text, moderne urbane Elemente, plastisch aussehende Umgebung
+——————
+Ersetzen durch: eisgekühltes Limetten-Kokos-Getränk, ein Becher erfrischendes Kokosgetränk in hellem Blaugrün
+Für Social-Bild: als Sommergetränk-Empfehlungsbild, weiterhin mit einzelnem Becher und viel Weißraum
+Muss erscheinen: klares Becheretikett, mit von Eiskristallen, Dampf und Nebel getragener Leichtigkeit
+Größe: Hochformat 9:10
 ```
 
 </details>
@@ -133,7 +65,7 @@ buchstäbliche im Wald schwebende Flasche, generisches Fantasy-Portal, überlade
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMutsKxbAAAGpmc.jpg" width="700" alt="Magisches Beaujolais-Weinportal">
+<img src="https://image.moge.ai/prompt_media/HMy4JVVboAE0du-.jpg" width="700" alt="Erfrischende, Transluzente Getränke-Ästhetik">
 </div>
 
 <br>
@@ -142,35 +74,35 @@ buchstäbliche im Wald schwebende Flasche, generisches Fantasy-Portal, überlade
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2074943088544612551) | 2026-07-08 |
+| [小小东](https://x.com/xiaoxiaodong01) | [X / Twitter](https://x.com/xiaoxiaodong01/status/2075236593900920914) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074943088544612551)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2075236593900920914)**
 
 </div>
 
 ---
 
-### No. 2: Technische Blaupause eines Sportwagens
+### No. 2: Botanisches Poster im kindlichen Scherenschnitt-Stil
 
 ![Kategorie: Kreative Visuals](https://img.shields.io/badge/Kategorie-Kreative%20Visuals-lightgrey)
 
 #### 📚 Beschreibung
 
-Erzeugt eine technische Blaupause eines futuristischen Sportwagens mit Mehrfachansichten, Bauteilskizzen und Maßangaben.
+Erzeugt ein helles, flächiges Poster mit riesiger Typografie im Hintergrund und einem Gefäß im kindlichen Scherenschnitt-Stil in der Mitte, in klaren, luftigen Farben mit Papiertextur.
 
 #### 🌟 Prompt
 
-Eine technische Zeichnung eines futuristischen Sportwagens im Blaupausen-Stil. Enthalten sind …
+Erzeuge ein helles, sauberes, flächiges Poster rund um ein konkretes Thema. Verwandle zunächst das …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Eine technische Zeichnung eines futuristischen Sportwagens im Blaupausen-Stil. Enthalten sind Strichzeichnungen des Sportwagens aus der Front-, Seiten- und Heckansicht, Explosionsskizzen von Teilen, Bauteilmontagediagramme und Strukturdiagramme demontierter Komponenten. Verwenden Sie zahlreiche Linien und Maßangaben zur Kennzeichnung der Abmessungen jedes Teils, wobei Graustufen die gesamte Skizzenbeziehung ausdrücken. Zeigen Sie neben dem Hauptentwurf auch verstreute Miniaturansichten aus verschiedenen Blickwinkeln.
+Erzeuge ein helles, sauberes, flächiges Poster rund um ein konkretes Thema. Verwandle zunächst das Kernstichwort des Themas in eine Zeile extrem fetter, serifenloser Riesenbuchstaben, die im oberen Bildbereich einen gewaltigen strukturellen Hintergrund bilden; die Buchstaben tragen eine leichte Papiertextur und halbtransparente Druckkörnung, werden von den Bildrändern natürlich angeschnitten und wirken als klare visuelle Wand, ohne dem Hauptmotiv die Aufmerksamkeit zu rauben. Platziere das Motiv nahe der Mittelachse und trage das Themensymbol in einem Gefäß im Stil eines kindlichen Scherenschnitts: Das Gefäß wird durch eine einzige Konturlinie dargestellt, Rand und Boden bilden mit ovalen Linien einen transparenten Raum; heraus ragen dünne, gerade Stäbe, stumpf gerundete Blätter und vereinfachte flächige Blütenformen, wie geschichtetes Schnittpapier, mit sauberen, geometrischen Kanten und leichter handwerklicher Abweichung. Halte die Informationsebene spärlich und verteile um das Motiv kleine Monats-, Nummern- oder Themen-Knotentexte in runder Fettschrift, deren Farben mit den zugehörigen kleinen Formen korrespondieren; darunter bleiben zwei kurze Absätze und eine winzige signaturartige Fußzeile, mit enger, aber noch klarer Buchstaben- und Zeilenabstand, was den Leserhythmus einer verspielten Infografik erzeugt. Leite die Farben aus Jahreszeit, Material und Stimmung des Themas selbst ab: Der Hintergrund trägt eine großflächige, saubere Grundfläche hoher Helligkeit, der Haupttitel nutzt eine helle Strukturfarbe variabler Temperatur, Zweige oder Gerüst des Motivs eine klare, hochgesättigte Stützfarbe, Blüten oder symbolische Flächen wenige helle Akzentfarben, und die kleinen Texte werden aus diesen Akzentfarben zugeteilt; insgesamt bleibt es hell und leicht, mit starkem Luftgefühl, klaren Abstufungen, gesättigt, aber nicht trüb, wobei die Papiertextur nur eine sanfte Haptik liefert, ohne Alterungswirkung. Der Bildfokus liegt im Größenkontrast zwischen dem riesigen Typografie-Hintergrund und dem zentralen Linien-Gefäß sowie in der leichten Ordnung aus kindlichen Formen, Leerraum und kleinen Informationstexten.
 ```
 
 </details>
@@ -178,7 +110,7 @@ Eine technische Zeichnung eines futuristischen Sportwagens im Blaupausen-Stil. E
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMtm9puWcAAhwvJ.jpg" width="700" alt="Technische Blaupause eines Sportwagens">
+<img src="https://image.moge.ai/prompt_media/HMy6Bwaa4AAedd7.png" width="700" alt="Botanisches Poster im kindlichen Scherenschnitt-Stil">
 </div>
 
 <br>
@@ -187,13 +119,13 @@ Eine technische Zeichnung eines futuristischen Sportwagens im Blaupausen-Stil. E
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [can](https://x.com/marmaduke091) | [X / Twitter](https://x.com/marmaduke091/status/2074866077499105416) | 2026-07-08 |
+| [小小东](https://x.com/xiaoxiaodong01) | [X / Twitter](https://x.com/xiaoxiaodong01/status/2075238155301867604) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074866077499105416)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2075238155301867604)**
 
 </div>
 
@@ -298,29 +230,23 @@ Verwendung: Dazibao-Cover für eigene Medien
 
 ---
 
-### No. 5: Gemütlicher Bilderbuch-Illustrationsstil
+### No. 5: Niedliches minimalistisches Vektor-Poster
 
 ![Kategorie: Illustration & IP](https://img.shields.io/badge/Kategorie-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Beschreibung
 
-Erzeugt gemütliche Illustrationen im Stil europäischer Bilderbücher mit handgezeichneten Linien, sanften Pastellfarben und charmanten, gefühlvollen Figuren.
+Erstellt eine niedliche, minimalistische Flat-Vector-Posterillustration mit dicken schwarzen Konturen, geometrischen Formen und Pastell-Farbblöcken.
 
 #### 🌟 Prompt
 
-Ein warmer, gemütlicher Illustrationsstil, inspiriert von zeitgenössischen europäischen Bilderbüchern: --sref …
+Verspielte Flat-Vector-Posterillustration des Referenzbildes, das mit [subject] posiert, in …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Ein warmer, gemütlicher Illustrationsstil, inspiriert von zeitgenössischen europäischen Bilderbüchern:
-
---sref 443117574
-
-Er verbindet ausdrucksstarke handgezeichnete Linien mit sanften Pastellfarben, charmanten Figuren und einladenden Alltagsumgebungen, um Geschichten voller Emotion und Fantasie zu erschaffen.
-
-Perfekt für Kinderbücher, animierte Geschichten, Bildungsinhalte, Bilderbücher, Charakterdesign, gemütliche Alltagsszenen und herzerwärmende Familienabenteuer.
+Verspielte Flat-Vector-Posterillustration des Referenzbildes, das mit [subject] posiert, in [interaction/pose], gekleidet in [outfit], angesiedelt in [environment]. Verwende saubere, dicke schwarze Konturen, einfache abgerundete geometrische Formen, flache, deckende Farbfüllungen, minimale Gesichtsdetails, kleine neutrale Augen, einen ruhigen, ausdruckslosen Gesichtsausdruck, vereinfachte Hände und Körperproportionen, pastellfarbene Farbblöcke, sparsame Konfetti-Kritzeleien, winzige abstrakte Icons, sauberen Negativraum, ein klares grafisches Posterlayout und eine kontrollierte [color palette]. Füge den Namen [TEXT] in fetter, moderner Typografie hinzu, die natürlich in das Posterdesign integriert ist. Stil: niedlicher minimalistischer Flat-Vector, redaktionelle Posterästhetik, kontrastreiche Konturen, glatte geometrische Konstruktion, verspielte, aber saubere Komposition, hochwertiges Grafikdesign, keine Verläufe, keine realistischen Texturen, keine Schatten, nur flache Farben. Seitenverhältnis: Vertikal 3:4.
 ```
 
 </details>
@@ -328,7 +254,7 @@ Perfekt für Kinderbücher, animierte Geschichten, Bildungsinhalte, Bilderbüche
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMt4XqEXkAEcAGV.jpg" width="700" alt="Gemütlicher Bilderbuch-Illustrationsstil">
+<img src="https://image.moge.ai/prompt_media/HMwuJOJa0AAR4mb.jpg" width="700" alt="Niedliches minimalistisches Vektor-Poster">
 </div>
 
 <br>
@@ -337,35 +263,116 @@ Perfekt für Kinderbücher, animierte Geschichten, Bildungsinhalte, Bilderbüche
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [OscarAI](https://x.com/Artedeingenio) | [X / Twitter](https://x.com/Artedeingenio/status/2074884500912218277) | 2026-07-08 |
+| [Saul Goodman](https://x.com/Goodmanprotocol) | [X / Twitter](https://x.com/Goodmanprotocol/status/2075084282024829050) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074884500912218277)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2075084282024829050)**
 
 </div>
 
 ---
 
-### No. 6: Sommerporträt mit Orangensaft
+### No. 6: Schwebende Gourmet-Spaghetti-Explosion
 
 ![Kategorie: Fotografie & Bild](https://img.shields.io/badge/Kategorie-Fotografie%20%26%20Bild-lightgrey)
 
 #### 📚 Beschreibung
 
-Ultrarealistisches Lifestyle-Porträt einer fröhlichen jungen Frau mit eisgekühltem Orangensaft unter blauem Sommerhimmel.
+Erstellt ein luxuriöses Gourmet-Poster mit einer Vintage-Gabel, die Spaghetti anhebt, während Zutaten in einer schwebenden Explosion vor minimalem dunklem Hintergrund schweben.
 
 #### 🌟 Prompt
 
-Ultrarealistisches Lifestyle-Porträt einer fröhlichen jungen Frau mit heller Porzellanhaut, mittellangem …
+Erstelle ein ultra-premium Gourmet-Poster, das sich auf die \*\*Mikrosekunde konzentriert, in der eine Gabel …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Ultrarealistisches Lifestyle-Porträt einer fröhlichen jungen Frau mit heller Porzellanhaut, mittellangem glattem schwarzem Haar mit zarten, vom Wind sanft verwehten Curtain-Bangs, strahlendem echtem Lächeln, mandelförmigen dunkelbraunen Augen und natürlichem sanftem Make-up. Sie trägt ein übergroßes weißes Grafik-T-Shirt mit bunten Landschaftsdrucken, eine zarte silberne Halskette mit einem kleinen grünen Schmetterlingsanhänger und einen weißen kabellosen Ohrhörer. Lässig hält sie einen transparenten Becher mit eisgekühltem Orangensaft, braunem Strohhalm und einem niedlichen lächelnden Gesichtslogo. Aufgenommen aus einer dramatischen Weitwinkel-Untersicht vor einem klaren blauen Himmel, beleuchtet vom hellen natürlichen Mittagslicht mit weichen Schatten und lebendigen Farben. Frische, jugendliche, unbeschwerte Sommeratmosphäre, spontane Lifestyle-Fotografie, minimalistische Komposition, natürliche Hauttextur, realistische Haarsträhnen, HDR, filmische Farbabstimmung, DSLR-Qualität, scharfer Fokus, ultra-fotorealistisch, Editorial-Stil, Meisterwerk, 8K.
+Erstelle ein ultra-premium Gourmet-Poster, das sich auf die **Mikrosekunde konzentriert, in der eine Gabel Pasta nach oben hebt und die Zutaten in eine schwebende, gleitende Komposition explodieren**, wodurch ein einfaches Gericht in eine skulpturale Essensexplosion verwandelt wird. Das Bild soll elegant, dramatisch und editorial wirken, mit einer einzigen verfeinerten Gabel als zentraler struktureller Achse und einer wunderschön kontrollierten Masse aus Spaghetti, Tomatensauce, Basilikum, Gewürzen und winzigen Tröpfchen oder Krümeln, die in einem anmutigen schwebenden Moment nach oben und außen hervorbrechen. Gabel und Zutaten müssen tief verbunden bleiben: Die Pasta wird von der Gabel gehoben, und die umgebenden schwebenden Stränge und Zutaten sind die natürliche Fortsetzung dieser Hebebewegung. Das gesamte Bild muss luxuriös, dynamisch, taktil und visuell unvergesslich wirken.
+
+Hauptkomposition:
+Verwende eine minimalistische vertikale Komposition mit einer **Vintage-Gabel** als zentraler Heldenstruktur. Die Gabel soll vom oberen Bereich eintreten oder vertikal in der Mitte stehen und aktiv eine gedrehte Portion Spaghetti anheben. Um den Pasta-Kern an der Gabel herum sollen mehrere Stränge, Saucenspuren, Basilikumblätter, Gewürzpartikel und winzige Zutatenfragmente in der Luft schwebend erscheinen und einen kontrollierten **schwebenden Ausbruch** bilden. Die Komposition muss explosiv, aber elegant wirken, mit starkem Negativraum und einer sehr lesbaren Silhouette.
+
+Gabel-Hebe-Ausbruch-Konzept:
+Dies ist die Schlüsselrichtung:
+die **Gabel hebt die Pasta im schönsten Augenblick**,
+die zentrale Pasta-Masse bleibt um die Gabelzinken gewickelt,
+mehrere Stränge strecken sich nach oben und außen,
+einige Nudeln bogen sich in eleganten Kurven nach unten,
+winzige Saucentröpfchen und Gewürzstaub schweben umher,
+kleine Basilikumblätter oder Garnierelemente schweben natürlich in der Nähe,
+der gesamte Ausbruch muss schwerelos, skulptural und physisch glaubwürdig wirken.
+Er soll nicht chaotisch oder unordentlich aussehen. Er soll sich wie eine luxuriöse Zeitlupen-Essensexplosion anfühlen.
+
+Essensrealismus:
+Rendere die Pasta und Zutaten mit exquisitem Realismus:
+glänzende Tomatensauce,
+elastische Spaghettistränge,
+weicher Glanz gekochter Pasta,
+feine Gewürzkörner,
+frische Basilikumtextur,
+winzige Saucentröpfchen,
+subtiler Ölglanz,
+natürliche Saucendicke.
+Das Essen muss frisch angerichtet, duftend, premium und höchst appetitlich wirken.
+
+Gabelrealismus:
+Die Gabel muss taktil und verfeinert wirken:
+gealtertes Silber oder antikes gebürstetes Metall,
+präzise Zinkendetails,
+weiche Patina,
+elegantes Metallgewicht,
+sanfte Kantenglanzlichter,
+premium echte Metallreflexionen.
+Die Gabel soll wie ein echtes luxuriöses Stillleben-Objekt wirken, nicht wie billiges Besteck.
+
+Schwebendes Bewegungsdetail:
+Betone das Gefühl der **schwebenden Explosion** mit Zurückhaltung:
+feine schwebende Krümel,
+winzige schwebende Gewürzpartikel,
+schlanke Pastastränge in der Luft,
+subtile Saucenspritzerbögen,
+Mikrotröpfchen, die das Licht einfangen,
+weiche Bewegung, in einem perfekten Augenblick eingefroren.
+Die schwebenden Elemente müssen die zentrale Pasta an der Gabel unterstützen, nicht davon ablenken.
+
+Beleuchtung:
+Verwende eine **äußerst delikate cineastische Gourmet-Beleuchtung**:
+weiches gerichtetes Oberlicht,
+sanfte Glanzlichter an den Gabelkanten,
+klarer Glanz auf saucenüberzogenen Nudeln,
+feiner Mikrokontrast auf schwebenden Partikeln,
+kontrollierter Schatten unter der Hauptpasta-Masse,
+sanfter Übergang in den dunklen Hintergrund.
+Die Beleuchtung muss luxuriös, taktil und weich wirken und sowohl Essen als auch Metall wunderschön enthüllen.
+
+Hintergrund:
+Halte den Hintergrund **äußerst minimalistisch**, mit tiefem Anthrazit-Schwarz oder Stein-Schwarz mit subtiler matter Textur. Kein Durcheinander, keine zusätzlichen Requisiten, keine Tischszene. Lass die Gabel und die schwebende Pasta-Explosion das Bild dominieren.
+
+Typografie:
+Füge einen verfeinerten minimalistischen Titel in eleganten gesperrten Buchstaben hinzu, leicht im Negativraum platziert. Die Typografie soll editorial und premium wirken, niemals schwer. Falls nötig, verwende einen kurzen Titel wie:
+„SPAGHETTI AL POMODORO“
+
+Farbpalette:
+tiefes Anthrazit-Schwarz,
+gealtertes Silber,
+warmes Tomatenrot,
+goldene Pastatöne,
+frisches Basilikumgrün,
+subtile Bernsteinglanzlichter.
+Die Palette soll reich, dramatisch und premium wirken.
+
+Stimmung:
+schwebend, explosiv, gourmet, editorial, luxuriös, taktil, dramatisch, elegant, Zeitlupen-Essensskulptur.
+
+Rendering:
+hyperrealistische Food-Fotografie, luxuriöses editoriales Stillleben, ultra-detaillierter schwebender Pasta-Ausbruch, verfeinertes antikes Gabelmaterial, minimalistischer dunkler Hintergrund, weiche cineastische Gourmet-Beleuchtung, Frozen-Motion-Komposition, 8k, Weltklasse-Food-Kampagnenqualität.
+
+Negativ-Prompt:
+unordentliches Essenschaos, billiges Restaurantfoto, flache Beleuchtung, überladene Requisiten, plastikartig aussehende Gabel, schwache schwebende Struktur, detailarme Nudeln, billiger fettiger Look, beiläufiger Küchenschnappschuss, schwere Typografie
 ```
 
 </details>
@@ -373,7 +380,7 @@ Ultrarealistisches Lifestyle-Porträt einer fröhlichen jungen Frau mit heller P
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMuD3GSaAAEdAKp.jpg" width="700" alt="Sommerporträt mit Orangensaft">
+<img src="https://image.moge.ai/prompt_media/HMzT_4nbcAAA0GS.jpg" width="700" alt="Schwebende Gourmet-Spaghetti-Explosion">
 </div>
 
 <br>
@@ -382,121 +389,124 @@ Ultrarealistisches Lifestyle-Porträt einer fröhlichen jungen Frau mit heller P
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [Kashberg](https://x.com/Kashberg_0) | [X / Twitter](https://x.com/Kashberg_0/status/2074897053017403586) | 2026-07-08 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2075266659422715961) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074897053017403586)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2075266659422715961)**
 
 </div>
 
 ---
 
-### No. 7: Ramen-Drachen-Werbeposter
+### No. 7: Luxusuhr-Poster in Unterwasserschaum
 
 ![Kategorie: Werbung & Produkt](https://img.shields.io/badge/Kategorie-Werbung%20%26%20Produkt-lightgrey)
 
 #### 📚 Beschreibung
 
-Erzeugt ein ultra-premium Food-Poster, auf dem Rindfleisch-Ei-Ramen mit eingelegtem Kohl aus der Schale aufsteigt und sich in einen majestätischen chinesischen Drachen aus Nudeln, Brühe und Dampf verwandelt.
+Erzeugt ein Premium-Werbeposter einer luxuriösen Taucheruhr, schwebend in einer Explosion aus weißem Schaum und Unterwasser-Mikrobläschen, in Hochgeschwindigkeit eingefangen.
 
 #### 🌟 Prompt
 
-Erstelle ein ultra-premium Werbeposter für die Marke Oulaolao, das einen Rindfleisch-Ei-Ramen mit eingelegtem …
+Erstelle ein ultra-premium \*\*Werbeposter im Hochgeschwindigkeitslabor-Stil\*\* für die \*\*Rolex Submariner\*\*, …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Erstelle ein ultra-premium Werbeposter für die Marke Oulaolao, das einen Rindfleisch-Ei-Ramen mit eingelegtem Kohl zeigt, der sich in einen majestätischen chinesischen Drachen verwandelt. Das Bild soll sich wie eine vollständige High-End-Essszene anfühlen: zurückhaltend in der Komposition, luxuriös im Styling, aber kühn und explosiv im Geschmacksausdruck. Der Ramen-Drache muss direkt aus der Schale selbst hervorwachsen, tief verschmolzen mit Nudeltextur, Brühenbewegung, eingelegtem Kohl, Rindfleischscheiben, der Fülle des Eies, Chiliöl, Dampf und Hitze. Füge ein edles Paar Stäbchen und eine Stäbchenablage hinzu, um die elegante Essatmosphäre zu vervollständigen.
+Erstelle ein ultra-premium **Werbeposter im Hochgeschwindigkeitslabor-Stil** für die **Rolex Submariner**, fotografiert wie in einem Flüssigkeitsforschungsstudio der Weltklasse im exakten Mikrosekundenmoment eines heftigen Unterwasser-Druckausbruchs. Die Uhr muss das absolute Heldenobjekt bleiben: ikonisch, präzise, luxuriös und sofort als Rolex Submariner erkennbar. Um die Uhr herum sollte eine hochkontrollierte Explosion aus **dichtem, weiß werdendem Unterwasserschaum, komprimierten Mikrobläschenwolken und druckgetriebener Flüssigkeitsturbulenz** sein, mit extremer Verschlusspräzision eingefangen. Der weiße Schaum muss physisch echt wirken und natürlich durch Unterwasserkraft erzeugt, nicht dekorativ. Er sollte die äußere Struktur der Uhr umhüllen, besonders um Gehäuse, Lünette, Armbandverbindungen und Teile der Glaskante, mit **einer sehr kleinen und eleganten Menge natürlicher Verdeckung, die begrenzte Bereiche des Zifferblattumfangs überquert**, um die Unterwasserinteraktion glaubwürdiger und näher an der Hochgeschwindigkeits-Experimentalfotografie zu machen.
 
 Hauptkomposition:
-Verwende eine vertikale Premium-Food-Poster-Komposition mit klarem Negativraum und einem kontrollierten warmen Hintergrund. Platziere eine elegante Oulaolao-Ramen-Schale im unteren Zentrum als Hauptprodukt. Die Schale soll edel, markiert und appetitlich wirken, mit sichtbar reichhaltigem und dampfendem Ramen darin. Aus der Schale steigen die Nudeln und die Brühe empor und verwandeln sich in einen dynamischen chinesischen Drachen, der die obere Hälfte der Komposition einnimmt. Im unteren Vordergrund platziere ein Paar Premium-Stäbchen, die ordentlich auf einer kleinen Basis ruhen, sorgfältig ausgerichtet, sodass die Szene wie ein vollständiges und bewusstes Fine-Dining-Arrangement wirkt.
+Verwende eine zentrierte Heldenkomposition mit der **Rolex Submariner** nach vorne gerichtet in der Mitte des Rahmens, vergrößert und monumental, den größten Teil des Bildes vertikal einnehmend. Die Uhr sollte in einer Tiefwasser-Druckkammer schwebend wirken. Um sie herum baue einen dichten, skulpturalen Halo aus weißem belüftetem Wasser und Blasenblüte auf, besonders konzentriert nahe der oberen und unteren Hälfte und den seitlichen Kanten des Gehäuses. Das Zifferblatt bleibt der Fokuspunkt, darf aber nicht mehr perfekt isoliert erscheinen; stattdessen sollten Teile der Außenkante von weiß werdendem Schaum und komprimierten Blasen geküsst werden für einen natürlicheren untergetauchten Look.
 
-Markenidentität:
-Verwende den Markennamen Oulaolao anstelle von HOTOL. Das Branding der Schale soll „Oulaolao“ auf edle, premiumhafte Weise lesen, passend zu einer modernen, gehobenen chinesischen Nudelmarke. Die Präsenz des Logos soll geschmackvoll und klar sein, niemals überdimensioniert oder billig.
+Hochgeschwindigkeitslabor-Konzept:
+Das Bild sollte sich wie ein Luxuszeitmesser anfühlen, der in einem Labor für Flüssigkeitsdynamik mit ultraschneller Stroboskop-Aufnahme fotografiert wurde:
+mikrosekunden-eingefrorene Wasserblüte,
+rasiermesserscharfe Blasenkanten,
+komprimierte weiße Unterwasserturbulenz,
+dichte schaumige Druckwolken,
+feine schwebende Tröpfchen,
+kontrollierter Flüssigkeitsrückstoß,
+klare Trennung zwischen scharfer Uhrengeometrie und chaotischer Flüssigkeitskraft.
+Alles sollte technisch perfekt, elegant und physisch überzeugend wirken, wie eine wissenschaftliche Aufnahme, verwandelt in Luxuswerbung.
 
-Zentrale visuelle Logik:
-Der Drache darf sich nicht wie ein separates Fantasiewesen anfühlen, das über der Schale schwebt. Er muss physisch aus dem Ramen selbst geboren erscheinen. Kopf, Hals, Barteln, Mähne, Kamm, Rückgrat und Körper müssen alle aus Nudeln, Brühe, Dampf, Chiliöl und Zutaten bestehen. Der Betrachter soll sofort verstehen, dass der Drache die Seele des Ramen ist, die aus der Schale aufsteigt.
+Schaum- und Blasenverhalten:
+Das visuelle Schlüsselelement ist der **dichte, weiß werdende Wasserschaum** um die Uhr. Dieser Schaum sollte sich anfühlen:
+druckgeboren,
+dick und belüftet,
+wolkenartig aber unter Wasser,
+voll mit Mikrobläschen,
+sanft leuchtend,
+die Metalloberflächen natürlich umhüllend.
+Füge hinzu:
+ultrafeinen Mikrobläschennebel nahe der Glaskante,
+dickere weiße Blasenblüte um Armband und Lünette,
+größere isolierte Luftkugeln, die nach außen driften,
+komprimierten Flüssigkeitsnebel um die Uhrensilhouette.
+Der weiß werdende Schaum muss leicht über winzige Teile der Lünettenkante und des äußeren Zifferblattbereichs kreuzen, aber nur minimal und geschmackvoll.
 
-Drachen-Zutaten-Verschmelzung:
-Baue den Drachen mit tiefer Lebensmittelintegration:
-der Körper geformt aus geschichteten, elastischen goldenen Nudeln,
-die Barteln und die Mähne aus feinen Nudelsträngen, Dampfbändern und heißen Brühenspuren,
-der Drachenkamm und die fließenden Flossen geformt aus Suppenspritzern und Chiliöl-Bögen,
-eingelegter Kohl natürlich in die Körpertextur und den Mähnenrhythmus eingewoben,
-Rindfleischscheiben eingebettet in reichhaltigere Abschnitte um Hals und Körper,
-Eitexturen und das Glühen des Dotters integriert nahe dem unteren Übergang von der Schale zum Drachen,
-kleine Chiliflocken, Frühlingszwiebel-Akzente und Öltröpfchen, die die Bewegung unterstützen.
-Der Drache soll essbar, heiß, aromatisch und lebendig vor Geschmack wirken, nicht skulptural oder künstlich.
+Zifferblatt-Interaktion:
+Dies ist entscheidend:
+erlaube, dass **eine kleine Menge weichen weißen Schaums und Blasennebels den äußeren Umfang des Zifferblatts und die Glaskante überlappt**,
+verdunkle leicht winzige Randzonen,
+halte Rolex-Branding, Zeiger und Zifferblattarchitektur lesbar,
+vermeide einen völlig sauberen Katalog-Look.
+Das Ziel ist realistisches Untertauchen mit kontrollierter teilweiser Maskierung.
 
-Verfeinerung der Essszene:
-Füge ein Paar edler Stäbchen und eine kleine Stäbchenablage im Vordergrund oder unteren Teil des Bildes hinzu, um das Essritual zu vervollständigen. Die Stäbchen sollen elegant und haptisch wirken, etwa aus dunklem Holz, lackiertem Bambus oder dezent poliertem Material. Die Stäbchenablage soll minimalistisch und raffiniert sein. Ihre Platzierung muss die Komposition ausbalancieren und die premiumhafte, gefasste Essatmosphäre verstärken. Sie sollen nicht von der Schale und dem Drachen ablenken, aber das gesamte Bild wie eine fertige Tischszene und nicht wie ein isoliertes Produkt-Rendering wirken lassen.
-
-Zurückhaltende, aber explosive Stimmung:
-Dies ist essenziell. Die Komposition soll ruhig, aufgeräumt und premiumhaft bleiben, mit reichlich Raum zum Atmen und nur wenigen unterstützenden Elementen. Gleichzeitig sollen der Ramen-Drache, die Hitze, der Dampf und die Brühenbewegung kühn, energiegeladen und voller Appetitappeal wirken. Die emotionale Spannung soll aus dem Kontrast zwischen dem kontrollierten Gedeck unten und der dramatischen Speisenverwandlung oben entstehen.
-
-Hitze-, Flüssigkeits- und Partikeleffekte:
-Verwende detaillierte, aber kontrollierte Flüssigkeitseffekte:
-leuchtende Brühenbögen,
-Chiliöl-Glanzlichter,
-schwebende Tröpfchen,
-Dampfbänder,
-Hitzeflimmern,
-Mikro-Gewürzpartikel,
-dezenter goldener Dunst.
-Diese Effekte sollen Aroma, Hitze und Intensität betonen, ohne das Bild unordentlich zu machen. Der Drache soll kraftvoll wirken, aber die visuelle Sprache muss premiumhaft und elegant bleiben.
-
-Produktdetail:
-Die Schale Oulaolao Rindfleisch-Ei-Ramen mit eingelegtem Kohl muss unwiderstehlich aussehen:
-reichhaltige dampfende Nudeln,
-glänzende Brühe,
-heller Chiliöl-Schimmer,
-Detail des eingelegten Kohls,
-Marmorierung der Rindfleischscheiben,
-goldener Eidotter,
-frische Garnitur,
-premiumhaftes Keramikschalen-Finish.
-Das Essen muss extrem detailliert, heiß, begehrenswert und luxuriös wirken.
-
-Drachenform:
-Verwende eine klassische chinesische Drachensilhouette mit langem, schlangenartigem Körper, eleganten Hörnern, fließenden Barteln und dynamischer Aufwärtskrümmung. Der Drache soll edel und energiegeladen wirken, mit starkem visuellem Rhythmus, und dennoch klar aus Ramen-Zutaten und der Energie heißer Suppe gemacht sein.
-
-Hintergrund:
-Halte den Hintergrund minimalistisch und edel, mit warmem neutralem Beige, sanftem Gold oder gedämpften würzigen Bernsteintönen. Der Hintergrund soll das Produkt und den Drachen ohne Überladung unterstützen. Vermeide zusätzliche Requisiten oder unnötige Dekorelemente.
+Uhrenrealismus:
+Rendere die Rolex Submariner mit absoluter Luxusprodukt-Treue:
+perfekter gebürsteter und polierter Stahl,
+präzise Lünettenmarkierungen,
+klare leuchtende Stundenindizes,
+scharfe Mercedes-Zeiger,
+Premium-Saphirglas-Reflexionen,
+detaillierte Gehäusegeometrie,
+hochwertige Armbandartikulation,
+subtiles Metallgewicht und technische Präzision.
+Die Uhr muss teuer, robust und edel wirken, selbst umarmt von turbulentem Weißwasser.
 
 Beleuchtung:
-Verwende Premium-Studiobeleuchtung mit warmen Glanzlichtern auf Brühe, Nudeln, Chiliöl und Keramikoberflächen. Die Schale, die Stäbchen und die Stäbchenablage sollen haptisch und teuer wirken. Der Drache soll durch dezentes Gegenlicht durch Dampf und flüssige Ränder verstärkt werden, das Tiefe und Hitze erzeugt.
+Verwende Elite-Beleuchtung der **Hochgeschwindigkeits-Studio-Flüssigkeitsfotografie**:
+kalte kontrollierte Stroboskopbeleuchtung,
+scharfe Glanzlichter an Stahlkanten,
+tiefer blau-schwarzer Umgebungskontrast,
+subtiles durch Blasen übertragenes Licht,
+Mikrokontrast innerhalb des weißen Schaums,
+saubere Glasreflexionen,
+sanfte leuchtende Modellierung über das Zifferblatt.
+Die Beleuchtung muss präzise, technisch, kalt und luxuriös wirken.
 
-Typografie:
-Halte die Typografie minimalistisch und premiumhaft. Füge bei Bedarf Branding hinzu:
-„Oulaolao“
-Optionale Unterstützungszeile:
-„Rindfleisch-Ei-Ramen mit eingelegtem Kohl“
-Die Typografie soll klar, modern und untergeordnet wirken.
+Hintergrund:
+Halte den Hintergrund extrem minimalistisch und laborsauber, mit einem tiefen aquatischen Gradienten:
+mitternachtsblau,
+dunkles marineblau,
+nahezu schwarzer Unterwasserraum,
+sanfter untergetauchter Dunst.
+Kein Meeresboden, keine Fische, keine Korallen, keine Requisiten. Nur eine luxuriöse experimentelle Leere um die Uhr.
+
+Typografie und Branding:
+Füge ein raffiniertes **offizielles Rolex-Logo** und einen zurückhaltenden Titel wie **SUBMARINER** hinzu. Die Typografie sollte minimalistisch, elegant und in sauberem Negativraum platziert sein. Kein Durcheinander, kein übergroßer Text, kein billiger Sportwerbungsstil.
 
 Farbpalette:
-goldenes Nudelgelb,
-heißer Brühenbernstein,
-würziges Rot-Orange,
-Grün des eingelegten Kohls,
-reiches Rindfleischbraun,
-Eidottergold,
-warmes Dampfweiß,
-sanfter beigefarbener Hintergrund,
-dunkle Holzstäbchen.
-Die Palette soll reich, heiß, edel und appetitlich wirken.
+mitternachtsblau,
+tiefes marineblau-schwarz,
+stahlsilber,
+kalter weißer Schaum,
+klare Blasentransluzenz,
+subtile leuchtende Zifferblattakzente.
+Die Stimmung sollte kühl, präzise, männlich und elitär bleiben.
 
 Stimmung:
-zurückhaltend, aber kühn, premium, heiß, appetitlich, filmisch, ikonisch, gehobene chinesische Küche, luxuriös, dynamisch, begehrenswert, Weltklasse-Food-Kampagnenqualität.
+Hochgeschwindigkeitslabor, Unterwasserdruck, konstruierter Luxus, wissenschaftliche Präzision, kontrollierte Gewalt, Tiefsee-Eleganz, Premium-Werbung für Schweizer Uhren.
 
 Rendering:
-hyperrealistische kommerzielle Food-Fotografie, ultradetaillierte Nudeltextur, premiumhaftes Rendering der Oulaolao-Schale, chinesische Drachensilhouette aus Ramen-Zutaten geformt, elegante Brühen- und Chiliöl-Bewegung, verfeinerte Dampf- und Partikeleffekte, Premium-Stäbchen und Stäbchenablage, vollständige Essszenen-Komposition, hochwertiges Werbe-Finish, 8k, Meisterwerk.
+hyperrealistische Luxusprodukt-Fotografie, Hochgeschwindigkeits-Labor-Flüssigkeitsaufnahme, ultra-detaillierter weiß werdender Unterwasserschaum, dichte Mikrobläschen-Simulation, zurückhaltende teilweise Zifferblattverdeckung, Premium-Uhren-Makrorealismus, kinematische kalte Beleuchtung, 8k, Werbekampagnenqualität der Weltklasse.
 
-Negativer Prompt:
-separater Drache über der Schale, generischer Fantasiedrache, westliche Drachenanatomie, unordentliche Requisiten, überladener Esstisch, billige Instant-Nudel-Werbung, plastikartig aussehende Suppe, unverbundene Nudeln, übermäßige Hintergrundelemente, detailarme Zutaten, Cartoon-Essen, schwaches Branding, Einweg-Stäbchen-Look, schlechte Kompositionsbalance
+Negativ-Prompt:
+perfekt saubere isolierte Uhr, völlig unverdecktes Zifferblatt, zufälliges Limonadenzischen, Seifenschaum, unordentliches unkontrolliertes Spritzen, Cartoon-Wasser, verzerrte Uhrenproportionen, Plastikmetall, unübersichtliche Unterwasserumgebung, Fische, Korallen, Taucher, übermäßiger Text, detailarme Blasen, billiges Sportposter
 ```
 
 </details>
@@ -504,7 +514,7 @@ separater Drache über der Schale, generischer Fantasiedrache, westliche Drachen
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMuKaEybMAAyVJG.jpg" width="700" alt="Ramen-Drachen-Werbeposter">
+<img src="https://image.moge.ai/prompt_media/HMytxF1bwAA4PiE.jpg" width="700" alt="Luxusuhr-Poster in Unterwasserschaum">
 </div>
 
 <br>
@@ -513,67 +523,36 @@ separater Drache über der Schale, generischer Fantasiedrache, westliche Drachen
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2074904275139068333) | 2026-07-08 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2075224644098109861) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074904275139068333)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2075224644098109861)**
 
 </div>
 
 ---
 
-### No. 8: Cyber-Porträt-Poster mit Sinnesstörung
+### No. 8: Sonniger Sommer-Oase
 
 ![Kategorie: Kreative Visuals](https://img.shields.io/badge/Kategorie-Kreative%20Visuals-lightgrey)
 
 #### 📚 Beschreibung
 
-Erzeugt ein vertikales, konzeptionelles Cyber-Porträt-Poster, das ein ruhiges Gesicht mit Neuronensignalen, Datenströmen und Flüssigglas in kühler Kunstausstellungs-Ästhetik verschmilzt.
+Erzeugt eine leuchtende, sonnige Sommerszene mit einem beliebigen Motiv im goldenen Licht, Sandstränden und azurblauem Himmel in einer anpassbaren hellen Farbpalette.
 
 #### 🌟 Prompt
 
-Erzeuge ein vertikales, konzeptionelles Cyber-Porträt-Poster im Format 3:4 zum Thema «[THEMENNAME]». …
-
-<details>
-<summary>Vollständigen Prompt anzeigen</summary>
-
 ```
-Erzeuge ein vertikales, konzeptionelles Cyber-Porträt-Poster im Format 3:4 zum Thema «[THEMENNAME]».
-
-Hauptmotiv ist ein futuristisches Porträt als Halbfigur oder Profilansicht; die Person ist ruhig, zurückhaltend und geheimnisvoll, ohne übertriebene Mimik. Verschmelze das Porträt mit abstrakten Systemen: Neuronensignale, Datenströme, Lichtstrahlen, Flüssigglas, Frequenzwellen, Nachbilder, blaue Energie, transparente Kristalle, pflanzliche Nerven, Glitch-Scan, visuelles Rauschen.
-
-Das Ganze ist kein gewöhnlicher Sci-Fi-Avatar und kein Spielfiguren-Poster, sondern ein anspruchsvolles Poster einer futuristischen Kunstausstellung, wie ein visuelles Experiment zu «Sinnessystem, Bewusstseins-Upload, Erinnerungsdrift, Signalstörung, Datenkörper».
-
-Visuelle Anforderungen:
-1. Das Porträt muss klar sein, mit starken Konturen und Licht-Schatten.
-2. Verwende Blau, Cyan, Violett, Magenta, Silberweiß und Schwarz als Hauptfarben.
-3. Der Augen- oder Kopfbereich kann von Lichtstrahlen, Daten, Flüssigkeit, Pflanzenfasern, Glasstrukturen, Frequenzlinien durchdrungen werden.
-4. Füge etwas Tech-Interface, kleine Anmerkungen, Koordinatenlinien, Scanlinien, Parameteretiketten hinzu.
-5. Das Bild soll anspruchsvoll, kühl, futuristisch, geheimnisvoll wirken, mit starkem Magazin-Cover- und Ausstellungsposter-Gefühl.
-6. Kein billiger Cyberpunk, keine E-Commerce-Anmutung, keine echten Marken-Logos, kein Wasserzeichen, kein QR-Code.
-
-Typografie:
-Chinesischer Haupttitel: «[CHINESISCHER HAUPTTITEL]»
-Englischer Titel: «[ENGLISCHER TITEL]»
-Chinesischer Kurzsatz: «[CHINESISCHER KURZSATZ]»
-Falls ein Datum erscheint, schreibe nur das heutige Datum «2026.07.08»
-Das Chinesische muss klar und korrekt sein, ohne beschädigte Zeichen oder Fehler. Englisch nur unterstützend, nicht dominierend.
-
-Die Komposition kann variieren:
-große Profil-Nahaufnahme, frontale Halbfigur, gesenkter Kopf mit geschlossenen Augen, von Lichtstrahl verdeckte Augen, in Flüssigglas gehüllte Figur, in pflanzliche Nerven verwandeltes Haar, aus der Dunkelheit von Signalen beleuchtete Figur, von bewegten Lichtlamellen zersplitterte Figur.
-
-Endergebnis: ein vollständiges Cyber-Porträt-Kunstposter mit starker visueller Wirkung, anspruchsvoller Typografie, geeignet zum ästhetischen Teilen in sozialen Medien.
+Eine Darstellung von [SUBJECT] im Stil einer sonnigen Sommer-Oase, in goldenes Licht und lebendige Energie getaucht. Integriere Elemente wie Sandstrände und azurblaue Himmel in einer hellen Palette aus [COLOR1] und [COLOR2] --ar 3:2 --v 8.1
 ```
-
-</details>
 
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMtQfl6acAAeUxm.jpg" width="700" alt="Cyber-Porträt-Poster mit Sinnesstörung">
+<img src="https://image.moge.ai/prompt_media/HMyoK7PXwAAHsnp.jpg" width="700" alt="Sonniger Sommer-Oase">
 </div>
 
 <br>
@@ -582,13 +561,13 @@ Endergebnis: ein vollständiges Cyber-Porträt-Kunstposter mit starker visueller
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [楊哥 \| Yang Onchain](https://x.com/YangOnchain) | [X / Twitter](https://x.com/YangOnchain/status/2074840576092942420) | 2026-07-08 |
+| [LudovicCreator](https://x.com/LudovicCreator) | [X / Twitter](https://x.com/LudovicCreator/status/2075218448712388653) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074840576092942420)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2075218448712388653)**
 
 </div>
 
@@ -706,23 +685,29 @@ Erzeuge um ein beliebiges Thema ein Text-Bild-Visual mit starker Informationshie
 
 ---
 
-### No. 11: 3D-Papierschnitt-Länderillustration
+### No. 11: Gemütlicher Bilderbuch-Illustrationsstil
 
 ![Kategorie: Illustration & IP](https://img.shields.io/badge/Kategorie-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Beschreibung
 
-Erstellt eine lebendige, mehrschichtige 3D-Papierschnitt-Volkskunstillustration, die Wahrzeichen, Kultur und Alltag eines Ortes feiert.
+Erzeugt gemütliche Illustrationen im Stil europäischer Bilderbücher mit handgezeichneten Linien, sanften Pastellfarben und charmanten, gefühlvollen Figuren.
 
 #### 🌟 Prompt
 
-Erstelle eine lebendige 3D-Papierschnitt-Volkskunstillustration von [LAND/ORT], die seine ikonischen …
+Ein warmer, gemütlicher Illustrationsstil, inspiriert von zeitgenössischen europäischen Bilderbüchern: --sref …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Erstelle eine lebendige 3D-Papierschnitt-Volkskunstillustration von [LAND/ORT], die seine ikonischen Landschaften, historischen Wahrzeichen, traditionelle Architektur, einheimische Pflanzen, kulturelle Symbole und das alltägliche Straßenleben zeigt. Verwende geschichtetes, strukturiertes Papier, handgefertigte Details, warme erdige Farben, leuchtende regionale Akzente und einen verspielten Tiefeneffekt. Füge eine fette Serifentypografie mit dem Ortsnamen oben, einen weichen Papierhimmel-Hintergrund und eine reiche Komposition hinzu, die das einzigartige Erbe und die Identität des Ortes feiert.
+Ein warmer, gemütlicher Illustrationsstil, inspiriert von zeitgenössischen europäischen Bilderbüchern:
+
+--sref 443117574
+
+Er verbindet ausdrucksstarke handgezeichnete Linien mit sanften Pastellfarben, charmanten Figuren und einladenden Alltagsumgebungen, um Geschichten voller Emotion und Fantasie zu erschaffen.
+
+Perfekt für Kinderbücher, animierte Geschichten, Bildungsinhalte, Bilderbücher, Charakterdesign, gemütliche Alltagsszenen und herzerwärmende Familienabenteuer.
 ```
 
 </details>
@@ -730,7 +715,7 @@ Erstelle eine lebendige 3D-Papierschnitt-Volkskunstillustration von [LAND/ORT], 
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMtBRexXAAA1QEs.jpg" width="700" alt="3D-Papierschnitt-Länderillustration">
+<img src="https://image.moge.ai/prompt_media/HMt4XqEXkAEcAGV.jpg" width="700" alt="Gemütlicher Bilderbuch-Illustrationsstil">
 </div>
 
 <br>
@@ -739,41 +724,35 @@ Erstelle eine lebendige 3D-Papierschnitt-Volkskunstillustration von [LAND/ORT], 
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [NoorAI](https://x.com/noorwithwifi) | [X / Twitter](https://x.com/noorwithwifi/status/2074823826115010620) | 2026-07-08 |
+| [OscarAI](https://x.com/Artedeingenio) | [X / Twitter](https://x.com/Artedeingenio/status/2074884500912218277) | 2026-07-08 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074823826115010620)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074884500912218277)**
 
 </div>
 
 ---
 
-### No. 12: Sommer-Editorial mit Riesen-Wassermelone
+### No. 12: Goldenes Beauty-Porträt
 
 ![Kategorie: Fotografie & Bild](https://img.shields.io/badge/Kategorie-Fotografie%20%26%20Bild-lightgrey)
 
 #### 📚 Beschreibung
 
-Fotorealistisches Studio-Fashion-Porträt einer jungen Frau an einer riesigen Wassermelonenscheibe im Stil einer luxuriösen Frucht-Kampagne mit Sommerlaune.
+Ultrarealistisches Luxus-Mode-Porträt einer eleganten schwarzen Frau mit goldenem Schmuck und filmischer Studiobeleuchtung vor schwarzem Hintergrund.
 
 #### 🌟 Prompt
 
-Verwende das hochgeladene Bild als Kompositionsreferenz und erstelle ein neues fotorealistisches Studio-Bild …
+Ultrarealistisches Luxus-Mode-Porträt einer eleganten schwarzen Frau mit makelloser, tief mattierter …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Verwende das hochgeladene Bild als Kompositionsreferenz und erstelle ein neues fotorealistisches Studio-Bild im Modestil mit einer anderen jungen Frau mit frischem Erscheinungsbild und anderen Gesichtszügen. Sie hat langes, welliges brünettes Haar, strahlend sonnengeküsste Haut und ein helles, fröhliches Lächeln. Sie trägt ein rot-weißes Vichy-Crop-Top mit passenden hochsitzenden Shorts, weiße Retro-Cat-Eye-Sonnenbrille, filigranen Goldschmuck und ist barfuß.
-
-Sie lehnt sich lässig an eine gigantische realistische Wassermelonenscheibe, die hinter ihr in einem sauberen weißen nahtlosen Studio aufragt. In einer Hand hält sie ein kleines Wassermelonenstück und beißt verspielt hinein, während sie natürlich lacht. Ihre Pose ist entspannt, selbstbewusst und voller Sommerenergie.
-
-Die überdimensionale Wassermelone hat leuchtend rotes Fruchtfleisch, glänzende schwarze Kerne, eine knackig weiße Rinde und eine satt grüne Außenhaut mit realistischer Textur. Weiches Studiolicht erzeugt sanfte Schatten und betont die saftige Frische der Frucht.
-
-Minimalistischer weißer Hintergrund, hochwertige Mode-Editorial-Fotografie, lebendige sommerliche Farbpalette, luxuriöse Frucht-Kampagnen-Ästhetik, ultrarealistische Hauttextur, hochwertige kommerzielle Fotografie, saubere Komposition, fotorealistisch, 8K-Qualität, geringe Schärfentiefe, kein Text, keine Logos, kein Wasserzeichen.
+Ultrarealistisches Luxus-Mode-Porträt einer eleganten schwarzen Frau mit makelloser, tief mattierter Ebenholzhaut, symmetrisch direkt zur Kamera posierend, die Augen sanft geschlossen, ausstrahlend Gelassenheit, Selbstbewusstsein und zeitlose Schönheit. Sie trägt einen aufwendigen handgefertigten metallisch goldenen Kopfschmuck aus zarten, ineinander verwobenen Ketten, die ein elegantes geometrisches Gitter über ihrem Kopf bilden. Reicher metallisch goldener Lidschatten erstreckt sich dramatisch über die Lider mit perfekt verblendetem Schimmer, ergänzt durch skulptural goldene metallische Lippen. Große kreisförmige goldene Statement-Ohrringe hängen anmutig neben ihrem Gesicht, während mehrere geschichtete feine Goldketten natürlich um ihren Hals fallen. Filmische Studiobeleuchtung erzeugt sanfte Glanzlichter und luxuriöse Reflexionen auf Haut und Schmuck, während tiefe Schatten die Gesichtskonturen betonen. Reiner schwarzer nahtloser Hintergrund, ultraminimalistische Komposition, zentrierte Bildeinstellung, redaktionelle Beauty-Fotografie im Vogue-Stil, hochwertige Luxus-Schmuckkampagne, hyperdetaillierte Texturen, makellose Haut, fotorealistisch, HDR, 8K, gestochen scharfer Fokus, hochwertige Modemagazin-Ästhetik, dramatischer Kontrast, weiches Streiflicht, Porträt in Museumsqualität, Meisterwerk, ultrahohe Auflösung.
 ```
 
 </details>
@@ -781,7 +760,7 @@ Minimalistischer weißer Hintergrund, hochwertige Mode-Editorial-Fotografie, leb
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMtIOKhbAAAg7yK.jpg" width="700" alt="Sommer-Editorial mit Riesen-Wassermelone">
+<img src="https://image.moge.ai/prompt_media/HMyxlFrakAA7R1p.jpg" width="700" alt="Goldenes Beauty-Porträt">
 </div>
 
 <br>
@@ -790,100 +769,109 @@ Minimalistischer weißer Hintergrund, hochwertige Mode-Editorial-Fotografie, leb
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [Smiling Khan](https://x.com/AIwithkhan) | [X / Twitter](https://x.com/AIwithkhan/status/2074831464961806703) | 2026-07-08 |
+| [Snow](https://x.com/iamrealsnow) | [X / Twitter](https://x.com/iamrealsnow/status/2075228788334747658) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074831464961806703)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2075228788334747658)**
 
 </div>
 
 ---
 
-### No. 13: Starbucks: Goldenes Dubai bei Nacht
+### No. 13: Lipton-Poster im Kinderbuchstil
 
 ![Kategorie: Werbung & Produkt](https://img.shields.io/badge/Kategorie-Werbung%20%26%20Produkt-lightgrey)
 
 #### 📚 Beschreibung
 
-Erstellt ein luxuriöses Werbeplakat für Starbucks: eine detaillierte goldene Skyline von Dubai bei Nacht steigt aus einer kleinen Keramiktasse zwischen Dampf und schimmernden Partikeln auf.
+Erstellt ein hochwertiges Werbeposter für Lipton-Schwarztee im französischen Kinderbuch-Pastellstil mit einem trinkenden Mädchen neben einem verspielten Krokodil und der markanten Produktflasche.
 
 #### 🌟 Prompt
 
-Erstelle ein ultrapremium Werbeplakat für Starbucks-Kaffee mit dem Thema Dubai bei Nacht, das …
+Erstelle ein ultra-premium Werbeposter für \*\*Lipton Schwarztee-Getränke\*\* in einem \*\*französischen …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Erstelle ein ultrapremium Werbeplakat für Starbucks-Kaffee mit dem Thema Dubai bei Nacht, das hyperrealistische Luxus-Produktfotografie mit einer exquisit detaillierten, handgezeichneten Stadtillustration kombiniert. Das Bild soll grandios, luxuriös, filmisch und äußerst raffiniert wirken, wie eine Kaffeekampagne von Weltklasse, in der ein leuchtendes goldenes Dubai aus einer Premium-Starbucks-Tasse emporsteigt. Die visuelle Priorität muss die Stadt sein, nicht die Tasse: Das Kaffeegefäß soll kleiner und eleganter erscheinen, während die Skyline von Dubai die Komposition mit filigraner Nachtdetaillierung, leuchtender Atmosphäre und außergewöhnlicher Handwerkskunst dominiert.
+Erstelle ein ultra-premium Werbeposter für **Lipton Schwarztee-Getränke** in einem **französischen Pastell-Kinderbilderbuch-Stil**, mit einem Layout inspiriert von einem klassischen kommerziellen Druckposter: eine große illustrierte Geschichtsszene im oberen Bereich, ein fetter Schlagzeilenblock oben rechts und ein sauberes markiertes Fußband unten mit der Produktflasche verankert unten rechts. Das Bild sollte sich wie ein hochwertiges europäisches Kinderbuchcover anfühlen, verschmolzen mit professioneller Getränkewerbung. Die Haupterzählung zeigt **ein kleines Mädchen, das fröhlich Lipton Schwarztee neben einem großen skurrilen Krokodil trinkt**, mit einer weichen Aquarell-Pastell-Atmosphäre, verfeinerten handgemalten Texturen, elegantem Negativraum und starker Posterlesbarkeit. Die **Lipton-Flasche muss realistisch, markiert und kommerziell klar bleiben**, während der Rest der Szene poetisch, kinderfreundlich, sanft und sammelbar wirkt.
 
-Hauptkomposition:
-Verwende ein raffiniertes vertikales Plakatlayout mit einem satten, dunklen Nachthintergrund. Platziere eine kleine Premium-Keramiktasse von Starbucks im unteren Zentrum, auf etwa die Hälfte des bisherigen visuellen Maßstabs verkleinert, sodass sie elegant und zurückhaltend statt dominant wirkt. Die Tasse dient als Quelle der visuellen Magie, während sich die nächtliche Skyline von Dubai nach oben und außen ausbreitet und den Großteil der Komposition einnimmt. Die Stadt soll monumental, aufragend, leuchtend und atemberaubend wirken und wie ein goldener architektonischer Traum aus der Tasse wachsen.
+Posterlayout und Komposition:
+Verwende eine **vertikale Posterkomposition** mit sehr klarer Werbestruktur.
+Oberer Bereich:
+lass offenen blassen Himmel und weichen atmosphärischen Negativraum oben rechts für eine große art-direktierte Schlagzeile.
+Mitte-links / Mittelgrund:
+platziere ein großes sanftes Krokodil als dominante illustrierte Charaktersilhouette, aufrecht stehend oder verspielt lehnend, das einen Großteil der linken und zentralen Komposition einnimmt.
+Unterer-zentraler Vordergrund:
+platziere das kleine Mädchen, das Lipton trinkt, kleiner als das Krokodil, was einen charmanten Größenkontrast und starken Erzählfokus schafft.
+Unterer Bereich:
+füge ein **sauberes horizontales Lipton-gelbes Fußband** hinzu, das die volle Breite des Posters umspannt.
+Untere rechte Ecke:
+platziere eine große realistische **Lipton Schwarztee-Getränkeflasche**, die sich leicht in die illustrierte Szene über dem gelben Band überlappt, wie eine klassische Produkt-Hero-Platzierung in der Druckwerbung.
+Untere Mitte:
+reserviere Platz für einen kurzen geschmackvollen Slogan oder eine Markenzeile.
+Die Komposition muss ausgewogen, ikonisch, hochlesbar und elegant wirken, mit klarer Trennung zwischen Geschichtsillustration, Schlagzeilenzone und Produktmarkenzone.
 
-Tassendesign:
-Verwende eine Premium-Kaffeetasse von Starbucks aus Keramik oder Porzellan mit luxuriöser Materialpräsenz, dezentem Starbucks-Branding, tiefer smaragdgrüner oder dunkel-tannengrüner Glasur, feinen Randdetails und eleganten Reflexen. Die Tasse muss realistisch und erkennbar bleiben, aber visuell zweitrangig. Sie soll wie ein raffiniertes Ausgangsobjekt wirken, nicht wie der Hauptheld. Vermeide jeden Eindruck eines Pappbechers oder eines Getränks zum Mitnehmen.
+Stilrichtung:
+Rendere die Hauptszene in einem ultra-premium **französischen Pastell-Bilderbuch-Illustrationsstil**:
+weiche Aquarelldiffusion,
+gedämpfte Pastellschichtung,
+handgemalte Pinselweichheit,
+sanfte papierartige Textur,
+verfeinertes Konturdesign,
+kinderfreundliches Premium-Animationsgefühl,
+warme poetische Atmosphäre.
+Vermeide billigen Cartoon-Stil, glänzende generische Animation oder übermäßig laute Details. Das Ergebnis sollte kultiviert, weich und zeitlos wirken.
 
-Priorität der Skyline von Dubai:
-Die Skyline von Dubai muss das dominierende visuelle Zentrum sein. Gestalte die Stadt groß, geschichtet, vertikal und außergewöhnlich detailliert, wobei der Großteil der Komposition dem architektonischen Reichtum, leuchtenden Fenstern, feiner Linienführung und leuchtender urbaner Atmosphäre gewidmet ist. Konzentriere dich auf eine ultradetaillierte Darstellung von:
-Burj Khalifa als zentraler dramatischer vertikaler Achse,
-Burj Al Arab,
-Atlantis The Palm,
-Luxus-Hochhaustürmen,
-geschwungener futuristischer Architektur,
-arabischer geometrischer Ornamentik,
-erhöhten urbanen Silhouetten,
-goldbeleuchteter Skyline-Tiefe,
-dichten, aber eleganten Stadtschichten.
-Die Stadt muss unverkennbar Dubai sein, luxuriös, futuristisch und visuell majestätisch.
+Beziehung Mädchen und Krokodil:
+Das Mädchen sollte fröhlich, ausdrucksstark und unschuldig wirken, das Lipton-Getränk natürlich haltend oder trinkend. Sie sollte charmant und lebhaft sein, aber nicht übertrieben. Das Krokodil sollte übergroß, skurril, humorvoll und nicht bedrohlich wirken, mit weicher Anatomie, freundlichen Augen und verspielter Persönlichkeit. Ihre Beziehung sollte überraschend, magisch und liebevoll wirken, als gehörten sie zur selben verträumten illustrierten Welt.
 
-Nachtdetail und architektonischer Reichtum:
-Treibe die Detailtiefe in der nächtlichen Szenerie von Dubai auf ein extremes Niveau. Zeige fein beleuchtete Fenster, architektonische Kanten, Glasreflexe, warme goldene Beleuchtungsschichten, subtile perspektivische Tiefe, atmosphärische Trennung zwischen den Türmen und einen raffinierten Skyline-Rhythmus. Die Stadt soll juwelenhaft, filigran und in ihrer Handwerkskunst fast miniaturhaft wirken, insgesamt aber monumental bleiben. Jedes große Gebäude soll mit liebevoller Detailtreue handgefertigt erscheinen.
+Umgebung:
+Erstelle eine weiche flussufer- oder feuchtgebietsartige Umgebung mit blassem Gras, ruhigem Wasser, Pastellhimmel und subtilen botanischen Details. Halte die Umgebung luftig und elegant, mit ausreichender Vereinfachung zur Bewahrung der Posterklarheit. Die Szene sollte das Krokodil-Thema unterstützen, während sie warm, friedlich und kinderfreundlich bleibt.
 
-Dampf-, Wolken- und Partikeleffekte:
-Dies ist eine Hauptpriorität. Der aufsteigende, rauchartige Kaffeedampf aus der Tasse muss mit außergewöhnlicher Feinheit und Schönheit dargestellt werden. Verwende ultradetaillierten goldenen Rauch, geschichtete Wolkenbänder, leuchtenden Nebel, ornamentale Dampfwirbel, einen weichen glühenden Partikeldunst, winzige schwebende Lichtpartikel, staubartige Goldflocken und zarte atmosphärische Schlieren. Der Dampf soll nahtlos in die Architektur übergehen, als würde die Skyline aus aromatischem goldenem Nebel kondensieren. Gestalte Rauch, Dunst und Partikel reich, detailliert, elegant und luxuriös, niemals grob oder generisch.
+Getränkerealismus:
+Die **Lipton Schwarztee-Getränkeflasche** muss realistisch und scharf markiert sein:
+genaue Flaschenproportionen,
+klares Lipton-Etikett,
+realistische Teefarbe,
+subtile Reflexionen,
+Premium-Materialdetail,
+kommerzielle Klarheit.
+Die Flasche sollte leicht mit der illustrierten Welt kontrastieren, damit sie als Produkt-Hero gelesen wird, ohne unbeholfen aufgeklebt zu wirken.
 
-Atmosphäre:
-Die gesamte obere Komposition soll in warme goldene Nachtenergie getaucht wirken. Füge einen dezenten leuchtenden Nebel um die Skyline, feine staubartige Lichtpartikel, die in der Luft treiben, und weich beleuchtete Wolkenformationen um die Türme hinzu. Die Nacht von Dubai soll opulent, strahlend und traumhaft wirken, mit einer erstklassigen filmischen Atmosphäre statt eines Touristenplakat-Effekts.
-
-Illustrationsstil:
-Verwende für die Stadt einen hochwertigen, handgezeichneten und art-direkteten Illustrationsstil, jedoch mit außergewöhnlicher Politur und realistischer Beleuchtung. Die Linienführung soll elegant und architektonisch sein, während Farbflächen und goldene Beleuchtung reich und luxuriös wirken. Die Stadt soll nicht comichaft aussehen; sie soll wie eine Couture-Reiseillustration wirken, die mit einem luxuriösen Nachtszenen-Rendering verschmilzt.
-
-Hintergrund:
-Verwende einen tiefen, luxuriösen Verlaufshintergrund wie Mitternachtsblau, Schwarz-Indigo oder tiefes Petrol-Schwarz mit subtiler Tiefe und minimalen Ablenkungen. Der dunkle Hintergrund soll die goldene Skyline, den Dampf und die Partikel dramatisch zum Leuchten bringen. Halte ihn elegant und aufgeräumt.
+Typografie und Branding:
+Oben rechts füge eine große verfeinerte Werbeschlagzeile in einem sauberen Premium-Editorial-Stil hinzu, inspiriert von klassischen Getränkepostern. Die Typografie sollte fett, elegant und hochlesbar, aber dennoch geschmackvoll sein. Füge das **offizielle Lipton-Logo** klar auf der Flasche und optional im Layout hinzu. Im unteren gelben Band füge einen kurzen zentrierten Slogan in einem ordentlichen Premium-Stil hinzu. Der Text sollte integriert, ausgewogen und art-direktiert wirken, niemals billig, niemals überladen.
 
 Beleuchtung:
-Verwende erstklassige filmische Nachtbeleuchtung. Die Tasse soll dezente weiche Reflexe und ein sanftes warmes Glühen am Rand haben. Die Stadt darüber soll warmes goldenes Licht ausstrahlen, mit geschichteter Beleuchtung, architektonischen Glanzlichtern, weichem atmosphärischem Bloom und elegantem Kontrast. Die Szene soll reich, leuchtend und teuer wirken.
+Verwende weiches leuchtendes Tageslicht mit Pastell-Kinderbuchqualität:
+sanfte warme Glanzlichter,
+subtiler atmosphärischer Dunst,
+zarte Schattenübergänge,
+saubere Produktglanzlichter,
+verfeinerte Lichtformung auf Mädchen und Krokodil.
+Das Licht sollte tröstlich, elegant und premium wirken.
 
 Farbpalette:
-Mitternachtsblau,
-tiefes Indigo,
-Schwarz-Petrol,
-Starbucks-Smaragdgrün,
-Wüstengold,
-Champagnergold,
-warmes Bernstein,
-leuchtender cremefarbener Nebel,
-glühendes Stadtgold.
-Die Palette soll opulent, raffiniert, nächtlich und luxuriös wirken.
-
-Typografie:
-Halte die Typografie minimal und elegant. Füge bei Bedarf nur eine raffinierte Titelgestaltung hinzu:
-"STARBUCKS"
-Optionale Unterzeile:
-"DUBAI AFTER DARK"
-Die Typografie soll dezent, hochwertig und der Skyline untergeordnet sein.
+Lipton-Gelb,
+weiches Tee-Bernstein,
+Salbeigrün,
+pastellfarbenes Krokodilgrün,
+puderblauer Himmel,
+warmes Creme,
+gedämpfte botanische Erdtöne.
+Die Palette sollte sanft, frisch, premium und posterfreundlich wirken.
 
 Stimmung:
-luxuriös, grandios, futuristisch, warm, nächtlich, architektonisch, atmosphärisch, raffiniert, filmisch, reich detailliert, hochwertig, Weltklasse-Kampagnenqualität.
+französisch, poetisch, kinderfreundlich, skurril, premium, warm, sammelbar, sanft humorvoll, elegant, Bilderbuch-Kommerz-Fusion.
 
 Rendering:
-hyperrealistische Luxus-Produktfotografie, kleine Premium-Keramiktasse von Starbucks, monumentale ultradetaillierte goldene Nachtskyline von Dubai, exquisite handgezeichnete architektonische Illustration, extreme Rauch- und Partikeldetaillierung, leuchtende Wolkenübergänge, atmosphärische Nachttiefe, raffinierte vertikale Komposition, luxuriöses Werbe-Finish, 8k, Meisterwerk.
+ultra-premium französische Bilderbuchillustration, zarte handgemalte Aquarell-und-Pastell-Posterszene, realistisches markiertes Getränkeprodukt-Rendering, klassisches Druckanzeigen-Layout, weiche leuchtende Beleuchtung, saubere kommerzielle Komposition, 8k, Werbeillustrationsqualität von Weltklasse.
 
 Negativer Prompt:
-große dominante Tasse, Pappbecher zum Mitnehmen, schwache Skyline-Details, generische Stadtlandschaft, flacher Dampf, grober Rauch, billiges Touristenplakat, Comic-Gebäude, übermäßige Neonfarben, überladene Komposition, schwache Dubai-Identität, detailarme Partikel, unordentlicher Hintergrund
+billiger Cartoon-Stil, gruseliges Krokodil, gewalttätige Stimmung, überladener Hintergrund, unleserliche Schlagzeile, schwache Posterhierarchie, flache Farben, detailarme Flasche, unordentliches Fußlayout, generisches Kinderposter, harter Kontrast, plastisch aussehende Illustration, minderwertiger Animationsstil
 ```
 
 </details>
@@ -891,7 +879,7 @@ große dominante Tasse, Pappbecher zum Mitnehmen, schwache Skyline-Details, gene
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMuFRaIa8AANZFH.jpg" width="700" alt="Starbucks: Goldenes Dubai bei Nacht">
+<img src="https://image.moge.ai/prompt_media/HMyjdu2bgAEE75n.jpg" width="700" alt="Lipton-Poster im Kinderbuchstil">
 </div>
 
 <br>
@@ -900,36 +888,36 @@ große dominante Tasse, Pappbecher zum Mitnehmen, schwache Skyline-Details, gene
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2074898623264125363) | 2026-07-08 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2075213371453190506) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074898623264125363)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2075213371453190506)**
 
 </div>
 
 ---
 
-### No. 14: Indie-Science-Fiction-Filmplakat
+### No. 14: Sanfter Sref-Stil auf leerer Seite
 
 ![Kategorie: Kreative Visuals](https://img.shields.io/badge/Kategorie-Kreative%20Visuals-lightgrey)
 
 #### 📚 Beschreibung
 
-Erstellt ein vertikales Indie-Science-Fiction-Filmplakat mit einem erfundenen türkischen Titel.
+Wendet einen neu erstellten Referenzstil mit sanfter Palette und hoher kreativer Varianz im Querformat an.
 
 #### 🌟 Prompt
 
 ```
-Erstelle ein Indie-Science-Fiction-Filmplakat. Erfinde einen türkischen Titel. Vertikales Format.
+Heute ist eine leere Seite, schreibe etwas Nettes darauf --chaos 8 --ar 3:2 --sref 3969789323 --sw 500 --stylize 500 --hd
 ```
 
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMsJYvPWwAABNOy.jpg" width="700" alt="Indie-Science-Fiction-Filmplakat">
+<img src="https://image.moge.ai/prompt_media/HMwskPIaYAA2eGH.jpg" width="700" alt="Sanfter Sref-Stil auf leerer Seite">
 </div>
 
 <br>
@@ -938,13 +926,13 @@ Erstelle ein Indie-Science-Fiction-Filmplakat. Erfinde einen türkischen Titel. 
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [Ozan Sihay](https://x.com/ozansihay) | [X / Twitter](https://x.com/ozansihay/status/2074762671342186760) | 2026-07-08 |
+| [Amira Zairi](https://x.com/azed_ai) | [X / Twitter](https://x.com/azed_ai/status/2075082559676182839) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074762671342186760)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2075082559676182839)**
 
 </div>
 
@@ -1179,23 +1167,23 @@ Ultrarealistisch, fotorealistisch, Magazinqualität, Luxus-Branding, cineastisch
 
 ---
 
-### No. 17: Charakter-Designblatt im Blueprint-Stil
+### No. 17: 3D-Papierschnitt-Länderillustration
 
 ![Kategorie: Illustration & IP](https://img.shields.io/badge/Kategorie-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Beschreibung
 
-Erstellt ein professionelles Charakter-Konzeptblatt mit Vorder-, Rück- und Seitenansicht, beschrifteten Details und Blueprint-Stil mit leuchtenden Akzenten.
+Erstellt eine lebendige, mehrschichtige 3D-Papierschnitt-Volkskunstillustration, die Wahrzeichen, Kultur und Alltag eines Ortes feiert.
 
 #### 🌟 Prompt
 
-Ein Charakter-Konzeptblatt eines [character] mit detaillierten Vorder-, Rück- und Seitenansichten sowie …
+Erstelle eine lebendige 3D-Papierschnitt-Volkskunstillustration von [LAND/ORT], die seine ikonischen …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Ein Charakter-Konzeptblatt eines [character] mit detaillierten Vorder-, Rück- und Seitenansichten sowie Nahaufnahmen-Skizzen von Gesichtszügen, Kostümdetails und Accessoires. Beschriftete Designnotizen und klar gekennzeichnete Komponenten sind über das Layout verteilt, gerendert in einem raffinierten Blueprint-Stil mit leuchtenden [color1]-Akzenten und einem strukturierten [color2]-Basisdesign, präsentiert auf einem sauberen weißen Hintergrund mit einer polierten, professionellen Charakterdesign-Präsentation.
+Erstelle eine lebendige 3D-Papierschnitt-Volkskunstillustration von [LAND/ORT], die seine ikonischen Landschaften, historischen Wahrzeichen, traditionelle Architektur, einheimische Pflanzen, kulturelle Symbole und das alltägliche Straßenleben zeigt. Verwende geschichtetes, strukturiertes Papier, handgefertigte Details, warme erdige Farben, leuchtende regionale Akzente und einen verspielten Tiefeneffekt. Füge eine fette Serifentypografie mit dem Ortsnamen oben, einen weichen Papierhimmel-Hintergrund und eine reiche Komposition hinzu, die das einzigartige Erbe und die Identität des Ortes feiert.
 ```
 
 </details>
@@ -1203,7 +1191,7 @@ Ein Charakter-Konzeptblatt eines [character] mit detaillierten Vorder-, Rück- u
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMs10z3bcAAii5z.jpg" width="700" alt="Charakter-Designblatt im Blueprint-Stil">
+<img src="https://image.moge.ai/prompt_media/HMtBRexXAAA1QEs.jpg" width="700" alt="3D-Papierschnitt-Länderillustration">
 </div>
 
 <br>
@@ -1212,35 +1200,45 @@ Ein Charakter-Konzeptblatt eines [character] mit detaillierten Vorder-, Rück- u
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [Amira Zairi](https://x.com/azed_ai) | [X / Twitter](https://x.com/azed_ai/status/2074811246893990111) | 2026-07-08 |
+| [NoorAI](https://x.com/noorwithwifi) | [X / Twitter](https://x.com/noorwithwifi/status/2074823826115010620) | 2026-07-08 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074811246893990111)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074823826115010620)**
 
 </div>
 
 ---
 
-### No. 18: Wüsten-Mode-Porträt
+### No. 18: Männliches Editorial-Porträt in Schwarzweiß
 
 ![Kategorie: Fotografie & Bild](https://img.shields.io/badge/Kategorie-Fotografie%20%26%20Bild-lightgrey)
 
 #### 📚 Beschreibung
 
-Erzeugt ein filmisches Porträt einer jungen Frau im orangefarbenen Badeanzug, die in einem Strandstuhl inmitten roter Sandsteinformationen im warmen Tageslicht entspannt.
+Erzeugt ein dramatisches männliches Schwarzweiß-Editorial-Porträt mit Studiolicht und ersetzt das Gesicht durch die Referenzfigur.
 
 #### 🌟 Prompt
 
-Eine weite, karge Wüstenlandschaft leuchtet im warmen Tageslicht. Eine anmutige junge Frau sitzt mit …
+Fotorealistisches, hyperrealistisches männliches Schwarzweiß-Mode-Editorial-Porträt, das das hochgeladene …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Eine weite, karge Wüstenlandschaft leuchtet im warmen Tageslicht. Eine anmutige junge Frau sitzt mit entspanntem Selbstbewusstsein auf einem tragbaren Strandstuhl. Ihr leuchtend oranger Badeanzug schmiegt sich natürlich an ihre Form, während sie im offenen Gelände ruht. Natürliches helles Tageslicht umhüllt sanft ihre Silhouette und formt weiche Glanzlichter. Aufragende rote Sandsteinformationen und ein cremefarbenes Vintage-Cabrio zeichnen einen warm-bernsteinfarbenen Horizont. Die Szene fängt eine erlesene Balance zwischen menschlicher Intimität und monumentaler Landschaftsschönheit ein.
+Fotorealistisches, hyperrealistisches männliches Schwarzweiß-Mode-Editorial-Porträt, das das hochgeladene dramatische S/W-Seitenporträt als exakte, nicht verhandelbare Referenz verwendet für: vertikale Bildaufteilung, mittlerer Nahausschnitt (oberer Torso bis knapp über die Haare), Dreiviertel-Seitenprofil nach rechts im Bild, Kamerahöhe leicht unter/auf Gesichtshöhe, nach unten zur erhobenen Hand geneigter Kopf, Hand-zu-Gesicht-Geste, Position der Armbanduhr im unteren linken zentralen Bereich, Torso-Richtung, Schulterposition, Negativraum, dunkler Studiohintergrund, Objektivperspektive, Schärfentiefe, Korn, Kontrastkurve, Schattendichte, Lichterintensität und filmische Stimmung.
+
+Ersetze NUR das ursprüngliche Motiv durch die Person aus dem hochgeladenen Zielcharakter-Referenzbild und bewahre die Identität des Ziels mit maximaler Gesichts-/Anatomiegenauigkeit (Kopfform, Gesichtsproportionen, Frisur/Haaransatz/Textur, Brauen, Augen, Nasenprofil, Lippen, Wangenknochen, Kiefer/Kinn, Ohren, Hautton, Barthaare falls vorhanden, Hals/Schultern, Handproportionen, natürliche Statur). Vermische keine Identitäten.
+
+Behalte einen ernsten, introspektiven Ausdruck bei: gesenkte Augen, leichte Brauenkontraktion, neutrale Lippen.
+
+Dunkler langärmeliger Strick mit sichtbarer Webtextur und minimaler Silhouette. Dezente, elegante analoge Armbanduhr, rundes Zifferblatt, dunkles/neutrales Armband.
+
+Low-Key-Studiobeleuchtung: hartes bis mittleres Führungslicht von oben links im Bild, nach unten gewinkelt, modellierte Lichter und tiefe Schatten, minimales Fülllicht. 85–105-mm-Objektiv, f/2.8–f/4, komprimierte Perspektive, geringe Schärfentiefe, scharfer Fokus auf den beleuchteten Augenbereich, Nasenrücken, Hand, Uhr; hintere Schulter/Hintergrund weich verschwommen.
+
+Bewahre die dominante schwarze Tonalmasse rechts im Bild und die weichere mittelgraue Beleuchtung links. 8K-Auflösung, ultrahohe Auflösung, hochdetailliert, scharfer Fokus, professionelle Fotografie, meisterhafte Komposition, mattes monochromes Finish, feines analoges Korn; kein Text, Logos, zusätzlicher Schmuck, Hintergrundobjekte, direkter Blickkontakt, Lächeln, Posenänderungen, aufgehellte Schatten, Überbelichtung, künstliche Schärfung.
 ```
 
 </details>
@@ -1248,7 +1246,7 @@ Eine weite, karge Wüstenlandschaft leuchtet im warmen Tageslicht. Eine anmutige
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMs-oaPbMAAI3St.jpg" width="700" alt="Wüsten-Mode-Porträt">
+<img src="https://image.moge.ai/prompt_media/HMyvgF_XgAAV6cu.jpg" width="700" alt="Männliches Editorial-Porträt in Schwarzweiß">
 </div>
 
 <br>
@@ -1257,91 +1255,104 @@ Eine weite, karge Wüstenlandschaft leuchtet im warmen Tageslicht. Eine anmutige
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [GenAngels \| 臻天使](https://x.com/GenAngelsStudio) | [X / Twitter](https://x.com/GenAngelsStudio/status/2074820936994558087) | 2026-07-08 |
+| [Simply Ray](https://x.com/kingofdairyque) | [X / Twitter](https://x.com/kingofdairyque/status/2075226498416431473) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074820936994558087)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2075226498416431473)**
 
 </div>
 
 ---
 
-### No. 19: Minimalistisches Mandelcroissant-Poster
+### No. 19: Göttin der reinen weißen Milch
 
 ![Kategorie: Werbung & Produkt](https://img.shields.io/badge/Kategorie-Werbung%20%26%20Produkt-lightgrey)
 
 #### 📚 Beschreibung
 
-Erzeugt ein hochwertiges, minimalistisches Bäckereiposter, in dem ein hyperrealistisches Mandelcroissant zum Fallschirm oder Gleiter wird, kombiniert mit einer feinen schwarz-weißen Strichzeichnung.
+Erstellt ein komplett weißes Luxus-Poster für Milch mit einer asiatischen Frau, die eins mit fließender Milch zu ätherischen Flügeln aufsteigt, in sakraler, edler Ästhetik.
 
 #### 🌟 Prompt
 
-Erstelle ein ultra-premium minimalistisches Bäckereiposter für ein Mandelcroissant, das hyperrealistische …
+Erstelle ein ultra-premium \*\*komplett weißes, sakrales Luxus-Poster\*\* für \*\*Nestlé Milch\*\*, zentriert auf das …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Erstelle ein ultra-premium minimalistisches Bäckereiposter für ein Mandelcroissant, das hyperrealistische Gebäckfotografie mit einer eleganten schwarz-weißen handgezeichneten Illustration kombiniert. Das Bild soll sauber, geistreich, künstlerisch und einprägsam wirken, wie eine raffinierte französische Bäckereikampagne, in der Gebäck und Illustration zu einer einheitlichen visuellen Idee werden. Das Kernkonzept ist, dass das Mandelcroissant selbst zu einem verspielten fliegenden oder schwebenden Objekt wird und die handgezeichnete Illustration auf clevere, glaubwürdige und poetische Weise mit ihm interagiert.
+Erstelle ein ultra-premium **komplett weißes, sakrales Luxus-Poster** für **Nestlé Milch**, zentriert auf das Thema **einer reifen ostasiatischen Frau, die im Flug aufsteigt und nahtlos mit fließender Milch verschmilzt**, als würde sie aus Licht, Reinheit und flüssiger Weichheit selbst geboren. Das gesamte Bild muss heilig, gelassen, schwerelos und atemberaubend raffiniert wirken, wie eine Verschmelzung von High-End-Beauty-Fotografie, sakraler Skulpturkunst und Hochgeschwindigkeits-Flüssigmilch-Aufnahme. Die Frau darf nicht so aussehen, als trüge sie ein Kostüm aus Milch; stattdessen müssen ihr Körper und die Milch als eine einzige durchgehende lebendige Form existieren. Ihr Oberkörper, Gesicht, Schultern und Arme treten anmutig aus leuchtender Milch hervor, während sich die umgebende Milch zu weiten, federleichten flügelartigen Strukturen, fließenden Schleiern, flüssigen Bändern und durchscheinenden nachziehenden Formen ausdehnt. Das finale Bild soll Reinheit, Nährung, Weichheit, Anmut und spirituelle Erhebung ausdrücken.
 
 Hauptkomposition:
-Verwende einen sehr sauberen hellen Hintergrund mit großzügigem Negativraum, fast weiß oder sehr blass warmgrau. Platziere ein einzelnes hyperrealistisches Mandelcroissant im mittleren-oberen Bereich des Bildes als absolutes Heldenobjekt. Das Gebäck muss groß genug sein, um die Komposition zu dominieren, aber dennoch von offenem Raum umgeben, damit das Bild elegant und minimal wirkt. Unter dem Croissant integriere eine zarte schwarz-weiße handgezeichnete Strichillustration einer winzigen menschlichen Figur, die mit dem Gebäck interagiert, als wäre es ein Fallschirm, Segelflugzeug, Flugmaschine oder ein hängendes Baldachin. Die gezeichnete Figur und das Gebäck müssen sich konzeptionell verbunden anfühlen, nicht zufällig kombiniert.
+Verwende eine saubere, zentrierte Heldenkomposition mit einer einzigen weiblichen Figur, die in der Bildmitte schwebt oder aufsteigt. Ihre Pose soll balletthaft, schwerelos und von gebetsartiger Eleganz wirken, mit dem Körper, der in einer sanften vertikal-diagonalen Bewegung aufsteigt. Ihre Arme sollen sich mit anmutiger Streckung öffnen oder heben, und die Milch soll sich hinter und um sie herum wie heilige fließende Flügel aus flüssigem Licht ausbreiten. Die Silhouette muss ikonisch, edel und skulptural wirken, mit reichlich Negativraum und perfekter visueller Ruhe.
 
-Gebäck-Styling:
-Zeige ein authentisches Mandelcroissant mit außergewöhnlichem Realismus und unwiderstehlichem Bäckereidetail:
-goldene laminierte Schichten,
-knusprige, blättrige Gebäckgrate,
-butteriger Backglanz,
-leicht karamellisierte Kanten,
-sichtbare Mandelcremefüllung,
-geröstete Mandelblättchen über die Oberseite gestreut,
-leichter Puderzuckerüberzug,
-warme handgefertigte Patisserie-Textur.
-Das Croissant soll luxuriös, frisch, zart und zutiefst appetitlich wirken, mit Gebäckfotografie-Detail von Weltklasse.
+Charakterführung:
+Die weibliche Figur muss eine **reife ostasiatische japanische/koreanische Schönheit** sein, elegant, raffiniert, natürlich schön, mit weicher Knochenstruktur, anmutigem Hals und Schultern und einem ruhigen, leuchtenden, intelligenten Ausdruck. Sie darf nicht wie ein Fantasy-Engel oder ein Influencer-Model aussehen. Ihre Schönheit soll erhaben, poetisch und premium wirken, mit einer gelassenen inneren Stille. Ihre Bewegung soll Flug, Hingabe, Weichheit und Aufstieg andeuten.
 
-Handgezeichnete Interaktion:
-Die Illustration muss eine clevere und visuell befriedigende Interaktion mit dem Mandelcroissant schaffen. Zum Beispiel kann das Croissant fungieren als:
-ein Fallschirm-Baldachin,
-eine Segelflügel,
-ein schwebendes Luftschiff,
-oder ein verspieltes Flugfahrzeug.
-Die darunter gezeichnete Figur kann ein winziger Konditor, Bäcker oder eleganter kleiner Reisender sein, der an dünnen gezeichneten Linien vom Gebäck hängt und sich daran festhält, als würde er sanft durch die Luft treiben. Die Linienführung soll minimal, raffiniert und verspielt sein, mit glaubwürdiger Spannung und Haltung, sodass das Croissant sich wie die „echte“ obere Hälfte des Konzepts anfühlt. Der Humor soll intelligent und geschmackvoll wirken, nicht kindisch.
+Konzept der reinweißen Milchverschmelzung:
+Die Milch muss sich wie ein heiliges, seidiges, lebendiges Material verhalten, das zwischen Flüssigkeit, Seide, Nebel und Licht schwebt. Der Körper muss nahtlos in die Milch übergehen:
+Milch, die aus dem Rücken zu flügelartigen Bögen erblüht,
+Milch, die Taille und unteren Torso in fließende skulpturale Bewegung hüllt,
+Milch, die sich von den Armen zu weichen Schleppen erstreckt,
+dünne durchscheinende Milchmembranen, die wie flüssige Seide leuchten,
+kleine schwebende Tröpfchen, die die Figur wie heilige Partikel umkreisen.
+Die Transformation muss völlig natürlich sein, ohne harte Nähte, ohne kleiderartigen Kostümeffekt, ohne aufgeklebtes Spritzer-Aussehen. Das Mädchen soll wirken, als wäre es im selben Augenblick aus Milch und Licht geformt.
 
-Visuelle Logik:
-Die handgezeichnete Illustration muss natürlich aus der Form des Gebäcks hervorgehen. Das Croissant soll nicht bloß neben einer Kritzelei sitzen; es soll das zentrale strukturelle Element der illustrierten Szene werden. Die gezeichneten Linien sollen die Form des Gebäcks intelligent nutzen, sodass der Betrachter den visuellen Witz sofort versteht und die Eleganz der Interaktion genießt. Halte die Illustration spärlich und fokussiert, ohne unnötige Unordnung.
+Flüssiger Realismus:
+Die Milch muss hyperrealistisch, luxuriös und strahlend sein:
+dichte cremig-weiße Milch,
+seidige Viskosität,
+weiche leuchtende Transluzenz in dünnen Bereichen,
+glatte Spannung an den flüssigen Kanten,
+samtige Glanzlichter,
+feine schwebende Tröpfchen,
+nebelartige flüssige Schlieren,
+saubere Hochgeschwindigkeits-Spritzerpräzision.
+Die Milch soll rein, nährend, weich und luxuriös wirken, niemals wässrig, niemals kreidig, niemals plastisch, niemals hart.
 
-Hintergrund und Atmosphäre:
-Halte den Hintergrund extrem sauber und ruhig, mit weichem Studiolicht und bei Bedarf kaum wahrnehmbarer Textur. Keine geschäftigen Requisiten, kein Tisch-Styling, keine zusätzliche Bäckerei-Unordnung. Die Leere des Raums soll die surreale Eleganz der Gebäck-Objekt-Interaktion verstärken.
+Reinweiße sakrale Gestaltung:
+Treibe das gesamte Bild zu einer fast transzendenten, komplett weißen visuellen Welt. Milch, Licht, Hintergrund und Atmosphäre sollen in einem raffinierten Spektrum aus Weiß, Perle, Elfenbeinweiß, Silberweiß und kaum wahrnehmbarem kühlen Grau bleiben. Die Szene soll von sanfter Reinheit und Stille durchflutet wirken, als schwebe die Figur in einem leuchtenden sakralen Raum. Die emotionale Wirkung soll sauber, heilend, in der Stimmung engelhaft, aber nicht wörtlich in der Gestaltung sein.
 
-Marke und Typografie:
-Verwende minimalistische, raffinierte Typografie nur bei Bedarf. Füge einen geschmackvollen eleganten Titel hinzu, wie:
-„ALMOND CROISSANT“
-Optionale Markenzeile:
-„CROISSANT“
-Optionale poetische Unterstützung:
-„Light as Butter“
-Die Typografie soll klein, anmutig und mit viel Atemraum integriert sein. Vermeide laute Schriften oder übermäßigen Text.
+Bewegungs- und Schleiereffekt:
+Der flüssige Schweifeffekt muss elegant und schwerelos sein. Die Milch soll nach außen und oben schwingen wie weiche Flügel, eingefangen in Zeitlupen-Auftrieb, mit langen fließenden Bögen, sanften flüssigen Bändern und luftigen schwebenden Formen. Die Figur soll in der schönsten Mikrosekunde des Aufstiegs eingefroren wirken, mit einer Bewegung, die fließend, anmutig und spirituell ruhig statt explosiv ist.
+
+Markenpräsenz:
+Binde eine subtile und premium **Nestlé Milch**-Markenpräsenz ein. Eine saubere Produktverpackung, Flasche oder ein zurückhaltendes offizielles Verpackungselement kann nahe der unteren Komposition mit eleganter Balance erscheinen. Das offizielle Logo soll geschmackvoll, klein und natürlich in das Layout integriert sein. Die Markenkommunikation soll premium, rein, vertrauenswürdig und erhaben wirken, niemals verkaufslastig.
+
+Beleuchtung:
+Verwende extrem weiches **reinweißes Beauty-Licht** mit göttlicher Klarheit:
+weiches frontales Leuchten auf Gesicht und Torso,
+sanftes halo-artiges Kantenlicht um die Milchflügel,
+saubere Glanzlichter an den flüssigen Kanten,
+subtiles durchscheinendes Leuchten durch die dünneren Milchmembranen,
+delikate tonale Schichtung mit fast keinem harten Schatten,
+Mikrokontrast nur dort, wo nötig, um die Flüssigkeitstextur zu enthüllen.
+Die Beleuchtung muss himmlisch, cremig, rein und luxuriös wirken, als würde die Figur sowohl von außen als auch von innen beleuchtet.
+
+Hintergrund:
+Halte den Hintergrund ultra-minimalistisch und fast komplett weiß, mit einem sanften Verlauf aus Perlweiß, Elfenbeinweiß, Nebelweiß und schwachem Silbergrau. Der Raum soll grenzenlos, still und leuchtend wirken. Keine Requisiten, keine Kulisse, keine dekorativen Objekte, kein Durcheinander. Nur sakraler premium Negativraum.
+
+Typografie:
+Verwende nur minimalistische und elegante Typografie. Füge einen raffinierten **Nestlé Milch**-Titel, ein kleines offizielles Logo und höchstens eine kurze poetische Zeile ein. Die Typografie soll luftig, sanft und sakral-luxuriös im Ton wirken, mit perfektem Abstand und art-direktionaler Platzierung. Keine fetten schweren Schriften, kein Retail-Poster-Gefühl, kein überladener Text.
 
 Farbpalette:
-warmes Buttergold,
-geröstetes Mandelbeige,
-Puderzuckerweiß,
-helles Karamellbraun,
-weicher neutraler Hintergrund,
-schwarze handgezeichnete Linienführung.
-Die Palette soll warm, raffiniert, handwerklich und premium wirken.
+reines Milchweiß,
+Perlweiß,
+Elfenbeinweiß,
+sanftes Silberweiß,
+Nebelgrau,
+kaum wahrnehmbare kühle helle Töne.
 
 Stimmung:
-minimal, geistreich, poetisch, elegant, premium, handwerklich, französisch-bäckerei-editorial, sauber, intelligent, charmant, visuell einprägsam.
+rein, sakral, gelassen, erhebend, schwerelos, leuchtend, mütterlich, elegant, nährend, spirituell, premium, poetisch, unvergesslich.
 
 Rendering:
-hyperrealistische Gebäckfotografie, ultra-detaillierte Mandelcroissant-Textur, Premium-Studiobeleuchtung, minimalistische Posterkomposition, elegante schwarz-weiße handgezeichnete Illustration, raffinierte surreale Interaktion, sauberer Negativraum, Luxus-Bäckereikampagnenqualität, 8k, Meisterwerk.
+hyperrealistische Hochgeschwindigkeits-Flüssigmilch-Fotografie, sakraler luxuriöser Beauty-Werbestil, ultradetaillierte Milchspritzer-Simulation, elegante fliegende weibliche Silhouette, reinweißer minimaler Hintergrund, raffiniertes Beauty-Licht, 8k, Werbekampagnen-Qualität von Weltklasse.
 
-Negativer Prompt:
-unordentlicher Hintergrund, überladene Requisiten, cartoonhafte kindische Kritzeleien, detailarmes Gebäck, schwacher Mandelbelag, generisches Croissant, unruhige Komposition, schwere Typografie, billiges Café-Poster, dunkler Hintergrund, unrealistische Strichkunst-Interaktion, plastisch aussehendes Gebäck
+Negativ-Prompt:
+wässrige Milch, graue schmutzige Weißtöne, chaotisches Spritzer-Durcheinander, falsche Flügel, kostümartiges Milchkleid, Cartoon-Flüssigkeit, plastische Haut, Influencer-Gesicht, harte Körper-Flüssigkeits-Naht, überladener Hintergrund, überdimensionierte Verpackung, billiges Supermarkt-Poster, schwere Typografie, Fantasy-Engel-Kostüm, detailarme Tröpfchen, hartes Licht
 ```
 
 </details>
@@ -1349,7 +1360,7 @@ unordentlicher Hintergrund, überladene Requisiten, cartoonhafte kindische Kritz
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMtwqXhbkAA3gZh.jpg" width="700" alt="Minimalistisches Mandelcroissant-Poster">
+<img src="https://image.moge.ai/prompt_media/HMydWtTbwAAqZNp.jpg" width="700" alt="Göttin der reinen weißen Milch">
 </div>
 
 <br>
@@ -1358,43 +1369,36 @@ unordentlicher Hintergrund, überladene Requisiten, cartoonhafte kindische Kritz
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2074876152095953082) | 2026-07-08 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2075206557449744726) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074876152095953082)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2075206557449744726)**
 
 </div>
 
 ---
 
-### No. 20: Wolken-Verb-Skulptur-Poster
+### No. 20: Schwebendes Subjekt in surrealer Umlaufbahn
 
 ![Kategorie: Kreative Visuals](https://img.shields.io/badge/Kategorie-Kreative%20Visuals-lightgrey)
 
 #### 📚 Beschreibung
 
-Erzeugt ein futuristisches 16:9-Poster mit einer riesigen Wortskulptur aus weißem Gitterwerk über den Wolken, deren Form die Wortbedeutung darstellt und deren Seile eine passende Schwebeanlage tragen.
+Erzeugt eine surreal-realistische Szene mit einem in der Luft schwebenden Subjekt, um das symbolische Objekte anmutig kreisen, mit filmischem Licht und sauberem Hintergrund.
 
 #### 🌟 Prompt
 
-Futuristisches Architekturposter über den Wolken, 16:9 quer — oben schwebt eine riesige Skulptur des …
-
-<details>
-<summary>Vollständigen Prompt anzeigen</summary>
-
 ```
-Futuristisches Architekturposter über den Wolken, 16:9 quer — oben schwebt eine riesige Skulptur des englischen Wortes „[Wort]“, komplett aus weißer parametrischer Gitter-/Netzstruktur mit durchbrochener Flechtwerk-Textur, die Buchstaben verschmelzen zu einer durchgehenden Skulpturform, deren Silhouette die Handlung des Wortes darstellt: [Posenbeschreibung]; von der Basis hängen dünne Seile, die wie Wurzeln eine hellblau-weiße Plattform über den Wolken tragen, mit Glasgeländer und einer korallenrosa runden Bodenzone, ausgebaut zu einer vollständigen Anlage passend zur Wortbedeutung: [Anlageninhalt], in der Menschen und ein bis zwei Roboter sie nutzen; strahlend blauer Himmel, dichte weiße Wolken, darunter deutet sich eine ferne Stadtsilhouette an; unten links am Plattformrand ein englisches Beschriftungsband "[Beschriftungstext]" mit einem [Icon]; helles Tageslicht, Architekturvisualisierungs-Qualität, sämtlicher Text auf Englisch — kein Text außer dem Hauptwort, keine dichten unlesbaren Blöcke, keine dunkle Nachtszene, keine Stadtansicht aus Bodenperspektive, keine uneinheitlichen Gittertexturen zwischen den Buchstaben, keine Buchstaben als flache gewöhnliche Typografie ohne Pose
+Ein(e) [Subjekt] schwebt in der Luft, während symbolische Objekte anmutig darum kreisen, schwerelose Komposition, filmische Beleuchtung, surrealer Realismus, scharfer Fokus, sauberer Hintergrund, hochwertiges visuelles Storytelling.
 ```
-
-</details>
 
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMrDKY0XsAA0YKr.jpg" width="700" alt="Wolken-Verb-Skulptur-Poster">
+<img src="https://image.moge.ai/prompt_media/HMtMU38akAAPo4M.jpg" width="700" alt="Schwebendes Subjekt in surrealer Umlaufbahn">
 </div>
 
 <br>
@@ -1403,13 +1407,13 @@ Futuristisches Architekturposter über den Wolken, 16:9 quer — oben schwebt ei
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [Vigo Zhao](https://x.com/VigoCreativeAI) | [X / Twitter](https://x.com/VigoCreativeAI/status/2074685185254203617) | 2026-07-08 |
+| [Zephyra Leigh](https://x.com/ZephyraLeigh) | [X / Twitter](https://x.com/ZephyraLeigh/status/2075058699379376276) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074685185254203617)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2075058699379376276)**
 
 </div>
 
@@ -1569,23 +1573,23 @@ Seitenverhältnis 16:9
 
 ---
 
-### No. 23: Retro-Poster des Skyline GT-R R34
+### No. 23: Charakter-Designblatt im Blueprint-Stil
 
 ![Kategorie: Illustration & IP](https://img.shields.io/badge/Kategorie-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Beschreibung
 
-Erstellt ein illustriertes Poster im japanischen Retro-Stil des Nissan Skyline GT-R R34 in Bayside-Blau, mit Cel-Shading-Rendering, Logo und Text auf einfarbigem Hintergrund.
+Erstellt ein professionelles Charakter-Konzeptblatt mit Vorder-, Rück- und Seitenansicht, beschrifteten Details und Blueprint-Stil mit leuchtenden Akzenten.
 
 #### 🌟 Prompt
 
-1999 Nissan Skyline GT-R R34, filminspirierte Street-Racing-Spezifikation, Bayside-Blau-Lackierung, …
+Ein Charakter-Konzeptblatt eines [character] mit detaillierten Vorder-, Rück- und Seitenansichten sowie …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-1999 Nissan Skyline GT-R R34, filminspirierte Street-Racing-Spezifikation, Bayside-Blau-Lackierung, Widebody-Haltung, aggressiver Frontstoßfänger, Hauben-Lüftungsschlitze, großer Heckflügel, Deep-Dish-Alufelgen, Niederquerschnittsreifen, klare Projektor-Scheinwerfer, detailliertes Grill- und Aero-Linien, Dreiviertelansicht, Stil eines japanischen Retro-Illustrationsposters, klare Linienführung, Cel-Shading-Rendering, kräftige Glanzlichter, grafische Schatten, lebendige Akzente, tiefergelegte aggressive Haltung, detaillierte Räder und Scheinwerfer. Hintergrund einfarbig Bayside-Blau mit weicher glänzender Reflexion auf dem Boden. Oben mittig: Nissan-Logo. Unter dem Logo: "Skyline GT-R R34" in eleganter moderner Schrift. Hauptauto riesig skaliert und das Bild dominierend, dynamische Komposition
+Ein Charakter-Konzeptblatt eines [character] mit detaillierten Vorder-, Rück- und Seitenansichten sowie Nahaufnahmen-Skizzen von Gesichtszügen, Kostümdetails und Accessoires. Beschriftete Designnotizen und klar gekennzeichnete Komponenten sind über das Layout verteilt, gerendert in einem raffinierten Blueprint-Stil mit leuchtenden [color1]-Akzenten und einem strukturierten [color2]-Basisdesign, präsentiert auf einem sauberen weißen Hintergrund mit einer polierten, professionellen Charakterdesign-Präsentation.
 ```
 
 </details>
@@ -1593,7 +1597,7 @@ Erstellt ein illustriertes Poster im japanischen Retro-Stil des Nissan Skyline G
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMsrhNEXEAAbOTd.jpg" width="700" alt="Retro-Poster des Skyline GT-R R34">
+<img src="https://image.moge.ai/prompt_media/HMs10z3bcAAii5z.jpg" width="700" alt="Charakter-Designblatt im Blueprint-Stil">
 </div>
 
 <br>
@@ -1602,95 +1606,37 @@ Erstellt ein illustriertes Poster im japanischen Retro-Stil des Nissan Skyline G
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [NΞXUS](https://x.com/NEXUS_TO_NOVA) | [X / Twitter](https://x.com/NEXUS_TO_NOVA/status/2074802082092089492) | 2026-07-08 |
+| [Amira Zairi](https://x.com/azed_ai) | [X / Twitter](https://x.com/azed_ai/status/2074811246893990111) | 2026-07-08 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074802082092089492)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074811246893990111)**
 
 </div>
 
 ---
 
-### No. 24: Editoriales Mode-Studioporträt
+### No. 24: Fotorealistische Luxusvilla
 
 ![Kategorie: Fotografie & Bild](https://img.shields.io/badge/Kategorie-Fotografie%20%26%20Bild-lightgrey)
 
 #### 📚 Beschreibung
 
-Erzeugt ein realistisches editoriales Mode-Porträt einer Frau im geometrischen chartreuse-grünen Jumpsuit in einem minimalistischen grauen Studio.
+Erzeugt ultrarealistische Immobilienfotos moderner Luxusvillen mit Infinity-Pool, Sportwagen und cineastischer Beleuchtung.
 
 #### 🌟 Prompt
 
-Eine professionelle editoriale Mode-Fotografie einer jungen Frau mit einem eleganten, mittig gescheitelten …
+Ultrarealistische Luxusvilla bei Nacht, Fassade aus schwarzem Stein und dunklem Holz, dramatische …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Eine professionelle editoriale Mode-Fotografie einer jungen Frau mit einem eleganten, mittig gescheitelten Dutt, die in einem minimalistischen Studio steht. Sie trägt einen ärmellosen Jumpsuit mit einem markanten geometrischen Muster in Chartreuse-Grün und Weiß und hält eine kleine, strukturierte Lederhandtasche in Chartreuse am oberen Griff. Das Bild muss sich wie eine echte, in der Kamera aufgenommene Fotografie anfühlen, nicht KI-generiert, mit authentischen Texturen und echtem optischem Verhalten.
+Ultrarealistische Luxusvilla bei Nacht, Fassade aus schwarzem Stein und dunklem Holz, dramatische cineastische Beleuchtung, durch große Glaswände leuchtende Innenbeleuchtung, spiegelnder Infinity-Pool, moderne minimalistische Architektur, Reflexionen auf nasser Einfahrt, stimmungsvolle Atmosphäre, Silhouette eines Luxus-Sportwagens, ultradetaillierte Texturen, fotorealistisch, HDR, 8k-Qualität, Luxus-Immobilienfotografie, zentrierte Komposition, quadratisches Format, 1080x1080.
 
-**GESAMTEINDRUCK**
-
-- Minimalistisch, editorial, High-Fashion, klar, poliert
-- Aussehen einer echten Fotografie, kein CGI oder digitale Malerei
-
-**SUBJEKT**
-
-- Junge Frau mediterraner Abstammung, schlanke Statur, ovales Gesicht, markante Kieferlinie
-- Neutraler, gelassener und fokussierter Ausdruck, direkt in die Linse blickend
-
-**REALISMUS-KRITISCHE MENSCHLICHE DETAILS**
-
-- Mikrotextur der Haut sichtbar bei sanftem Licht, feine Poren, natürlicher Hautglanz, subtile Gesichtslinien um die Augen, keine künstliche Hautglättung oder Airbrush
-
-**HAAR**
-
-- Dunkelbraunes Haar, präzise mittig gescheitelt, straff nach hinten zu einem ordentlichen tiefen Dutt gebunden, einzelne Strähnen und feine Flyaways in der Nähe der Ohren sichtbar
-
-**POSE / BILDAUSSCHNITT**
-
-- Halbtotale, vertikale Komposition
-- Aufrecht stehend, eine strukturierte limettengrüne Lederhandtasche mit der rechten Hand am oberen Griff vor der Taille haltend, linker Arm entspannt an der Seite
-
-**GARDEROBE & ACCESSOIRES**
-
-- Ärmelloser Jumpsuit mit hohem Kragen aus dickem, mattem Stoff mit einem markanten Retro-Muster aus großen weißen und chartreuse-grünen abstrakten Formen
-- Mittelgroße, dicke goldene Creolen; keine sichtbaren Logos oder ablenkenden Markenelemente
-
-**HINTERGRUND**
-
-- Minimalistisches Studio-Setting mit nahtlosem hellgrauem Hintergrund; sanfte, verlaufende Schatten auf dem Boden
-
-**BELEUCHTUNG**
-
-- Diffuses, hochwertiges Studiolicht von vorne links, das sanfte, natürliche Schatten auf der rechten Seite ihres Gesichts und Körpers wirft
-
-**FARBPALETTE**
-
-- Chartreuse (Limette) Grün, klares Weiß, warmes Gold, natürliche olivfarbene Hauttöne und neutrales Hellgrau
-
-**KAMERA / FOTOGRAFISCHES GEFÜHL**
-
-- Mittelformatkamera, 85mm Objektiv, Blende f/4, scharfer Fokus auf Subjekt und Handtasche mit sehr sanftem Hintergrundabfall
-- Authentisches feines Filmkorn, keine digitale Überschärfung, kein HDR-Look
-
-**TEXTUR / MATERIAL-REALISMUS**
-
-- Haut: natürliche Poren, feiner Flaum, realistischer Hautglanz und Tonübergänge
-- Haar: glattes Styling mit Wet-Look, mit sichtbarer Haarstruktur und einzelnen Strähnen
-- Garderobe: matte, schwere Stofftextur mit weichen Falten und sauberer Naht
-- Hintergrund: subtile matte Textur einer gestrichenen Studiowand
-
-**STIL**
-
-- High-Fashion-Editorial-Fotografie, Realismus zuerst, Stil danach
-
-**VERMEIDEN**
-
-- KI-Schönheitsgesicht, Plastikhaut, puppenhafte Augen, zusätzliche Finger, verzerrte Hände, Markenlogos, Wasserzeichen, Text, CGI-Look
+Ultrarealistische moderne Luxusvilla, grandioses architektonisches Design, große raumhohe Glasfenster, weiße Marmorfassade, warmes goldenes Sonnenlicht, angelegter Garten, Infinity-Pool, luxuriöse Einfahrt mit einem Premium-Sportwagen, cineastische Komposition, hochdetaillierte Texturen, realistische Reflexionen, HDR-Fotografie, 8k-Qualität, luxuriöse Lifestyle-Ästhetik, lebendige Farben, professionelle Immobilienfotografie, zentrierte Komposition, quadratisches Format, 1080x1080.
 ```
 
 </details>
@@ -1698,7 +1644,7 @@ Eine professionelle editoriale Mode-Fotografie einer jungen Frau mit einem elega
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMrTX2EaIAAr52K.jpg" width="700" alt="Editoriales Mode-Studioporträt">
+<img src="https://image.moge.ai/prompt_media/HMxwGYBXMAAXd8z.jpg" width="700" alt="Fotorealistische Luxusvilla">
 </div>
 
 <br>
@@ -1707,86 +1653,71 @@ Eine professionelle editoriale Mode-Fotografie einer jungen Frau mit einem elega
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [K](https://x.com/ChillaiKalan__) | [X / Twitter](https://x.com/ChillaiKalan__/status/2074703162355929259) | 2026-07-08 |
+| [Zyra AI](https://x.com/Zyra_AI1) | [X / Twitter](https://x.com/Zyra_AI1/status/2075156799397728605) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074703162355929259)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2075156799397728605)**
 
 </div>
 
 ---
 
-### No. 25: Lipton-Tee Eiskunstlauf-Solo
+### No. 25: Guinness Schaum-Ballett
 
 ![Kategorie: Werbung & Produkt](https://img.shields.io/badge/Kategorie-Werbung%20%26%20Produkt-lightgrey)
 
 #### 📚 Beschreibung
 
-Minimalistisches Luxus-Poster für Lipton-Teebeutel, bei dem bernsteinfarbener Teenebel sich in eine durchscheinende Eiskunstläuferin im Pirouettendreh verwandelt.
+Erzeugt ein Premium-Werbeplakat für Guinness, bei dem der cremige Bierschaum sich natürlich in eine elegante Ballerina vor schwarzem Hintergrund verwandelt.
 
 #### 🌟 Prompt
 
-Erstelle ein ultra-hochwertiges Werbeplakat für einen Lipton-Teebeutel zum Thema der Schönheit der …
+Erstelle ein ultra-premium Werbeplakat für Guinness mit einem hyperrealistischen Pint-Glas dunklen Stouts mit …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Erstelle ein ultra-hochwertiges Werbeplakat für einen Lipton-Teebeutel zum Thema der Schönheit der Eiskunstlauf-Pirouette, mit einer klaren, minimalistischen Luxus-Komposition und meisterhaften Tee-Diffusionseffekten. Die Kernidee: Die Läuferin ist kein separater Mensch unter dem Teebeutel, sondern eine anmutige, sich drehende Figur, die direkt aus dem vom Teebeutel freigesetzten Teenebel geboren wird. Das Bild soll poetisch, elegant, schwerelos und hyperrealistisch wirken, als verwandle sich frisch aufgebrühter Tee kurz in einen Moment des Eistanzes.
+Erstelle ein ultra-premium Werbeplakat für Guinness mit einem hyperrealistischen Pint-Glas dunklen Stouts mit einer cremigen Schaumkrone, die sich in die elegante Gestalt einer Ballerina verwandelt. Das Bild soll luxuriös, poetisch und ikonisch wirken, wie eine Getränkekampagne von Weltklasse, bei der Produkt und Figur zu einem nahtlosen skulpturalen Moment verschmelzen. Die Ballerina darf nicht als separate, aus Schaum geformte Person über dem Bier erscheinen. Sie muss wirken, als sei sie natürlich aus dem Bierschaum selbst geboren, mit einem exquisit sanften Übergang zwischen dichtem Schaum, luftigen Spritzkanten und anmutiger figürlicher Form.
 
 Hauptkomposition:
-Verwende ein vertikales Plakatlayout mit viel elegantem Negativraum und einem sanft warmen elfenbeinfarbenen Hintergrund. Platziere einen realistischen Lipton-Teebeutel, der von der oberen Mitte herabhängt und an einer sauberen horizontalen Wasserlinie im oberen Bildteil teilweise eingetaucht ist. Der Teebeutel ist die sichtbare Quelle des gesamten visuellen Geschehens. Unter ihm blüht der Tee nach unten ins Wasser und entwickelt sich allmählich zu einer durchscheinenden Eiskunstläuferin in einer schönen Drehbewegung. Der Übergang vom Teebeutel zur Teewolke zum sich drehenden Körper muss nahtlos und organisch wirken.
+Verwende eine zentrierte vertikale Komposition vor rein schwarzem oder sehr tiefem dunklem Hintergrund. Platziere ein hochrealistisches Guinness-Pint-Glas im unteren-mittleren Bereich als Hauptobjekt. Das Glas soll ikonisch, elegant und voll erkennbar sein, gefüllt mit sattem tiefschwarzem Stout und gekrönt von einer dicken cremigen elfenbeinfarbenen Schaumkrone. Aus der oberen Schaumschicht steigt und dehnt sich der Schaum nach oben zur Silhouette einer Ballerina in einer anmutigen Tanzgeste aus. Die gesamte Komposition soll vertikal ausgewogen wirken, wobei das Glas das Bild verankert und die Schaumfigur es nach oben hebt.
 
-Visuelle Kernlogik:
-Die Figur muss als direkte Verlängerung des Teenebels erscheinen. Der dichteste bernsteinfarbene Tee bleibt dem Teebeutel am nächsten, während die untere Form zunehmend heller, weicher, transparenter und lyrischer wird. Die Läuferin soll wirken, als hätte sich der Tee kurz zu einer sich drehenden Athletin geordnet und löse sich bereits wieder in fließende Schlieren auf. Der Körper darf nicht wie ein fester, aus Tee bestehender Mensch erscheinen, sondern als vorübergehende elegante Erscheinung, geformt aus ziehender Flüssigkeit.
+Kern-Bildlogik:
+Die Ballerina muss aus dem Schaum selbst geformt sein. Der untere Teil ihres Körpers soll dort dicht und cremig bleiben, wo er aus der Schaumkrone hervortritt, während obere Gliedmaßen, rockartige Kanten und Gestenübergänge leichter, luftiger und spritzerartiger werden. Der Betrachter muss sofort verstehen, dass die Figur nicht vom Bier getrennt ist, sondern eine poetische Verwandlung des Guinness-Schaums. Der Übergang zwischen Bierschaum und menschlicher Silhouette muss vollkommen natürlich und fließend sein.
 
-Eiskunstlauf-Aktion:
-Konzentriere dich speziell auf eine Eiskunstlauf-Pirouette, etwa eine anmutige Pirouette, einen Layback-Spin oder einen lyrischen aufrechten Spin. Der Körper soll zentriert, aber voller kreisförmiger Bewegung wirken, wobei Arme, Rumpf und angehobene Linien kontrollierte Rotation andeuten. Die Tee-Diffusion soll ein Gefühl drehender Energie um den Körper erzeugen, wie ein sanfter Wirbel bernsteinfarbener Flüssigkeit. Der untere Teil der Figur und die umgebenden Teeschlieren sollen eine kreisförmige Laufbahn andeuten, mit fließenden Rotationslinien unter und um die Läuferin. Das Bild muss sofort eine Eiskunstlauf-Rotation suggerieren, nicht nur eine statische Pose.
+Gestaltung der Schaumfigur:
+Gestalte die Ballerina als elegante weibliche Silhouette aus cremigem Schaum: anmutige Rumpflinie, verfeinerte ausgestreckte Arme, sanft gebogener Hals, angehobenes Kinn, Haltung inspiriert von einer leichten Ballettdrehung oder Arabeske, luftige rockartige Schaumbewegung, feine Spritzkanten, die Bewegung andeuten. Das Gesicht soll nicht scharf realistisch sein. Es soll sanft durch elegante Konturen und Schaummasse angedeutet bleiben, wobei die Schönheit aus Haltung und Silhouette statt aus Gesichtsdetails kommt. Die Figur soll leicht, edel und ätherisch wirken.
 
-Silhouette und Körperausdruck:
-Die Läuferin soll feminin, langgestreckt, verfeinert und visuell schwerelos sein. Die Schönheit muss aus Silhouette, Haltung, Drehachse und fließender Bewegung entstehen, nicht aus anatomischem Realismus. Die Tee-Diffusion darf einen sanften, kleidartigen Wirbel um Taille und Hüfte bilden, muss aber weiterhin als fließender Teenebel und nicht als Stoff gelesen werden. Die Rotationsenergie soll den Körper in durchscheinenden bernsteinfarbenen Schichten umhüllen und das Gefühl von Drehung und Anmut verstärken.
+Schaumtextur:
+Verwende extrem realistischen Guinness-Schaum: dichte cremige Krone, Mikrobläschen-Textur, samtige Oberfläche, weiche geschlagene Struktur, luftige Spritzkanten, feiner Schaumnebel, subtiles Tröpfchen-Aufbrechen, natürlicher feuchter Glanz. Der Schaum soll zugleich substanziell und zart wirken, mit perfekter Balance zwischen skulpturaler Dichte und spritzerartiger Bewegung.
 
-Gesichtsbehandlung:
-Das Gesicht muss weich und poetisch bleiben, ohne scharfe realistische Gesichtsdetails. Rendere keine klaren Augen, Mund oder Ausdruck. Deute nur das Profil durch eine sanfte Stirnlinie, Nasenrücken, Kinnlinie und Halskurve an. Der Kopf soll wie eine schöne Kontur wirken, die kurz im Teenebel auftaucht.
-
-Transparenz und Farbverhalten:
-Der Tee soll nahe dem Teebeutel und der Quellwolke am reichsten und dunkelsten sein, dann allmählich blasser, dünner und transparenter werden, während er die sich drehende Figur bildet. Arme, Kopfkontur, untere Beine und Drehschlieren sollen besonders luftig und durchscheinend sein. Verwende leuchtenden Bernstein, Honiggold, blasse Teewäsche, transparentes Karamell und sich auflösende Kanten. Die Figur darf nie zu dunkel oder zu undurchsichtig werden.
-
-Tee-Fluid-Styling:
-Verwende das Verhalten von ziehendem Tee, nicht Rauch und nicht Sirup. Zeige zarte bernsteinfarbene Diffusion, transparente Wirbel, fließende Ranken, gefiederte Kanten, sanfte Turbulenz und geschichtete wässrige Blüte. Die Drehung kann kreisförmige Teebänder, leichte Bernsteinhalos und elegante Flüssigkeitsbögen um die Achse der Läuferin erzeugen. Winzige Bläschen und Mikrotröpfchen dürfen subtil erscheinen, aber die Komposition muss sauber und verfeinert bleiben.
-
-Verbindung zum Teebeutel:
-Die obere Teewolke unter dem Lipton-Beutel muss sichtbar in die sich drehende Figur übergehen. Der Oberkörper soll weiterhin mit der Quell-Fahne verbunden wirken, wobei Rumpf und Rotationskern aus der dichteren Teeblüte hervortreten. Der Betrachter muss sofort verstehen, dass die Läuferin der Tee selbst in Bewegung ist.
-
-Produktrealismus:
-Der Lipton-Teebeutel muss realistisch und klar gebrandet bleiben, mit sichtbaren Teeblättern, Papiertextur, Schnur und dezentem Logo-Anhänger. Die Wasserlinie soll sauber, hochwertig und glaubwürdig sein, mit Oberflächenspannung und feinen Glanzlichtern.
+Realismus von Bier und Glas:
+Das Guinness-Pint-Glas muss hochrealistisch sein: klare Glasdicke, schöner geschwungener Rand, Premium-Reflexionen, subtile Kondensation, tiefschwarzer Stout-Körper, warme schwache braune Glanzlichter im Bier, cremiger Schaumkragen am Rand, elegante Materialdarstellung. Glas und Flüssigkeit sollen kommerziell stark und begehrenswert bleiben.
 
 Beleuchtung:
-Verwende weiches, hochwertiges Studiolicht, das Transluzenz, Tiefe und warmes Leuchten im Tee verstärkt. Das Licht soll die geschichtete Bewegung der Drehung offenbaren und die Figur leuchtend, luftig und kostbar vor dem ruhigen Hintergrund erscheinen lassen.
+Verwende extrem verfeinerte, weiche cineastische Beleuchtung. Das Licht soll zart und luxuriös sein und enthüllen: die cremige Tiefe des Schaums, die Transluzenz an den Spritzkanten, die glänzenden Highlights auf dem Glas, das subtile innere Leuchten des Stouts, die dimensionale Trennung zwischen schwarzem Bier und weißem Schaum. Halte die Beleuchtung weich, samtig und premium, ohne harte spekulare Blendung.
+
+Hintergrund:
+Verwende einen minimalistischen rein schwarzen oder ultra-tiefen dunklen Hintergrund mit reichlich Negativraum. Die Dunkelheit soll den cremefarbenen Schaum und die Glasreflexionen wunderschön leuchten lassen. Kein Durcheinander, keine Requisiten, keine ablenkenden Elemente.
 
 Typografie:
-Halte die Typografie minimal und geschmackvoll. Füge nur eine verfeinerte englische Schlagzeile hinzu:
-„STEEP THE SPIN“
-Optionale Alternative:
-„SPIN IN TEA“
-Optionale Markenpräsenz:
-„Lipton“
-Die Typografie soll elegant, leicht und dem Bild untergeordnet wirken.
+Halte die Typografie bei Bedarf minimal und elegant: „GUINNESS“ Optionale Ergänzungszeile: „Dance of Foam“. Die Typografie soll subtil, premium und sekundär sein.
 
 Farbpalette:
-warmes Elfenbein, sanftes Creme, goldener Bernstein, Honigtee, blasses Karamell, transparentes Champagnerbraun, zarte warme Glanzlichter. Die Palette soll minimal, luxuriös, durchscheinend und anmutig wirken.
+tiefes Guinness-Schwarz, elfenbeincremiger Schaum, sanfte perlweiße Highlights, subtile warme Stout-Brauntöne, silberne Glasreflexionen, rein schwarzer Hintergrund. Die Palette soll luxuriös, zurückhaltend und ikonisch wirken.
 
 Stimmung:
-poetisch, anmutig, drehend, luftig, fließend, elegant, minimal, verfeinert, hochwertig, konzeptionell, hyperrealistisch, ballettartig, ein Kampagnenbild in Sammlerqualität.
+poetisch, elegant, luxuriös, hyperrealistisch, skulptural, ikonisch, verfeinert, surreal-aber-natürlich, Premium-Getränkekampagnen-Qualität.
 
 Rendering:
-hyperrealistische kommerzielle Getränkefotografie, ultradetaillierte Lipton-Teebeutel-Textur, eleganter Wasserlinien-Realismus, meisterhafte Tee-Diffusionssimulation, durchscheinende bernsteinfarbene Eiskunstlauf-Drehsilhouette, weiche Gesichtskontur, keine klaren Gesichtszüge, kreisförmige Tee-Bewegungsschlieren, Dichte-zu-Transparenz-Verlauf, minimalistische Luxus-Plakatkomposition, weiches Studiolicht, hochwertiges Werbe-Finish, 8k, Meisterwerk.
+hyperrealistische kommerzielle Getränkefotografie, ultra-detailliertes Guinness-Pint-Glas, cremige Schaum-Ballerina, die nahtlos aus der Schaumkrone hervortritt, perfekte Produkt-Figur-Verschmelzung, samtige Mikroschaum-Textur, elegante Spritzkanten, weiche cineastische Beleuchtung, minimalistischer dunkler Hintergrund, Werbe-Finish von Weltklasse, 8k, Meisterwerk.
 
 Negativ-Prompt:
-statische Pose, generische Tänzerin, keine Drehbewegung, klare Gesichtszüge, undurchsichtiger Körper, dunkle schwere Flüssigkeitsfigur, trübe Teefarbe, sirupartige Dicke, getrennte Teequelle, chaotisches Spritzen, Stoffkleid-Realismus, überladene Typografie, schmutziger Hintergrund, Cartoon-Läuferin, zusätzliche Requisiten
+separate Tänzerin über dem Glas, menschliche Figur vom Schaum losgelöst, scharf realistisches Gesicht, chaotischer Spritzer, zerbrochenes Glas, billige Bierwerbung, schwache Schaumtextur, plastisch wirkende Flüssigkeit, überladener Hintergrund, hartes Licht, Cartoon-Figur, unordentliche Komposition, detailarme Bläschen
 ```
 
 </details>
@@ -1794,7 +1725,7 @@ statische Pose, generische Tänzerin, keine Drehbewegung, klare Gesichtszüge, u
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMtl9ViaQAEqF_b.jpg" width="700" alt="Lipton-Tee Eiskunstlauf-Solo">
+<img src="https://image.moge.ai/prompt_media/HMx3Qaqa0AE_KKU.jpg" width="700" alt="Guinness Schaum-Ballett">
 </div>
 
 <br>
@@ -1803,45 +1734,35 @@ statische Pose, generische Tänzerin, keine Drehbewegung, klare Gesichtszüge, u
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2074864351282880706) | 2026-07-08 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2075164698283319343) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074864351282880706)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2075164698283319343)**
 
 </div>
 
 ---
 
-### No. 26: Minimalistisches Poster mit langen Schatten
+### No. 26: Futuristisches Editorial-Poster
 
 ![Kategorie: Kreative Visuals](https://img.shields.io/badge/Kategorie-Kreative%20Visuals-lightgrey)
 
 #### 📚 Beschreibung
 
-Erzeugt ein minimalistisches, sehr helles Poster mit winzigen Objekten, übertrieben langen Schatten und klarer Typografie für einen Morgengruß.
+Erstellt ein futuristisches Editorial-Poster mit Profilporträt, kräftigen Grafikformen und experimenteller Magazin-Typografie.
 
 #### 🌟 Prompt
 
-Erzeuge ein minimalistisches, aber grafisch prägnantes flaches Bild zu einem beliebigen Thema: Zuerst liest …
+Konzeptionelles futuristisches Editorial-Poster-Design mit [HUMAN] in einem großen Seitenprofil-Porträt, …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Erzeuge ein minimalistisches, aber grafisch prägnantes flaches Bild zu einem beliebigen Thema: Zuerst liest man ein durchgehend helles, sauberes, nahezu texturloses Farbfeld hoher Helligkeit; der Themeninhalt wird in viele sehr kleine reale Silhouetten, Symbole oder Einzelobjekte zerlegt, spärlich über weite Leerflächen verteilt und mit deutlichem Abstand zueinander, sodass die Leere zur Hauptrolle wird. Jedes kleine Objekt muss einen übertrieben langgezogenen dunklen Schatten werfen; die Schatten durchqueren das Bild in einer einheitlichen diagonalen Richtung, weit länger als die Objekte selbst, und bilden Rhythmuslinien, die auffälliger sind als die Objekte. Stellenweise kann der Schatten einer riesigen Struktur vom Rand hereinragen und nur schwere dunkle Formen sowie wenige regelmäßige Lichtspalten zeigen, was Größenkontrast und eine großstädtische Bedrängnis erzeugt. Die Farben werden aus Material, Stimmung und kultureller Semantik des Themas selbst gewonnen und behalten das Rollenverhältnis: große helle, klare Grundfläche, sehr wenige dunkle kontrastreiche Strukturen und winzige thematische Farbtupfer; das Ganze bleibt leuchtend, sauber, luftig und mit klaren Farbabstufungen, vermeidet schmutziges Grau, Retro-Gilb oder matschige Mischfarben. Erscheint Infotext, soll er als ruhiges visuelles Gewicht wirken: eine Gruppe großer, schwarzer, dicht gesetzter Lettern nah an einer Kante erzeugt harten vertikalen Druck, wenige kleine Lettern mit feinem Zeichenabstand verteilen sich in Ecken oder unten, zurückhaltend und präzise wie öffentliche Beschilderung, mit viel Freiraum. Die Gesamtausführung soll wie ein streng gesetztes kommerzielles Kunstbild wirken; die Objekte sind klein, die Schatten riesig, sodass zwischen realen Objekten und abstraktem Farbfeld ein starkes Gefühl von Sonnenlicht, Ordnung, Isolation und Neudefinition entsteht.
-
-Bildelemente jedes Bildes: Stadt + 2026-07-08 + Guten-Morgen-Spruch + 5 Informationspunkte in verschiedenen Formen + reiche rhythmische Kompositionsvariation.
-
-Jeweils eine Stadt; jede Stadt hat eine andere Farb- und Kompositionslogik.
-
-Insgesamt 10 Städte, 10 Bilder, nacheinander erzeugt.
-
-Hinweis: Jedes Bild soll eine andere Komposition und ein anderes Layout haben.
-
-Seitenverhältnis 16:9, Querformat.
+Konzeptionelles futuristisches Editorial-Poster-Design mit [HUMAN] in einem großen Seitenprofil-Porträt, tragend [CLOTHING], eleganter zeitgenössischer Mode-Stil, klare Studiobeleuchtung, weißer Hintergrund mit kräftigen grafischen Formen in [COLOR1], feinen schaltungsartigen Liniendiagrammen in [COLOR2] und subtilen Interface-Akzenten in [COLOR3]. Großer Großbuchstaben-Titel "[TITLE]" prominent oben platziert, ein kurzer Block kleinen Editorial-Textes mit "[TEXT]", moderne experimentelle Typografie, asymmetrisches Magazin-Layout, scharfe kontrastreiche Komposition, hochwertige Grafikdesign-Ästhetik, Seitenverhältnis 4:5.
 ```
 
 </details>
@@ -1849,7 +1770,7 @@ Seitenverhältnis 16:9, Querformat.
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMqlHINbgAAEUxk.jpg" width="700" alt="Minimalistisches Poster mit langen Schatten">
+<img src="https://image.moge.ai/prompt_media/HMwT7e4awAE4ikD.jpg" width="700" alt="Futuristisches Editorial-Poster">
 </div>
 
 <br>
@@ -1858,13 +1779,13 @@ Seitenverhältnis 16:9, Querformat.
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [小小东](https://x.com/xiaoxiaodong01) | [X / Twitter](https://x.com/xiaoxiaodong01/status/2074652685958307870) | 2026-07-08 |
+| [Kashberg](https://x.com/Kashberg_0) | [X / Twitter](https://x.com/Kashberg_0/status/2075055474861555843) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074652685958307870)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2075055474861555843)**
 
 </div>
 
@@ -2059,29 +1980,23 @@ Vermeide: verstümmelten Text, Tippfehler, falsche Instrumentenstruktur, zu viel
 
 ---
 
-### No. 29: Vintage-Reiseposter im Papierschnitt-Stil
+### No. 29: Retro-Poster des Skyline GT-R R34
 
 ![Kategorie: Illustration & IP](https://img.shields.io/badge/Kategorie-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Beschreibung
 
-Erstellt ein elegantes Vintage-Reiseposter im mehrschichtigen Papierschnitt-Stil mit dem Wahrzeichen einer europäischen Stadt und feiner Serifentypografie.
+Erstellt ein illustriertes Poster im japanischen Retro-Stil des Nissan Skyline GT-R R34 in Bayside-Blau, mit Cel-Shading-Rendering, Logo und Text auf einfarbigem Hintergrund.
 
 #### 🌟 Prompt
 
-Erstelle ein hochwertiges Vintage-Reiseposter in einem eleganten, handgefertigten Stil aus mehrschichtiger …
+1999 Nissan Skyline GT-R R34, filminspirierte Street-Racing-Spezifikation, Bayside-Blau-Lackierung, …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Erstelle ein hochwertiges Vintage-Reiseposter in einem eleganten, handgefertigten Stil aus mehrschichtiger Papierschnitt- und Papercraft-Illustration, inspiriert von klassischen europäischen Tourismusplakaten. Die Komposition zeigt das ikonischste Wahrzeichen der gewählten Stadt als Mittelpunkt, umgeben von charmanter historischer Architektur mit Terrakotta-Dächern, Kopfsteinpflasterstraßen, Flüssen, Brücken, Booten, mittelalterlichen Türmen, Kirchen, Burgen, Cafés, Bäumen und subtilen Landschaftselementen. Jedes Objekt erscheint als sorgfältig geschnittene Schichten aus strukturiertem Karton mit sichtbarer Papiermaserung, weichen Schatten, gestapelter Tiefe und feinen handgefertigten Kanten.
-
-Verwende eine warme Pastellfarbpalette mit gedämpften Cremetönen, Beige, Salbeigrün, Staubblau, Terrakotta und weichem goldenem Sonnenuntergangslicht. Füge minimalistische Papierschnitt-Wolken, winzige fliegende Vögel, alte Straßenlaternen, dekoratives Blattwerk und einen subtilen atmosphärischen Dunst für Tiefe hinzu. Rahme das Kunstwerk wie ein hochwertiges Sammler-Reiseposter, gedruckt auf gealtertem, strukturiertem Papier mit leicht abgenutzten Kanten.
-
-Zeige oben den Stadtnamen in großer, eleganter Serifentypografie, darunter den Stadt- und Ländernamen in der Landessprache in kleinerem, feinem Serifentext. Bewahre ein klares redaktionelles Layout mit großzügigem Weißraum, ausgewogener Komposition und zeitloser europäischer Designästhetik.
-
-Ultradetaillierte Papercraft-Illustration, mehrschichtiges Papierschnitt-Relief, handgefertigte Miniaturarchitektur, hochwertiges redaktionelles Posterdesign, Vintage-Tourismuswerbung, Druck in Museumsqualität, weiches Umgebungslicht, realistische Papiertextur, raffinierte Farbabstufung, hochdetailliert, 8K, elegant, minimalistisch, nostalgisch, Sammlerkunstwerk.
+1999 Nissan Skyline GT-R R34, filminspirierte Street-Racing-Spezifikation, Bayside-Blau-Lackierung, Widebody-Haltung, aggressiver Frontstoßfänger, Hauben-Lüftungsschlitze, großer Heckflügel, Deep-Dish-Alufelgen, Niederquerschnittsreifen, klare Projektor-Scheinwerfer, detailliertes Grill- und Aero-Linien, Dreiviertelansicht, Stil eines japanischen Retro-Illustrationsposters, klare Linienführung, Cel-Shading-Rendering, kräftige Glanzlichter, grafische Schatten, lebendige Akzente, tiefergelegte aggressive Haltung, detaillierte Räder und Scheinwerfer. Hintergrund einfarbig Bayside-Blau mit weicher glänzender Reflexion auf dem Boden. Oben mittig: Nissan-Logo. Unter dem Logo: "Skyline GT-R R34" in eleganter moderner Schrift. Hauptauto riesig skaliert und das Bild dominierend, dynamische Komposition
 ```
 
 </details>
@@ -2089,7 +2004,7 @@ Ultradetaillierte Papercraft-Illustration, mehrschichtiges Papierschnitt-Relief,
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMpEG41a8AAyvNv.jpg" width="700" alt="Vintage-Reiseposter im Papierschnitt-Stil">
+<img src="https://image.moge.ai/prompt_media/HMsrhNEXEAAbOTd.jpg" width="700" alt="Retro-Poster des Skyline GT-R R34">
 </div>
 
 <br>
@@ -2098,72 +2013,43 @@ Ultradetaillierte Papercraft-Illustration, mehrschichtiges Papierschnitt-Relief,
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [Taaruk](https://x.com/Taaruk_) | [X / Twitter](https://x.com/Taaruk_/status/2074545486376407393) | 2026-07-07 |
+| [NΞXUS](https://x.com/NEXUS_TO_NOVA) | [X / Twitter](https://x.com/NEXUS_TO_NOVA/status/2074802082092089492) | 2026-07-08 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074545486376407393)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074802082092089492)**
 
 </div>
 
 ---
 
-### No. 30: Frauenporträt in Königsblau
+### No. 30: Retro-Vogue-Porträt der 70er
 
 ![Kategorie: Fotografie & Bild](https://img.shields.io/badge/Kategorie-Fotografie%20%26%20Bild-lightgrey)
 
 #### 📚 Beschreibung
 
-8K-Porträt einer jungen Frau in königsblauem Mantel und Schal im Freien, mit weichem natürlichem Licht und unscharfem Himmel-Meer-Hintergrund.
+Erzeugt ein europäisches Mode-Editorial-Porträt der 70er mit einer eleganten jungen Frau am Wählscheibentelefon in einem farbenfrohen Retro-Apartment mit filmischem Licht.
 
 #### 🌟 Prompt
 
-Porträtfotografie, 8K-UHD-Auflösung, vertikales Seitenverhältnis. Bildkomposition: Ausschnitt von der …
+Erschaffe eine schöne junge Europäerin mit heller Haut, ausdrucksstarken grünen Augen und kurzem …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Porträtfotografie, 8K-UHD-Auflösung, vertikales Seitenverhältnis.
+Erschaffe eine schöne junge Europäerin mit heller Haut, ausdrucksstarken grünen Augen und kurzem dunkelbraunem Bob-Haar mit weichem Pony.
 
-Bildkomposition:
-Ausschnitt von der Brustmitte bis zum Kopf, Hochformat, Motiv zentriert, Kameraperspektive auf Augenhöhe, frontale Perspektive.
+Sie trägt eine stilvolle cremefarbene Baskenmütze, elegante Perlenohrringe und ein hochwertiges smaragdgrünes Vintage-Blumenkleid mit einem weißen Oversized-Kragen, was einen anspruchsvollen europäischen Mode-Editorial-Look erzeugt.
 
-Motiv:
-Junge erwachsene Frau mit ovalem Gesicht, heller Haut mit neutralem Unterton, glatter natürlicher Hauttextur mit sichtbarem Realismus und ohne starke Retusche.
+Mit einer Hand hält sie sanft den Hörer eines klassischen cremefarbenen Wählscheibentelefons ans Ohr, während sie mit der anderen den Telefonsockel stützt, und blickt nachdenklich in die Kamera mit einem ruhigen, leicht melancholischen Ausdruck.
 
-Gesichtszüge:
-Hellblaugrüne mandelförmige Augen, die direkt in die Kamera blicken, leicht entspannte Lider, Wimpern in natürlicher Länge, dunkelbraune mitteldicke Augenbrauen mit sanftem natürlichem Bogen, gerade proportionierte Nase mit glattem Rücken, weiche natürlich rosa mittel- bis vollformige Lippen, leicht geöffnet, neutraler, ruhiger, gefasster Ausdruck.
+Die Szene spielt in einem farbenfrohen europäischen Retro-Apartment der 1970er Jahre. Der Türrahmen ist in warmem Senfgelb gestrichen. Die Wände zeigen pastellige Blaugrün- und sanfte Korallentöne mit dezenten Vintage-Tapetenmustern. Eine minzgrüne Hängelampe, unscharfe Küchendetails und nostalgische Wohndeko erscheinen im Hintergrund.  Natürliches, filmisches Licht fällt durch die Tür ein und erzeugt weiche Glanzlichter, realistische Schatten, authentische Hauttextur und ein hochwertiges redaktionelles Colorgrading.
 
-Haar:
-Dunkelbraun, kurz bis mittellang, offen und leicht gewellt, vom Wind verwehte Strähnen, die das Gesicht kreuzen, natürlicher unstrukturierter Scheitel.
-
-Kleidung:
-Tiefer königsblauer Mantel mit woll- oder filzartiger Textur, strukturierte, aber lockere Passform, saubere Nähte mit minimalistischem Design. Passender königsblauer Schal aus weichem Stoff, locker um den Hals gewickelt.
-
-Farbpalette:
-Dominierende Farben sind Königsblau, tiefes Blau und weiche Hauttöne. Hoher Kontrast zwischen der blauen Kleidung und der helleren Haut. Kühle Farbtemperatur.
-
-Beleuchtung:
-Natürliches Licht, frontal mit leichter seitlicher Weichheit, moderate Intensität, weiche Schatten mit minimaler Härte, subtile Glanzlichter auf Wangenknochen und Lippen.
-
-Hintergrund:
-Offene Außenumgebung mit unscharfer Horizontlinie, blauer Farbverlauf-Hintergrund, der Himmel und fernes Wasser andeutet. Geringe Schärfentiefe mit absichtlich unscharfen Hintergrunddetails.
-
-Bildstil:
-Hoher Realismus mit subtiler KI-Politur, hohe Gesichtsdetails, sichtbare Stofftextur und natürliche Hautdetails, minimales Rauschen, saubere Farbkorrektur ohne starke Filter.
-
-Stimmung:
-Ruhig, gelassen, minimalistisch, sanft und gefasst.
-
-Generierungsvorgaben:
-Originalkomposition beibehalten.
-Struktur des Motivs beibehalten.
-Keine Gesichtsveränderung.
-Keine Stilannahmen.
-Bildgröße nicht ändern.
+Luxuriöse Modekampagnen-Fotografie, Vogue-Editorial, retro-europäischer Lifestyle, filmischer Realismus, mittleres Porträt, 85mm-Objektiv, f/2, geringe Schärfentiefe, ultra fotorealistisch, HDR, 8K, Meisterwerk.  Negativer Prompt: Anime, Cartoon, CGI, Illustration, niedrige Qualität, unscharf, Text, Logo, Wasserzeichen, doppeltes Motiv, verzerrte Hände, zusätzliche Finger, deformiertes Gesicht, übersättigte Farben.
 ```
 
 </details>
@@ -2171,7 +2057,7 @@ Bildgröße nicht ändern.
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMrKX6QbUAAKRZB.jpg" width="700" alt="Frauenporträt in Königsblau">
+<img src="https://image.moge.ai/prompt_media/HMwZBWsaQAAuhGD.jpg" width="700" alt="Retro-Vogue-Porträt der 70er">
 </div>
 
 <br>
@@ -2180,84 +2066,41 @@ Bildgröße nicht ändern.
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [Harboris](https://x.com/harboriis) | [X / Twitter](https://x.com/harboriis/status/2074693107648709042) | 2026-07-08 |
+| [Cherry 2.O](https://x.com/Mind_Boticni) | [X / Twitter](https://x.com/Mind_Boticni/status/2075061147133497821) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074693107648709042)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2075061147133497821)**
 
 </div>
 
 ---
 
-### No. 31: Rote Crocs im Sturmwirbel
+### No. 31: Premium-Fruchtgetränke-Werbung
 
 ![Kategorie: Werbung & Produkt](https://img.shields.io/badge/Kategorie-Werbung%20%26%20Produkt-lightgrey)
 
 #### 📚 Beschreibung
 
-Kinoreifes Werbeplakat mit einem riesigen roten Crocs im Vordergrund und einer eleganten Frau, die in einem Sandsturmwirbel steht, in extremer Ultraweitwinkel- und Untersicht.
+Erstellt hyperrealistische Werbung für Frucht-Smoothies und -Joghurts mit eingefrorenen Spritzern, schwebenden Früchten und luxuriösem Produktstyling.
 
 #### 🌟 Prompt
 
-Erstelle ein ultra-premium kinoreifes Werbeplakat für die Crocs Beach-Clogs, mit einer extremen ultraweiten …
+Ultrarealistische Premium-Werbeanzeige mit einem kristallklaren Glas gefüllt mit reichhaltigem, cremigem …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Erstelle ein ultra-premium kinoreifes Werbeplakat für die Crocs Beach-Clogs, mit einer extremen ultraweiten Froschperspektive und einer dramatischen Sturmwirbel-Umgebung. Das Bild soll episch, surreal, modisch fortschrittlich und hyperrealistisch wirken, wie eine globale Luxus-Schuhkampagne verschmolzen mit kinoreifem Fantasy-Realismus. Die Marke bleibt Crocs, aber Umgebung und Charakter werden vollständig in eine windgepeitschte, staubgefüllte, hochdramatische Szene mit überwältigender Bewegung und starker visueller Spannung verwandelt.
+Ultrarealistische Premium-Werbeanzeige mit einem kristallklaren Glas gefüllt mit reichhaltigem, cremigem Erdbeer-Smoothie in der Mitte eines luxuriösen Studiohintergrunds mit tiefem Karmesin-Verlauf. Frische ganze Erdbeeren und Erdbeerscheiben schweben elegant um das Glas, während seidige Schlagsahne den Smoothie mit frischen Minzblättern krönt. Zwei perfekt geschnittene Erdbeeren schweben durch die Mitte des Glases, umgeben von einem explosiven transparenten Wasserspritzer, der einen magischen Schwebeeffekt erzeugt. Winzige Kondenstropfen bedecken das Glas für ein frisch gekühltes Aussehen. Weiches volumetrisches Licht, realistische Schatten, glänzende Reflexionen, Premium-Food-Styling, schwebende Fruchtpartikel, filmische Tiefenschärfe, elegante Typografie mit „Fresh Strawberry Smoothie“, modernes Saftmarken-Logo, minimalistisches Layout, lebendige rote Farbpalette, Luxus-Getränkewerbung, hyperrealistische Produktfotografie, 8K, ultradetailliert.
 
-Hauptkomposition:
-Verwende eine extrem tiefe ultraweite Objektivaufnahme nahe am Boden, die nach oben zu einer reifen asiatischen Frau japanisch-koreanischer Herkunft blickt, die kraftvoll in einem riesigen wirbelnden Staubvortex steht. Ein überdimensionaler roter Crocs-Clog muss den Vordergrund in extremer erzwungener Perspektive dominieren, sehr nah am Objektiv erscheinen und zum absoluten Hero-Objekt werden. Der Schuh soll monumental, kühn, taktil und surreal wirken, während sich die Beine und der Körper der Frau durch die Objektivverzerrung dramatisch nach oben strecken. Die Szene soll den Moment einfangen, in dem sie selbstbewusst im Sturm steht, wobei die roten Crocs das Bild als das unmittelbarste und unvergesslichste visuelle Element verankern.
+Ultrarealistische Premium-Werbeanzeige mit einem luxuriösen Mango-Smoothie, serviert in einem transparenten Premium-Glas mit cremiger Textur und natürlich herabtropfendem frischem Mangopüree. Große saftige Mangowürfel, Mangoscheiben, Minzblätter und realistische Safttropfen schweben um das Getränk. Die Mitte des Glases ist von einem energischen Mangosaft-Spritzer umgeben, der eine eingefrorene Actionszene erzeugt. Heller tropischer Studiohintergrund mit Gelb-Orange-Verlauf und sanftem Leuchten. Kondensation bedeckt das Glas mit Premium-Reflexionen und realistischen Schatten. Elegante Typografie mit „Fresh Mango Smoothie“, minimalistisches Branding, filmisches Food-Styling, Luxus-Getränkekampagne, hyperrealistisch, kommerzielle Produktfotografie, 8K.
 
-Charakter-Regie:
-Verwende eine reife asiatische Frau japanisch-koreanischer Herkunft mit feinen Zügen, eleganter Knochenstruktur, starker Editorial-Präsenz und ruhiger Selbstsicherheit. Sie soll ein windgepeitschtes, vintage-inspiriertes Kleid tragen, etwa ein weiches Gingham- oder texturiertes leichtes Kleid mit Volumen und Bewegung, dramatisch vom Sturmwind angehoben und umhüllt. Ihr Haar soll in der Turbulenz nach oben und hinten fliegen. Ihr Ausdruck soll gefasst, furchtlos und kinoreif wirken, nicht lächelnd, nicht lässig, nicht influencer-haft. Sie soll wie die Heldin eines epischen Modefilms wirken, die in einer Naturgewalt steht.
+Ultrarealistische Luxus-Produktwerbung mit einer matten Premium-Proteinflasche, die über einem energischen Spritzer cremigen Joghurts gemischt mit Beerensaft schwebt. Frische Erdbeeren, Blaubeeren, Himbeeren und Brombeeren explodieren um die Flasche mit schwebender Bewegung und realistischen Flüssigkeitstropfen. Mattierte Flasche mit Kondensation bedeckt, dramatisches Studiolicht, glänzende Reflexionen, Premium-Verpackungsdesign, Hintergrund mit sanftem violettem und tiefem Beeren-Verlauf, schwebende Minzblätter, filmische Tiefenschärfe, Premium-Typografie mit „Mixed Berry Protein“, Luxus-Fitnessgetränkekampagne, Frozen-Splash-Fotografie, ultradetailliert, fotorealistisch, 8K.
 
-Schuh-Styling:
-Die Crocs müssen klar erkennbar, hochrealistisch und wunderschön gerendert bleiben, mit sichtbaren Perforationen, Gummitextur, Riemenstruktur, Sohlendetails und subtiler Staub- und Lichtinteraktion. Die Schuhfarbe muss ein starkes, kräftiges Rot sein, das als markanter Fokusakzent gegen die gedämpfte sandige Sturmpalette wirkt. Die Crocs im Vordergrund sollen scharf, detailliert und massiv erscheinen, mit erstklassigem Materialrealismus und einer kraftvollen Präsenz.
-
-Umgebung:
-Ersetze den Strand vollständig durch eine dramatische kreisförmige Staubsturm- oder Sandwirbel-Umgebung. Der Hintergrund soll wie ein gigantischer rotierender Tunnel aus Wind, Sand, Staub und fliegendem Schutt wirken, der sich um die Frau öffnet, fast wie das Auge eines Sturms. Feine Staubpartikel, fliegender Schutt, wirbelnde Erdtöne und turbulente Bewegung sollen den Rahmen umhüllen. Das Zentrum des Vortex kann blassen Himmel und dramatisches durchbrechendes Licht offenbaren und eine mythische kinoreife Atmosphäre schaffen. Der Schauplatz soll roh, elementar und atemberaubend wirken.
-
-Bewegung und Atmosphäre:
-Das Bild soll wirken, als würde alles in den Vortex gezogen, außer der Frau, die geerdet und ikonisch dasteht. Ihr Kleid peitscht heftig im Wind, ihr Haar fliegt in der Luft, und der Sturm spiralt in kreisförmiger Bewegung um sie herum. Füge schwebenden Staub, Sandstreifen, kleinen Schutt und subtile Bewegungsunschärfe an den äußeren Rändern des Rahmens hinzu. Die Komposition soll ein starkes visuelles Gefühl von Kraft, Geschwindigkeit, Schwerkraftverzerrung und kinoreifem Maßstab erzeugen.
-
-Beleuchtung:
-Verwende dramatische kinoreife Beleuchtung mit starkem Sonnenlicht, das durch Staub und Sturmwolken bricht. Das Licht soll von oben und hinten glühen, den Vortex durchdringen und atmosphärischen Dunst, Randlicht auf Kleid und Beinen sowie scharfe Glanzlichter auf den roten Crocs erzeugen. Die Szene soll golden, staubig, episch und realistisch wirken, mit luxuriösem Kontrast und geschichteter Tiefe.
-
-Kamerasprache:
-Das Objektiv soll extrem weit und immersiv wirken und die Größe der roten Crocs im Vordergrund sowie die aufragende Präsenz der Frau darüber übertreiben. Die Perspektive muss kühn und surreal, aber dennoch glaubwürdig als erstklassiges kommerzielles Bild sein. Der Bildausschnitt soll das Gefühl vermitteln, dass der Betrachter im Sturm steht, direkt unter dem sich nähernden Schuhwerk und dem Charakter.
-
-Typografie:
-Füge minimale erstklassige Kampagnen-Typografie hinzu, subtil im offenen Negativraum platziert:
-„CROCS“
-Optionale Support-Zeile:
-„STAND IN THE STORM“
-Optionaler chinesischer Support:
-„风暴中站稳自己“
-Die Typografie soll elegant, kinoreif und zurückhaltend wirken, niemals laut oder billig. Lass das Bild die emotionale Hauptkraft tragen.
-
-Farbpalette:
-Sturm-Beige,
-Staubbraun,
-Sandgold,
-gedämpftes Himmelblau,
-sonnenbeschienener Dunst,
-tiefes Schatten-Taupe,
-kräftiges Crocs-Rot.
-Der rote Schuh muss der stärkste Farbakzent im Rahmen sein.
-
-Stimmung:
-episch, kinoreif, surreal, Mode-Editorial, windgepeitscht, kraftvoll, dramatisch, hyperreal, mythisch, kühn, unvergesslich, erstklassige Kampagnenqualität.
-
-Rendering:
-hyperrealistische kommerzielle Schuhfotografie, extreme ultraweite Objektivverzerrung, dramatische Staubvortex-Simulation, kinoreifes Mode-Styling, realistisches Rendering des roten Crocs-Materials, fliegender Schutt, volumetrische Sturmbeleuchtung, luxuriöse Editorial-Atmosphäre, immersive Komposition aus tiefem Winkel, Meisterwerk-Kampagnenqualität, 8k.
-
-Negativ-Prompt:
-Strandszene, Meerwasser, schwache Perspektive, generische Schuhwerbung, Cartoon-Sturm, detailarme Crocs, flache Beleuchtung, lässiger Influencer-Vibe, überladener Hintergrund, schwache Windbewegung, schlechte Kleiderbewegung, plastikartig aussehender Staub, billiges Fantasy-Poster, unlesbare Crocs-Identität
+Ultrarealistische Premium-Werbeanzeige mit einer matten kobaltblauen Joghurtflasche, die in der Luft über einem explosiven cremigen Milchspritzer schwebt. Frische Blaubeeren, halbierte Blaubeeren und winzige Blaubeerpartikel fliegen dynamisch um die Flasche mit realistischer Bewegungsunschärfe. Die Flasche ist mit detaillierten Kondenstropfen und sanften Reflexionen bedeckt. Schwebende Minzblätter fügen Frische hinzu, während reichhaltige Milchwirbel die Flasche natürlich umschließen. Sauberer Hintergrund mit Blau-zu-Violett-Verlauf mit filmischem Konturlicht, Premium-Produktschatten, glänzenden Highlights, minimalistischem Branding mit „Blueberry Protein Yogurt“, Luxus-Molkerei-Werbefotografie, ultrarealistische Texturen, dynamische Komposition, eingefrorene Actionaufnahme, kommerzielle Studiobeleuchtung, 8K, fotorealistisch.
 ```
 
 </details>
@@ -2265,7 +2108,7 @@ Strandszene, Meerwasser, schwache Perspektive, generische Schuhwerbung, Cartoon-
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMs65bia0AATMiX.jpg" width="700" alt="Rote Crocs im Sturmwirbel">
+<img src="https://image.moge.ai/prompt_media/HMxj1h1akAAbUzt.jpg" width="700" alt="Premium-Fruchtgetränke-Werbung">
 </div>
 
 <br>
@@ -2274,35 +2117,51 @@ Strandszene, Meerwasser, schwache Perspektive, generische Schuhwerbung, Cartoon-
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2074816884495843818) | 2026-07-08 |
+| [Snow](https://x.com/iamrealsnow) | [X / Twitter](https://x.com/iamrealsnow/status/2075143322818224489) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074816884495843818)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2075143322818224489)**
 
 </div>
 
 ---
 
-### No. 32: Vektor-Poster für Film-Auto
+### No. 32: Avatar durchbricht die X-Timeline
 
 ![Kategorie: Kreative Visuals](https://img.shields.io/badge/Kategorie-Kreative%20Visuals-lightgrey)
 
 #### 📚 Beschreibung
 
-Erstellt ein Auto-Poster im Vektorstil mit klaren, kräftigen Linien, dominantem Auto in Dreiviertelansicht mit Logo und Modellname.
+Erzeugt eine cineastische Kunst, in der ein Referenz-Avatar die X-Timeline-Oberfläche durchbricht, mit Glassplittern und hochwertiger Werbeplakat-Typografie.
 
 #### 🌟 Prompt
 
-[Vollständige Autobeschreibung und filmgetreue Details], Dreiviertelansicht, Vektor-Art-Stil, klare kräftige …
+{Referenz\_Avatar} = [Referenz-Avatar] [Eingabefelder] {Bildverhältnis} = 1:1 / 4:5 / 9:16 {X\_Benutzer\_ID} = …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-[Vollständige Autobeschreibung und filmgetreue Details], Dreiviertelansicht, Vektor-Art-Stil, klare kräftige Linien mit subtilen Farbverläufen, tiefergelegte aggressive Haltung, detaillierte Räder und Lichter. Einfarbiger Hintergrund in [Hauptfarbe des Autos] mit sanfter, glänzender Reflexion am Boden. Oben mittig: [Marken]-Logo. Unter dem Logo: "[Modellname]" in eleganter moderner Schrift. Hauptauto riesig skaliert und dominiert das Bild, Seitenverhältnis 16:9, dynamische Komposition
+{Referenz_Avatar} = [Referenz-Avatar]
+[Eingabefelder]
+{Bildverhältnis} = 1:1 / 4:5 / 9:16
+{X_Benutzer_ID} = @dein_account
+{Haupttext} = BREAK THE TIMELINE
+
+[Haupttext]
+Verwende den {Referenz_Avatar} als dieselbe Figur. Bewahre Gesichtszüge, Frisur, Haarfarbe, Körperbau, Kleidung, Farben und Atmosphäre, ohne ihn zu einer anderen Person zu machen. Der Ausdruck ist nicht lächelnd: Mundwinkel nicht angehoben, Lippen fest zusammengepresst, Augenbrauen leicht zusammengezogen — ein scharfer, rebellischer, entschlossener Blick.
+Cineastische Digitalkunst im {Bildverhältnis}. Der Hintergrund ist eine Timeline-UI im X-Light-Mode-Stil auf hellweißer Basis. Kein Smartphone; der UI-Bildschirm selbst erstreckt sich full-bleed über die gesamte Leinwand. Zeige keinen äußeren Smartphone-Rahmen, keine schwarze Blende und keine Geräteränder.
+Oben ein weißer Header, eine schwarze X-Marke in der Mitte und eine Navigation mit zwei Tabs. Im Hintergrund Post-Karten, runde Profil-Icons sowie Antwort-, Repost-, Like-, Aufruf- und Teilen-Icons, die eine raffinierte, minimalistische X-Timeline bilden. Behandle den Post-Text als hellgraue Dummy-Textzeilen und zeige nur die «{X_Benutzer_ID}» klar auf einer auffälligen Post-Karte oder Profilzeile.
+Der {Referenz_Avatar} durchschlägt den X-Timeline-Bildschirm physisch von innen, durchbricht den zersplitterten transparenten Screen und die UI-Ebenen und springt nach vorne heraus. Eine Faust kraftvoll zur Kamera gestoßen, der andere Arm nach hinten gezogen, der Oberkörper in einer dynamischen Zerstörungspose gedreht. Gib Faust, Schultern, Haaren und Kleidung starke Bewegung und betone Spannung und Wucht des Durchbruchmoments.
+Die Timeline selbst ist zerstört. Post-Karten durch Risse zerteilt, jedes UI-Icon entlang der Spalten verzerrt, weiße UI-Panels lösen sich als dünne Schichten ab und verstreuen sich in die Tiefe. Transparente Glassplitter, weiße UI-Fragmente, feine Lichtrisse und Schockwellen fliegen zur Kamera. Dennoch bleibt das Gesicht des Avatars klar sichtbar.
+Platziere «{Haupttext}» groß im Vordergrund des Bildschirms, von der Mitte nach unten. Kein bloßer Text, sondern das Haupttitel-Logo eines hochwertigen Werbeplakats. Ultrafette, schmale Sans-Serif im Stil vertikaler, kraftvoller Werbefonts wie Druk, Bebas Neue, Anton, DIN Condensed. Füge weiß-silberne 3D-Abschrägung, schwarzen Innenschatten, hellgrauen Schlagschatten, scharfe Kanten, Glasrisse, transparente Splitter, Kantenlicht und leichte Schockwellen-Verzerrung hinzu. Der Text muss korrekt geschrieben, scharf, lesbar und nicht in UI oder Splittern untergegangen sein.
+Die Gesamtbeleuchtung ist hell und klar. Auf Basis von Weiß, Schwarz, Hellgrau und Silber mit dezenten blauen oder cyanfarbenen Akzenten. Hochwertiges cineastisches Werbevisual, scharfe Details, dynamische Komposition mit Tiefe. Bewahre das Design des Referenz-Avatars und liefere ein hochwertiges Finish mit Volumen und Wucht.
+
+[Verbote]
+Lächeln, fröhlicher Ausdruck, niedlicher Idol-Stil, Verwandlung in eine andere Person, Kleidungswechsel, mehrere Figuren, deformierte Anatomie/Finger, verdecktes Gesicht, UI eines anderen sozialen Netzwerks als X, Instagram-Stil, TikTok-Stil, YouTube-Stil, Facebook-Stil, blaues Twitter-Vogel-Logo, Smartphone-Gehäuse, schwarze Blende, schwarzer Rahmen, dunkler Hintergrund, billiger Text, runde Buchstaben, Pop-Buchstaben, Text ohne Effekte, verstümmelte Zeichen, Rechtschreibfehler, überflüssiger Text, andere Kontonamen als die angegebene ID, mangelndes Zerstörungsgefühl, keine Glassplitter, keine UI-Zerstörung, flach, geringe Qualität, unscharf, Blut, Wunden, Horror-Darstellung
 ```
 
 </details>
@@ -2310,7 +2169,7 @@ Erstellt ein Auto-Poster im Vektorstil mit klaren, kräftigen Linien, dominantem
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMpqpBMawAAfwcO.jpg" width="700" alt="Vektor-Poster für Film-Auto">
+<img src="https://image.moge.ai/prompt_media/HMvW4cXa0AAkYP3.jpg" width="700" alt="Avatar durchbricht die X-Timeline">
 </div>
 
 <br>
@@ -2319,13 +2178,13 @@ Erstellt ein Auto-Poster im Vektorstil mit klaren, kräftigen Linien, dominantem
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [Shams](https://x.com/ShamsAmin56) | [X / Twitter](https://x.com/ShamsAmin56/status/2074587835051778152) | 2026-07-07 |
+| [AIライフハック](https://x.com/ai_lifehack55) | [X / Twitter](https://x.com/ai_lifehack55/status/2075053578738131137) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074587835051778152)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2075053578738131137)**
 
 </div>
 
@@ -2473,35 +2332,29 @@ Textanforderung: einen Satz Namen in großer Schrift, eine Zeile Interviewthema 
 
 ---
 
-### No. 35: Chibi-Tonfigur mit Deinem Namen
+### No. 35: Vintage-Reiseposter im Papierschnitt-Stil
 
 ![Kategorie: Illustration & IP](https://img.shields.io/badge/Kategorie-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Beschreibung
 
-Verwandelt dein Profilbild in eine handgefertigte Chibi-Tonfigur im Stop-Motion-Stil, die vor 3D-Buchstaben mit deinem Namen in einer minimalistischen japanischen Kulisse posiert.
+Erstellt ein elegantes Vintage-Reiseposter im mehrschichtigen Papierschnitt-Stil mit dem Wahrzeichen einer europäischen Stadt und feiner Serifentypografie.
 
 #### 🌟 Prompt
 
-Verwende den hochgeladenen Charakter streng als visuelle Referenz nur für Aussehen, Outfit, Frisur, …
+Erstelle ein hochwertiges Vintage-Reiseposter in einem eleganten, handgefertigten Stil aus mehrschichtiger …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Verwende den hochgeladenen Charakter streng als visuelle Referenz nur für Aussehen, Outfit, Frisur, Accessoires, Farbpalette, Körperproportionen und die allgemeine Ähnlichkeit. Kopiere nicht die Pose, den Bildausschnitt, den Kamerawinkel, die Beleuchtung, die Waffe oder den Hintergrund der Referenz. Entferne das Schwert vollständig und bewahre dabei die Gesamtidentität des Charakters.
+Erstelle ein hochwertiges Vintage-Reiseposter in einem eleganten, handgefertigten Stil aus mehrschichtiger Papierschnitt- und Papercraft-Illustration, inspiriert von klassischen europäischen Tourismusplakaten. Die Komposition zeigt das ikonischste Wahrzeichen der gewählten Stadt als Mittelpunkt, umgeben von charmanter historischer Architektur mit Terrakotta-Dächern, Kopfsteinpflasterstraßen, Flüssen, Brücken, Booten, mittelalterlichen Türmen, Kirchen, Burgen, Cafés, Bäumen und subtilen Landschaftselementen. Jedes Objekt erscheint als sorgfältig geschnittene Schichten aus strukturiertem Karton mit sichtbarer Papiermaserung, weichen Schatten, gestapelter Tiefe und feinen handgefertigten Kanten.
 
-Erstelle eine originelle handgefertigte Tonfigur im Sammlerstil, inspiriert vom Charakter, neu gestaltet als verspieltes Chibi-Designer-Spielzeug. Die Figur steht selbstbewusst mit dem Gesicht zum Betrachter, mit warmem Blickkontakt und einem freundlichen Lächeln. Halte die Proportionen leicht übertrieben mit größerem Kopf, runden Gliedmaßen, klobigen Sneakern, weichen vereinfachten Gesichtszügen und einer hochwertigen Stop-Motion-Ton-Ästhetik.
+Verwende eine warme Pastellfarbpalette mit gedämpften Cremetönen, Beige, Salbeigrün, Staubblau, Terrakotta und weichem goldenem Sonnenuntergangslicht. Füge minimalistische Papierschnitt-Wolken, winzige fliegende Vögel, alte Straßenlaternen, dekoratives Blattwerk und einen subtilen atmosphärischen Dunst für Tiefe hinzu. Rahme das Kunstwerk wie ein hochwertiges Sammler-Reiseposter, gedruckt auf gealtertem, strukturiertem Papier mit leicht abgenutzten Kanten.
 
-Positioniere den Charakter zentriert vor großen überdimensionierten mattschwarzen Blockbuchstaben, die lauten
-"ENTER YOUR NAME HERE!"
-Die Typografie sollte skulptural und kräftig wirken, wobei die Figur sich natürlich an die Buchstaben lehnt oder mit ihnen interagiert, ohne deren Lesbarkeit zu blockieren.
+Zeige oben den Stadtnamen in großer, eleganter Serifentypografie, darunter den Stadt- und Ländernamen in der Landessprache in kleinerem, feinem Serifentext. Bewahre ein klares redaktionelles Layout mit großzügigem Weißraum, ausgewogener Komposition und zeitloser europäischer Designästhetik.
 
-Die gesamte Figur sollte aus mattem Polymer-Ton geformt erscheinen, mit subtilen Fingerabdrücken, winzigen Modellierspuren, weichen abgerundeten Kanten, sanften Unvollkommenheiten und realistischer handgefertigter Textur. Vereinfache das Outfit zu klaren Tonformen und halte es dabei sofort erkennbar.
-
-Platziere alles in einem sauberen weißen redaktionellen Studioraum, angereichert mit geschichteten grafischen Elementen im japanischen Stil. Hinter der Typografie füge überdimensionierte abstrakte Kreise, ausdrucksstarke Pinselstriche, geometrische Formen, subtile Farbspritzer, schwebende Punkte, dünne grafische Linien und weiche Scherenschnitt-Formen in gedämpften Terrakotta-, staubblauen, korallenroten, beigen und schwarzen Akzenten hinzu. Halte die Komposition minimalistisch, ausgewogen und hochwertig, mit großzügigem Negativraum, damit der Charakter der klare Blickfang bleibt.
-
-Weiches diffuses Studiolicht, zarte natürliche Schatten, Sammler-Designer-Spielzeugfotografie, handgefertigte Ton-Animation, japanischer Pop-Art-Minimalismus, hochwertiges redaktionelles Posterdesign, moderne Produktpräsentation in Museumsqualität, quadratisches Format.
+Ultradetaillierte Papercraft-Illustration, mehrschichtiges Papierschnitt-Relief, handgefertigte Miniaturarchitektur, hochwertiges redaktionelles Posterdesign, Vintage-Tourismuswerbung, Druck in Museumsqualität, weiches Umgebungslicht, realistische Papiertextur, raffinierte Farbabstufung, hochdetailliert, 8K, elegant, minimalistisch, nostalgisch, Sammlerkunstwerk.
 ```
 
 </details>
@@ -2509,7 +2362,7 @@ Weiches diffuses Studiolicht, zarte natürliche Schatten, Sammler-Designer-Spiel
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMo6xoaWkAEoN5N.jpg" width="700" alt="Chibi-Tonfigur mit Deinem Namen">
+<img src="https://image.moge.ai/prompt_media/HMpEG41a8AAyvNv.jpg" width="700" alt="Vintage-Reiseposter im Papierschnitt-Stil">
 </div>
 
 <br>
@@ -2518,35 +2371,46 @@ Weiches diffuses Studiolicht, zarte natürliche Schatten, Sammler-Designer-Spiel
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [MD](https://x.com/mdmadeit) | [X / Twitter](https://x.com/mdmadeit/status/2074535259912192034) | 2026-07-07 |
+| [Taaruk](https://x.com/Taaruk_) | [X / Twitter](https://x.com/Taaruk_/status/2074545486376407393) | 2026-07-07 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074535259912192034)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074545486376407393)**
 
 </div>
 
 ---
 
-### No. 36: Sokolov-Creme mit Kirschen
+### No. 36: Luxus-Beauty-Magazincover
 
 ![Kategorie: Fotografie & Bild](https://img.shields.io/badge/Kategorie-Fotografie%20%26%20Bild-lightgrey)
 
 #### 📚 Beschreibung
 
-Dramatische Produktfotografie aus niedrigem Winkel einer dunkelroten Handcreme auf einem Glaspodest mit herablaufendem Wasser und glänzenden Kirschen.
+Erstellt ein ultrarealistisches Luxus-Skincare-Editorial-Cover mit einer Frau an der Küste im Morgengrauen, die einen Cremetiegel hält, samt edler Typografie und Cover-Zeilen.
 
 #### 🌟 Prompt
 
-Dramatische Produktfotografie aus niedrigem Winkel der dunkelroten Sokolov Beauty Handcreme-Flasche, die auf …
+Verwende das Referenzfoto nur für die Gesichtsidentität. Bewahre exakt dasselbe Gesicht, Alter, denselben …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Dramatische Produktfotografie aus niedrigem Winkel der dunkelroten Sokolov Beauty Handcreme-Flasche, die auf der scharfen Kante eines transparenten Glaspodests steht. Die Flasche wird aus einer niedrigen Perspektive nach oben blickend aufgenommen. Klares Wasser tropft und fließt elegant an den Seiten der Flasche und über die Glasoberfläche herab. Mehrere saftige, glänzende dunkelrote Kirschen liegen neben der Flasche auf dem Podest. Tiefer Bordeaux-Hintergrund mit einem sanften Lichtverlauf, der nach oben hin verblasst. Dramatische filmische Beleuchtung mit starken Glanzlichtern und tiefen Schatten, die eine luxuriöse und sinnliche Stimmung erzeugt. Hochdetaillierte Wassertropfen und Reflexionen, Premium-Beauty-Werbefotografie, scharfer Fokus, 8K-Auflösung, fotorealistisch.
+Verwende das Referenzfoto nur für die Gesichtsidentität. Bewahre exakt dasselbe Gesicht, Alter, denselben Hautton, dieselbe Gesichtsstruktur und Gesamterscheinung ohne Änderungen. Repliziere nicht die ursprüngliche Pose, Kleidung, Bildausschnitt oder Umgebung.
+
+Ultrarealistisches Luxus-Skincare-Editorial-Cover mit derselben Frau, die bei Sonnenaufgang auf einer abgelegenen Küstenfelsformation steht, leicht zum Horizont blickt und behutsam einen ikonischen türkisfarbenen La-Mer-Cremetiegel auf Brusthöhe hält. Sie trägt ein fließendes Wickelkleid aus meerschaumgrünem Chiffon mit durchscheinenden Lagen, die sich sanft in der Meeresbrise bewegen. Barfuß, umgeben von flachen, spiegelnden Gezeitentümpeln, die das weiche Morgenlicht reflektieren.
+
+Frische, leuchtende Haut mit natürlich hydratisiertem Glanz, minimalem Make-up, dezent glänzenden Lippen und sanft windzerzaustem dunklem Haar, das über ihre Schultern fällt. Atmosphärische Küstenkulisse mit ziehendem Meeresnebel, schimmernden Wasserreflexionen und einem pastellfarbenen Morgenhimmel, der Türkis-, Silber- und warme Pfirsichtöne vereint. Elegante Luxus-Beauty-Kampagnen-Ästhetik mit filmischer Tiefe und raffinierter Komposition.
+
+Magazincover-Design mit dem Titel einer Premium-Luxus-Beauty-Publikation “AQUA LUXE” in eleganter aquafarbener Serifentypografie am oberen Rand, mit raffinierten redaktionellen Coverzeilen und einer hervorgehobenen Schlagzeile “The Art of Timeless Hydration”. Der Produkttiegel bleibt mit scharfem Branding und filigranen Etikettdetails klar sichtbar.
+
+Aufgenommen mit einem 85-mm-Objektiv, geringe Schärfentiefe, natürliches Morgenlicht, ultrarealistische Hauttextur, Premium-Modefotografie, Luxus-Skincare-Werbung, ozeaninspirierte Farbpalette, hochwertige Beauty-Kampagne, fotorealistische 8K-Qualität, gestochen scharfe Details, anspruchsvolle Magazincover-Komposition.
+
+Negativer Prompt:
+Cartoon, CGI, Anime, Illustration, niedrige Auflösung, unscharf, überbearbeitete Haut, starkes Make-up, hartes Studiolicht, dupliziertes Produkt, verzerrtes Gesicht, veränderte Gesichtszüge, zusätzliche Finger, zusätzliche Gliedmaßen, Textartefakte, Wasserzeichen, Logofehler, unrealistische Reflexionen, übersättigte Farben, plastikartige Haut, schlechte Anatomie.
 ```
 
 </details>
@@ -2554,7 +2418,7 @@ Dramatische Produktfotografie aus niedrigem Winkel der dunkelroten Sokolov Beaut
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMo_AcTboAA_WhL.jpg" width="700" alt="Sokolov-Creme mit Kirschen">
+<img src="https://image.moge.ai/prompt_media/HMwPGSXboAAZLAV.jpg" width="700" alt="Luxus-Beauty-Magazincover">
 </div>
 
 <br>
@@ -2563,535 +2427,74 @@ Dramatische Produktfotografie aus niedrigem Winkel der dunkelroten Sokolov Beaut
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [Snow](https://x.com/iamrealsnow) | [X / Twitter](https://x.com/iamrealsnow/status/2074539886028456425) | 2026-07-07 |
+| [Meem](https://x.com/mehvishs25) | [X / Twitter](https://x.com/mehvishs25/status/2075050208019550530) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074539886028456425)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2075050208019550530)**
 
 </div>
 
 ---
 
-### No. 37: Universelle FMCG-Produkt-Hero-Werbung
+### No. 37: Minimalistisches Fruchtwein-Poster
 
 ![Kategorie: Werbung & Produkt](https://img.shields.io/badge/Kategorie-Werbung%20%26%20Produkt-lightgrey)
 
 #### 📚 Beschreibung
 
-Verwandelt das Foto eines einzelnen Produkts in eine hochwertige FMCG-Hero-Werbung mit automatischer Headline und Features, Markenlogo und einem minimalistischen Luxus-Katalog-Layout im Apple-Stil.
+Erstellt ein ultra-premium Fruchtrotwein-Poster aus der Vogelperspektive: die liegende Flasche im Zentrum, umgeben von Kirschen, Cranberries, Weizen und Erde in sanftem, luxuriösem Aquarellstil.
 
 #### 🌟 Prompt
 
-UNIVERSELLER FMCG-PRODUKT-HERO-AD-MASTER (McLearn Sport-Rennwagen, neuestes MODELL) PROMPT™ V2.0 ROLLE Agiere …
+Erstelle ein ultra-premium minimalistisches Poster für den spanischen Fruchtrotwein ORAN, das dieselbe …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-UNIVERSELLER FMCG-PRODUKT-HERO-AD-MASTER (McLearn Sport-Rennwagen, neuestes MODELL) PROMPT™ V2.0
+Erstelle ein ultra-premium minimalistisches Poster für den spanischen Fruchtrotwein ORAN, das dieselbe raffinierte Serien-Sprache fortsetzt: sauberer galerieartiger Hintergrund, zurückhaltende Typografie, gesättigte doch elegante Aquarell-/Hellfarb-Atmosphäre und extrem weiches filmisches Licht. Die Komposition muss eine strikte Draufsicht (Flat Lay) sein, alle Elemente auf einer flachen Oberfläche wie ein luxuriöses Stillleben angeordnet. Das Bild soll poetisch, taktil, ausgewogen und sammlerwürdig wirken.
 
-ROLLE
+Hauptkomposition:
+Verwende eine strikte Vogelperspektive. Platziere eine realistische ORAN-Fruchtrotweinflasche flach liegend in der Bildmitte auf warmem Elfenbein, blassem Pergament oder weichem Creme-Hintergrund. Die Flasche soll der visuelle Anker sein, vollständig von oben sichtbar, mit eleganten Proportionen und lesbarem Etikett. Um die Flasche herum ordne unterstützende Zutaten in einem sorgfältig komponierten Flat-Lay-Arrangement an, das natürlich, organisch und luxuriös wirkt. Das gesamte Bild soll wie ein raffiniertes Tisch- oder Kunstpapier-Stillleben direkt von oben wirken.
 
-Agiere als Weltklasse-FMCG-Werbekreativdirektor, Luxus-Produktfotograf, Markenstratege, Schweizer-Typografie-Experte, Design-Direktor auf Apple-Niveau, Visual-Merchandising-Experte, V-Ray-Rendering-Spezialist, Unreal-Engine-5-Künstler, IMAX-Kameramann, globaler Produktwerbe-Art-Director, Verpackungsdesigner und Premium-Commercial-Retuscheur im VOLLAUTOMATISCHEN REGIE-MODUS.
+Flaschen-Styling:
+Die Flasche muss hyperrealistisch und premium sein: tiefe Glasreflexionen, raffinierte Weinflaschen-Silhouette, luxuriöse Etikettentextur, sanfter Glanzabfall, satter dunkelroter Glaston, klares Premium-Branding. Die Flasche soll horizontal liegen oder mit ganz leichter diagonaler Neigung für besseren Rhythmus, aber klar zentral und dominant bleiben.
 
----
+Zutaten-Arrangement:
+Ordne die unterstützenden Elemente flach um die Flasche natürlich, aber hochgradig art-directed an: feine dunkle Erde, Weizenhalme, frische rote Kirschen, Cranberries, kandierte rote Beeren oder eingemachte rote Früchte, einige verstreute Samen oder natürliche Fragmente, falls elegant. Diese Zutaten sollen sich mit Balance und Freiraum um die Flasche verteilen, niemals vertikal aufgetürmt. Die Erde soll als zarte texturierte Flecken unter und um Teile der Flasche erscheinen. Weizenhalme sollen anmutig bogen. Kirschen und Beeren sollen das Layout wie kostbare rote Akzente akzentuieren. Alles soll bewusst platziert, aber natürlich harmonisch wirken.
 
-EINGABE
+Visuelle Logik:
+Flasche und Zutaten müssen als ein einheitliches Flat-Lay-Stillleben gelesen werden. Die Erde verankert den Wein im Terroir, der Weizen deutet Ernte und Land an, und die roten Früchte drücken die fruchtige Geschmacksidentität aus. Das Arrangement soll wirken, als wäre die Flasche sanft in ihre eigene Ursprungsgeschichte gelegt worden. Kein Element soll zufällig verstreut wirken.
 
-Lade NUR EIN Produktbild hoch.
+Kamera und Perspektive:
+Die Kamera muss direkt darüber sein, von oben nach unten, ohne Frontwinkel und ohne Perspektivneigung. Die Komposition soll grafisch, ruhig und stark kontrolliert wirken, Form, Abstand und Materialkontrast auf einer flachen Ebene betonend.
 
-Das hochgeladene Bild kann JEDE PRODUKTKATEGORIE enthalten, einschließlich, aber nicht beschränkt auf:
+Stilbehandlung:
+Wende eine raffinierte gesättigte Aquarell-/Hellfarb-Atmosphäre auf die Gesamtstimmung an, während starker Realismus bei Flasche und Zutaten erhalten bleibt. Das Bild kann haben: weiche pigmentartige Tonblüte, subtile Kunstpapier-Wärme, leichte malerische Weichheit im Hintergrund, kontrollierte Sättigung bei Früchten und Weizen, sanfte organische Tonübergänge. Das Aquarellgefühl soll die Atmosphäre bereichern, ohne den Objektrealismus zu mindern.
 
-Shampoo
+Beleuchtung:
+Verwende extrem zartes, weiches, premium Licht von oben. Priorisiere: sanften Glanzabfall auf dem Flaschenglas, weiche Schatten nah an den Objekten, subtiles Relief in der Erdtextur, ruhige Reflexionen in Kirschhäuten, samtige Tonübergänge über die Flat-Lay-Oberfläche. Das Licht soll ruhig, museumsartig und teuer wirken, ohne harte gerichtete Dramatik.
 
-Seife
+Hintergrund:
+Halte den Hintergrund sehr sauber und matt, wie feines Kunstpapier, Premium-Wandstoff oder luxuriöser Editorial-Tisch. Verwende warmes Elfenbein, blasses Pergament oder weiches neutrales Creme. Keine zusätzlichen Requisiten, keine Kulisse, kein Durcheinander. Der leere Raum muss Teil der Eleganz sein.
 
-Lotion
+Typografie:
+Halte die Typografie minimal und nur titelartig. Füge nur einen zurückhaltenden eleganten Titel hinzu, falls nötig: „ORAN“. Optionaler kleiner Untertitel: „Spanish Fruit Red Wine“. Die Typografie soll subtil, luftig und sekundär sein, mit großzügigem Freiraum.
 
-Kosmetik
+Farbpalette:
+warmes Elfenbein, blasses Pergament, tiefes Weinrot, rubinrotes Kirschrot, Cranberry-Karmesin, kandiertes Beeren-Burgunder, Weizengold, Erdbraun, weiche neutrale Schatten. Die Palette soll reich, doch zurückhaltend, taktil und premium wirken.
 
-Parfüm
+Stimmung:
+minimal, poetisch, taktil, raffiniert, ernteorientiert, luxuriös, Flat-Lay-Stillleben, galerieartig, sammlerqualitätives Wein-Kampagnenbild.
 
-Getränk
+Rendering:
+ultra-detaillierte Premium-Flat-Lay-Fotografie, realistische ORAN-Weinflasche, Stillleben-Komposition von oben, natürliches Zutaten-Arrangement, feine Erdtextur, elegante Weizenplatzierung, glänzende Kirschen und Cranberries, kandierte rote Beeren, gesättigtes Aquarell-/Hellfarb-Finish, weiche filmische Oberlichtbeleuchtung, minimale luxuriöse Komposition, museumsreifes Weinposter-Finish, 8k, Meisterwerk.
 
-Lebensmittelprodukt
-
-Kunststoffmöbel
-
-Elektronik
-
-Küchenutensilien
-
-Haushaltsgeräte
-
-Modeaccessoires
-
-Haushaltsartikel
-
-FMCG-Produkte
-
-Konsumgüter
-
-Industrieprodukte
-
-Lifestyle-Produkte
-
-KEINE FRAGEN.
-
-KEINE MANUELLEN EINSTELLUNGEN.
-
-KEINE ZUSÄTZLICHE EINGABE ERFORDERLICH.
-
----
-
-ZIEL
-
-Verwandle das hochgeladene Produkt in eine PREMIUM-FMCG-HERO-WERBUNG, geeignet für:
-
-• Produktkatalog
-• Amazon-Listing
-• Markenkampagne
-• Social Media
-• Plakatwand
-• Verpackungspromotion
-• Website-Banner
-• Produkteinführung
-• Printanzeige
-
-Bewahre 100% der originalen Produktidentität.
-
-Gestalte das Produkt niemals neu.
-
-Bewahre:
-
-Originalform
-
-Originalverpackung
-
-Original-Branding
-
-Original-Logo
-
-Originalfarben
-
-Originaletikett
-
-Originalproportionen
-
-Originalmaterialien
-
-Original-Produktdetails
-
-Originaltextur
-
-Das hochgeladene Produkt muss der absolute HELD bleiben.
-
----
-
-BRANDING
-
-Oben links
-
-Erkenne und verwende automatisch das ORIGINAL-MARKENLOGO des hochgeladenen Produkts.
-
-Wenn das Logo auf der Verpackung existiert, erstelle es sauber neu und platziere es als Premium-Markenlogo in der oberen linken Ecke.
-
-Ersetze die Marke NICHT.
-
-Erfinde KEIN anderes Logo.
-
-Das Logo sollte so aussehen, als wäre es von der offiziellen Marke geliefert.
-
-Premium-saubere Präsentation.
-
----
-
-FARBRICHTUNG
-
-Analysiere automatisch das hochgeladene Produkt und extrahiere seine primären Markenfarben.
-
-Verwende diese Farben im gesamten Design.
-
-Hintergrund, typografische Akzente, Trennlinien, Verläufe, Lichtreflexe und subtile Designelemente sollten mit der Farbpalette des Produkts harmonieren.
-
-Beispiele:
-
-Schwarzes Produkt → Luxus-Palette Schwarz, Grau, Weiß
-
-Blaues Produkt → Premium-Palette Weiß + Blau
-
-Grünes Produkt → sanftes Salbei + Weiß
-
-Goldenes Produkt → Elfenbein + Gold
-
-Rotes Produkt → Weiß + Tiefrot
-
-Oranges Produkt → warmes Creme + Orange
-
-Braunes Produkt → Beige + Braun
-
-Petrolfarbenes Produkt → Weiß + Petrol
-
-Rosa Produkt → sanftes Rosa + Weiß
-
-Die Gesamtszene sollte sich wie eine offizielle Kampagne anfühlen, die speziell für dieses Produkt erstellt wurde.
-
----
-
-HEADLINE-SYSTEM
-
-Generiere eine Premium-Werbeheadline basierend auf der Produktkategorie.
-
-Beispiele:
-
-PURE PERFORMANCE
-
-BEAUTY REDEFINED
-
-CARE THAT LASTS
-
-SMOOTH EVERYDAY
-
-POWER IN EVERY DROP
-
-SIMPLICITY PERFECTED
-
-DESIGNED TO PERFORM
-
-ELEVATE YOUR DAILY ROUTINE
-
-LUXURY YOU CAN FEEL
-
-SMART DESIGN. EVERYDAY USE.
-
-AUTOMATISCH GENERIEREN.
-
-Wiederhole niemals den Verpackungstext.
-
----
-
-UNTERÜBERSCHRIFT
-
-Generiere einen Premium-Unterstützungssatz.
-
-Beispiel:
-
-"Entworfen für moderne Lebensstile mit kompromissloser Qualität."
-
-oder
-
-"Premium-Leistung, geschaffen für alltägliche Exzellenz."
-
-Maximal zwei Zeilen.
-
----
-
-MERKMALSBEREICH
-
-Platziere ihn auf der LINKEN SEITE.
-
-Generiere vier reine Premium-Textmerkmale basierend auf dem hochgeladenen Produkt.
-
-Beispiele:
-
-Fortschrittliche Formel
-
-Premium-Qualität
-
-Tägliches Essential
-
-Langanhaltende Leistung
-
-Hautfreundlich
-
-Hohe Haltbarkeit
-
-Witterungsbeständig
-
-Einfache Wartung
-
-Leichtgewichtig
-
-Kraftvolle Reinigung
-
-Glattes Finish
-
-Überlegener Schutz
-
-Feuchtigkeitseinschluss
-
-Profi-Qualität
-
-KEINE ICONS.
-
-NUR TEXT.
-
----
-
-HERO-PRODUKTDARSTELLUNG
-
-Hauptprodukt:
-
-• Große Hero-Komposition
-
-• Das Produkt nimmt etwa 70% des Layouts ein
-
-• Premium-Perspektive
-
-• Schöne Balance
-
-• Ultrarealistischer Kontaktschatten
-
-• Sanfte Bodenreflexion
-
-• Luxuriöse Komposition
-
-Das Produkt ist immer der visuelle Fokus.
-
----
-
-MINI-PRODUKTGALERIE
-
-Unterer Streifen.
-
-Generiere 4–5 saubere Produktwinkel.
-
-Beispiele:
-
-Vorderseite
-
-45°
-
-Seite
-
-Rückseite
-
-Oben
-
-Nahaufnahme (falls zutreffend)
-
-Bewahre identische Beleuchtung.
-
-Saubere gleiche Abstände.
-
-Katalogqualität.
-
----
-
-HINTERGRUND
-
-Apple-inspirierter Minimalismus.
-
-Ultrasauberes Luxusstudio.
-
-Kein Durcheinander.
-
-Keine unnötigen Requisiten.
-
-Keine dekorative Grafik.
-
-Keine Icons.
-
-Keine Muster.
-
-Keine falschen Umgebungen.
-
-Verwende einen Premium-Studiohintergrund, inspiriert von der eigenen Farbpalette des Produkts.
-
-Enthalte:
-
-Sanften Verlauf
-
-Großen natürlichen Fensterschatten
-
-Subtile Bodenreflexion
-
-Luxuriöses Tageslicht
-
-Editorielle Beleuchtung
-
-Minimale Architektur
-
-Eleganten Negativraum
-
-Premium-Atmosphäre.
-
----
-
-BELEUCHTUNG
-
-Sanfte Tageslicht-Studiobeleuchtung
-
-Natürliche Fensterschatten
-
-Luxuriöse Reflexionen
-
-Globale Beleuchtung
-
-Sanfter Umgebungslicht-Bounce
-
-Kommerzielle Beleuchtung
-
-Hochwertige Studioqualität
-
-Premium-Schattentiefe
-
-Ultrarealistische Reflexionen
-
----
-
-TYPOGRAFIE
-
-Premium Schweizer Typografie.
-
-Schriften ähnlich zu:
-
-Neue Montreal
-
-Helvetica Neue
-
-SF Pro Display
-
-Avenir
-
-Inter
-
-Editorielle Abstände
-
-Luxuriöse Hierarchie
-
-Minimale Komposition
-
-Apple-inspiriertes Layout
-
----
-
-KAMERA
-
-Hero-Shot
-
-ARRI Alexa Mini LF
-
-85mm Produktobjektiv
-
-Kommerzielle Produktfotografie
-
-Perspektive auf Augenhöhe
-
-Luxuriöse Rahmung
-
-Untere Galerie
-
-35mm Produktfotografie
-
-Konsistente Beleuchtung
-
-Katalogpräzision
-
----
-
-RENDER-QUALITÄT
-
-Ultra-fotorealistisch
-
-Apple-Sauberkeit
-
-FMCG-Commercial-Qualität
-
-Luxus-Produktfotografie
-
-V-Ray-Render
-
-Corona-Render
-
-Octane-Render
-
-Unreal Engine 5
-
-HDR-Beleuchtung Raytracing
-
-Globale Beleuchtung
-
-Premium-Material-Rendering
-
-Ultrascharfe Kanten
-
-Realistische Reflexionen
-
-Studiofotografie
-
-8K Ultra HD
-
-Magazin-bereit
-
-Werbe-bereit
-
-Katalog-bereit
-
-Website-bereit
-
-Plakatwand-bereit
-
-Luxusmarken-Kampagnenqualität
-
----
-
-STRENGE REGELN
-
-• Bewahre das hochgeladene Produkt exakt
-
-• Gestalte das Produkt niemals neu
-
-• Ändere niemals die Verpackung
-
-• Ändere niemals das Branding
-
-• Ändere niemals das Logo
-
-• Modifiziere niemals das Etikettendesign
-
-• Erfinde niemals Verpackung
-
-• Keine Menschen
-
-• Keine Möbel, außer es ist das hochgeladene Produkt
-
-• Keine Icons
-
-• Keine dekorative Grafik
-
-• Keine unnötigen Effekte
-
-• Das Produkt bleibt der absolute Held
-
-• Original-Markenlogo nur oben links
-
-• Vier Premium-Merkmalsbeschriftungen links
-
-• Premium-Headline links
-
-• Untere Galerie mit mehreren Produktwinkeln
-
-• Sauberes Luxus-Katalog-Layout
-
-• Minimalismus auf Apple-Niveau
-
-• Hintergrundfarbe automatisch aus der eigenen Markenfarbpalette des Produkts abgeleitet
-
-• Premium-Commercial-Fotografie-Ästhetik
-
-• Ultrarealistisches V-Ray-Produktrendering
-
-• Fotorealistische FMCG-Kampagnenqualität
-
-• Editorielle Komposition
-
-• Globaler Luxusmarken-Werbestandard
-
-• 4:5 Hochformat-Komposition
+Negativ-Prompt:
+frontale Flasche, stehende Flasche, gewinkelte Perspektive, überladene Komposition, unordentlicher Zutatenhaufen, harter Studioblitz, billige Etikettenoptik, zu viele Früchte, zufällige Requisiten, Cartoon-Aquarell, matschige Erde, plastisch wirkende Kirschen, übermäßiger Text, Supermarkt-Poster-Stil, detailarme Flasche
 ```
 
 </details>
@@ -3099,7 +2502,7 @@ STRENGE REGELN
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMssBF-a0AAdvkm.jpg" width="700" alt="Universelle FMCG-Produkt-Hero-Werbung">
+<img src="https://image.moge.ai/prompt_media/HMxXrbWbgAE0BbN.jpg" width="700" alt="Minimalistisches Fruchtwein-Poster">
 </div>
 
 <br>
@@ -3108,103 +2511,36 @@ STRENGE REGELN
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [Al-Shamus](https://x.com/im_shahid7) | [X / Twitter](https://x.com/im_shahid7/status/2074800468262539606) | 2026-07-08 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2075130053403591081) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074800468262539606)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2075130053403591081)**
 
 </div>
 
 ---
 
-### No. 38: Tourismus-Poster mit Städtenamen als Riesenlettern
+### No. 38: Y2K-Grunge-Mode-Steckbrief
 
 ![Kategorie: Kreative Visuals](https://img.shields.io/badge/Kategorie-Kreative%20Visuals-lightgrey)
 
 #### 📚 Beschreibung
 
-Erzeugt ein filmisches Tourismus-Poster, bei dem der Städtename als riesige Architekturbuchstaben aus ikonischen Wahrzeichen entsteht.
+Erstellt ein Ganzkörper-Mode-Konzeptblatt einer jungen Frau in Y2K-Grunge-Streetwear mit Outfit-Anmerkungen und Styling-Details.
 
 #### 🌟 Prompt
 
-Erstelle ein ultra-premium filmisches Tourismus-Poster für Berlin, in einem monumentalen …
+[Referenzbild] Mode-Blueprint-Blatt einer trendigen jungen Frau in Y2K-Grunge-Streetwear, …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Erstelle ein ultra-premium filmisches Tourismus-Poster für Berlin, in einem monumentalen Destinations-Werbestil, bei dem das Wort „BERLIN“ physisch als gigantische architektonische Buchstaben konstruiert ist, die aus einer echten Berliner Stadtlandschaft aufsteigen. Das Bild soll episch, urban, kulturell, historisch geschichtet und visuell kraftvoll wirken, wie ein Poster einer Weltklasse-Städtetourismuskampagne.
-
-Hauptkonzept:
-Das Wort „BERLIN“ muss als enorme dreidimensionale architektonische Buchstaben erscheinen, die in die Umgebung integriert sind, jeder Buchstabe aus ikonischen Berliner Wahrzeichen, industriellen urbanen Texturen, historischen Fassaden, städtischen Monumenten, Brücken, Bahnstrukturen, Museumsarchitektur, modernen Glasformen und Spuren politischer Geschichte gebaut. Die Buchstaben sollen bewohnbar, realistisch und monumental wirken, als ob die gesamte Identität Berlins in stadtgroße Typografie verwandelt worden wäre.
-
-Buchstaben-Designrichtung:
-Jeder Buchstabe soll eine andere Facette Berlins ausdrücken:
-„B“ inspiriert von monumentalen bürgerlichen Fassaden, Museumsinsel-Architektur, Bogenfenstern und geschichteten Steinvolumen
-„E“ aus industriellen Ziegelwänden, Bahnstrukturen, Straßenfassaden und gestapelter urbaner Geometrie
-„R“ mit Säulen im Stil des Brandenburger Tors, Bögen, skulpturalen Treppen und kultureller Monumentmasse
-„L“ aus modernen Berliner Blöcken, Galeriewänden, Graffiti-Texturen und starken geometrischen Kanten
-„I“ geformt vom Berliner Fernsehturm als vertikaler Achse, kombiniert mit schmalen historischen Türmen und Stahlrahmen
-„N“ verschmilzt Brücken, industrielle Überführungen, moderne Glasarchitektur und historische urbane Dichte
-Die Buchstaben dürfen nicht wie schlichte Typografie aussehen. Sie sollen sich wie ganze Berliner Welten anfühlen, die zu Buchstabenformen geformt sind.
-
-Kulturelle und visuelle Zutaten:
-Bette die unverwechselbare Berliner Identität in die Buchstaben und die umgebende Umgebung ein:
-Motive des Brandenburger Tors,
-Berliner Fernsehturm,
-Verweise auf die Museumsinsel,
-industrielle Ziegelarchitektur,
-Hochbahnlinien,
-Graffiti-Wandtexturen,
-historische Fassaden,
-breite Boulevards,
-Brücken,
-Betonstadtformen,
-Glas-Stahl-Kontraste,
-Straßenlaternen,
-urbane Plakate,
-galerieartige minimalistische Strukturen,
-Echos politischer Geschichte,
-Fluss- oder Kanalufer,
-Details moderner Kulturviertel.
-Das Bild muss sich unverkennbar nach Berlin anfühlen: intellektuell, künstlerisch, industriell und geschichtet mit Geschichte.
-
-Vordergrundszene:
-Platziere die monumentalen „BERLIN“-Buchstaben im Hintergrund-Mittelgrund, während der Vordergrund eine filmische Berliner Straßen- oder Platzszene zeigt mit nassem reflektierendem Pflaster, Straßenbahngleisen oder urbanen Bahnelementen, Fahrrädern, einigen Fußgängern, modernen Straßenlaternen, spärlichen Fahrzeugen und subtilem Realismus des öffentlichen Raums. Der Vordergrund soll den Maßstab verankern und die Buchstaben glaubwürdig und immersiv machen.
-
-Beleuchtung und Atmosphäre:
-Verwende dramatisches kühl getöntes Licht des frühen Abends oder der Dämmerung nach dem Regen mit subtilen Bernsteinhighlights, urbanem Dunst, reflektierendem Pflaster und filmischer Atmosphäre. Die Stimmung soll eher stahlblau, anthrazit und kaltlicht-episch sein als mediterran warm. Füge ferne Vögel, sanften Nebel oder leichten atmosphärischen Dunst hinzu, um Tiefe und emotionales Gewicht zu schaffen.
-
-Komposition:
-Vertikale Posterkomposition, sehr grandios und lesbar. Die riesigen „BERLIN“-Buchstaben müssen die Skyline klar dominieren und dabei sofort lesbar bleiben. Das Bild soll voller architektonischer Erzählung sein, aber elegant und kontrolliert bleiben.
-
-Typografie:
-Platziere oben verfeinerten Städtetourismus-Poster-Text in einem luxuriösen eleganten Stil:
-„DISCOVER THE CITY OF LAYERS“
-Haupttitel:
-„BERLIN“
-Optionale poetische Zeile:
-„Where History Meets Edge“
-oder
-„Built by Memory, Driven by Tomorrow“
-
-Füge verfeinerten chinesischen künstlerischen Begleittext hinzu:
-„柏林“
-„让历史、思想与未来并肩而立“
-„每一条街道，都在重写城市精神“
-Der Text soll premium, großzügig und natürlich in den Himmelsbereich integriert wirken.
-
-Stimmung:
-episch, urban, intellektuell, modern, historisch, industriell, filmisch, kühl getönt, geschichtet, kraftvoll, kultiviert, unvergesslich.
-
-Rendering:
-extreme architektonische Detailtreue, filmischer Reiseposter-Realismus, monumentale Buchstabenarchitektur, reflektierendes nasses Pflaster, kühle urbane Atmosphäre, stahlblaues Licht, atmosphärische Perspektive, 8k, Weltklasse-Tourismuskampagnenqualität, visuell atemberaubend.
-
-Negativ-Prompt:
-generische europäische Stadt, mittelalterlicher Fantasy-Look, warme mediterrane Palette, schwache Berliner Identität, unlesbare Buchstaben, Cartoon-Stil, geringe Detailtreue, billiges Reiseposter, matschige Komposition, leerer Vordergrund, verschwommene Architektur, überzu vereinfachte Textkomposition
+[Referenzbild]
+Mode-Blueprint-Blatt einer trendigen jungen Frau in Y2K-Grunge-Streetwear, Ganzkörper-Frontansicht mit detaillierten Outfit-Anmerkungen und hervorgehobenen Styling-Labels. Bordeauxrote Newsboy-Cap, langes gewelltes braunes Haar, sanftes Glam-Make-up, geschichtete Halsketten, bordeauxrotes Korsett-Bandeau-Top, locker getragene gestreifte Krawatte, übergroße schwarze Leder-Bikerjacke von den Schultern rutschend, hell gewaschene zerrissene Baggy-Jeans, geschichteter bordeauxroter Gürtel mit silbernen Kettenanhängern, schwarze Umhängetasche mit Spitzenbändern und einem Plüsch-Hasen-Anhänger, gestapelte Ringe, schwarz-weiße Canvas-Sneaker, selbstbewusste Mode-Pose. Umgeben von Mode-Infografik-Elementen, Stoff-Textur-Notizen, Accessoire-Aufschlüsselungen, Schneiderdetails, Posen-Analyse, moderne Y2K-Ästhetik, redaktionelles Studiolicht, ultradetailliert, professionelles Mode-Konzeptblatt, 8k.
 ```
 
 </details>
@@ -3212,7 +2548,7 @@ generische europäische Stadt, mittelalterlicher Fantasy-Look, warme mediterrane
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMpYojSbwAAAb94.jpg" width="700" alt="Tourismus-Poster mit Städtenamen als Riesenlettern">
+<img src="https://image.moge.ai/prompt_media/HMv9p8ja0AAMr6V.jpg" width="700" alt="Y2K-Grunge-Mode-Steckbrief">
 </div>
 
 <br>
@@ -3221,13 +2557,13 @@ generische europäische Stadt, mittelalterlicher Fantasy-Look, warme mediterrane
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2074568239452147969) | 2026-07-07 |
+| [Zephyra Leigh](https://x.com/ZephyraLeigh) | [X / Twitter](https://x.com/ZephyraLeigh/status/2075030954557448678) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074568239452147969)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2075030954557448678)**
 
 </div>
 
@@ -3387,24 +2723,43 @@ Zu behaltende Information: Markenname oben, Datum und «还有3天» (noch 3 Tag
 
 ---
 
-### No. 41: Industriell-organische Fusion
+### No. 41: Chibi-Tonfigur mit Deinem Namen
 
 ![Kategorie: Illustration & IP](https://img.shields.io/badge/Kategorie-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Beschreibung
 
-Erstellt Illustrationen, die mechanische Strukturen mit organischen Formen verschmelzen, mit zwei kontrastierenden Akzentfarben.
+Verwandelt dein Profilbild in eine handgefertigte Chibi-Tonfigur im Stop-Motion-Stil, die vor 3D-Buchstaben mit deinem Namen in einer minimalistischen japanischen Kulisse posiert.
 
 #### 🌟 Prompt
 
+Verwende den hochgeladenen Charakter streng als visuelle Referenz nur für Aussehen, Outfit, Frisur, …
+
+<details>
+<summary>Vollständigen Prompt anzeigen</summary>
+
 ```
-[SUBJECT] illustriert in einer industriell-organischen Synthese, die mechanische Strukturen mit organischen Formen verbindet. Verwende [COLOR1] und [COLOR2], um die Verschmelzung von Technik und Natur hervorzuheben --ar 3:2 --v 8.1
+Verwende den hochgeladenen Charakter streng als visuelle Referenz nur für Aussehen, Outfit, Frisur, Accessoires, Farbpalette, Körperproportionen und die allgemeine Ähnlichkeit. Kopiere nicht die Pose, den Bildausschnitt, den Kamerawinkel, die Beleuchtung, die Waffe oder den Hintergrund der Referenz. Entferne das Schwert vollständig und bewahre dabei die Gesamtidentität des Charakters.
+
+Erstelle eine originelle handgefertigte Tonfigur im Sammlerstil, inspiriert vom Charakter, neu gestaltet als verspieltes Chibi-Designer-Spielzeug. Die Figur steht selbstbewusst mit dem Gesicht zum Betrachter, mit warmem Blickkontakt und einem freundlichen Lächeln. Halte die Proportionen leicht übertrieben mit größerem Kopf, runden Gliedmaßen, klobigen Sneakern, weichen vereinfachten Gesichtszügen und einer hochwertigen Stop-Motion-Ton-Ästhetik.
+
+Positioniere den Charakter zentriert vor großen überdimensionierten mattschwarzen Blockbuchstaben, die lauten
+"ENTER YOUR NAME HERE!"
+Die Typografie sollte skulptural und kräftig wirken, wobei die Figur sich natürlich an die Buchstaben lehnt oder mit ihnen interagiert, ohne deren Lesbarkeit zu blockieren.
+
+Die gesamte Figur sollte aus mattem Polymer-Ton geformt erscheinen, mit subtilen Fingerabdrücken, winzigen Modellierspuren, weichen abgerundeten Kanten, sanften Unvollkommenheiten und realistischer handgefertigter Textur. Vereinfache das Outfit zu klaren Tonformen und halte es dabei sofort erkennbar.
+
+Platziere alles in einem sauberen weißen redaktionellen Studioraum, angereichert mit geschichteten grafischen Elementen im japanischen Stil. Hinter der Typografie füge überdimensionierte abstrakte Kreise, ausdrucksstarke Pinselstriche, geometrische Formen, subtile Farbspritzer, schwebende Punkte, dünne grafische Linien und weiche Scherenschnitt-Formen in gedämpften Terrakotta-, staubblauen, korallenroten, beigen und schwarzen Akzenten hinzu. Halte die Komposition minimalistisch, ausgewogen und hochwertig, mit großzügigem Negativraum, damit der Charakter der klare Blickfang bleibt.
+
+Weiches diffuses Studiolicht, zarte natürliche Schatten, Sammler-Designer-Spielzeugfotografie, handgefertigte Ton-Animation, japanischer Pop-Art-Minimalismus, hochwertiges redaktionelles Posterdesign, moderne Produktpräsentation in Museumsqualität, quadratisches Format.
 ```
+
+</details>
 
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMoi2jXXkAE-t4S.jpg" width="700" alt="Industriell-organische Fusion">
+<img src="https://image.moge.ai/prompt_media/HMo6xoaWkAEoN5N.jpg" width="700" alt="Chibi-Tonfigur mit Deinem Namen">
 </div>
 
 <br>
@@ -3413,56 +2768,35 @@ Erstellt Illustrationen, die mechanische Strukturen mit organischen Formen versc
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [LudovicCreator](https://x.com/LudovicCreator) | [X / Twitter](https://x.com/LudovicCreator/status/2074508914809348172) | 2026-07-07 |
+| [MD](https://x.com/mdmadeit) | [X / Twitter](https://x.com/mdmadeit/status/2074535259912192034) | 2026-07-07 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074508914809348172)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074535259912192034)**
 
 </div>
 
 ---
 
-### No. 42: Retro-Hongkong-Nachtporträt zu zweit
+### No. 42: Sommerporträt mit Orangensaft
 
 ![Kategorie: Fotografie & Bild](https://img.shields.io/badge/Kategorie-Fotografie%20%26%20Bild-lightgrey)
 
 #### 📚 Beschreibung
 
-Erzeugt eine Mode-Editorial im Hongkong-Nachtleben-Stil der 1990er mit zwei Frauen in Leoparden- und Rot-Looks, Neon und Glitch-Typografie über fünf Szenen.
+Ultrarealistisches Lifestyle-Porträt einer fröhlichen jungen Frau mit eisgekühltem Orangensaft unter blauem Sommerhimmel.
 
 #### 🌟 Prompt
 
-Modisches Duo-Porträt im Retro-Hongkong-Stil zweier erwachsener ostasiatischer Frauen über 20 Jahre, …
+Ultrarealistisches Lifestyle-Porträt einer fröhlichen jungen Frau mit heller Porzellanhaut, mittellangem …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Modisches Duo-Porträt im Retro-Hongkong-Stil zweier erwachsener ostasiatischer Frauen über 20 Jahre, dieselben Personen, Gesichtszüge und Frisuren hochgradig konsistent. Beide mit langem schwarzem Haar, leicht zerzaust und voluminös, feinem Make-up, roten Lippen, feinem verlängertem Lidstrich, natürlichem Highlight, lässig kühlem Ausdruck mit der Entspanntheit eines leichten Rauschs.
-
-Die Outfits bilden einen starken Kontrast:
-Eine trägt ein Leoparden-Trägertop oder Neckholder, schwarze Lederjacke, retro zerrissene weite Jeans, schwarze High Heels, große goldene Ohrringe und Ringe; die andere ein enges rotes Trägertop, kurzen blauen Jeansrock oder langen Jeansrock mit unregelmäßigem Fransensaum, schwarze High Heels, retro Sonnenbrille mit schmalem Rahmen, goldene Ohrringe und Armreif, schwarze oder rote Achseltasche.
-
-Insgesamt im Stil eines Hongkong-Nachtleben-Magazincovers der 1990er, Bar, Nachtstraße, Retro-Sofa, Holzwand, rotes Neon, gemischtes Licht warm-oranger Glühlampen. Starker direkter Aufsteckblitz, CCD-Direktblitz-Textur, natürliche zarte Haut, leicht dunkler Hintergrund, rot-schwarz-orange Töne, hoher Kontrast, leichte Überbelichtung, echtes Filmkorn, weiches Rauschen, Lichtleck, Rauch, chromatische Aberration, Scanlinien, VHS-Glitch-Effekt, sinnliche, aber edle Szene, echtes Fotografiegefühl, keine Illustration.
-
-Füge reichlich englisches Magazin-Layout im Hongkong-Stil hinzu, Text verwoben vor und hinter den Körpern, teilweise verdeckend, ohne die Hauptgesichtszüge zu verdecken. Verwende fette serifenlose Schrift, kondensierte Schrift, kursive Kleinschrift, Barcode, Fadenkreuz, Timecode, Plus-Symbol, horizontale Linien und Info-Nummerierung, mit RGB-Versatz, horizontalem Reißen, Scanlinien und Glitch-Zittern. Mögliche Titel: BURN SLOW / NEON SIN / LAST CALL / PINK SIGNAL / AFTER PARTY / NEON HEART / MIDNIGHT CITY / VELVET NIGHT / SOFT STATIC / LATE NIGHT SPECIAL / 199X HONG KONG / LOVE IS A GLITCH.
-
-Vertikale Mode-Poster-Komposition, 3:4, hochauflösende Details, echte Hände, echte Körperproportionen, konsistente Personenidentität, Magazin-Editorial-Qualität.
-
-Szene 1: Zwei erwachsene Frauen sitzen in einer dunklen Club- oder Barecke, eine hebt eine Bierflasche und betrachtet das Glas, im Leoparden-Neckholder und zerrissenen Jeans; die andere mit roter ovaler Sonnenbrille sitzt seitlich, eine Zigarette zwischen den Fingern, der Rauch steigt auf. Schwarzer Hintergrund, orange-rotes Lichtleck unten, großer Titel BURN SLOW, kühle, gefährliche, lässige Szene.
-
-Szene 2: Rosa Wand vor dem Club, zwei Frauen lehnen an der Wand. Eine trägt eine abgetragene Baseballkappe, schwarze Lederjacke, Leoparden-Träger und zerrissene Jeans, trinkt aus der Flasche; die andere trägt rote Träger und Jeansrock, schwarze schmale Sonnenbrille, schwarze Kettentasche über der Schulter, hält eine Glasflasche. Rosa Blitz erhellt die Haut, großer Titel PINK SIGNAL / AFTER PARTY.
-
-Szene 3: Retro-Innenraum mit Sofa, Holzvertäfelung, orange Tapete, dunkelrot gemustertes Sofa. Eine trägt Leoparden-Träger und weite Jeans, lehnt lässig tief im Sofa; die andere trägt rote Träger und sitzt im Vordergrund, geringe Schärfentiefe, Vordergrundperson leicht unscharf. Großer Titel NEON HEART, warm-braune, kinoreife Hongkong-Innenraumstimmung.
-
-Szene 4: Nächtliche Straße in Hongkong, zwei Frauen sitzen auf den Stufen am Straßenrand. Eine trägt schwarze Lederjacke und Leoparden-Träger, hebt die Hand mit einer Zigarette; die andere trägt rote Träger und Jeansrock, eine Hand an der Hüfte, die andere hält ein Glas mit dunklem Getränk. Daneben Flaschen und ein rot-rosa Rosenstrauß, Hintergrund mit rot leuchtenden Neon-Läden und nasser Straße, großer Titel MIDNIGHT CITY / RED LIGHT ROMANCE.
-
-Szene 5: Retro-gemustertes Sofa-Interieur, zwei Frauen sitzen hintereinander. Eine trägt Leoparden-Träger, lehnt hinten im Sofa, ruhiger, kühler Ausdruck; die andere trägt rote Träger und langen Jeansrock mit Fransensaum im Vordergrund, rote Achseltasche über der Schulter, Körper leicht zurückgelehnt, blickt direkt in die Kamera. Warm-oranges Licht, satte Holztöne, großer Titel VELVET NIGHT / SOFT STATIC.
-
-Negativ-Prompt: Minderjährige, kindliches Gesicht, Cartoon-Look, Plastikhaut, übermäßige Glättung, verzerrtes Gesicht, vermischte Gesichtszüge der beiden, inkonsistente Identität, falsche Finger, zu viele Hände und Füße, verschmolzene Gliedmaßen, verzerrte Beine, unausgewogene Proportionen, leerer Blick, steife Posen, unleserlicher Text, chinesisches Wasserzeichen, Plattform-Logo, Xiaohongshu-Wasserzeichen, Marken-Logo, geringe Schärfe, starkes Rauschen, Überschärfung, unordentlicher Hintergrund, billiger Studio-Look.
+Ultrarealistisches Lifestyle-Porträt einer fröhlichen jungen Frau mit heller Porzellanhaut, mittellangem glattem schwarzem Haar mit zarten, vom Wind sanft verwehten Curtain-Bangs, strahlendem echtem Lächeln, mandelförmigen dunkelbraunen Augen und natürlichem sanftem Make-up. Sie trägt ein übergroßes weißes Grafik-T-Shirt mit bunten Landschaftsdrucken, eine zarte silberne Halskette mit einem kleinen grünen Schmetterlingsanhänger und einen weißen kabellosen Ohrhörer. Lässig hält sie einen transparenten Becher mit eisgekühltem Orangensaft, braunem Strohhalm und einem niedlichen lächelnden Gesichtslogo. Aufgenommen aus einer dramatischen Weitwinkel-Untersicht vor einem klaren blauen Himmel, beleuchtet vom hellen natürlichen Mittagslicht mit weichen Schatten und lebendigen Farben. Frische, jugendliche, unbeschwerte Sommeratmosphäre, spontane Lifestyle-Fotografie, minimalistische Komposition, natürliche Hauttextur, realistische Haarsträhnen, HDR, filmische Farbabstimmung, DSLR-Qualität, scharfer Fokus, ultra-fotorealistisch, Editorial-Stil, Meisterwerk, 8K.
 ```
 
 </details>
@@ -3470,7 +2804,7 @@ Negativ-Prompt: Minderjährige, kindliches Gesicht, Cartoon-Look, Plastikhaut, �
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMogBwZaUAEOyB-.jpg" width="700" alt="Retro-Hongkong-Nachtporträt zu zweit">
+<img src="https://image.moge.ai/prompt_media/HMuD3GSaAAEdAKp.jpg" width="700" alt="Sommerporträt mit Orangensaft">
 </div>
 
 <br>
@@ -3479,51 +2813,99 @@ Negativ-Prompt: Minderjährige, kindliches Gesicht, Cartoon-Look, Plastikhaut, �
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [serein ｜买美股上币安](https://x.com/you1873118) | [X / Twitter](https://x.com/you1873118/status/2074505809334239484) | 2026-07-07 |
+| [Kashberg](https://x.com/Kashberg_0) | [X / Twitter](https://x.com/Kashberg_0/status/2074897053017403586) | 2026-07-08 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074505809334239484)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074897053017403586)**
 
 </div>
 
 ---
 
-### No. 43: Premium-Kopfhörer-Werbung
+### No. 43: Fruchtwein-Poster mit Rebsilhouette
 
 ![Kategorie: Werbung & Produkt](https://img.shields.io/badge/Kategorie-Werbung%20%26%20Produkt-lightgrey)
 
 #### 📚 Beschreibung
 
-Erstellt ultrarealistische Werbebilder von Premium-Kopfhörern, die vor einem mitternachtsblauen Farbverlauf schweben, mit Musikplayer-Oberfläche, markanter Typografie und Feature-Icons.
+Erstellt ein minimalistisches Premium-Poster für Fruchtwein, dessen Flaschensilhouette aus echten Weinreben mit wenigen rubinroten Trauben geformt ist.
 
 #### 🌟 Prompt
 
-Ultrarealistische Premium-Werbung mit eleganten kabellosen Sony-Over-Ear-Kopfhörern, die im Zentrum eines …
+Erstelle ein ultra-premium minimalistisches Poster für den spanischen Fruchtrotwein Oran, inspiriert von …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Ultrarealistische Premium-Werbung mit eleganten kabellosen Sony-Over-Ear-Kopfhörern, die im Zentrum eines minimalistischen mitternachtsblauen Farbverlaufhintergrunds mit subtilen metallischen Reflexionen schweben. Elegante 3D-Musikplayer-Interface-Karten überlappen hinter den Kopfhörern und zeigen eine moderne Wellenform, Wiedergabesteuerungen und sanft leuchtende UI-Elemente. Große halbtransparente Typografie im Hintergrund liest „HEAR THE FUTURE“, mit fetter Typografie rechts, die „PURE SOUND. ZERO DISTRACTIONS.“ verkündet. Weiches filmisches Licht, Premium-Reflexionen, schwebende Staubpartikel, realistische Schatten, luxuriöse Produktfotografie, klare Komposition, moderne Tech-Ästhetik, Premium-Branding, hochwertige kommerzielle Werbung, ultradetaillierte Materialien, 8K-Realismus.
+Erstelle ein ultra-premium minimalistisches Poster für den spanischen Fruchtrotwein Oran, inspiriert von einer raffinierten botanischen Flaschensilhouetten-Komposition. Verwende einen großen sauberen weißen oder sanften elfenbeinfarbenen Hintergrund mit großzügigem Negativraum. Das zentrale Bild muss eine Weinflaschenform sein, die natürlich aus echten Weinreben, zarten Stängeln, sich kräuselnden Ranken und eleganten Rebblättern gebildet wird. Die Flaschensilhouette sollte zart, vertikal, luftig und perfekt ausbalanciert wirken, als hätte die Natur selbst leise die Umrisse der Weinflasche gezeichnet.
 
-Untere Feature-Icons mit leuchtenden Akzenten:
-• 50 Stunden Akku
-• Adaptive Geräuschunterdrückung
-• Hi-Res Audio
-• Multipoint-Bluetooth
+Hauptkomposition:
+Baue die vollständige Silhouette einer stehenden Weinflasche nur aus realistischen Weinreben-Elementen auf:
+dünne grüne Stängel,
+natürliche Verzweigungsknoten,
+gekräuselte Ranken,
+kleine frische Rebblätter,
+subtile organische Asymmetrie,
+saubere Flaschenproportionen.
+Die Umrisse müssen sofort als Flasche erkennbar sein, sollten sich aber dennoch botanisch und natürlich gewachsen anfühlen statt starr grafisch.
 
-Farbpalette: Mitternachtsblau, Silber, Cyan-Glühen, sanftes Schwarz.
+Traubendetails:
+Füge nur eine kleine Anzahl von Trauben als kostbare Akzente hinzu, keine schwere Traube. Verwende ein paar tiefe rubinrote oder burgunderviolette Trauben, die natürlich an der Rebenstruktur befestigt sind, mit glaubwürdigen Stielen und eleganter Abstände. Die Trauben müssen leicht platziert und perfekt mit der Rebe verbunden wirken, als wären sie wirklich dort gewachsen. Ihre Rolle ist es, die Komposition zu betonen und den Reichtum des Fruchtweins anzudeuten, nicht die Flaschensilhouette zu dominieren.
 
-Ultrarealistische Premium-Produktwerbung mit den BOSE QuietComfort Ultra Headphones, die im Zentrum eines sauberen, matten Studiohintergrunds mit mitternachtsmarineblauem und eisblauem Farbverlauf schweben. Die Kopfhörer werden in einem dynamischen Dreiviertelwinkel mit ultradetaillierten weichen Lederohrpolstern, gebürsteten Aluminiumakzenten, realistischen Schatten, subtilen Reflexionen und Premium-Produktbeleuchtung gezeigt. Hinter den Kopfhörern zeigt eine elegante, moderne schwebende Musikplayer-Oberfläche mit abgerundeten Ecken einen laufenden Track, eine animierte Wellenform, Wiedergabesteuerungen und minimale UI-Elemente. Eine durchscheinende Milchglas-Musikkarte im Spotify-Stil überlappt die Kopfhörer und verleiht Tiefe und eine zeitgemäße Ästhetik.
+Marken-/Produktintegration:
+Platziere im unteren-mittleren Bereich der rebengeformten Flaschensilhouette einen raffinierten Etikettenbereich oder ein elegantes Flaschenetiketten-Insert, das auf den Oran Fruchtrotwein verweist. Das Etikett sollte premium, klein und geschmackvoll wirken, mit subtiler spanischer Weineleganz und, falls gewünscht, einem dezenten Rotkäppchen-Identitätshinweis. Halte es zurückhaltend und luxuriös, niemals laut oder kommerziell überladen.
 
-Große fette Premium-Typografie rechts liest „HEAR THE SILENCE“, wobei „SILENCE“ in einem lebendigen elektrisch-blauen Farbverlauf hervorgehoben ist. Darunter liest eleganter kleinerer Text „Pure sound. Zero distractions.“
+Licht und Schatten:
+Verwende äußerst zarte, weiche, premium Beleuchtung. Das Licht sollte natürlich und samtig wirken und offenbaren:
+die zarte Transluzenz frischer Rebblätter,
+die glatte Oberfläche der Trauben,
+die organische Textur der Stängel,
+das subtile Relief des papierartigen Hintergrunds,
+den weichen Schatten, den die Reben-Flaschensilhouette wirft.
+Schatten müssen sanft, diffus und elegant sein und dem Bild ruhige Tiefe ohne Dramatik verleihen.
 
-Das BOSE-Logo ist ordentlich in der oberen rechten Ecke platziert. Am unteren Rand befinden sich drei minimale monochrome Feature-Icons mit klarer Typografie:
+Botanischer Realismus:
+Treibe den Realismus auf die höchste Stufe:
+frische Reben-Grüntöne,
+winzige Blattadern,
+natürliche Stängelknoten,
+feine Rankenkräuselung,
+Traubenschalen-Duft,
+leichte Transluzenz an Traubenrändern,
+sanfte natürliche Unvollkommenheiten.
+Alles sollte sich taktil, lebendig und exquisit anfühlen.
 
-40 Stunden • Adaptive Geräuschunterdrückung • Kristallklare Anrufe
+Hintergrund:
+Halte den Hintergrund äußerst minimalistisch, sauber und matt, in sanftem Weiß, warmem Elfenbein oder blassem Pergament. Er sollte sich wie feines Kunstpapier oder premium Galerie-Wandmaterial anfühlen. Keine Unordnung, keine zusätzlichen Requisiten, kein Tischgedeck, kein dekoratives Rauschen.
+
+Typografie:
+Halte den Text äußerst minimalistisch und elegant. Füge nur einen raffinierten Titel hinzu, falls nötig:
+„ORAN“
+Optionale Unterstützungszeile:
+„Fruit Red Wine“
+Die Typografie sollte klein, luxuriös, luftig und kunstvoll gestaltet sein, mit großzügigem Atemraum. Vermeide schweren Text und generische fette Schriften.
+
+Farbpalette:
+sanftes Elfenbein,
+frisches Rebengrün,
+helles botanisches Grün,
+tiefe Rubintraube,
+burgunderviolette Akzente,
+sanfte neutrale Schatten.
+Die Palette sollte zurückhaltend, botanisch, luxuriös und poetisch wirken.
+
+Stimmung:
+minimalistisch, botanisch, luxuriös, poetisch, elegant, galerieartig, raffiniert, natürlich, premium Weinposter-Qualität.
+
+Rendering:
+hyperrealistische botanische Fotografie, ultra-detaillierte Weinrebentextur, elegante Flaschensilhouette aus echten Reben, subtile Rubintrauben-Akzente, weiche premium Beleuchtung, zarte Schatten, sauberer Kunstpapier-Hintergrund, minimalistische Luxustypografie, Weinkampagnenbild in Museumsqualität, 8k, Meisterwerk.
+
+Negativer Prompt:
+schwere Traubenbüschel, überladene Komposition, dunkler dramatischer Hintergrund, unordentliche Stängel, gefälschte Flaschenumrisse, lautes kommerzielles Etikett, übermäßiger Text, Cartoon-Blätter, plastikartig aussehende Trauben, harte Schatten, zufällige Requisiten, billiger Weinposter-Look
 ```
 
 </details>
@@ -3531,7 +2913,7 @@ Das BOSE-Logo ist ordentlich in der oberen rechten Ecke platziert. Am unteren Ra
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMsmzGBbMAEr5Na.jpg" width="700" alt="Premium-Kopfhörer-Werbung">
+<img src="https://image.moge.ai/prompt_media/HMxQ1hzaEAALLvO.jpg" width="700" alt="Fruchtwein-Poster mit Rebsilhouette">
 </div>
 
 <br>
@@ -3540,35 +2922,35 @@ Das BOSE-Logo ist ordentlich in der oberen rechten Ecke platziert. Am unteren Ra
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [Snow](https://x.com/iamrealsnow) | [X / Twitter](https://x.com/iamrealsnow/status/2074794723173343734) | 2026-07-08 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2075122423691936218) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074794723173343734)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2075122423691936218)**
 
 </div>
 
 ---
 
-### No. 44: Editorial-Collage-Porträt von Kleopatra
+### No. 44: Technische Blaupause eines Sportwagens
 
 ![Kategorie: Kreative Visuals](https://img.shields.io/badge/Kategorie-Kreative%20Visuals-lightgrey)
 
 #### 📚 Beschreibung
 
-Erzeugt ein filmisches Noir-Porträt von Kleopatra im Mixed-Media-Collagestil mit grafischen Texturen, fragmentierten Ebenen und wirkungsvollem Editorial-Finish.
+Erzeugt eine technische Blaupause eines futuristischen Sportwagens mit Mehrfachansichten, Bauteilskizzen und Maßangaben.
 
 #### 🌟 Prompt
 
-Porträt von Kleopatra, introspektiv, melancholisch und doch bestärkt, im filmischen Noir-Stil, mit …
+Eine technische Zeichnung eines futuristischen Sportwagens im Blaupausen-Stil. Enthalten sind …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Porträt von Kleopatra, introspektiv, melancholisch und doch bestärkt, im filmischen Noir-Stil, mit nachdenklichem Ausdruck, mit einer mehrschichtigen Mixed-Media-Konstruktion, integrierten grafischen Texturen und typografischer Oberflächenfusion, gekennzeichnet durch fragmentierte visuelle Architektur, dichte Detailhierarchie, taktile Eigenschaften von Druckmaterial, kontrollierte Abnutzung, starken lokalen Kontrast, selektive Schärfung, reiche Texturansammlung und dynamischen grafischen Rhythmus, die zusammen eine wirkungsvolle Editorial-Komposition mit lebendiger chromatischer Energie, hochwertigem kommerziellem Finish und ausgefeilter Ebenenintegration schaffen, Komplexität und Lesbarkeit ausbalancierend, die Sprache der zeitgenössischen urbanen Collage und einen ästhetischen taktilen Realismus heraufbeschwörend, die Stille vor einer persönlichen Revolution und den Nervenkitzel der Anonymität einfangend, mit den subtil beleuchteten Gesichtszügen der Kleopatra, ihrer sanften, blassen Haut und ihrem dunklen, zu ägyptischer Frisur gestylten Haar, geschmückt mit filigranen, kunstvollen Accessoires. 9:16.
+Eine technische Zeichnung eines futuristischen Sportwagens im Blaupausen-Stil. Enthalten sind Strichzeichnungen des Sportwagens aus der Front-, Seiten- und Heckansicht, Explosionsskizzen von Teilen, Bauteilmontagediagramme und Strukturdiagramme demontierter Komponenten. Verwenden Sie zahlreiche Linien und Maßangaben zur Kennzeichnung der Abmessungen jedes Teils, wobei Graustufen die gesamte Skizzenbeziehung ausdrücken. Zeigen Sie neben dem Hauptentwurf auch verstreute Miniaturansichten aus verschiedenen Blickwinkeln.
 ```
 
 </details>
@@ -3576,7 +2958,7 @@ Porträt von Kleopatra, introspektiv, melancholisch und doch bestärkt, im filmi
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMnIbk7a8AAITMj.jpg" width="700" alt="Editorial-Collage-Porträt von Kleopatra">
+<img src="https://image.moge.ai/prompt_media/HMtm9puWcAAhwvJ.jpg" width="700" alt="Technische Blaupause eines Sportwagens">
 </div>
 
 <br>
@@ -3585,13 +2967,13 @@ Porträt von Kleopatra, introspektiv, melancholisch und doch bestärkt, im filmi
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [Simply Ray](https://x.com/kingofdairyque) | [X / Twitter](https://x.com/kingofdairyque/status/2074409484081054021) | 2026-07-07 |
+| [can](https://x.com/marmaduke091) | [X / Twitter](https://x.com/marmaduke091/status/2074866077499105416) | 2026-07-08 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074409484081054021)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074866077499105416)**
 
 </div>
 
@@ -3721,33 +3103,24 @@ Erstelle ein Firmenkonferenz-Poster für "Apple WWDC Design Futures", Porträtbe
 
 ---
 
-### No. 47: Minimalistischer Vintage-Japandruck
+### No. 47: Industriell-organische Fusion
 
 ![Kategorie: Illustration & IP](https://img.shields.io/badge/Kategorie-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Beschreibung
 
-Erzeugt eine minimalistische Retro-Illustration im japanischen Druckstil mit viel cremefarbenem Freiraum, dunkler Silhouette und leuchtenden Farbakzenten.
+Erstellt Illustrationen, die mechanische Strukturen mit organischen Formen verschmelzen, mit zwei kontrastierenden Akzentfarben.
 
 #### 🌟 Prompt
 
-Eine minimalistische, retro-japanische Illustration im Druckstil, mit 【xxx】 als Hauptmotiv. Die Komposition …
-
-<details>
-<summary>Vollständigen Prompt anzeigen</summary>
-
 ```
-Eine minimalistische, retro-japanische Illustration im Druckstil, mit 【xxx】 als Hauptmotiv. Die Komposition bewahrt einen großen cremeweißen, elfenbeinfarbenen oder hellcremefarbenen Papierhintergrund mit feiner Papierstruktur, leichter Alterung, handgedruckter Körnung und sanftem Rauschen.
-Das Motiv ist überwiegend in Tintenschwarz, Indigoschwarz, Anthrazit und dunklem Marineblau gestaltet, mit klaren, eleganten Konturen, schlanker, ruhiger und zurückhaltender Silhouette, einfacher, aber präzise strukturierter Form. Details werden mit lebendigen Farbflächen akzentuiert — Zinnoberrot, Orangerot, Koralle, Kobaltblau, Kieferngelb, Pfauengrün, dunkles Blaugrün, Magenta oder Goldorange — und bilden einen starken, aber zurückhaltenden Kontrast zum dunklen Motiv, etwa in einem Schal, Rocksaum, Hintergrundschein, Haarschmuck, Blumen oder abstrakter Geometrie.
-Die Gesamtkomposition ist schlicht, ruhig, poetisch, einsam und vintage, betont Freiraum, Balance und östliche Ästhetik. Das Bild wirkt wie eine Verschmelzung von Showa-Ära-Postern, japanischen Holzschnitten, Retro-Siebdruck, minimalistischer Aquarell-Illustration und modernem Editorial-Poster. Zurückhaltende Farbanzahl, sauberes Bild; keine realistische Fotografie, kein 3D, keine dicke Malerei, kein komplexer Hintergrund, kein kindlicher Cartoon, kein Text, kein Wasserzeichen, kein Logo.
+[SUBJECT] illustriert in einer industriell-organischen Synthese, die mechanische Strukturen mit organischen Formen verbindet. Verwende [COLOR1] und [COLOR2], um die Verschmelzung von Technik und Natur hervorzuheben --ar 3:2 --v 8.1
 ```
-
-</details>
 
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMoXLNFaMAAlEFr.jpg" width="700" alt="Minimalistischer Vintage-Japandruck">
+<img src="https://image.moge.ai/prompt_media/HMoi2jXXkAE-t4S.jpg" width="700" alt="Industriell-organische Fusion">
 </div>
 
 <br>
@@ -3756,71 +3129,41 @@ Die Gesamtkomposition ist schlicht, ruhig, poetisch, einsam und vintage, betont 
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [沐阳](https://x.com/yyyole) | [X / Twitter](https://x.com/yyyole/status/2074498667739033746) | 2026-07-07 |
+| [LudovicCreator](https://x.com/LudovicCreator) | [X / Twitter](https://x.com/LudovicCreator/status/2074508914809348172) | 2026-07-07 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074498667739033746)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074508914809348172)**
 
 </div>
 
 ---
 
-### No. 48: Mode-Charakterbogen mit 12 Posen
+### No. 48: Sommer-Editorial mit Riesen-Wassermelone
 
 ![Kategorie: Fotografie & Bild](https://img.shields.io/badge/Kategorie-Fotografie%20%26%20Bild-lightgrey)
 
 #### 📚 Beschreibung
 
-Erzeugt einen luxuriösen Mode-Charakterbogen mit derselben japanischen Modelin 12 verschiedenen Posen und Outfits in einem 3×4-Raster auf weißem Studiohintergrund mit perfekter Gesichtskonsistenz.
+Fotorealistisches Studio-Fashion-Porträt einer jungen Frau an einer riesigen Wassermelonenscheibe im Stil einer luxuriösen Frucht-Kampagne mit Sommerlaune.
 
 #### 🌟 Prompt
 
-Ein Premium-Mode-Charakterbogen mit derselben [ Referenzbild ] schönen japanischen Modelin 12 verschiedenen …
+Verwende das hochgeladene Bild als Kompositionsreferenz und erstelle ein neues fotorealistisches Studio-Bild …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Ein Premium-Mode-Charakterbogen mit derselben [ Referenzbild ] schönen japanischen Modelin 12 verschiedenen Ganzkörperposen, angeordnet in einem sauberen 3×4-Raster auf einem reinweißen, nahtlosen Studiohintergrund.
+Verwende das hochgeladene Bild als Kompositionsreferenz und erstelle ein neues fotorealistisches Studio-Bild im Modestil mit einer anderen jungen Frau mit frischem Erscheinungsbild und anderen Gesichtszügen. Sie hat langes, welliges brünettes Haar, strahlend sonnengeküsste Haut und ein helles, fröhliches Lächeln. Sie trägt ein rot-weißes Vichy-Crop-Top mit passenden hochsitzenden Shorts, weiße Retro-Cat-Eye-Sonnenbrille, filigranen Goldschmuck und ist barfuß.
 
-Das Model hat makellose helle japanische Haut, eine schlanke elegante Figur, langes seidiges dunkelbraunes Haar mit weichem Pony, ausdrucksstarke mandelförmige Augen, natürliches Make-up und ein warmes, selbstbewusstes Lächeln. Sie bleibt in jedem Bild exakt dieselbe Person mit perfekter Gesichtskonsistenz und identischen Körperproportionen.
+Sie lehnt sich lässig an eine gigantische realistische Wassermelonenscheibe, die hinter ihr in einem sauberen weißen nahtlosen Studio aufragt. In einer Hand hält sie ein kleines Wassermelonenstück und beißt verspielt hinein, während sie natürlich lacht. Ihre Pose ist entspannt, selbstbewusst und voller Sommerenergie.
 
-Jedes Panel zeigt eine einzigartige stilvolle Pose:
-• natürlich stehend
-• Hände in den Taschen
-• selbstbewusst gehend
-• Seitenprofil
-• über die Schulter blickend
-• auf einem modernen Hocker sitzend
-• auf einem Stuhl sitzend
-• überkreuzte Beine
-• entspannte Modepose
-• elegante lässige Haltung
-• eine Hand berührt das Haar
-• redaktionelle Modelpose
+Die überdimensionale Wassermelone hat leuchtend rotes Fruchtfleisch, glänzende schwarze Kerne, eine knackig weiße Rinde und eine satt grüne Außenhaut mit realistischer Textur. Weiches Studiolicht erzeugt sanfte Schatten und betont die saftige Frische der Frucht.
 
-Jedes Outfit ist anders, wobei eine luxuriöse japanische Modeästhetik erhalten bleibt:
-- Oversize-Blazer
-- maßgeschneiderter Business-Anzug
-- Faltenrock mit Blazer
-- Strickpullover mit weiter Hose
-- Trenchcoat
-- minimalistisches monochromes Outfit
-- Cardigan und Rock
-- Rollkragen mit Anzughose
-- lässige schicke Jacke
-- moderne koreanische/japanische Streetfashion
-- eleganter beiger Mantel
-- luxuriöser Smart-Casual-Look
-
-Neutrale Farbpalette mit Weiß, Beige, Grau, Schwarz, Marineblau, Camel und sanften Pastelltönen.
-
-Professionelle Modekatalog-Fotografie, Ganzkörper in jedem Bild sichtbar, gleichmäßige Abstände zwischen den Figuren, zentrierte Komposition, realistische Proportionen, gestochen scharfe Stoffdetails, Studiobeleuchtung, weiche Schatten, ultrascharfer Fokus, luxuriöser redaktioneller Look, Magazinqualität, fotorealistisch, hochwertige Modekampagne.
-
-Keine doppelten Posen, keine abgeschnittenen Körperteile, kein Text, keine Logos, kein Wasserzeichen, keine Accessoires, die das Gesicht verdecken, keine Hintergrundobjekte, konsistente Gesichtsidentität über alle Bilder hinweg. Inspiriert von japanischen Luxus-Mode-Lookbooks, redaktioneller Fotografie der Vogue Japan, Premium-Modekampagne, sauberer Katalogpräsentation, minimalistischer Ästhetik, Luxusmarken-Styling, zeitloser Eleganz.
+Minimalistischer weißer Hintergrund, hochwertige Mode-Editorial-Fotografie, lebendige sommerliche Farbpalette, luxuriöse Frucht-Kampagnen-Ästhetik, ultrarealistische Hauttextur, hochwertige kommerzielle Fotografie, saubere Komposition, fotorealistisch, 8K-Qualität, geringe Schärfentiefe, kein Text, keine Logos, kein Wasserzeichen.
 ```
 
 </details>
@@ -3828,7 +3171,7 @@ Keine doppelten Posen, keine abgeschnittenen Körperteile, kein Text, keine Logo
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMmd22nbIAAJ67Q.jpg" width="700" alt="Mode-Charakterbogen mit 12 Posen">
+<img src="https://image.moge.ai/prompt_media/HMtIOKhbAAAg7yK.jpg" width="700" alt="Sommer-Editorial mit Riesen-Wassermelone">
 </div>
 
 <br>
@@ -3837,83 +3180,231 @@ Keine doppelten Posen, keine abgeschnittenen Körperteile, kein Text, keine Logo
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [Cherry 2.O](https://x.com/Mind_Boticni) | [X / Twitter](https://x.com/Mind_Boticni/status/2074362735111090217) | 2026-07-07 |
+| [Smiling Khan](https://x.com/AIwithkhan) | [X / Twitter](https://x.com/AIwithkhan/status/2074831464961806703) | 2026-07-08 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074362735111090217)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074831464961806703)**
 
 </div>
 
 ---
 
-### No. 49: Verspieltes Pastel-de-Nata-Poster
+### No. 49: Editorial-Kampagnenposter Future Vibes AI
 
 ![Kategorie: Werbung & Produkt](https://img.shields.io/badge/Kategorie-Werbung%20%26%20Produkt-lightgrey)
 
 #### 📚 Beschreibung
 
-Erstellt ein Premium-Bäckereiposter, das hyperrealistische Pastel-de-Nata-Fotografie mit handgezeichneten Kritzeleien auf weißem Hintergrund verbindet.
+Erzeugt ein editoriales 4:5-Overhead-Flatlay-Poster einer KI-Creatorin, umgeben von Filmequipment und dichter Future-Vibes-AI-Markentypografie.
 
 #### 🌟 Prompt
 
-Erstelle ein ultra-premium verspieltes Food-Poster für den portugiesischen Eierkuchen Pastel de Nata, das …
+Ein Premium-4:5-Editorial-Markenkampagnen-Poster für Future Vibes AI. Hauptmotiv: Eine junge indische …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Erstelle ein ultra-premium verspieltes Food-Poster für den portugiesischen Eierkuchen Pastel de Nata, das hyperrealistische Gebäckfotografie mit charmanter handgezeichneter Kritzel-Illustration kombiniert. Die Komposition soll fröhlich, köstlich, künstlerisch und höchst einprägsam wirken, wie ein Premium-Kampagnenposter einer illustrierten Bäckerei mit starkem Kontrast zwischen realistischem Essen und flachen Cartoon-Skizzenelementen.
+Ein Premium-4:5-Editorial-Markenkampagnen-Poster für Future Vibes AI.
 
-Hauptkomposition:
-Verwende ein sauberes frontales Food-Poster-Layout auf warmem weißem Hintergrund mit großzügigem Negativraum. Platziere einen Hero-Teller oder ein kleines Arrangement von Pastéis de Nata im unteren-mittleren Bereich als absoluten visuellen Fokus. Die Eierkuchen müssen ultra realistisch, frisch gebacken, golden, glänzend, blättrig und unwiderstehlich sein. Um die Törtchen herum füge verspielte schwarze handgezeichnete Kritzeleien, Pfeile, handgeschriebene Zutatenetiketten, niedliche Deko-Markierungen, winzige Herzen, Wirbel, Funkenlinien und ausdrucksstarke Anmerkungsgrafiken hinzu. Das Gesamtlayout soll ausgewogen, lebhaft und redaktionell wirken, mit einem großen handgezeichneten künstlerischen Titel oben und der Food-Komposition klar zentriert darunter.
+Hauptmotiv: Eine junge indische KI-Creatorin mit den exakten Gesichtszügen aus dem Referenzbild, flach auf dem Boden liegend.
 
-Food-Styling:
-Zeige authentische Pastéis de Nata mit wunderschön karamellisierten Cremeoberflächen, leicht blasigen goldbraunen Brandflecken, glänzender cremiger Füllung, knusprigen laminierten Teigschichten, butteriger blättriger Hülle und warmer, ofenfrischer Textur. Einige Törtchen können ganz sein, eines leicht aufgebrochen oder angebissen, um die seidige Creme im Inneren zu zeigen. Füge dezente Zimt- oder Puderzuckerakzente hinzu, falls hilfreich, aber halte das Törtchen klar erkennbar und im Hero-Fokus. Das Gebäck soll premium, handgemacht und wahrhaft portugiesisch wirken.
+Kamerawinkel: Direkte Overhead-Flatlay-Aufnahme von der Decke.
 
-Handgezeichneter Illustrationsstil:
-Umgib die realistischen Törtchen mit verspielten flachen Kritzelelementen in spontanem handschriftlichem Stil, als wären sie mit schwarzem Marker direkt aufs Poster gezeichnet. Füge Pfeile hinzu, die auf Merkmale zeigen wie:
-“crispy layers”
-“creamy custard”
-“caramel top”
-“buttery crust”
-“freshly baked”
-Füge kleine niedliche Skizzen-Icons hinzu wie eine lächelnde Sonne, winzige Herzen, Funkeln, Wirbel, einen Löffel mit tropfender Creme, Zimtstaub-Bewegungslinien, kleine glückliche Gebäckfiguren und ausdrucksstarke handgeschriebene Notizen. Die Kritzeleien sollen naiv, warm und energiegeladen wirken, aber geschmackvoll gestaltet, kein kindisches Chaos.
+Pose: Entspannte Pose, eine Hand hält ein Smartphone mit einer KI-generierten filmischen Szene, die andere Hand hält einen Stylus. Blickt mit selbstbewusstem Lächeln direkt in die Kamera.
 
-Typografie:
-Oben erstelle einen kräftigen handgezeichneten künstlerischen Titel:
-“PASTEL DE NATA”
-Optionale chinesische Unterstützung:
-“葡式蛋挞”
-Optionale poetische Unterstützungszeile:
-“crispy, creamy, caramelized”
-oder
-“酥脆千层，流心蛋香”
-Die Typografie soll handgeschrieben, ausdrucksstark, köstlich und schön mit den Kritzeleien integriert wirken. Vermeide generische Schriften oder starre Typografie. Der Titel soll wie Teil des Illustrationssystems aussehen.
+Um sie herum (durch Future-Vibes-AI-Objekte ersetzen)
 
-Kompositionsdetails:
-Der Teller mit realistischen Törtchen soll die untere Mitte des Rahmens einnehmen, mit genug Freiraum oben für den Titel und umgebende Notizen. Füge einige Zutatenakzente um den Teller hinzu wie Zimtstangen, Vanillehinweise, leichten Zucker oder winzige Gebäckkrümel, aber halte sie minimal. Die visuelle Beziehung muss klar sein: echtes Essen in der Mitte, flaches Kritzel-Universum drumherum. Der Hintergrund soll überwiegend sauber weiß bleiben, damit der Kontrast stark und premium wirkt.
+Alles künstlerisch um sie herum angeordnet wie ein kreatives Moodboard.
 
-Farbpalette:
-warmes Cremegelb,
-goldenes Karamellbraun,
-butteriges Teigbeige,
-geröstetes Braun,
-sanfte Cremetöne,
-schwarze Kritzellinien,
-kleine Akzente in Zimtbraun und warmem Orange.
-Die Palette soll appetitlich, sonnig, verspielt und raffiniert wirken.
+MacBook Pro mit einer KI-Videobearbeitungs-Timeline.
 
-Stimmung:
-verspielt, köstlich, handwerklich, premium, fröhlich, Bäckerei-redaktionell, warm, nostalgisch, künstlerisch, höchst teilbar, charmant, appetitanregend.
+iPad mit Concept Art und Prompt-Design.
 
-Rendering:
-hyperrealistische kommerzielle Food-Fotografie, ultradetaillierte Gebäcktextur, glänzende Creme, blättrige laminierte Kruste, Premium-Bäckerei-Styling, sauberer weißer Hintergrund, handgezeichnetes Kritzel-Poster-Design, verspielte redaktionelle Komposition, sanftes natürliches Licht, klare Schatten, Premium-Kampagnenqualität, 8k.
+Mechanische Tastatur.
 
-Negativ-Prompt:
-unordentlicher Hintergrund, generische Bäckereiauslage, detailarmes Gebäck, flache Cremetextur, keine Karamellisierung, Cartoon-Essen statt realistischem Törtchen, übermäßig kindische Kritzeleien, überladenes Layout, dunkler schwerer Hintergrund, billiges Menüdesign, plastisch aussehendes Gebäck, schwacher Kontrast zwischen echtem Essen und Illustration
+Kabellose Kopfhörer.
+
+Professionelles Mikrofon.
+
+Kamera (Sony/Canon-Cinema-Stil).
+
+Drohne.
+
+Reisepass mit Reisestempeln.
+
+Bordkarten.
+
+Mini-Globus.
+
+Kaffeebecher mit der Aufschrift Future Vibes AI.
+
+KI-Workflow-Skizzen.
+
+Storyboards.
+
+Haftnotizen mit Prompt-Ideen.
+
+Vom Adobe-Firefly-Logo inspirierte Farbmuster.
+
+Filmklappe mit der Aufschrift Future Vibes AI Productions.
+
+SSD-Laufwerke.
+
+Speicherkarten.
+
+Objektivfilter.
+
+Cinema-Kamera-Akkus.
+
+Winzige KI-Roboter-Figuren.
+
+YouTube Silver Play Button.
+
+Notizbuch voller Prompt-Engineering-Notizen.
+
+Laptop-Sticker:
+
+Future Vibes AI
+
+Create with AI
+
+Prompt Engineer
+
+AI Filmmaker
+
+Travel Creator
+
+Dream Build Repeat
+
+Weltkarte mit Reisenadeln.
+
+Mini-Trophäe im Oscar-Stil.
+
+KI-generierte Charakterblätter.
+
+Winzige Raketen, Sterne, Glühbirnen, Neuronale-Netz-Kritzeleien.
+
+Schwebende Filmstreifen und filmische Frame-Grafiken.
+
+Outfit
+
+Oversized schwarzer Hoodie mit Future-Vibes-AI-Logo.
+
+Hellblaue lockere Jeans.
+
+Schwarz-weiße Sneaker.
+
+Minimalistischer Silberschmuck.
+
+Hintergrund
+
+Statt smaragdgrün:
+
+Mattes Anthrazitschwarz mit dezenten Verläufen.
+
+Abstrakte KI-Neuronale-Netz-Linien.
+
+Leuchtende blaue und violette Schaltkreismuster.
+
+Winzige Sternbildpunkte.
+
+Holografische geometrische Overlays.
+
+Schwaches filmisches Korn.
+
+Typografie
+
+Riesige integrierte Typografie, die sich um den Körper legt:
+
+FUTURE VIBES AI
+
+Kleinere Typografie:
+
+CREATE • INNOVATE • INSPIRE
+
+PROMPT • SHOOT • EDIT • REPEAT
+
+AI FILMMAKER • EDUCATOR • TRAVEL CREATOR
+
+Grafische Elemente
+
+Handschriftliche Prompt-Schnipsel.
+
+Kamera-Rahmenhilfslinien.
+
+Timeline-Marker.
+
+Filmperforationen.
+
+Papiercollage-Texturen.
+
+Reisestempel.
+
+Flugzeug-Kritzeleien.
+
+Sterne.
+
+Blitze.
+
+Neuronale-Netz-Diagramme.
+
+Barcode-Sticker.
+
+Von QR-Codes inspirierte Grafiken.
+
+Minimalistische UI-Fenster.
+
+KI-Knotenverbindungen.
+
+Beleuchtung
+
+Luxuriöse kommerzielle Studiobeleuchtung.
+
+Weiche filmische Schatten.
+
+Hochwertige Editorial-Fashion-Beleuchtung.
+
+Dezentes Randlicht.
+
+Stimmung
+
+Kreativ.
+
+Innovativ.
+
+Premium.
+
+Tech-forward.
+
+Filmisch.
+
+Jugendlich.
+
+Selbstbewusst.
+
+Farbpalette
+
+Mattschwarz
+
+Adobe-Rot
+
+Elektrisches Blau
+
+Neon-Violett
+
+Weiß
+
+Metallic-Silber
+
+Warme Goldakzente
+
+Seitenverhältnis: 4:5 vertikal.
+
+Pinterest-virale Luxus-Editorial-Kampagne, Apple-Stil-Produktfotografie trifft auf Adobe-Kreativ-Branding, ultradetailliert, hyperrealistisch, filmische kommerzielle Qualität, 8K-Meisterwerk.
 ```
 
 </details>
@@ -3921,7 +3412,7 @@ unordentlicher Hintergrund, generische Bäckereiauslage, detailarmes Gebäck, fl
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMsaG2JaAAAeSu6.jpg" width="700" alt="Verspieltes Pastel-de-Nata-Poster">
+<img src="https://image.moge.ai/prompt_media/HMxIwhCaUAAWBYF.jpg" width="700" alt="Editorial-Kampagnenposter Future Vibes AI">
 </div>
 
 <br>
@@ -3930,68 +3421,59 @@ unordentlicher Hintergrund, generische Bäckereiauslage, detailarmes Gebäck, fl
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2074780810440589526) | 2026-07-08 |
+| [Future AI 🧩](https://x.com/FutureVibesAi) | [X / Twitter](https://x.com/FutureVibesAi/status/2075113534481109162) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074780810440589526)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2075113534481109162)**
 
 </div>
 
 ---
 
-### No. 50: Blau-Weißes Linienstruktur-Poster
+### No. 50: Cyber-Porträt-Poster mit Sinnesstörung
 
 ![Kategorie: Kreative Visuals](https://img.shields.io/badge/Kategorie-Kreative%20Visuals-lightgrey)
 
 #### 📚 Beschreibung
 
-Erstellt ein vertikales, blau-weißes Konzeptposter mit einer riesigen Bogenstruktur aus parallelen Linien und kleinen menschlichen Silhouetten, die sie durchqueren, im Stil von öffentlichem Design und visuellem Experiment.
+Erzeugt ein vertikales, konzeptionelles Cyber-Porträt-Poster, das ein ruhiges Gesicht mit Neuronensignalen, Datenströmen und Flüssigglas in kühler Kunstausstellungs-Ästhetik verschmilzt.
 
 #### 🌟 Prompt
 
-Erstelle ein vertikales konzeptionelles Poster im Format 3:4 auf Chinesisch mit dem Thema «【Themenname】». Der …
+Erzeuge ein vertikales, konzeptionelles Cyber-Porträt-Poster im Format 3:4 zum Thema «[THEMENNAME]». …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Erstelle ein vertikales konzeptionelles Poster im Format 3:4 auf Chinesisch mit dem Thema «【Themenname】».
+Erzeuge ein vertikales, konzeptionelles Cyber-Porträt-Poster im Format 3:4 zum Thema «[THEMENNAME]».
 
-Der Gesamtstil ist: blau-weißes minimalistisches Grafikposter, Gefühl von öffentlichem Design, visuelles Experiment, kontinuierliche Linienstruktur, räumliche Ordnung, menschliche Silhouetten, viel Weißraum, moderne chinesische Typografie.
+Hauptmotiv ist ein futuristisches Porträt als Halbfigur oder Profilansicht; die Person ist ruhig, zurückhaltend und geheimnisvoll, ohne übertriebene Mimik. Verschmelze das Porträt mit abstrakten Systemen: Neuronensignale, Datenströme, Lichtstrahlen, Flüssigglas, Frequenzwellen, Nachbilder, blaue Energie, transparente Kristalle, pflanzliche Nerven, Glitch-Scan, visuelles Rauschen.
 
-Das Hauptmotiv ist eine riesige Bogenstruktur aus vielen blauen oder weißen parallelen Linien, die wie eine Rampe, Brücke, Welle, ein Tunnel, eine Datenbrücke, Mondbahn, gefaltete Windfläche oder eine urbane Echostruktur wirken kann. Die Struktur soll ein starkes Gefühl von Richtung und Tiefe haben, mit dichten, sauberen, rhythmischen Linien.
+Das Ganze ist kein gewöhnlicher Sci-Fi-Avatar und kein Spielfiguren-Poster, sondern ein anspruchsvolles Poster einer futuristischen Kunstausstellung, wie ein visuelles Experiment zu «Sinnessystem, Bewusstseins-Upload, Erinnerungsdrift, Signalstörung, Datenkörper».
 
-Es erscheint eine Gruppe kleiner weißer oder blauer menschlicher Silhouetten, die entlang der Struktur gehen, klettern, ziehen, durchqueren, beobachten oder das Gleichgewicht halten. Die Figuren sollen nicht zu groß oder in Nahaufnahme sein, sondern als visuelle Symbole in die Struktur integriert werden.
+Visuelle Anforderungen:
+1. Das Porträt muss klar sein, mit starken Konturen und Licht-Schatten.
+2. Verwende Blau, Cyan, Violett, Magenta, Silberweiß und Schwarz als Hauptfarben.
+3. Der Augen- oder Kopfbereich kann von Lichtstrahlen, Daten, Flüssigkeit, Pflanzenfasern, Glasstrukturen, Frequenzlinien durchdrungen werden.
+4. Füge etwas Tech-Interface, kleine Anmerkungen, Koordinatenlinien, Scanlinien, Parameteretiketten hinzu.
+5. Das Bild soll anspruchsvoll, kühl, futuristisch, geheimnisvoll wirken, mit starkem Magazin-Cover- und Ausstellungsposter-Gefühl.
+6. Kein billiger Cyberpunk, keine E-Commerce-Anmutung, keine echten Marken-Logos, kein Wasserzeichen, kein QR-Code.
 
-Die Farbpalette wird von dunklem Blau und reinem Weiß dominiert, mit sparsamer Verwendung von Hellblau oder Graublau als Verlauf oder Schatten. Das Bild soll sauber, edel und rational sein, ohne komplexen Hintergrund oder unordentliche Verzierungen.
-
-Typografie-Anforderungen:
-Chinesischer Haupttitel: «【Haupttitel】»
-Englischer Untertitel: «【Englischer Untertitel】»
-Kurzer chinesischer Satz: «【Kurzer Satz】»
-Eckenmarke: «视觉实验海报 【Nummer】»
-Datum: «2026.07.07»
-
-Der Text muss klar und präzise sein, ohne beschädigte Zeichen oder Tippfehler. Chinesisch dominiert, Englisch ist nur ergänzend. Der Titel soll gestalterisch wirken; man kann fettes Chinesisch, vertikales Chinesisch, einen großen Titel links, das Datum oben rechts und kleine Textinformationen unten verwenden.
+Typografie:
+Chinesischer Haupttitel: «[CHINESISCHER HAUPTTITEL]»
+Englischer Titel: «[ENGLISCHER TITEL]»
+Chinesischer Kurzsatz: «[CHINESISCHER KURZSATZ]»
+Falls ein Datum erscheint, schreibe nur das heutige Datum «2026.07.08»
+Das Chinesische muss klar und korrekt sein, ohne beschädigte Zeichen oder Fehler. Englisch nur unterstützend, nicht dominierend.
 
 Die Komposition kann variieren:
-1. Eine riesige diagonale Bogenfläche durchzieht das Bild, Figuren gehen entlang der Kante
-2. Blaue Wellenrampe erstreckt sich aus der Ferne in den Vordergrund
-3. Bogenbrücke bildet eine starke räumliche Perspektive
-4. Struktur wie gefalteter Wind, von Figuren gezogen
-5. Linien wie Datenübertragungskanäle, Figuren als Knotenpunkte
-6. Blauer Mondbogen, Figuren gehen entlang der Mondsichel
-7. Runde Öffnung oder Bogenstruktur, Figuren durchqueren sie
-8. Große weiße Fläche, blaue Struktur nimmt eine Ecke ein
-9. Große blaue Fläche, weiße Struktur bildet einen Lichtpfad
+große Profil-Nahaufnahme, frontale Halbfigur, gesenkter Kopf mit geschlossenen Augen, von Lichtstrahl verdeckte Augen, in Flüssigglas gehüllte Figur, in pflanzliche Nerven verwandeltes Haar, aus der Dunkelheit von Signalen beleuchtete Figur, von bewegten Lichtlamellen zersplitterte Figur.
 
-Bildstimmung:
-rational, zurückhaltend, futuristisch, öffentliche Kunst, urbane Beobachtung, visuelles Experiment, Ordnungsgefühl, Richtungsgefühl, ruhig, aber kraftvoll.
-
-Kein Wasserzeichen, keine echten Marken-Logos, kein QR-Code, kein E-Commerce-Gefühl, kein billiges Technikgefühl, nicht zu viel Englisch, keine komplexen Gesichtsausdrücke.
+Endergebnis: ein vollständiges Cyber-Porträt-Kunstposter mit starker visueller Wirkung, anspruchsvoller Typografie, geeignet zum ästhetischen Teilen in sozialen Medien.
 ```
 
 </details>
@@ -3999,7 +3481,7 @@ Kein Wasserzeichen, keine echten Marken-Logos, kein QR-Code, kein E-Commerce-Gef
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMmXMpEa0AApZHw.jpg" width="700" alt="Blau-Weißes Linienstruktur-Poster">
+<img src="https://image.moge.ai/prompt_media/HMtQfl6acAAeUxm.jpg" width="700" alt="Cyber-Porträt-Poster mit Sinnesstörung">
 </div>
 
 <br>
@@ -4008,13 +3490,13 @@ Kein Wasserzeichen, keine echten Marken-Logos, kein QR-Code, kein E-Commerce-Gef
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [楊哥 \| Yang Onchain](https://x.com/YangOnchain) | [X / Twitter](https://x.com/YangOnchain/status/2074355376263397767) | 2026-07-07 |
+| [楊哥 \| Yang Onchain](https://x.com/YangOnchain) | [X / Twitter](https://x.com/YangOnchain/status/2074840576092942420) | 2026-07-08 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074355376263397767)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074840576092942420)**
 
 </div>
 
@@ -4199,23 +3681,25 @@ Erzeuge 10 Bilder in Folge, jedes mit anderer Themenlogik (Stadt und Gemüse) so
 
 ---
 
-### No. 53: Handgezeichnetes Reisetagebuch
+### No. 53: Minimalistischer Vintage-Japandruck
 
 ![Kategorie: Illustration & IP](https://img.shields.io/badge/Kategorie-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Beschreibung
 
-Erstellt eine handgezeichnete Vintage-Reisetagebuch-Illustration eines Landes mit Tuscheskizzen und Aquarell-Akzenten, die Wahrzeichen, Kultur und lokale Details zeigen.
+Erzeugt eine minimalistische Retro-Illustration im japanischen Druckstil mit viel cremefarbenem Freiraum, dunkler Silhouette und leuchtenden Farbakzenten.
 
 #### 🌟 Prompt
 
-Erstelle eine handgezeichnete Vintage-Reisetagebuch-Illustration von [LAND] mit detaillierten schwarzen …
+Eine minimalistische, retro-japanische Illustration im Druckstil, mit 【xxx】 als Hauptmotiv. Die Komposition …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Erstelle eine handgezeichnete Vintage-Reisetagebuch-Illustration von [LAND] mit detaillierten schwarzen Tuscheskizzen und lebendigen [AKZENTFARBE] Aquarell-Highlights auf einem sauberen weißen Papierhintergrund. Zeige die ikonischsten Wahrzeichen des Landes, Architektur, Landschaften, kulturelle Symbole, traditionelle Speisen, lokale Verkehrsmittel, Artefakte und berühmte Reiseziele, angeordnet als ausgewogenes Reise-Sammelalbum mit handgeschriebenen Beschriftungen, Wegweisern, Checklisten, Stempeln und dekorativen Kritzeleien. Füge einen stilisierten Ländertitel mit einem kurzen Slogan oben, dezente Aquarellspritzer und authentische lokale Details hinzu, die Kultur und Charme der Nation in einem eleganten, künstlerischen Reise-Skizzenbuch-Stil einfangen.
+Eine minimalistische, retro-japanische Illustration im Druckstil, mit 【xxx】 als Hauptmotiv. Die Komposition bewahrt einen großen cremeweißen, elfenbeinfarbenen oder hellcremefarbenen Papierhintergrund mit feiner Papierstruktur, leichter Alterung, handgedruckter Körnung und sanftem Rauschen.
+Das Motiv ist überwiegend in Tintenschwarz, Indigoschwarz, Anthrazit und dunklem Marineblau gestaltet, mit klaren, eleganten Konturen, schlanker, ruhiger und zurückhaltender Silhouette, einfacher, aber präzise strukturierter Form. Details werden mit lebendigen Farbflächen akzentuiert — Zinnoberrot, Orangerot, Koralle, Kobaltblau, Kieferngelb, Pfauengrün, dunkles Blaugrün, Magenta oder Goldorange — und bilden einen starken, aber zurückhaltenden Kontrast zum dunklen Motiv, etwa in einem Schal, Rocksaum, Hintergrundschein, Haarschmuck, Blumen oder abstrakter Geometrie.
+Die Gesamtkomposition ist schlicht, ruhig, poetisch, einsam und vintage, betont Freiraum, Balance und östliche Ästhetik. Das Bild wirkt wie eine Verschmelzung von Showa-Ära-Postern, japanischen Holzschnitten, Retro-Siebdruck, minimalistischer Aquarell-Illustration und modernem Editorial-Poster. Zurückhaltende Farbanzahl, sauberes Bild; keine realistische Fotografie, kein 3D, keine dicke Malerei, kein komplexer Hintergrund, kein kindlicher Cartoon, kein Text, kein Wasserzeichen, kein Logo.
 ```
 
 </details>
@@ -4223,7 +3707,7 @@ Erstelle eine handgezeichnete Vintage-Reisetagebuch-Illustration von [LAND] mit 
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMn32w6aIAAuwSJ.jpg" width="700" alt="Handgezeichnetes Reisetagebuch">
+<img src="https://image.moge.ai/prompt_media/HMoXLNFaMAAlEFr.jpg" width="700" alt="Minimalistischer Vintage-Japandruck">
 </div>
 
 <br>
@@ -4232,51 +3716,35 @@ Erstelle eine handgezeichnete Vintage-Reisetagebuch-Illustration von [LAND] mit 
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [NoorAI](https://x.com/noorwithwifi) | [X / Twitter](https://x.com/noorwithwifi/status/2074461631082529174) | 2026-07-07 |
+| [沐阳](https://x.com/yyyole) | [X / Twitter](https://x.com/yyyole/status/2074498667739033746) | 2026-07-07 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074461631082529174)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074498667739033746)**
 
 </div>
 
 ---
 
-### No. 54: Minimalistisches Mode-Editorial in Galerie
+### No. 54: Wüsten-Mode-Porträt
 
 ![Kategorie: Fotografie & Bild](https://img.shields.io/badge/Kategorie-Fotografie%20%26%20Bild-lightgrey)
 
 #### 📚 Beschreibung
 
-Erzeugt ein minimalistisches Mode-Editorial einer jungen Frau in einer Kunstgalerie mit Schweizer-Typografie-Postern, weichem Naturlicht und fotorealistischer Luxusästhetik.
+Erzeugt ein filmisches Porträt einer jungen Frau im orangefarbenen Badeanzug, die in einem Strandstuhl inmitten roter Sandsteinformationen im warmen Tageslicht entspannt.
 
 #### 🌟 Prompt
 
-Ein minimalistisches Mode-Editorial-Shooting mit einer jungen Frau mit kurzem schwarzem Bob und weichem, …
+Eine weite, karge Wüstenlandschaft leuchtet im warmen Tageslicht. Eine anmutige junge Frau sitzt mit …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Ein minimalistisches Mode-Editorial-Shooting mit einer jungen Frau mit kurzem schwarzem Bob und weichem, feinem Pony, die ein ärmelloses marineblaues Midikleid mit klarer Silhouette und schwarze Riemchensandalen trägt. Sie hält eine kompakte weiße Premiumkamera mit einem leuchtend limettengrünen Handschlaufe. Modernes Kunstgalerie-Interieur mit einer Wand voller großer schwarz-weißer Poster im Schweizer Typografie-Stil, inspiriert von Helvetica und Bauhaus-Grafikdesign. Weiches natürliches Innenlicht, gedämpfte neutrale Farbpalette, klare Komposition, skandinavisch/japanischer Minimalismus, Luxus-Lifestyle-Fotografie, ungezwungene, aber elegante Pose, ruhiger Ausdruck, hochwertige Modemagazin-Ästhetik, kinematografisches Color Grading, geringe Schärfentiefe, ultrascharfe Details, realistische Hauttextur, Premium-Spiegellosen-Kamera-Look, 35mm-Objektiv, f/2, Ganzkörper-Editorial, zeitgenössische Museumsatmosphäre.
-Stil-Schlüsselwörter:
-Minimalistisch
-Editorial-Mode
-Muji / japanische Ästhetik
-Skandinavisches Interieur
-Schweizer Grafikdesign
-Weiches natürliches Licht
-Neutrale Töne
-Klare Komposition
-Luxus-Lifestyle
-Kinematografisch
-Fotorealistisch
-Hohes Detail
-8K
-Negativer Prompt:
-niedrige Qualität, unscharf, übersättigte Farben, starkes Make-up, übertriebene Gesichtszüge, zusätzliche Finger, verzerrte Hände, schlechte Anatomie, doppelte Gliedmaßen, verzerrte Kamera, Textartefakte, Wasserzeichen, Logo, verrauschtes Bild, überbelichtet, unterbelichtet, Cartoon, CGI, niedrige Auflösung.
+Eine weite, karge Wüstenlandschaft leuchtet im warmen Tageslicht. Eine anmutige junge Frau sitzt mit entspanntem Selbstbewusstsein auf einem tragbaren Strandstuhl. Ihr leuchtend oranger Badeanzug schmiegt sich natürlich an ihre Form, während sie im offenen Gelände ruht. Natürliches helles Tageslicht umhüllt sanft ihre Silhouette und formt weiche Glanzlichter. Aufragende rote Sandsteinformationen und ein cremefarbenes Vintage-Cabrio zeichnen einen warm-bernsteinfarbenen Horizont. Die Szene fängt eine erlesene Balance zwischen menschlicher Intimität und monumentaler Landschaftsschönheit ein.
 ```
 
 </details>
@@ -4284,7 +3752,7 @@ niedrige Qualität, unscharf, übersättigte Farben, starkes Make-up, übertrieb
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMmLzCbXAAAyTep.jpg" width="700" alt="Minimalistisches Mode-Editorial in Galerie">
+<img src="https://image.moge.ai/prompt_media/HMs-oaPbMAAI3St.jpg" width="700" alt="Wüsten-Mode-Porträt">
 </div>
 
 <br>
@@ -4293,40 +3761,35 @@ niedrige Qualität, unscharf, übersättigte Farben, starkes Make-up, übertrieb
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [K](https://x.com/ChillaiKalan__) | [X / Twitter](https://x.com/ChillaiKalan__/status/2074342833515855902) | 2026-07-07 |
+| [GenAngels \| 臻天使](https://x.com/GenAngelsStudio) | [X / Twitter](https://x.com/GenAngelsStudio/status/2074820936994558087) | 2026-07-08 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074342833515855902)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074820936994558087)**
 
 </div>
 
 ---
 
-### No. 55: Blaubeer-Limonaden-Poster
+### No. 55: Pastellfarbenes Food-Produktfoto
 
 ![Kategorie: Werbung & Produkt](https://img.shields.io/badge/Kategorie-Werbung%20%26%20Produkt-lightgrey)
 
 #### 📚 Beschreibung
 
-Erstellt ein hochwertiges, ultrarealistisches Werbeposter für Blaubeer-Limonade mit schwebenden Früchten, kristallklarem Eis und Luxus-Branding-Typografie.
+Verwandelt ein Food- oder Getränkefoto in ein hochwertiges Studio-Shooting in Pastelltönen mit sanftem Hintergrund, diffusem Licht und eleganter Marken-Typografie im vertikalen 4:5-Format.
 
 #### 🌟 Prompt
 
-Erstelle ein hochwertiges, ultrarealistisches Getränke-Werbeposter mit einem großen transparenten …
+Verwende das hochgeladene Food-/Getränkebild als Hauptreferenz. Bewahre exakt die Produktidentität, das …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Erstelle ein hochwertiges, ultrarealistisches Getränke-Werbeposter mit einem großen transparenten Plastikbecher, gefüllt mit lebendiger Blaubeer-Limonade. Das Getränk hat einen satten violett-blauen Verlauf, funkelnde Eiswürfel, frische ganze Blaubeeren, die im und um den Becher schweben, und dünne Zitronenscheiben, die überall eingetaucht sind. Der Becher ist mit realistischen Kondenswassertropfen bedeckt, was ein erfrischendes, gekühltes Erscheinungsbild schafft. Ein schwarzer Trinkhalm ragt oben heraus.
-Umgib das Getränk mit schwebenden frischen Blaubeeren, Zitronenhälften, Zitronenscheiben, Minzblättern, Wassertropfen und kristallklaren Eiswürfeln für eine dynamische Komposition. Verwende dramatisches Studiolicht mit glänzenden Reflexionen und weichen Schatten, um einen luxuriösen kommerziellen Look zu erzeugen. Der Hintergrund besteht aus einem modernen geteilten Design mit tiefem Marineblau links und sanftem Lavendel-Violett rechts, einschließlich subtiler Verläufe und abgerundeter geometrischer Formen. Platziere das Getränk in der Mitte als Hauptprodukt. Füge links eine fette vertikale weiße Typografie mit der Aufschrift "BLUEBERRY" in einer großen modernen serifenlosen Schrift hinzu. Oben rechts füge ein sauberes Werbetext-Layout hinzu:
-THE BEST IS HERE
-AT HEIS DRINKS
-
-Verwende einen minimalistischen Luxus-Branding-Stil mit exzellenter typografischer Hierarchie und großzügigen Abständen. Hyperrealistische Food-Fotografie, kommerzielle Produktwerbung, Premium-Getränkekampagne, lebendige Farben, fotorealistische Fruchttexturen, kristallklares Eis, ultradetailliertes Kondenswasser, filmische Beleuchtung, weiche Tiefenschärfe, 8K-Auflösung, Adobe-Photoshop-Werbemockup, modernes Instagram-Food-Poster, hochwertige Getränkewerbung.
+Verwende das hochgeladene Food-/Getränkebild als Hauptreferenz. Bewahre exakt die Produktidentität, das Aussehen, die Textur, die Farben und die Präsentationsart. Verwandle es in ein hochwertiges Studio-Shooting in sanften Pastelltönen mit einem hellen, klaren und modernen kommerziellen Food-Fotografie-Stil. Nutze einen komplementären Pastellhintergrund, minimale elegante Requisiten, ein raffiniertes Anrichten, weiches diffuses Licht, realistische Schatten und appetitliche natürliche Details. Halte das Produkt als Hauptdarsteller mit ausgewogener Komposition, Negativraum und einem dezenten Luxus-Branding-Bereich. Füge minimale elegante Typografie für Produktname, Markenname und optionalen CTA hinzu. Endergebnis: ultrarealistisches vertikales 4:5-Bild in professioneller Food-Werbequalität, frisch, poliert, premium und social-media-ready.
 ```
 
 </details>
@@ -4334,7 +3797,7 @@ Verwende einen minimalistischen Luxus-Branding-Stil mit exzellenter typografisch
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMrXwU3W8AAW5ie.jpg" width="700" alt="Blaubeer-Limonaden-Poster">
+<img src="https://image.moge.ai/prompt_media/HMxGyU1WUAAxJwv.jpg" width="700" alt="Pastellfarbenes Food-Produktfoto">
 </div>
 
 <br>
@@ -4343,46 +3806,36 @@ Verwende einen minimalistischen Luxus-Branding-Stil mit exzellenter typografisch
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [Simply Ray](https://x.com/kingofdairyque) | [X / Twitter](https://x.com/kingofdairyque/status/2074707807925059871) | 2026-07-08 |
+| [Anissa](https://x.com/SimplyAnnisa) | [X / Twitter](https://x.com/SimplyAnnisa/status/2075111363064848511) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074707807925059871)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2075111363064848511)**
 
 </div>
 
 ---
 
-### No. 56: Koreanisches Poster 'Ich bin Bond'
+### No. 56: Indie-Science-Fiction-Filmplakat
 
 ![Kategorie: Kreative Visuals](https://img.shields.io/badge/Kategorie-Kreative%20Visuals-lightgrey)
 
 #### 📚 Beschreibung
 
-Erstellt ein koreanisches Theaterplakat im Kinostil mit einer eleganten jungen Frau auf einer Straße in Seoul und großer kobaltblauer koreanischer Typografie.
+Erstellt ein vertikales Indie-Science-Fiction-Filmplakat mit einem erfundenen türkischen Titel.
 
 #### 🌟 Prompt
 
-Ein modernes koreanisches Theaterplakat-Design, das sich auf die Figur im Bild bezieht. Die Szene hat einen …
-
-<details>
-<summary>Vollständigen Prompt anzeigen</summary>
-
 ```
-Ein modernes koreanisches Theaterplakat-Design, das sich auf die Figur im Bild bezieht. Die Szene hat einen Streetfotografie-Stil, vor einem Bürgersteig-Hintergrund in Seoul, mit warmen cremegelben Fliesenwänden und Schaufenstern.
-Der zentrale Fokus ist scharf und klar: eine modische junge Koreanerin mit hochgestecktem Dutt dreht sich um, um über die Schulter zu blicken, ihr scharfer Blick geht direkt in die Kamera. Sie trägt ein elegantes, fließendes kobaltblaues Kleid, das mit ihrer Bewegung wallt, kombiniert mit dunkelgrauen Socken und schwarzen Stiefeletten.
-Im äußersten Vordergrund überlagert ein kühner, überdimensionaler typografischer Rahmen das gesamte Bild, bestehend aus riesigem kobaltblauem koreanischem Text mit der Aufschrift "나는 본드다" (bedeutet "Ich bin Bond"). Die Farbe dieses großen Textes greift das Blau ihres Kleides perfekt auf.
-In der oberen rechten Ecke steht ein kleiner, ordentlich angeordneter Veranstaltungsinformationstext in Rot-Weiß auf Koreanisch. Helles, natürliches Straßenlicht wirft realistische Schatten, mit einer insgesamt reichen High-Key-Farbpalette — ein Meisterwerk, das kinematografische Atmosphäre mit avantgardistischem Grafikdesign verbindet. --ar 9:16
+Erstelle ein Indie-Science-Fiction-Filmplakat. Erfinde einen türkischen Titel. Vertikales Format.
 ```
-
-</details>
 
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMmTj_OXkAAY12d.jpg" width="700" alt="Koreanisches Poster &#x27;Ich bin Bond&#x27;">
+<img src="https://image.moge.ai/prompt_media/HMsJYvPWwAABNOy.jpg" width="700" alt="Indie-Science-Fiction-Filmplakat">
 </div>
 
 <br>
@@ -4391,13 +3844,13 @@ In der oberen rechten Ecke steht ein kleiner, ordentlich angeordneter Veranstalt
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [WasifAI](https://x.com/doctorwasif) | [X / Twitter](https://x.com/doctorwasif/status/2074351353611358488) | 2026-07-07 |
+| [Ozan Sihay](https://x.com/ozansihay) | [X / Twitter](https://x.com/ozansihay/status/2074762671342186760) | 2026-07-08 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074351353611358488)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074762671342186760)**
 
 </div>
 
@@ -4509,23 +3962,23 @@ Füge hinter mir große, fette weiße Typografie mit der Aufschrift "JULY" hinzu
 
 ---
 
-### No. 59: Pop-Art-Porträt eines Stars
+### No. 59: Handgezeichnetes Reisetagebuch
 
 ![Kategorie: Illustration & IP](https://img.shields.io/badge/Kategorie-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Beschreibung
 
-Erstellt ein lebendiges Pop-Art-Porträt eines Stars im Stil von Vintage-Comics der 1960er mit kräftigen Grundfarben, Ben-Day-Punkten und explosiven Grafikelementen.
+Erstellt eine handgezeichnete Vintage-Reisetagebuch-Illustration eines Landes mit Tuscheskizzen und Aquarell-Akzenten, die Wahrzeichen, Kultur und lokale Details zeigen.
 
 #### 🌟 Prompt
 
-Erstelle eine lebendige Pop-Art-Illustration einer weltweit erkennbaren Berühmtheit, inspiriert vom …
+Erstelle eine handgezeichnete Vintage-Reisetagebuch-Illustration von [LAND] mit detaillierten schwarzen …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Erstelle eine lebendige Pop-Art-Illustration einer weltweit erkennbaren Berühmtheit, inspiriert vom klassischen Pop-Art der 1960er Jahre und der Ästhetik von Vintage-Comics. Verwende kräftige Grundfarben wie leuchtendes Rot, elektrisches Blau, lebendiges Gelb und satte schwarze Konturen. Das Porträt sollte kontrastreiche Schattierungen, Ben-Day-Punkte, Halbtontexturen, dramatische Comic-Schatten und dicke, getuschte Konturen aufweisen. Fange eine selbstbewusste, ausdrucksstarke Pose mit einem ikonischen Gesichtsausdruck ein, der Charisma und Starpower vermittelt. Umgebe das Motiv mit energiegeladenen Grafikelementen wie explosiven Comic-Ausbrüchen, Sprechblasen, geometrischen Formen, Sternen, Blitzen und dynamischen Bewegungslinien. Der Hintergrund sollte aus farbenfrohen, geschichteten Panels, Retro-Mustern und abstrakten Pop-Art-Kompositionen bestehen, die die visuelle Wirkung verstärken. Betone gestochen scharfe Details, ultrascharfe Linienführung, glänzende Druckqualität und ein poliertes, posterartiges Finish. Das Gesamtkunstwerk sollte kühn, verspielt, nostalgisch und sofort als hochwertiges Pop-Art-Meisterwerk erkennbar wirken, mit cineastischer Beleuchtung, satter Farbsättigung, digitaler Illustration in Museumsqualität und 8K-Ultra-High-Resolution-Detail.
+Erstelle eine handgezeichnete Vintage-Reisetagebuch-Illustration von [LAND] mit detaillierten schwarzen Tuscheskizzen und lebendigen [AKZENTFARBE] Aquarell-Highlights auf einem sauberen weißen Papierhintergrund. Zeige die ikonischsten Wahrzeichen des Landes, Architektur, Landschaften, kulturelle Symbole, traditionelle Speisen, lokale Verkehrsmittel, Artefakte und berühmte Reiseziele, angeordnet als ausgewogenes Reise-Sammelalbum mit handgeschriebenen Beschriftungen, Wegweisern, Checklisten, Stempeln und dekorativen Kritzeleien. Füge einen stilisierten Ländertitel mit einem kurzen Slogan oben, dezente Aquarellspritzer und authentische lokale Details hinzu, die Kultur und Charme der Nation in einem eleganten, künstlerischen Reise-Skizzenbuch-Stil einfangen.
 ```
 
 </details>
@@ -4533,7 +3986,7 @@ Erstelle eine lebendige Pop-Art-Illustration einer weltweit erkennbaren Berühmt
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMn3KRfakAANN_F.jpg" width="700" alt="Pop-Art-Porträt eines Stars">
+<img src="https://image.moge.ai/prompt_media/HMn32w6aIAAuwSJ.jpg" width="700" alt="Handgezeichnetes Reisetagebuch">
 </div>
 
 <br>
@@ -4542,45 +3995,95 @@ Erstelle eine lebendige Pop-Art-Illustration einer weltweit erkennbaren Berühmt
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [Snow](https://x.com/iamrealsnow) | [X / Twitter](https://x.com/iamrealsnow/status/2074460974745350466) | 2026-07-07 |
+| [NoorAI](https://x.com/noorwithwifi) | [X / Twitter](https://x.com/noorwithwifi/status/2074461631082529174) | 2026-07-07 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074460974745350466)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074461631082529174)**
 
 </div>
 
 ---
 
-### No. 60: Weibliches Porträt im Zimmer mit Naturlicht
+### No. 60: Editoriales Mode-Studioporträt
 
 ![Kategorie: Fotografie & Bild](https://img.shields.io/badge/Kategorie-Fotografie%20%26%20Bild-lightgrey)
 
 #### 📚 Beschreibung
 
-Erstellt ein realistisches Hochformat-Porträt einer jungen Frau, die auf dem Boden eines hellen, minimalistischen Zimmers sitzt, mit langem braunem Haar und sanftem, verträumtem Ausdruck bei diffusem Naturlicht.
+Erzeugt ein realistisches editoriales Mode-Porträt einer Frau im geometrischen chartreuse-grünen Jumpsuit in einem minimalistischen grauen Studio.
 
 #### 🌟 Prompt
 
-Weiches, realistisches vertikales Innenporträt im Lifestyle-Fotografiestil mit hellem, klarem Naturlicht. …
+Eine professionelle editoriale Mode-Fotografie einer jungen Frau mit einem eleganten, mittig gescheitelten …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Weiches, realistisches vertikales Innenporträt im Lifestyle-Fotografiestil mit hellem, klarem Naturlicht. Erwachsene Frau von 20 Jahren sitzt auf dem Boden, angelehnt an ein niedriges Bett oder einen gepolsterten Sitz, ruhiges minimalistisches Zimmer. Leicht nach rechts versetzt, zurückgelehnt an ein weißes Kissen oder die Sofakante, der Körper erstreckt sich diagonal vom linken unteren Vordergrund zur rechten Bildseite. Stiller, sanfter, leicht verträumter Ausdruck, direkt in die Kamera blickend.
+Eine professionelle editoriale Mode-Fotografie einer jungen Frau mit einem eleganten, mittig gescheitelten Dutt, die in einem minimalistischen Studio steht. Sie trägt einen ärmellosen Jumpsuit mit einem markanten geometrischen Muster in Chartreuse-Grün und Weiß und hält eine kleine, strukturierte Lederhandtasche in Chartreuse am oberen Griff. Das Bild muss sich wie eine echte, in der Kamera aufgenommene Fotografie anfühlen, nicht KI-generiert, mit authentischen Texturen und echtem optischem Verhalten.
 
-Figur: extrem langes, glattes dunkelbraunes Haar mit warmen goldbraunen Spitzen, Mittelscheitel, glatt über Schultern und Brust fallend. Sanftes, feines Make-up: dichter Eyeliner, lange Wimpern, zartes Pfirsichrouge, strahlend helle Haut, glänzende hellrosa Lippen. Entspannte, elegante Haltung — eine Hand nahe am Haar oder an der Wange; die andere leicht auf dem Knie ruhend.
+**GESAMTEINDRUCK**
 
-Stil: dezente, sanfte Boudoir-Komposition. Das glatte dunkelbraune Haar bedeckt natürlich die nackten Schultern und den Oberkörper. Weicher, matter, leichter Stoff umschließt die Knie, fein und raffiniert — Betonung auf Naturlicht, ruhiger Atmosphäre, Pose und Stofftextur.
+- Minimalistisch, editorial, High-Fashion, klar, poliert
+- Aussehen einer echten Fotografie, kein CGI oder digitale Malerei
 
-Szene: helles minimalistisches Zimmer. Hinter ihr: ein großes Fenster mit transparenten weißen Voile-Vorhängen, überbelichtetes Tageslicht strömt herein, hellblau-weiße Wände. Links: ein Vintage-Metallventilator auf einem kleinen Tisch. Im Hintergrund: ein niedriges Holzbücherregal mit gestapelten Büchern, eine kleine Kamera oder dekorative Objekte, ein geflochtener Aufbewahrungskorb, ein sichtbarer schwarzer Buchumschlag mit fettem weißem Text. Rechter Vordergrund: unscharfer Rand einer karierten Decke oder eines Stoffs — verleiht Tiefe und Rahmeneffekt.
+**SUBJEKT**
 
-Licht und Ton: diffuses High-Key-Tageslicht vom Fenster — sanftes Leuchten auf Gesicht, Haar, Schultern, Armen, weißem Stoff und Boden. Geringe Schärfentiefe, cremige Lichter, sanfte Schatten, saubere Pastelltöne. Palette: helles Weiß, hellblaue Wände, warme Haut, dunkelbraunes Haar, helle Holzmöbel, gedämpfter grauer Boden, sanfte beige Akzente.
+- Junge Frau mediterraner Abstammung, schlanke Statur, ovales Gesicht, markante Kieferlinie
+- Neutraler, gelassener und fokussierter Ausdruck, direkt in die Linse blickend
 
-Stil: realistische Innenporträtfotografie mit Naturlicht, helles minimalistisches Zimmer, entspannte sitzende Pose, langes glattes dunkles Haar, herabfallender weißer Stoff, sanfter verträumter Ausdruck, Voile-Vorhänge, Vintage-Ventilator, Bücherregal im Hintergrund, helle High-Key-Beleuchtung, geringe Schärfentiefe, Hochformat, hohe Detailtreue. Kein Wasserzeichen, kein Logo, kein Cartoon-Look, kein harter Blitz, kein verzerrter Körper, keine zusätzlichen Personen, keine unordentlichen Elemente, keine explizite Nacktheit.
+**REALISMUS-KRITISCHE MENSCHLICHE DETAILS**
+
+- Mikrotextur der Haut sichtbar bei sanftem Licht, feine Poren, natürlicher Hautglanz, subtile Gesichtslinien um die Augen, keine künstliche Hautglättung oder Airbrush
+
+**HAAR**
+
+- Dunkelbraunes Haar, präzise mittig gescheitelt, straff nach hinten zu einem ordentlichen tiefen Dutt gebunden, einzelne Strähnen und feine Flyaways in der Nähe der Ohren sichtbar
+
+**POSE / BILDAUSSCHNITT**
+
+- Halbtotale, vertikale Komposition
+- Aufrecht stehend, eine strukturierte limettengrüne Lederhandtasche mit der rechten Hand am oberen Griff vor der Taille haltend, linker Arm entspannt an der Seite
+
+**GARDEROBE & ACCESSOIRES**
+
+- Ärmelloser Jumpsuit mit hohem Kragen aus dickem, mattem Stoff mit einem markanten Retro-Muster aus großen weißen und chartreuse-grünen abstrakten Formen
+- Mittelgroße, dicke goldene Creolen; keine sichtbaren Logos oder ablenkenden Markenelemente
+
+**HINTERGRUND**
+
+- Minimalistisches Studio-Setting mit nahtlosem hellgrauem Hintergrund; sanfte, verlaufende Schatten auf dem Boden
+
+**BELEUCHTUNG**
+
+- Diffuses, hochwertiges Studiolicht von vorne links, das sanfte, natürliche Schatten auf der rechten Seite ihres Gesichts und Körpers wirft
+
+**FARBPALETTE**
+
+- Chartreuse (Limette) Grün, klares Weiß, warmes Gold, natürliche olivfarbene Hauttöne und neutrales Hellgrau
+
+**KAMERA / FOTOGRAFISCHES GEFÜHL**
+
+- Mittelformatkamera, 85mm Objektiv, Blende f/4, scharfer Fokus auf Subjekt und Handtasche mit sehr sanftem Hintergrundabfall
+- Authentisches feines Filmkorn, keine digitale Überschärfung, kein HDR-Look
+
+**TEXTUR / MATERIAL-REALISMUS**
+
+- Haut: natürliche Poren, feiner Flaum, realistischer Hautglanz und Tonübergänge
+- Haar: glattes Styling mit Wet-Look, mit sichtbarer Haarstruktur und einzelnen Strähnen
+- Garderobe: matte, schwere Stofftextur mit weichen Falten und sauberer Naht
+- Hintergrund: subtile matte Textur einer gestrichenen Studiowand
+
+**STIL**
+
+- High-Fashion-Editorial-Fotografie, Realismus zuerst, Stil danach
+
+**VERMEIDEN**
+
+- KI-Schönheitsgesicht, Plastikhaut, puppenhafte Augen, zusätzliche Finger, verzerrte Hände, Markenlogos, Wasserzeichen, Text, CGI-Look
 ```
 
 </details>
@@ -4588,7 +4091,7 @@ Stil: realistische Innenporträtfotografie mit Naturlicht, helles minimalistisch
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMlX3hbW0AA2Sic.jpg" width="700" alt="Weibliches Porträt im Zimmer mit Naturlicht">
+<img src="https://image.moge.ai/prompt_media/HMrTX2EaIAAr52K.jpg" width="700" alt="Editoriales Mode-Studioporträt">
 </div>
 
 <br>
@@ -4597,148 +4100,56 @@ Stil: realistische Innenporträtfotografie mit Naturlicht, helles minimalistisch
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [ToroJushiAi](https://x.com/ToroJushiAi) | [X / Twitter](https://x.com/ToroJushiAi/status/2074319995106963623) | 2026-07-07 |
+| [K](https://x.com/ChillaiKalan__) | [X / Twitter](https://x.com/ChillaiKalan__/status/2074703162355929259) | 2026-07-08 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074319995106963623)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074703162355929259)**
 
 </div>
 
 ---
 
-### No. 61: Premium-Tech-Produktposter
+### No. 61: Limca Sommer-Erfrischungsposter
 
 ![Kategorie: Werbung & Produkt](https://img.shields.io/badge/Kategorie-Werbung%20%26%20Produkt-lightgrey)
 
 #### 📚 Beschreibung
 
-Erstellt ein minimalistisches, futuristisches Werbeposter mit einem 3D-Render des Produkts als zentrales Element, riesiger Hintergrundtypografie und Premium-Studiolicht.
+Erstellt ein hyperrealistisches Instagram-Poster für Limca, das den eiskalten Moment der Erfrischung nach sommerlicher Anstrengung einfängt – mit Produkt-Hero und kräftiger Editorial-Typografie.
 
 #### 🌟 Prompt
 
-Erstelle ein premium modernes Tech-Produkt-Werbeposter für soziale Medien für [BRAND NAME]. THEMA: [PRODUCT …
+Erstelle ein hochwertiges, hyperrealistisches Instagram-SMM-Poster für Limca, das sich wie eine offizielle …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Erstelle ein premium modernes Tech-Produkt-Werbeposter für soziale Medien für [BRAND NAME].
+Erstelle ein hochwertiges, hyperrealistisches Instagram-SMM-Poster für Limca, das sich wie eine offizielle Coca-Cola-India-×-Ogilvy-Kampagne anfühlt. Vermeide generische Getränkewerbung, schwebende Flaschen, Stock-Fitnessbilder, übermäßige Spritzer, KI-Artefakte, Unordnung oder cartoonhafte Elemente.
 
-THEMA:
-[PRODUCT NAME]
+Konzept: Fange den authentischen Moment der Erfrischung nach der Anstrengung ein. Ein junger indischer Erwachsener hat gerade das Laufen, Radfahren, Cricket, Basketball oder einen Spaziergang durch intensive Sommerhitze beendet. Er öffnet eine eiskalte Limca-Flasche, wobei Kondensation, Kohlensäure und feiner Nebel das sofortige Gefühl von Erleichterung und Belebung betonen.
 
-STIL & ART DIRECTION:
+Setting: Eine warme indische Stadtumgebung wie eine Laufbahn, ein Cricketplatz, ein Basketballplatz, eine Dachterrasse oder eine Stadtstraße im goldenen Sommerlicht. Kontrastiere die heiße Umgebung mit der eisigen Frische des Getränks.
 
-Modernes futuristisches Tech-Werbedesign
+Komposition (4:5 | 1080×1350):
+• 40% menschliche Aktion
+• 35% Limca-Produkt-Hero
+• 15% Umgebung
+• 10% Typografie & CTA
 
-Minimalistische Premium-Werbeposter-Ästhetik
+Zeige die Limca-Flasche mit gestochen scharfem Branding, realistischer Kondensation, gekühltem Glas, Mikrobläschen und hochwertiger Getränkefotografie-Beleuchtung. Füge dezente Limetten-Akzente, saubere redaktionelle Motion Graphics und minimale Frische-Overlays hinzu.
 
-Monochromes Farbbranding
+Farbpalette: Limettengrün, Zitronengelb, klares Weiß mit Akzenten in kühlem Minze und sanftem Silber.
 
-Klare geometrische Komposition
+Headline: **FEEL THE ZING** (große, fette redaktionelle Sans-Serif)
+CTA: **Refresh Now**
 
-Hochwertige Elektronikprodukt-Werbung
+Beleuchtung: Luxuriöse kommerzielle Getränkebeleuchtung mit warmem Sonnenlicht, hellem Gegenlicht, sauberem Kantenlicht, kalten Glanzlichtern und natürlichen Schatten.
 
-Weiche abstrakte Hintergrundelemente
-
-Tech-Kampagnenstil in Instagram- und Behance-Qualität
-
-HAUPTMOTIV:
-
-Ein großer realistischer 3D-Render von [PRODUCT]
-
-Produkt prominent zentriert als Hero-Element
-
-Hochdetaillierte Premium-Materialtexturen
-
-Weich reflektierende Oberflächen
-
-Produkt leicht über dem Hintergrund schwebend
-
-Realistisches Studio-Produktrendering
-
-Starker Fokus auf Kurven, Materialien und Beleuchtung
-
-LAYOUT & KOMPOSITION:
-
-Zentrierte symmetrische Komposition
-
-Riesige Hintergrundtypografie hinter dem Produkt
-
-Großer beschnittener fetter Text in den Hintergrund integriert
-
-Minimalistisches klares Layout mit großzügigem Negativraum
-
-Einfacher CTA-Button in der unteren Mitte
-
-Kleine Social-/Kontaktinformationen unten ausgerichtet
-
-Abstrakte geometrische Overlays in den Ecken
-
-TEXT & TYPOGRAFIE:
-
-Fette futuristische Typografie
-
-Großer überdimensionierter Hintergrundtext
-
-Minimalistische moderne serifenlose Schriften
-
-Klarer Premium-Branding-Stil
-
-Kurze wirkungsvolle Werbetexte
-
-TIEFE & BELEUCHTUNG:
-
-Weiche filmische Studiobeleuchtung
-
-Umgebungsschatten unter dem Produkt
-
-Sanfte reflektierende Highlights
-
-Subtiles Leuchten um die Kanten
-
-Premium-Produktrender-Tiefe
-
-Klare weiche Schattenverläufe
-
-EXTRA DESIGN-DETAILS:
-
-Transparente geometrische Overlays
-
-Abgerundete moderne Formen
-
-Minimalistische UI-inspirierte Elemente
-
-Weiche Verläufe
-
-Futuristische visuelle Identität
-
-Elegante kommerzielle Balance
-
-FARBPALETTE:
-
-[PRIMARY COLOR]
-
-Tonale monochrome Schattierungen
-
-Weiche Highlights und Schatten
-
-Weiße Typografie-Akzente
-
-QUALITÄT:
-
-Ultra realistisch
-
-Hochwertige Produktwerbung
-
-Komposition in Behance-Qualität
-
-Premium-Studio-Renderqualität
-
-Ultrahohe Auflösung
+Stil: Behance-Featured-Qualität, Coca-Cola-India-Werbung, hochwertige redaktionelle Werbung, hyperrealistische Fotografie, authentischer indischer Lifestyle, energiegeladen, erfrischend, modern, minimalistisch, ultradetailliert.
 ```
 
 </details>
@@ -4746,7 +4157,7 @@ Ultrahohe Auflösung
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMrOciQaAAAEUBZ.jpg" width="700" alt="Premium-Tech-Produktposter">
+<img src="https://image.moge.ai/prompt_media/HMwtC0cbAAAdPNz.jpg" width="700" alt="Limca Sommer-Erfrischungsposter">
 </div>
 
 <br>
@@ -4755,35 +4166,35 @@ Ultrahohe Auflösung
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [Duet \| AI](https://x.com/Sheldon056) | [X / Twitter](https://x.com/Sheldon056/status/2074697587756806354) | 2026-07-08 |
+| [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) | [X / Twitter](https://x.com/Diplomeme/status/2075083065127571574) | 2026-07-09 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074697587756806354)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2075083065127571574)**
 
 </div>
 
 ---
 
-### No. 62: Explosives Kokosnuss-Surfen
+### No. 62: Wolken-Verb-Skulptur-Poster
 
 ![Kategorie: Kreative Visuals](https://img.shields.io/badge/Kategorie-Kreative%20Visuals-lightgrey)
 
 #### 📚 Beschreibung
 
-Surrealistisches, ultrarealistisches Porträt eines Surfers auf einer Wasserexplosion aus einer riesigen aufgebrochenen Kokosnuss an einem tropischen Strand.
+Erzeugt ein futuristisches 16:9-Poster mit einer riesigen Wortskulptur aus weißem Gitterwerk über den Wolken, deren Form die Wortbedeutung darstellt und deren Seile eine passende Schwebeanlage tragen.
 
 #### 🌟 Prompt
 
-Ultrarealistisches surreales Strand-Action-Porträt eines stilvollen athletischen Mannes, der auf einem …
+Futuristisches Architekturposter über den Wolken, 16:9 quer — oben schwebt eine riesige Skulptur des …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Ultrarealistisches surreales Strand-Action-Porträt eines stilvollen athletischen Mannes, der auf einem Miniatur-Surfbrett auf einem gewaltigen kristallklaren Wasserspritzer surft, der dramatisch aus dem Inneren einer riesigen aufgebrochenen Kokosnuss hervorbricht, die an einem tropischen Sandstrand liegt. Das Wasser explodiert nach oben mit eingefrorenen Hochgeschwindigkeitstropfen und dynamischen Spritzbögen und erzeugt eine epische filmische Actionszene. Der Mann trägt ein enges schwarzes T-Shirt, marineblaue Sportshorts, eine schwarze Sonnenbrille, barfuß, in selbstbewusster Surferhaltung geduckt, mit einer zum Gleichgewicht ausgestreckten Hand. Helles tropisches Sonnenlicht, tiefblauer Himmel mit einigen weichen Wolken, Palmen im Hintergrund, bunte Strandschirme, türkisfarbener Ozean, über den Sand verstreute Muscheln. Hyperrealistische Texturen auf der Kokosnussschale und dem weißen Kokosnussfleisch, ultradetaillierte Wasserphysik, fotorealistische Haut, HDR-Beleuchtung, scharfer Fokus, geringe Schärfentiefe, lebendige tropische Farben, Action-Fotografie, Untersicht-Perspektive, Hochgeschwindigkeits-Freeze-Motion, 85mm-Objektiv, f/2.8, filmische Komposition, Luxus-Reisekampagnen-Ästhetik, preisgekrönte kommerzielle Fotografie, Unreal-Engine-Qualität, Octane Render, 8K, ultradetailliert, gestochen scharf, Meisterwerk.
+Futuristisches Architekturposter über den Wolken, 16:9 quer — oben schwebt eine riesige Skulptur des englischen Wortes „[Wort]“, komplett aus weißer parametrischer Gitter-/Netzstruktur mit durchbrochener Flechtwerk-Textur, die Buchstaben verschmelzen zu einer durchgehenden Skulpturform, deren Silhouette die Handlung des Wortes darstellt: [Posenbeschreibung]; von der Basis hängen dünne Seile, die wie Wurzeln eine hellblau-weiße Plattform über den Wolken tragen, mit Glasgeländer und einer korallenrosa runden Bodenzone, ausgebaut zu einer vollständigen Anlage passend zur Wortbedeutung: [Anlageninhalt], in der Menschen und ein bis zwei Roboter sie nutzen; strahlend blauer Himmel, dichte weiße Wolken, darunter deutet sich eine ferne Stadtsilhouette an; unten links am Plattformrand ein englisches Beschriftungsband "[Beschriftungstext]" mit einem [Icon]; helles Tageslicht, Architekturvisualisierungs-Qualität, sämtlicher Text auf Englisch — kein Text außer dem Hauptwort, keine dichten unlesbaren Blöcke, keine dunkle Nachtszene, keine Stadtansicht aus Bodenperspektive, keine uneinheitlichen Gittertexturen zwischen den Buchstaben, keine Buchstaben als flache gewöhnliche Typografie ohne Pose
 ```
 
 </details>
@@ -4791,7 +4202,7 @@ Ultrarealistisches surreales Strand-Action-Porträt eines stilvollen athletische
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMmIt14aoAAnS6P.jpg" width="700" alt="Explosives Kokosnuss-Surfen">
+<img src="https://image.moge.ai/prompt_media/HMrDKY0XsAA0YKr.jpg" width="700" alt="Wolken-Verb-Skulptur-Poster">
 </div>
 
 <br>
@@ -4800,13 +4211,13 @@ Ultrarealistisches surreales Strand-Action-Porträt eines stilvollen athletische
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [Karlos](https://x.com/de_mon010) | [X / Twitter](https://x.com/de_mon010/status/2074339436779704595) | 2026-07-07 |
+| [Vigo Zhao](https://x.com/VigoCreativeAI) | [X / Twitter](https://x.com/VigoCreativeAI/status/2074685185254203617) | 2026-07-08 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074339436779704595)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074685185254203617)**
 
 </div>
 
@@ -4923,28 +4334,23 @@ Visueller Schwerpunkt: zentraler vertikaler Titel + beidseitig getragene Steingr
 
 ---
 
-### No. 65: Episches Anime-Mecha-Poster
+### No. 65: Pop-Art-Porträt eines Stars
 
 ![Kategorie: Illustration & IP](https://img.shields.io/badge/Kategorie-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Beschreibung
 
-Erstellt ein vertikales Filmposter eines Gundam-Mechas in heroischer Pose mit Energieeffekten, Sumi-e-Tinte und japanischer Kalligrafie.
+Erstellt ein lebendiges Pop-Art-Porträt eines Stars im Stil von Vintage-Comics der 1960er mit kräftigen Grundfarben, Ben-Day-Punkten und explosiven Grafikelementen.
 
 #### 🌟 Prompt
 
-Ein legendäres Anime-Mecha-Poster mit dem [GUNDAM NAME] als einzigem Motiv, betrachtet aus einer …
+Erstelle eine lebendige Pop-Art-Illustration einer weltweit erkennbaren Berühmtheit, inspiriert vom …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Ein legendäres Anime-Mecha-Poster mit dem [GUNDAM NAME] als einzigem Motiv, betrachtet aus einer dramatischen, heroischen Untersicht, eine Hand greift mit extremer Verkürzung direkt zum Betrachter, während die andere ein leuchtendes Beam-Saber hält. Massive mechanische Flügel voll ausgefahren hinter dem Mobile Suit, explosive hochenergetische Partikeleffekte, die in leuchtendem [PRIMARY COLOR] und Weiß hervorbrechen, dynamische Farbspritzer und Tuschpinsel-Texturen bedecken den Hintergrund, filmische Kampfatmosphäre, hochdetaillierte Panzerung mit realistischen Kratzern, abgeplatzter Farbe, Kampfschäden, komplexen mechanischen Panellinien, metallischen Reflexionen, leuchtenden Augen, hochwertiges Hard-Surface-Design, Meisterwerk-Mecha-Illustration.
-
-Weißer texturierter Papierhintergrund mit japanischer Sumi-e-Tuschkalligrafie auf der linken Seite, große stilisierte Pinselschrift mit dem Namen des Mobile Suits im unteren Drittel, japanische Typografie, offizielle Anime-Key-Visual-Komposition, elegante Logoplatzierung, dramatische Energiestreifen, fliegende Trümmer, Funken, volumetrisches Licht, hoher Kontrast, malerische Pinselstriche gemischt mit hyperdetailliertem mechanischem Rendering, zentrierte Komposition, vertikales Filmposter-Layout, Sammler-Kunstdruck-Stil, ultradetailliert, 8K, wahnsinnig detailliert, scharfer Fokus, angesagt auf ArtStation, Concept Art von WLOP, Ilya Kuvshinov, Maciej Kuciara, Yoji Shinkawa, Studio Sunrise Werbeillustrationsstil.
-
-Farbpalette: Weiß, Schwarz, metallisches Silber, goldene Akzente, lebendige [PRIMARY COLOR] Energieeffekte.
-Seitenverhältnis 9:16
+Erstelle eine lebendige Pop-Art-Illustration einer weltweit erkennbaren Berühmtheit, inspiriert vom klassischen Pop-Art der 1960er Jahre und der Ästhetik von Vintage-Comics. Verwende kräftige Grundfarben wie leuchtendes Rot, elektrisches Blau, lebendiges Gelb und satte schwarze Konturen. Das Porträt sollte kontrastreiche Schattierungen, Ben-Day-Punkte, Halbtontexturen, dramatische Comic-Schatten und dicke, getuschte Konturen aufweisen. Fange eine selbstbewusste, ausdrucksstarke Pose mit einem ikonischen Gesichtsausdruck ein, der Charisma und Starpower vermittelt. Umgebe das Motiv mit energiegeladenen Grafikelementen wie explosiven Comic-Ausbrüchen, Sprechblasen, geometrischen Formen, Sternen, Blitzen und dynamischen Bewegungslinien. Der Hintergrund sollte aus farbenfrohen, geschichteten Panels, Retro-Mustern und abstrakten Pop-Art-Kompositionen bestehen, die die visuelle Wirkung verstärken. Betone gestochen scharfe Details, ultrascharfe Linienführung, glänzende Druckqualität und ein poliertes, posterartiges Finish. Das Gesamtkunstwerk sollte kühn, verspielt, nostalgisch und sofort als hochwertiges Pop-Art-Meisterwerk erkennbar wirken, mit cineastischer Beleuchtung, satter Farbsättigung, digitaler Illustration in Museumsqualität und 8K-Ultra-High-Resolution-Detail.
 ```
 
 </details>
@@ -4952,7 +4358,7 @@ Seitenverhältnis 9:16
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMl6eJ6aMAA2DAs.jpg" width="700" alt="Episches Anime-Mecha-Poster">
+<img src="https://image.moge.ai/prompt_media/HMn3KRfakAANN_F.jpg" width="700" alt="Pop-Art-Porträt eines Stars">
 </div>
 
 <br>
@@ -4961,35 +4367,72 @@ Seitenverhältnis 9:16
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [Simply Ray](https://x.com/kingofdairyque) | [X / Twitter](https://x.com/kingofdairyque/status/2074323769875906793) | 2026-07-07 |
+| [Snow](https://x.com/iamrealsnow) | [X / Twitter](https://x.com/iamrealsnow/status/2074460974745350466) | 2026-07-07 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074323769875906793)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074460974745350466)**
 
 </div>
 
 ---
 
-### No. 66: Beauty-Cover mit Airwrap
+### No. 66: Frauenporträt in Königsblau
 
 ![Kategorie: Fotografie & Bild](https://img.shields.io/badge/Kategorie-Fotografie%20%26%20Bild-lightgrey)
 
 #### 📚 Beschreibung
 
-Erzeugt ein luxuriöses Beauty-Magazin-Cover mit einer koreanischen Frau, die Wellen mit einem Airstyler in einem Marmorbad stylt.
+8K-Porträt einer jungen Frau in königsblauem Mantel und Schal im Freien, mit weichem natürlichem Licht und unscharfem Himmel-Meer-Hintergrund.
 
 #### 🌟 Prompt
 
-Ultrarealistisches Prestige-Beauty-Magazin-Cover mit einer glamourösen koreanischen Frau in einem üppigen …
+Porträtfotografie, 8K-UHD-Auflösung, vertikales Seitenverhältnis. Bildkomposition: Ausschnitt von der …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Ultrarealistisches Prestige-Beauty-Magazin-Cover mit einer glamourösen koreanischen Frau in einem üppigen elfenbeinfarbenen Bademantel, die ihre langen, voluminösen Wellen mit einem Dyson Airwrap in Roségold-Farbe stylt, mitten in der Locke, eine Haarsträhne wickelt sich mit sichtbarer Luftstrombewegung um den Aufsatz. Leuchtend strahlende Haut, sanftes morgendliches Beauty-Make-up, taufrische rosa Lippen. Hintergrund: luxuriöser heller Marmor-Badezimmertisch mit sanfter Hollywood-Spiegel-Glühbirnenbeleuchtung, verstreute Premium-Beauty-Produkte. "ALLURE"-Titelkopf in klarer eleganter Serifenschrift mit "BEST IN BEAUTY ISSUE"-Banner. 85mm-Objektiv, ultradetaillierter Dyson-Aufsatz und Haartextur mitten in der Locke, 8K fotorealistische Beauty-Kampagne. Negativ: Comic, unscharf, falsches Produktdesign, Wasserzeichen, unechte Haartextur.
+Porträtfotografie, 8K-UHD-Auflösung, vertikales Seitenverhältnis.
+
+Bildkomposition:
+Ausschnitt von der Brustmitte bis zum Kopf, Hochformat, Motiv zentriert, Kameraperspektive auf Augenhöhe, frontale Perspektive.
+
+Motiv:
+Junge erwachsene Frau mit ovalem Gesicht, heller Haut mit neutralem Unterton, glatter natürlicher Hauttextur mit sichtbarem Realismus und ohne starke Retusche.
+
+Gesichtszüge:
+Hellblaugrüne mandelförmige Augen, die direkt in die Kamera blicken, leicht entspannte Lider, Wimpern in natürlicher Länge, dunkelbraune mitteldicke Augenbrauen mit sanftem natürlichem Bogen, gerade proportionierte Nase mit glattem Rücken, weiche natürlich rosa mittel- bis vollformige Lippen, leicht geöffnet, neutraler, ruhiger, gefasster Ausdruck.
+
+Haar:
+Dunkelbraun, kurz bis mittellang, offen und leicht gewellt, vom Wind verwehte Strähnen, die das Gesicht kreuzen, natürlicher unstrukturierter Scheitel.
+
+Kleidung:
+Tiefer königsblauer Mantel mit woll- oder filzartiger Textur, strukturierte, aber lockere Passform, saubere Nähte mit minimalistischem Design. Passender königsblauer Schal aus weichem Stoff, locker um den Hals gewickelt.
+
+Farbpalette:
+Dominierende Farben sind Königsblau, tiefes Blau und weiche Hauttöne. Hoher Kontrast zwischen der blauen Kleidung und der helleren Haut. Kühle Farbtemperatur.
+
+Beleuchtung:
+Natürliches Licht, frontal mit leichter seitlicher Weichheit, moderate Intensität, weiche Schatten mit minimaler Härte, subtile Glanzlichter auf Wangenknochen und Lippen.
+
+Hintergrund:
+Offene Außenumgebung mit unscharfer Horizontlinie, blauer Farbverlauf-Hintergrund, der Himmel und fernes Wasser andeutet. Geringe Schärfentiefe mit absichtlich unscharfen Hintergrunddetails.
+
+Bildstil:
+Hoher Realismus mit subtiler KI-Politur, hohe Gesichtsdetails, sichtbare Stofftextur und natürliche Hautdetails, minimales Rauschen, saubere Farbkorrektur ohne starke Filter.
+
+Stimmung:
+Ruhig, gelassen, minimalistisch, sanft und gefasst.
+
+Generierungsvorgaben:
+Originalkomposition beibehalten.
+Struktur des Motivs beibehalten.
+Keine Gesichtsveränderung.
+Keine Stilannahmen.
+Bildgröße nicht ändern.
 ```
 
 </details>
@@ -4997,7 +4440,7 @@ Ultrarealistisches Prestige-Beauty-Magazin-Cover mit einer glamourösen koreanis
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMlpp_aWsAAe7YF.jpg" width="700" alt="Beauty-Cover mit Airwrap">
+<img src="https://image.moge.ai/prompt_media/HMrKX6QbUAAKRZB.jpg" width="700" alt="Frauenporträt in Königsblau">
 </div>
 
 <br>
@@ -5006,110 +4449,109 @@ Ultrarealistisches Prestige-Beauty-Magazin-Cover mit einer glamourösen koreanis
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [Zephyra Leigh](https://x.com/ZephyraLeigh) | [X / Twitter](https://x.com/ZephyraLeigh/status/2074305276870836507) | 2026-07-07 |
+| [Harboris](https://x.com/harboriis) | [X / Twitter](https://x.com/harboriis/status/2074693107648709042) | 2026-07-08 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074305276870836507)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074693107648709042)**
 
 </div>
 
 ---
 
-### No. 67: Explosives M&M's Mini-Tube Poster
+### No. 67: Magisches Beaujolais-Weinportal
 
 ![Kategorie: Werbung & Produkt](https://img.shields.io/badge/Kategorie-Werbung%20%26%20Produkt-lightgrey)
 
 #### 📚 Beschreibung
 
-Erstellt ein lebendiges Werbeposter mit einem realistischen Mini-M&M's-Tube in der Mitte, umgeben von einer handgezeichneten Süßigkeiten-Explosion.
+Erstellt ein filmisches Wein-Werbeplakat, bei dem die Natur eine Flaschensilhouette formt, die die leuchtende Beaujolais-Landschaft enthüllt.
 
 #### 🌟 Prompt
 
-Erstelle ein ultravibrant kommerzielles Poster für M&amp;M’s Schokoladenbonbons mit einer hochrealistischen …
+Erstelle ein ultra-premium filmisches Werbeplakat für Georges Duboeuf Beaujolais Nouveau, konzipiert als …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Erstelle ein ultravibrant kommerzielles Poster für M&M’s Schokoladenbonbons mit einer hochrealistischen Mini-M&M’s-Tube-Verpackung genau in der Mitte als absolutem Hero-Objekt. Das Bild sollte ein realistisches Produkt mit einem explosiven handgezeichneten illustrierten Hintergrund kombinieren und ein jugendliches, gesättigtes, energiegeladenes und äußerst lebhaftes Süßigkeiten-Kampagnenposter schaffen.
+Erstelle ein ultra-premium filmisches Werbeplakat für Georges Duboeuf Beaujolais Nouveau, konzipiert als poetische französische Wein-Ursprungs-Fantasieszene mit starker sakraler Atmosphäre und Luxusmarken-Storytelling. Das Bild soll sich wie eine Weinkampagne von Weltklasse anfühlen, in der sich die Natur selbst in die Silhouette einer Weinflasche öffnet und den leuchtenden Geburtsort des neuen Weins offenbart. Die Gesamtkomposition muss elegant, dramatisch, mystisch und zutiefst französisch sein, mit reichem natürlichem Realismus, raffiniertem Licht und dem Gefühl, in die Seele des Beaujolais einzutreten.
 
 Hauptkomposition:
-Platziere eine realistische Mini-M&M’s-Tube genau in der Mitte des Bildes. Die Verpackung sollte eine schlanke tragbare Süßigkeitentube sein, kompakt und aufrecht, mit einer abgerundeten Kappe und einem sauberen zylindrischen Körper, klar als Mini-Snacktube für M&M’s gestaltet. Sie muss sich hochrealistisch, glänzend, taktil und sofort erkennbar anfühlen, mit lebendigem M&M’s-Logo, farbenfrohem Branding, Premium-Druckaufkleber, scharfen Reflexionen und starkem kommerziellem Produktrendering. Die Mini-Tube sollte das einzige vollständig realistische Objekt in der Komposition sein und die Mitte dominieren.
+Verwende eine vertikale Plakatkomposition mit einem dunklen, immersiven natürlichen Vordergrund und einer strahlenden zentralen Öffnung, die genau wie eine hohe Weinflasche geformt ist. Die Flaschenform darf keine buchstäbliche Glasflasche sein, die in der Landschaft steht; stattdessen soll die umgebende Umwelt natürlich die Flaschensilhouette als Portal oder sakrale Öffnung bilden. Dichte Bäume, Reben, Zweige, Blätter und natürlicher Wuchs sollen den flaschenförmigen Negativraum einrahmen. Durch diese leuchtende flaschenförmige Öffnung offenbare eine magische französische Beaujolais-Landschaft, die in der Ferne glüht.
 
-Verpackungsrichtung:
-Die Tube sollte sich verspielt, tragbar, sammelbar und snackbar anfühlen, wie eine praktische Mini-Süßigkeitentube, die an Einzelhandelskassen verkauft wird. Die Kappe kann kräftig rot, gelb, blau oder weiß sein. Der Körper sollte klar die M&M’s-Identität zeigen und kann einen transparenten Abschnitt enthalten, der farbenfrohe Bonbons im Inneren zeigt, oder eine helle, vollständig bedruckte Verpackung mit kräftiger Markengrafik. Die Tube sollte sich modern, süß und sehr präsentationsfreundlich anfühlen.
+Szenenkonzept:
+Die zentrale flaschenförmige Öffnung soll den lebendigen Geist des Beaujolais Nouveau offenbaren:
+sanft gewellte Weinberghügel,
+goldenes Frühherbstlicht,
+ein gewundener Bach oder Landweg,
+sanfter französischer Landschaftsrhythmus,
+subtile Rebreihen,
+Nebel im Tal,
+weiches Ernteglühen,
+romantische Burgund-Atmosphäre.
+Die Landschaft innerhalb der Flaschensilhouette soll sich wie der Geburtsort des Weins anfühlen, als ob die Flasche das Terroir, die Jahreszeit, das Licht und die Seele der Ernte selbst enthielte.
 
-Hintergrundkonzept:
-Hinter der Mini-Tube erschaffe ein explosives illustriertes Universum, das wie ein Ausbruch von Süßigkeitenenergie nach außen strahlt. Der Hintergrund sollte nicht realistisch sein. Stattdessen sollte es eine dichte, dynamische, handgezeichnete grafische Welt aus kräftigen schwarzen Umrissen, Süßigkeitenspritzern, Sprungbögen, Wirbeln, Pop-Art-Formen, geschlungenen Kritzeleien, Comic-Aufprallausbrüchen und rhythmischen Bewegungsgrafiken sein. Die Illustration sollte hinter der Tube hervorbrechen und sie in einer kreisförmigen energiegeladenen Explosion umschließen.
+Vordergrundumgebung:
+Die äußere Umgebung um die flaschenförmige Öffnung soll sich reich, dunkel und leicht verzaubert anfühlen:
+französische Waldränder,
+moosbedeckte Steine,
+Wurzeln,
+niedrige Pflanzen,
+Waldbodentexturen,
+Rebblätter,
+subtiler Rebwuchs,
+tiefgrüne Schatten,
+weiche natürliche Feuchtigkeit.
+Dieser äußere Rahmen soll sich schützend und immersiv anfühlen, als ob die Natur die Flasche aus lebendiger Materie formte. Der Kontrast zwischen dem dunkleren Vordergrund und der leuchtenden inneren Landschaft ist essenziell.
 
-Illustrierte Elemente:
-Baue den illustrierten Hintergrund aus M&M’s-inspirierter Süßigkeitenenergie auf:
-fliegende farbenfrohe Schokoladenbohnen in Rot, Gelb, Blau, Grün, Orange und Braun,
-Süßigkeitenspuren,
-Zuckerspritzerformen,
-Konfetti,
-Comic-Aufprallausbrüche,
-Blitze,
-Sterne,
-Herzen,
-Sprungkurven,
-geschlungene Linien,
-Sprechblasen-Icons,
-verspielte lächelnde Kritzeleien,
-fröhliche Bewegungsmarken,
-geschwungene Wellenformen,
-Mini-Ballons,
-gestreifte Geschwindigkeitslinien,
-Rollschuh-Energie,
-lustige geometrische Symbole.
-Die Illustrationen sollten sich premium, kräftig, rhythmisch und hoch kunstgerichtet anfühlen, nicht wie unordentliche kindische Gekritzel.
+Licht und Atmosphäre:
+Verwende dramatische filmische Lichtstrahlen, die durch die flaschenförmige Öffnung strömen. Das zentrale Licht soll golden, warm und fast spirituell wirken, mit weichen volumetrischen Strahlen, die durch Zweige, Morgennebel und Blätter dringen. Die Luft soll subtilen Dunst, schwebenden Staub und atmosphärisches Glühen enthalten. Die Beleuchtung muss malerisch, aber hyperreal wirken, mit einem Premium-Wein-Werbe-Finish.
 
-Stilkontrast:
-Die Mini-Tube muss sich fest, glänzend, realistisch und scharf gerendert anfühlen, während sich das illustrierte Universum dahinter wild, farbenfroh, verspielt und explosiv anfühlt. Dieser Kontrast zwischen Realismus und handgezeichnetem Süßigkeitenchaos ist der zentrale visuelle Haken. Das Produkt bleibt jederzeit der visuelle Anker.
+Weinidentität und Emotion:
+Das Bild soll die emotionale Essenz des Beaujolais Nouveau vermitteln:
+frische Ernte,
+freudige Vorfreude,
+französische Landromantik,
+saisonale Veröffentlichung,
+junge Weinvitalität,
+künstlerische Tradition,
+natürlicher Ursprung.
+Es soll festlich, aber elegant, lebendig, aber raffiniert wirken. Die Gesamtwelt soll die Idee hervorrufen, dass dieser Wein aus Land, Licht und Erntemagie geboren ist.
 
-Farbpalette:
-Verwende eine hochgesättigte M&M’s-Palette:
-helles Bonbonrot,
-elektrisches Blau,
-sonniges Gelb,
-lebhaftes Grün,
-Orange,
-Schokoladenbraun,
-saubere weiße Highlights,
-und kräftige schwarze Linienarbeit.
-Wähle eine starke dominante Hintergrundfeldfarbe wie lebhaftes Himmelblau, sattes Gelb oder helles Rot, dann lass die mehrfarbige Süßigkeitenillustration um die zentrale Mini-Tube herum explodieren.
-
-Bewegung und Energie:
-Das Poster muss sich anfühlen, als würde Süßigkeitenenergie mit Sprung, Wirbel, Pop, Spritzer, Drehung und verspieltem Aufprall aus der Mini-Tube nach außen platzen. Die allgemeine Stimmung sollte dynamisch, freudig, schnell, poppig und unmöglich zu ignorieren sein.
+Markenintegration:
+Platziere das Georges-Duboeuf-Branding geschmackvoll im leuchtenden Zentrum oder in der unteren mittleren Komposition, integriert wie eine Premium-Weinkampagne. Falls ein Etikettenelement oder Emblem erscheint, soll es elegant und zurückhaltend wirken. Die Marke soll niemals die Landschaftsmagie überstrahlen. Der visuelle Held ist das flaschenförmige Portal und die Welt darin.
 
 Typografie:
-Halte die Typografie prägnant und energiegeladen, sauber platziert, ohne die Komposition zu überladen. Verwende verspielte Premium-Schrift, abgerundet und grafisch, keine hässlichen schweren schwarzen Schriften.
+Halte die Typografie luxuriös und minimal. Füge elegantes Branding hinzu wie:
+„Georges Duboeuf“
+Optionale Unterstützungszeile:
+„Beaujolais Nouveau“
+Optionale poetische Zeile:
+„The Harvest Awakens“
+Die Typografie soll raffiniert, klassisch, französisch und art-directed wirken, niemals laut oder billig.
 
-Füge Text hinzu wie:
-“M&M’s”
-“MINI TUBE, MAX FUN”
-“POP THE COLOR”
-“SHAKE. SNAP. PLAY.”
-
-Optionaler künstlerischer chinesischer Text:
-“M&M’s 玛氏巧克力豆”
-“迷你小管装”
-“小小一管，快乐爆开”
-“随手一拿，彩色开玩”
-
-Halte den Text kurz, kräftig, jugendlich und ausgewogen mit der zentralen Tube und der illustrierten Explosion.
+Farbpalette:
+tiefes Waldgrün,
+moosige Schattentöne,
+goldener Sonnenaufgang,
+warmes Ernte-Bernstein,
+frisches Weinberggrün,
+weiches Nebelweiß,
+Erdbraun,
+subtile weinrote Akzente.
+Die Palette soll reich, natürlich, premium und emotional leuchtend wirken.
 
 Stimmung:
-verspielt, gesättigt, dynamisch, jugendlich, farbenfroh, Pop-Art, freudig, energiegeladen, sammelbar, premium, unvergesslich.
+poetisch, sakral, französisch, erntegetrieben, leuchtend, filmisch, natürlich, luxuriös, mystisch, terroir-fokussiert, elegant, Premium-Weinkampagnen-Qualität.
 
 Rendering:
-hyperdetaillierte realistische Mini-Süßigkeitentube-Verpackung, glänzende abgerundete Kappe, Premium-Aufklebertextur, lebendige Markengrafik, optional sichtbare Bonbons im Inneren, kräftige handgezeichnete Doodle-Illustration, gesättigte saubere Farben, scharfe schwarze Umrisse, Premium-Posterkomposition, 8k, hochwertige kommerzielle Süßigkeiten-Kampagnenqualität.
+hyperrealistische Luxus-Werbefotografie, filmische französische Landumgebung, flaschenförmige natürliche Portalkomposition, volumetrische Lichtstrahlen, Premium-Atmosphärendunst, ultradetailliertes Laub und Moos, glühende Beaujolais-Weinberglandschaft, Wein-Kampagnen-Finish von Weltklasse, 8k, Meisterwerk.
 
 Negativer Prompt:
-weiche Beutelverpackung, Pappkarton, Plastikglas, Glasglas, Metalldose, große Familienpackung, realistische Hintergrundszene, matte Farben, schwache Bewegung, überladenes unordentliches Layout, geringe Sättigung, generische Snack-Werbung, unscharfes Produkt, billiger Cartoon-Stil, matschige Farben, flache Komposition, zu viel Text, schwaches M&M’s-Branding, dunkle düstere Atmosphäre
+buchstäbliche im Wald schwebende Flasche, generisches Fantasy-Portal, überladene Komposition, billiger Weinwerbelook, flache Beleuchtung, schwache Flaschensilhouette, zufällige Landschaft, detailarmes Laub, Cartoon-Wald, übermäßiger Text, moderne urbane Elemente, plastisch aussehende Umgebung
 ```
 
 </details>
@@ -5117,7 +4559,7 @@ weiche Beutelverpackung, Pappkarton, Plastikglas, Glasglas, Metalldose, große F
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMochWqa0AExJVP.jpg" width="700" alt="Explosives M&amp;M&#x27;s Mini-Tube Poster">
+<img src="https://image.moge.ai/prompt_media/HMutsKxbAAAGpmc.jpg" width="700" alt="Magisches Beaujolais-Weinportal">
 </div>
 
 <br>
@@ -5126,146 +4568,45 @@ weiche Beutelverpackung, Pappkarton, Plastikglas, Glasglas, Metalldose, große F
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2074502029154869462) | 2026-07-07 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2074943088544612551) | 2026-07-08 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074502029154869462)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074943088544612551)**
 
 </div>
 
 ---
 
-### No. 68: Konzeptposter einer Klippenvilla
+### No. 68: Minimalistisches Poster mit langen Schatten
 
 ![Kategorie: Kreative Visuals](https://img.shields.io/badge/Kategorie-Kreative%20Visuals-lightgrey)
 
 #### 📚 Beschreibung
 
-Erzeugt ein Ultra-Premium-Architekturposter einer Waldklippenvilla, das realistische Luxusinnenräume mit ultraleichter Wireframe-Architektur in einem editorialen Schnittbild verbindet.
+Erzeugt ein minimalistisches, sehr helles Poster mit winzigen Objekten, übertrieben langen Schatten und klarer Typografie für einen Morgengruß.
 
 #### 🌟 Prompt
 
-Erstelle ein Ultra-Premium-Architektur-Präsentationsposter für eine Rückzugsvilla an einer Waldklippe, …
+Erzeuge ein minimalistisches, aber grafisch prägnantes flaches Bild zu einem beliebigen Thema: Zuerst liest …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Erstelle ein Ultra-Premium-Architektur-Präsentationsposter für eine Rückzugsvilla an einer Waldklippe, gestaltet als raffiniertes Schnitt-Konzeptboard, bei dem exquisit gerenderte Schlüsselräume mit einer ultraleichten Wireframe-Architektur kontrastieren. Das Gesamtbild soll wie das Deckblatt eines Architekturvorschlags von Weltklasse für eine ultraluxuriöse, in der Natur verborgene Residenz wirken: elegant, erlesen, atmosphärisch, editorial und zutiefst kostbar. Es muss realistischen Innenraumluxus mit federleichten architektonischen Linien verbinden und so eine anspruchsvolle visuelle Hierarchie „massiv versus Wireframe" schaffen.
+Erzeuge ein minimalistisches, aber grafisch prägnantes flaches Bild zu einem beliebigen Thema: Zuerst liest man ein durchgehend helles, sauberes, nahezu texturloses Farbfeld hoher Helligkeit; der Themeninhalt wird in viele sehr kleine reale Silhouetten, Symbole oder Einzelobjekte zerlegt, spärlich über weite Leerflächen verteilt und mit deutlichem Abstand zueinander, sodass die Leere zur Hauptrolle wird. Jedes kleine Objekt muss einen übertrieben langgezogenen dunklen Schatten werfen; die Schatten durchqueren das Bild in einer einheitlichen diagonalen Richtung, weit länger als die Objekte selbst, und bilden Rhythmuslinien, die auffälliger sind als die Objekte. Stellenweise kann der Schatten einer riesigen Struktur vom Rand hereinragen und nur schwere dunkle Formen sowie wenige regelmäßige Lichtspalten zeigen, was Größenkontrast und eine großstädtische Bedrängnis erzeugt. Die Farben werden aus Material, Stimmung und kultureller Semantik des Themas selbst gewonnen und behalten das Rollenverhältnis: große helle, klare Grundfläche, sehr wenige dunkle kontrastreiche Strukturen und winzige thematische Farbtupfer; das Ganze bleibt leuchtend, sauber, luftig und mit klaren Farbabstufungen, vermeidet schmutziges Grau, Retro-Gilb oder matschige Mischfarben. Erscheint Infotext, soll er als ruhiges visuelles Gewicht wirken: eine Gruppe großer, schwarzer, dicht gesetzter Lettern nah an einer Kante erzeugt harten vertikalen Druck, wenige kleine Lettern mit feinem Zeichenabstand verteilen sich in Ecken oder unten, zurückhaltend und präzise wie öffentliche Beschilderung, mit viel Freiraum. Die Gesamtausführung soll wie ein streng gesetztes kommerzielles Kunstbild wirken; die Objekte sind klein, die Schatten riesig, sodass zwischen realen Objekten und abstraktem Farbfeld ein starkes Gefühl von Sonnenlicht, Ordnung, Isolation und Neudefinition entsteht.
 
-Zentrale visuelle Regel:
-nur die wichtigsten Räume und emotionalen Wohnzonen der Villa werden als vollständig realistische, massive Architektur mit warmem Licht, Materialtiefe, Möbeln, Atmosphäre und subtiler menschlicher Präsenz gerendert.
-Alle nicht wesentlichen Gebäudevolumen, Dachfortsetzungen, verborgenen Ebenen, äußere Hülle, Seitenwände, erweiterten Terrassen und umgebende kontextuelle Bebauung sollen nur als dünne, blasse, halbtransparente Wireframe-Linien erscheinen.
-Der Wireframe muss extrem leicht, sparsam, elegant und geisterhaft sein, niemals schwer wie eine Bauzeichnung.
-Der Schlüsselkontrast ist:
-- massive Räume = taktil, luxuriös, bewohnbar, warm, emotional reich
-- Wireframe-Zonen = luftig, konzeptuell, sich auflösend, architektonischer Gedanke im Entstehen
+Bildelemente jedes Bildes: Stadt + 2026-07-08 + Guten-Morgen-Spruch + 5 Informationspunkte in verschiedenen Formen + reiche rhythmische Kompositionsvariation.
 
-Hauptkomposition:
-ein vertikaler Schnitt einer privaten Villa an der Waldklippe steht im Zentrum des Rahmens, dramatisch in eine steile natürliche Felswand mit Blick auf ein tiefes Waldtal eingebettet. Der Schnitt enthüllt nur die feinsten Innenräume als vollständig gerenderte Umgebungen:
-- panoramischer Wohnraum mit doppelter Höhe
-- schwebende Lounge zum Tal hin
-- Master-Suite mit raumhoher Verglasung
-- in Stein gehauenes Spa-Bad
-- private Bibliothek
-- Wellness- oder Meditationsraum
-- Speisesalon
-- verborgener Weinraum
-- Terrasse mit Infinity-Pool
-- Aussichtsdeck auf dem Dach oder mit Waldblick
-Jede gerenderte Ebene muss intim, gelassen und außergewöhnlich luxuriös wirken.
+Jeweils eine Stadt; jede Stadt hat eine andere Farb- und Kompositionslogik.
 
-Architektonische Identität:
-die Residenz soll ortsspezifisch und von Weltklasse wirken, wie ein verborgener Rückzugsort für einen Milliardärssammler. Die Architektur muss durch Materialien wie diese mit der Natur verschmelzen:
-- dunkles Holz
-- warmes Walnussholz
-- Travertin oder Kalkstein
-- geschwärzter Stahl
-- brettschalungsroher Beton
-- Rauchglas
-- Stützmauern aus Naturstein
-- auskragende Terrassen
-- schwebende Treppen
-Die Villa soll wirken, als sei sie in die Klippe gehauen und gleichzeitig über dem Wald schwebend.
+Insgesamt 10 Städte, 10 Bilder, nacheinander erzeugt.
 
-Natürlicher Kontext:
-hinter und um die geschnittene Villa herum zeige eine sanft verblasste Wildnisumgebung:
-- vertikale Felswände
-- dichter Kiefernwald oder gemäßigtes immergrünes Blätterdach
-- durch die Bäume treibender Nebel
-- ferne Taltiefe
-- blasser Himmelsdunst
-- moosbewachsene Felsvorsprünge
-- subtiler Wasserfalldunst oder Bachglitzern, falls passend
-Die umgebende Landschaft soll nicht vollständig gerendert werden. Unmittelbare Felsen und Klippenkanten dürfen teilweise real wirken, während die Waldmasse, Topografie und natürlichen Konturen sich in blasse Linien, atmosphärische Lasur und sanften tonalen Dunst auflösen.
+Hinweis: Jedes Bild soll eine andere Komposition und ein anderes Layout haben.
 
-Wireframe-Behandlung:
-die nicht gerenderten Teile der Villa und des umgebenden Geländes müssen als ultraleichte Linien gerendert werden:
-- Fortsetzung des Dachvolumens
-- Tragwerk
-- Seitenwände
-- verborgene Bodenplatten
-- Terrassenumrisse
-- Geometrie der Stützmauern
-- Klippenschnitte und Geländeprofile
-- Baummassen und Waldränder
-Verwende schwache Zeichenlinien, transparente Umrisse, Schnittspuren und elegante Perspektivführungen. Der Wireframe muss verfeinert, dünn und stellenweise fast unsichtbar wirken.
-
-Gerenderte Innenraum-Materialität:
-die realen Räume sollen abgeschiedenen Waldluxus ausdrücken:
-- warme Holzverkleidung
-- blasse Steinböden
-- strukturierte Putzwände
-- maßgefertigte Kamine
-- Sitzmöbel aus Leinen und Leder
-- gedämpfte skulpturale Beleuchtung
-- gebürstete Bronzeakzente
-- große rahmenlose Verglasung mit Talblick
-- spa-artige Stein- und Wasseroberflächen
-Die gerenderten Räume sollen wie verborgene Heiligtümer im Inneren der Klippe leuchten.
-
-Menschliche Präsenz:
-füge nur wenige subtile, elegante Bewohner oder Gäste in den gerenderten Räumen ein:
-- eine Figur an einem Panoramafenster
-- eine Person in der Lounge sitzend
-- ein Paar nahe dem Ess- oder Terrassenbereich
-- eine Silhouette am Rand des Infinity-Pools
-Sie sollen diskret, realistisch und editorial wirken. Falls eine weibliche Figur sichtbar ist, soll sie eine reife, elegante asiatische Frau mit japanisch-koreanischen Zügen und verfeinerter natürlicher Präsenz sein. Keine gestellten Immobilien-Posen.
-
-Grafisches System:
-umgib den Schnitt mit minimalen Anmerkungslinien, eleganten Beschriftungen, leichten Schnittmarkern und spärlichen editorialen Notizblöcken. Diese Grafiken sollen wie das Cover einer luxuriösen Architekturmonografie wirken, nicht wie technisches Durcheinander.
-
-Typografie:
-integriere verfeinerte architektonische Typografie in Chinesisch und Englisch auf hochwertige editoriale Weise. Füge Titel ein wie:
-"FOREST CLIFF RETREAT"
-"森林悬崖隐居豪宅"
-"SECTIONAL LIVING IN NATURE"
-"栖于崖壁与林海之间"
-Optionale kleine Beschriftungen:
-"PANORAMIC SUITE"
-"CLIFF LOUNGE"
-"STONE SPA"
-"INFINITY TERRACE"
-"PRIVATE LIBRARY"
-Die Typografie soll dünn, elegant, architektonisch und schön proportioniert sein, niemals grob oder generisch.
-
-Farbpalette:
-nebelweiß, blasses Steingrau, moosgrün, tiefes Kieferngrün, walnussbraun, kohlefarbene Linien, dunkles Felsschwarz, gedämpfte Bronze, sanftes bernsteinfarbenes Innenglühen. Die gerenderten Räume sollen warm, taktil und abgeschieden wirken. Der Wireframe soll blass, kühl und schwerelos wirken.
-
-Beleuchtung:
-sanftes diffuses Waldtageslicht draußen, nebelgefiltertes Naturlicht in der Landschaft, warmes museumsartiges Glühen in den gerenderten Räumen, subtiler Kontrast zwischen den realen Schnittinnenräumen und dem blassen umgebenden Wireframe. Der Wireframe muss konzeptuell und atmosphärisch wirken, nicht physisch beleuchtet wie ein vollständig gerendertes Objekt.
-
-Stimmung:
-stiller Rückzug, verborgener Reichtum, architektonische Intelligenz, Einsamkeit, Eintauchen in die Natur, zurückhaltende Opulenz, wie das Architekturposter eines Sammlers, das eine geheime Villa im Inneren der Waldklippe enthüllt.
-
-Stil:
-ultrarealistische Architekturvisualisierung gemischt mit ultraleichten Wireframe-Überlagerungen, Premium-Schnittposter, editoriale Design-Board-Ästhetik, minimalistischer Luxus, starke vertikale Komposition, Konzept einer Rückzugsvilla an der Waldklippe, 8K, Meisterwerk.
-
-Negativer Prompt:
-vollständig gerendertes ganzes Gebäude, schwerer Ingenieur-Blueprint-Stil, dicke Wireframe-Linien, überladenes Layout, generisches Chalet, billiger Immobilien-Flyer, cartoonhafter Schnitt, zu viele Menschen, hässliche Typografie, Standard-CAD-Schrift, niedrige Auflösung, plastikartige Innenräume, unordentlicher Waldhintergrund, Wasserzeichen
+Seitenverhältnis 16:9, Querformat.
 ```
 
 </details>
@@ -5273,7 +4614,7 @@ vollständig gerendertes ganzes Gebäude, schwerer Ingenieur-Blueprint-Stil, dic
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMj50W-aIAAlsOf.jpg" width="700" alt="Konzeptposter einer Klippenvilla">
+<img src="https://image.moge.ai/prompt_media/HMqlHINbgAAEUxk.jpg" width="700" alt="Minimalistisches Poster mit langen Schatten">
 </div>
 
 <br>
@@ -5282,13 +4623,13 @@ vollständig gerendertes ganzes Gebäude, schwerer Ingenieur-Blueprint-Stil, dic
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2074182489141293070) | 2026-07-06 |
+| [小小东](https://x.com/xiaoxiaodong01) | [X / Twitter](https://x.com/xiaoxiaodong01/status/2074652685958307870) | 2026-07-08 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074182489141293070)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074652685958307870)**
 
 </div>
 
@@ -5435,44 +4776,28 @@ Das Bild soll wie ein echtes, veröffentlichungsreifes Ausstellungsplakat orient
 
 ---
 
-### No. 71: Gongbi-Poster der 24 Sonnenperioden
+### No. 71: Episches Anime-Mecha-Poster
 
 ![Kategorie: Illustration & IP](https://img.shields.io/badge/Kategorie-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Beschreibung
 
-Erzeugt eine Serie ruhiger, transluzenter 16:9-Poster im Stil ostasiatischer Malerei, die jede Sonnenperiode mit symbolischen Objekten in Gongbi-Linien und zarter Aquarellierung in einem feinen Rahmen darstellt.
+Erstellt ein vertikales Filmposter eines Gundam-Mechas in heroischer Pose mit Energieeffekten, Sumi-e-Tinte und japanischer Kalligrafie.
 
 #### 🌟 Prompt
 
-Erzeuge ein zurückhaltendes, transluzentes Bild mit der Feinheit ostasiatischer Malerei: Der obere, …
+Ein legendäres Anime-Mecha-Poster mit dem [GUNDAM NAME] als einzigem Motiv, betrachtet aus einer …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Erzeuge ein zurückhaltendes, transluzentes Bild mit der Feinheit ostasiatischer Malerei: Der obere, großformatige Titel in feiner Serifenschrift setzt das erste visuelle Gewicht — gespreizte Lettern, zarte Striche, mit einem stillen Gefühl von Gedenken; nahe dem Titel platziere wenige präzise Kleinschrift, Skalenstriche, datumsartige Informationen und siegelartige runde Marken, die eine rituelle Informationsschicht bilden, ohne dass Text das Motiv überlagert. Das Motiv sitzt in einem feinen bogen- oder ellipsenförmigen Rahmen, zentriert leicht unterhalb, mit äußerst leichten Rahmenlinien, wie ein stilles Aussichtsfenster; die vom Thema abgeleitete Hauptform erscheint in Gongbi-Linien und Schichten zarter Aquarellierung — Zweige, Blätter, Texturen, anhaftende Elemente oder kleine symbolische Fokuspunkte wachsen diagonal und vertikal, überschreiten teils das visuelle Zentrum und erzeugen ein leichtes Schweben und einen Lesepfad. Der Hintergrund bewahrt großen Weißraum mit feiner Papierfaser, leichtem Prägeabdruck und weichem Korn, insgesamt sauber und luftig, ohne schwere Schatten. Die Farben werden aus der Jahreszeit, dem Material und der Stimmung des Themas selbst gewonnen und auf einen hellwertigen Grundton, eine klare strukturelle Linienfarbe, eine niedrig gesättigte Motiv-Stützfarbe, wenige warme oder kühl-helle Akzente und eine stille Informationstextfarbe abgebildet; bewahre das Verhältnis von weiter, reiner Helligkeit, wenigen lebhaften Fokuspunkten, sanften Wertübergängen und klaren Farbstufen, sodass das Bild transluzent, ruhig und feierlich bleibt, ohne trüb zu werden. Die Vollendung gleicht einer Innenseite eines fein gestalteten Jahreszeiten-Albums: präzises Layout, reichlich Weißraum, Bild und Text atmen gemeinsam, und das Symbol des Themas wird im feinen Rahmen zum Erinnerungskern.
-——————
-Thema: die 24 Sonnenperioden, wähle 10 zufällig zur Bilderstellung
+Ein legendäres Anime-Mecha-Poster mit dem [GUNDAM NAME] als einzigem Motiv, betrachtet aus einer dramatischen, heroischen Untersicht, eine Hand greift mit extremer Verkürzung direkt zum Betrachter, während die andere ein leuchtendes Beam-Saber hält. Massive mechanische Flügel voll ausgefahren hinter dem Mobile Suit, explosive hochenergetische Partikeleffekte, die in leuchtendem [PRIMARY COLOR] und Weiß hervorbrechen, dynamische Farbspritzer und Tuschpinsel-Texturen bedecken den Hintergrund, filmische Kampfatmosphäre, hochdetaillierte Panzerung mit realistischen Kratzern, abgeplatzter Farbe, Kampfschäden, komplexen mechanischen Panellinien, metallischen Reflexionen, leuchtenden Augen, hochwertiges Hard-Surface-Design, Meisterwerk-Mecha-Illustration.
 
-Kernidee: die repräsentativen Objekte jeder Periode bilden eine miniaturhafte Landschaft mit vorder- und hintergründigen Schichten
+Weißer texturierter Papierhintergrund mit japanischer Sumi-e-Tuschkalligrafie auf der linken Seite, große stilisierte Pinselschrift mit dem Namen des Mobile Suits im unteren Drittel, japanische Typografie, offizielle Anime-Key-Visual-Komposition, elegante Logoplatzierung, dramatische Energiestreifen, fliegende Trümmer, Funken, volumetrisches Licht, hoher Kontrast, malerische Pinselstriche gemischt mit hyperdetailliertem mechanischem Rendering, zentrierte Komposition, vertikales Filmposter-Layout, Sammler-Kunstdruck-Stil, ultradetailliert, 8K, wahnsinnig detailliert, scharfer Fokus, angesagt auf ArtStation, Concept Art von WLOP, Ilya Kuvshinov, Maciej Kuciara, Yoji Shinkawa, Studio Sunrise Werbeillustrationsstil.
 
-Stelle jeweils eine vor — ein Bild pro Sonnenperiode
-
-Jedes integriert das charakteristischste Element dieser Periode in das zentrale Motiv
-
-Die Textinformationspunkte werden frei organisiert, gefordert dynamisch und altruistisch
-
-Die Kompositionslogik jedes Bildes soll im Rhythmus variieren
-
-Die Farblogik soll bei jedem Bild variieren
-
-Seitenverhältnis: 16:9
-Insgesamt 10 Bilder, jedes über eine Sonnenperiode
-
-Keine Sequenznummern einfügen
-Wie ein PPT, erzeuge 10 und stelle Unterschiede zwischen ihnen sicher
-Seitenverhältnis 16:9
+Farbpalette: Weiß, Schwarz, metallisches Silber, goldene Akzente, lebendige [PRIMARY COLOR] Energieeffekte.
+Seitenverhältnis 9:16
 ```
 
 </details>
@@ -5480,7 +4805,7 @@ Seitenverhältnis 16:9
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMjLUuIbcAEHMYP.jpg" width="700" alt="Gongbi-Poster der 24 Sonnenperioden">
+<img src="https://image.moge.ai/prompt_media/HMl6eJ6aMAA2DAs.jpg" width="700" alt="Episches Anime-Mecha-Poster">
 </div>
 
 <br>
@@ -5489,35 +4814,35 @@ Seitenverhältnis 16:9
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [小小东](https://x.com/xiaoxiaodong01) | [X / Twitter](https://x.com/xiaoxiaodong01/status/2074132262547784020) | 2026-07-06 |
+| [Simply Ray](https://x.com/kingofdairyque) | [X / Twitter](https://x.com/kingofdairyque/status/2074323769875906793) | 2026-07-07 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074132262547784020)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074323769875906793)**
 
 </div>
 
 ---
 
-### No. 72: Filmisches Porträt in der U-Bahn
+### No. 72: Sokolov-Creme mit Kirschen
 
 ![Kategorie: Fotografie & Bild](https://img.shields.io/badge/Kategorie-Fotografie%20%26%20Bild-lightgrey)
 
 #### 📚 Beschreibung
 
-Filmisches Porträt einer reglosen jungen Frau auf einem U-Bahnsteig mit verschwommen vorbeifahrendem Zug und einem Strauß orange-roter Gerbera.
+Dramatische Produktfotografie aus niedrigem Winkel einer dunkelroten Handcreme auf einem Glaspodest mit herablaufendem Wasser und glänzenden Kirschen.
 
 #### 🌟 Prompt
 
-Ein filmisches, hochauflösendes Porträt einer jungen Frau, die vollkommen reglos auf einem U-Bahnsteig steht, …
+Dramatische Produktfotografie aus niedrigem Winkel der dunkelroten Sokolov Beauty Handcreme-Flasche, die auf …
 
 <details>
 <summary>Vollständigen Prompt anzeigen</summary>
 
 ```
-Ein filmisches, hochauflösendes Porträt einer jungen Frau, die vollkommen reglos auf einem U-Bahnsteig steht, während hinter ihr ein Zug vorbeirauscht. Sie hat warmes braunes Haar mit weichem Pony und einigen losen Strähnen, die im Wind des vorbeifahrenden Zuges wehen. Ihr Gesicht ist klar und scharf, mit zarten Sommersprossen, sanftem Make-up und einem ruhigen, leicht nachdenklichen Ausdruck. Sie trägt einen cremefarbenen, schulterfreien Rippstrickpullover, der die weiche Textur der Wolle betont. In ihren Händen hält sie einen leuchtenden Strauß aus orangefarbenen und tiefroten Gerbera, die den zentralen Farbakzent gegen ihre neutrale Kleidung bilden. Der Hintergrund ist eine dynamische, horizontale Bewegungsunschärfe eines silber-gelben U-Bahn-Zuges, die einen kontrastreichen Eindruck von Geschwindigkeit im Gegensatz zu ihrer Reglosigkeit erzeugt. Die Beleuchtung ist eine Mischung aus kühlem Deckenlicht der Station und warmen Glanzlichtern auf ihrer Haut, aufgenommen mit geringer Schärfentiefe und einer subtilen filmischen Körnung.
+Dramatische Produktfotografie aus niedrigem Winkel der dunkelroten Sokolov Beauty Handcreme-Flasche, die auf der scharfen Kante eines transparenten Glaspodests steht. Die Flasche wird aus einer niedrigen Perspektive nach oben blickend aufgenommen. Klares Wasser tropft und fließt elegant an den Seiten der Flasche und über die Glasoberfläche herab. Mehrere saftige, glänzende dunkelrote Kirschen liegen neben der Flasche auf dem Podest. Tiefer Bordeaux-Hintergrund mit einem sanften Lichtverlauf, der nach oben hin verblasst. Dramatische filmische Beleuchtung mit starken Glanzlichtern und tiefen Schatten, die eine luxuriöse und sinnliche Stimmung erzeugt. Hochdetaillierte Wassertropfen und Reflexionen, Premium-Beauty-Werbefotografie, scharfer Fokus, 8K-Auflösung, fotorealistisch.
 ```
 
 </details>
@@ -5525,7 +4850,7 @@ Ein filmisches, hochauflösendes Porträt einer jungen Frau, die vollkommen regl
 #### 🌁 Generiertes Bild
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HMjddq_aAAEhE7x.jpg" width="700" alt="Filmisches Porträt in der U-Bahn">
+<img src="https://image.moge.ai/prompt_media/HMo_AcTboAA_WhL.jpg" width="700" alt="Sokolov-Creme mit Kirschen">
 </div>
 
 <br>
@@ -5534,13 +4859,13 @@ Ein filmisches, hochauflösendes Porträt einer jungen Frau, die vollkommen regl
 
 | Autor | Quelle | Veröffentlicht |
 | :---: | :---: | :---: |
-| [Heisenberg](https://x.com/rovvmut_) | [X / Twitter](https://x.com/rovvmut_/status/2074151136320528829) | 2026-07-06 |
+| [Snow](https://x.com/iamrealsnow) | [X / Twitter](https://x.com/iamrealsnow/status/2074539886028456425) | 2026-07-07 |
 
 </div>
 
 <div align="center">
 
-**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074151136320528829)**
+**[👉 Vollständigen Prompt ansehen & kopieren →](https://moge.ai/de/prompt/image/2074539886028456425)**
 
 </div>
 
