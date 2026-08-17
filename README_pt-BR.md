@@ -29,7 +29,7 @@ Texto completo do prompt · imagens de prévia · **10 idiomas**
 
 > ℹ️ Esta página mostra os 60 prompts mais recentes de mais de 3600 prompts selecionados. Os prompts são coletados de publicações públicas e creditam seus autores. Para solicitar a remoção, envie um e-mail para **team@moge.ai**.
 >
-> 📊 Última atualização: 2026-08-16.
+> 📊 Última atualização: 2026-08-17.
 
 ---
 
@@ -131,23 +131,26 @@ adereços realistas além da mulher, estilo de rabisco inconsistente, grade de s
 
 ---
 
-### No. 2: Mundo em Miniatura de Feltro do Japão
+### No. 2: Capa Editorial Retrô com Tipografia Impressa
 
 ![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
 
 #### 📚 Descrição
 
-Cria um mundo em miniatura vertical do Japão feito à mão com feltro e lã, com ruas de cerejeiras, torii e o Monte Fuji ao entardecer.
+Cria uma capa de publicação cultural com estética de impressão física: letras pretas gigantes na borda, ilustrações planas em cores quentes e vestígios reais de tinta e desalinhamento.
 
 #### 🌟 Prompt
 
-Um mundo em miniatura vertical do Japão ricamente detalhado, feito inteiramente à mão com feltro macio, lã …
+Deixe o tema futurista fornecer o símbolo ou sujeito central, mas faça com que o primeiro impacto visual seja …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Um mundo em miniatura vertical do Japão ricamente detalhado, feito inteiramente à mão com feltro macio, lã fofa, fibras de lã e delicado bordado, capturando o calor da vida cotidiana japonesa sem parecer infantil ou fantasioso. Sobreponha um aconchegante primeiro plano com pequenas casas de ramen e chá, barracas de mercado, lanternas japonesas, pessoas, bicicletas e pequenos veículos, com um rio sinuoso, pontes de pedra, casas tradicionais, um Shinkansen, portão torii, pagode e ruas ladeadas por cerejeiras, enquanto o Monte Fuji se ergue majestosamente ao fundo sob um céu radiante ao entardecer; use placas e detalhes culturais autenticamente japoneses, texturas táteis feitas à mão, iluminação suave e dimensional, perspectiva natural de cima, cores ricas porém harmoniosas, artesanato intrincado, atmosfera emocional e uma composição perfeita de mundo único, sem logotipos, estética de cartaz turístico ou obras copiadas.
+Deixe o tema futurista fornecer o símbolo ou sujeito central, mas faça com que o primeiro impacto visual seja uma letra preta enorme ou estrutura tipográfica abstrata empurrada contra a borda da página, colidindo, mascarando ou sendo recortada por uma ilustração plana de cor quente vibrante. Tipografia e imagem devem compartilhar o mesmo comportamento físico de impressão: bordas de tinta ásperas, leve desvio de registro, cobertura irregular e irregularidade artesanal controlada, como se produzidas por impressão física em chapa. Use uma composição editorial vertical estreita com generoso espaço negativo em papel creme, criando um caminho de leitura claro entre a forma preta massiva, a ilustração quente e colunas de informação estreitas e densas. Deixe o preto carregar o peso; use vermelhão, laranja escarlate, rosa e um acento azul contido como interrupções visuais nítidas, com o papel branco-quente proporcionando ar. O texto secundário pode correr verticalmente ou em colunas compactas, com escala, direção e densidade criando ritmo em vez de decoração. Construa glifos de exibição com proporções exageradas, traços pesados, espaçamento apertado, terminais nítidos ou assimétricos, junções seletivas e contraformas abertas; preserve topologia, contraste de traço, ritmo, direção de leitura, marcas e reconhecimento ortográfico para que a construção permaneça eficaz em sistemas de escrita estruturalmente diferentes. A ilustração deve usar uma paleta limitada de formas sólidas, silhuetas, motivos repetidos e detalhes lineares esparsos, mantendo-se próxima ao tipo e funcionando como parte do layout em vez de uma cena realista. Mantenha o espalhamento de tinta, o tom irregular do papel, o leve desregistro e o desbotamento localizado, mas evite gradientes polidos, efeitos brilhantes, simetria excessiva, nitidez digital ou embelezamento comercial genérico. O resultado deve parecer uma capa de publicação cultural experimental editada de forma intelectual, com resíduo de impressão tangível e tensão espacial deliberada.
+
+——————
+Crie uma capa de publicação cultural sobre coletar os sons de uma cidade: use violeta quase preto como cor dominante, contrastada por laranja vermelhão, rosa coral e um bloco ciano frio; faça uma estrutura tipográfica preta enorme entrar horizontalmente pela borda superior direita, com ondas concêntricas, uma silhueta de microfone e linhas de sinal quebradas concentradas no canto inferior esquerdo. Deixe o espaço negativo abrir diagonalmente em direção à faixa de informação inferior. Defina o título como uma forma enorme alinhada à direita com contraformas selecionadas em negativo, enquanto pequenos rótulos editoriais correm verticalmente ao longo da borda esquerda. Use uma tela retrato 3:4.
 ```
 
 </details>
@@ -155,7 +158,7 @@ Um mundo em miniatura vertical do Japão ricamente detalhado, feito inteiramente
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HP2rkgxbgAAgxw5.jpg" width="700" alt="Mundo em Miniatura de Feltro do Japão">
+<img src="https://image.moge.ai/prompt_media/HP6OiFXa8AEGEsF.jpg" width="700" alt="Capa Editorial Retrô com Tipografia Impressa">
 </div>
 
 <br>
@@ -164,13 +167,13 @@ Um mundo em miniatura vertical do Japão ricamente detalhado, feito inteiramente
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Lucas AI](https://x.com/AiwithLucas_) | [X / Twitter](https://x.com/AiwithLucas_/status/2089014457255264401) | 2026-08-16 |
+| [小小东](https://x.com/xiaoxiaodong01) | [X / Twitter](https://x.com/xiaoxiaodong01/status/2089264493419475417) | 2026-08-17 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2089014457255264401)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2089264493419475417)**
 
 </div>
 
@@ -398,25 +401,33 @@ Ficha de personagem de livro infantil de um(a) [character] antropomórfico chama
 
 ---
 
-### No. 6: Retrato Editorial em Luz Arco-Íris
+### No. 6: Retrato Cinematográfico Noturno no Carro
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Cria um retrato editorial pastel e sonhador de uma jovem iluminada por projeções de luz arco-íris no rosto e na parede neutra.
+Retrato fotorrealista de uma jovem no banco traseiro de um carro à noite, com faixas de luz da rua e bokeh urbano ao fundo.
 
 #### 🌟 Prompt
 
-Crie um retrato editorial pastel e sonhador de uma jovem em perfil lateral, voltada para a direita, com …
+Um retrato cinematográfico e fotorrealista em close de uma jovem mulher do leste asiático sentada no banco …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Crie um retrato editorial pastel e sonhador de uma jovem em perfil lateral, voltada para a direita, com longos cabelos pretos ondulados penteados com duas tranças finas emoldurando o rosto. Ela usa grandes brincos de argola dourados e uma delicada camisola branca com acabamento em renda. Seus olhos estão fechados com uma expressão tranquila e elegante. Sua pele tem um brilho quente de sol com um sutil blush pêssego, lábios brilhantes, cílios longos e pequenos acentos de glitter cintilante ao redor da bochecha e da têmpora. Atrás dela há um grande halo de arco-íris brilhante projetado em uma parede cinza suave, criando um belo espectro circular de luz rosa pastel, lavanda, ciano, verde, amarelo, laranja e vermelho. A luz do arco-íris também cai naturalmente sobre seu rosto, pescoço, ombro e peito, produzindo reflexos coloridos e cinematográficos. Iluminação de estúdio suave, atmosfera pastel sonhadora, fotografia de beleza etérea, textura de pele realista, realces quentes, sutil granulação de filme, profundidade de campo rasa, editorial de moda premium, altamente fotorrealista, composição vertical, proporção 4:5.
+Um retrato cinematográfico e fotorrealista em close de uma jovem mulher do leste asiático sentada no banco traseiro de um carro à noite. Ela tem cabelos longos, naturalmente lisos e brilhantes, pretos, com alguns fios soltos caindo suavemente sobre o rosto, traços faciais delicados, textura de pele suave e natural, olhos escuros e expressivos, delineador sutil, sobrancelhas naturais e suaves, e lábios de tom rosado suave. Ela olha diretamente para a câmera com uma expressão calma, neutra e levemente melancólica.
 
-Crie um retrato editorial sonhador de uma jovem com longos cabelos pretos ondulados penteados com duas tranças finas emoldurando o rosto. Ela usa grandes brincos de argola dourados e uma delicada camisola branca com acabamento em renda. Ela é mostrada em close-up de perfil três-quartos, olhando ligeiramente para cima e para o lado com uma expressão suave e confiante. Seu rosto e parte superior do corpo são iluminados por vívidas projeções de luz arco-íris, criando ondas fluidas de rosa, roxo, azul, verde, amarelo e laranja sobre sua pele, cabelo e roupa. Os mesmos padrões coloridos de ondas abstratas continuam pela parede neutra atrás dela, com uma suave sombra de seu perfil projetada na parede. Pele natural brilhante, maquiagem sutilmente luminosa, delineado alado nítido, cílios longos, lábios brilhantes, delicados brincos de cruz pendentes. Fotografia criativa sonhadora inspirada nos anos 90, iluminação suave e difusa, vibrantes cores neon pastel, fotografia artística de projeção, composição cinematográfica, textura de pele realista, profundidade de campo rasa, alto detalhe, estética editorial de moda, retrato vertical, proporção 4:5.
+Faixas horizontais douradas e quentes de luz de rua passam naturalmente pelo seu rosto, criando luz e sombra cinematográficas e dramáticas. A iluminação deve iluminar suavemente seus olhos, nariz, bochechas e lábios, deixando partes do rosto e do cabelo em sombra natural profunda. Preserve poros realistas da pele e detalhes faciais finos sem retoque excessivo ou pele com aparência plástica.
+
+Ela está sentada dentro de um carro de luxo escuro, com bancos e interior de couro preto ao redor. Através do vidro traseiro, uma cena noturna da cidade é visível com luzes coloridas muito desfocadas, bokeh amarelo quente, faróis brancos, luzes de trânsito vermelhas sutis e prédios urbanos escuros. Uma forte profundidade de campo rasa a separa do fundo.
+
+Fotografado com uma câmera profissional full-frame, lente retrato de 85mm, abertura f/1.4, profundidade de campo cinematográfica, fotografia realista em baixa luz, contraste fílmico suave, realces quentes sutis, pretos profundos, gradação de cor natural, alta faixa dinâmica, olhos nítidos, fios de cabelo detalhados, textura de pele realista, bokeh suave, atmosfera noturna.
+
+Composição: retrato vertical, sujeito centralizado um pouco abaixo do meio do quadro, cabeça e ombros visíveis, perspectiva natural, enquadramento íntimo em close, espaço negativo cinematográfico, enquadramento realista do interior do carro em primeiro plano.
+
+Fotografia ultrarrealista, alto detalhe, foco facial nítido, imperfeições naturais, iluminação realista, fotografia editorial premium, still de filme cinematográfico, grão de filme sutil, gradação de cor profissional, detalhe 8K, sem filtro de beleza artificial, sem super-nitidez, sem traços faciais distorcidos, sem dedos extras, sem texto, sem marca d'água.
 ```
 
 </details>
@@ -424,7 +435,7 @@ Crie um retrato editorial sonhador de uma jovem com longos cabelos pretos ondula
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HP1nUVFbsAA7lyh.jpg" width="700" alt="Retrato Editorial em Luz Arco-Íris">
+<img src="https://image.moge.ai/prompt_media/HP5oKCBaEAAhdP0.jpg" width="700" alt="Retrato Cinematográfico Noturno no Carro">
 </div>
 
 <br>
@@ -433,13 +444,13 @@ Crie um retrato editorial sonhador de uma jovem com longos cabelos pretos ondula
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Soulful Ai](https://x.com/soulful__ai) | [X / Twitter](https://x.com/soulful__ai/status/2088939605697642767) | 2026-08-16 |
+| [Elisia](https://x.com/AiwithElisia) | [X / Twitter](https://x.com/AiwithElisia/status/2089221808436531381) | 2026-08-17 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2088939605697642767)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2089221808436531381)**
 
 </div>
 
@@ -529,71 +540,26 @@ texto legível, logotipo, título, composição bagunçada, creme CGI falso, tex
 
 ---
 
-### No. 8: Mulher Fundida em Mural de Rabiscos Mediterrâneo
+### No. 8: Pôster Geométrico Experimental Fatiado
 
 ![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
 
 #### 📚 Descrição
 
-Cria um pôster de campanha de moda que funde uma mulher fotorrealista com um universo de rabiscos mediterrâneos desenhados à mão em preto e azul cobalto.
+Cria um pôster experimental sóbrio e arquitetônico com fatias geométricas, cortes diagonais e imagem granulada em paleta quente e contida.
 
 #### 🌟 Prompt
 
-Crie um pôster de campanha de moda-arte híbrida ultra-premium que funde a integração estrutural estilo Orbit …
+Comprima o tema do futuro em um pôster experimental sóbrio, quase de desenho arquitetônico: à primeira vista, …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Crie um pôster de campanha de moda-arte híbrida ultra-premium que funde a integração estrutural estilo Orbit com o polimento editorial internacional estilo Transit, centrado em uma regra visual impecável: uma mulher adulta real deve estar perfeitamente fundida com um universo de rabiscos mediterrâneos totalmente desenhado à mão, com interação absolutamente perfeita entre a figura humana fotorrealista e o mundo ilustrado. Preserve a mesma lógica de pôster de moda alto e centralizado da imagem de referência, mas refine-a em uma obra comercial mais icônica, mais luxuosa e mais globalmente premium. A mulher deve ser o único elemento realista da imagem; todo o resto deve ser desenhado à mão. A imagem final deve parecer impecável, elegante, culta, gráfica e nível Cannes. Não copie nenhum texto, símbolo ou palavra existente.
+Comprima o tema do futuro em um pôster experimental sóbrio, quase de desenho arquitetônico: à primeira vista, fatias geométricas em amplo espaço em branco, bordas diagonais afiadas e blocos de cor bruscamente cortados formam um evento visual forte; a imagem parece jorrar das bordas da página e é rasgada pelo espaço branco. Organize a leitura com divisão superior/inferior assimétrica, uma forte linha de base horizontal e um eixo deslocado; tipografia, diagramas abstratos e a imagem do tema obedecem juntos a corte, mascaramento, deslocamento e recorte, em vez de camadas separadas. Use uma paleta reduzida e reconhecível de coral quente, verde botânico, cinza-preto e branco de papel; mantenha os blocos planos, contidos, com leve irregularidade de sobreimpressão; a imagem do tema pode ser reconstruída como um fragmento de baixa saturação, granulado ou em meio-tom, escondido atrás das formas geométricas, compartilhando a mesma lógica de desbotamento, abrasão, leve desalinhamento de registro e vazamento de tinta nas bordas. O título usa uma sans-serif moderna de peso fino a médio: contraformas abertas, traços uniformes, terminais retos, cantos limpos, espaçamento solto; linhas de comprimentos variados criam ritmo vertical e horizontal; o texto pode girar, encostar nas bordas, dividir-se em colunas ou ser cortado, mantendo legibilidade e ordem direcional. Preserve pequenas imperfeições de composição manual, bordas duras e desfoque parcial, como se impresso em papel real. Evite gradientes decorativos, brilho 3D, simetria central, retoque excessivo, texturas retrô genéricas e detalhes complexos sem sentido.
 
-Composição central:
-Use uma composição vertical estritamente centralizada com uma mulher real de corpo inteiro no meio de um fundo de pôster branco-sujo limpo. Ela deve ocupar a âncora visual central da cabeça aos sapatos, com o corpo levemente virado e a pose calma, elegante e digna. Ao redor dela, construa um mural ilustrado denso de rabiscos em tinta preta e azul cobalto preenchendo todo o espaço. Os rabiscos também devem cruzar suas roupas, traçar sua silhueta, envolver seus membros e interagir com o chão para que toda a imagem seja lida como uma única obra híbrida unificada, não uma mulher colocada diante de um desenho.
-
-Aprimoramento Orbit:
-Intensifique a integração para que a ilustração pareça estruturalmente ligada ao corpo. Bordas estilo grega, espirais, linhas simbólicas, pseudo-tipografia decorativa, olhos, estrelas, xícaras, azeitonas, folhas, setas, corações e motivos de ondas devem alinhar-se aos contornos das roupas, cintura, bainhas de saia, linhas das pernas e calçados. Alguns elementos ilustrados devem parecer crescer das costuras, envolver as panturrilhas e ecoar a inclinação da postura. A interação deve parecer fisicamente travada, com sobreposição mais forte, rastreamento de contorno e tensão compositiva.
-
-Aprimoramento Transit:
-Refine toda a imagem em uma linguagem editorial de alta moda mais internacional. O traço deve parecer mais nítido, limpo e dirigido. A paleta deve permanecer disciplinada e luxuosa: tinta preta, azul cobalto, azul Egeu, marfim suave, areia pálida e acentos de oliva contidos. O clima final deve parecer uma colaboração de uma casa de moda de luxo com um ilustrador mediterrâneo, não uma colagem casual de rabiscos.
-
-Regra de fusão perfeita:
-Este é o requisito mais importante. O estilo desenhado à mão e a mulher real devem combinar-se perfeita e impecavelmente. Sem sensação de sobreposição colada, sem separação entre camadas, sem incompatibilidade de escala ou perspectiva. Os elementos ilustrados devem interagir com ela como se pertencessem ao mesmo mundo: traços que seguem contornos, extensões de padrão pelas roupas, sombras desenhadas onde os rabiscos encontram o corpo e sobreposições precisas nas mãos, bainha, sapatos e cabelo. O espectador deve acreditar instantaneamente que a pessoa real emergiu de um mural vivo desenhado à mão.
-
-Design de personagem:
-Use uma mulher adulta real com presença editorial mediterrânea refinada: elegante, jovem mas claramente adulta, esbelta e naturalmente proporcionada, com anatomia correta, ombros, cintura, quadris, coxas, braços realistas e mãos e dedos totalmente corretos. Seu rosto deve parecer suave, inteligente e elegante, com expressão calma e introspectiva e olhar levemente para baixo ou de lado. Sua pele deve manter poros, variação tonal natural, lábios realistas e sutil imperfeição humana. Seu cabelo deve ser escuro, naturalmente texturizado, preso ou suavemente controlado, com alguns fios soltos realistas.
-
-Estilo de moda:
-Vista-a com um conjunto de moda resort contemporânea em marfim, creme ou areia pálida com sutil influência mediterrânea: top de alças ajustado, saia macia sob medida ou saia envelope e calçado leve. A roupa deve integrar-se visualmente ao mundo desenhado à mão por meio de bordas ornamentais ilustradas, padrões lineares simbólicos e detalhes de pseudo-escrita que parecem parcialmente desenhados sobre a peça. A roupa deve permanecer fundamentalmente real em tecido e caimento.
-
-Estilo de ilustração:
-Use arte comercial premium desenhada à mão com traço preto confiante, acentos seletivos em azul cobalto, motivos botânicos verde-oliva contidos e ocasionais pequenos espaços negativos em creme. Inclua símbolos mediterrâneos estilizados como azeitonas, xícaras de café, olhos protetores, espirais, bordas de labirinto, estrelas, corações, folhas e aglomerados de letras manuscritas fictícias. Todos os rabiscos devem parecer polidos, vivos, cultos e editoriais, nunca infantis ou aleatórios.
-
-Iluminação:
-Use iluminação de estúdio premium suave sobre a mulher real, com iluminação frontal gentil e leve modelagem lateral para definição de forma elegante. Mantenha a figura humana dimensional e natural, enquanto o mundo desenhado permanece graficamente plano, exceto por sutis pistas de integração. A iluminação deve parecer limpa, neutra-quente e editorial de luxo.
-
-Fundo e espaçamento:
-Use um fundo branco-sujo quente e plano ou com textura de papel. Os rabiscos devem preencher densamente o espaço, mas permanecer equilibrados, com forte espaço negativo ao redor da silhueta onde necessário para preservar a legibilidade.
-
-Sistema de cores:
-Use uma paleta disciplinada de tinta preta, azul cobalto, azul Egeu, marfim, areia pálida e verde-oliva contido. Mantenha a roupa da mulher neutra e premium para que o traço e os acentos azuis sejam a principal energia visual.
-
-Renderização de material:
-Renderize a mulher com fotorrealismo completo: textura de pele realista, fios de cabelo, dobras de tecido, material do calçado e retoque de nível editorial. Renderize cada elemento não humano com energia de tinta desenhada à mão, textura de marcador ou caneta premium e planura ilustrativa deliberada. O contraste entre humano real e mundo desenhado deve ser nítido, mas a interação perfeita.
-
-Lógica de tipografia:
-Se elementos semelhantes a texto forem incluídos, devem ser pseudo-letras fictícias totalmente originais integradas como ornamento ao redor da mulher, especialmente perto do topo e das laterais. Devem funcionar como composição gráfica, não como texto de marca legível. Não copie nenhum idioma ou frase existente.
-
-Acabamento da imagem:
-A obra final deve parecer uma campanha de moda híbrida de nível mundial: icônica, perfeita, graficamente rica, impecavelmente integrada, editorial internacional e comercialmente poderosa. Preserve a clareza fotorrealista na mulher, a densidade elegante no campo de rabiscos e a fusão perfeita entre os dois estilos. 8k, qualidade de publicidade de luxo.
-
-Clima:
-elegante, artístico, mediterrâneo, gráfico, híbrido, icônico, culto, moderno, premium, impecável, editorial
-
-Estilo de renderização:
-campanha de moda híbrida ultra-premium, fusão estrutural ilustração-corpo estilo Orbit, polimento editorial internacional estilo Transit, uma mulher adulta real dentro de um mural de rabiscos mediterrâneo totalmente desenhado à mão, interação perfeita, linguagem gráfica preta e cobalto, design de pôster de luxo de nível mundial, 8k
-
-Prompt negativo:
-adereços realistas além da mulher, efeito de sobreposição colada, rabiscos desconectados, estilo de linha inconsistente, anatomia quebrada, dedos extras, dedos faltando, membros torcidos, rosto de manequim, pele plástica, interação fraca, texto copiado, marcas reais, composição bagunçada, fundo sujo, manchas pretas, visual infantil de clip-art
+——————
+Transforme-o na capa do manual anual de um laboratório de materiais: predominância de laranja ocre, com cinza névoa, branco osso e marrom-preto profundo, quente e contido; concentre imagens de baixa saturação de fibra, papel e metal no canto inferior direito, com três fatias de borda dura em ângulos diferentes formando caminhos que se espalham para fora; mantenha o espaço em branco mais amplo no canto superior esquerdo; posicione o título no canto superior esquerdo levemente interno, usando uma fonte enorme de peso leve com dois níveis de pequenas etiquetas para criar hierarquia clara, com algumas linhas cortadas pelas bordas; formato vertical 3:4.
 ```
 
 </details>
@@ -601,7 +567,7 @@ adereços realistas além da mulher, efeito de sobreposição colada, rabiscos d
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HP2YZQQaUAA3EpD.jpg" width="700" alt="Mulher Fundida em Mural de Rabiscos Mediterrâneo">
+<img src="https://image.moge.ai/prompt_media/HP6F4YhaIAAUTsQ.jpg" width="700" alt="Pôster Geométrico Experimental Fatiado">
 </div>
 
 <br>
@@ -610,13 +576,13 @@ adereços realistas além da mulher, efeito de sobreposição colada, rabiscos d
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2088993388460986600) | 2026-08-16 |
+| [小小东](https://x.com/xiaoxiaodong01) | [X / Twitter](https://x.com/xiaoxiaodong01/status/2089254640730964192) | 2026-08-17 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2088993388460986600)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2089254640730964192)**
 
 </div>
 
@@ -793,105 +759,41 @@ Adicione um pequeno carimbo entalhado preto no canto inferior esquerdo.
 
 ---
 
-### No. 12: Editorial de Noiva Estilo Coreano
+### No. 12: Tipografia Gigante em Editorial de Moda
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Gera um retrato editorial de noiva no estilo coreano com vestido de renda branco, joias de pérola e tipografia condensada gigante de capa de revista de moda.
+Cria um pôster editorial de alta-costura onde uma tipografia gigante se torna parte física da composição, entrelaçada com a modelo por oclusão frente/trás.
 
 #### 🌟 Prompt
 
-Jovem mulher adulta, editorial de revista de noiva estilo coreano de luxo, temperamento doce e sereno, traços …
+Tema: [TÍTULO] Elemento tipográfico: [LETRA / PALAVRA] Comportamento da tipografia: [PORTAL / CAMADA / …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Jovem mulher adulta, editorial de revista de noiva estilo coreano de luxo, temperamento doce e sereno, traços delicados e naturais, rosto pequeno e suave, leve aparência mestiça mantendo uma estética oriental natural, pele clara e translúcida, textura de pele real e delicada, leve blush, lábios rosados nude hidratados, olhos naturais castanho-escuros, cílios longos, maquiagem de olhos limpa e suave, sem retoque exagerado, sem pele plástica.
+Tema: [TÍTULO]
+Elemento tipográfico: [LETRA / PALAVRA]
+Comportamento da tipografia: [PORTAL / CAMADA / MOLDURA / MOVIMENTO]
+Modelo: [modelo de moda adulta]
+Look: [visual de alta-costura]
+Paleta: [fundo / tipografia / roupa]
+Formato: 9:16
 
-Cabelo longo preto ou castanho-escuro, que pode variar entre solto natural, ondas suaves, coque baixo ou meio preso, mantendo fios soltos naturais e textura real do cabelo em cada imagem. Usa brincos de pérola, colar de pérolas, enfeite de camélia branca, fita branca ou laço de renda e outros acessórios delicados.
+Crie um pôster editorial de alta moda onde uma tipografia gigante se torna parte física da composição, e não apenas texto colocado atrás da modelo.
 
-A modelo veste um vestido de noiva branco de alta-costura, predominando marfim e creme. As roupas podem variar entre vestido tomara-que-caia de renda branca, vestido com luvas longas de renda bordada, vestido acetinado de ombro único, vestido com padrões florais em relevo. O tecido tem brilho real de seda, textura de renda, pequenas contas e leves paetês. Combina com um longo e leve véu de noiva branco; algumas imagens incluem chapéu vintage branco de aba larga, colar longo de pérolas e enfeites florais brancos.
+Faça a figura e a tipografia compartilharem o mesmo espaço por meio de clara oclusão frente/trás: deixe partes da letra ficarem atrás do corpo, outras partes cruzarem à frente, e permita que a figura ou o tecido atravessem a tipografia.
 
-As poses são naturais e elegantes, mas diferentes em cada foto: apoiar suavemente o queixo; palma perto da bochecha; uma mão no ombro; ambas as mãos ajeitando o véu; dedos segurando a borda do véu; corpo levemente de lado olhando para a câmera; olhar levemente para o lado; sorriso olhando para a câmera; leve riso com a cabeça baixa; sentada abraçando um buquê vintage; ombros levemente erguidos formando um ar jovial.
+Use uma letra ou palavra dominante ocupando cerca de 50–75% do quadro. Mantenha a modelo realista, com textura de pele natural, styling de alta-costura refinado, silhueta forte e movimento expressivo do tecido.
 
-Evite que todas as fotos tenham o mesmo olhar, a mesma pose e a mesma expressão. O olhar deve variar: para a câmera, de lado, cabeça levemente baixa, olhar por cima do ombro, pensativo, sorriso natural. A modelo não pode ter rosto rígido de robô, sorriso estranho, olhos excessivamente abertos, dedos estranhos ou postura corporal não natural.
+Mantenha a paleta restrita a 2–4 cores principais. Adicione apenas alguns pequenos elementos de texto editorial para hierarquia e atmosfera.
 
-O cenário é principalmente um espaço fotográfico de noiva sofisticado e simples, variando entre estúdio bege creme, parede cinza quente, fundo interno castanho-escuro e sala vintage de madeira. Algumas imagens incluem piano de madeira, toalha de renda, flores frescas, janelas, recipientes de vidro, móveis vintage e vegetação verde do lado de fora, formando o clima de uma sala de preparação de casamento vintage europeia.
+O essencial é: a tipografia deve atuar como espaço — um portal, camada, moldura ou estrutura de movimento — em vez de um gráfico de fundo.
 
-A fotografia usa retrato de revista de moda de alto nível, principalmente plano médio-próximo, meio corpo e plano médio sentado, com a modelo ao centro ou levemente ao lado. Textura de lente retrato 50mm / 85mm, leve profundidade de campo, fundo não excessivamente desfocado.
-
-A luz é um flash suave combinado com luz natural interna. O fundo creme usa flash frontal suave, com o rosto claro e limpo e sombras suaves; a versão de fundo preto usa flash direto leve, formando uma estética de grande foto de moda em filme vintage. Mantenha leve granulação, ruído fraco e realces reais, sem HDR excessivo.
-
-Paleta geral: creme; cinza quente; marfim; caqui claro; castanho-escuro; baixa saturação; leve granulação de filme vintage; realces suaves; tom de pele limpo; textura de amostra de noiva coreana; sofisticado mas não excessivamente comercial.
-
-Proporção 4:5, composição vertical de capa de revista.
-
-O design de layout usa o estilo de capa de revista de moda coreana de luxo.
-
-No topo da imagem, adicione uma linha horizontal branca muito fina à esquerda e à direita, com pequeno texto em inglês no meio:
-
-SUMMER 2026
-
-Fonte sem serifa toda em maiúsculas, espaçamento extra largo, fonte pequena e contida.
-
-Sobreponha ao fundo um enorme texto inglês sem serifa super grosso e estreito:
-
-ECLIPSE
-
-Fonte em creme ou marfim, letras extremamente altas e estreitas, tamanho gigante, estendendo-se do topo ao meio ou até a base, ocupando cerca de 50%–70% da área visual de fundo. Algumas letras propositalmente ultrapassam as bordas laterais e são cortadas; a modelo fica à frente do texto gigante ou parcialmente sobreposta a ele, formando uma forte hierarquia de revista de moda.
-
-O título gigante pode se repetir em duas camadas:
-
-ECLIPSE
-ECLIPSE
-
-com a modelo entre os dois blocos de texto gigante.
-
-A cabeça ou o corpo da modelo pode cobrir parte das letras, mas o texto ainda deve ser legível, criando o efeito de entrelaçamento entre pessoa e tipografia de capa de revista.
-
-Na parte superior ou perto da cabeça, adicione uma linha de pequeno texto inglês de espaçamento extra largo:
-
-ECLIPSE 2026 SEASON’S GREETINGS
-
-ou dividido em dois lados:
-
-ECLIPSE 2026        SEASON’S GREETINGS
-
-No canto inferior esquerdo, adicione uma grande assinatura manuscrita branca em inglês:
-
-Elise
-
-Fonte fina, longa, fluida e elegante, como a assinatura de um editor de moda, acompanhada de algumas curvas brancas finas e livres.
-
-Abaixo da assinatura, texto pequeno em negrito sem serifa:
-
-2026 Summer
-Season
-GREETINGS
-
-No canto inferior direito, adicione um enorme número vazado estreito:
-
-#05
-
-O número usa apenas contorno branco fino, sem preenchimento, tamanho gigante, parcialmente ultrapassando a direita e a base sendo cortado.
-
-Adicione ainda algumas linhas decorativas brancas muito finas: linhas de trajetória em arco; curvas livres desenhadas à mão; setas finas e longas; pequenas estrelas de quatro pontas; raios de estrela; trajetórias circulares; poucos pontos de luz minimalistas.
-
-Essas linhas atravessam a modelo e o fundo, mas devem ser contidas e não cobrir os traços do rosto.
-
-No fundo da imagem, adicione texto decorativo tipo copyright em fonte muito pequena, como elemento de layout de revista, por exemplo:
-
-© 2026 ECLIPSE ENTERTAINMENT
-ALL RIGHTS RESERVED
-
-O conjunto forma uma capa de revista de moda coreana sofisticada, limpa, contida e com bastante espaço em branco.
-
-Palavras-chave: Korean bridal editorial photography; luxury wedding fashion magazine; editorial portrait; cream beige aesthetic; oversized condensed typography; high fashion magazine cover; bridal couture; soft flash photography; vintage film grain; minimal typography; editorial graphic design; white lace wedding dress; pearl jewelry; romantic veil; warm neutral tones; fashion campaign photography.
-
-Proibido: traços faciais distorcidos; rosto excessivamente influencer; retoque exagerado; pele plástica; olhar estranho; estrabismo; expressão idêntica em todas as fotos; poses rígidas; dedos extras; deformação das mãos; véu atravessando o corpo; pérolas fundidas; texto ilegível; erros de ortografia em inglês; baixa nitidez; superexposição; HDR forte; estilo barato de estúdio; filtro pesado; poses excessivamente sensuais; fundo bagunçado; marca d'água de logo.
+Layout minimalista, forte espaço negativo, fotografia de moda premium, tecido e iluminação realistas, sem logos, sem numeração, sem brilhos decorativos.
 ```
 
 </details>
@@ -899,7 +801,7 @@ Proibido: traços faciais distorcidos; rosto excessivamente influencer; retoque 
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HP0B99mbYAAOkxs.jpg" width="700" alt="Editorial de Noiva Estilo Coreano">
+<img src="https://image.moge.ai/prompt_media/HP5ioiRWAAAMXGj.jpg" width="700" alt="Tipografia Gigante em Editorial de Moda">
 </div>
 
 <br>
@@ -908,13 +810,13 @@ Proibido: traços faciais distorcidos; rosto excessivamente influencer; retoque 
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [serein](https://x.com/you1873118) | [X / Twitter](https://x.com/you1873118/status/2088827979451523321) | 2026-08-16 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2089215848699273532) | 2026-08-17 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2088827979451523321)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2089215848699273532)**
 
 </div>
 
@@ -1001,23 +903,35 @@ tomada ao nível dos olhos, tomada de ângulo baixo, nomes de marcas reais, logo
 
 ---
 
-### No. 14: Invocador de Dragão de Fogo Mágico
+### No. 14: Retrato Editorial Foto-Encontra-Esboço
 
 ![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
 
 #### 📚 Descrição
 
-Cena mística de um mago diante de um caldeirão do qual se ergue um dragão de fogo feito de fumaça e brasas brilhantes na escuridão.
+Coloca a pessoa fotorrealista ao lado de um esboço a lápis dela mesma numa parede bege, num colagem editorial de moda minimalista com rabiscos e uma foto Polaroid.
 
 #### 🌟 Prompt
 
-Uma cena mística com uma figura vestindo um manto esvoaçante amarelo vibrante e esfarrapado, de pé diante de …
+Crie um retrato editorial ultrarrealista usando a foto enviada como referência exata da pessoa. Preserve com …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Uma cena mística com uma figura vestindo um manto esvoaçante amarelo vibrante e esfarrapado, de pé diante de um grande caldeirão, lançando ingredientes mágicos brilhantes nele. Do caldeirão, um magnífico dragão de fogo feito de fumaça e nuvens giratórias e brilhantes se ergue, iluminando o espaço escuro ao redor. O dragão de fogo forma uma forma circular, exalando uma energia mágica etérea, com partículas de luz e brasas incandescentes preenchendo a cena. O ambiente é escuro, com a única iluminação vindo da energia mágica brilhante e do dragão. A imagem transmite uma sensação de maravilha e misticismo.
+Crie um retrato editorial ultrarrealista usando a foto enviada como referência exata da pessoa. Preserve com precisão a identidade facial, os traços do rosto, o penteado, o tom de pele, as proporções corporais, as roupas, os acessórios e a pose.
+
+Crie uma composição criativa em estilo dividido onde a pessoa real é posicionada naturalmente ao lado de um esboço a lápis, feito à mão e muito detalhado, da mesma pessoa. O esboço deve replicar com precisão a pose, o penteado, os óculos de sol, a roupa, os sapatos, a bolsa, o copo de café, a revista e as proporções corporais.
+
+A pessoa real deve parecer totalmente fotorrealista, com textura de pele natural, fios de cabelo realistas, detalhes autênticos de tecido, iluminação suave e natural, sombras sutis e profundidade cinematográfica. O esboço deve ser monocromático em grafite/tinta, com traços finos a lápis, hachuras cruzadas, variação de linha realista, imperfeições feitas à mão e sombreamento artístico.
+
+Coloque a pessoa real diante de uma parede bege/creme limpa e quente, em um cenário editorial de moda minimalista. Faça o esboço parecer desenhado à mão diretamente na parede ao lado da pessoa real, perfeitamente alinhado à pose real.
+
+Adicione pequenos rabiscos feitos à mão ao redor do esboço, incluindo corações, estrelas, linhas de movimento e marcas artísticas sutis. Inclua uma pequena foto no estilo Polaroid, inclinada, da pessoa original perto do canto inferior esquerdo, com bordas brancas arredondadas.
+
+Mantenha uma estética sofisticada de revista de moda, tons neutros e quentes, luz do dia suave, texturas realistas, composição equilibrada, fotografia editorial premium, ultradetalhada, cinematográfica, campanha criativa de alto nível, qualidade 4K.
+
+Importante: mantenha a identidade, o rosto, a pose, as mãos, as proporções corporais, as roupas, os acessórios e o penteado consistentes com a referência enviada. Não distorça o rosto nem o corpo. Não adicione pessoas extras. Sem textos, logotipos, legendas ou marcas d'água indesejados.
 ```
 
 </details>
@@ -1025,7 +939,7 @@ Uma cena mística com uma figura vestindo um manto esvoaçante amarelo vibrante 
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HP1pKQcXcAAE_oZ.jpg" width="700" alt="Invocador de Dragão de Fogo Mágico">
+<img src="https://image.moge.ai/prompt_media/HP47FGRa0AAnjL_.jpg" width="700" alt="Retrato Editorial Foto-Encontra-Esboço">
 </div>
 
 <br>
@@ -1034,13 +948,13 @@ Uma cena mística com uma figura vestindo um manto esvoaçante amarelo vibrante 
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [MO](https://x.com/MO_IAI) | [X / Twitter](https://x.com/MO_IAI/status/2088941476508061905) | 2026-08-16 |
+| [Alina Ai](https://x.com/Alina_with_Ai) | [X / Twitter](https://x.com/Alina_with_Ai/status/2089172899047555244) | 2026-08-17 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2088941476508061905)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2089172899047555244)**
 
 </div>
 
@@ -1191,51 +1105,25 @@ Ilustração de impressão artística de museu de um [SUJEITO], composição con
 
 ---
 
-### No. 18: Capa de Revista de Moda Editorial
+### No. 18: Retrato Editorial em Luz Dourada
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Cria uma capa de revista de moda premium com um retrato editorial cinematográfico de uma jovem elegante, título, data e três manchetes curtas.
+Cria uma foto de moda editorial de uma modelo agachada contra uma parede minimalista, com listras de luz dourada de persianas venezianas ao entardecer.
 
 #### 🌟 Prompt
 
-SUJEITO: Uma jovem impressionante com longos cabelos pretos brilhantes, traços elegantes e uma presença …
+Fotografia de moda editorial de alta-costura de uma deslumbrante modelo adulta agachada elegantemente contra …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-SUJEITO:
-Uma jovem impressionante com longos cabelos pretos brilhantes, traços elegantes e uma presença editorial confiante.
+Fotografia de moda editorial de alta-costura de uma deslumbrante modelo adulta agachada elegantemente contra uma parede minimalista de textura rica. A dramática luz do entardecer entra pelas persianas venezianas, lançando faixas horizontais nítidas e rítmicas de luz âmbar quente e sombra profunda sobre o rosto, corpo, roupas e a parede. Ela usa uma elegante saia com babados combinada com sofisticados sapatos plataforma de salto alto com delicadas tiras no tornozelo. Sua cabeça está levemente inclinada para trás, criando uma pose editorial relaxada, confiante e sensual, mantendo sofisticação refinada.
 
-Crie UMA capa de revista premium.
-
-Construa um poderoso retrato editorial destacando sua confiança, sofisticação e beleza atemporal.
-
-ESTILO:
-Fotografia de qualidade Vogue, iluminação de beleza cinematográfica, paleta sofisticada de marfim quente, preto e dourado suave, composição de luxo, textura de pele impecável mas natural, leve granulação de filme, estilização refinada, profundidade de campo rasa, fotografia de moda premium, espaço negativo elegante, fotorrealista 8K.
-
-TÍTULO DA REVISTA:
-VOGUE
-
-DATA DA EDIÇÃO:
-AGOSTO DE 2026
-
-MANCHETES:
-The New Elegance
-Beauty Without Limits
-Inside Her World
-
-Inclua apenas:
-Título da revista, data da edição e exatamente três manchetes curtas.
-
-Evite:
-Texto extra, logotipos, legendas, gráficos excessivos, desordem, múltiplos sujeitos.
-
-Resultado final:
-Uma capa de revista de moda premium em orientação retrato, qualidade editorial cinematográfica, fotorrealista, 8K.
+Tons quentes de âmbar, mel-dourado e bronze sutil, sombras cinematográficas profundas, contraste rico, suave dissipação atmosférica, realces esculpidos na pele, textura de tecido realista e iluminação de estúdio lindamente controlada. Estética de moda premium inspirada na Vogue, composição minimalista, estilo editorial luxuoso, enquadramento preciso, anatomia natural, detalhes faciais nítidos, textura de pele realista, acabamento fotorrealista, profundidade de campo rasa, alta faixa dinâmica, ultradetalhado, foco nítido, gradação de cor cinematográfica, resolução ultra-alta 8K.
 ```
 
 </details>
@@ -1243,7 +1131,7 @@ Uma capa de revista de moda premium em orientação retrato, qualidade editorial
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HPupuX_bUAAazPY.jpg" width="700" alt="Capa de Revista de Moda Editorial">
+<img src="https://image.moge.ai/prompt_media/HP5QvhmagAAtSqL.jpg" width="700" alt="Retrato Editorial em Luz Dourada">
 </div>
 
 <br>
@@ -1252,13 +1140,13 @@ Uma capa de revista de moda premium em orientação retrato, qualidade editorial
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Zephyra Leigh](https://x.com/ZephyraLeigh) | [X / Twitter](https://x.com/ZephyraLeigh/status/2088449484485501309) | 2026-08-15 |
+| [Eesha](https://x.com/MissDelulu9) | [X / Twitter](https://x.com/MissDelulu9/status/2089196085822816432) | 2026-08-17 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2088449484485501309)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2089196085822816432)**
 
 </div>
 
@@ -1315,89 +1203,23 @@ LIMITAÇÃO IMPORTANTE: Não tente gerar pessoas reais identificáveis pelo nome
 
 ---
 
-### No. 20: Pôster de Viagem Vintage da Cidade
+### No. 20: Mundo em Miniatura de Feltro do Japão
 
 ![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
 
 #### 📚 Descrição
 
-Cria um pôster de viagem vertical 4:5 no estilo linóleo/serigrafia artesanal, capturando a identidade única de uma cidade com marcos e cenas do cotidiano.
+Cria um mundo em miniatura vertical do Japão feito à mão com feltro e lã, com ruas de cerejeiras, torii e o Monte Fuji ao entardecer.
 
 #### 🌟 Prompt
 
-Crie um pôster de viagem vintage vertical 4:5 premium para [CITY], [COUNTRY], inspirado na serigrafia …
+Um mundo em miniatura vertical do Japão ricamente detalhado, feito inteiramente à mão com feltro macio, lã …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Crie um pôster de viagem vintage vertical 4:5 premium para [CITY], [COUNTRY], inspirado na serigrafia clássica, ilustração em linóleo, gráficos editoriais retrô e pôsteres de viagem europeus feitos à mão.
-
-Construa uma composição completamente original que capture a personalidade de [CITY] em vez de simplesmente organizar marcos famosos.
-
-Use um fundo de papel creme envelhecido e quente com fibras de papel visíveis, manchas sutis, tinta desgastada, bordas de impressão irregulares e textura autêntica feita à mão.
-
-CONCEITO VISUAL
-
-Crie uma forte narrativa visual central representando [CITY].
-
-Integre de 2 a 4 marcos reconhecíveis ou elementos arquitetônicos naturalmente ao ambiente, junto com detalhes cotidianos que dão vida à cidade:
-
-transporte local
-ruas e edifícios característicos
-cafés e lojas
-placas de rua
-comida ou objetos locais
-pedestres e ciclistas
-árvores e paisagem ao redor
-detalhes culturalmente distintos
-
-Evite que os marcos pareçam adesivos flutuantes ou uma lista de verificação. Tudo deve parecer pertencer a uma única cena contínua.
-
-PALETA DE CORES
-
-Use uma paleta limitada e sofisticada:
-
-marfim quente + carvão/preto + uma cor de destaque característica associada a [CITY].
-
-Mantenha a cor de destaque seletiva e poderosa em vez de cobrir toda a obra.
-
-TIPOGRAFIA
-
-Integre uma tipografia grande, ousada e impressa à mão na composição:
-
-[CITY]
-
-Adicione uma pequena frase secundária que reflita o caráter da cidade:
-
-[SHORT CITY PHRASE]
-
-A tipografia deve parecer imperfeita, serigrafada, levemente desgastada e organicamente integrada à obra.
-
-ESTILO ARTÍSTICO
-
-linóleo vintage
-serigrafia feita à mão
-ilustração de pôster de viagem retrô
-textura de tinta áspera
-grão de meio-tom desgastado
-registro imperfeito
-bordas cortadas à mão
-silhuetas fortes
-perspectiva expressiva
-imperfeições sutis do papel
-espaço negativo sofisticado
-estética de livro de arte editorial
-
-Faça a obra parecer uma rara estampa de viagem colecionável, combinando nostalgia com design gráfico contemporâneo.
-
-IMPORTANTE
-
-Não reproduza simplesmente um pôster turístico tradicional.
-
-Não use uma colagem genérica de marcos, fotorrealismo, renderização 3D brilhante, cores excessivas, gradientes ou gráficos digitais excessivamente limpos.
-
-A composição final deve ser ousada, artística, levemente inesperada, altamente reconhecível, culturalmente autêntica e visualmente sofisticada, com a identidade única de [CITY] imediatamente aparente.
+Um mundo em miniatura vertical do Japão ricamente detalhado, feito inteiramente à mão com feltro macio, lã fofa, fibras de lã e delicado bordado, capturando o calor da vida cotidiana japonesa sem parecer infantil ou fantasioso. Sobreponha um aconchegante primeiro plano com pequenas casas de ramen e chá, barracas de mercado, lanternas japonesas, pessoas, bicicletas e pequenos veículos, com um rio sinuoso, pontes de pedra, casas tradicionais, um Shinkansen, portão torii, pagode e ruas ladeadas por cerejeiras, enquanto o Monte Fuji se ergue majestosamente ao fundo sob um céu radiante ao entardecer; use placas e detalhes culturais autenticamente japoneses, texturas táteis feitas à mão, iluminação suave e dimensional, perspectiva natural de cima, cores ricas porém harmoniosas, artesanato intrincado, atmosfera emocional e uma composição perfeita de mundo único, sem logotipos, estética de cartaz turístico ou obras copiadas.
 ```
 
 </details>
@@ -1405,7 +1227,7 @@ A composição final deve ser ousada, artística, levemente inesperada, altament
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HP1TdyDb0AELsVq.jpg" width="700" alt="Pôster de Viagem Vintage da Cidade">
+<img src="https://image.moge.ai/prompt_media/HP2rkgxbgAAgxw5.jpg" width="700" alt="Mundo em Miniatura de Feltro do Japão">
 </div>
 
 <br>
@@ -1414,13 +1236,13 @@ A composição final deve ser ousada, artística, levemente inesperada, altament
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [simeon-sanai](https://x.com/Naiknelofar788) | [X / Twitter](https://x.com/Naiknelofar788/status/2088918226902409478) | 2026-08-16 |
+| [Lucas AI](https://x.com/AiwithLucas_) | [X / Twitter](https://x.com/AiwithLucas_/status/2089014457255264401) | 2026-08-16 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2088918226902409478)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2089014457255264401)**
 
 </div>
 
@@ -1982,24 +1804,37 @@ Não explique a imagem diretamente. Conclua a obra como uma peça única de arte
 
 ---
 
-### No. 24: Pirâmides de Gizé sob o Céu Noturno
+### No. 24: Retrato em Pátio de Buganvílias
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Uma foto ampla e cinematográfica das pirâmides de Gizé sob um céu estrelado, com um beduíno e um camelo em silhueta no deserto, em tom azul retrô.
+Retrato fotorrealista de uma jovem sul-asiática em traje tradicional carmesim emoldurada por buganvílias rosa em um pátio ensolarado.
 
 #### 🌟 Prompt
 
+Retrato ultrarrealista e fotorrealista de uma jovem sul-asiática em pé ao ar livre em um belo pátio …
+
+<details>
+<summary>Mostrar prompt completo</summary>
+
 ```
-Uma foto dramática e ampla das Grandes 3 Pirâmides de Gizé sob um profundo céu de meia-noite repleto de estrelas, 1970. Um único beduíno senta-se em silêncio ao lado de um camelo em repouso sobre uma duna baixa em primeiro plano, silhuetas emolduradas contra a vastidão do deserto. Clima atemporal, gradação de tom azul frio, alto contraste, lente grande-angular, profundidade atmosférica.
+Retrato ultrarrealista e fotorrealista de uma jovem sul-asiática em pé ao ar livre em um belo pátio tradicional cercado por exuberantes trepadeiras de buganvília cobertas de vibrantes flores rosas. Ela tem traços faciais suaves e delicados, olhos castanhos claros expressivos, lábios naturalmente carnudos, textura de pele lisa e realista, e cabelo escuro ondulado na altura dos ombros com um visual levemente despenteado e descontraído.
+
+Ela veste um elegante traje tradicional bordado em vermelho carmesim profundo com padrões florais intrincados, detalhes em espelho, delicado trabalho em miçangas e mangas ricamente decoradas. O decote apresenta belo bordado artesanal e sutis adornos reflexivos.
+
+Seus braços estão graciosamente erguidos acima da cabeça enquanto segura suavemente um ramo florido de buganvília com as duas mãos, criando uma moldura floral natural ao redor do rosto. Ela olha suavemente para a câmera com uma expressão sonhadora, confiante e ligeiramente misteriosa.
+
+A luz natural quente do dia se filtra através das flores e folhas, criando lindos raios de sol difusos e sombras orgânicas suaves em seu rosto. O fundo apresenta uma charmosa casa tradicional sul-asiática com paredes amarelas quentes, portas e janelas azul-turquesa, e abundante vegetação. Profundidade de campo rasa, iluminação natural cinematográfica, bokeh cremoso ao fundo, poros de pele realistas, fios de cabelo finos, textura de tecido autêntica, mãos e anatomia naturais, fotografia editorial espontânea, lente de retrato 85mm, f/2.0, gradação de cor suave, alto alcance dinâmico, ultradetalhado, composição elegante, estética de fotografia de moda de luxo, resolução 8K, proporção vertical 3:4, digna de Instagram, cativante e visual que faz parar a rolagem.
 ```
+
+</details>
 
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HPolgezWQAAeZ16.jpg" width="700" alt="Pirâmides de Gizé sob o Céu Noturno">
+<img src="https://image.moge.ai/prompt_media/HP5Gi_bakAAgYgq.jpg" width="700" alt="Retrato em Pátio de Buganvílias">
 </div>
 
 <br>
@@ -2008,13 +1843,13 @@ Uma foto dramática e ampla das Grandes 3 Pirâmides de Gizé sob um profundo c�
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Malzahran](https://x.com/Malzahran2) | [X / Twitter](https://x.com/Malzahran2/status/2088022629345345975) | 2026-08-13 |
+| [Jahan Zaib](https://x.com/jzaib4269) | [X / Twitter](https://x.com/jzaib4269/status/2089184875601699241) | 2026-08-17 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2088022629345345975)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2089184875601699241)**
 
 </div>
 
@@ -2099,24 +1934,79 @@ nomes de marcas reais, texto copiado, slogan copiado, marca d'água, assinatura,
 
 ---
 
-### No. 26: Prompt de Uma Palavra: Abelha
+### No. 26: Mulher Fundida em Mural de Rabiscos Mediterrâneo
 
 ![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
 
 #### 📚 Descrição
 
-Gera uma imagem a partir de um único termo minimalista, deixando o modelo interpretar livremente uma abelha.
+Cria um pôster de campanha de moda que funde uma mulher fotorrealista com um universo de rabiscos mediterrâneos desenhados à mão em preto e azul cobalto.
 
 #### 🌟 Prompt
 
+Crie um pôster de campanha de moda-arte híbrida ultra-premium que funde a integração estrutural estilo Orbit …
+
+<details>
+<summary>Mostrar prompt completo</summary>
+
 ```
-Abelha
+Crie um pôster de campanha de moda-arte híbrida ultra-premium que funde a integração estrutural estilo Orbit com o polimento editorial internacional estilo Transit, centrado em uma regra visual impecável: uma mulher adulta real deve estar perfeitamente fundida com um universo de rabiscos mediterrâneos totalmente desenhado à mão, com interação absolutamente perfeita entre a figura humana fotorrealista e o mundo ilustrado. Preserve a mesma lógica de pôster de moda alto e centralizado da imagem de referência, mas refine-a em uma obra comercial mais icônica, mais luxuosa e mais globalmente premium. A mulher deve ser o único elemento realista da imagem; todo o resto deve ser desenhado à mão. A imagem final deve parecer impecável, elegante, culta, gráfica e nível Cannes. Não copie nenhum texto, símbolo ou palavra existente.
+
+Composição central:
+Use uma composição vertical estritamente centralizada com uma mulher real de corpo inteiro no meio de um fundo de pôster branco-sujo limpo. Ela deve ocupar a âncora visual central da cabeça aos sapatos, com o corpo levemente virado e a pose calma, elegante e digna. Ao redor dela, construa um mural ilustrado denso de rabiscos em tinta preta e azul cobalto preenchendo todo o espaço. Os rabiscos também devem cruzar suas roupas, traçar sua silhueta, envolver seus membros e interagir com o chão para que toda a imagem seja lida como uma única obra híbrida unificada, não uma mulher colocada diante de um desenho.
+
+Aprimoramento Orbit:
+Intensifique a integração para que a ilustração pareça estruturalmente ligada ao corpo. Bordas estilo grega, espirais, linhas simbólicas, pseudo-tipografia decorativa, olhos, estrelas, xícaras, azeitonas, folhas, setas, corações e motivos de ondas devem alinhar-se aos contornos das roupas, cintura, bainhas de saia, linhas das pernas e calçados. Alguns elementos ilustrados devem parecer crescer das costuras, envolver as panturrilhas e ecoar a inclinação da postura. A interação deve parecer fisicamente travada, com sobreposição mais forte, rastreamento de contorno e tensão compositiva.
+
+Aprimoramento Transit:
+Refine toda a imagem em uma linguagem editorial de alta moda mais internacional. O traço deve parecer mais nítido, limpo e dirigido. A paleta deve permanecer disciplinada e luxuosa: tinta preta, azul cobalto, azul Egeu, marfim suave, areia pálida e acentos de oliva contidos. O clima final deve parecer uma colaboração de uma casa de moda de luxo com um ilustrador mediterrâneo, não uma colagem casual de rabiscos.
+
+Regra de fusão perfeita:
+Este é o requisito mais importante. O estilo desenhado à mão e a mulher real devem combinar-se perfeita e impecavelmente. Sem sensação de sobreposição colada, sem separação entre camadas, sem incompatibilidade de escala ou perspectiva. Os elementos ilustrados devem interagir com ela como se pertencessem ao mesmo mundo: traços que seguem contornos, extensões de padrão pelas roupas, sombras desenhadas onde os rabiscos encontram o corpo e sobreposições precisas nas mãos, bainha, sapatos e cabelo. O espectador deve acreditar instantaneamente que a pessoa real emergiu de um mural vivo desenhado à mão.
+
+Design de personagem:
+Use uma mulher adulta real com presença editorial mediterrânea refinada: elegante, jovem mas claramente adulta, esbelta e naturalmente proporcionada, com anatomia correta, ombros, cintura, quadris, coxas, braços realistas e mãos e dedos totalmente corretos. Seu rosto deve parecer suave, inteligente e elegante, com expressão calma e introspectiva e olhar levemente para baixo ou de lado. Sua pele deve manter poros, variação tonal natural, lábios realistas e sutil imperfeição humana. Seu cabelo deve ser escuro, naturalmente texturizado, preso ou suavemente controlado, com alguns fios soltos realistas.
+
+Estilo de moda:
+Vista-a com um conjunto de moda resort contemporânea em marfim, creme ou areia pálida com sutil influência mediterrânea: top de alças ajustado, saia macia sob medida ou saia envelope e calçado leve. A roupa deve integrar-se visualmente ao mundo desenhado à mão por meio de bordas ornamentais ilustradas, padrões lineares simbólicos e detalhes de pseudo-escrita que parecem parcialmente desenhados sobre a peça. A roupa deve permanecer fundamentalmente real em tecido e caimento.
+
+Estilo de ilustração:
+Use arte comercial premium desenhada à mão com traço preto confiante, acentos seletivos em azul cobalto, motivos botânicos verde-oliva contidos e ocasionais pequenos espaços negativos em creme. Inclua símbolos mediterrâneos estilizados como azeitonas, xícaras de café, olhos protetores, espirais, bordas de labirinto, estrelas, corações, folhas e aglomerados de letras manuscritas fictícias. Todos os rabiscos devem parecer polidos, vivos, cultos e editoriais, nunca infantis ou aleatórios.
+
+Iluminação:
+Use iluminação de estúdio premium suave sobre a mulher real, com iluminação frontal gentil e leve modelagem lateral para definição de forma elegante. Mantenha a figura humana dimensional e natural, enquanto o mundo desenhado permanece graficamente plano, exceto por sutis pistas de integração. A iluminação deve parecer limpa, neutra-quente e editorial de luxo.
+
+Fundo e espaçamento:
+Use um fundo branco-sujo quente e plano ou com textura de papel. Os rabiscos devem preencher densamente o espaço, mas permanecer equilibrados, com forte espaço negativo ao redor da silhueta onde necessário para preservar a legibilidade.
+
+Sistema de cores:
+Use uma paleta disciplinada de tinta preta, azul cobalto, azul Egeu, marfim, areia pálida e verde-oliva contido. Mantenha a roupa da mulher neutra e premium para que o traço e os acentos azuis sejam a principal energia visual.
+
+Renderização de material:
+Renderize a mulher com fotorrealismo completo: textura de pele realista, fios de cabelo, dobras de tecido, material do calçado e retoque de nível editorial. Renderize cada elemento não humano com energia de tinta desenhada à mão, textura de marcador ou caneta premium e planura ilustrativa deliberada. O contraste entre humano real e mundo desenhado deve ser nítido, mas a interação perfeita.
+
+Lógica de tipografia:
+Se elementos semelhantes a texto forem incluídos, devem ser pseudo-letras fictícias totalmente originais integradas como ornamento ao redor da mulher, especialmente perto do topo e das laterais. Devem funcionar como composição gráfica, não como texto de marca legível. Não copie nenhum idioma ou frase existente.
+
+Acabamento da imagem:
+A obra final deve parecer uma campanha de moda híbrida de nível mundial: icônica, perfeita, graficamente rica, impecavelmente integrada, editorial internacional e comercialmente poderosa. Preserve a clareza fotorrealista na mulher, a densidade elegante no campo de rabiscos e a fusão perfeita entre os dois estilos. 8k, qualidade de publicidade de luxo.
+
+Clima:
+elegante, artístico, mediterrâneo, gráfico, híbrido, icônico, culto, moderno, premium, impecável, editorial
+
+Estilo de renderização:
+campanha de moda híbrida ultra-premium, fusão estrutural ilustração-corpo estilo Orbit, polimento editorial internacional estilo Transit, uma mulher adulta real dentro de um mural de rabiscos mediterrâneo totalmente desenhado à mão, interação perfeita, linguagem gráfica preta e cobalto, design de pôster de luxo de nível mundial, 8k
+
+Prompt negativo:
+adereços realistas além da mulher, efeito de sobreposição colada, rabiscos desconectados, estilo de linha inconsistente, anatomia quebrada, dedos extras, dedos faltando, membros torcidos, rosto de manequim, pele plástica, interação fraca, texto copiado, marcas reais, composição bagunçada, fundo sujo, manchas pretas, visual infantil de clip-art
 ```
+
+</details>
 
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HPvFEx1WcAAb6xu.jpg" width="700" alt="Prompt de Uma Palavra: Abelha">
+<img src="https://image.moge.ai/prompt_media/HP2YZQQaUAA3EpD.jpg" width="700" alt="Mulher Fundida em Mural de Rabiscos Mediterrâneo">
 </div>
 
 <br>
@@ -2125,13 +2015,13 @@ Abelha
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Alexandra Aisling](https://x.com/AllaAisling) | [X / Twitter](https://x.com/AllaAisling/status/2088655957245272417) | 2026-08-15 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2088993388460986600) | 2026-08-16 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2088655957245272417)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2088993388460986600)**
 
 </div>
 
@@ -2375,23 +2265,25 @@ Estética de tartaruga gigante mítica chinesa, imponente, antiga, serena, miste
 
 ---
 
-### No. 30: Retrato de Estúdio em Preto e Branco
+### No. 30: Retrato Editorial em Luz Arco-Íris
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Cria um elegante retrato de estúdio em preto e branco de uma jovem confiante em blazer sob mecha dramática.
+Cria um retrato editorial pastel e sonhador de uma jovem iluminada por projeções de luz arco-íris no rosto e na parede neutra.
 
 #### 🌟 Prompt
 
-Um retrato de estúdio profissional em preto e branco de uma jovem confiante com cabelo na altura dos ombros, …
+Crie um retrato editorial pastel e sonhador de uma jovem em perfil lateral, voltada para a direita, com …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Um retrato de estúdio profissional em preto e branco de uma jovem confiante com cabelo na altura dos ombros, capturada do peito para cima. Ela veste um blazer estampado e ajustado sobre uma blusa canelada escura, com as mãos casualmente enfiadas em suas calças de cintura alta combinando. A iluminação cria realces sutis em seu rosto e roupas, contrastando lindamente com um fundo neutro texturizado e atmosférico.
+Crie um retrato editorial pastel e sonhador de uma jovem em perfil lateral, voltada para a direita, com longos cabelos pretos ondulados penteados com duas tranças finas emoldurando o rosto. Ela usa grandes brincos de argola dourados e uma delicada camisola branca com acabamento em renda. Seus olhos estão fechados com uma expressão tranquila e elegante. Sua pele tem um brilho quente de sol com um sutil blush pêssego, lábios brilhantes, cílios longos e pequenos acentos de glitter cintilante ao redor da bochecha e da têmpora. Atrás dela há um grande halo de arco-íris brilhante projetado em uma parede cinza suave, criando um belo espectro circular de luz rosa pastel, lavanda, ciano, verde, amarelo, laranja e vermelho. A luz do arco-íris também cai naturalmente sobre seu rosto, pescoço, ombro e peito, produzindo reflexos coloridos e cinematográficos. Iluminação de estúdio suave, atmosfera pastel sonhadora, fotografia de beleza etérea, textura de pele realista, realces quentes, sutil granulação de filme, profundidade de campo rasa, editorial de moda premium, altamente fotorrealista, composição vertical, proporção 4:5.
+
+Crie um retrato editorial sonhador de uma jovem com longos cabelos pretos ondulados penteados com duas tranças finas emoldurando o rosto. Ela usa grandes brincos de argola dourados e uma delicada camisola branca com acabamento em renda. Ela é mostrada em close-up de perfil três-quartos, olhando ligeiramente para cima e para o lado com uma expressão suave e confiante. Seu rosto e parte superior do corpo são iluminados por vívidas projeções de luz arco-íris, criando ondas fluidas de rosa, roxo, azul, verde, amarelo e laranja sobre sua pele, cabelo e roupa. Os mesmos padrões coloridos de ondas abstratas continuam pela parede neutra atrás dela, com uma suave sombra de seu perfil projetada na parede. Pele natural brilhante, maquiagem sutilmente luminosa, delineado alado nítido, cílios longos, lábios brilhantes, delicados brincos de cruz pendentes. Fotografia criativa sonhadora inspirada nos anos 90, iluminação suave e difusa, vibrantes cores neon pastel, fotografia artística de projeção, composição cinematográfica, textura de pele realista, profundidade de campo rasa, alto detalhe, estética editorial de moda, retrato vertical, proporção 4:5.
 ```
 
 </details>
@@ -2399,7 +2291,7 @@ Um retrato de estúdio profissional em preto e branco de uma jovem confiante com
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HPnZHo1XgAAYZDt.jpg" width="700" alt="Retrato de Estúdio em Preto e Branco">
+<img src="https://image.moge.ai/prompt_media/HP1nUVFbsAA7lyh.jpg" width="700" alt="Retrato Editorial em Luz Arco-Íris">
 </div>
 
 <br>
@@ -2408,13 +2300,13 @@ Um retrato de estúdio profissional em preto e branco de uma jovem confiante com
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Minahil](https://x.com/Minahil42298354) | [X / Twitter](https://x.com/Minahil42298354/status/2087938645583929831) | 2026-08-13 |
+| [Soulful Ai](https://x.com/soulful__ai) | [X / Twitter](https://x.com/soulful__ai/status/2088939605697642767) | 2026-08-16 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2087938645583929831)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2088939605697642767)**
 
 </div>
 
@@ -2492,69 +2384,23 @@ nomes de marcas reais, texto de slogan copiado, tipografia copiada, marca d'águ
 
 ---
 
-### No. 32: Pôster de Exposição Cultural com Tensão Diagonal
+### No. 32: Invocador de Dragão de Fogo Mágico
 
 ![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
 
 #### 📚 Descrição
 
-Cria um pôster editorial de exposição cultural 9:16 com um eixo diagonal oculto, texturas de papel em camadas, tipografia chinesa marcante e um único padrão temático por peça.
+Cena mística de um mago diante de um caldeirão do qual se ergue um dragão de fogo feito de fumaça e brasas brilhantes na escuridão.
 
 #### 🌟 Prompt
 
-Projete um pôster de exposição cultural vertical 9:16, com uma estética geral de Editorial Graphic Design / …
+Uma cena mística com uma figura vestindo um manto esvoaçante amarelo vibrante e esfarrapado, de pé diante de …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Projete um pôster de exposição cultural vertical 9:16, com uma estética geral de Editorial Graphic Design / publicação de arte contemporânea.
-
-【Tema】：____
-【Título em chinês】：____
-【Título em inglês】：____
-【Visual principal】：____
-【Padrão auxiliar】：____
-【Cor principal】：____
-【Cor secundária】：____
-【Data / Instituição】：____
-
-Use como núcleo uma composição de "potencial diagonal", mas não desenhe linhas diagonais óbvias.
-
-Primeiro defina um eixo visual diagonal oculto, fazendo com que o peso visual do visual principal, do título em chinês, do padrão, das informações de data e do espaço em branco avance gradualmente na mesma direção.
-
-O visual principal carrega o peso principal; o grande título em chinês deve participar da diagramação, podendo ser desalinhado, vertical, parcialmente cortado ou levemente entrelaçado com o motivo; o título em inglês, a data e as informações da instituição devem ser reduzidos e concentrados em 2–3 áreas, formando uma hierarquia de corpo evidente.
-
-Cada peça usa apenas um sistema de padrão auxiliar, relacionado ao próprio tema, por exemplo impressão sonora, dobra de mapa, decalque de objeto ou decalque botânico. Não adicione vários conjuntos de elementos decorativos apenas para enriquecer.
-
-O fundo também deve participar do design: use textura de papel de arte, resíduos de padrão muito sutis, plantas técnicas, informações de espécimes ou texturas de materiais, dando camadas ao espaço em branco, mas mantendo a clareza de longe.
-
-A densidade de informação é média-alta, mas deve haver hierarquia:
-primeiro olhar: a composição e o motivo;
-segundo olhar: o título em chinês e o padrão;
-terceiro olhar: o inglês, a data e as informações auxiliares.
-
-Controle a cor em 3–4 cores principais, criando tensão por escala, corte, sobreposição, densidade e espaço em branco.
-
-Efeito geral: pôster de exposição cultural, design editorial, sensação de publicação impressa madura, rico mas não confuso, com potencial diagonal presente naturalmente — sem organizar elementos apenas para parecer "diagonal".
-
-4 casos substituíveis:
-
-1. Eco de Marés
-Visual principal: maré orgânica / forma mineral em preto e branco
-Padrão: impressão sonora concêntrica Moiré índigo
-
-2. Dobras da Cidade
-Visual principal: caderno dobrável de observação feito de esboços urbanos a caneta
-Padrão: dobra de mapa amarelo-mostarda + malha viária urbana muito sutil
-
-3. Charme dos Vasos Orientais
-Visual principal: grande vaso de bronze
-Padrão: motivos taotie, padrões de nuvem-e-trovão e decalques de inscrições que se estendem da superfície do objeto
-
-4. Voo Noturno entre os Galhos
-Visual principal: galho velho + melro preto
-Padrão: grande decalque de folhas botânicas em ocre claro
+Uma cena mística com uma figura vestindo um manto esvoaçante amarelo vibrante e esfarrapado, de pé diante de um grande caldeirão, lançando ingredientes mágicos brilhantes nele. Do caldeirão, um magnífico dragão de fogo feito de fumaça e nuvens giratórias e brilhantes se ergue, iluminando o espaço escuro ao redor. O dragão de fogo forma uma forma circular, exalando uma energia mágica etérea, com partículas de luz e brasas incandescentes preenchendo a cena. O ambiente é escuro, com a única iluminação vindo da energia mágica brilhante e do dragão. A imagem transmite uma sensação de maravilha e misticismo.
 ```
 
 </details>
@@ -2562,7 +2408,7 @@ Padrão: grande decalque de folhas botânicas em ocre claro
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HPxg766WkAAd6xy.jpg" width="700" alt="Pôster de Exposição Cultural com Tensão Diagonal">
+<img src="https://image.moge.ai/prompt_media/HP1pKQcXcAAE_oZ.jpg" width="700" alt="Invocador de Dragão de Fogo Mágico">
 </div>
 
 <br>
@@ -2571,13 +2417,13 @@ Padrão: grande decalque de folhas botânicas em ocre claro
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2088651143970722204) | 2026-08-15 |
+| [MO](https://x.com/MO_IAI) | [X / Twitter](https://x.com/MO_IAI/status/2088941476508061905) | 2026-08-16 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2088651143970722204)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2088941476508061905)**
 
 </div>
 
@@ -2774,60 +2620,105 @@ Crie uma encantadora ilustração de diorama em miniatura 3D de papel e argila d
 
 ---
 
-### No. 36: Capas de Registro de Campo em Menta
+### No. 36: Editorial de Noiva Estilo Coreano
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Retratos cinematográficos em fundo cinza-malva único, com tipografia menta condensada e códigos de arquivo eclipsados pela cabeça do sujeito.
+Gera um retrato editorial de noiva no estilo coreano com vestido de renda branco, joias de pérola e tipografia condensada gigante de capa de revista de moda.
 
 #### 🌟 Prompt
 
-{ "style\_name": "Capas de Registro de Campo", "style\_slug": "mint-on-mauve-archive-portrait", "canvas": …
+Jovem mulher adulta, editorial de revista de noiva estilo coreano de luxo, temperamento doce e sereno, traços …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-{
-  "style_name": "Capas de Registro de Campo",
-  "style_slug": "mint-on-mauve-archive-portrait",
-  "canvas": "retrato 4:5, sangria total, campo único cinza-malva dessaturado #6E6672 — uma parede de estúdio lisa ou céu ao entardecer, sem textura, sem banding de gradiente",
-  "color": {
-    "field": "cinza-malva #6E6672, travado em UM único valor em todo o conjunto",
-    "accent": "menta primavera #7FE68D — a única cor saturada em qualquer lugar",
-    "skin": "luz principal âmbar quente contra o ambiente frio; manter brilho natural, suor, poros",
-    "wardrobe": "azul-marinho, oliva, ferrugem, carvão, prata suaves — nada que compita com o menta",
-    "rule": "duas cores: malva e menta. Todo o resto é pele e tecido."
-  },
-  "typography": {
-    "wordmark": "uma palavra, sans pesada ultracondensada, TODAS MAIÚSCULAS, menta, ocupando toda a largura no topo, cortada pelas duas bordas do quadro; a cabeça SEMPRE eclipsa 2–3 letras",
-    "stack": "3–4 linhas de maiúsculas condensadas menta à esquerda, na altura média — um código, um lugar, uma hora, um número de arquivo; um item por linha, entrelinha generosa, sem pontuação",
-    "glyph": "uma pequena marca menta abaixo da pilha: círculo vazado / quadrado preenchido / mais / estrela de quatro pontas",
-    "foot_log": "4–6 linhas de minúsculas maiúsculas menta na base — LOCAL / GRAVADOR / FORMATO / DATA / NOTAS; cada pôster tem uma, no canto esquerdo ou direito"
-  },
-  "photography": {
-    "framing": "do peito para cima, sujeito ligeiramente descentralizado, três quartos ou quase de perfil, olhos para cima e longe da lente",
-    "light": "preenchimento ambiente frio mais luz principal quente e dura de lado; realces especulares mantidos na pele, nunca retocados",
-    "gesture": "o sujeito segura um objeto perto do rosto e o ESTUDA — lendo, ouvindo, inspecionando; nunca apresentando à câmera",
-    "casting": "espalhar bem as idades — dos vinte aos setenta; rostos marcados pelo tempo",
-    "background_props": "no máximo uma pista suave e desfocada — um mapa, um mastro de antena, uma emenda de parede"
-  },
-  "design_rules": [
-    "o wordmark nunca é totalmente legível; a oclusão é a assinatura",
-    "uma cor de destaque, um valor de fundo — resista a adicionar uma segunda em qualquer lugar",
-    "cada texto é um registro: um índice, uma hora, uma coordenada, um formato. Sem slogans na pilha.",
-    "o objeto segurado nomeia a disciplina sem legenda"
-  ],
-  "swap_variables": {
-    "discipline": "cerâmica / gravação de campo / levantamento botânico / registro do céu noturno",
-    "wordmark": "VESSEL / RESONANCE / SPECIMEN / AFTERGLOW",
-    "stack": "STUDIO INDEX·FIRING 04·CLAY + COBALT / TAPE 031·ROOM TONE·18:20·ARCHIVE B / ALTITUDE 1840·SURVEY 12·EAST RIDGE·FILE 09 / FIELD NOTES·23:40·NORTH DECK·EDITION 07",
-    "glyph": "círculo / quadrado / mais / estrela",
-    "logged_object": "tigela vidrada em cobalto / microfone de fita / samambaia prensada em envelope / carta celeste transparente"
-  }
-}
+Jovem mulher adulta, editorial de revista de noiva estilo coreano de luxo, temperamento doce e sereno, traços delicados e naturais, rosto pequeno e suave, leve aparência mestiça mantendo uma estética oriental natural, pele clara e translúcida, textura de pele real e delicada, leve blush, lábios rosados nude hidratados, olhos naturais castanho-escuros, cílios longos, maquiagem de olhos limpa e suave, sem retoque exagerado, sem pele plástica.
+
+Cabelo longo preto ou castanho-escuro, que pode variar entre solto natural, ondas suaves, coque baixo ou meio preso, mantendo fios soltos naturais e textura real do cabelo em cada imagem. Usa brincos de pérola, colar de pérolas, enfeite de camélia branca, fita branca ou laço de renda e outros acessórios delicados.
+
+A modelo veste um vestido de noiva branco de alta-costura, predominando marfim e creme. As roupas podem variar entre vestido tomara-que-caia de renda branca, vestido com luvas longas de renda bordada, vestido acetinado de ombro único, vestido com padrões florais em relevo. O tecido tem brilho real de seda, textura de renda, pequenas contas e leves paetês. Combina com um longo e leve véu de noiva branco; algumas imagens incluem chapéu vintage branco de aba larga, colar longo de pérolas e enfeites florais brancos.
+
+As poses são naturais e elegantes, mas diferentes em cada foto: apoiar suavemente o queixo; palma perto da bochecha; uma mão no ombro; ambas as mãos ajeitando o véu; dedos segurando a borda do véu; corpo levemente de lado olhando para a câmera; olhar levemente para o lado; sorriso olhando para a câmera; leve riso com a cabeça baixa; sentada abraçando um buquê vintage; ombros levemente erguidos formando um ar jovial.
+
+Evite que todas as fotos tenham o mesmo olhar, a mesma pose e a mesma expressão. O olhar deve variar: para a câmera, de lado, cabeça levemente baixa, olhar por cima do ombro, pensativo, sorriso natural. A modelo não pode ter rosto rígido de robô, sorriso estranho, olhos excessivamente abertos, dedos estranhos ou postura corporal não natural.
+
+O cenário é principalmente um espaço fotográfico de noiva sofisticado e simples, variando entre estúdio bege creme, parede cinza quente, fundo interno castanho-escuro e sala vintage de madeira. Algumas imagens incluem piano de madeira, toalha de renda, flores frescas, janelas, recipientes de vidro, móveis vintage e vegetação verde do lado de fora, formando o clima de uma sala de preparação de casamento vintage europeia.
+
+A fotografia usa retrato de revista de moda de alto nível, principalmente plano médio-próximo, meio corpo e plano médio sentado, com a modelo ao centro ou levemente ao lado. Textura de lente retrato 50mm / 85mm, leve profundidade de campo, fundo não excessivamente desfocado.
+
+A luz é um flash suave combinado com luz natural interna. O fundo creme usa flash frontal suave, com o rosto claro e limpo e sombras suaves; a versão de fundo preto usa flash direto leve, formando uma estética de grande foto de moda em filme vintage. Mantenha leve granulação, ruído fraco e realces reais, sem HDR excessivo.
+
+Paleta geral: creme; cinza quente; marfim; caqui claro; castanho-escuro; baixa saturação; leve granulação de filme vintage; realces suaves; tom de pele limpo; textura de amostra de noiva coreana; sofisticado mas não excessivamente comercial.
+
+Proporção 4:5, composição vertical de capa de revista.
+
+O design de layout usa o estilo de capa de revista de moda coreana de luxo.
+
+No topo da imagem, adicione uma linha horizontal branca muito fina à esquerda e à direita, com pequeno texto em inglês no meio:
+
+SUMMER 2026
+
+Fonte sem serifa toda em maiúsculas, espaçamento extra largo, fonte pequena e contida.
+
+Sobreponha ao fundo um enorme texto inglês sem serifa super grosso e estreito:
+
+ECLIPSE
+
+Fonte em creme ou marfim, letras extremamente altas e estreitas, tamanho gigante, estendendo-se do topo ao meio ou até a base, ocupando cerca de 50%–70% da área visual de fundo. Algumas letras propositalmente ultrapassam as bordas laterais e são cortadas; a modelo fica à frente do texto gigante ou parcialmente sobreposta a ele, formando uma forte hierarquia de revista de moda.
+
+O título gigante pode se repetir em duas camadas:
+
+ECLIPSE
+ECLIPSE
+
+com a modelo entre os dois blocos de texto gigante.
+
+A cabeça ou o corpo da modelo pode cobrir parte das letras, mas o texto ainda deve ser legível, criando o efeito de entrelaçamento entre pessoa e tipografia de capa de revista.
+
+Na parte superior ou perto da cabeça, adicione uma linha de pequeno texto inglês de espaçamento extra largo:
+
+ECLIPSE 2026 SEASON’S GREETINGS
+
+ou dividido em dois lados:
+
+ECLIPSE 2026        SEASON’S GREETINGS
+
+No canto inferior esquerdo, adicione uma grande assinatura manuscrita branca em inglês:
+
+Elise
+
+Fonte fina, longa, fluida e elegante, como a assinatura de um editor de moda, acompanhada de algumas curvas brancas finas e livres.
+
+Abaixo da assinatura, texto pequeno em negrito sem serifa:
+
+2026 Summer
+Season
+GREETINGS
+
+No canto inferior direito, adicione um enorme número vazado estreito:
+
+#05
+
+O número usa apenas contorno branco fino, sem preenchimento, tamanho gigante, parcialmente ultrapassando a direita e a base sendo cortado.
+
+Adicione ainda algumas linhas decorativas brancas muito finas: linhas de trajetória em arco; curvas livres desenhadas à mão; setas finas e longas; pequenas estrelas de quatro pontas; raios de estrela; trajetórias circulares; poucos pontos de luz minimalistas.
+
+Essas linhas atravessam a modelo e o fundo, mas devem ser contidas e não cobrir os traços do rosto.
+
+No fundo da imagem, adicione texto decorativo tipo copyright em fonte muito pequena, como elemento de layout de revista, por exemplo:
+
+© 2026 ECLIPSE ENTERTAINMENT
+ALL RIGHTS RESERVED
+
+O conjunto forma uma capa de revista de moda coreana sofisticada, limpa, contida e com bastante espaço em branco.
+
+Palavras-chave: Korean bridal editorial photography; luxury wedding fashion magazine; editorial portrait; cream beige aesthetic; oversized condensed typography; high fashion magazine cover; bridal couture; soft flash photography; vintage film grain; minimal typography; editorial graphic design; white lace wedding dress; pearl jewelry; romantic veil; warm neutral tones; fashion campaign photography.
+
+Proibido: traços faciais distorcidos; rosto excessivamente influencer; retoque exagerado; pele plástica; olhar estranho; estrabismo; expressão idêntica em todas as fotos; poses rígidas; dedos extras; deformação das mãos; véu atravessando o corpo; pérolas fundidas; texto ilegível; erros de ortografia em inglês; baixa nitidez; superexposição; HDR forte; estilo barato de estúdio; filtro pesado; poses excessivamente sensuais; fundo bagunçado; marca d'água de logo.
 ```
 
 </details>
@@ -2835,7 +2726,7 @@ Retratos cinematográficos em fundo cinza-malva único, com tipografia menta con
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HPm7QUfXQAAKG_1.jpg" width="700" alt="Capas de Registro de Campo em Menta">
+<img src="https://image.moge.ai/prompt_media/HP0B99mbYAAOkxs.jpg" width="700" alt="Editorial de Noiva Estilo Coreano">
 </div>
 
 <br>
@@ -2844,13 +2735,13 @@ Retratos cinematográficos em fundo cinza-malva único, com tipografia menta con
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Vigo Zhao](https://x.com/VigoCreativeAI) | [X / Twitter](https://x.com/VigoCreativeAI/status/2087905794243064316) | 2026-08-13 |
+| [serein](https://x.com/you1873118) | [X / Twitter](https://x.com/you1873118/status/2088827979451523321) | 2026-08-16 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2087905794243064316)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2088827979451523321)**
 
 </div>
 
@@ -2923,89 +2814,83 @@ Qualidade: fotorrealista, ultradetalhada, cinematográfica, comercialmente polid
 
 #### 📚 Descrição
 
-Cria um pôster de viagem vertical 4:5 com estética de serigrafia artesanal, silhuetas de marcos icônicos da cidade e tipografia manual em papel envelhecido.
+Cria um pôster de viagem vertical 4:5 no estilo linóleo/serigrafia artesanal, capturando a identidade única de uma cidade com marcos e cenas do cotidiano.
 
 #### 🌟 Prompt
 
-Crie um pôster de viagem vintage vertical 4:5 premium para [CIDADE], [PAÍS], concebido como uma elegante …
+Crie um pôster de viagem vintage vertical 4:5 premium para [CITY], [COUNTRY], inspirado na serigrafia …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Crie um pôster de viagem vintage vertical 4:5 premium para [CIDADE], [PAÍS], concebido como uma elegante colagem contemporânea de serigrafia / linóleo impressa à mão em papel de arquivo quente e texturizado.
+Crie um pôster de viagem vintage vertical 4:5 premium para [CITY], [COUNTRY], inspirado na serigrafia clássica, ilustração em linóleo, gráficos editoriais retrô e pôsteres de viagem europeus feitos à mão.
 
-DIREÇÃO DE ARTE
+Construa uma composição completamente original que capture a personalidade de [CITY] em vez de simplesmente organizar marcos famosos.
 
-Crie um pôster artístico que pareça retirado de um antigo arquivo de viagens europeu, mas redesenhado com uma composição moderna sofisticada. Use silhuetas ousadas e simplificadas, bordas impressas à mão imperfeitas, sutil desgaste de tinta, pequenas imperfeições de registro, fibras de papel ásperas e formas em camadas táteis.
+Use um fundo de papel creme envelhecido e quente com fibras de papel visíveis, manchas sutis, tinta desgastada, bordas de impressão irregulares e textura autêntica feita à mão.
 
-A composição deve parecer gráfica, encantadora, nostálgica e instantaneamente reconhecível, com a cidade apresentada como uma história visual, e não como uma coleção de marcos aleatórios.
+CONCEITO VISUAL
 
-COMPOSIÇÃO
+Crie uma forte narrativa visual central representando [CITY].
 
-Coloque um grande e expressivo “[CIDADE]” letrado à mão na porção central do pôster.
+Integre de 2 a 4 marcos reconhecíveis ou elementos arquitetônicos naturalmente ao ambiente, junto com detalhes cotidianos que dão vida à cidade:
 
-Atrás e ao redor da tipografia, disponha silhuetas simplificadas de 5–7 elementos icônicos de [CIDADE], criando profundidade por meio de camadas sobrepostas:
+transporte local
+ruas e edifícios característicos
+cafés e lojas
+placas de rua
+comida ou objetos locais
+pedestres e ciclistas
+árvores e paisagem ao redor
+detalhes culturalmente distintos
 
-[MARCO 1]
-[MARCO 2]
-[MARCO 3]
-[MARCO 4]
-[ARQUITETURA LOCAL]
-[ELEMENTO NATURAL]
-[SÍMBOLO CULTURAL]
+Evite que os marcos pareçam adesivos flutuantes ou uma lista de verificação. Tudo deve parecer pertencer a uma única cena contínua.
 
-Não faça todos os marcos do mesmo tamanho. Use uma hierarquia editorial: um marco dominante, vários marcos secundários e pequenos detalhes atmosféricos.
+PALETA DE CORES
 
-Adicione um elemento de transporte local reconhecível cruzando o primeiro plano inferior — como um ônibus vermelho de dois andares, táxi amarelo, bonde, tuk-tuk, trem de metrô, bicicleta, gôndola, barco ou automóvel vintage — dependendo da identidade da cidade.
+Use uma paleta limitada e sofisticada:
 
-ESTILO VISUAL
+marfim quente + carvão/preto + uma cor de destaque característica associada a [CITY].
 
-Use uma paleta contida de papel marfim quente + tinta carvão/preto profundo + uma cor característica cuidadosamente escolhida associada à cidade.
-
-A arte deve parecer genuinamente impressa, e não renderizada digitalmente:
-
-grão de papel visível
-absorção natural de tinta
-textura de serigrafia desgastada
-cobertura de tinta levemente irregular
-pequenas imperfeições nas bordas
-sutil desalinhamento de registro
-contornos de papel recortado à mão
-tipografia imperfeita, mas bela
-sem efeitos digitais brilhantes
-sem fotorrealismo
-sem gradientes excessivos
+Mantenha a cor de destaque seletiva e poderosa em vez de cobrir toda a obra.
 
 TIPOGRAFIA
 
-Torne [CIDADE] o centro visual.
+Integre uma tipografia grande, ousada e impressa à mão na composição:
 
-Use lettering de exibição ousado, superdimensionado e recortado à mão, com contornos orgânicos irregulares. Permita que a tipografia se sobreponha parcialmente aos marcos, criando uma composição de pôster integrada.
+[CITY]
 
-Adicione uma pequena linha discreta abaixo:
+Adicione uma pequena frase secundária que reflita o caráter da cidade:
 
-[PAÍS] · [FRASE CURTA DA CIDADE]
+[SHORT CITY PHRASE]
 
-Mantenha a tipografia secundária mínima e elegante.
+A tipografia deve parecer imperfeita, serigrafada, levemente desgastada e organicamente integrada à obra.
 
-ATMOSFERA
+ESTILO ARTÍSTICO
 
-Inclua pequenos detalhes de narrativa visual que façam a cidade parecer habitada: pequenos pássaros, nuvens, telhados, lampiões, árvores, janelas, pedestres, bandeiras, bicicletas, reflexos na água ou padrões arquitetônicos sutis.
+linóleo vintage
+serigrafia feita à mão
+ilustração de pôster de viagem retrô
+textura de tinta áspera
+grão de meio-tom desgastado
+registro imperfeito
+bordas cortadas à mão
+silhuetas fortes
+perspectiva expressiva
+imperfeições sutis do papel
+espaço negativo sofisticado
+estética de livro de arte editorial
 
-Evite a poluição visual. Cada elemento deve parecer intencionalmente posicionado.
+Faça a obra parecer uma rara estampa de viagem colecionável, combinando nostalgia com design gráfico contemporâneo.
 
-COR E MATERIAL
+IMPORTANTE
 
-Fundo marfim envelhecido e quente, tinta carvão profunda e uma única cor de destaque sofisticada. O papel deve ter fibras sutis, grão leve, bordas ligeiramente mais escuras e a aparência de uma impressão vintage lindamente preservada.
+Não reproduza simplesmente um pôster turístico tradicional.
 
-RESULTADO FINAL
+Não use uma colagem genérica de marcos, fotorrealismo, renderização 3D brilhante, cores excessivas, gradientes ou gráficos digitais excessivamente limpos.
 
-A arte finalizada deve lembrar um raro pôster de viagem vintage descoberto em um antigo arquivo de design, combinando o charme clássico dos pôsteres de viagem com o design gráfico contemporâneo.
-
-Marcos da cidade altamente reconhecíveis, espaço negativo elegante, tipografia artesanal ousada, composição sofisticada, textura tátil de impressão, bordas de tinta imperfeitas, papel de arquivo, estética editorial artística, design de pôster colecionável premium, atemporal em vez de turístico.
-
-Sem edifícios fotorrealistas, sem renderização 3D, sem efeitos brilhantes, sem estética publicitária moderna, sem excesso de texto, sem marcos genéricos que não pertençam à cidade.
+A composição final deve ser ousada, artística, levemente inesperada, altamente reconhecível, culturalmente autêntica e visualmente sofisticada, com a identidade única de [CITY] imediatamente aparente.
 ```
 
 </details>
@@ -3013,7 +2898,7 @@ Sem edifícios fotorrealistas, sem renderização 3D, sem efeitos brilhantes, se
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HPxWxuhaIAAzFCW.jpg" width="700" alt="Pôster de Viagem Vintage da Cidade">
+<img src="https://image.moge.ai/prompt_media/HP1TdyDb0AELsVq.jpg" width="700" alt="Pôster de Viagem Vintage da Cidade">
 </div>
 
 <br>
@@ -3022,13 +2907,13 @@ Sem edifícios fotorrealistas, sem renderização 3D, sem efeitos brilhantes, se
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [simeon-sanai](https://x.com/Naiknelofar788) | [X / Twitter](https://x.com/Naiknelofar788/status/2088639773900759489) | 2026-08-15 |
+| [simeon-sanai](https://x.com/Naiknelofar788) | [X / Twitter](https://x.com/Naiknelofar788/status/2088918226902409478) | 2026-08-16 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2088639773900759489)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2088918226902409478)**
 
 </div>
 
@@ -3485,23 +3370,51 @@ Uma foto de produto com figuras e blind boxes lado a lado. Figuras já abertas m
 
 ---
 
-### No. 42: Retrato de Mulher com Joias Douradas
+### No. 42: Capa de Revista de Moda Editorial
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Retrato dramático e elegante de uma mulher com olhos azuis, batom vermelho e delicadas joias douradas sob luz e sombra naturais.
+Cria uma capa de revista de moda premium com um retrato editorial cinematográfico de uma jovem elegante, título, data e três manchetes curtas.
 
 #### 🌟 Prompt
 
-Um retrato em close-up de uma mulher de cabelos escuros e impressionantes olhos azuis, olhando para cima com …
+SUJEITO: Uma jovem impressionante com longos cabelos pretos brilhantes, traços elegantes e uma presença …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Um retrato em close-up de uma mulher de cabelos escuros e impressionantes olhos azuis, olhando para cima com uma expressão pensativa. Ela usa um batom vermelho escuro fosco e marcante, e delicados brincos de corrente pendentes com pequenas pérolas e um pequeno formato de diamante. Sua mão direita está erguida perto do rosto, projetando sombras naturais sobre suas feições, e ela usa uma pulseira de filigrana de ouro larga e intrincada, adornada com pequenos diamantes e minúsculas gemas azuis no pulso. A iluminação captura detalhes finos da textura da pele e a interação entre luz e sombra, criando uma composição dramática e elegante.
+SUJEITO:
+Uma jovem impressionante com longos cabelos pretos brilhantes, traços elegantes e uma presença editorial confiante.
+
+Crie UMA capa de revista premium.
+
+Construa um poderoso retrato editorial destacando sua confiança, sofisticação e beleza atemporal.
+
+ESTILO:
+Fotografia de qualidade Vogue, iluminação de beleza cinematográfica, paleta sofisticada de marfim quente, preto e dourado suave, composição de luxo, textura de pele impecável mas natural, leve granulação de filme, estilização refinada, profundidade de campo rasa, fotografia de moda premium, espaço negativo elegante, fotorrealista 8K.
+
+TÍTULO DA REVISTA:
+VOGUE
+
+DATA DA EDIÇÃO:
+AGOSTO DE 2026
+
+MANCHETES:
+The New Elegance
+Beauty Without Limits
+Inside Her World
+
+Inclua apenas:
+Título da revista, data da edição e exatamente três manchetes curtas.
+
+Evite:
+Texto extra, logotipos, legendas, gráficos excessivos, desordem, múltiplos sujeitos.
+
+Resultado final:
+Uma capa de revista de moda premium em orientação retrato, qualidade editorial cinematográfica, fotorrealista, 8K.
 ```
 
 </details>
@@ -3509,7 +3422,7 @@ Um retrato em close-up de uma mulher de cabelos escuros e impressionantes olhos 
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HPg1HoiX0AASr-m.jpg" width="700" alt="Retrato de Mulher com Joias Douradas">
+<img src="https://image.moge.ai/prompt_media/HPupuX_bUAAazPY.jpg" width="700" alt="Capa de Revista de Moda Editorial">
 </div>
 
 <br>
@@ -3518,13 +3431,13 @@ Um retrato em close-up de uma mulher de cabelos escuros e impressionantes olhos 
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Minahil](https://x.com/Minahil42298354) | [X / Twitter](https://x.com/Minahil42298354/status/2087476843037253696) | 2026-08-12 |
+| [Zephyra Leigh](https://x.com/ZephyraLeigh) | [X / Twitter](https://x.com/ZephyraLeigh/status/2088449484485501309) | 2026-08-15 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2087476843037253696)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2088449484485501309)**
 
 </div>
 
@@ -3617,40 +3530,24 @@ nomes de marcas reais, logo copiado, texto copiado, slogans excessivos, mão dis
 
 ---
 
-### No. 44: Pôster de Viagem Vintage em Colagem
+### No. 44: Mundo em Miniatura Editorial Ilustrado
 
 ![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
 
 #### 📚 Descrição
 
-Cria um elegante pôster de viagem vertical 4:5 de uma cidade, no estilo de colagem de papel artesanal com paleta pastel suave e textura vintage.
+Reinterpreta o tema como uma composição editorial estilizada que funde ilustração de linha granulada, miniaturas pastel e cenas de mesa em uma impressão artística de paleta limitada.
 
 #### 🌟 Prompt
 
-Crie um pôster de viagem vintage vertical premium 4:5 para [CITY], [COUNTRY], concebido como uma elegante …
+grade 2x2, 1:1, faça isto para 4 livros famosos &lt;transformation&gt; - Preserve a estrutura reconhecível do tema, …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Crie um pôster de viagem vintage vertical premium 4:5 para [CITY], [COUNTRY], concebido como uma elegante colagem de papel feita à mão.
-
-Use um fundo de papel marfim envelhecido e quente com fibras sutis, granulação suave, bordas impressas ligeiramente imperfeitas e formas de papel recortado em camadas. Construa a cidade a partir de silhuetas arquitetônicas simplificadas mas reconhecíveis, pontos de referência, telhados, ruas, árvores, montanhas, água e elementos culturais locais.
-
-Use uma paleta pastel sofisticada e suave: azul empoeirado, terracota desbotado, verde sálvia, creme quente, pêssego suave e ocre delicado. Adicione sutis imperfeições de impressão vintage, sombras de papel suaves, leve desvanecimento de tinta e texturas táteis feitas à mão.
-
-A composição deve parecer um pôster de viagem europeu de meados do século lindamente projetado, com forte hierarquia visual e amplo espaço negativo.
-
-No topo, coloque uma tipografia elegante:
-[CITY]
-[COUNTRY]
-
-Na parte inferior, adicione uma pequena linha discreta:
-A JOURNEY THROUGH [COUNTRY]
-
-Faça a cidade instantaneamente reconhecível mantendo a arte artística em vez de fotorrealista. Evite clichês turísticos genéricos. O resultado geral deve parecer um pôster de viagem de papel vintage colecionável, sofisticado, nostálgico, editorial, minimalista e premium.
-
-Composição vertical 4:5, layout centralizado, bordas nítidas de papel recortado, profundidade em camadas, sombras sutis, textura de impressão vintage autêntica, sem fotorrealismo, sem aparência renderizada em 3D, sem desordem.
+grade 2x2, 1:1, faça isto para 4 livros famosos
+<transformation> - Preserve a estrutura reconhecível do tema, mas reinterprete-a como uma composição editorial estilizada onde o desenho e a lógica de um mundo de objetos em miniatura coexistem. - Converta algumas formas em ilustração de linha granulada e esparsa, enquanto converte outras formas em miniaturas pastel suaves ou objetos de natureza-morta. - Reinterprete áreas ricas em textura ou detalhadas como pequenos aglomerados de plantas, adereços, recipientes, fragmentos de terreno ou motivos decorativos de micromundo. - Converta superfícies lisas em campos de cor pastel foscos, usando traços gráficos para descrever bordas, volume e textura seletivamente. - Reduza a complexidade a um sistema de cores limitado com um tom de tinta gráfica dominante e algumas cores pastel de apoio discretas. - Substitua o realismo profundo por clareza de pôster, tatilidade de impressão em papel e arranjo de mesa curado. - Permita que o tema pareça parcialmente desenhado e parcialmente encenado fisicamente, criando uma ambiguidade deliberada entre ilustração e objeto. - Use espaço negativo e composição esparsa para manter a imagem limpa, moderna e altamente legível. </transformation> <shape_language> - Favoreça recipientes simples, objetos arredondados, folhas, caules, seixos, silhuetas de mesa, aglomerados em miniatura e formas abstratas limpas. - Use uma mistura de áreas de contorno plano e acentos escultóricos suaves de baixo relevo. - Mantenha a repetição rítmica e decorativa. - Deixe os pequenos detalhes parecerem intencionais e editoriais, e não atarefados. </shape_language> <rendering_rules> - Use marcas visivelmente granuladas, impressas ou tipo giz de cera para linhas e acentos de textura. - Mantenha as formas volumétricas suaves, simplificadas e pastel. - Limite a paleta agressivamente para um visual desenhado e adequado à impressão. - Use profundidade espacial rasa com sutis toques de diorama. - Faça o resultado final parecer uma estampa artística, uma ilustração de revista e um cenário em miniatura ao mesmo tempo. </rendering_rules> <finish> - Híbrido editorial gráfico de paleta limitada. - Textura de gravura fundida com encenação suave de um mini-mundo pastel. - Inteligente, moderno, colecionável e discretamente distinto. </finish> <avoid> - Evite renderização fotorrealista. - Evite perspectiva cinematográfica profunda ou realismo forte. - Evite sobrecarregar com muitos detalhes minúsculos. - Evite usar cores demais; mantenha controlado e desenhado. </avoid>
 ```
 
 </details>
@@ -3658,7 +3555,7 @@ Composição vertical 4:5, layout centralizado, bordas nítidas de papel recorta
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HPwdhIPbkAAPgsU.jpg" width="700" alt="Pôster de Viagem Vintage em Colagem">
+<img src="https://image.moge.ai/prompt_media/HPcR1kKWMAAbQl5.jpg" width="700" alt="Mundo em Miniatura Editorial Ilustrado">
 </div>
 
 <br>
@@ -3667,13 +3564,13 @@ Composição vertical 4:5, layout centralizado, bordas nítidas de papel recorta
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [simeon-sanai](https://x.com/Naiknelofar788) | [X / Twitter](https://x.com/Naiknelofar788/status/2088576795956429004) | 2026-08-15 |
+| [Gadgetify](https://x.com/Gdgtify) | [X / Twitter](https://x.com/Gdgtify/status/2088893523743388077) | 2026-08-16 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2088576795956429004)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2088893523743388077)**
 
 </div>
 
@@ -3952,39 +3849,24 @@ Use uma imagem fornecida para criar uma ilustração de mangá full-color de pá
 
 ---
 
-### No. 48: Editorial Vintage no Diner dos Anos 90
+### No. 48: Pirâmides de Gizé sob o Céu Noturno
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Retrato cinematográfico e fotorrealista de uma mulher com telefone vintage num diner retrô americano, com moda dos anos 90 e tipografia de revista desgastada.
+Uma foto ampla e cinematográfica das pirâmides de Gizé sob um céu estrelado, com um beduíno e um camelo em silhueta no deserto, em tom azul retrô.
 
 #### 🌟 Prompt
 
-Crie uma fotografia de moda editorial vintage, fotorrealista e cinematográfica, de uma jovem adulta com …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
 ```
-Crie uma fotografia de moda editorial vintage, fotorrealista e cinematográfica, de uma jovem adulta com longos cabelos pretos despenteados e franjas esvoaçantes, sentada dentro de um diner americano retrô, escuro e nostálgico. Ela segura um telefone com fio vintage cor creme, com o cabo encaracolado caindo naturalmente pelo quadro.
-
-Ela veste uma baby tee creme justa com estampa de carro vintage vermelho, uma minissaia bordô com babados, meias 7/8 de renda branca e tênis retrô vermelho e branco. Expressão calma e sonhadora, contato visual sutil, atitude editorial de moda dos anos 90 sem esforço.
-
-Armários de madeira escura, azulejos com padrões vintage, discos de vinil, revistas antigas, memorabilia da Coca-Cola, pipoca e petiscos retrô preenchem o fundo. Iluminação de tungstênio quente, sombras profundas, flash sutil, textura de pele realista, grão de filme analógico 35mm, tons marrons suaves, contraste cinematográfico, atmosfera vintage autêntica.
-
-Adicione tipografia de revista off-white desgastada ao redor da imagem: “NOISE PRAYER”, “QUIET SIGNAL”, “SOFT STATIC”, “THE SIGNAL IS SOFT BUT IT STAYS.” Inclua textura de tinta arranhada, poeira, imperfeições de filme, pequenos textos de máquina de escrever, setas e marcações gráficas mínimas.
-
-Composição vertical de capa de revista, altamente detalhada, fotorrealista, nostálgica, misteriosa, artística, estética editorial underground dos anos 90, anatomia natural, mãos realistas, sem marca d'água.
+Uma foto dramática e ampla das Grandes 3 Pirâmides de Gizé sob um profundo céu de meia-noite repleto de estrelas, 1970. Um único beduíno senta-se em silêncio ao lado de um camelo em repouso sobre uma duna baixa em primeiro plano, silhuetas emolduradas contra a vastidão do deserto. Clima atemporal, gradação de tom azul frio, alto contraste, lente grande-angular, profundidade atmosférica.
 ```
-
-</details>
 
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HPfbmu_bkAAfmOI.jpg" width="700" alt="Editorial Vintage no Diner dos Anos 90">
+<img src="https://image.moge.ai/prompt_media/HPolgezWQAAeZ16.jpg" width="700" alt="Pirâmides de Gizé sob o Céu Noturno">
 </div>
 
 <br>
@@ -3993,13 +3875,13 @@ Composição vertical de capa de revista, altamente detalhada, fotorrealista, no
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Eesha](https://x.com/MissDelulu9) | [X / Twitter](https://x.com/MissDelulu9/status/2087378459941364079) | 2026-08-12 |
+| [Malzahran](https://x.com/Malzahran2) | [X / Twitter](https://x.com/Malzahran2/status/2088022629345345975) | 2026-08-13 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2087378459941364079)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2088022629345345975)**
 
 </div>
 
@@ -4065,61 +3947,24 @@ Prompt negativo: cenário genérico, tipografia de estrada fraca ou ilegível, t
 
 ---
 
-### No. 50: Retrato Editorial de Moda com Interação Gráfica
+### No. 50: Prompt de Uma Palavra: Abelha
 
 ![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
 
 #### 📚 Descrição
 
-Cria um pôster editorial de moda 9:16 onde tipografia, molduras acrílicas e estruturas interagem fisicamente com o retrato do modelo.
+Gera uma imagem a partir de um único termo minimalista, deixando o modelo interpretar livremente uma abelha.
 
 #### 🌟 Prompt
 
-Crie um pôster editorial de alta moda 9:16 construído em torno da interação entre fotografia de retrato, …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
 ```
-Crie um pôster editorial de alta moda 9:16 construído em torno da interação entre fotografia de retrato, tipografia, estrutura e espaço físico.
-
-Sujeito: [modelo de moda masculino / feminino]
-Roupa: [alfaiataria minimalista / moda preta / terno branco / estilo estruturado]
-Paleta: [preto + verde-limão ácido / marfim + bordô / preto + azul-petróleo / paleta personalizada]
-Título: [TÍTULO]
-Direção de design: [tipografia superdimensionada / moldura acrílica / fatiamento vertical / layout estrutural]
-
-Comece com uma fotografia de moda forte: pele realista, traços faciais refinados, pose expressiva, tecido detalhado, iluminação de estúdio controlada e qualidade premium de revista.
-
-Então faça o design gráfico interagir fisicamente com o sujeito em vez de simplesmente colocar texto ao redor do retrato.
-
-Direções:
-
-• Tipografia superdimensionada × figura
-Use tipografia extremamente grande que se estende além da tela. Deixe o sujeito passar na frente de algumas letras e atrás de outras, criando profundidade de primeiro/segundo plano.
-
-• Forma acrílica × camadas espaciais
-Introduza uma moldura de vidro ou acrílico transparente com espessura visível, reflexos, destaques nas bordas e refração sutil. Deixe o sujeito tocar, entrar ou intersectar a estrutura.
-
-• Fatias verticais × retrato
-Reconstrua um retrato através de 4–5 seções verticais desiguais com espaços visíveis e deslocamentos sutis de posição. Mantenha os principais traços faciais legíveis e atraentes.
-
-• Moda × layout estrutural
-Use uma pose de moda forte, campos de cor geométricos, tipografia superdimensionada e enquadramento arquitetônico. Deixe o corpo, o mobiliário, os blocos de cor e a tipografia formarem uma composição unificada.
-
-Mantenha a tipografia ousada mas controlada: um título dominante, uma frase curta de apoio e micro-texto mínimo.
-
-Use composição assimétrica, forte contraste de escala, espaço negativo intencional, camadas, recortes e acentos de cor seletivos.
-
-A imagem final deve parecer uma campanha de moda premium, capa de revista experimental ou visual-chave de exposição contemporânea.
+Abelha
 ```
-
-</details>
 
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HPqo_FrXIAAGH6q.jpg" width="700" alt="Retrato Editorial de Moda com Interação Gráfica">
+<img src="https://image.moge.ai/prompt_media/HPvFEx1WcAAb6xu.jpg" width="700" alt="Prompt de Uma Palavra: Abelha">
 </div>
 
 <br>
@@ -4128,13 +3973,13 @@ A imagem final deve parecer uma campanha de moda premium, capa de revista experi
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2088167300738265289) | 2026-08-14 |
+| [Alexandra Aisling](https://x.com/AllaAisling) | [X / Twitter](https://x.com/AllaAisling/status/2088655957245272417) | 2026-08-15 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2088167300738265289)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2088655957245272417)**
 
 </div>
 
@@ -4412,23 +4257,23 @@ Mantenha a identidade consistente do personagem em todos os painéis, composiç�
 
 ---
 
-### No. 54: Retrato de Estúdio com Papagaios
+### No. 54: Retrato de Estúdio em Preto e Branco
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Um retrato de estúdio em close, cinematográfico e delicado, de uma mulher segurando com ternura pequenos papagaios azul-esverdeados e amarelos sobre fundo cinza suave.
+Cria um elegante retrato de estúdio em preto e branco de uma jovem confiante em blazer sob mecha dramática.
 
 #### 🌟 Prompt
 
-Um retrato de estúdio em close mostra uma mulher de pele clara com cabelos castanho-escuros/pretos, olhos …
+Um retrato de estúdio profissional em preto e branco de uma jovem confiante com cabelo na altura dos ombros, …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Um retrato de estúdio em close mostra uma mulher de pele clara com cabelos castanho-escuros/pretos, olhos fechados, segurando ternamente um bando de cinco pequenos papagaios azul-esverdeados e amarelos. os papagaios são uniformemente vibrantes, com bicos alaranjados e olhos pretos circundados de branco. estão espalhados sobre seus ombros e braços, pousados delicadamente. sua roupa parece ser feita de um tecido cor de creme, possivelmente renda. o fundo é um cinza claro e liso, proporcionando um contraste suave com o amarelo e o azul-esverdeado vivos das aves e o tom claro da pele da mulher.
+Um retrato de estúdio profissional em preto e branco de uma jovem confiante com cabelo na altura dos ombros, capturada do peito para cima. Ela veste um blazer estampado e ajustado sobre uma blusa canelada escura, com as mãos casualmente enfiadas em suas calças de cintura alta combinando. A iluminação cria realces sutis em seu rosto e roupas, contrastando lindamente com um fundo neutro texturizado e atmosférico.
 ```
 
 </details>
@@ -4436,7 +4281,7 @@ Um retrato de estúdio em close mostra uma mulher de pele clara com cabelos cast
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HPfIhgyaYAA97x9.jpg" width="700" alt="Retrato de Estúdio com Papagaios">
+<img src="https://image.moge.ai/prompt_media/HPnZHo1XgAAYZDt.jpg" width="700" alt="Retrato de Estúdio em Preto e Branco">
 </div>
 
 <br>
@@ -4445,13 +4290,13 @@ Um retrato de estúdio em close mostra uma mulher de pele clara com cabelos cast
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Maddox](https://x.com/Maddox_Digital) | [X / Twitter](https://x.com/Maddox_Digital/status/2087357477755195469) | 2026-08-12 |
+| [Minahil](https://x.com/Minahil42298354) | [X / Twitter](https://x.com/Minahil42298354/status/2087938645583929831) | 2026-08-13 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2087357477755195469)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2087938645583929831)**
 
 </div>
 
@@ -4502,79 +4347,69 @@ Anúncio de moda minimalista apresentando [HUMAN] vestindo [CLOTHING], visto atr
 
 ---
 
-### No. 56: Pôster de Terror do Templo do Enxame
+### No. 56: Pôster de Exposição Cultural com Tensão Diagonal
 
 ![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
 
 #### 📚 Descrição
 
-Cria um pôster cinematográfico de terror arqueológico com ruínas na selva, um trono-ídolo de inseto colossal e um elenco em camadas verticais.
+Cria um pôster editorial de exposição cultural 9:16 com um eixo diagonal oculto, texturas de papel em camadas, tipografia chinesa marcante e um único padrão temático por peça.
 
 #### 🌟 Prompt
 
-Crie um pôster de filme de horror-aventura em ruínas na selva, ultrapremium e cinematográfico, em estilo …
+Projete um pôster de exposição cultural vertical 9:16, com uma estética geral de Editorial Graphic Design / …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Crie um pôster de filme de horror-aventura em ruínas na selva, ultrapremium e cinematográfico, em estilo realismo mítico sombrio, preservando a lógica estrutural exata de um one-sheet de elenco em camadas verticais, refinando-o em uma imagem teatral mais opressiva, mais cultista e mais icônica. O pôster final deve parecer um épico de horror arqueológico de prestígio: um líder de expedição central em primeiro plano, dois protagonistas coadjuvantes ao seu lado, vários exploradores e ameaças menores incrustados nas laterais inferiores, e um imenso trono-inseto de pedra negra erguendo-se atrás deles como a vontade senciente de toda a ruína. Todo texto visível deve ser apenas inglês original. Sem nomes reais, empresas reais, datas reais, locais reais ou telefones.
+Projete um pôster de exposição cultural vertical 9:16, com uma estética geral de Editorial Graphic Design / publicação de arte contemporânea.
 
-Estrutura do pôster:
-Use uma composição de one-sheet teatral estritamente vertical e alta.
-1. Fundo superior: um feixe de céu pálido filtrado através da copa alta da selva, geometria de templo quebrada e raízes pendentes.
-2. Fundo intermediário: um colossal trono de culto de inseto ou ídolo-colmeia de pedra negra dominando o centro atrás do elenco, fundido de pedra de ruína esculpida, anatomia de inseto com chifres, placas fósseis, metal de relíquia ritual e sistemas de raízes.
-3. Primeiro plano central: um líder de expedição masculino, peito à frente, iluminado por luz prática, tenso e determinado.
-4. Primeiro plano esquerdo e direito: um companheiro masculino robusto à esquerda e uma exploradora atlética à direita, ambos voltados para fora em prontidão cautelosa.
-5. Zonas laterais inferiores: figuras coadjuvantes menores, batedores, lutadores e ameaças de culto sombrias, parcialmente obscurecidas por névoa, raízes e alvenaria quebrada.
-6. Centro inferior: título gigante desgastado em letras de pincel esculpidas em ouro metálico, com um slogan compacto e um bloco de créditos fictício contido abaixo.
+【Tema】：____
+【Título em chinês】：____
+【Título em inglês】：____
+【Visual principal】：____
+【Padrão auxiliar】：____
+【Cor principal】：____
+【Cor secundária】：____
+【Data / Instituição】：____
 
-Ênfase no trono-ídolo:
-O trono de inseto de pedra negra deve parecer o centro espiritual absoluto do pôster e a vontade governante da própria ruína. Deve pairar acima do elenco humano como um deus-colmeia coroado, com um rosto ou máscara apenas parcialmente legível dentro da sombra e da pedra. Sua silhueta deve fundir: lógica de ídolo guardião antigo, anatomia de inseto-rainha, simetria de trono ritual, formas de relíquia mecânica soterrada e arquitetura de templo tomada por raízes. O trono deve parecer opressivo, sagrado, hostil e quase vivo, como se o templo da selva estivesse pensando através dele. Esta é a principal força de pressão mítica do pôster.
+Use como núcleo uma composição de "potencial diagonal", mas não desenhe linhas diagonais óbvias.
 
-Refinamento de gênero:
-Mude o gênero totalmente para horror arqueológico e mitologia de ruína de culto de insetos. A imagem deve parecer menos uma aventura comum na selva e mais uma escavação proibida dentro de um complexo de culto vivo. Sugira que as ruínas foram construídas em torno de uma religião de colmeia soterrada: entalhes rituais, reentrâncias em forma de casulo, motivos de câmara de ovos, ornamento de casca de inseto, plataformas de sacrifício e iconografia de enxame antiga escondida na arquitetura. Mantenha esses detalhes sutis, mas claros o suficiente para aguçar a construção de mundo.
+Primeiro defina um eixo visual diagonal oculto, fazendo com que o peso visual do visual principal, do título em chinês, do padrão, das informações de data e do espaço em branco avance gradualmente na mesma direção.
 
-Design do elenco principal:
-Crie todos os personagens como pessoas fictícias originais apenas.
-- Líder central: explorador masculino adulto do Leste Asiático, anatomia realista, jaqueta de campo cáqui desgastada, arnês de couro, bolsa de campo, brilho de lanterna no peito ou na mão, equipamento de expedição manchado de lama, expressão contida mas intensa.
-- Companheiro esquerdo: homem adulto mais robusto, roupas práticas de sobrevivência, carregado, desconfiado, portando corda, lâmpada ou ferramenta de escavação.
-- Protagonista feminina direita: mulher adulta do Leste Asiático, corpo atlético realista, jaqueta de expedição justa, tiras utilitárias, rosto natural, olhos alertas, calma severa, ombros, pescoço, braços e postura anatomicamente corretos.
-- Figuras coadjuvantes: 3 a 5 exploradores, caçadores ou silhuetas de sombra de culto menores incrustados nas camadas inferiores da ruína.
+O visual principal carrega o peso principal; o grande título em chinês deve participar da diagramação, podendo ser desalinhado, vertical, parcialmente cortado ou levemente entrelaçado com o motivo; o título em inglês, a data e as informações da instituição devem ser reduzidos e concentrados em 2–3 áreas, formando uma hierarquia de corpo evidente.
 
-Ambiente:
-Ambiente em um antigo abismo de templo na selva tomado por raízes, pedra molhada, arquitetura ritual, simbolismo de colmeia de inseto, pilares desabados, trepadeiras pendentes, cavidades em forma de casulo, fragmentos de santuário quebrados e escadarias de relíquia. O mundo deve parecer úmido, amaldiçoado, inteligente e velho além da memória. O detalhe de fundo deve ser denso mas controlado, com forte hierarquia e sem desordem aleatória.
+Cada peça usa apenas um sistema de padrão auxiliar, relacionado ao próprio tema, por exemplo impressão sonora, dobra de mapa, decalque de objeto ou decalque botânico. Não adicione vários conjuntos de elementos decorativos apenas para enriquecer.
 
-Iluminação:
-Use iluminação de horror de sobrevivência altamente cinematográfica. A luz atmosférica principal vem da abertura pálida acima, difusa através da copa, névoa e poeira da ruína. Adicione brilhos práticos seletivos de lanternas ou tochas em rostos, jaquetas, raízes e bordas arquitetônicas. Use sombras de baixa intensidade ricas em detalhes, nunca esmagadas em preto chapado. O trono-ídolo deve emergir através do brilho da névoa, luz de contorno e leves reflexos especulares de pedra molhada, fazendo-o parecer meio oculto e mais aterrorizante.
+O fundo também deve participar do design: use textura de papel de arte, resíduos de padrão muito sutis, plantas técnicas, informações de espécimes ou texturas de materiais, dando camadas ao espaço em branco, mas mantendo a clareza de longe.
 
-Sistema de cores:
-Restrinja a paleta a verde-preto profundo da selva, carvão molhado, cinza musgo, bege osso, marrom lama, bronze oxidado, âmbar de tocha fraco e luz de pedra pálida. Use apenas um forte destaque de título: ouro antigo metálico. O equilíbrio emocional de cor deve parecer arqueológico, claustrofóbico, fúngico, sagrado e de elite.
+A densidade de informação é média-alta, mas deve haver hierarquia:
+primeiro olhar: a composição e o motivo;
+segundo olhar: o título em chinês e o padrão;
+terceiro olhar: o inglês, a data e as informações auxiliares.
 
-Realismo de textura e material:
-Renderize pedra molhada, raízes emaranhadas, tiras de couro, jaquetas de lona, respingos de lama, relevo esculpido de casca de inseto, metal ritual corroído, vidro de lanterna, camadas de névoa, crescimento de musgo e brilho de umidade com detalhe requintado. Os rostos devem ser realistas e des-IA. As mãos devem ter dedos corretos e articulações naturais. As roupas devem obedecer à gravidade e ao movimento. Sem pele plástica, sem sombras de borrão lamacento.
+Controle a cor em 3–4 cores principais, criando tensão por escala, corte, sobreposição, densidade e espaço em branco.
 
-Tipografia:
-Todo texto deve ser apenas inglês original.
-Linha pequena superior:
-“BENEATH THE ROOTS, THE HIVE REMEMBERS”
-Título principal no centro inferior em gigantes letras de pincel esculpidas em ouro metálico desgastado:
-“TEMPLE OF THE SWARM”
-Legenda/slogan abaixo do título:
-“EVERY ALTAR HUNGERS”
-Adicione uma pequena marca de formato premium perto do canto superior:
-“GRANDSCREEN”
-Adicione um bloco de créditos fictício contido abaixo do título usando apenas créditos e nomes de empresas inventados em inglês.
-A tipografia deve parecer teatral, integrada e premium.
+Efeito geral: pôster de exposição cultural, design editorial, sensação de publicação impressa madura, rico mas não confuso, com potencial diagonal presente naturalmente — sem organizar elementos apenas para parecer "diagonal".
 
-Humor:
-antigo, opressivo, cultista, úmido, assombrado, horror arqueológico, pavor de ruína na selva, mitologia de enxame sagrado, tensão de elenco de prestígio.
+4 casos substituíveis:
 
-Estilo de renderização:
-pôster de filme ultrapremium, realismo de ruína de selva sombria, elenco de horror arqueológico, trono de culto de inseto, névoa cinematográfica e feixes de lanterna, key art teatral de edição de colecionador, 8k, qualidade de pôster de classe mundial.
+1. Eco de Marés
+Visual principal: maré orgânica / forma mineral em preto e branco
+Padrão: impressão sonora concêntrica Moiré índigo
 
-Prompt negativo:
-texto chinês, título copiado, logotipo copiado, semelhança de ator real, nomes de estúdio reais, datas reais, elementos de cidade moderna, neon de ficção científica, mãos malformadas, dedos extras, dedos faltando, anatomia quebrada, pele plástica, silhueta de ídolo fraca, borrões pretos lamacentos, excesso de desordem, pôster de streaming genérico, marca d'água.
+2. Dobras da Cidade
+Visual principal: caderno dobrável de observação feito de esboços urbanos a caneta
+Padrão: dobra de mapa amarelo-mostarda + malha viária urbana muito sutil
+
+3. Charme dos Vasos Orientais
+Visual principal: grande vaso de bronze
+Padrão: motivos taotie, padrões de nuvem-e-trovão e decalques de inscrições que se estendem da superfície do objeto
+
+4. Voo Noturno entre os Galhos
+Visual principal: galho velho + melro preto
+Padrão: grande decalque de folhas botânicas em ocre claro
 ```
 
 </details>
@@ -4582,7 +4417,7 @@ texto chinês, título copiado, logotipo copiado, semelhança de ator real, nome
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HPnIUaJbcAAlAKN.jpg" width="700" alt="Pôster de Terror do Templo do Enxame">
+<img src="https://image.moge.ai/prompt_media/HPxg766WkAAd6xy.jpg" width="700" alt="Pôster de Exposição Cultural com Tensão Diagonal">
 </div>
 
 <br>
@@ -4591,13 +4426,13 @@ texto chinês, título copiado, logotipo copiado, semelhança de ator real, nome
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2087920183558238241) | 2026-08-13 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2088651143970722204) | 2026-08-15 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2087920183558238241)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2088651143970722204)**
 
 </div>
 
@@ -4969,23 +4804,60 @@ texto legível, logotipo, marca d'água, monstros duplicados, olhos malformados,
 
 ---
 
-### No. 60: Capa de Revista de Moda em Rosa
+### No. 60: Capas de Registro de Campo em Menta
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Cria uma capa vertical de revista de moda com uma jovem elegante de vestido rosa transparente, penteado sofisticado e tipografia de capa.
+Retratos cinematográficos em fundo cinza-malva único, com tipografia menta condensada e códigos de arquivo eclipsados pela cabeça do sujeito.
 
 #### 🌟 Prompt
 
-Uma capa vertical de revista de moda com uma jovem glamourosa, cabelo castanho escuro num elegante coque com …
+{ "style\_name": "Capas de Registro de Campo", "style\_slug": "mint-on-mauve-archive-portrait", "canvas": …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Uma capa vertical de revista de moda com uma jovem glamourosa, cabelo castanho escuro num elegante coque com mechas suaves emoldurando o rosto. Ela tem um sorriso gentil e confiante e apoia a mão suavemente perto do queixo. Veste um vestido transparente rosa-claro de mangas compridas com babados e brilho sutil, colares delicados sobrepostos e pequenos brincos florais. O fundo é um ambiente arquitetônico neutro, quente e suavemente desfocado. No topo da capa há um grande texto rosa em negrito "EMA'S", acompanhado de subtítulos como "FASHION | BEAUTY | LIFESTYLE" e chamadas promocionais como "NEW SEASON NEW YOU", "Effortless ELEGANCE", e um código de barras no canto inferior esquerdo.
+{
+  "style_name": "Capas de Registro de Campo",
+  "style_slug": "mint-on-mauve-archive-portrait",
+  "canvas": "retrato 4:5, sangria total, campo único cinza-malva dessaturado #6E6672 — uma parede de estúdio lisa ou céu ao entardecer, sem textura, sem banding de gradiente",
+  "color": {
+    "field": "cinza-malva #6E6672, travado em UM único valor em todo o conjunto",
+    "accent": "menta primavera #7FE68D — a única cor saturada em qualquer lugar",
+    "skin": "luz principal âmbar quente contra o ambiente frio; manter brilho natural, suor, poros",
+    "wardrobe": "azul-marinho, oliva, ferrugem, carvão, prata suaves — nada que compita com o menta",
+    "rule": "duas cores: malva e menta. Todo o resto é pele e tecido."
+  },
+  "typography": {
+    "wordmark": "uma palavra, sans pesada ultracondensada, TODAS MAIÚSCULAS, menta, ocupando toda a largura no topo, cortada pelas duas bordas do quadro; a cabeça SEMPRE eclipsa 2–3 letras",
+    "stack": "3–4 linhas de maiúsculas condensadas menta à esquerda, na altura média — um código, um lugar, uma hora, um número de arquivo; um item por linha, entrelinha generosa, sem pontuação",
+    "glyph": "uma pequena marca menta abaixo da pilha: círculo vazado / quadrado preenchido / mais / estrela de quatro pontas",
+    "foot_log": "4–6 linhas de minúsculas maiúsculas menta na base — LOCAL / GRAVADOR / FORMATO / DATA / NOTAS; cada pôster tem uma, no canto esquerdo ou direito"
+  },
+  "photography": {
+    "framing": "do peito para cima, sujeito ligeiramente descentralizado, três quartos ou quase de perfil, olhos para cima e longe da lente",
+    "light": "preenchimento ambiente frio mais luz principal quente e dura de lado; realces especulares mantidos na pele, nunca retocados",
+    "gesture": "o sujeito segura um objeto perto do rosto e o ESTUDA — lendo, ouvindo, inspecionando; nunca apresentando à câmera",
+    "casting": "espalhar bem as idades — dos vinte aos setenta; rostos marcados pelo tempo",
+    "background_props": "no máximo uma pista suave e desfocada — um mapa, um mastro de antena, uma emenda de parede"
+  },
+  "design_rules": [
+    "o wordmark nunca é totalmente legível; a oclusão é a assinatura",
+    "uma cor de destaque, um valor de fundo — resista a adicionar uma segunda em qualquer lugar",
+    "cada texto é um registro: um índice, uma hora, uma coordenada, um formato. Sem slogans na pilha.",
+    "o objeto segurado nomeia a disciplina sem legenda"
+  ],
+  "swap_variables": {
+    "discipline": "cerâmica / gravação de campo / levantamento botânico / registro do céu noturno",
+    "wordmark": "VESSEL / RESONANCE / SPECIMEN / AFTERGLOW",
+    "stack": "STUDIO INDEX·FIRING 04·CLAY + COBALT / TAPE 031·ROOM TONE·18:20·ARCHIVE B / ALTITUDE 1840·SURVEY 12·EAST RIDGE·FILE 09 / FIELD NOTES·23:40·NORTH DECK·EDITION 07",
+    "glyph": "círculo / quadrado / mais / estrela",
+    "logged_object": "tigela vidrada em cobalto / microfone de fita / samambaia prensada em envelope / carta celeste transparente"
+  }
+}
 ```
 
 </details>
@@ -4993,7 +4865,7 @@ Uma capa vertical de revista de moda com uma jovem glamourosa, cabelo castanho e
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HPcHTMcWYAAlp9-.jpg" width="700" alt="Capa de Revista de Moda em Rosa">
+<img src="https://image.moge.ai/prompt_media/HPm7QUfXQAAKG_1.jpg" width="700" alt="Capas de Registro de Campo em Menta">
 </div>
 
 <br>
@@ -5002,13 +4874,13 @@ Uma capa vertical de revista de moda com uma jovem glamourosa, cabelo castanho e
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Minahil](https://x.com/Minahil42298354) | [X / Twitter](https://x.com/Minahil42298354/status/2087145043727466857) | 2026-08-11 |
+| [Vigo Zhao](https://x.com/VigoCreativeAI) | [X / Twitter](https://x.com/VigoCreativeAI/status/2087905794243064316) | 2026-08-13 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2087145043727466857)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2087905794243064316)**
 
 </div>
 
