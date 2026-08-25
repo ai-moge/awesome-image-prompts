@@ -35,47 +35,73 @@ Full Prompt Text · Preview Images · **10 Languages**
 
 ## 🎩 Latest Curated Prompts
 
-### No. 1: Bold Red Snack Ad Poster
+### No. 1: Four-Panel Wedding Dress Lookbook Catalog
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a premium commercial poster on a saturated red field with a transparent jar of roasted puff snacks as hero, a hand breaking through torn paper to pinch a puff, and bold graphic typography.
+Generates bridal catalog pages in a four-panel layout (front, side, back, headshot) of the same model in eight wedding-dress styles, with bilingual labels and a minimalist white-studio aesthetic.
 
 #### 🌟 Prompt
 
-Create a flagship commercial advertising poster for an original roasted puff snack brand named "CRAVE KIND", …
+Minimalist white photo-studio background, wedding-dress catalog / apparel lookbook layout, fashion bridal …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a flagship commercial advertising poster for an original roasted puff snack brand named "CRAVE KIND", combining Transit restraint with Orbit directional energy. Use ultra-realistic premium packaging photography, not illustration, not 3D render. Keep the same structural logic: a saturated red full-background poster, one oversized transparent snack jar as the absolute visual hero in the center-lower area, one realistic hand emerging from a torn paper opening in the upper-left quadrant to pinch a single puff above the jar mouth, one supporting hand in the lower-right quadrant holding the jar base, a bold headline block in the upper-right, a secondary stacked attitude statement on the left side, and only a minimal number of ingredient props near the bottom edge. The final image must feel like a Cannes-level FMCG campaign: bold, graphic, youthful, clean, premium, and instantly memorable.
+Minimalist white photo-studio background, wedding-dress catalog / apparel lookbook layout, fashion bridal lookbook, clean and high-end feel. The whole image uses a four-panel grid showing Front, Side, Back, and Headshot, with bilingual Chinese-English labels; at the top, the dress name title in Chinese and English with a number; overall layout simple and neat, affordable-luxury fashion magazine style, high-end bridal product display image.
+The model is the same young woman throughout, a bit cute and slightly mixed-race, delicate features, fair translucent skin, long hair in big loose waves, natural volume, gentle vibe, light makeup, natural gaze, elegant stance, natural hand structure, avoiding body distortion.
+Soft even lighting, pure white background, high-end studio lighting, translucent image, clear dress details — lace, tulle, satin, embroidery, beading, and bows visible in rich texture.
 
-Style lock: high-end commercial snack advertising, strong product-first hierarchy, bright studio realism, disciplined poster layout, minimal clutter, bold monochrome red field, premium shelf-ready packaging, social-campaign hero visual.
+1｜Lace Mermaid Wedding Dress
+Minimalist white studio background, bridal catalog layout, four-panel dress display, top title “1｜Lace Mermaid Wedding Dress”, sections labeled Front, Side, Back, Headshot, expression label below “01 Natural Smile”.
+The same young woman, cute mixed-race look, long wavy hair, gentle natural vibe.
+Wears a white strapless lace mermaid dress, three-dimensional floral embroidery, fitted cinched-waist cut, semi-transparent lace skirt, long floor-sweeping train, paired with white long lace gloves and a light veil, elegant French bridal style.
+The front shows the overall silhouette, the side shows the mermaid curve, the back shows the train and veil, the headshot is a natural smile, corners of the mouth slightly raised, gentle gaze.
 
-Core composition: one giant clear cylindrical jar dominates the frame, front-facing and fully legible, filled with toasted round puff snacks. The jar sits low enough to create strong typography space above, but remains the dominant focal point. A realistic hand breaks through a clean torn-paper opening in the upper-left zone and delicately pinches one puff slightly above the jar opening. A second cropped hand supports the lower-right base of the jar, stabilizing the composition diagonally. Keep generous negative space around the jar and between the text blocks so the layout feels architectural and premium.
+2｜Bow Cake Wedding Dress
+Minimalist white studio background, bridal lookbook catalog, four-panel layout, top title “2｜Bow Cake Wedding Dress”, sections labeled Front, Side, Back, Headshot, expression label “02 Playful Wink”.
+The same young woman, cute mixed-race look, long wavy hair, sweet and gentle.
+Wears a white bustier cinched-waist dress, an oversized bow and three-dimensional roses at the chest, semi-transparent structured corset, multi-layer fluffy tulle cake skirt, tiered ruffles, sweet princess style.
+The headshot expression is a playful wink, one eye lightly closed, a smile at the corners of the mouth, head tilted slightly to one side.
 
-Transit logic: reduce all non-essential ingredients, simplify the left-side attitude text, keep the torn opening clean, shorten supporting copy, and let scale, contrast, and spacing carry the impact. Avoid a crowded retail-poster feel. The product, gesture, and red field should do most of the work.
+3｜Slit Lace Mermaid Wedding Dress
+Minimalist white studio background, bridal product catalog image, four-panel layout, top title “3｜Slit Lace Mermaid Wedding Dress”, labeled Front, Side, Back, Headshot, expression label “03 Radiant Laugh”.
+The same young woman, cute mixed-race look, long wavy hair, bright vibe.
+Wears a white bustier lace dress, delicate floral embroidery, fitted cinched-waist mermaid cut, high-slit design, light tulle train, long veil, pearl crown, sexy elegant bridal look.
+The headshot is a radiant laugh, a toothy smile, eyes curved, highly infectious.
 
-Orbit logic: shape the motion through one precise vertical-to-diagonal eye path: torn opening, pinched puff, jar mouth, brand label, then down to the supporting hand. Add only a very restrained lift of a few sesame specks or tiny crumbs near the pinched puff to suggest motion and craving. The energy must feel focused, elegant, and directional, not noisy.
+4｜Satin One-Shoulder Mermaid Wedding Dress
+Minimalist white studio background, high-end bridal catalog layout, four-panel arrangement, top title “4｜Satin One-Shoulder Mermaid Wedding Dress”, sections labeled Front, Side, Back, Headshot, expression label “04 Mischievous Smirk”.
+The same young woman, cute mixed-race look, long wavy hair, natural with a bit of slyness.
+Wears a pearl-white satin one-shoulder dress, asymmetric draped neckline, fitted cinched-waist mermaid cut, three-dimensional floral decoration at the side of the waist, sleek glossy satin skirt, tulle floral accent on the shoulder, minimalist high-end feel.
+The headshot expression is a mischievous smirk, one corner of the mouth raised, gaze slightly smug and sly.
 
-Product concept: redesign the product as a premium Korean-inspired spicy sesame roasted puff snack in a large transparent jar with a vivid red wrap label. Brand name: "CRAVE KIND". Flavor name: "Seoul Fire Sesame". Descriptor: "roasted lotus puffs". The label should feel youthful, modern, bold, and globally stylish, with oversized brand lettering, minimal descriptors, and a few tiny line-art accents inspired by spice, music, and urban snack culture. All text must be original.
+5｜Butterfly Pattern Ball Gown Wedding Dress
+Minimalist white studio background, bridal catalog-style layout, four-panel display, top title “5｜Butterfly Pattern Ball Gown Wedding Dress”, sections labeled Front, Side, Back, Headshot, expression label “06 Innocent Sweetness”.
+The same young woman, cute mixed-race look, long wavy hair, pure and sweet.
+Wears a white thin-strap dress, square neckline, three-dimensional bows and floral lace embroidery all over, cinched-waist A-line ball skirt, semi-transparent tulle skirt, paired with a short veil, fresh sweet girlish bridal style.
+The headshot expression is innocent sweetness, bright eyes, a clean simple expression, corners of the mouth naturally raised.
 
-Lighting: bright soft frontal studio key light for crystal-clear packaging legibility and realistic skin rendering, plus subtle side highlights to define the transparent jar edge, glossy label finish, and rounded puff texture. Maintain smooth red background illumination, soft grounded shadows, and crisp separation between hands, jar, and backdrop. No muddy gradients, no dirty dark patches.
+6｜Vintage Court Wedding Dress
+Minimalist white studio background, bridal catalog layout, four-panel arrangement, top title “6｜Vintage Court Wedding Dress”, sections labeled Front, Side, Back, Headshot, expression label “07 Secretly Pleased”.
+The same young woman, cute mixed-race look, long wavy hair, elegant with a touch of high-fashion feel.
+Wears a white bustier body-shaping court dress, three-dimensional floral decoration at the chest, a wide voluminous satin ball skirt, high-slit structure, paired with black extra-long evening gloves and a black bow, vintage black-and-white high-fashion feel.
+The headshot expression is secretly pleased, one corner of the mouth slightly raised, eyes half-squinted, with a hint of smugness she can't hide.
 
-Materials and food realism: clear PET or acrylic jar with believable wall thickness and clean reflections, premium matte-gloss printed wrap label, toasted puff snacks with airy porous surfaces and black sesame specks, slight roasted dryness, realistic variation in roundness, and zero artificial plastic look. Hands must look photographic and natural, with correct five-finger anatomy, clean nails, visible joints, and gentle believable pressure. Bottom props should be extremely restrained: one small dark bowl of glossy chili sauce and a light sprinkle of sesame seeds only.
+7｜Minimal Striped Tulle Wedding Dress
+Minimalist white studio background, bridal product catalog image, four-panel layout, top title “7｜Minimal Striped Tulle Wedding Dress”, sections labeled Front, Side, Back, Headshot, expression label “08 Adoring Smile”.
+The same young woman, cute mixed-race look, long wavy hair, gentle and quiet.
+Wears an ivory-white strapless dress, simple bustier bodice, semi-transparent geometric grid design at the waist, A-line long skirt, multi-layer horizontal three-dimensional satin ribbon stripes covering the tulle skirt, minimalist modern bridal style.
+The headshot expression is an adoring smile, corners of the mouth gently raised, soft gaze, as if looking at someone she loves.
 
-Typography and layout: use original English copy only, never copy any existing wording. Place a bold upper-right headline such as "TURN UP THE CRUNCH." Use a shorter left-side stacked statement such as "HOT. TOASTED. ADDICTIVE." Keep all typography bold, graphic, and secondary to the jar. Label micro-copy can include concise tags like "roasted", "sesame heat", and "plant-based", but remain minimal.
-
-Color strategy: dominant saturated campaign red across background and label system, balanced with warm natural skin tones, toasted beige puff tones, black sesame flecks, deep chili accents, and small off-white text highlights. Keep the palette tightly controlled, premium, and high-contrast.
-
-Atmosphere: spicy, playful, modern, global, highly shareable, product-led, clean but energetic.
-
-Quality and physical rules: extremely sharp jar detail, readable label hierarchy, realistic transparent packaging physics, anatomically correct hands, correct pinch gesture, clean torn-paper edges, no clutter, no extra props, no warped jar, no deformed snacks, no muddy shadows, no dead black patches, no weak hierarchy. The jar must remain the absolute visual hero.
-
-Negative prompt: copied branding, copied headline, cluttered layout, too many ingredients, weak product hierarchy, blurry jar, unreadable label, fake transparent plastic, distorted puff shapes, deformed hands, extra fingers, fused fingers, broken wrist anatomy, messy torn opening, muddy red background, dirty shadows, dead black areas, cheap flyer aesthetic, cartoon style, CGI render feel, illustration look, product losing dominance, random cultural clutter, low-resolution packaging.
+8｜High-Low Irregular Wedding Dress
+Minimalist white studio background, high-end bridal catalog layout, four-panel arrangement, top title “8｜High-Low Irregular Wedding Dress”, sections labeled Front, Side, Back, Headshot, expression label “09 Shy Downcast Smile”.
+The same young woman, cute mixed-race look, long wavy hair, natural gentle vibe.
+Wears a white bustier body-shaping dress, silver-white three-dimensional embroidery and pearl-crystal decoration, high-low irregular tulle skirt short in front and long in back, multi-layer lightweight organza structure, paired with transparent tulle cape sleeves and a fine crystal headband, light ethereal bridal style.
+The headshot expression is a shy downcast smile, lips pressed in a faint smile, gaze slightly averted, head slightly lowered.
 ```
 
 </details>
@@ -83,7 +109,7 @@ Negative prompt: copied branding, copied headline, cluttered layout, too many in
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HQezCvuaEAA2y2j.jpg" width="700" alt="Bold Red Snack Ad Poster">
+<img src="https://image.moge.ai/prompt_media/HQjlj2fboAA4aMr.jpg" width="700" alt="Four-Panel Wedding Dress Lookbook Catalog">
 </div>
 
 <br>
@@ -92,75 +118,35 @@ Negative prompt: copied branding, copied headline, cluttered layout, too many in
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2091837428072149036) | 2026-08-24 |
+| [serein](https://x.com/you1873118) | [X / Twitter](https://x.com/you1873118/status/2092174959095496705) | 2026-08-25 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2091837428072149036)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2092174959095496705)**
 
 </div>
 
 ---
 
-### No. 2: Manga-Ink Three-Panel 'Small Emergencies' Poster
+### No. 2: Retro Concept Car Poster
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Builds a tall aged-paper poster with dense manga inking across three tilted panels — instrument, peak-effort action, and face — dramatizing a genuinely minor everyday emergency.
+Creates a retro-serigraph illustration of a high-speed concept car with flowing graphic curves, a restricted palette, and a vintage modernist poster aesthetic.
 
 #### 🌟 Prompt
 
-{ "style\_name": "Small Emergencies", "style\_slug": "manga-ink-three-panel-shift-poster", "canvas": "9:16 tall …
+Futurist retro-serigraph illustration of a [BRAND]-inspired [VEHICLE] concept speeding through giant flowing …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-{
-  "style_name": "Small Emergencies",
-  "style_slug": "manga-ink-three-panel-shift-poster",
-  "canvas": "9:16 tall poster, aged cream paper, heavy print grain, distressed edges and corners",
-  "color": {
-    "ink": "near-black line work #1A1714",
-    "paper": "cream #EFE3CE",
-    "fills": ["hot pink #E85D8A", "sky cyan #6FC3D6", "signal yellow #E8B33A", "copper orange #D96B2E"],
-    "rule": "flat, slightly misregistered print fills; pink must take ONE impossible role per poster — the water spray, the dawn sky, the ghosted second self"
-  },
-  "illustration": {
-    "technique": "dense seinen-manga inking — crosshatch shading, speed lines, spray dots, screentone patches — over flat poster color",
-    "panels": "three stacked panels separated by TILTED diagonal gutters with thin paper-colored gaps",
-    "panel_grammar": {
-      "instrument": "extreme close-up of a hand on the job's instrument — tuning dial, lantern striker, pressure gauge, kitchen timer — markings readable",
-      "action": "the same worker full-body at the peak of a small crisis, strong diagonal pose, environment drawn in full detail",
-      "face": "tight portrait of the same character — effort, relief or joy; optionally a ghosted second emotion behind them in one flat color"
-    },
-    "order_rule": "the three beats may shuffle order, but all three must appear, and it is the same character in every panel",
-    "diegetic_text": "all in-scene words belong to the world — tape labels, shop signs, flour bags, buoy numbers, warning plates"
-  },
-  "typography": {
-    "masthead": "two words, TWO typefaces: word one in massive distressed slab caps in cream; word two in ornate circus tuscan, set on or filled with a color block",
-    "info_bar": "one yellow bar in bold black caps at the foot: place or season, slash, log or batch number",
-    "scatter": "checkerboard patches, lightning bolts, starbursts, tiny waveforms — three or four per poster, never more"
-  },
-  "design_rules": [
-    "the crisis must be genuinely minor — a relay to run, a lamp to light, a pipe to fix, dough to catch; the inking treats it as life or death",
-    "the face panel pays off the action panel — same shift, seconds apart",
-    "panels tilt; the masthead never does",
-    "no gradients in the fills; depth comes from line density, not tone"
-  ],
-  "swap_variables": {
-    "job": "dawn radio courier / pier storm-watch keeper / irrigation mechanic / night baker",
-    "crisis": "carry the signal across rooftops / light the storm lantern in rain / burst pipe in dry season / dough over-rising at 3am",
-    "instrument": "tuning dial / lantern + striker / gauge + pipe wrench / timer + copper bowl",
-    "masthead": "STATIC RUN / TIDELIGHT / BLOOM FIX / MOON RISE",
-    "info_bar": "FREQUENCY 88 · DAWN RELAY / PIER NINE · STORM WATCH / DRY SEASON · REPAIR LOG 04 / BATCH 03 · OPEN TILL DAWN",
-    "diegetic_labels": "88 DAWN RELAY tape / buoy No.9 / WATER PRESSURE dial / ALL NIGHT BAKERY sign + POWER FLICKER plate"
-  }
-}
+Futurist retro-serigraph illustration of a [BRAND]-inspired [VEHICLE] concept speeding through giant flowing graphic curves and abstract high-speed road forms, dynamic 3/4 perspective, aerodynamic bodywork, aggressive stance and retro motorsport aesthetic, stylized motion trails integrated into the environment, sensation of high speed without realistic motion blur. Minimal but dramatic composition made from layered curved bands and negative space. Vintage modernist poster aesthetic, smooth airbrushed gradients, crisp vector-like surfaces, subtle print grain, soft paper texture. Color palette restricted to [COLOR 1], [COLOR 2], [COLOR 3] and [COLOR 4] only. Elegant screenprint finish, vertical composition 4:5
 ```
 
 </details>
@@ -168,7 +154,7 @@ Builds a tall aged-paper poster with dense manga inking across three tilted pane
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HQfhZQhWwAE3Y7C.jpg" width="700" alt="Manga-Ink Three-Panel &#x27;Small Emergencies&#x27; Poster">
+<img src="https://image.moge.ai/prompt_media/HQjqtETXoAA41y-.jpg" width="700" alt="Retro Concept Car Poster">
 </div>
 
 <br>
@@ -177,13 +163,13 @@ Builds a tall aged-paper poster with dense manga inking across three tilted pane
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Vigo Zhao](https://x.com/VigoCreativeAI) | [X / Twitter](https://x.com/VigoCreativeAI/status/2091888379604373647) | 2026-08-24 |
+| [Zayan](https://x.com/HustleXR) | [X / Twitter](https://x.com/HustleXR/status/2092180120576610728) | 2026-08-25 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2091888379604373647)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2092180120576610728)**
 
 </div>
 
@@ -456,49 +442,51 @@ A series of photographic portraits featuring the same young woman with shoulder-
 
 ---
 
-### No. 7: Molten Cheese Pull Snack Poster
+### No. 7: VELORA Functional Drink Hero Poster
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a premium fast-food ad poster of crispy chicken cheese bites with a dramatic molten cheese pull on a scarlet-red background.
+Generates a premium advertising poster for a functional fruit drink with an oversized hero bottle, pink liquid vortex, and tropical fruits in a controlled composition.
 
 #### 🌟 Prompt
 
-Create a flagship commercial food poster for an original snack brand named "MELT VAULT", merging Orbit energy …
+Create a flagship advertising poster for an original functional fruit drink brand named "VELORA", merging …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a flagship commercial food poster for an original snack brand named "MELT VAULT", merging Orbit energy with Transit restraint. Use ultra-realistic premium fast-food advertising photography, not illustration, not 3D render. Keep the same structural logic: a centered suspended cheese web occupying the middle of the frame, a tight cluster of 5 to 6 crispy fried cheese chicken bites resting inside the elastic cheese net, one top-center red action glove hand lifting a single bite upward, and an extreme molten cheese pull stretching between the lifted bite and the cluster below. Set everything against a bold saturated scarlet-red background with a narrow warm wooden tabletop at the bottom. The final image must feel like a Cannes-level hero campaign: iconic, craveable, graphic, playful, and highly controlled.
+Create a flagship advertising poster for an original functional fruit drink brand named "VELORA", merging Transit restraint with Orbit energy. Use ultra-realistic commercial product photography, not illustration, not 3D render. Keep the same structural logic: one oversized hero bottle floating diagonally in the right-center as the absolute visual focus, a giant stacked English headline block on the left, one controlled liquid vortex rising from a pedestal at the bottom and wrapping around the bottle, a restrained number of fruit pieces and splash fragments orbiting around the product, a small four-SKU lineup in the lower-left area, and a minimal atmospheric city silhouette in the far lower-right background. The final image must feel like a Cannes-level FMCG beverage campaign: radiant, premium, high-energy, but highly controlled.
 
-Style lock: premium fast-food product photography, strong poster design, high-impact minimalist composition, product-first hierarchy, bold color blocking, extremely realistic cheese physics, clean social-campaign-ready execution.
+Style lock: high-end beverage advertising, ultra-clean product-first hierarchy, bold editorial typography, luminous liquid dynamics, vivid tropical-luxury palette, premium studio realism, globally launch-ready hero visual.
 
-Core composition: centered vertical poster, one large cheese web spanning across the middle like a tensile edible net, the fried bites grouped compactly in the center with one hero bite being lifted from the top center. The cheese strands must create a refined radiating tension pattern that guides the eye from the lifted bite downward into the cluster, then outward along the net edges. Keep generous negative space around the structure so the image feels monumental and uncluttered. Place one bold handwritten-style product title in the lower-middle zone, a very short subtitle beneath it, and a compact circular price badge on the right. All typography must remain secondary to the food.
+Core composition: one large translucent pink-red beverage bottle dominates the right half of the frame, slightly tilted for impact, rising above a single sculpted liquid column that starts from a circular pedestal base. The bottle must be dramatically larger than every supporting element. On the left side, place an oversized stacked headline in bold condensed English type, taking most of the upper-left vertical zone. In the lower-left, align four smaller SKU bottles in a clean restrained row. Maintain strong breathing room between the bottle, the text block, and the SKU lineup so the poster feels premium rather than crowded.
 
-Orbit logic: strengthen the directional pull of the composition by shaping the main cheese strands into elegant upward-and-outward arcs anchored at the lifted bite. Let the motion feel like the whole structure is being tensioned in real time. The dynamic must be clear and dramatic, but not messy. Every strand should support the central hero action and lead the eye back to the molten core.
+Transit logic: reduce all unnecessary visual noise. Limit the number of fruit pieces, splash fragments, and icon details. Keep the SKU lineup compact. Shorten supporting copy. Let scale, light, and negative space drive the impact. Avoid a busy retail-flyer look.
 
-Transit logic: reduce all non-essential elements, keep the tabletop narrow, keep the background clean and uninterrupted, simplify the text block, minimize decorative accents, and preserve only the most necessary graphic elements. Let impact come from scale, contrast, negative space, and the singular power of the cheese-pull moment rather than visual clutter.
+Orbit logic: build one elegant upward motion path using the liquid vortex and a few precisely placed fruit accents. The eye should move from the pedestal, up through the liquid spiral, around the bottle body, and out toward the upper-right glow. The motion must feel smooth, forceful, and concentrated, not chaotic.
 
-Product concept: redesign the food as original crispy molten chicken cheese bites with irregular hand-formed roundness, thick golden breadcrumb coating, rich fried texture, and a luxurious creamy cheese core. The lifted bite must expose a dense, glossy, stretchy interior with realistic heat, weight, and elasticity. The cluster below should feel hot, crunchy, and freshly fried.
+Product concept: redesign the hero drink as an original botanical-functional fruit beverage called "VELORA Rose Pulse", with subtle subtext such as "functional fruit drink" and "rose, melon, mango infusion". The bottle should feel shelf-ready, modern, elegant, and energetic, with a matte-gloss label system, white primary wordmark, refined gold line-art detailing, and crisp cap/rim surfaces. The liquid inside should look lightly translucent, vibrant, and fresh.
 
-Character element: use only one cropped red comic-inspired action glove entering from the top center, delicately pinching the lifted bite. The glove must feel clean, iconic, and graphic, with natural finger pressure and believable fabric tension, but no full character body, no face, and no copyrighted superhero identity cues.
+Lighting: use bright commercial key light from upper front-left with a radiant back glow behind the bottle to create halo separation and premium translucency. Add crisp rim highlights on the bottle shoulders, cap, condensation droplets, and liquid edges. Shadows remain soft, clean, and minimal. The background glows warmly while preserving clear bottle readability.
 
-Lighting: strong soft frontal studio key light for clean readability, combined with subtle warm highlights that enhance the fried crust and illuminate the cheese strands. Keep the red background smooth and evenly controlled, with soft grounded shadows and crisp separation between food and backdrop. The cheese should glow slightly brighter than the crust to emphasize melt and freshness.
+Liquid and motion: create one glossy pink-red liquid vortex that spirals upward from the pedestal and wraps around the bottle in a clean S-curve. Add realistic splash crowns, a few suspended droplets, refracted highlights, and only minimal crystal-like liquid fragments. The motion must feel physically coherent, elegant, and premium.
 
-Materials and food realism: ultra-detailed crunchy breadcrumb crust, porous golden fried surface, tiny oil sheen, creamy cheese with realistic viscosity, semi-translucent cheese strands of varied thickness, gravity-accurate tension points, smooth scarlet backdrop, and tactile natural wood grain below. The cheese web must feel physically believable, elastic, and premium, never rubbery or fake.
+Fruit and ingredient cues: include only a restrained set of sharply lit premium fruit accents such as one watermelon wedge, one mango cube, one citrus slice, and a few rose petals. These should support the flavor story without competing with the bottle. Keep each fruit juicy, photoreal, and precisely placed.
 
-Typography and layout: use original text only, never copy any existing wording. Place a hand-lettered lower-center title such as "MOLTEN CRUNCH" with a very short subtitle like "cheese-loaded bites". Add a compact circular badge on the right with concise pricing text such as "from $9". Keep typography bold, legible, and graphic, but always subordinate to the cheese structure and hero bite.
+Typography and layout: use original English text only, never copy any existing wording. Place a bold left-side headline such as "FLAVOR IN MOTION." with a short supporting line like "hydration, vitamins, natural lift". If needed, add a very small row of concise benefit markers below. Keep all type clean, large, architectural, and secondary to the hero bottle.
 
-Color strategy: tightly controlled palette of saturated scarlet red, deep golden-brown crust, creamy pale yellow cheese, warm natural oak wood, and a restrained yellow-orange badge accent. Keep contrast strong, colors rich, and the palette disciplined.
+SKU lineup: place four smaller bottles in the lower-left corner, evenly spaced, front-facing, and aligned in the same size family. Each variant should have distinct color coding but remain clearly subordinate to the hero bottle. Keep the lineup compact and clean.
 
-Atmosphere: bold, playful, hot, stretchy, craveable, premium, modern, iconic, highly shareable, globally launch-ready.
+Background and atmosphere: use a radiant magenta-to-coral gradient with subtle glow transitions and a faint premium city silhouette in the far lower-right distance. Keep the background luminous and uncluttered. No heavy scenery, no distracting props.
 
-Quality and physical rules: extremely sharp food texture, realistic cheese stretch physics, clean gravity logic, no muddy shadows, no dead black patches, no clutter, no extra props, no malformed bites, no deformed hand, no extra fingers, no broken strands without support, no weak hierarchy. The product must remain the absolute visual hero.
+Color strategy: dominant rose pink, magenta, coral, warm orange, watermelon red, mango gold, and crisp white typography with subtle gold detailing. Keep saturation bold but disciplined, with premium contrast and strong shelf impact.
 
-Negative prompt: copied branding, copied text, copyrighted superhero identity, full character body, cluttered layout, too many design elements, weak cheese pull, fake plastic cheese, blurry crust, low-resolution texture, deformed hand, extra fingers, fused fingers, distorted bites, messy background, muddy red tones, dead black areas, cheap fast-food flyer look, cartoon food, CGI render feel, illustration style, unreadable typography, product losing dominance.
+Quality and physical rules: extremely sharp hero bottle, readable label, correct bottle symmetry, realistic condensation, believable liquid physics, clean typography edges, coherent fruit scale, no muddy shadows, no dead black patches, no clutter, no warped bottle, no excessive elements. The hero bottle must remain the absolute visual center and strongest sales trigger.
+
+Negative prompt: copied branding, copied slogan, weak product hierarchy, blurry bottle, unreadable label, fake plastic reflections, warped bottle shape, muddy gradient background, dead black areas, cluttered layout, excessive fruit, oversized SKU lineup, chaotic splash physics, cheap retail flyer aesthetic, cartoon rendering, CGI look, illustration style, low-resolution packaging, product losing dominance.
 ```
 
 </details>
@@ -506,7 +494,7 @@ Negative prompt: copied branding, copied text, copyrighted superhero identity, f
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HQex-QQacAAlajx.jpg" width="700" alt="Molten Cheese Pull Snack Poster">
+<img src="https://image.moge.ai/prompt_media/HQjgUx4aMAEPwGv.jpg" width="700" alt="VELORA Functional Drink Hero Poster">
 </div>
 
 <br>
@@ -515,49 +503,51 @@ Negative prompt: copied branding, copied text, copyrighted superhero identity, f
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2091836250714227195) | 2026-08-24 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2092168696269783216) | 2026-08-25 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2091836250714227195)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2092168696269783216)**
 
 </div>
 
 ---
 
-### No. 8: Embroidered Cultural Heritage Map
+### No. 8: City Frozen Inside an Ice Popsicle
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Creates a country-shaped map poster as hand-embroidered textile art, weaving authentic landmarks, costumes, food, and cultural symbols into intricate stitching and appliqué.
+Creates a hyper-realistic travel photo of a miniature city and its iconic landmark frozen inside a transparent ice popsicle held in hand.
 
 #### 🌟 Prompt
 
-Create a luxurious, highly detailed handcrafted embroidered textile artwork of {{COUNTRY\_NAME}}, designed as …
+Create a hyper-realistic vertical 4:5 conceptual travel photograph of [CITY / COUNTRY], where the entire …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a luxurious, highly detailed handcrafted embroidered textile artwork of {{COUNTRY_NAME}}, designed as a beautiful map-shaped cultural poster.
+Create a hyper-realistic vertical 4:5 conceptual travel photograph of [CITY / COUNTRY], where the entire essence of the destination is magically frozen inside a crystal-clear ice popsicle held in a person’s hand.
 
-Inside the map, creatively combine the country’s most recognizable landmarks, architecture, landscapes, traditional clothing, food, animals, plants, cultural symbols, transportation, historical elements, and local heritage, all rendered as intricate hand-stitched embroidery and appliqué.
+Inside the transparent popsicle, build a miniature yet incredibly detailed 3D world featuring [ICONIC LANDMARK] as the central hero, surrounded by tiny recognizable elements of the city — [LOCAL ARCHITECTURE], flowering trees, a charming café, tiny street furniture, and subtle cultural details. The landmark should appear physically embedded inside the ice, as if an entire miniature city has been frozen in time.
 
-Surround the entire composition with elegant traditional floral, paisley, ornamental and cultural patterns inspired by {{COUNTRY_NAME}}’s heritage. Use realistic embroidery threads, fine stitching, layered fabric, slightly raised appliqué details, delicate stitched borders, and authentic handmade imperfections.
+The popsicle must look extremely realistic: crystal-clear ice, frozen bubbles, tiny cracks, frost along the edges, melting droplets, refraction, internal condensation, subtle imperfections, and realistic translucent depth. The miniature world inside should remain beautifully sharp and detailed through the ice.
 
-Place the artwork on a soft cream/off-white textured fabric background with natural folds and subtle shadows. Add a few loose embroidery threads and an elegant embroidery needle beside the artwork to emphasize the handmade craft.
+Place the popsicle against a realistic, softly blurred street scene of [CITY], creating a fascinating contrast between the ordinary real world and the magical miniature frozen world in the foreground.
 
-At the bottom, display the country name prominently in its native script, followed by a small elegant subtitle meaning “A city/country woven from traditions” in the appropriate native language.
+A natural human hand holds the wooden popsicle stick from the bottom, with realistic skin texture, fingerprints, tiny creases, and natural sunlight.
 
-Use a sophisticated vintage palette of warm beige, antique cream, dusty rose, muted green, faded blue, terracotta, brown and subtle gold.
+Photography: cinematic travel photography, shallow depth of field, macro-level detail on the popsicle, realistic perspective, natural daylight, soft golden sunlight, beautiful bokeh, subtle lens compression, physically accurate reflections and refractions, premium editorial photography.
 
-Style: museum-quality textile art, traditional embroidery, cultural heritage illustration, luxury handcrafted poster, vintage aesthetic, photorealistic fabric texture, extremely fine thread details, intricate stitching, elegant composition, soft natural studio lighting, premium editorial photography, highly detailed, 8K.
+Composition: popsicle perfectly centered, landmark clearly visible through the ice, hand entering naturally from the bottom, real city softly surrounding it, strong foreground-to-background depth, clean visual hierarchy, no text, no logos.
 
-Important: Make every cultural element specifically authentic to {{COUNTRY_NAME}}. Do not mix landmarks, symbols, clothing, architecture, or cultural elements from other countries.
+Mood: magical, elegant, surreal but believable — “the whole city frozen into one unforgettable bite.”
+
+Ultra-photorealistic, high dynamic range, intricate miniature architecture, realistic ice physics, natural colors, sophisticated travel campaign aesthetic, 8K detail.
 ```
 
 </details>
@@ -565,7 +555,7 @@ Important: Make every cultural element specifically authentic to {{COUNTRY_NAME}
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HQfEAAaa4AAnV_n.jpg" width="700" alt="Embroidered Cultural Heritage Map">
+<img src="https://image.moge.ai/prompt_media/HQjTO3ZacAA8jFO.jpg" width="700" alt="City Frozen Inside an Ice Popsicle">
 </div>
 
 <br>
@@ -574,13 +564,13 @@ Important: Make every cultural element specifically authentic to {{COUNTRY_NAME}
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Zarnab Ai](https://x.com/Zarnab_with_Ai) | [X / Twitter](https://x.com/Zarnab_with_Ai/status/2091856090086707620) | 2026-08-24 |
+| [simeon-sanai](https://x.com/Naiknelofar788) | [X / Twitter](https://x.com/Naiknelofar788/status/2092154294816665829) | 2026-08-25 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2091856090086707620)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2092154294816665829)**
 
 </div>
 
@@ -815,72 +805,45 @@ Ultra-realistic professional photography, 85mm portrait lens, shallow depth of f
 
 ---
 
-### No. 13: Ember Wrap Shawarma Street-Food Poster
+### No. 13: Orbit-Layout Food Festival Poster
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a premium street-food advertising poster with a giant upright shawarma as hero, monumental distressed typography behind it, and a cinematic dark-and-gold mood.
+Creates a premium food festival poster with an orange background, central title, and real dishes arranged in a circular orbit with festive illustrations.
 
 #### 🌟 Prompt
 
-Create a premium street-food advertising poster for a fictional gourmet shawarma brand called "EMBER WRAP", …
+Create a flagship festival food campaign poster for an original lifestyle brand named "Golden Market Social", …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a premium street-food advertising poster for a fictional gourmet shawarma brand called "EMBER WRAP", featuring one oversized upright shawarma wrap as the absolute visual hero. Preserve the core visual logic of a bold typographic food poster: a single shawarma standing vertically in the center foreground, wrapped in branded paper, overflowing with chargrilled meat, fresh vegetables, and creamy sauce, set against a deep near-black background with monumental distressed cream-beige headline typography behind it. The final image must merge Transit restraint and Orbit energy: the composition should stay clean, bold, and product-led, while heat, smoke, sauce flow, and food highlights subtly guide the eye upward through the wrap.
+Create a flagship festival food campaign poster for an original lifestyle brand named "Golden Market Social", merging Transit restraint with Orbit energy. Design it as a premium editorial mall-event advertisement that combines ultra-real food photography with playful flat illustration. Keep the same core structural logic: one bright solid orange background, one large central custom title block as the visual anchor, multiple hero dishes arranged in a controlled circular orbit around the center, a reduced number of whimsical illustrated people and market-fair accents, one compact date-information block in the lower middle, one restrained promotional strip, and a QR-code area near the bottom. The final image must feel festive, graphic, premium, clean, and instantly readable from a distance.
 
-Style:
-ultra-realistic commercial food photography, premium fast-casual advertising, flagship street-food poster, photographed not illustrated, macro-detail realism, cinematic black-and-gold mood, no CGI look.
+Style lock: high-end commercial poster design, food-photography collage mixed with flat vector-like folk illustration, bold festival branding, product-first hierarchy, strong color blocking, clean cutout edges, modern Asian food-event campaign, not realistic scene photography, not 3D render.
 
-Core composition:
-Use a tall vertical poster composition. Place one giant shawarma wrap upright in the center, dominating the frame from lower middle to upper middle. Let the wrap overlap huge background typography so the food immediately becomes the first visual focus. Keep the background deep, dark, and uncluttered, with only minimal smoke, warm side glow, and a few restrained ember particles. Preserve a strong hierarchy: hero wrap first, giant typography second, very limited supporting copy third.
+Core composition: one tall vertical poster with a pure orange full-bleed background; one large expressive title block centered in the middle; 5 premium hero food items arranged around it in a balanced clockwise orbit; each food item must be cleanly cut out, vivid, appetizing, and visually weighted with intention. Keep more breathing room around the title and between the dishes than a typical event flyer. Supporting illustrated characters, bunting, utensils, and stall motifs should be present but reduced, acting only as rhythm accents between the foods.
 
-Transit restraint:
-Reduce non-essential visual noise. Keep side notes, badges, and bottom information minimal. Preserve large negative dark areas around the main product and let the typography feel architectural rather than busy. The image should read like an international flagship food poster: fewer elements, stronger authority, cleaner hierarchy.
+Transit logic: simplify the information system, reduce decorative illustrations, compress the lower information area, and preserve generous negative space around the central title. Let the foods, the orange field, and the central title carry the campaign. Avoid the look of a crowded local flyer. The poster should feel like an international flagship visual with disciplined hierarchy.
 
-Orbit motion logic:
-Create a subtle but clear flow from the lower wrapped base upward through the filling. Let rising heat haze, faint smoke, the direction of sauce drips, the angle of meat edges, and the arrangement of vegetables all guide the eye upward and outward from the center opening. The whole wrap should feel hot, alive, and just opened, with appetite energy radiating from the top.
+Orbit logic: arrange the foods, tiny illustrated gestures, bunting arcs, and utensil angles into one clear circular motion path around the title. The eye should move from the top hero dish, sweep clockwise across the right side, drop into the lower dishes, and rise back up the left side toward the center. The movement must feel lively and celebratory, but never chaotic.
 
-Hero product:
-Design one luxurious shawarma wrap with a lightly charred flatbread exterior, tightly folded around a generous filling of grilled chicken or mixed meat, crisp lettuce, diced tomato, cucumber, red onion, herbs, and creamy white garlic-yogurt sauce. The top opening must feel abundant, juicy, and freshly assembled, with layered ingredients clearly visible and packed densely.
+Food design: include a curated set of premium Asian street-food and comfort-food heroes such as a rich noodle bowl, a spicy curry or stew bowl, a coconut dessert block, a platter of colorful bite-size sweets, a bowl of fresh rice noodles, and one plated savory snack. Every dish must look like real photographed food with tactile texture, steam, gloss, herbs, chili, sauce, and believable material richness. Each dish should feel equally premium, but one top-center or upper-middle dish may lead slightly as the primary hero.
 
-Wrap and texture:
-The flatbread must show blistered brown char marks, toasted golden patches, soft fold creases, and realistic flour-dry texture. The paper sleeve around the lower half should feel crinkled, slightly grease-touched, and premium, printed with original graphic branding elements in an elegant street-luxury style. The wrap must feel substantial, hot, and handheld-real.
+Illustration language: use a reduced set of playful flat festival characters in simplified shapes and expressive poses: a vendor, a diner, a strolling visitor, and one or two tiny service figures only. Add small market umbrellas, bunting flags, bowls, spoons, and minimal motion accents. The illustration style should feel light, cheerful, modern-folk, and clean, never childish or messy.
 
-Typography and layout:
-Place giant distressed cream-beige block letters behind the shawarma using original English wording such as:
-FLAME
-WRAP
-Let the text be oversized, vertically stacked, and partially hidden by the wrap. Add only one restrained accent line in a warm golden brush or condensed style, such as:
-BOLD BITE
-Keep supporting copy extremely sparse, for example:
-JUICY. CHARRED. REAL.
-and a minimal brand sign-off:
-EMBER WRAP
-ESTD 2026
-No cluttered copy blocks, no excessive labels.
+Typography and layout: use original text only, never copy any existing wording. Place a large central event title in expressive bold lettering such as "FLAVOR FAIR SOCIAL" with a smaller subtitle beneath like "A festival of bowls, bites, and shared joy". Add one compact date block in the lower middle, a short promotional strip below it, and a QR code box at the lower-right. Use minimal brand and venue logos along the bottom edge. Typography should be bold, graphic, festive, and highly legible, but always secondary to the food.
 
-Lighting:
-Use dramatic warm food lighting from upper left and slightly behind, creating glossy highlights on the grilled meat, creamy sheen on the sauce, and soft rim light on the flatbread edges. Add gentle frontal fill only to preserve readability. The background should remain dark with a subtle amber haze. The wrap must feel hotter, more tactile, and more premium than the surroundings.
+Lighting and realism: food items must be lit like premium studio food photography, with soft highlights, appetizing contrast, realistic shadows, and clean cutout separation from the flat background. The illustrations should remain flat and graphic, creating a refined contrast with the realistic food textures.
 
-Materials:
-Render the grilled meat with caramelized edges, charred corners, juicy fibers, and light oil sheen. Render the vegetables crisp and fresh with realistic moisture. Render the white sauce thick, creamy, and naturally flowing. Render the flatbread with toasted bubbles, scorched spots, and soft fold tension. Render the paper sleeve with fiber texture, printed ink detail, and light grease absorption. Add only a few crumbs and tiny ember-like particles.
+Color system: dominant bright festival orange background, supported by cream, black, warm red, leafy green, coconut white, curry gold, and restrained dessert pastel notes. Keep the palette vivid but disciplined, with high contrast and excellent poster legibility.
 
-Color palette:
-Use a disciplined palette of deep black, warm beige typography, toasted brown flatbread, golden-brown grilled meat, creamy white sauce, restrained lettuce green, tomato red, and warm ember-gold highlights. Keep the shawarma as the richest and brightest object in the frame.
+Quality and physical rules: extremely sharp food cutouts, no muddy edges, no inconsistent shadows, no warped bowls or plates, no blurry dishes, no cluttered information overload, no cheap flyer feeling. The foods must remain the absolute visual heroes even within the festive illustrated environment. Maintain clean spacing, strong center balance, polished print-ready quality, and premium campaign coherence.
 
-Atmosphere:
-The mood must feel bold, hot, craveable, urban, premium, smoky, and unforgettable. The poster should balance street-food energy with luxury advertising precision, making the wrap feel iconic and instantly desirable.
-
-Quality and physical rules:
-extreme detail, realistic grilled texture, realistic sauce viscosity, crisp vegetable detail, clean typography edges, deep clean blacks, no muddy shadows, no blown highlights, no extra food props, no human figure, no distorted wrap shape, no fake CGI texture, no cluttered layout.
-
-Negative prompt:
-copied text, existing brand names, watermark, extra props, fries, drinks, human hands, messy composition, plastic-looking sauce, fake grilled meat texture, low-resolution food detail, muddy blacks, overexposed highlights, illustration style, CGI render look, unreadable typography, distorted wrap geometry, cluttered poster elements
+Negative prompt: copied title text, copied branding, cluttered flyer layout, weak food hierarchy, blurry food, inconsistent cutout shadows, messy vector shapes, childish cartoon look, CGI render feel, low-resolution print, muddy colors, too many decorative elements, unreadable typography, warped plates or bowls, dead black patches, product losing dominance.
 ```
 
 </details>
@@ -888,7 +851,7 @@ copied text, existing brand names, watermark, extra props, fries, drinks, human 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HQerKVeaUAAxRJX.jpg" width="700" alt="Ember Wrap Shawarma Street-Food Poster">
+<img src="https://image.moge.ai/prompt_media/HQjXZbMbwAAC3fH.jpg" width="700" alt="Orbit-Layout Food Festival Poster">
 </div>
 
 <br>
@@ -897,56 +860,202 @@ copied text, existing brand names, watermark, extra props, fries, drinks, human 
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2091828765160784383) | 2026-08-24 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2092158879635550715) | 2026-08-25 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2091828765160784383)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2092158879635550715)**
 
 </div>
 
 ---
 
-### No. 14: Dreamlike Sailing Ship with Iridescent Sails
+### No. 14: Minimalist Editorial Travel Poster
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-A majestic sailing ship with iridescent sails glides across a mirror-like sea under a pastel sky, in a serene, ethereal cinematic magical-realism scene.
+Creates a vertical, elegant vector travel poster for any city, featuring an iconic landmark, local transport, vegetation and small-scale figures in a refined Japanese-stationery style.
 
 #### 🌟 Prompt
 
-A unique fantasy campaign scene of a majestic sailing ship drifting calmly across a glassy, reflective sea …
+Premium minimalist editorial flat-vector travel poster for [CITY\_NAME], 3:4 vertical format. Create an …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-A unique fantasy campaign scene of a majestic sailing ship drifting calmly across a glassy, reflective sea beneath a pastel sky, reimagined with fresh visual storytelling and an entirely new composition. The sails shimmer with iridescent glow, catching soft atmospheric light as the vessel feels suspended between reality and dream, with a tranquil, magical realism atmosphere that remains serene yet distinctly original.
-Environment:
-• Vast open sea with mirror-like reflections, gentle ripples, and a horizon that feels expansive and cinematic
-• Fluffy cloud formations in layered pastel tones, creating depth without clutter
-• Avoid additional ships, landmasses, birds, or distracting objects that break the quiet solitude
-Lighting:
-• Soft ethereal daylight with diffused illumination across sails, rigging, and water
-• Subtle rim light on the ship's silhouette and delicate glow bloom around iridescent surfaces
-• No harsh shadows, no blown highlights, no aggressive contrast
-Materials:
-• Sails with pearlescent, translucent fabric behavior and luminous color shifts
-• Dark polished wood hull with realistic grain and gentle specular highlights
-• Water with a smooth reflective surface and believable light scatter
-Composition:
-• Wide cinematic framing with the ship placed off-center for a more unique, editorial balance
-• Emphasize negative space in sky and water to heighten the dreamlike stillness
-• Calm horizontal composition with the vessel occupying a strong but elegant share of the frame
-Mood:
-Serene, mystical, and quietly otherworldly with a fresh, unique fantasy-cinematic identity
-Shot on 85mm lens, f/2.8, shallow depth of field, ultra-detailed, 8K realism
+Premium minimalist editorial flat-vector travel poster for [CITY_NAME], 3:4 vertical format.
 
-A majestic sailing ship with iridescent, glowing sails drifts calmly across a glassy, reflective sea under a pastel sky filled with fluffy clouds; the overall composition is serene and dreamlike, with soft, ethereal lighting and a tranquil mood reminiscent of a fantasy or magical realism painting.
+Create an original, sophisticated luxury travel poster that captures the authentic personality, architecture, landscape and everyday atmosphere of [CITY_NAME]. The artwork should combine the refined editorial elegance of a boutique travel postcard with a beautifully detailed Japanese stationery-inspired illustration style.
+
+CITY IDENTITY
+
+First understand the unique character of [CITY_NAME] and build the entire scene specifically around the city. Include these five elements naturally:
+
+1. One highly recognizable landmark, historic building, architectural feature, pagoda, mosque, church, skyline structure, waterfront building, bridge, or other city-defining element.
+2. A distinctive local form of transportation such as a ferry, tram, bicycle, boat, metro, traditional vehicle, or another authentic method of moving through the city.
+3. One subtle everyday lifestyle moment showing local people naturally enjoying the environment.
+4. A characteristic natural element such as coastline, ocean, river, mountains, trees, cherry blossoms, Mediterranean flowers, evergreen forest, gardens, or native vegetation.
+5. A viewpoint and composition that genuinely belongs to the geography and visual identity of [CITY_NAME].
+
+The scene should feel like a carefully designed destination poster rather than a collection of famous landmarks. Change the viewpoint, foreground, architecture, landmark position and supporting elements according to the selected city.
+
+Possible compositions include:
+a beautiful waterfront promenade, historic hillside staircase, traditional old-town street, harbor viewpoint, riverside walkway, coastal terrace, mountain-facing park, heritage square, ferry terminal, traditional market street, botanical garden, cultural plaza, or elevated city overlook.
+
+Choose the composition that best represents [CITY_NAME].
+
+TYPOGRAPHY
+
+Place “[CITY_NAME]” prominently in the upper-left or another naturally suitable area with generous clean negative space.
+
+Add the appropriate country name and a small, accurate national flag.
+
+Include one short sophisticated English tagline inspired by the atmosphere, geography, culture or personality of the city.
+
+Typography should feel elegant, editorial, spacious and premium. Use refined serif or clean modern typography depending on the city's visual character. Text must remain secondary to the artwork and should never overcrowd the composition.
+
+VISUAL HIERARCHY
+
+Use one iconic landmark or architectural feature as the main focal point.
+
+Support it with only 3–6 carefully selected local elements such as transportation, flowers, trees, waterfront details, traditional buildings, street lamps, cafés, boats, bridges, mountains or cultural objects.
+
+Avoid creating a collage of famous landmarks. Every element should have a clear visual purpose and strengthen the sense of place.
+
+PEOPLE
+
+Include approximately 3–6 small-scale figures naturally integrated into the scene.
+
+Give each person a believable local activity, such as walking through a historic street, cycling along a waterfront, sitting on a bench, photographing architecture, reading outdoors, boarding a ferry, enjoying a café, shopping in a local market, carrying a small bag, or quietly exploring the surroundings.
+
+People should remain secondary to the architecture and landscape. Avoid crowds, oversized characters or a single dominant hero person.
+
+LOCAL CHARACTER
+
+Use only details that genuinely belong to [CITY_NAME]:
+
+- local transportation
+- recognizable architecture
+- traditional buildings
+- characteristic street lamps
+- native vegetation
+- flowers and seasonal plants
+- local cafés or restaurants
+- subtle street signs
+- cultural details
+- pavement patterns
+- bridges and waterfront structures
+- local recreational activities
+- small authentic wayfinding elements
+
+Integrate these details naturally. Avoid relying on oversized signboards or excessive written information.
+
+ART DIRECTION
+
+Japanese stationery-inspired aesthetic,
+luxury sticker illustration,
+premium commercial vector artwork,
+modern editorial travel branding,
+elegant boutique postcard design,
+clean delicate outlines,
+consistent line weight,
+simple geometric forms,
+soft refined shapes,
+flat-color illustration,
+subtle illustrative depth,
+balanced visual rhythm,
+beautiful architectural detailing,
+premium destination branding,
+sophisticated travel magazine aesthetic.
+
+The artwork should feel polished, calm, elegant and intentionally designed, combining the charm of illustrated travel posters with the visual quality of premium commercial artwork.
+
+COLOR SYSTEM
+
+Build the primary atmosphere around:
+pale powder blue, soft sky blue, mist blue, cool airy blues, warm ivory and creamy neutrals.
+
+Balance these with:
+soft beige, muted sage, gray-green, natural wood tones, understated architectural colors and gentle terracotta.
+
+Allow small city-specific accent colors such as:
+dusty rose, muted blush, soft red, golden yellow or deep architectural blue.
+
+Keep the entire palette slightly desaturated, harmonious, elegant and sophisticated. Avoid overly bright or artificial colors.
+
+LIGHTING & ATMOSPHERE
+
+Use soft natural daylight with a gentle warm glow. Create subtle atmospheric depth, delicate shadows, soft highlights and a peaceful sense of openness.
+
+For coastal cities, emphasize sparkling water, distant boats, sea reflections and airy skies.
+
+For mountain cities, emphasize layered mountains, atmospheric distance and natural greenery.
+
+For historic cities, emphasize warm stone, traditional architecture, narrow streets and elegant street details.
+
+For Japanese or East Asian destinations, emphasize seasonal flowers, traditional roofs, lanterns, wooden architecture and quiet streets.
+
+For European destinations, emphasize charming balconies, historic façades, stone pathways, flowers, cafés and scenic viewpoints.
+
+For every destination, adapt the visual language naturally instead of forcing the same elements into every design.
+
+MOOD
+
+Fresh, airy, peaceful, refined, elegant, contemporary, romantic and culturally authentic.
+
+The final artwork should look like a premium boutique travel postcard, luxury lifestyle-brand illustration, sophisticated tourism campaign poster and collectible destination artwork.
+
+IMPORTANT QUALITY RULES
+
+Every city must have its own visual identity.
+
+Do not simply replace [CITY_NAME] inside an existing composition.
+
+Change the camera angle, viewpoint, landmark placement, foreground treatment, architecture, transportation, vegetation, people, lighting and supporting details according to the selected city.
+
+The final composition must feel purpose-built for [CITY_NAME], while maintaining the same premium illustrated travel-poster language.
+
+NEGATIVE PROMPT
+
+No photorealism.
+No realistic photography.
+No generic AI artwork.
+No cartoon exaggeration.
+No anime.
+No watercolor.
+No painterly brushwork.
+No heavy paper texture.
+No gradients.
+No excessive 3D rendering.
+No dramatic cinematic lighting.
+No heavy shadows.
+No oversaturated colors.
+No cluttered background.
+No landmark collage.
+No collection of famous attractions.
+No crowded streets.
+No oversized people.
+No dominant hero character.
+No repetitive café composition.
+No fixed foreground formula.
+No identical landmark placement.
+No generic tourist-poster layout.
+No copied city composition.
+No incorrect architecture.
+No incorrect transportation.
+No random cultural elements.
+No inaccurate national flag.
+No excessive signage.
+No misspelled city name.
+No distorted typography.
+No unnecessary decorative objects.
+No watermark.
+No logo.
 ```
 
 </details>
@@ -954,7 +1063,7 @@ A majestic sailing ship with iridescent, glowing sails drifts calmly across a gl
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HQe1-TKXQAAnej1.jpg" width="700" alt="Dreamlike Sailing Ship with Iridescent Sails">
+<img src="https://image.moge.ai/prompt_media/HQicGEyXsAA7y4z.jpg" width="700" alt="Minimalist Editorial Travel Poster">
 </div>
 
 <br>
@@ -963,13 +1072,13 @@ A majestic sailing ship with iridescent, glowing sails drifts calmly across a gl
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Viki](https://x.com/churvikv) | [X / Twitter](https://x.com/churvikv/status/2091840823151255696) | 2026-08-24 |
+| [KrishnaG](https://x.com/KrishnaBio1) | [X / Twitter](https://x.com/KrishnaBio1/status/2092093728353878395) | 2026-08-25 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2091840823151255696)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2092093728353878395)**
 
 </div>
 
@@ -1216,23 +1325,35 @@ Pure white background, full-body fashion outfit display, high-definition real-pe
 
 ---
 
-### No. 19: KitKat: The Bar Is the Break
+### No. 19: Luxury Blush Ad with Miniature Workers
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a premium FMCG KitKat poster where the bar physically interrupts the repeated word WORK, turning the product into the "break" itself.
+Creates an ultra-realistic luxury beauty ad combining a macro skin portrait, liquid blush products, and tiny workers 'applying' the product at giant scale.
 
 #### 🌟 Prompt
 
-KITKAT — THE BREAK CREATIVE DIRECTION Create a premium, agency-level KITKAT advertising poster inspired by …
+Create an ultra-realistic, high-end luxury beauty advertisement inspired by premium editorial cosmetics …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-KITKAT — THE BREAK CREATIVE DIRECTION Create a premium, agency-level KITKAT advertising poster inspired by the visual language of the supplied reference campaign images: bold FMCG social advertising, strong graphic composition, oversized typography, controlled product photography, clean negative space, saturated brand colour, tactile realism and one instantly understandable visual metaphor. Do not copy any specific reference composition, layout or artwork. Extract the common creative principles and build an original KITKAT execution. The poster must feel like a real global FMCG campaign created by a senior art director and photographed by a premium commercial product photographer. Core idea: THE KITKAT LITERALLY CREATES THE BREAK. The visual should communicate the concept before the viewer reads the copy. CAMPAIGN DNA Brand: KITKAT Product: Classic KITKAT 4-Finger Milk Chocolate Bar Campaign territory: Have a Break Concept: The Break Personality: playful, clever, youthful, confident, instantly recognizable Colour system: dominant KITKAT red, deep chocolate brown, white, very subtle cream, restrained dark red. The red should create immediate KITKAT ownership without making the image look like a generic red advertisement. CREATIVE IDEA — THE BREAK: build the entire poster around one graphic interruption. A continuous horizontal typographic rhythm runs across the composition: WORK WORK WORK WORK WORK WORK. The repetition represents the endless pressure and routine of the workday. At the exact centre of the sequence, the rhythm is interrupted. The KITKAT occupies that interruption. The product should visually function as the missing section of the continuous line. The viewer should instantly understand: WORK → WORK → WORK → KITKAT → BREAK. The KITKAT is not placed on top of the concept. The KITKAT IS the interruption. Make the relationship between typography and product feel physically constructed, as if the chocolate bar has literally broken the repeated word pattern. CREATIVE EXECUTION: graphic visual metaphor + premium product hero + editorial FMCG poster. Use: oversized typography, product geometry, repetition, negative space, scale contrast, visual interruption, controlled shadows, strong alignment, premium product photography. Avoid environmental storytelling. This must NOT look like a lifestyle photograph. BACKGROUND: create a completely controlled studio advertising field. Use a rich, saturated KITKAT red background with subtle tonal depth. The background may contain: extremely subtle paper/fabric texture, restrained radial falloff, very soft tonal gradients, faint dimensional shadowing. Keep it fundamentally flat, graphic and intentional. No realistic environment, room, desk, office, architecture, furniture, landscape, scenery or decorative objects. HERO PRODUCT: use the uploaded KITKAT product reference as the primary packaging reference. Preserve its recognizable packaging identity and proportions. Create a premium commercial interpretation of the classic KITKAT 4-Finger Milk Chocolate Bar. The product should sit horizontally across the centre of the composition, acting as the physical break in the typography. Partially unwrap the right side so the four chocolate fingers are visible. Packaging accuracy: preserve the iconic KITKAT red wrapper, accurate white KITKAT wordmark, Nestlé branding where present, four-finger format, authentic wrapper proportions, realistic wrapper folds, realistic printed packaging, believable foil, subtle material reflections, natural wrapper tension, accurate chocolate geometry. Do not invent packaging details. Do not redesign the logo. Do not create a fictional KITKAT package. The uploaded reference is the visual source of truth for the product. CHOCOLATE: the exposed chocolate fingers must look physically real. Show: four distinct fingers, embossed KITKAT detailing, realistic milk-chocolate colour, subtle tempering variation, crisp edges, visible wafer layers at the broken end, tiny natural wafer crumbs. Use restrained crumbs only around the break. No chocolate splash, melting chocolate, floating pieces or exaggerated CGI effects. The chocolate should look edible, tactile and premium. TYPOGRAPHIC SYSTEM: typography is an essential part of the visual metaphor. Primary headline HAVE A BREAK. Secondary headline HAVE A KITKAT. Use a bold contemporary grotesk / heavy sans-serif typeface. Typography should feel like professional FMCG campaign typography, not a Canva template. Large scale. Tight but controlled spacing. Strong alignment. Minimal decoration. WORK SYSTEM: place repeated WORK typography horizontally behind the KITKAT. Example: WORK WORK WORK WORK [KITKAT] WORK WORK WORK. The product must interrupt the sequence. The words immediately surrounding the product should feel visually compressed toward the bar, reinforcing the idea that the KITKAT has physically stopped the repetitive rhythm. Use deep chocolate-brown or dark red typography so it remains integrated into the red background. Allow portions of the typography to disappear behind the product. The product must remain clearly readable. COMPOSITION: Format 4:5 vertical. Create a premium Instagram advertising composition with strong visual hierarchy. Suggested structure: TOP small KITKAT logo or restrained brand identifier, large negative space. UPPER-MIDDLE large: HAVE A BREAK. Below it: HAVE A KITKAT. CENTRE repeated WORK typography, KITKAT bar physically interrupting the sequence — this is the visual hero. LOWER-MIDDLE minimal conceptual lockup: — BREAK —. BOTTOM small supporting line: Take a moment. Break the routine. Optional restrained CTA: HAVE A BREAK. Keep the bottom area clean. VISUAL HIERARCHY: the eye should move in this order: 1. KITKAT product 2. physical interruption / WORK → BREAK 3. HAVE A BREAK. 4. HAVE A KITKAT. 5. minimal supporting copy. Do not allow the typography to overpower the product. The product must remain the most important physical object. TYPOGRAPHIC ART DIRECTION: take inspiration from the references' use of oversized headlines, strong type hierarchy, slightly condensed heavy lettering, subtle distressed texture, confident alignment, minimal supporting copy, graphic repetition, strong brand colour, editorial advertising layouts. Do not replicate any particular reference. Typography should feel intentionally designed into the image from the beginning. PRODUCT SCALE: make the KITKAT relatively large. It should occupy approximately 55–65% of the poster width. Position it horizontally with enough surrounding negative space to remain immediately recognizable. The chocolate should slightly overlap the repeated WORK typography. Use a soft, realistic contact shadow underneath the product so it feels physically present without becoming a floating CGI object. LIGHTING: premium studio product photography. Use: large soft frontal key light, subtle overhead fill, controlled side light, delicate rim separation, soft contact shadow, precise wrapper highlights, controlled chocolate reflections. The product should have dimensionality while the background remains graphic. Avoid: HDR, bloom, lens flare, blue-orange cinematic grading, artificial glow, excessive reflections, plastic-looking packaging. CAMERA / PHOTOGRAPHIC QUALITY: simulate premium medium-format commercial photography. Camera: Phase One XF IQ4 150MP. Lens: Schneider Kreuznach 80mm macro / approximately 90mm equivalent. Aperture: approximately f/8 for controlled product clarity. Focus: critical focus across the packaging and exposed chocolate. Rendering: extremely high micro-detail, natural perspective, smooth highlight roll-off, realistic material response. The final product must resemble a professionally photographed FMCG packshot composited into a premium graphic campaign. MATERIAL REALISM: Wrapper: real printed flexible packaging with subtle creases, accurate folds, fine printed texture, controlled specular reflections, realistic foil transitions. Chocolate: real milk chocolate with natural micro-texture, subtle imperfections, believable highlights, crisp molded edges, realistic wafer structure. Background: premium matte red advertising surface with extremely subtle tactile texture. Everything must feel physically believable. BRANDING: the packaging itself is the primary brand identifier. Use only one additional KITKAT logo maximum, positioned with restraint. Do not scatter logos. Do not add fake brand badges. Do not create unnecessary legal copy. Do not use excessive hashtags. If used, a tiny #HaveABreak can appear in the upper corner as a secondary brand detail. GRAPHIC DETAIL: introduce extremely subtle design refinement: thin horizontal rules, small typographic dividers, restrained alignment marks, subtle red tonal variation, soft product shadow, minimal chocolate crumbs at the break. These details must support the concept rather than decorate the poster. POST-PRODUCTION: finish as a global FMCG campaign asset. Perform: precision product compositing, accurate packaging rendering, realistic chocolate texture, controlled shadows, premium colour grading, micro-contrast refinement, subtle grain, clean typography, perfect alignment, high-resolution sharpening, realistic material integration. No visible AI artifacts. Typography must be clean and intentional. Packaging must remain structurally accurate. REFERENCE INTERPRETATION: use the supplied reference images as art-direction references, not as templates. Extract these qualities: bold FMCG composition + strong product hero + oversized typography + saturated colour + visual metaphor + clean negative space + premium photorealism + social-media readability. The final design should feel like it belongs in the same high-end AI advertising / FMCG campaign ecosystem, while remaining completely original to KITKAT. NEGATIVE DIRECTION: NO environment, office, desk, kitchen, café, room, furniture, people, lifestyle scene, realistic location, stock photography, generic chocolate advertisement, chocolate splash, melted chocolate, floating pieces, excessive crumbs, CGI spectacle, smoke, particles, neon effects, dramatic scenery, complicated background, multiple concepts, visual clutter, excessive copy, fake logos, duplicated logos, distorted KITKAT packaging, malformed chocolate fingers, incorrect wrapper geometry, generic AI typography, Canva-template appearance, plastic-looking chocolate, fake HDR, excessive sharpening, oversaturation. FINAL CREATIVE TEST: before finalizing, the poster must pass three tests: 1. Thumbnail test: at Instagram thumbnail size, the KITKAT and the visual interruption remain immediately recognizable. 2. One-sentence test: the concept can be explained simply: "The KITKAT literally creates the break in the endless WORK." 3. Advertising test: it should look sophisticated enough to appear as a real global FMCG campaign, not an AI-generated product poster. FINAL MESSAGE: THE PRODUCT IS THE BREAK.
+Create an ultra-realistic, high-end luxury beauty advertisement inspired by premium editorial cosmetics photography. The composition features a close-up macro portrait of a woman’s face filling the background, with natural warm skin tones, realistic pores, subtle freckles, delicate skin texture, glossy hydrated lips, and soft golden studio lighting. Keep the facial appearance elegant, natural, refined, and photorealistic, with a sophisticated beauty-campaign aesthetic.
+
+In the foreground, place premium liquid makeup products inspired by a modern luxury cosmetic brand. Include a tall frosted glass liquid blush bottle standing upright and another matching blush container lying horizontally on the surface. The packaging should have a soft muted rosy-pink/coral liquid visible through the frosted glass, clean minimalist typography, and a luxurious metallic gold cap. Place the applicator wand beside the bottle, with a soft fluffy doe-foot applicator carrying a small amount of rosy blush product.
+
+Add a creative miniature-world concept: several tiny professional beauty workers dressed in clean white work uniforms, black utility belts, black shoes, and pink protective helmets are climbing thin ropes around the cosmetic products. Some miniature workers should appear carefully painting or applying blush to the giant skin surface with tiny rollers and cosmetic tools, while another worker climbs toward the product bottle, creating the illusion that the cosmetic product is being professionally crafted and applied at a massive scale. The miniature figures should have realistic proportions, detailed clothing, believable poses, tiny equipment, realistic shadows, and physically accurate interaction with the environment.
+
+Arrange the products on a smooth warm beige/pink studio surface with subtle reflections and soft shadows. Use a carefully controlled luxury commercial lighting setup: warm diffused key light, gentle rim lighting, soft highlights on the glass and metallic gold cap, realistic reflections, cinematic depth of field, and subtle atmospheric glow. The background should remain minimal, elegant, warm, and uncluttered so the cosmetics and miniature workers remain the main focus.
+
+Use a premium beauty campaign composition with a slightly low product angle, macro photography aesthetics, shallow depth of field, realistic bokeh, extremely detailed glass textures, realistic liquid translucency, natural skin texture, accurate material reflections, and professional color grading. Make every element look physically present in the same scene rather than digitally pasted together.
+
+Overall mood: luxurious, feminine, creative, playful, premium, sophisticated, and visually striking. The final image should resemble a high-budget international cosmetic advertising campaign combined with imaginative miniature photography.
+
+Ultra-photorealistic, 8K detail, cinematic commercial photography, macro lens, realistic skin pores, realistic freckles, highly detailed miniature humans, physically accurate shadows, natural reflections, premium product styling, warm soft lighting, crisp foreground details, subtle depth of field, realistic materials, professional beauty photography, editorial advertising quality, no cartoon appearance, no illustration, no distorted hands, no duplicated people, no malformed faces, no floating objects, no unrealistic anatomy.
 ```
 
 </details>
@@ -1240,7 +1361,7 @@ KITKAT — THE BREAK CREATIVE DIRECTION Create a premium, agency-level KITKAT ad
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HQep4mbaQAAXNjJ.jpg" width="700" alt="KitKat: The Bar Is the Break">
+<img src="https://image.moge.ai/prompt_media/HQisx-RWYAA1fuS.jpg" width="700" alt="Luxury Blush Ad with Miniature Workers">
 </div>
 
 <br>
@@ -1249,62 +1370,61 @@ KITKAT — THE BREAK CREATIVE DIRECTION Create a premium, agency-level KITKAT ad
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) | [X / Twitter](https://x.com/Diplomeme/status/2091828505420206275) | 2026-08-24 |
+| [𝐒𝐊_𝐀𝐈](https://x.com/Its_Saad_kkk) | [X / Twitter](https://x.com/Its_Saad_kkk/status/2092112107982455130) | 2026-08-25 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2091828505420206275)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2092112107982455130)**
 
 </div>
 
 ---
 
-### No. 20: Luxury House Beneath a Frozen Ocean
+### No. 20: Continuous Line Travel Poster
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Creates a cinematic underwater architectural scene of a luxury brutalist mansion submerged beneath a fractured ice sheet, with volumetric sunlight and marine life.
+Creates a 4:5 travel poster of a country in one continuous line-art scene, blending landmarks, landscapes, food and culture into a nostalgic hand-drawn journal.
 
 #### 🌟 Prompt
 
-Create an ultra-detailed, photorealistic cinematic underwater architectural scene: a luxurious modern …
+Create a premium vertical 4:5 travel poster for [COUNTRY], illustrated as one elegant continuous hand-drawn …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create an ultra-detailed, photorealistic cinematic underwater architectural scene: a luxurious modern brutalist-contemporary house completely submerged beneath a vast frozen ocean/ice shelf. The composition should feel like an impossible but physically believable architectural photograph captured by a professional underwater cinematographer.
+Create a premium vertical 4:5 travel poster for [COUNTRY], illustrated as one elegant continuous hand-drawn line-art composition.
 
-Architecture:
-A large multi-level luxury residence built from raw concrete, dark charcoal metal panels, aged stone, enormous floor-to-ceiling glass windows, and warm natural wood. The building is integrated into rugged underwater terrain rather than floating. Several sections cantilever dramatically over rocks. Exposed concrete surfaces show subtle weathering and marine growth. Thick green vines and aquatic vegetation naturally crawl across balconies, walls, railings, and structural edges, creating a beautiful contrast between modern architecture and an ancient underwater ecosystem.
+Instead of placing landmarks separately, make them flow organically into one another, as if the entire country was drawn in a single uninterrupted travel sketch. Combine the country’s most recognizable architecture, landscapes, culture, food, transportation, nature, and tiny everyday details into one beautifully balanced scene.
 
-Environment:
-The house sits on a dark rocky seabed surrounded by enormous fallen tree trunks, weathered roots, stones, aquatic plants, sea grass, corals, and small underwater vegetation. A cracked stone pathway begins in the foreground and naturally leads toward a mysterious entrance beneath the house. The path should create strong visual depth and guide the viewer's eye into the architecture.
+Use bold black ink outlines, delicate cross-hatching, playful imperfect hand-drawn details, subtle vintage-poster typography, and a mostly warm off-white paper background. Add only 2–3 signature accent colors inspired by the country.
 
-Frozen ocean ceiling:
-Above the house is a gigantic fractured layer of transparent blue-white ice. The viewer is positioned underwater looking upward toward the underside of the frozen surface. Large cracks, trapped bubbles, translucent ice formations, and irregular frozen textures are clearly visible. Through a massive opening in the ice, warm sunlight breaks through from the surface.
+Include:
 
-Lighting:
-Use spectacular volumetric sunlight streaming down through the opening in the ice, producing long golden underwater god rays that illuminate the center of the house and seabed. The overall environment should be predominantly deep ocean blue and cyan, while the sunlight creates a warm golden contrast. Interior rooms glow subtly with realistic warm tungsten lighting through the windows. Physically accurate underwater light scattering, caustics, atmospheric haze, suspended particles, and realistic light absorption.
+One dominant iconic landmark
+A second architectural landmark subtly integrated into the skyline
+A famous natural landscape in the background
+Local transportation
+Traditional clothing or cultural detail
+A recognizable food or drink
+Small street-life moments
+Birds, clouds, plants and tiny decorative elements
+Handwritten labels pointing to selected elements
 
-Marine life:
-Populate the scene naturally with schools of small fish moving around the architecture, a few larger fish passing in the foreground and midground, tiny bubbles rising toward the ice, and subtle aquatic organisms around the rocks. Marine life must feel naturally integrated into the environment rather than decorative or randomly placed.
+At the top, use a large playful hand-lettered title:
 
-Interior details:
-Through the large glass windows, reveal elegant minimalist interiors: warm lamps, contemporary furniture, bookshelves, dining areas, plants, and subtle architectural lighting. The interiors should feel luxurious but lived-in, contrasting with the dark abandoned-looking underwater exterior.
+“[COUNTRY]”
 
-Composition:
-Vertical cinematic composition, approximately 4:5. Wide-angle architectural photography, camera positioned several meters in front of the residence at approximately eye level with a slight upward perspective. Strong foreground, middle-ground, and background separation. The pathway and architecture create leading lines toward the center. The fractured ice ceiling frames the upper portion of the image while the house dominates the middle of the frame.
+Below it, add a tiny elegant subtitle:
 
-Visual style:
-Ultra-realistic, cinematic architectural photography, high-end concept architecture, grounded photorealism, physically plausible materials, realistic underwater physics, subtle filmic contrast, extremely detailed textures, natural imperfections, realistic reflections and refractions, volumetric lighting, atmospheric depth, HDR, professional color grading, dramatic but believable lighting, masterpiece-level environmental detail.
+“A little world to discover”
 
-Mood:
-Mysterious, serene.
+Make the composition feel collected, whimsical, editorial, nostalgic and handcrafted, like a beautifully illustrated travel journal rather than a generic tourist poster. Avoid photorealism, gradients, 3D rendering and excessive colors. Clean white space around the illustration, highly detailed ink work, charming imperfections, premium stationery aesthetic, screen-print texture, sophisticated yet playful.
 ```
 
 </details>
@@ -1312,7 +1432,7 @@ Mysterious, serene.
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HQemG_KagAAPMvr.jpg" width="700" alt="Luxury House Beneath a Frozen Ocean">
+<img src="https://image.moge.ai/prompt_media/HQiO-2CaEAA5wNE.jpg" width="700" alt="Continuous Line Travel Poster">
 </div>
 
 <br>
@@ -1321,13 +1441,13 @@ Mysterious, serene.
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [WeWant Mars](https://x.com/Madhuribhai) | [X / Twitter](https://x.com/Madhuribhai/status/2091823200359403670) | 2026-08-24 |
+| [simeon-sanai](https://x.com/Naiknelofar788) | [X / Twitter](https://x.com/Naiknelofar788/status/2092079254775435448) | 2026-08-25 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2091823200359403670)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2092079254775435448)**
 
 </div>
 
@@ -1648,47 +1768,55 @@ Ultra-realistic luxury fashion photography, premium haute couture editorial, tim
 
 ---
 
-### No. 25: Oversized Editorial Typography Campaign
+### No. 25: Oversized Typography Reacting to Force
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates an editorial campaign poster where oversized typography performs a real visual function—shadow, frame, light, or route—interacting with the product or model.
+Creates a bold editorial campaign poster where oversized typography deforms in response to the physical force created by the subject or product.
 
 #### 🌟 Prompt
 
-Create a bold editorial campaign poster where oversized typography actively shapes the visual concept instead …
+Create a bold editorial campaign poster where oversized typography reacts to a physical force created by the …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a bold editorial campaign poster where oversized typography actively shapes the visual concept instead of simply sitting in the background.
+Create a bold editorial campaign poster where oversized typography reacts to a physical force created by the subject or product.
 
 Brand: [BRAND NAME]
 Product / Campaign: [PRODUCT OR CAMPAIGN]
 Main Word: [SHORT WORD]
-Subject / Product: [PERSON / PRODUCT / BOTH]
-Typography Function: [SHADOW / FRAME / LIGHT / ROUTE / OTHER]
+Subject: [PERSON / PRODUCT / BOTH]
+Action: [STEP / JUMP / PULL / SKATE / ETC.]
+Force: [PRESS / PUSH / WRAP / SLIDE / OTHER]
+Force Direction: [DOWN / UP / ROTATE / DIAGONAL / OTHER]
 Main Color: [COLOR]
 Accent Color: [COLOR]
-Campaign Details: [SLOGAN / SPECS / DATE / OTHER]
 Aspect Ratio: [9:16]
 
-Use contemporary editorial design, realistic commercial photography, bold oversized typography, and a strong high-contrast color system.
+Use realistic commercial photography, oversized typography, high-contrast colors, and contemporary editorial design.
 
-Make the main word extremely large, filling roughly 50–75% of the composition. Allow letters to extend beyond the canvas, be cropped, overlap the subject, or use their negative space as part of the layout.
+Make the main word extremely large, filling roughly 50–75% of the frame. The typography should visibly respond to the chosen force instead of remaining static.
 
-Most importantly, give the typography a clear visual function. For example, let the letters cast shadows across the subject, frame a product, shape the lighting, create a movement path, or organize the scene in another meaningful way.
+For example:
 
-The subject or product should interact naturally with this typography system so the text, photography, and graphic elements feel designed as one composition.
+ PRESS: compress, bend, or shift the letters at the point of impact.
+ PUSH: stretch the typography along an upward or forward direction.
+ WRAP: let large letterforms pass behind and in front of the subject to create an enclosing motion.
+ SLIDE: offset and shift the letters along one strong directional axis.
 
-Use one dominant color with a contrasting secondary color, black, white, and only a small amount of accent color.
+The deformation must follow the subject’s actual movement and force direction. Keep the typography graphic and readable — avoid turning it into soft 3D, liquid, or cartoon lettering.
 
-Add a few meaningful campaign details such as the brand name, product name, slogan, specifications, labels, route information, or small editorial text. Keep them organized and relevant to the actual concept instead of using random filler words.
+Create clear foreground–subject–background interaction so the person or product feels physically connected to the type.
 
-Keep people, products, materials, lighting, and shadows realistic and polished. The final image should feel like a finished commercial campaign key visual — bold, colorful, editorial, and visually complete.
+Use one dominant high-impact color with black, white, and a contrasting accent color. Add only a few meaningful campaign details such as the brand name, product name, slogan, specifications, labels, or small editorial text.
+
+Keep people and products realistic, with believable proportions, materials, lighting, shadows, and dynamic movement.
+
+The final image should feel like a finished campaign key visual where force, subject, typography, and composition all move together.
 ```
 
 </details>
@@ -1696,7 +1824,7 @@ Keep people, products, materials, lighting, and shadows realistic and polished. 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HQd0PqBWEAAvK4u.jpg" width="700" alt="Oversized Editorial Typography Campaign">
+<img src="https://image.moge.ai/prompt_media/HQhmZ_LWwAAtjGM.jpg" width="700" alt="Oversized Typography Reacting to Force">
 </div>
 
 <br>
@@ -1705,108 +1833,48 @@ Keep people, products, materials, lighting, and shadows realistic and polished. 
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2091768524037333319) | 2026-08-24 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2092034848718274659) | 2026-08-24 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2091768524037333319)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2092034848718274659)**
 
 </div>
 
 ---
 
-### No. 26: Theme-Based Collage Template
+### No. 26: Airy Oriental Good Morning Poster
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Turns any theme into an artistic multi-scene editorial collage with an irregular, asymmetric layout unified by style and palette.
+Creates a minimalist Oriental good-morning poster with vast high-key white space, horizontal translucent color bands, a tiny thematic silhouette, and huge bilingual typography.
 
 #### 🌟 Prompt
 
-THEME = enter theme STYLE = enter the style you want PALETTE = enter the color palette ASPECT RATIO = enter …
+Build a clear, quiet visual with an Oriental seasonal feel around any thematic subject: let a large area of …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-THEME = enter theme
-STYLE = enter the style you want
-PALETTE = enter the color palette
-ASPECT RATIO = enter the aspect ratio you want
+Build a clear, quiet visual with an Oriental seasonal feel around any thematic subject: let a large area of high-brightness white space be the main environment, with several horizontally extended semi-transparent soft color bands stretching from the middle of the frame downward, their edges feathered like water vapor, wet bleeding, and out-of-focus light, uneven in width, density, and spacing, locally forming slight ripples, reflections, and layers of depth; deep in the white space, place a small silhouette symbol distilled from the theme's meaning, at a restrained scale, close to a thin color band or horizontal line, with a blurred faint shadow, creating a strong scale contrast between the tiny narrative element and the vast white mist. Scatter a few elongated fragments or light leaf-like brush strokes derived from the theme, with random direction and density, to guide the eye without filling the space. Information concentrates on one upper side: the English main title uses an extra-large, tall and slender modern serif with strong stroke-weight contrast, split into short lines, with generous letter spacing, forming a clear and calm black skeleton; the Chinese theme title sits below it, using a more condensed and heavy letterform with slight calligraphic sharpness and ink undulation, contrasting in scale and stroke density with the English, and embedding a simple color block extracted from the theme's core symbol between the words. Below, tiny-sized explanatory text; on the other side, a small date or numbering combination, with slightly larger numerals and compact fine text around it; along the edge, a sparse column of vertical micro-text interspersed with short lines, keeping an asymmetric balance. Colors do not copy fixed hues but derive from the theme's mood, cultural associations, and core object: use a very light, low-saturation, near-white thematic base tone covering most of the space, a slightly darker yet still soft color of the same family for the misty color bands and distant layers, and a small amount of medium-saturation thematic accent color to mark the symbol, local strokes, and graphic nodes within the text, keeping body text near black; overall maintain a high-brightness, low-contrast, airy, bright and clean color mood, with the accent color used only as small focus. Surface treatment keeps a smooth digital ink and thin paper feel, with subtle diffusion and weak grain in the misted areas, relatively crisp text edges and moderately bleeding graphic edges, without heavy grime, strong shadows, or crowded decoration. The final reading order should first see the striking bilingual title, then fall to the Chinese theme and colored symbol, then follow the horizontal mist band in search of the tiny narrative silhouette, and finally discover the date and fine edge text; the tension between "giant text and vast white space, tiny silhouette and flowing color bands" must be preserved.
 
-DO:
-  Create an artistic multi-scene collage built entirely around THEME.
-  Derive subjects, environments, objects, characters and visual events naturally from THEME.
-  Derive the emotional tone, atmosphere and energy naturally from THEME.
-  Use people, animals, objects, landscapes, architecture, abstract forms or any combination of them when they meaningfully support THEME.
-  Treat each scene as a distinct emotional or conceptual fragment from the same world.
-  Build the composition like an expressive editorial art spread rather than a storyboard or regular panel grid.
-  Freely vary the number, scale, proportions and placement of scenes.
-  Combine large dominant images with narrow vertical fragments, wide horizontal crops, small detail scenes and partially cropped compositions.
-  Stagger scene edges and shift their alignments to create an irregular visual rhythm.
-  Let some scenes extend fully to the canvas edge while others terminate against neighboring imagery.
-  Use occasional L-shaped, stepped or offset arrangements created naturally by neighboring scene proportions.
-  Avoid repeating the same rectangle size or alignment across the composition.
-  Keep scenes visually separate without visible frames or empty gaps between them.
-  Let neighboring scenes meet through irregular crop relationships while keeping their environments independent.
-  Do not blend separate locations into one continuous environment.
-  Keep the main subjects of each scene visually contained within that scene.
-  Use architecture, large color fields and negative space to shape the overall composition.
-  Connect neighboring scenes through color relationships, visual rhythm and thematic echoes rather than physically merging their content.
-  Choose environments and situations specifically suited to THEME.
-  Include occasional intimate fragments such as hands, objects, windows, silhouettes, architectural details or empty spaces when they strengthen THEME.
-  Give each scene a different visual scale, point of view and conceptual focus.
-  Use expressive lighting, shape, perspective and negative space according to STYLE.
-  Vary the emphasis of PALETTE from scene to scene while preserving overall harmony.
-  Maintain consistency whenever subjects, characters, objects or locations recur.
-  Keep the final composition visually clean, sophisticated and intentionally irregular.
+Theme: good morning + greeting + GOOD MORNING + city + inspiring quote + weather + 2026-08-25
 
-CAMERA: varied editorial framing, environmental wides, cropped medium views, isolated details, unusual negative-space compositions, overhead fragments and off-center perspectives chosen according to THEME
+A display of 10 classic flowers from 10 countries
 
-RULES:
-  Use STYLE as the authority for medium, linework, texture, shading, shape design and overall rendering language.
-  Use PALETTE as the dominant color system across the image.
-  Let THEME determine subjects, setting, mood, symbolism and visual narrative.
-  Every scene must explore a different facet of THEME.
-  The composition must feel assembled, layered and rhythmically irregular rather than divided into uniform boxes.
-  Keep individual scenes independently readable while allowing their shapes and proportions to interact compositionally.
-  Use asymmetry, scale contrast, staggered alignment and varied cropping to create the collage structure.
-  Do not use visible panel outlines.
-  Render every surface freshly, with continuous natural texture flow.
-  Keep grain fine, stochastic, and evenly distributed across the frame.
-  Give each repeated element its own unique micro-variation.
-  Keep flat areas smooth with clean, unbroken tonal gradients.
-  Resolve fine detail crisply at native resolution, as a first-generation render.
+10 images
 
-NO: rigid grid, equal-sized panels, repeated rectangular boxes, visible panel borders, white gutters, margins, outer padding, blended environments, fused scenes, characters spanning multiple scenes, conventional comic-page layout, speech bubbles, captions, text, logos, watermarks
+Each image has a completely different hue logic
 
----
+Each country uses the writing logic of the corresponding country
+Each country uses its corresponding favorite color
 
-Example values:
-
-THEME = thinking of you
-STYLE = clean hand-drawn editorial illustration, playful naïve urban sketching, flat matte colors, loose imperfect ink contours, contemporary picture-book sophistication
-PALETTE = powder blue, warm cream, coral pink, burnt orange, mustard, leafy green, brick red, black accents
-ASPECT RATIO = 1:2
-
-THEME = we don't talk anymore
-STYLE = minimalist contemporary editorial illustration, precise thin linework, large empty spaces, abstract architectural geometry, restrained flat color
-PALETTE = off-white, charcoal, muted navy, faded orange, dusty pink
-ASPECT RATIO = 1:2
-
-THEME = sleepless night
-STYLE = expressive retro graphic novel illustration, loose ink drawing, flat saturated color fields, exaggerated perspective, dramatic blocks of light
-PALETTE = ultramarine blue, acid green, hot red, amber yellow, black
-ASPECT RATIO = 1:2
-
-THEME = almost lovers
-STYLE = delicate watercolor editorial illustration, sparse pencil linework, translucent color washes, soft imperfect edges, elegant negative space
-PALETTE = dusty rose, faded blue, ivory, muted burgundy, soft gray
-ASPECT RATIO = 1:2
+Create images with a fresh Japanese and Korean color palette
 ```
 
 </details>
@@ -1814,7 +1882,7 @@ ASPECT RATIO = 1:2
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HQefRf8XMAApveo.jpg" width="700" alt="Theme-Based Collage Template">
+<img src="https://image.moge.ai/prompt_media/HQhrhiqagAAcEhh.jpg" width="700" alt="Airy Oriental Good Morning Poster">
 </div>
 
 <br>
@@ -1823,13 +1891,13 @@ ASPECT RATIO = 1:2
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Kōda](https://x.com/aimikoda) | [X / Twitter](https://x.com/aimikoda/status/2091815882057990475) | 2026-08-24 |
+| [小小东](https://x.com/xiaoxiaodong01) | [X / Twitter](https://x.com/xiaoxiaodong01/status/2092041044431139293) | 2026-08-25 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2091815882057990475)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2092041044431139293)**
 
 </div>
 
@@ -2421,50 +2489,47 @@ A realistic studio portrait of a beautiful Indian woman with long, wavy dark bro
 
 ---
 
-### No. 31: Oversized Typography Campaign Poster
+### No. 31: Bold Red Snack Ad Poster
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates an editorial campaign poster where oversized typography becomes part of the scene, with the subject interacting with the letters in layers.
+Creates a premium commercial poster on a saturated red field with a transparent jar of roasted puff snacks as hero, a hand breaking through torn paper to pinch a puff, and bold graphic typography.
 
 #### 🌟 Prompt
 
-Create a bold editorial campaign poster where oversized typography becomes part of the composition, not just …
+Create a flagship commercial advertising poster for an original roasted puff snack brand named "CRAVE KIND", …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a bold editorial campaign poster where oversized typography becomes part of the composition, not just background text.
+Create a flagship commercial advertising poster for an original roasted puff snack brand named "CRAVE KIND", combining Transit restraint with Orbit directional energy. Use ultra-realistic premium packaging photography, not illustration, not 3D render. Keep the same structural logic: a saturated red full-background poster, one oversized transparent snack jar as the absolute visual hero in the center-lower area, one realistic hand emerging from a torn paper opening in the upper-left quadrant to pinch a single puff above the jar mouth, one supporting hand in the lower-right quadrant holding the jar base, a bold headline block in the upper-right, a secondary stacked attitude statement on the left side, and only a minimal number of ingredient props near the bottom edge. The final image must feel like a Cannes-level FMCG campaign: bold, graphic, youthful, clean, premium, and instantly memorable.
 
-Brand: [BRAND NAME]
-Product / Campaign: [PRODUCT OR CAMPAIGN]
-Main Word: [SHORT WORD]
-Subject: [PERSON / PRODUCT / BOTH]
-Action: [RUNNING / DANCING / RIDING / ETC.]
-Main Color: [COLOR]
-Type Interaction: [CUT THROUGH / STAND ON / FRAME / SURROUND / OTHER]
-Aspect Ratio: [9:16]
+Style lock: high-end commercial snack advertising, strong product-first hierarchy, bright studio realism, disciplined poster layout, minimal clutter, bold monochrome red field, premium shelf-ready packaging, social-campaign hero visual.
 
-Use contemporary editorial design, realistic commercial photography, bold typography, and strong graphic composition.
+Core composition: one giant clear cylindrical jar dominates the frame, front-facing and fully legible, filled with toasted round puff snacks. The jar sits low enough to create strong typography space above, but remains the dominant focal point. A realistic hand breaks through a clean torn-paper opening in the upper-left zone and delicately pinches one puff slightly above the jar opening. A second cropped hand supports the lower-right base of the jar, stabilizing the composition diagonally. Keep generous negative space around the jar and between the text blocks so the layout feels architectural and premium.
 
-Make the main word extremely large, filling roughly 50–75% of the frame. Let parts of the letters extend beyond the canvas, overlap the subject, or shift in perspective.
+Transit logic: reduce all non-essential ingredients, simplify the left-side attitude text, keep the torn opening clean, shorten supporting copy, and let scale, contrast, and spacing carry the impact. Avoid a crowded retail-poster feel. The product, gesture, and red field should do most of the work.
 
-The subject should actively interact with the typography rather than simply stand in front of it. Create clear foreground–subject–background layering, with some letterforms behind the subject and others crossing in front.
+Orbit logic: shape the motion through one precise vertical-to-diagonal eye path: torn opening, pinched puff, jar mouth, brand label, then down to the supporting hand. Add only a very restrained lift of a few sesame specks or tiny crumbs near the pinched puff to suggest motion and craving. The energy must feel focused, elegant, and directional, not noisy.
 
-Build the whole composition around one clear visual direction. The subject pose, typography, perspective, and graphic elements should work together.
+Product concept: redesign the product as a premium Korean-inspired spicy sesame roasted puff snack in a large transparent jar with a vivid red wrap label. Brand name: "CRAVE KIND". Flavor name: "Seoul Fire Sesame". Descriptor: "roasted lotus puffs". The label should feel youthful, modern, bold, and globally stylish, with oversized brand lettering, minimal descriptors, and a few tiny line-art accents inspired by spice, music, and urban snack culture. All text must be original.
 
-Use one dominant color with black, white, and only a small amount of accent color.
+Lighting: bright soft frontal studio key light for crystal-clear packaging legibility and realistic skin rendering, plus subtle side highlights to define the transparent jar edge, glossy label finish, and rounded puff texture. Maintain smooth red background illumination, soft grounded shadows, and crisp separation between hands, jar, and backdrop. No muddy gradients, no dirty dark patches.
 
-Add a few meaningful campaign details such as the brand name, product name, slogan, date, specs, labels, crop marks, or small editorial text. Keep the information organized and avoid random filler words.
+Materials and food realism: clear PET or acrylic jar with believable wall thickness and clean reflections, premium matte-gloss printed wrap label, toasted puff snacks with airy porous surfaces and black sesame specks, slight roasted dryness, realistic variation in roundness, and zero artificial plastic look. Hands must look photographic and natural, with correct five-finger anatomy, clean nails, visible joints, and gentle believable pressure. Bottom props should be extremely restrained: one small dark bowl of glossy chili sauce and a light sprinkle of sesame seeds only.
 
-Keep the subject realistic, with natural proportions, believable lighting, authentic skin and material textures, and dynamic body language.
+Typography and layout: use original English copy only, never copy any existing wording. Place a bold upper-right headline such as "TURN UP THE CRUNCH." Use a shorter left-side stacked statement such as "HOT. TOASTED. ADDICTIVE." Keep all typography bold, graphic, and secondary to the jar. Label micro-copy can include concise tags like "roasted", "sesame heat", and "plant-based", but remain minimal.
 
-The final image should feel like a finished brand campaign key visual — bold, layered, energetic, and visually complete.
+Color strategy: dominant saturated campaign red across background and label system, balanced with warm natural skin tones, toasted beige puff tones, black sesame flecks, deep chili accents, and small off-white text highlights. Keep the palette tightly controlled, premium, and high-contrast.
 
-Avoid generic “person + big title” layouts, meaningless text, excessive UI graphics, too many colors, heavy 3D typography, stiff poses, and cluttered composition.
+Atmosphere: spicy, playful, modern, global, highly shareable, product-led, clean but energetic.
+
+Quality and physical rules: extremely sharp jar detail, readable label hierarchy, realistic transparent packaging physics, anatomically correct hands, correct pinch gesture, clean torn-paper edges, no clutter, no extra props, no warped jar, no deformed snacks, no muddy shadows, no dead black patches, no weak hierarchy. The jar must remain the absolute visual hero.
+
+Negative prompt: copied branding, copied headline, cluttered layout, too many ingredients, weak product hierarchy, blurry jar, unreadable label, fake transparent plastic, distorted puff shapes, deformed hands, extra fingers, fused fingers, broken wrist anatomy, messy torn opening, muddy red background, dirty shadows, dead black areas, cheap flyer aesthetic, cartoon style, CGI render feel, illustration look, product losing dominance, random cultural clutter, low-resolution packaging.
 ```
 
 </details>
@@ -2472,7 +2537,7 @@ Avoid generic “person + big title” layouts, meaningless text, excessive UI g
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HQVotBVXgAAfRqQ.jpg" width="700" alt="Oversized Typography Campaign Poster">
+<img src="https://image.moge.ai/prompt_media/HQezCvuaEAA2y2j.jpg" width="700" alt="Bold Red Snack Ad Poster">
 </div>
 
 <br>
@@ -2481,59 +2546,75 @@ Avoid generic “person + big title” layouts, meaningless text, excessive UI g
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2091192812913996100) | 2026-08-22 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2091837428072149036) | 2026-08-24 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2091192812913996100)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2091837428072149036)**
 
 </div>
 
 ---
 
-### No. 32: Tactical Cyber-Soldier Portrait
+### No. 32: Manga-Ink Three-Panel 'Small Emergencies' Poster
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Creates a cinematic vertical close-up portrait of a futuristic cyber-soldier with an armored helmet and glowing orange tactical visor.
+Builds a tall aged-paper poster with dense manga inking across three tilted panels — instrument, peak-effort action, and face — dramatizing a genuinely minor everyday emergency.
 
 #### 🌟 Prompt
 
-Create an ultra-detailed vertical 2:3 cinematic portrait of a futuristic tactical cybernetic soldier, closely …
+{ "style\_name": "Small Emergencies", "style\_slug": "manga-ink-three-panel-shift-poster", "canvas": "9:16 tall …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create an ultra-detailed vertical 2:3 cinematic portrait of a futuristic tactical cybernetic soldier, closely matching the reference image’s composition, framing, perspective, lighting, color palette, and overall visual impact.
-
-The subject is shown in an extreme close-up, perfectly centered and facing directly toward the camera. The character wears an advanced futuristic combat helmet made from layered matte and semi-gloss armored plates, mechanical modules, exposed cables, vents, screws, pistons, reinforced joints, micro-panels, warning markings, illuminated indicators, and intricate industrial detailing. The helmet should feel heavily engineered, functional, rugged, and battle-worn rather than smooth or generic.
-
-The upper helmet is predominantly dark gunmetal, charcoal, silver, and weathered white, with subtle scratches, dust, chipped paint, tiny surface imperfections, and realistic metallic wear. Add small red and orange illuminated accents throughout the armor. Include numerous asymmetrical mechanical components and recessed panels to create a dense high-tech military aesthetic.
-
-The face is completely concealed behind a large futuristic reflective tactical visor. The visor is dark smoked glass with a strong transparent orange and amber glow underneath. Inside the visor, reveal subtle reflections of complex circuitry, vertical mechanical structures, glowing orange energy lines, tiny sparks, and warm internal lights. The visor should have realistic glass reflections and convincing depth.
-
-The lower face is covered by an advanced mechanical respirator and armored mask connected directly to the helmet. Include layered metal plates, compact filters, circular mechanisms, bolts, vents, flexible ribbed cables, small illuminated indicators, and mechanical locking components. The respirator should look extremely detailed and physically functional.
-
-Extend the design into a heavily armored futuristic tactical suit around the neck and shoulders. Add a complex chest and collar control system containing small digital displays, rotary knobs, switches, orange status lights, blue indicators, warning labels, cables, tubes, connectors, and modular armor components. Every surface should contain believable mechanical engineering details.
-
-Use a cinematic sci-fi military color palette: gunmetal gray, black, silver, cold blue-gray highlights, glowing orange/amber visor illumination, and subtle red accents. Strong contrast between the cool environment and warm orange lights.
-
-Lighting: dramatic cinematic studio lighting with a cool blue-gray ambient light from the background and intense warm orange light emitted from the visor and internal mechanisms. Add subtle rim lighting around the helmet edges. Highly realistic metallic reflections, glass reflections, soft volumetric haze, and atmospheric depth.
-
-Background: futuristic military laboratory or spacecraft interior, heavily blurred with shallow depth of field. Abstract cool blue-gray machinery and soft circular lights in the distance. No distracting objects, keeping the helmet as the dominant focal point.
-
-Camera: straight-on symmetrical composition, centered portrait, eye-level perspective, medium telephoto lens around 85mm, shallow depth of field, extremely sharp focus on the helmet and visor, soft bokeh background.
-
-Style: photorealistic futuristic military concept art, ultra-detailed hard-surface design, cinematic sci-fi photography, realistic materials, physically accurate reflections, intricate mechanical engineering, premium AAA video-game character design, subtle film grain, HDR, high dynamic range, dramatic contrast, 8K-quality detail.
-
-Composition: helmet fills approximately 80–90% of the frame, symmetrical and imposing, with the shoulders and chest armor visible toward the bottom. Preserve the same close-up visual hierarchy and powerful intimidating presence as the reference.
-
-Avoid: human facial features, visible skin, cartoon styling.
+{
+  "style_name": "Small Emergencies",
+  "style_slug": "manga-ink-three-panel-shift-poster",
+  "canvas": "9:16 tall poster, aged cream paper, heavy print grain, distressed edges and corners",
+  "color": {
+    "ink": "near-black line work #1A1714",
+    "paper": "cream #EFE3CE",
+    "fills": ["hot pink #E85D8A", "sky cyan #6FC3D6", "signal yellow #E8B33A", "copper orange #D96B2E"],
+    "rule": "flat, slightly misregistered print fills; pink must take ONE impossible role per poster — the water spray, the dawn sky, the ghosted second self"
+  },
+  "illustration": {
+    "technique": "dense seinen-manga inking — crosshatch shading, speed lines, spray dots, screentone patches — over flat poster color",
+    "panels": "three stacked panels separated by TILTED diagonal gutters with thin paper-colored gaps",
+    "panel_grammar": {
+      "instrument": "extreme close-up of a hand on the job's instrument — tuning dial, lantern striker, pressure gauge, kitchen timer — markings readable",
+      "action": "the same worker full-body at the peak of a small crisis, strong diagonal pose, environment drawn in full detail",
+      "face": "tight portrait of the same character — effort, relief or joy; optionally a ghosted second emotion behind them in one flat color"
+    },
+    "order_rule": "the three beats may shuffle order, but all three must appear, and it is the same character in every panel",
+    "diegetic_text": "all in-scene words belong to the world — tape labels, shop signs, flour bags, buoy numbers, warning plates"
+  },
+  "typography": {
+    "masthead": "two words, TWO typefaces: word one in massive distressed slab caps in cream; word two in ornate circus tuscan, set on or filled with a color block",
+    "info_bar": "one yellow bar in bold black caps at the foot: place or season, slash, log or batch number",
+    "scatter": "checkerboard patches, lightning bolts, starbursts, tiny waveforms — three or four per poster, never more"
+  },
+  "design_rules": [
+    "the crisis must be genuinely minor — a relay to run, a lamp to light, a pipe to fix, dough to catch; the inking treats it as life or death",
+    "the face panel pays off the action panel — same shift, seconds apart",
+    "panels tilt; the masthead never does",
+    "no gradients in the fills; depth comes from line density, not tone"
+  ],
+  "swap_variables": {
+    "job": "dawn radio courier / pier storm-watch keeper / irrigation mechanic / night baker",
+    "crisis": "carry the signal across rooftops / light the storm lantern in rain / burst pipe in dry season / dough over-rising at 3am",
+    "instrument": "tuning dial / lantern + striker / gauge + pipe wrench / timer + copper bowl",
+    "masthead": "STATIC RUN / TIDELIGHT / BLOOM FIX / MOON RISE",
+    "info_bar": "FREQUENCY 88 · DAWN RELAY / PIER NINE · STORM WATCH / DRY SEASON · REPAIR LOG 04 / BATCH 03 · OPEN TILL DAWN",
+    "diegetic_labels": "88 DAWN RELAY tape / buoy No.9 / WATER PRESSURE dial / ALL NIGHT BAKERY sign + POWER FLICKER plate"
+  }
+}
 ```
 
 </details>
@@ -2541,7 +2622,7 @@ Avoid: human facial features, visible skin, cartoon styling.
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HQdZSkAbQAAb4Tz.jpg" width="700" alt="Tactical Cyber-Soldier Portrait">
+<img src="https://image.moge.ai/prompt_media/HQfhZQhWwAE3Y7C.jpg" width="700" alt="Manga-Ink Three-Panel &#x27;Small Emergencies&#x27; Poster">
 </div>
 
 <br>
@@ -2550,13 +2631,13 @@ Avoid: human facial features, visible skin, cartoon styling.
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [auqib](https://x.com/auqibhabib) | [X / Twitter](https://x.com/auqibhabib/status/2091738873084961141) | 2026-08-24 |
+| [Vigo Zhao](https://x.com/VigoCreativeAI) | [X / Twitter](https://x.com/VigoCreativeAI/status/2091888379604373647) | 2026-08-24 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2091738873084961141)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2091888379604373647)**
 
 </div>
 
@@ -3048,54 +3129,49 @@ Editorial beauty photograph of a young woman with wavy strawberry-blonde hair, f
 
 ---
 
-### No. 37: Luxury Handbag Editorial Campaign
+### No. 37: Molten Cheese Pull Snack Poster
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Generates a photorealistic fashion campaign built around a luxury handbag, with the model, environment, and editorial typography all derived from the bag's identity in a predominantly white aesthetic.
+Creates a premium fast-food ad poster of crispy chicken cheese bites with a dramatic molten cheese pull on a scarlet-red background.
 
 #### 🌟 Prompt
 
-{ "input": { "product\_name": "{{BAG\_NAME\_OPTIONAL}}", "reference\_image": "{{UPLOAD\_BAG\_REFERENCE\_OPTIONAL}}", …
+Create a flagship commercial food poster for an original snack brand named "MELT VAULT", merging Orbit energy …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-{
-  "input": {
-    "product_name": "{{BAG_NAME_OPTIONAL}}",
-    "reference_image": "{{UPLOAD_BAG_REFERENCE_OPTIONAL}}",
-    "primary_rule": "The supplied product name or reference image is the single source of truth for the handbag. Every creative decision must be derived from the handbag's identity, design language, color, material, silhouette, hardware, proportions, intended use and overall luxury character."
-  },
-  "product_analysis": {
-    "if_reference_image_exists": {
-      "instruction": "Analyze the uploaded handbag before generating the scene.",
-      "extract": ["exact silhouette", "bag category", "dimensions and proportions", "primary color", "secondary colors", "material", "texture", "finish", "hardware color", "hardware design", "handle structure", "strap structure", "closure", "logo or emblem", "stitching", "distinctive design elements", "overall aesthetic", "luxury positioning"],
-      "priority": "Preserve the recognizable identity of the supplied handbag."
-    },
-    "if_only_product_name_exists": {
-      "instruction": "Infer or create the most appropriate luxury handbag design associated with the supplied product name. Do not invent unrelated design characteristics."
-    }
-  },
-  "creative_direction": {
-    "derived_from_product": true,
-    "instruction": "Once the handbag is analyzed, automatically build the entire fashion campaign around its identity. Do not use a predetermined model styling, pose, environment, composition or handbag placement.",
-    "derive": {"model_styling": "Select clothing, hairstyle, makeup and accessories that complement the handbag.", "color_palette": "Build the surrounding palette from the handbag's colors while maintaining a predominantly white, ivory and cream luxury aesthetic where visually appropriate.", "pose": "Choose a sophisticated editorial pose that naturally showcases the handbag.", "handbag_position": "Automatically determine the most attractive product-focused placement.", "environment": "Create a luxury environment whose architecture, textures and atmosphere complement the handbag.", "lighting": "Adapt lighting to reveal the handbag's material, texture, shape and hardware.", "camera": "Choose the most flattering fashion-advertising perspective for the specific handbag.", "composition": "Build the composition around the handbag as the hero product."}
-  },
-  "model": {"type": "high-fashion female model", "appearance": "striking, elegant, sophisticated", "styling_rule": "Automatically style the model according to the handbag.", "clothing_rule": "Create an elegant white or ivory outfit unless another neutral variation better complements the handbag.", "accessories_rule": "Use only accessories that enhance rather than compete with the handbag.", "expression": "confident, effortless, sophisticated"},
-  "pose": {"automatic": true, "instruction": "Generate a natural high-fashion editorial pose specifically chosen to showcase the supplied handbag.", "requirements": ["handbag remains clearly visible", "handbag is never obscured by the model", "natural body proportions", "elegant fashion posture", "knees remain covered", "no awkward anatomy", "no exaggerated posing"]},
-  "handbag": {"priority": "absolute hero product", "source": "supplied reference image or product name", "instruction": "The handbag must remain the most important visual element after the model. Preserve all recognizable product characteristics derived from the input.", "placement": "automatically determined from the bag's silhouette and campaign composition", "presentation": "premium luxury product photography", "detail": "highly realistic material, stitching, construction and hardware"},
-  "environment": {"automatic": true, "instruction": "Design the environment specifically around the supplied handbag rather than using a generic background.", "style": "minimal luxury editorial", "palette": "predominantly white, ivory and cream with subtle tones derived from the handbag", "background_images": false, "clutter": "minimal"},
-  "editorial_typography": {"brand_text": "{{BAG_NAME}}", "instruction": "Use the supplied bag name as the primary oversized editorial text in the background.", "placement": "behind the model at approximately head level", "style": "large refined luxury-fashion typography", "depth": "subtle raised 3D lettering with realistic shadows", "color": "white, ivory or a subtle tonal variation that remains elegant against the background", "secondary_quote": {"automatic": true, "length": "2–3 words", "instruction": "Generate a fresh, eye-catching luxury-fashion phrase that complements the specific handbag. Do not use generic filler and do not copy the examples.", "examples_for_style_reference_only": ["Own The Moment", "Made Iconic", "Quiet Power", "Stay Untouchable"]}},
-  "lighting": {"automatic": true, "instruction": "Adapt the lighting specifically to the handbag's material and finish.", "style": "cinematic luxury fashion photography", "priority": ["reveal handbag texture", "highlight hardware", "create dimensionality", "maintain natural skin", "produce soft premium shadows"]},
-  "camera": {"automatic": true, "instruction": "Select the camera angle, focal length and framing that best present the specific handbag.", "style": "high-end fashion campaign photography", "perspective": "natural proportions", "composition": "product-focused editorial"},
-  "overall_aesthetic": {"fixed": ["luxury", "editorial", "photorealistic", "cinematic", "minimal", "premium", "white-led visual identity"], "dynamic": ["model styling", "pose", "handbag placement", "environment", "lighting", "camera angle", "secondary colors", "fashion styling", "typography treatment"]},
-  "negative_prompt": ["generic handbag", "wrong handbag design", "altered handbag silhouette", "incorrect hardware", "incorrect material", "duplicate handbag", "multiple handbags", "obscured handbag", "generic model styling", "generic pose", "busy background", "background photographs", "visible knees", "awkward anatomy", "extra fingers", "plastic skin", "cheap fashion aesthetic", "random typography", "misspelled product name", "flat pasted text", "low-detail handbag"],
-  "final_instruction": "Treat the supplied handbag name or reference image as the creative source of truth. Analyze the product first, then automatically generate the model, clothing, pose, handbag placement, environment, color relationships, lighting, camera composition and editorial typography around that specific handbag. Keep the overall visual language luxurious, predominantly white and fashion-editorial, but never allow the fixed aesthetic to override the handbag's actual identity."
-}
+Create a flagship commercial food poster for an original snack brand named "MELT VAULT", merging Orbit energy with Transit restraint. Use ultra-realistic premium fast-food advertising photography, not illustration, not 3D render. Keep the same structural logic: a centered suspended cheese web occupying the middle of the frame, a tight cluster of 5 to 6 crispy fried cheese chicken bites resting inside the elastic cheese net, one top-center red action glove hand lifting a single bite upward, and an extreme molten cheese pull stretching between the lifted bite and the cluster below. Set everything against a bold saturated scarlet-red background with a narrow warm wooden tabletop at the bottom. The final image must feel like a Cannes-level hero campaign: iconic, craveable, graphic, playful, and highly controlled.
+
+Style lock: premium fast-food product photography, strong poster design, high-impact minimalist composition, product-first hierarchy, bold color blocking, extremely realistic cheese physics, clean social-campaign-ready execution.
+
+Core composition: centered vertical poster, one large cheese web spanning across the middle like a tensile edible net, the fried bites grouped compactly in the center with one hero bite being lifted from the top center. The cheese strands must create a refined radiating tension pattern that guides the eye from the lifted bite downward into the cluster, then outward along the net edges. Keep generous negative space around the structure so the image feels monumental and uncluttered. Place one bold handwritten-style product title in the lower-middle zone, a very short subtitle beneath it, and a compact circular price badge on the right. All typography must remain secondary to the food.
+
+Orbit logic: strengthen the directional pull of the composition by shaping the main cheese strands into elegant upward-and-outward arcs anchored at the lifted bite. Let the motion feel like the whole structure is being tensioned in real time. The dynamic must be clear and dramatic, but not messy. Every strand should support the central hero action and lead the eye back to the molten core.
+
+Transit logic: reduce all non-essential elements, keep the tabletop narrow, keep the background clean and uninterrupted, simplify the text block, minimize decorative accents, and preserve only the most necessary graphic elements. Let impact come from scale, contrast, negative space, and the singular power of the cheese-pull moment rather than visual clutter.
+
+Product concept: redesign the food as original crispy molten chicken cheese bites with irregular hand-formed roundness, thick golden breadcrumb coating, rich fried texture, and a luxurious creamy cheese core. The lifted bite must expose a dense, glossy, stretchy interior with realistic heat, weight, and elasticity. The cluster below should feel hot, crunchy, and freshly fried.
+
+Character element: use only one cropped red comic-inspired action glove entering from the top center, delicately pinching the lifted bite. The glove must feel clean, iconic, and graphic, with natural finger pressure and believable fabric tension, but no full character body, no face, and no copyrighted superhero identity cues.
+
+Lighting: strong soft frontal studio key light for clean readability, combined with subtle warm highlights that enhance the fried crust and illuminate the cheese strands. Keep the red background smooth and evenly controlled, with soft grounded shadows and crisp separation between food and backdrop. The cheese should glow slightly brighter than the crust to emphasize melt and freshness.
+
+Materials and food realism: ultra-detailed crunchy breadcrumb crust, porous golden fried surface, tiny oil sheen, creamy cheese with realistic viscosity, semi-translucent cheese strands of varied thickness, gravity-accurate tension points, smooth scarlet backdrop, and tactile natural wood grain below. The cheese web must feel physically believable, elastic, and premium, never rubbery or fake.
+
+Typography and layout: use original text only, never copy any existing wording. Place a hand-lettered lower-center title such as "MOLTEN CRUNCH" with a very short subtitle like "cheese-loaded bites". Add a compact circular badge on the right with concise pricing text such as "from $9". Keep typography bold, legible, and graphic, but always subordinate to the cheese structure and hero bite.
+
+Color strategy: tightly controlled palette of saturated scarlet red, deep golden-brown crust, creamy pale yellow cheese, warm natural oak wood, and a restrained yellow-orange badge accent. Keep contrast strong, colors rich, and the palette disciplined.
+
+Atmosphere: bold, playful, hot, stretchy, craveable, premium, modern, iconic, highly shareable, globally launch-ready.
+
+Quality and physical rules: extremely sharp food texture, realistic cheese stretch physics, clean gravity logic, no muddy shadows, no dead black patches, no clutter, no extra props, no malformed bites, no deformed hand, no extra fingers, no broken strands without support, no weak hierarchy. The product must remain the absolute visual hero.
+
+Negative prompt: copied branding, copied text, copyrighted superhero identity, full character body, cluttered layout, too many design elements, weak cheese pull, fake plastic cheese, blurry crust, low-resolution texture, deformed hand, extra fingers, fused fingers, distorted bites, messy background, muddy red tones, dead black areas, cheap fast-food flyer look, cartoon food, CGI render feel, illustration style, unreadable typography, product losing dominance.
 ```
 
 </details>
@@ -3103,7 +3179,7 @@ Generates a photorealistic fashion campaign built around a luxury handbag, with 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HQUMC_qbwAA5wGQ.jpg" width="700" alt="Luxury Handbag Editorial Campaign">
+<img src="https://image.moge.ai/prompt_media/HQex-QQacAAlajx.jpg" width="700" alt="Molten Cheese Pull Snack Poster">
 </div>
 
 <br>
@@ -3112,64 +3188,49 @@ Generates a photorealistic fashion campaign built around a luxury handbag, with 
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Maercih](https://x.com/Maercihh) | [X / Twitter](https://x.com/Maercihh/status/2091090991159939387) | 2026-08-22 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2091836250714227195) | 2026-08-24 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2091090991159939387)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2091836250714227195)**
 
 </div>
 
 ---
 
-### No. 38: Minimalist Vector Travel Poster
+### No. 38: Embroidered Cultural Heritage Map
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Generates a premium flat-vector travel poster for any city, with an iconic landmark, local transport, and a soft refined palette in 3:4.
+Creates a country-shaped map poster as hand-embroidered textile art, weaving authentic landmarks, costumes, food, and cultural symbols into intricate stitching and appliqué.
 
 #### 🌟 Prompt
 
-Premium minimalist flat-vector travel poster for [CITY\_NAME], 3:4 vertical. Create an original city-specific …
+Create a luxurious, highly detailed handcrafted embroidered textile artwork of {{COUNTRY\_NAME}}, designed as …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Premium minimalist flat-vector travel poster for [CITY_NAME], 3:4 vertical.
+Create a luxurious, highly detailed handcrafted embroidered textile artwork of {{COUNTRY_NAME}}, designed as a beautiful map-shaped cultural poster.
 
-Create an original city-specific travel poster that captures the authentic personality of [CITY_NAME]. Choose the best composition for the city harbor, historic lane, riverside, coastal path, market, tram avenue, heritage square, skyline terrace, etc.
+Inside the map, creatively combine the country’s most recognizable landmarks, architecture, landscapes, traditional clothing, food, animals, plants, cultural symbols, transportation, historical elements, and local heritage, all rendered as intricate hand-stitched embroidery and appliqué.
 
-Include:
--One iconic landmark as the main focal point
--One distinctive local transport element
--One subtle everyday lifestyle moment
--Native vegetation or landscape
--3–6 small, naturally integrated people
--2–4 carefully chosen local details
--Subtle authentic signage/wayfinding
+Surround the entire composition with elegant traditional floral, paisley, ornamental and cultural patterns inspired by {{COUNTRY_NAME}}’s heritage. Use realistic embroidery threads, fine stitching, layered fabric, slightly raised appliqué details, delicate stitched borders, and authentic handmade imperfections.
 
-Typography:
-Place “[CITY_NAME]” upper-left with generous negative space. Add one short elegant English tagline. Premium editorial typography, understated and spacious.
+Place the artwork on a soft cream/off-white textured fabric background with natural folds and subtle shadows. Add a few loose embroidery threads and an elegant embroidery needle beside the artwork to emphasize the handmade craft.
 
-Style:
-Japanese stationery-inspired, luxury sticker illustration, premium commercial vector, modern editorial travel branding, delicate uniform outlines, geometric shapes, flat colors, soft forms, minimalist postcard aesthetic.
+At the bottom, display the country name prominently in its native script, followed by a small elegant subtitle meaning “A city/country woven from traditions” in the appropriate native language.
 
-Colors:
-Pale powder blue, sky blue, mist blue, ivory, cream, beige, muted sage and gray-green. Tiny dusty-rose accents only. Soft, sophisticated, slightly desaturated palette.
+Use a sophisticated vintage palette of warm beige, antique cream, dusty rose, muted green, faded blue, terracotta, brown and subtle gold.
 
-Mood:
-Fresh, airy, peaceful, refined, contemporary and elegant.
+Style: museum-quality textile art, traditional embroidery, cultural heritage illustration, luxury handcrafted poster, vintage aesthetic, photorealistic fabric texture, extremely fine thread details, intricate stitching, elegant composition, soft natural studio lighting, premium editorial photography, highly detailed, 8K.
 
-Important:
-Make every city visually unique. Change the viewpoint, composition, landmark placement and foreground according to the city's identity. Do not reuse a generic template.
-
-Negative:
-No photorealism, realism, watercolor, painterly brushwork, gradients, heavy shadows, cinematic lighting, paper texture, clutter, landmark collage, crowds, oversized characters, dominant hero character, repetitive café scenes, generic tourist-poster layouts, copied compositions or unnecessary decoration.
+Important: Make every cultural element specifically authentic to {{COUNTRY_NAME}}. Do not mix landmarks, symbols, clothing, architecture, or cultural elements from other countries.
 ```
 
 </details>
@@ -3177,7 +3238,7 @@ No photorealism, realism, watercolor, painterly brushwork, gradients, heavy shad
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HQdMgSGa8AADgiH.jpg" width="700" alt="Minimalist Vector Travel Poster">
+<img src="https://image.moge.ai/prompt_media/HQfEAAaa4AAnV_n.jpg" width="700" alt="Embroidered Cultural Heritage Map">
 </div>
 
 <br>
@@ -3186,13 +3247,13 @@ No photorealism, realism, watercolor, painterly brushwork, gradients, heavy shad
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Eesha](https://x.com/MissDelulu9) | [X / Twitter](https://x.com/MissDelulu9/status/2091724761424670980) | 2026-08-24 |
+| [Zarnab Ai](https://x.com/Zarnab_with_Ai) | [X / Twitter](https://x.com/Zarnab_with_Ai/status/2091856090086707620) | 2026-08-24 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2091724761424670980)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2091856090086707620)**
 
 </div>
 
@@ -3425,68 +3486,72 @@ Her hair is voluminous, long, and glossy.
 
 ---
 
-### No. 43: Exploded-View Luxury Watch Poster
+### No. 43: Ember Wrap Shawarma Street-Food Poster
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a vertical haute horlogerie campaign poster showcasing a rose-gold watch in an elegant exploded view against a dark cinematic background.
+Creates a premium street-food advertising poster with a giant upright shawarma as hero, monumental distressed typography behind it, and a cinematic dark-and-gold mood.
 
 #### 🌟 Prompt
 
-Create a premium vertical luxury watch campaign poster for a fictional haute horlogerie brand called …
+Create a premium street-food advertising poster for a fictional gourmet shawarma brand called "EMBER WRAP", …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a premium vertical luxury watch campaign poster for a fictional haute horlogerie brand called AETHERION, combining Transit-style editorial restraint with Orbit-style layered reveal. Feature one flagship rose-gold mechanical wristwatch as the absolute visual hero, presented in a refined exploded-view composition against a dark cinematic studio background. The image must feel ultra-luxurious, technically precise, and globally flagship-level.
-
-Core composition:
-Place the complete rose-gold wristwatch slightly right of center in a three-quarter front view, with the bracelet descending naturally and the opened case exposing the mechanical movement. Above the watch, suspend a clean vertical exploded stack of key components on one precise central axis: sapphire crystal, fluted bezel, dial plate, date layer, and selected movement layers. The floating components must align perfectly and feel as if they are unfolding upward from the finished watch in a calm, elegant sequence. The composition should read instantly as one premium object being revealed layer by layer.
-
-Transit restraint:
-Keep the layout highly controlled and minimal. Use a deep charcoal-to-black gradient background with large negative space, especially on the left and upper-left. Reduce text to only the essential brand hierarchy and a few tiny technical labels. Avoid infographic clutter, excessive callouts, or busy decoration. The final image should feel like an international flagship watch poster, not a product manual.
-
-Orbit motion:
-Strengthen the visual flow through the exploded layers. The floating parts should rise upward in a graceful, evenly spaced sequence, creating a subtle sense of vertical momentum and revelation. Light reflections, component spacing, dial geometry, and bracelet direction should guide the eye smoothly from the upper floating parts down into the complete watch body. The image should feel like precision is unfolding in motion, elegant and controlled rather than dramatic or chaotic.
-
-Watch design:
-A museum-grade automatic mechanical wristwatch in polished rose gold with a luxurious integrated or semi-integrated metal bracelet, a champagne-silver dial, slim baton hour markers or refined diamond-set indices, a date window, visible crown texture, and a highly detailed movement inside the opened case. The watch must feel contemporary yet timeless, engineered yet emotional, with flawless proportions and premium finishing.
-
-Exploded-view logic:
-Include only the most important layers: sapphire crystal, fluted bezel ring, dial surface, calendar/date layer, visible movement module, and rose-gold case body. Each component must remain physically believable, properly scaled, and capable of reassembling perfectly into the complete watch. The exploded spacing should be elegant, symmetrical, and luxurious, with no messy engineering chaos.
-
-Lighting:
-Use cinematic studio lighting with a soft but focused key light from upper left, gentle frontal fill, and refined rim highlights on the rose-gold case, bracelet edges, crystal, and mechanical parts. The metal should glow warmly against the dark background, while the movement receives crisp micro-highlights that reveal craftsmanship and depth. Maintain strong contrast without muddy blacks or blown reflections.
-
-Material rendering:
-Ultra-real polished rose gold with controlled specular roll-off, brushed internal metal surfaces, transparent sapphire crystal with subtle edge refraction, detailed gears, bridges, screws, jewel bearings, engraved dial details, and articulated bracelet links with natural shadow gaps. Every surface must feel tactile, expensive, and physically correct.
-
-Typography and branding:
-Use only minimal original English typography. At the upper-left, place:
-“AETHERION”
-“Private Mechanical Collection”
-Main headline:
-“Precision Revealed”
-Add only 3 or 4 tiny technical labels near key components, such as:
-“Sapphire Crystal”
-“Fluted Bezel”
-“Automatic Heart”
-“Rose-Gold Case”
-At the bottom-right or lower area, add one short restrained line:
-“Crafted from layers of time.”
-Typography should be subtle, elegant, and clearly secondary to the watch.
-
-Color system:
-Deep charcoal-black background, warm rose-gold metal, champagne-silver dial tones, steel-grey inner mechanics, ruby-red jewel bearings, and soft champagne or light-grey typography. The palette must feel luxurious, technical, and tightly controlled.
+Create a premium street-food advertising poster for a fictional gourmet shawarma brand called "EMBER WRAP", featuring one oversized upright shawarma wrap as the absolute visual hero. Preserve the core visual logic of a bold typographic food poster: a single shawarma standing vertically in the center foreground, wrapped in branded paper, overflowing with chargrilled meat, fresh vegetables, and creamy sauce, set against a deep near-black background with monumental distressed cream-beige headline typography behind it. The final image must merge Transit restraint and Orbit energy: the composition should stay clean, bold, and product-led, while heat, smoke, sauce flow, and food highlights subtly guide the eye upward through the wrap.
 
 Style:
-Cannes-level luxury watch campaign, haute horlogerie editorial advertising, technical beauty storytelling, premium product hero image, exploded-view elegance, globally marketable, collectible, and ultra-refined.
+ultra-realistic commercial food photography, premium fast-casual advertising, flagship street-food poster, photographed not illustrated, macro-detail realism, cinematic black-and-gold mood, no CGI look.
+
+Core composition:
+Use a tall vertical poster composition. Place one giant shawarma wrap upright in the center, dominating the frame from lower middle to upper middle. Let the wrap overlap huge background typography so the food immediately becomes the first visual focus. Keep the background deep, dark, and uncluttered, with only minimal smoke, warm side glow, and a few restrained ember particles. Preserve a strong hierarchy: hero wrap first, giant typography second, very limited supporting copy third.
+
+Transit restraint:
+Reduce non-essential visual noise. Keep side notes, badges, and bottom information minimal. Preserve large negative dark areas around the main product and let the typography feel architectural rather than busy. The image should read like an international flagship food poster: fewer elements, stronger authority, cleaner hierarchy.
+
+Orbit motion logic:
+Create a subtle but clear flow from the lower wrapped base upward through the filling. Let rising heat haze, faint smoke, the direction of sauce drips, the angle of meat edges, and the arrangement of vegetables all guide the eye upward and outward from the center opening. The whole wrap should feel hot, alive, and just opened, with appetite energy radiating from the top.
+
+Hero product:
+Design one luxurious shawarma wrap with a lightly charred flatbread exterior, tightly folded around a generous filling of grilled chicken or mixed meat, crisp lettuce, diced tomato, cucumber, red onion, herbs, and creamy white garlic-yogurt sauce. The top opening must feel abundant, juicy, and freshly assembled, with layered ingredients clearly visible and packed densely.
+
+Wrap and texture:
+The flatbread must show blistered brown char marks, toasted golden patches, soft fold creases, and realistic flour-dry texture. The paper sleeve around the lower half should feel crinkled, slightly grease-touched, and premium, printed with original graphic branding elements in an elegant street-luxury style. The wrap must feel substantial, hot, and handheld-real.
+
+Typography and layout:
+Place giant distressed cream-beige block letters behind the shawarma using original English wording such as:
+FLAME
+WRAP
+Let the text be oversized, vertically stacked, and partially hidden by the wrap. Add only one restrained accent line in a warm golden brush or condensed style, such as:
+BOLD BITE
+Keep supporting copy extremely sparse, for example:
+JUICY. CHARRED. REAL.
+and a minimal brand sign-off:
+EMBER WRAP
+ESTD 2026
+No cluttered copy blocks, no excessive labels.
+
+Lighting:
+Use dramatic warm food lighting from upper left and slightly behind, creating glossy highlights on the grilled meat, creamy sheen on the sauce, and soft rim light on the flatbread edges. Add gentle frontal fill only to preserve readability. The background should remain dark with a subtle amber haze. The wrap must feel hotter, more tactile, and more premium than the surroundings.
+
+Materials:
+Render the grilled meat with caramelized edges, charred corners, juicy fibers, and light oil sheen. Render the vegetables crisp and fresh with realistic moisture. Render the white sauce thick, creamy, and naturally flowing. Render the flatbread with toasted bubbles, scorched spots, and soft fold tension. Render the paper sleeve with fiber texture, printed ink detail, and light grease absorption. Add only a few crumbs and tiny ember-like particles.
+
+Color palette:
+Use a disciplined palette of deep black, warm beige typography, toasted brown flatbread, golden-brown grilled meat, creamy white sauce, restrained lettuce green, tomato red, and warm ember-gold highlights. Keep the shawarma as the richest and brightest object in the frame.
+
+Atmosphere:
+The mood must feel bold, hot, craveable, urban, premium, smoky, and unforgettable. The poster should balance street-food energy with luxury advertising precision, making the wrap feel iconic and instantly desirable.
+
+Quality and physical rules:
+extreme detail, realistic grilled texture, realistic sauce viscosity, crisp vegetable detail, clean typography edges, deep clean blacks, no muddy shadows, no blown highlights, no extra food props, no human figure, no distorted wrap shape, no fake CGI texture, no cluttered layout.
 
 Negative prompt:
-copied original text, copied original brand name, cheap infographic layout, messy exploded view, warped watch case, distorted bracelet, fake CGI gold, plastic metal, unreadable dial, cluttered callouts, low-detail gears, oversharpened reflections, muddy shadows, flat lighting, low-end catalog style, watermark, random icons
+copied text, existing brand names, watermark, extra props, fries, drinks, human hands, messy composition, plastic-looking sauce, fake grilled meat texture, low-resolution food detail, muddy blacks, overexposed highlights, illustration style, CGI render look, unreadable typography, distorted wrap geometry, cluttered poster elements
 ```
 
 </details>
@@ -3494,7 +3559,7 @@ copied original text, copied original brand name, cheap infographic layout, mess
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HQULM-bbYAAX4R2.jpg" width="700" alt="Exploded-View Luxury Watch Poster">
+<img src="https://image.moge.ai/prompt_media/HQerKVeaUAAxRJX.jpg" width="700" alt="Ember Wrap Shawarma Street-Food Poster">
 </div>
 
 <br>
@@ -3503,51 +3568,56 @@ copied original text, copied original brand name, cheap infographic layout, mess
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2091089939056206298) | 2026-08-22 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2091828765160784383) | 2026-08-24 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2091089939056206298)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2091828765160784383)**
 
 </div>
 
 ---
 
-### No. 44: Photo & Observational Watercolor Sketch
+### No. 44: Dreamlike Sailing Ship with Iridescent Sails
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Creates a 3:4 vertical two-layer poster: real photo on top and a pen-and-light-watercolor observational reconstruction below, minimalist and rhythmic.
+A majestic sailing ship with iridescent sails glides across a mirror-like sea under a pastel sky, in a serene, ethereal cinematic magical-realism scene.
 
 #### 🌟 Prompt
 
-😁😅🥲🙂 Turn each photo I upload into its own standalone high-end design poster—no multi-image collages; output …
+A unique fantasy campaign scene of a majestic sailing ship drifting calmly across a glassy, reflective sea …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-😁😅🥲🙂
-Turn each photo I upload into its own standalone high-end design poster—no multi-image collages; output each photo separately. Use an overall 3:4 vertical composition, continuing the upper/lower two-layer logic: the top half is real photography, the bottom half an observational hand-drawn reconstruction; the two connect naturally, avoiding a rigid 50:50 hard split.
+A unique fantasy campaign scene of a majestic sailing ship drifting calmly across a glassy, reflective sea beneath a pastel sky, reimagined with fresh visual storytelling and an entirely new composition. The sails shimmer with iridescent glow, catching soft atmospheric light as the vessel feels suspended between reality and dream, with a tranquil, magical realism atmosphere that remains serene yet distinctly original.
+Environment:
+• Vast open sea with mirror-like reflections, gentle ripples, and a horizon that feels expansive and cinematic
+• Fluffy cloud formations in layered pastel tones, creating depth without clutter
+• Avoid additional ships, landmasses, birds, or distracting objects that break the quiet solitude
+Lighting:
+• Soft ethereal daylight with diffused illumination across sails, rigging, and water
+• Subtle rim light on the ship's silhouette and delicate glow bloom around iridescent surfaces
+• No harsh shadows, no blown highlights, no aggressive contrast
+Materials:
+• Sails with pearlescent, translucent fabric behavior and luminous color shifts
+• Dark polished wood hull with realistic grain and gentle specular highlights
+• Water with a smooth reflective surface and believable light scatter
+Composition:
+• Wide cinematic framing with the ship placed off-center for a more unique, editorial balance
+• Emphasize negative space in sky and water to heighten the dreamlike stillness
+• Calm horizontal composition with the vessel occupying a strong but elegant share of the frame
+Mood:
+Serene, mystical, and quietly otherworldly with a fresh, unique fantasy-cinematic identity
+Shot on 85mm lens, f/2.8, shallow depth of field, ultra-detailed, 8K realism
 
-In the top half, keep the original photo, preserving the subject's identity, structure, pose, real texture, natural light and shadow, and original color atmosphere, applying only slight high-end photographic color grading to give it the quality of art magazines, independent publications, and exhibition photography. To fit the frame, the sky, ground, or environmental background may be naturally extended, but the subject must not be stretched, distorted, or altered.
-
-In the bottom half, extract the most recognizable subject, contour, pose, and narrative relationship from the photo and reconstruct them as an observational pen-and-light-watercolor sketch. Do not fully trace the photo; retain only the visual clues most worth recording, maintaining the subject's identity, proportion, direction, and scene meaning with minimal information so it is recognized at a glance, while keeping the traces of observation, omission, and the pen coming to a stop.
-
-The composition emphasizes a musical rhythm within a minimalist page: treat the subject's most important contour or motion as a visual motif, organizing the image through repetition, variation, pause, accent, and sudden emptiness. The subject need not be complete or centered; it may be offset, cropped, suspended, or extended naturally in one direction; one or two more forceful free lines carry the visual accent, while the rest quickly fade, letting the large blank act like a musical rest. Avoid even distribution and full filling, giving the image improvisation within restrained order, a sense of completeness within the unfinished.
-
-The lines use a fine, loose, uneven hand-drawn pen stroke, allowing broken contours, searching lines, repeated corrections, sudden emphasis, slight deviations, and unfinished edges. Locally, freer, more decisive long lines or quick strokes may appear, contrasting in rhythm with the quiet fine lines, but the key proportions, directions, and poses must be accurate. The light watercolor is used only in a few necessary places, extracting 2–4 of the most recognizable colors from the original for thin, transparent, localized dabs, allowing overrun, water marks, grain, and uneven coverage, with the environmental colors quickly disappearing.
-
-The background paper color is not fixed; according to the original's overall color temperature, light, and mood, intelligently match an extremely pale, clean, near-white composite base color, which may be slightly warm, slightly cool, or carry a very light hue, but always serving the original without forming an obvious colored background.
-
-The text is generated freely from the photo itself, with no preset title, number, location, year, or fixed language. Extract a few truly meaningful characters, words, short phrases, or symbols from the subject, action, environment, emotion, sound, sense of time, memory, or incidental details. The text also follows the image's rhythm, entering the blank like a slight accent, pause, or echo, arranged naturally along the contour, line of sight, direction of motion, or unfinished edges; better few, offset, light, and clever than forming a menu-like information block.
-
-The whole is like a carefully edited private observation notebook: a minimalist page, bold blank space, keen composition, lines free yet not scattered, locally improvised yet highly restrained overall. Give the image the artistic feel of "a visual motif being observed, repeated, varied, and then stopping at the most fitting point." Avoid complete watercolor landscapes, even composition, filled backgrounds, excessive fine rendering, decorative strokes, thick black outlines, vector lines, cartoon, 3D rendering, menu-like layout, and the feel of a commercial poster template.
-🙃😋😍😍
+A majestic sailing ship with iridescent, glowing sails drifts calmly across a glassy, reflective sea under a pastel sky filled with fluffy clouds; the overall composition is serene and dreamlike, with soft, ethereal lighting and a tranquil mood reminiscent of a fantasy or magical realism painting.
 ```
 
 </details>
@@ -3555,7 +3625,7 @@ The whole is like a carefully edited private observation notebook: a minimalist 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HQaTb2ka4AAuqVE.jpg" width="700" alt="Photo &amp; Observational Watercolor Sketch">
+<img src="https://image.moge.ai/prompt_media/HQe1-TKXQAAnej1.jpg" width="700" alt="Dreamlike Sailing Ship with Iridescent Sails">
 </div>
 
 <br>
@@ -3564,13 +3634,13 @@ The whole is like a carefully edited private observation notebook: a minimalist 
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [小小东](https://x.com/xiaoxiaodong01) | [X / Twitter](https://x.com/xiaoxiaodong01/status/2091521812878459186) | 2026-08-23 |
+| [Viki](https://x.com/churvikv) | [X / Twitter](https://x.com/churvikv/status/2091840823151255696) | 2026-08-24 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2091521812878459186)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2091840823151255696)**
 
 </div>
 
@@ -3850,56 +3920,23 @@ Preserve the identity 100% exactly, including the eye shape, eyelids, eyebrows, 
 
 ---
 
-### No. 49: Velvet High-Jewelry Campaign Poster
+### No. 49: KitKat: The Bar Is the Break
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a vertical cinematic high-jewelry poster starring a diamond-and-emerald necklace on wine-red velvet, with dramatic studio lighting and minimalist luxury styling.
+Creates a premium FMCG KitKat poster where the bar physically interrupts the repeated word WORK, turning the product into the "break" itself.
 
 #### 🌟 Prompt
 
-Create a premium vertical high-jewelry campaign poster for a fictional luxury maison called VELORIA JEWELS, …
+KITKAT — THE BREAK CREATIVE DIRECTION Create a premium, agency-level KITKAT advertising poster inspired by …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a premium vertical high-jewelry campaign poster for a fictional luxury maison called VELORIA JEWELS, combining Orbit-style visual flow with Transit-style editorial restraint. Feature a single diamond-and-emerald necklace as the absolute visual hero, elegantly draped across a sculptural mound of deep wine-red velvet. The image must feel intimate, cinematic, rare, and globally premium, with minimal text and maximum material sophistication.
-
-Core composition:
-Use a vertically centered luxury still-life composition. A dramatic mound of deep crimson velvet rises through the lower-middle of the frame like a soft couture landscape, with one graceful illuminated crest. Across this crest, a delicate high-jewelry necklace is arranged in a precise natural U-shaped fall, its chain and drop elements following the velvet’s contour as if gently sliding into place. The top half of the image remains mostly deep charcoal-black drapery with subtle soft folds and large negative space, allowing the composition to breathe. The necklace must sit exactly at the brightest focal zone and remain the unmistakable center of attention.
-
-Orbit direction:
-Strengthen the visual movement through the necklace drape and velvet topography. The two descending chain lines should form a refined inward sweep toward the center gemstone, while the velvet folds beneath subtly radiate and funnel the eye toward the necklace’s lowest point. The drop stones should feel rhythmically suspended, creating a quiet sense of downward flow and return. The motion must be elegant and almost gravitational, never busy.
-
-Transit restraint:
-Reduce everything to the essential luxury structure only: dark backdrop, sculpted velvet, one necklace, minimal logo, one short headline. Remove all unnecessary descriptive copy and decorative clutter. The final poster should read instantly as a flagship jewelry visual with extreme clarity and calm confidence.
-
-Jewelry design:
-A museum-grade necklace in white gold or platinum with a fine articulated chain. Along the front curve, place a controlled sequence of pear-shaped and oval-cut white diamonds, elegantly spaced and naturally hanging. At the center, add one vivid deep-green emerald drop or oval emerald accent as the sole chromatic jewel focus. The necklace must feel delicate yet costly, balanced, and exquisitely crafted, with believable articulation, realistic weight, sharp settings, and premium gemstone proportion.
-
-Lighting:
-Use dramatic luxury studio lighting from upper left-front, forming a concentrated pool of light over the crest of the velvet and the necklace. The background remains in rich controlled shadow. Diamonds catch crisp restrained white highlights, while the emerald shows deep saturated green depth and internal reflection. The velvet should reveal tactile pile, subtle directional nap, and elegant tonal gradients from illuminated crimson to near-black burgundy. Contrast must be cinematic but clean, with no muddy shadows and no blown highlights.
-
-Material rendering:
-The velvet must feel ultra-rich, dense, and soft, with believable compression, plush fiber detail, and couture-level texture. The necklace metal must show refined polished reflections and delicate edge clarity. Diamonds must display realistic brilliance and crisp faceting without exaggerated sparkle effects. The emerald must show natural gemstone depth, subtle translucency, and noble saturated color. Every material should feel tactile, expensive, and physically coherent.
-
-Typography and branding:
-At the top center, place a minimal luxury emblem and the brand name “VELORIA JEWELS”. Add one tiny descriptor line: “High Jewelry”. Near the bottom center, place one short editorial headline only: “Rare Light, Quietly Held”. Typography should be sparse, elegant, and secondary to the product, set in soft ivory or pale silver-white.
-
-Color system:
-Deep charcoal black, wine-red velvet, white diamond brilliance, cool platinum or white-gold reflections, and a single restrained emerald-green accent. Saturation must remain disciplined, luxurious, and emotionally rich.
-
-Style:
-Cannes-level luxury jewelry campaign, ultra-premium editorial still life, dramatic minimalism, flagship maison advertising, collectible image quality, timeless, elegant, cinematic, globally marketable.
-
-Image quality and physical constraints:
-Ultra-detailed, high resolution, razor-sharp necklace detail, believable chain drape, realistic gemstone optics, true velvet pile texture, clean dark background, no extra props, no random decorative elements, no watermark, no copied wording, no dirty shadows, no excessive glitter effects.
-
-Negative prompt:
-copied original slogan, copied original brand name, extra jewelry pieces, cluttered styling, cheap catalog look, fake CGI necklace, plastic gemstones, oversparkled diamonds, neon emerald, distorted chain, broken stone settings, muddy blacks, flat velvet texture, noisy background, unreadable typography, watermark, random props, low-end ecommerce look
+KITKAT — THE BREAK CREATIVE DIRECTION Create a premium, agency-level KITKAT advertising poster inspired by the visual language of the supplied reference campaign images: bold FMCG social advertising, strong graphic composition, oversized typography, controlled product photography, clean negative space, saturated brand colour, tactile realism and one instantly understandable visual metaphor. Do not copy any specific reference composition, layout or artwork. Extract the common creative principles and build an original KITKAT execution. The poster must feel like a real global FMCG campaign created by a senior art director and photographed by a premium commercial product photographer. Core idea: THE KITKAT LITERALLY CREATES THE BREAK. The visual should communicate the concept before the viewer reads the copy. CAMPAIGN DNA Brand: KITKAT Product: Classic KITKAT 4-Finger Milk Chocolate Bar Campaign territory: Have a Break Concept: The Break Personality: playful, clever, youthful, confident, instantly recognizable Colour system: dominant KITKAT red, deep chocolate brown, white, very subtle cream, restrained dark red. The red should create immediate KITKAT ownership without making the image look like a generic red advertisement. CREATIVE IDEA — THE BREAK: build the entire poster around one graphic interruption. A continuous horizontal typographic rhythm runs across the composition: WORK WORK WORK WORK WORK WORK. The repetition represents the endless pressure and routine of the workday. At the exact centre of the sequence, the rhythm is interrupted. The KITKAT occupies that interruption. The product should visually function as the missing section of the continuous line. The viewer should instantly understand: WORK → WORK → WORK → KITKAT → BREAK. The KITKAT is not placed on top of the concept. The KITKAT IS the interruption. Make the relationship between typography and product feel physically constructed, as if the chocolate bar has literally broken the repeated word pattern. CREATIVE EXECUTION: graphic visual metaphor + premium product hero + editorial FMCG poster. Use: oversized typography, product geometry, repetition, negative space, scale contrast, visual interruption, controlled shadows, strong alignment, premium product photography. Avoid environmental storytelling. This must NOT look like a lifestyle photograph. BACKGROUND: create a completely controlled studio advertising field. Use a rich, saturated KITKAT red background with subtle tonal depth. The background may contain: extremely subtle paper/fabric texture, restrained radial falloff, very soft tonal gradients, faint dimensional shadowing. Keep it fundamentally flat, graphic and intentional. No realistic environment, room, desk, office, architecture, furniture, landscape, scenery or decorative objects. HERO PRODUCT: use the uploaded KITKAT product reference as the primary packaging reference. Preserve its recognizable packaging identity and proportions. Create a premium commercial interpretation of the classic KITKAT 4-Finger Milk Chocolate Bar. The product should sit horizontally across the centre of the composition, acting as the physical break in the typography. Partially unwrap the right side so the four chocolate fingers are visible. Packaging accuracy: preserve the iconic KITKAT red wrapper, accurate white KITKAT wordmark, Nestlé branding where present, four-finger format, authentic wrapper proportions, realistic wrapper folds, realistic printed packaging, believable foil, subtle material reflections, natural wrapper tension, accurate chocolate geometry. Do not invent packaging details. Do not redesign the logo. Do not create a fictional KITKAT package. The uploaded reference is the visual source of truth for the product. CHOCOLATE: the exposed chocolate fingers must look physically real. Show: four distinct fingers, embossed KITKAT detailing, realistic milk-chocolate colour, subtle tempering variation, crisp edges, visible wafer layers at the broken end, tiny natural wafer crumbs. Use restrained crumbs only around the break. No chocolate splash, melting chocolate, floating pieces or exaggerated CGI effects. The chocolate should look edible, tactile and premium. TYPOGRAPHIC SYSTEM: typography is an essential part of the visual metaphor. Primary headline HAVE A BREAK. Secondary headline HAVE A KITKAT. Use a bold contemporary grotesk / heavy sans-serif typeface. Typography should feel like professional FMCG campaign typography, not a Canva template. Large scale. Tight but controlled spacing. Strong alignment. Minimal decoration. WORK SYSTEM: place repeated WORK typography horizontally behind the KITKAT. Example: WORK WORK WORK WORK [KITKAT] WORK WORK WORK. The product must interrupt the sequence. The words immediately surrounding the product should feel visually compressed toward the bar, reinforcing the idea that the KITKAT has physically stopped the repetitive rhythm. Use deep chocolate-brown or dark red typography so it remains integrated into the red background. Allow portions of the typography to disappear behind the product. The product must remain clearly readable. COMPOSITION: Format 4:5 vertical. Create a premium Instagram advertising composition with strong visual hierarchy. Suggested structure: TOP small KITKAT logo or restrained brand identifier, large negative space. UPPER-MIDDLE large: HAVE A BREAK. Below it: HAVE A KITKAT. CENTRE repeated WORK typography, KITKAT bar physically interrupting the sequence — this is the visual hero. LOWER-MIDDLE minimal conceptual lockup: — BREAK —. BOTTOM small supporting line: Take a moment. Break the routine. Optional restrained CTA: HAVE A BREAK. Keep the bottom area clean. VISUAL HIERARCHY: the eye should move in this order: 1. KITKAT product 2. physical interruption / WORK → BREAK 3. HAVE A BREAK. 4. HAVE A KITKAT. 5. minimal supporting copy. Do not allow the typography to overpower the product. The product must remain the most important physical object. TYPOGRAPHIC ART DIRECTION: take inspiration from the references' use of oversized headlines, strong type hierarchy, slightly condensed heavy lettering, subtle distressed texture, confident alignment, minimal supporting copy, graphic repetition, strong brand colour, editorial advertising layouts. Do not replicate any particular reference. Typography should feel intentionally designed into the image from the beginning. PRODUCT SCALE: make the KITKAT relatively large. It should occupy approximately 55–65% of the poster width. Position it horizontally with enough surrounding negative space to remain immediately recognizable. The chocolate should slightly overlap the repeated WORK typography. Use a soft, realistic contact shadow underneath the product so it feels physically present without becoming a floating CGI object. LIGHTING: premium studio product photography. Use: large soft frontal key light, subtle overhead fill, controlled side light, delicate rim separation, soft contact shadow, precise wrapper highlights, controlled chocolate reflections. The product should have dimensionality while the background remains graphic. Avoid: HDR, bloom, lens flare, blue-orange cinematic grading, artificial glow, excessive reflections, plastic-looking packaging. CAMERA / PHOTOGRAPHIC QUALITY: simulate premium medium-format commercial photography. Camera: Phase One XF IQ4 150MP. Lens: Schneider Kreuznach 80mm macro / approximately 90mm equivalent. Aperture: approximately f/8 for controlled product clarity. Focus: critical focus across the packaging and exposed chocolate. Rendering: extremely high micro-detail, natural perspective, smooth highlight roll-off, realistic material response. The final product must resemble a professionally photographed FMCG packshot composited into a premium graphic campaign. MATERIAL REALISM: Wrapper: real printed flexible packaging with subtle creases, accurate folds, fine printed texture, controlled specular reflections, realistic foil transitions. Chocolate: real milk chocolate with natural micro-texture, subtle imperfections, believable highlights, crisp molded edges, realistic wafer structure. Background: premium matte red advertising surface with extremely subtle tactile texture. Everything must feel physically believable. BRANDING: the packaging itself is the primary brand identifier. Use only one additional KITKAT logo maximum, positioned with restraint. Do not scatter logos. Do not add fake brand badges. Do not create unnecessary legal copy. Do not use excessive hashtags. If used, a tiny #HaveABreak can appear in the upper corner as a secondary brand detail. GRAPHIC DETAIL: introduce extremely subtle design refinement: thin horizontal rules, small typographic dividers, restrained alignment marks, subtle red tonal variation, soft product shadow, minimal chocolate crumbs at the break. These details must support the concept rather than decorate the poster. POST-PRODUCTION: finish as a global FMCG campaign asset. Perform: precision product compositing, accurate packaging rendering, realistic chocolate texture, controlled shadows, premium colour grading, micro-contrast refinement, subtle grain, clean typography, perfect alignment, high-resolution sharpening, realistic material integration. No visible AI artifacts. Typography must be clean and intentional. Packaging must remain structurally accurate. REFERENCE INTERPRETATION: use the supplied reference images as art-direction references, not as templates. Extract these qualities: bold FMCG composition + strong product hero + oversized typography + saturated colour + visual metaphor + clean negative space + premium photorealism + social-media readability. The final design should feel like it belongs in the same high-end AI advertising / FMCG campaign ecosystem, while remaining completely original to KITKAT. NEGATIVE DIRECTION: NO environment, office, desk, kitchen, café, room, furniture, people, lifestyle scene, realistic location, stock photography, generic chocolate advertisement, chocolate splash, melted chocolate, floating pieces, excessive crumbs, CGI spectacle, smoke, particles, neon effects, dramatic scenery, complicated background, multiple concepts, visual clutter, excessive copy, fake logos, duplicated logos, distorted KITKAT packaging, malformed chocolate fingers, incorrect wrapper geometry, generic AI typography, Canva-template appearance, plastic-looking chocolate, fake HDR, excessive sharpening, oversaturation. FINAL CREATIVE TEST: before finalizing, the poster must pass three tests: 1. Thumbnail test: at Instagram thumbnail size, the KITKAT and the visual interruption remain immediately recognizable. 2. One-sentence test: the concept can be explained simply: "The KITKAT literally creates the break in the endless WORK." 3. Advertising test: it should look sophisticated enough to appear as a real global FMCG campaign, not an AI-generated product poster. FINAL MESSAGE: THE PRODUCT IS THE BREAK.
 ```
 
 </details>
@@ -3907,7 +3944,7 @@ copied original slogan, copied original brand name, extra jewelry pieces, clutte
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HQPKHkzbYAANGTh.jpg" width="700" alt="Velvet High-Jewelry Campaign Poster">
+<img src="https://image.moge.ai/prompt_media/HQep4mbaQAAXNjJ.jpg" width="700" alt="KitKat: The Bar Is the Break">
 </div>
 
 <br>
@@ -3916,63 +3953,62 @@ copied original slogan, copied original brand name, extra jewelry pieces, clutte
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2090736900688732668) | 2026-08-21 |
+| [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) | [X / Twitter](https://x.com/Diplomeme/status/2091828505420206275) | 2026-08-24 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2090736900688732668)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2091828505420206275)**
 
 </div>
 
 ---
 
-### No. 50: Miniature Paper-Craft Split Poster
+### No. 50: Luxury House Beneath a Frozen Ocean
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Turns each photo into a 3:4 vertical poster with the original on top and a refined miniature paper-craft diorama below.
+Creates a cinematic underwater architectural scene of a luxury brutalist mansion submerged beneath a fractured ice sheet, with volumetric sunlight and marine life.
 
 #### 🌟 Prompt
 
-Please transform each photo I upload into a separate, standalone premium-designed poster. Do not create …
+Create an ultra-detailed, photorealistic cinematic underwater architectural scene: a luxurious modern …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Please transform each photo I upload into a separate, standalone premium-designed poster. Do not create multi-image collages or combine multiple photos into one composition. Each photo must be output individually. Use an overall 3:4 vertical format, divided into two sections with a strict 1:1 height ratio, with the upper and lower sections each occupying exactly 50% of the canvas.
+Create an ultra-detailed, photorealistic cinematic underwater architectural scene: a luxurious modern brutalist-contemporary house completely submerged beneath a vast frozen ocean/ice shelf. The composition should feel like an impossible but physically believable architectural photograph captured by a professional underwater cinematographer.
 
-The upper half should retain the original photograph. Preserve the subject’s structure, realistic texture, natural lighting and shadows, and the original color atmosphere. Apply only subtle, sophisticated photographic color grading to give the image the refined visual quality of an art magazine, independent publication, or exhibition photography. To adapt the photograph to the required aspect ratio, you may naturally extend the sky, ground, or surrounding environment, but do not stretch, distort, reshape, or alter the main subject.
+Architecture:
+A large multi-level luxury residence built from raw concrete, dark charcoal metal panels, aged stone, enormous floor-to-ceiling glass windows, and warm natural wood. The building is integrated into rugged underwater terrain rather than floating. Several sections cantilever dramatically over rocks. Exposed concrete surfaces show subtle weathering and marine growth. Thick green vines and aquatic vegetation naturally crawl across balconies, walls, railings, and structural edges, creating a beautiful contrast between modern architecture and an ancient underwater ecosystem.
 
-In the lower half, extract the most recognizable subject, silhouette, pose, and narrative relationship from the photograph, and reinterpret them as a refined miniature 3D paper-craft diorama. Do not mechanically reproduce the photograph. Instead, transform the main subject and a limited number of elements that best reinforce its identity and environmental character into miniature handcrafted models made from materials such as paper, cardstock, soft clay, thin wood pieces, or similar tactile craft materials. Arrange them naturally on a narrow, lightweight, floating landscape base.
+Environment:
+The house sits on a dark rocky seabed surrounded by enormous fallen tree trunks, weathered roots, stones, aquatic plants, sea grass, corals, and small underwater vegetation. A cracked stone pathway begins in the foreground and naturally leads toward a mysterious entrance beneath the house. The path should create strong visual depth and guide the viewer's eye into the architecture.
 
-The main subject must remain instantly recognizable at a glance. All other elements should function only as narrative support. Depending on the original photograph, you may incorporate plants, roads, water, lamps, vehicles, people, birds, clouds, or other representative details of everyday life, but every added element must be genuinely relevant to the original theme. Avoid decorative clutter or meaningless accumulation of objects.
+Frozen ocean ceiling:
+Above the house is a gigantic fractured layer of transparent blue-white ice. The viewer is positioned underwater looking upward toward the underside of the frozen surface. Large cracks, trapped bubbles, translucent ice formations, and irregular frozen textures are clearly visible. Through a massive opening in the ice, warm sunlight breaks through from the surface.
 
-Base the composition on one core subject + one horizontal miniature landscape strip + generous negative space. Adjust vertical levels, foreground/background relationships, visual density, and left-right balance according to the subject’s scale, direction, and spatial relationships, so that the scene feels like a carefully curated miniature art installation.
+Lighting:
+Use spectacular volumetric sunlight streaming down through the opening in the ice, producing long golden underwater god rays that illuminate the center of the house and seabed. The overall environment should be predominantly deep ocean blue and cyan, while the sunlight creates a warm golden contrast. Interior rooms glow subtly with realistic warm tungsten lighting through the windows. Physically accurate underwater light scattering, caustics, atmospheric haze, suspended particles, and realistic light absorption.
 
-Create depth through variations in scale, layered overlaps, and small foreground and background elements. The primary subject should carry the greatest visual weight, while supporting models remain smaller and visually quieter. Keep the overall composition centered without making it excessively symmetrical, maintaining a light, refined, calm, and elegant visual rhythm.
+Marine life:
+Populate the scene naturally with schools of small fish moving around the architecture, a few larger fish passing in the foreground and midground, tiny bubbles rising toward the ice, and subtle aquatic organisms around the rocks. Marine life must feel naturally integrated into the environment rather than decorative or randomly placed.
 
-Continue using a soft, airy, slightly desaturated premium color palette. Establish the main atmosphere with pale powder blue, mist blue, sky blue, and cool airy blues. Balance these with ivory white, creamy white, light beige, soft gray-green, sage green, and neutral architectural tones. Use only small accents of dusty rose or muted blush for subtle detail.
+Interior details:
+Through the large glass windows, reveal elegant minimalist interiors: warm lamps, contemporary furniture, bookshelves, dining areas, plants, and subtle architectural lighting. The interiors should feel luxurious but lived-in, contrasting with the dark abandoned-looking underwater exterior.
 
-The colors should feel soft yet clean. Avoid muddy gray tones, excessive yellow casts, or candy-like colors. Allow different paper layers to create natural spatial separation through subtle variations in tone and color.
+Composition:
+Vertical cinematic composition, approximately 4:5. Wide-angle architectural photography, camera positioned several meters in front of the residence at approximately eye level with a slight upward perspective. Strong foreground, middle-ground, and background separation. The pathway and architecture create leading lines toward the center. The fractured ice ceiling frames the upper portion of the image while the house dominates the middle of the frame.
 
-Emphasize the authenticity of handcrafted materials. Make paper fibers, folded edges, cut edges, layered thickness, slight fraying, and tiny handmade imperfections visible. Use soft natural diffused lighting and delicate shadows to reveal the real volume, depth, and layering of the miniature models, with the intimate tactile quality of macro photography.
+Visual style:
+Ultra-realistic, cinematic architectural photography, high-end concept architecture, grounded photorealism, physically plausible materials, realistic underwater physics, subtle filmic contrast, extremely detailed textures, natural imperfections, realistic reflections and refractions, volumetric lighting, atmospheric depth, HDR, professional color grading, dramatic but believable lighting, masterpiece-level environmental detail.
 
-Keep the background soft white or an extremely pale paper tone, with extensive clean negative space, so that the entire lower half feels like a meticulously photographed premium handcrafted travel postcard.
-
-Typography should also be integrated into the visual language of the miniature paper-craft world. Derive a short English title from the location, identity of the subject, theme, or emotional atmosphere of the photograph. The title does not have to be a city name.
-
-Use a small, refined typeface with a subtle handwritten character. Preferably place the title within the negative space below the miniature landscape strip. Depending on the relationship with the subject, the text may also follow a slight curve, align gently along the base, or interact spatially with the miniature scene. Keep the typography minimal, elegant, and restrained. Do not add long descriptive copy. The text should feel more like an artist’s signature than a commercial headline.
-
-The overall visual direction should combine the premium qualities of miniature diorama, handcrafted paper art, whimsical 3D illustration, and a premium travel postcard. The result should feel light, gentle, refined, tactile, and full of lived-in character, while maintaining strong design discipline and abundant breathing room.
-
-Whether the original photograph features a person, animal, plant, architecture, object, vehicle, or natural landscape, maintain a clear yet clever visual correspondence between the real photographic world in the upper half and the miniature handcrafted world in the lower half.
-
-Avoid plastic-looking 3D rendering, toy-like aesthetics, childish craft styles, overly complicated compositions, excessive cuteness, visual clutter, or an e-commerce product-display appearance.
+Mood:
+Mysterious, serene.
 ```
 
 </details>
@@ -3980,7 +4016,7 @@ Avoid plastic-looking 3D rendering, toy-like aesthetics, childish craft styles, 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HQZj-47a4AA7pHd.jpg" width="700" alt="Miniature Paper-Craft Split Poster">
+<img src="https://image.moge.ai/prompt_media/HQemG_KagAAPMvr.jpg" width="700" alt="Luxury House Beneath a Frozen Ocean">
 </div>
 
 <br>
@@ -3989,13 +4025,13 @@ Avoid plastic-looking 3D rendering, toy-like aesthetics, childish craft styles, 
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [小小东](https://x.com/xiaoxiaodong01) | [X / Twitter](https://x.com/xiaoxiaodong01/status/2091470045973262409) | 2026-08-23 |
+| [WeWant Mars](https://x.com/Madhuribhai) | [X / Twitter](https://x.com/Madhuribhai/status/2091823200359403670) | 2026-08-24 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2091470045973262409)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2091823200359403670)**
 
 </div>
 
@@ -4203,33 +4239,47 @@ A high-fashion commercial editorial portrait of a stunning blonde model with vol
 
 ---
 
-### No. 55: Kroger Sushi Editorial Ad Campaign
+### No. 55: Oversized Editorial Typography Campaign
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a premium 4:5 social creative for Kroger sushi, blending commercial food photography, editorial typography and the 'Fresh for Everyone' brand identity.
+Creates an editorial campaign poster where oversized typography performs a real visual function—shadow, frame, light, or route—interacting with the product or model.
 
 #### 🌟 Prompt
 
-KROGER SUSHI — EDITORIAL FOOD ADVERTISING CAMPAIGN Act as a Senior Food Advertising Art Director, Commercial …
+Create a bold editorial campaign poster where oversized typography actively shapes the visual concept instead …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-KROGER SUSHI — EDITORIAL FOOD ADVERTISING CAMPAIGN
+Create a bold editorial campaign poster where oversized typography actively shapes the visual concept instead of simply sitting in the background.
 
-Act as a Senior Food Advertising Art Director, Commercial Food Photographer, Editorial Poster Designer, Brand Designer, and Creative Director creating a premium 4:5 social-media campaign creative for KROGER.
+Brand: [BRAND NAME]
+Product / Campaign: [PRODUCT OR CAMPAIGN]
+Main Word: [SHORT WORD]
+Subject / Product: [PERSON / PRODUCT / BOTH]
+Typography Function: [SHADOW / FRAME / LIGHT / ROUTE / OTHER]
+Main Color: [COLOR]
+Accent Color: [COLOR]
+Campaign Details: [SLOGAN / SPECS / DATE / OTHER]
+Aspect Ratio: [9:16]
 
-The creative must combine Kroger's authentic brand identity with premium editorial food advertising and sophisticated commercial photography. Kroger's brand platform is built around "Fresh for Everyone," emphasizing fresh, affordable and delicious food; Kroger also identifies itself as America's largest sushi retailer and states its sushi is prepared fresh in stores by sushi chefs. Use Kroger's official brand guidelines as the authority for the brand identity.
+Use contemporary editorial design, realistic commercial photography, bold oversized typography, and a strong high-contrast color system.
 
-This is NOT a generic Japanese restaurant ad, NOT a luxury sushi aesthetic, NOT a menu, NOT a cheap grocery flyer. Make Kroger sushi feel fresh, accessible, appetizing, contemporary, and surprisingly premium. The food is the hero; the photograph is the canvas; typography and Kroger's visual identity complete the campaign.
+Make the main word extremely large, filling roughly 50–75% of the composition. Allow letters to extend beyond the canvas, be cropped, overlap the subject, or use their negative space as part of the layout.
 
-[Follow all Phases 0–16 of the original brief: BRAND IDENTITY; CREATIVE CONCEPT (FRESH SUSHI. EVERY DAY. / FROM THE SUSHI BAR TO YOUR KROGER.); HERO FOOD (one realistic fresh Kroger sushi roll with real rice grains, fish texture, nori, avocado, sesame, roe, sauce, moisture, natural imperfections — no plastic food, no CGI); BIG CREATIVE IDEA (pick ONE concept); COMPOSITION (4:5 vertical, single unified, no split screen or multi-panel menu, premium editorial grid, strong negative space); TYPOGRAPHY (headline FRESH FOR EVERYONE™, bold, contemporary, no Japanese calligraphy, no luxury serif, no glow/bevel/shadow); SUPPORTING COPY (FRESH SUSHI. MADE DAILY. / ROLL INTO SOMETHING FRESH. / SHOP FRESH SUSHI → — no invented claims); INFORMATION DESIGN (editorial annotation, not a menu); GRAPHIC LANGUAGE (no Japanese clichés, red sun, cherry blossoms, samurai, random kanji, sale stickers); FOOD PHOTOGRAPHY (macro/short tele ~70–120mm, razor-sharp sushi, natural shallow DoF); ART DIRECTION (contemporary grocery-meets-editorial environment, minimal props); LIGHTING (bright, appetizing commercial, avoid HDR/fake bloom); COLOR SYSTEM (official Kroger palette, no invented colors; natural sushi colors); BRAND INTEGRATION (Kroger logo as signature, correct proportions); SOCIAL OPTIMIZATION (Instagram, legible at thumbnail); BEHANCE-LEVEL FINISH; QUALITY CONTROL].
+Most importantly, give the typography a clear visual function. For example, let the letters cast shadows across the subject, frame a product, shape the lighting, create a movement path, or organize the scene in another meaningful way.
 
-FINAL OUTPUT: 4:5 vertical, single unified food advertising composition, Kroger sushi as the hero, authentic Kroger brand identity, "FRESH FOR EVERYONE™" visual language, premium commercial food photography, editorial typography, fresh bright appetizing lighting, Behance-featured finish. The viewer should think: "That's surprisingly fresh."
+The subject or product should interact naturally with this typography system so the text, photography, and graphic elements feel designed as one composition.
+
+Use one dominant color with a contrasting secondary color, black, white, and only a small amount of accent color.
+
+Add a few meaningful campaign details such as the brand name, product name, slogan, specifications, labels, route information, or small editorial text. Keep them organized and relevant to the actual concept instead of using random filler words.
+
+Keep people, products, materials, lighting, and shadows realistic and polished. The final image should feel like a finished commercial campaign key visual — bold, colorful, editorial, and visually complete.
 ```
 
 </details>
@@ -4237,7 +4287,7 @@ FINAL OUTPUT: 4:5 vertical, single unified food advertising composition, Kroger 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HQKdn0iaAAAA7MC.jpg" width="700" alt="Kroger Sushi Editorial Ad Campaign">
+<img src="https://image.moge.ai/prompt_media/HQd0PqBWEAAvK4u.jpg" width="700" alt="Oversized Editorial Typography Campaign">
 </div>
 
 <br>
@@ -4246,60 +4296,108 @@ FINAL OUTPUT: 4:5 vertical, single unified food advertising composition, Kroger 
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) | [X / Twitter](https://x.com/Diplomeme/status/2090406966342652134) | 2026-08-20 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2091768524037333319) | 2026-08-24 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2090406966342652134)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2091768524037333319)**
 
 </div>
 
 ---
 
-### No. 56: Eastern Poetic Negative-Space Poster
+### No. 56: Theme-Based Collage Template
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Turns a classical Chinese verse into a vertical Eastern art poster with generous negative space, a small symbolic object, and emotion made visible.
+Turns any theme into an artistic multi-scene editorial collage with an irregular, asymmetric layout unified by style and palette.
 
 #### 🌟 Prompt
 
-[Classical verse]: fill in a classical Chinese verse with clear emotion and visual imagery [Two-character …
+THEME = enter theme STYLE = enter the style you want PALETTE = enter the color palette ASPECT RATIO = enter …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-[Classical verse]: fill in a classical Chinese verse with clear emotion and visual imagery
-[Two-character theme]: extract 2 core characters from the verse
-[Core emotion]: endless flowing / impossible to untangle / impossible to forget / impossible to keep / waiting / longing, etc.
-[Emotional action]: flowing away / entwining / lingering as residue / disappearing / fading / drifting off, etc.
-[Small subject]: a water mark / silk thread / old window / petal / lamp / boat / letter, etc.
-[Main color]: fill in 1–3 main colors
-[Soft embossing]: old riverbed / line traces / human shadow / flower shadow / water ripples / moon halo, etc.
-[Location and date]: fill in
+THEME = enter theme
+STYLE = enter the style you want
+PALETTE = enter the color palette
+ASPECT RATIO = enter the aspect ratio you want
 
-Generate a 9:16 vertical Eastern poetic negative-space art poster, turning the [core emotion] in the [classical verse] into a visible [emotional action].
+DO:
+  Create an artistic multi-scene collage built entirely around THEME.
+  Derive subjects, environments, objects, characters and visual events naturally from THEME.
+  Derive the emotional tone, atmosphere and energy naturally from THEME.
+  Use people, animals, objects, landscapes, architecture, abstract forms or any combination of them when they meaningfully support THEME.
+  Treat each scene as a distinct emotional or conceptual fragment from the same world.
+  Build the composition like an expressive editorial art spread rather than a storyboard or regular panel grid.
+  Freely vary the number, scale, proportions and placement of scenes.
+  Combine large dominant images with narrow vertical fragments, wide horizontal crops, small detail scenes and partially cropped compositions.
+  Stagger scene edges and shift their alignments to create an irregular visual rhythm.
+  Let some scenes extend fully to the canvas edge while others terminate against neighboring imagery.
+  Use occasional L-shaped, stepped or offset arrangements created naturally by neighboring scene proportions.
+  Avoid repeating the same rectangle size or alignment across the composition.
+  Keep scenes visually separate without visible frames or empty gaps between them.
+  Let neighboring scenes meet through irregular crop relationships while keeping their environments independent.
+  Do not blend separate locations into one continuous environment.
+  Keep the main subjects of each scene visually contained within that scene.
+  Use architecture, large color fields and negative space to shape the overall composition.
+  Connect neighboring scenes through color relationships, visual rhythm and thematic echoes rather than physically merging their content.
+  Choose environments and situations specifically suited to THEME.
+  Include occasional intimate fragments such as hands, objects, windows, silhouettes, architectural details or empty spaces when they strengthen THEME.
+  Give each scene a different visual scale, point of view and conceptual focus.
+  Use expressive lighting, shape, perspective and negative space according to STYLE.
+  Vary the emphasis of PALETTE from scene to scene while preserving overall harmony.
+  Maintain consistency whenever subjects, characters, objects or locations recur.
+  Keep the final composition visually clean, sophisticated and intentionally irregular.
 
-Use fine handmade art paper, pure white or slightly cool-toned, as the background, preserving real paper fibers, pulp grain, and natural press marks. Keep about 65%–70% effective negative space, without a giant subject filling the frame.
+CAMERA: varied editorial framing, environmental wides, cropped medium views, isolated details, unusual negative-space compositions, overhead fragments and off-center perspectives chosen according to THEME
 
-Place only one [small subject] occupying about 15%–25% of the frame, plus a tiny figure or very few narrative elements. The point is not to explain the verse directly, but to let the emotion happen in the space through the [emotional action].
+RULES:
+  Use STYLE as the authority for medium, linework, texture, shading, shape design and overall rendering language.
+  Use PALETTE as the dominant color system across the image.
+  Let THEME determine subjects, setting, mood, symbolism and visual narrative.
+  Every scene must explore a different facet of THEME.
+  The composition must feel assembled, layered and rhythmically irregular rather than divided into uniform boxes.
+  Keep individual scenes independently readable while allowing their shapes and proportions to interact compositionally.
+  Use asymmetry, scale contrast, staggered alignment and varied cropping to create the collage structure.
+  Do not use visible panel outlines.
+  Render every surface freshly, with continuous natural texture flow.
+  Keep grain fine, stochastic, and evenly distributed across the frame.
+  Give each repeated element its own unique micro-variation.
+  Keep flat areas smooth with clean, unbroken tonal gradients.
+  Resolve fine detail crisply at native resolution, as a first-generation render.
 
-Add a low-contrast soft [embossing] related to the theme in the background; the embossing must have meaning, for example a path where water once flowed, a shadow that has already vanished, traces of a thread stretched then entwined, faded flower shadows, or the place left by an old object. From afar it stays clean; only up close do you discover these “residues.”
+NO: rigid grid, equal-sized panels, repeated rectangular boxes, visible panel borders, white gutters, margins, outer padding, blended environments, fused scenes, characters spanning multiple scenes, conventional comic-page layout, speech bubbles, captions, text, logos, watermarks
 
-Use the [main color]; it can be beautiful, clear, and emotional, but don't make everything black, white, and gray for the sake of sadness. Let the color gradually fade, wash out, or sink into the paper with distance and time.
+---
 
-Lines, water edges, and the trajectories of falling flowers must be continuous, soft, and natural, avoiding many breaks, broken lines, and messy AI textures.
+Example values:
 
-The Chinese main title uses the [two-character theme] in a modern Song or Ming typeface; it may gain design through letter spacing, slight misalignment, thin lines, or partial extensions, but the Chinese characters must remain complete, accurate, and clear.
+THEME = thinking of you
+STYLE = clean hand-drawn editorial illustration, playful naïve urban sketching, flat matte colors, loose imperfect ink contours, contemporary picture-book sophistication
+PALETTE = powder blue, warm cream, coral pink, burnt orange, mustard, leafy green, brick red, black accents
+ASPECT RATIO = 1:2
 
-Also add the original verse in small type, the location, the date, and a brief English title. The overall effect should be like a blend of classical poetic emotion, material experiment, paper embossing, and a refined editorial poster.
+THEME = we don't talk anymore
+STYLE = minimalist contemporary editorial illustration, precise thin linework, large empty spaces, abstract architectural geometry, restrained flat color
+PALETTE = off-white, charcoal, muted navy, faded orange, dusty pink
+ASPECT RATIO = 1:2
 
-Avoid: ordinary antique-style illustration, traditional landscape painting, travel poster, giant subject, crying figure, dark clouds and storms, overly literal emotional expression, aged beige background, broken lines, meaningless embossing, dull colors, dense text, and cheap 3D.
+THEME = sleepless night
+STYLE = expressive retro graphic novel illustration, loose ink drawing, flat saturated color fields, exaggerated perspective, dramatic blocks of light
+PALETTE = ultramarine blue, acid green, hot red, amber yellow, black
+ASPECT RATIO = 1:2
+
+THEME = almost lovers
+STYLE = delicate watercolor editorial illustration, sparse pencil linework, translucent color washes, soft imperfect edges, elegant negative space
+PALETTE = dusty rose, faded blue, ivory, muted burgundy, soft gray
+ASPECT RATIO = 1:2
 ```
 
 </details>
@@ -4307,7 +4405,7 @@ Avoid: ordinary antique-style illustration, traditional landscape painting, trav
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HQY-EgiXkAEnLmA.jpg" width="700" alt="Eastern Poetic Negative-Space Poster">
+<img src="https://image.moge.ai/prompt_media/HQefRf8XMAApveo.jpg" width="700" alt="Theme-Based Collage Template">
 </div>
 
 <br>
@@ -4316,13 +4414,13 @@ Avoid: ordinary antique-style illustration, traditional landscape painting, trav
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2091430097739784667) | 2026-08-23 |
+| [Kōda](https://x.com/aimikoda) | [X / Twitter](https://x.com/aimikoda/status/2091815882057990475) | 2026-08-24 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2091430097739784667)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2091815882057990475)**
 
 </div>
 
