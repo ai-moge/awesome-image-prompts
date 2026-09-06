@@ -29,52 +29,75 @@ Full Prompt Text · Preview Images · **10 Languages**
 
 > ℹ️ This page showcases the latest 60 of 4000+ curated prompts. Prompts are curated from public posts and credited to their authors. To request removal, email **team@moge.ai**.
 >
-> 📊 Last updated: 2026-09-05.
+> 📊 Last updated: 2026-09-06.
 
 ---
 
 ## 🎩 Latest Curated Prompts
 
-### No. 1: Food Editorial Poster
+### No. 1: ASTROWRAP Shawarma Rocket Poster
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a 9:16 vertical poster for cafés and bakeries that fuses realistic food photography with expressive magazine-style typography, building the layout around the food itself.
+Creates a premium food advertising poster turning a fire-grilled chicken shawarma wrap into a rocket launching into space.
 
 #### 🌟 Prompt
 
-[BRAND]: {brand name} [FOOD / DRINK]: {main product} [HEADLINE]: {main headline} [SUBHEAD]: {short supporting …
+Create a Cannes-level flagship food advertising poster for an original fast-casual wrap brand named …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-[BRAND]: {brand name}
-[FOOD / DRINK]: {main product}
-[HEADLINE]: {main headline}
-[SUBHEAD]: {short supporting line}
-[DETAILS]: {ingredients / flavor / hours / address / short brand copy}
-[ACCENT COLOR]: {burgundy / forest green / cobalt blue / etc.}
-[LAYOUT]: {diagonal split / annotated flat lay / circular typography / oversized type / other editorial composition}
+Create a Cannes-level flagship food advertising poster for an original fast-casual wrap brand named ASTROWRAP, featuring the hero product Fire-Grilled Chicken Shawarma. Build the image with refined Orbit flow and clean Transit reduction, turning the shawarma into a premium rocket-launch key visual with strong product dominance and global campaign polish.
 
-Create a 9:16 vertical food editorial poster that combines highly realistic food photography with expressive magazine-style typography.
+Core composition:
+Use a vertical poster with a deep midnight-blue space background, subtle star particles, faint atmospheric haze, and minimal orbital linework. Keep the scene dramatic but highly controlled, with strong negative space and a clean premium hierarchy.
 
-Use a warm ivory or cream paper background with subtle natural paper texture. The food or drink should be the main visual anchor, photographed with realistic texture, natural highlights, contact shadows, appetizing materials and believable proportions. Avoid CGI, plastic-looking surfaces, overly polished commercial rendering or floating cutout objects.
+Hero product logic:
+At the center-right, place one enormous ultra-realistic chicken shawarma wrap angled upward diagonally like a rocket ascending into the sky. The wrap must be the absolute visual hero. The tortilla should show realistic toasted blister marks, soft folds, warm golden-brown texture, and premium tactile detail. The open top reveals vivid, appetizing fillings: flame-grilled chicken strips, crisp lettuce, red onion, glossy sauce, and fresh vegetables with strong realism and appetite appeal.
 
-Build the composition around the actual shape, direction or arrangement of the food rather than placing the product in a fixed template. Let the selected [LAYOUT] determine how photography and typography interact. The subject may crop beyond the frame, overlap with type, divide the page, create a circular structure, form a diagonal axis, or leave intentional negative space for editorial information.
+Rocket transformation:
+Integrate a clean metallic rocket nozzle into the lower end of the wrap so the product still reads primarily as food, not as a machine. From the nozzle, launch a bright, physically believable plume of fire and glowing exhaust into dense cinematic clouds below. The flame must feel powerful and elegant, with rich orange-white heat, subtle sparks, and controlled smoke, never cartoonish.
 
-Typography should be a major part of the composition. Use one expressive display typeface for the main [HEADLINE] and one restrained supporting typeface for secondary information. Allow changes in scale, orientation, cropping and placement so the text feels integrated with the food rather than simply placed above or below it.
+Orbit structure:
+Create a strong visual loop across the poster:
+headline -> shawarma top opening -> wrap body -> rocket flame -> lower smoke mass -> right-side icon system -> back upward into the wrap.
+Use the diagonal ascent of the wrap, the arc of the smoke, and the vertical icon alignment to reinforce this circulation. The eye should continuously return to the product as the core anchor.
 
-Keep a clear visual hierarchy:
-large headline and food first, short supporting copy second, then a few useful details such as ingredients, flavor notes, opening hours or address.
+Typography system:
+At the upper left, place one concise original campaign headline in bold premium typography:
+“FLAVOR
+IN ORBIT”
+Below it, add one short supporting line in smaller refined type:
+“Fast fire. Clean finish.”
+Keep the typography strong, minimal, and internationally polished. No extra copy.
 
-Use [ACCENT COLOR] sparingly alongside cream, food-derived natural colors and dark neutral typography. Keep the palette controlled and cohesive.
+Transit reduction:
+Simplify the information system so the poster feels more flagship and less promotional. Along the right side, keep only three refined circular icon markers with short English labels:
+“fresh-grilled chicken”
+“signature sauce”
+“made to move”
+Reduce background technical graphics and keep orbital accents faint and secondary. Remove any non-essential micro details or noisy annotations.
 
-Small editorial elements such as thin rules, dots, curved lines or subtle annotations may be added when useful, but avoid decorative clutter, numbered labels, 01/02, Vol., four-point sparkles, generic filler copy or meaningless microtext.
+CTA area:
+At the lower right, use one restrained dynamic brush-streak panel with a short call-to-action:
+“TAKE OFF NOW”
+Keep it compact and clearly secondary to the hero wrap.
 
-The final image should feel like a real café, bakery or food brand campaign: visually bold at thumbnail size, detailed when viewed closely, practical enough for branding or menu use, and designed as a complete poster rather than a reusable-looking template.
+Lighting and color:
+Use a cinematic palette of midnight blue, ember orange, flame gold, warm tortilla beige, fresh green accents, and roasted meat browns. Light the wrap as a premium hero object with crisp highlights on the tortilla and fillings, subtle rim light against the dark background, and warm reflected glow from the rocket flame.
+
+Visual style:
+Ultra-realistic commercial food photography fused with cinematic launch VFX, premium QSR campaign quality, highly detailed tortilla texture, believable grilled meat gloss, elegant flame physics, strong hierarchy, clean typography, no clutter.
+
+Mood:
+Explosive, craveable, futuristic, premium, globally branded, bold, fast, product-first.
+
+Negative prompt:
+cheap takeaway flyer, cartoon rocket, cluttered layout, unreadable text, low-detail tortilla, fake fillings, plastic-looking meat, weak flame effects, too many icons, muddy smoke, flat lighting, noisy background graphics, low-end fast-food branding
 ```
 
 </details>
@@ -82,7 +105,7 @@ The final image should feel like a real café, bakery or food brand campaign: vi
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRbci5PbgAA20uA.jpg" width="700" alt="Food Editorial Poster">
+<img src="https://image.moge.ai/prompt_media/HRdss-zboAAf4w3.jpg" width="700" alt="ASTROWRAP Shawarma Rocket Poster">
 </div>
 
 <br>
@@ -91,68 +114,59 @@ The final image should feel like a real café, bakery or food brand campaign: vi
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2096105230303641778) | 2026-09-05 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2096263714651373842) | 2026-09-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2096105230303641778)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2096263714651373842)**
 
 </div>
 
 ---
 
-### No. 2: Vertical Sliced Typography Editorial Poster
+### No. 2: Signal-Driven Experimental Typography Poster
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Creates a high-end vertical editorial poster with a large centered word, one continuous photo embedded in the letters and strokes extended into vertical slices.
+Creates a high-end vertical experimental typography poster where oversized words become the entire visual system, rebuilt from dots, waves, and arcs.
 
 #### 🌟 Prompt
 
-【MAIN WORD】: {4–8 letter uppercase keyword} 【PROJECT】: {exhibition / festival / cultural event / editorial} …
+TITLE: [poster title] CONCEPT WORDS: [3–4 related words] BACKGROUND COLOR: [color] PRIMARY COLOR: [color] …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-【MAIN WORD】: {4–8 letter uppercase keyword}
-【PROJECT】: {exhibition / festival / cultural event / editorial}
-【SUBJECT】: {one complete photographic scene}
-【BACKGROUND】: {color}
-【PALETTE】: {main colors}
-【TYPE STYLE】: {bold grotesk / geometric sans / slab serif}
-【TOP LEFT】: {date / time / venue}
-【TOP RIGHT】: {3 short concept words}
-【BOTTOM LEFT】: {supporting information}
-【BOTTOM RIGHT】: {organization / event name}
-【FORMAT】: 9:16 vertical
+TITLE: [poster title]
+CONCEPT WORDS: [3–4 related words]
+BACKGROUND COLOR: [color]
+PRIMARY COLOR: [color]
+ACCENT COLOR: [color]
+GRAPHIC SYSTEMS: [dots / wave lines / concentric arcs / offset contours / radiating lines]
+EVENT TYPE: [sound art / exhibition / live performance / cultural program]
+EVENT INFO: [date / time / venue]
+FORMAT: 9:16 vertical poster
 
-Create a high-end editorial poster using vertical sliced typography.
+Create a high-end experimental typography poster where oversized English words become the main visual system.
 
-Place 【MAIN WORD】 large at the center, occupying about 75–85% of the width. Keep the word bold, clearly readable, and visually dominant.
+Use 3–4 layered words with clear conceptual relationships. Do not simply place normal bold text and apply textures inside it. Rebuild the letterforms directly from precise geometric systems such as dot matrices, parallel wave lines, concentric or eccentric arcs, stepped contours, offset registrations, radiating segments, and frequency-like line bundles.
 
-Embed one single continuous photograph of 【SUBJECT】 inside the entire word. Every letter must reveal a different part of the same image, with major visual lines such as light beams, coastlines, architecture, circular forms, roads or objects continuing naturally across the letters.
+Give different text layers different graphic behaviors, then connect them through controlled transitions: dots may stretch into lines, arcs may open into waves, waves may shift or drift, and line systems may gradually realign. The poster should feel like one evolving typographic field rather than several separate effects.
 
-Keep roughly the upper 40–45% of the letterforms intact. Extend selected lower strokes downward into 5–7 vertical sections with varied short, medium and long lengths. The extensions must grow naturally from the original letters and should never look like random rectangles or barcode strips.
+Use overlap, compression, partial cropping, displacement, and negative space to create dense multi-layer typography. Maintain strong density contrast: some areas highly compressed and bright, some medium-density, and some deliberately open.
 
-Continue the same photograph through all extended sections. Place the strongest visual focus around the central letters and use one clear continuous feature to connect the whole composition.
+Keep all dots and lines exceptionally clean, sharp, continuous, and intentional. Smooth curves, consistent spacing, clear endpoints, stable dot shapes, no accidental broken lines, fuzzy edges, random noise, messy moiré, glitch artifacts, or low-quality AI textures.
 
-Add a subtle soft shadow behind the typography, slightly offset to the lower right, creating a restrained floating-paper effect.
+Use a restrained, high-contrast color palette with one dominant background, one main typography color, and only small accent areas.
 
-Use a clean 【BACKGROUND】 with generous negative space and keep most visual complexity inside the type. Apply 【PALETTE】 to the embedded photography with one small accent color if needed.
+Reserve the lower 25%–30% for a refined editorial information section with the poster title, one short concept sentence, 2–3 program items, date, time, venue, and program name. Use clean modern sans-serif typography, multiple hierarchy levels, thin divider lines, and an asymmetric cultural-poster grid.
 
-Arrange supporting information around the composition:
-
-Top left: 【TOP LEFT】
-Top right: 【TOP RIGHT】
-Bottom left: 【BOTTOM LEFT】
-Bottom right: 【BOTTOM RIGHT】
-
-Use small, precise modern typography for all secondary information. The final piece should feel like a finished exhibition, festival or cultural editorial poster, not a template demonstration.
+The final image should work at three distances: a strong abstract composition at thumbnail size, readable layered typography at medium distance, and rich geometric detail up close.
 ```
 
 </details>
@@ -160,7 +174,7 @@ Use small, precise modern typography for all secondary information. The final pi
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRbCHkubUAA4xQr.jpg" width="700" alt="Vertical Sliced Typography Editorial Poster">
+<img src="https://image.moge.ai/prompt_media/HRgded7akAAIMsg.jpg" width="700" alt="Signal-Driven Experimental Typography Poster">
 </div>
 
 <br>
@@ -169,13 +183,13 @@ Use small, precise modern typography for all secondary information. The final pi
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2096076711574097975) | 2026-09-05 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2096469713953886252) | 2026-09-06 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2096076711574097975)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2096469713953886252)**
 
 </div>
 
@@ -244,45 +258,58 @@ Use strong grid alignment, clear visual hierarchy, layered panels, subtle shadow
 
 ---
 
-### No. 4: Multi-Portrait Editorial Poster
+### No. 4: Central-Axis Framed Exhibition Poster
 
 ![Category: Marketing Materials](https://img.shields.io/badge/Category-Marketing%20Materials-lightgrey)
 
 #### 📚 Description
 
-Creates a high-end vertical editorial poster arranging multiple portraits in a modular layout system with strong typography, ideal for festivals, exhibitions and cultural events.
+Builds a high-impact cultural poster where two large side subjects frame a central axis to spotlight a bold title, negative space, or motif.
 
 #### 🌟 Prompt
 
-[THEME / EVENT]: {fill in} [MAIN TITLE]: {fill in} [SUBTITLE]: {fill in} [PEOPLE]: {4–8 people + roles} …
+[Theme]: \_\_\_\_ [Chinese main title]: \_\_\_\_ [English title]: \_\_\_\_ [Left subject]: \_\_\_\_ [Right subject]: \_\_\_\_ …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-[THEME / EVENT]: {fill in}
-[MAIN TITLE]: {fill in}
-[SUBTITLE]: {fill in}
-[PEOPLE]: {4–8 people + roles}
-[LAYOUT]: {oversized type / circular grid / geometric grid / vertical slices / centered composition}
-[MAIN COLOR]: {fill in}
-[ACCENT COLOR]: {fill in}
-[DATE / LOCATION]: {fill in}
-[FORMAT]: 9:16 vertical poster
+[Theme]: ____
+[Chinese main title]: ____
+[English title]: ____
+[Left subject]: ____
+[Right subject]: ____
+[Central-axis content]: title / figure / plant / negative space / other ____
+[Framing method]: arc negative space / spatial perspective / flexible material / two-object counterbalance / other ____
+[Main background color]: ____
+[Subject material and style]: ____
+[Date / Venue]: ____
+[Aspect ratio]: 9:16
 
-Create a high-end multi-portrait editorial poster with strong typography, modular portrait placement and rich but controlled information density.
+Generate a "central-axis framed" poster with strong visual impact and the refined air of a high-end cultural exhibition.
 
-Build the composition around ONE clear layout system selected above. Do not simply arrange portraits in equal rows or a basic speaker grid. Treat each person as a graphic module: use varied portrait scales, cropping, cutouts, geometric containers, overlaps, edge-breaking and foreground/background relationships.
+First establish a clear, stable vertical central axis; then let the [left subject] and [right subject] form visual weight from both sides, pushing the main title, figure, plant, or negative-space area toward the center.
 
-Use realistic, high-quality portrait photography with a consistent visual treatment across all people. Vary poses, head angles and crop sizes so the cast feels dynamic while still belonging to the same visual system.
+The side subjects must be large enough, close to the edges with natural cropping allowed, together carrying the main visual weight. The two sides may differ in contour, size, color, material, and detail, but the overall visual weight must be balanced, avoiding simple duplication and mechanical mirroring.
 
-Typography must actively shape the composition. Make the main title large and visually dominant, allowing portraits and letters to overlap, intersect or sit behind one another where appropriate. Add the subtitle, names, roles, date, location and a few meaningful topic labels as secondary information.
+Choose the framing method by theme:
 
-Keep the layout information-rich but organized: combine dense portrait areas with quieter breathing space, and create clear hierarchy between the main title, people, event details and small editorial text.
+circular or arc subjects can frame a central negative space by their contour;
+spatial subjects such as buildings or screens can form a depth axis through perspective;
+flexible materials such as fabric or plants can form soft framing through natural curvature;
+objects, figures, or artifacts can reinforce the central title through side counterbalance.
 
-Use a restrained color system: a clean neutral background, one dominant color and one supporting accent. Geometric shapes, lines, circles, frames or architectural modules should support the chosen layout rather than act as random decoration.
+The central axis must be the most important reading area. The Chinese main title uses a bold large type size, and may be vertical, mixed vertical-horizontal, with scale variation, partial occlusion, or slight overlap with the subject, making typography truly part of the composition rather than merely placed at the top.
 
-The final image should feel like a finished contemporary exhibition, festival, forum or editorial poster — not a PowerPoint speaker lineup or a generic template.
+Allow one low-weight visual node on the axis, such as a tiny figure, a flowering branch, a pattern rubbing, a structural line sketch, or a study diagram, to give the center both focus and layering, but do not form a third equal-level subject.
+
+Information density can be rich but concentrated in 2–3 areas: central axis core information, side columns, and bottom exhibition details. Create a clear size contrast between the giant title and tiny text, without spreading small text evenly across the whole frame.
+
+Use one clear large-area dominant color to build recognizability, such as vermilion, cobalt blue, lemon yellow, grass green, cyan blue, dark brown, or persimmon orange. Keep 3–5 main colors overall, creating contrast through subject material, typography, and minimal accent color.
+
+Core principle: not simple "left-right symmetry," but using the visual weight of both sides to shape the center. The sides apply pressure, the axis focuses; structure stays stable, but details may differ.
+
+Overall requirements: strong axis, strong subjects, strong color gamut, clear design sense, rich but not chaotic information, sharp edges, clear text, real materials, with the finish of a mature cultural exhibition poster and editorial design.
 ```
 
 </details>
@@ -290,7 +317,7 @@ The final image should feel like a finished contemporary exhibition, festival, f
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRW9RqBXwAMpxxo.jpg" width="700" alt="Multi-Portrait Editorial Poster">
+<img src="https://image.moge.ai/prompt_media/HRcgi30WIAIwNZR.jpg" width="700" alt="Central-Axis Framed Exhibition Poster">
 </div>
 
 <br>
@@ -299,39 +326,35 @@ The final image should feel like a finished contemporary exhibition, festival, f
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2095789359475704049) | 2026-09-04 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2096180343850074303) | 2026-09-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095789359475704049)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2096180343850074303)**
 
 </div>
 
 ---
 
-### No. 5: Hand-Drawn Travel Postcard Illustration
+### No. 5: Watercolor Travel Poster
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Creates a charming vintage postcard illustration with an iconic landmark as the focus, surrounded by European charm in colored-pencil and watercolor.
+Creates a watercolor-and-ink travel poster blending historic architecture with a modern skyline, accented by cherry blossoms and elegant bilingual typography.
 
 #### 🌟 Prompt
 
-Create a charming hand-drawn illustrated travel scene featuring [ICONIC STRUCTURE] as the unmistakable main …
+An artistic, travel-poster style digital illustration rendered in a delicate watercolor and ink technique, …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a charming hand-drawn illustrated travel scene featuring [ICONIC STRUCTURE] as the unmistakable main focal point, inspired by a beautifully detailed vintage European storybook postcard. Keep the structure highly recognizable with accurate proportions, distinctive architectural details, and an elegant handcrafted appearance. Surround it with a picturesque local environment representing the city — charming traditional buildings, cobblestone streets, cafés, small shops, flowers, trees, street lamps, bicycles, pedestrians, and subtle location-specific details. Add a beautiful foreground element such as a river, canal, garden, plaza, or waterfront with soft reflections.
-
-Use colored-pencil and watercolor illustration, visible hand-drawn strokes, textured paper, slightly imperfect sketch lines, rich yet harmonious colors, delicate shading, and a nostalgic travel-journal feeling. Add tiny playful doodles such as hearts, stars, sparkles, clouds, birds, and little handwritten-style accents naturally around the sky. Create a lively, cozy atmosphere with layered depth and miniature details throughout the scene.
-
-Whimsical handcrafted illustration, vintage travel postcard, storybook aesthetic, highly detailed architecture, colorful European charm, artistic colored-pencil texture, watercolor wash, warm nostalgic mood, no photorealism, no collage, cohesive single scene. 4:5 vertical composition.
+An artistic, travel-poster style digital illustration rendered in a delicate watercolor and ink technique, featuring a harmonious blend of ancient heritage and modern innovation. The scene is framed by soft, translucent splashes of blue, peach, and sepia watercolor washes on a textured paper background, accompanied by flowering cherry blossom branches on the left. In the foreground, traditional architecture with curved tiled roofs, narrow alleyways, and stone elements transitions seamlessly into a vibrant modern skyline in the background, filled with towering skyscrapers and iconic landmarks under a partly cloudy sky. The composition is balanced with elegant handwritten typography, bilingual subtitles, and vintage-style travel emblems, capturing a nostalgic yet vibrant mood.
 ```
 
 </details>
@@ -339,7 +362,7 @@ Whimsical handcrafted illustration, vintage travel postcard, storybook aesthetic
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRbAzUla8AAIWAd.jpg" width="700" alt="Hand-Drawn Travel Postcard Illustration">
+<img src="https://image.moge.ai/prompt_media/HRcu71mXIAEQSgq.jpg" width="700" alt="Watercolor Travel Poster">
 </div>
 
 <br>
@@ -348,35 +371,35 @@ Whimsical handcrafted illustration, vintage travel postcard, storybook aesthetic
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [simeon-sanai](https://x.com/Naiknelofar788) | [X / Twitter](https://x.com/Naiknelofar788/status/2096074679555641415) | 2026-09-05 |
+| [Minahil](https://x.com/Minahil42298354) | [X / Twitter](https://x.com/Minahil42298354/status/2096195789827588442) | 2026-09-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2096074679555641415)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2096195789827588442)**
 
 </div>
 
 ---
 
-### No. 6: Moody Cinematic Film Portrait
+### No. 6: Golden Hour Glamour
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-A cinematic close-up portrait of a young woman in dramatic low-key lighting with a moody 35mm film aesthetic.
+An editorial beauty portrait of a woman with bronzed makeup and red lips against a mustard-yellow backdrop, lit by warm directional light with luminous, dewy skin.
 
 #### 🌟 Prompt
 
-A close-up cinematic portrait of a beautiful young woman with long, messy dark hair blowing across her face …
+Editorial beauty photography portrait of a young woman with a tan complexion and dark wavy shoulder-length …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-A close-up cinematic portrait of a beautiful young woman with long, messy dark hair blowing across her face and subtle freckles across her nose. The scene is set in dramatic low-key lighting with deep shadows and soft directional light highlighting her facial features, smooth skin texture, and expressive dark eyes. Her expression is thoughtful and intense, set against a dark, minimalistic background, shot on 35mm film with hyper-realistic detail and a moody aesthetic.
+Editorial beauty photography portrait of a young woman with a tan complexion and dark wavy shoulder-length bob hair swept to one side, bold winged eyeliner, glossy red lipstick, soft bronze eyeshadow, wearing a satin mustard-yellow spaghetti-strap top, confident direct gaze, lips slightly parted, shot against a seamless saturated mustard-yellow studio backdrop, strong directional studio lighting from the upper left with warm golden tones and soft shadow falloff, high contrast warm color palette with a vivid red-lip accent, shot on an 85mm lens with shallow depth of field, tight portrait crop from mid-chest up, eye-level centered composition, hyperrealistic skin with subsurface scattering and dewy glow, crisp strand-level hair detail, glossy lip highlight, high-end fashion campaign quality, ultra-detailed, 8k resolution.
 ```
 
 </details>
@@ -384,7 +407,7 @@ A close-up cinematic portrait of a beautiful young woman with long, messy dark h
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRYLw6CXsAYEAQ2.jpg" width="700" alt="Moody Cinematic Film Portrait">
+<img src="https://image.moge.ai/prompt_media/HReK_pnbAAA5CXN.jpg" width="700" alt="Golden Hour Glamour">
 </div>
 
 <br>
@@ -393,73 +416,89 @@ A close-up cinematic portrait of a beautiful young woman with long, messy dark h
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Minahil](https://x.com/Minahil42298354) | [X / Twitter](https://x.com/Minahil42298354/status/2095875639660146847) | 2026-09-04 |
+| [Ozair AI](https://x.com/Ozayrr_irl) | [X / Twitter](https://x.com/Ozayrr_irl/status/2096296996508500341) | 2026-09-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095875639660146847)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2096296996508500341)**
 
 </div>
 
 ---
 
-### No. 7: Premium Granola Poster with Central Spoon
+### No. 7: Banana Mascot Soda Ad Poster
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a luxury editorial poster for a granola brand, with a central hero spoon and ingredients in a refined circular orbit.
+Creates a Cannes-level FMCG launch poster for a soft drink, with a running 3D banana mascot presenting an ice-cold hero can against a minimalist yellow background.
 
 #### 🌟 Prompt
 
-Create a Cannes-level flagship advertising poster for an original premium granola brand named AURAGRAIN, …
+Create a Cannes-level flagship advertising poster for an original soft drink brand named BUBBLENANA, …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a Cannes-level flagship advertising poster for an original premium granola brand named AURAGRAIN, featuring the product Honey Cinnamon Oat Granola. Build the image with a refined Orbit composition and a cooler, more international editorial aesthetic.
+Create a Cannes-level flagship advertising poster for an original soft drink brand named BUBBLENANA, featuring the hero product Banana Cream Sparkling Soda. Build the image with refined Orbit motion and clean Transit reduction, creating a bold, globally polished FMCG launch key visual.
 
 Core composition:
-A vertical luxury food campaign poster with a soft mineral-off-white background, subtle natural paper texture, very clean negative space, and a calm premium atmosphere. In the exact center, place a polished silver spoon vertically as the hero object, filled with ultra-realistic honey cinnamon granola. The spoon must dominate the composition and feel precise, sculptural, and appetizing.
+Use a vertical poster with a seamless, fully saturated banana-yellow background, pure and uninterrupted. Keep the environment completely minimal so the product, mascot, and headline dominate with absolute clarity.
 
-Hero product logic:
-Inside the spoon, show detailed toasted oat flakes, compact crunchy granola clusters, roasted almond pieces, and a restrained glossy honey-coated texture. The food must feel authentic, premium, dry-crisp yet lightly glazed, with real commercial food-photography detail. No mess, no excessive crumbs, no rustic chaos.
+Hero structure:
+At center-right, place a premium 3D anthropomorphic banana character in a dynamic forward-running pose, full of joyful momentum and clean silhouette appeal. The peel opens naturally into limbs, with believable volume and refined texture. The face should feel expressive, charming, and globally brandable, with premium character realism rather than a childish cartoon look.
+
+Product dominance:
+At center-left foreground, place one oversized hyper-realistic aluminum can of BUBBLENANA Banana Cream Sparkling Soda, held forward toward the camera by the banana mascot. The can must sit slightly closer to the viewer than the character, creating strong depth and clear commercial dominance. It should feel ice-cold, highly detailed, and premium, with crisp condensation droplets, elegant metallic reflections, and clean modern packaging hierarchy.
 
 Orbit structure:
-Arrange 4 key ingredient elements around the spoon in a controlled circular flow: oat flakes, granola clusters, roasted almonds, and a small drop of golden honey. Their placement should create a subtle closed-loop visual rhythm around the spoon, guiding the eye in an elegant orbit. Use very thin refined directional lines and understated curved graphic gestures to connect the surrounding ingredients back toward the center. The orbit should feel intentional, premium, and quiet, not playful or messy.
+Use the composition to create a strong visual loop:
+curved headline -> mascot face -> presenting arm -> hero can -> lower body stride -> floating banana slices -> back up into the headline.
+Reinforce the orbit with the can tilt, the leg motion, the arc of the title, and the placement of a few restrained banana slices. The eye should always return to the can as the core brand anchor.
+
+Packaging direction:
+Design the can with a premium, globally publishable identity:
+BUBBLENANA
+BANANA CREAM
+SPARKLING SODA
+Add only very restrained supporting details such as:
+“soft fizz”
+“serve chilled”
+Keep the front-of-pack clean, elegant, and easy to read. Avoid noisy claims.
 
 Typography system:
-Use a highly refined international typography layout. Replace any overly casual rustic feeling with a more elevated editorial balance:
+At the upper center-right, place one large original curved headline in bold custom rounded display typography:
+“PEEL
+THE
+FIZZ”
+The headline should feel playful but polished, with premium spacing and clean outline control. Add one short supporting line in smaller refined type near the can:
+“Creamy sparkle. Pure lift.”
+Keep typography minimal and internationally styled.
 
-- Large elegant custom script headline near the upper center-left: “Awaken”
-- Small uppercase sans-serif line beneath it: “CLEAN ENERGY. QUIET LUXURY.”
-- Small refined flavor descriptor at the upper right: “honey cinnamon”
-- Minimal ingredient annotations placed near each ingredient in tiny sophisticated English editorial type:
-  “slow-toasted oats”
-  “granola crunch”
-  “roasted almonds”
-  “pure honey glaze”
+Transit reduction:
+Remove all unnecessary copy, long descriptive text, and excessive social-style details. Keep only the essential brand-building elements: logo, headline, hero can, mascot, one short support line, and a small CTA.
+At the bottom center, place a tiny clean CTA capsule:
+“TASTE NOW”
+Nothing else should compete with the hero product.
 
-Typography must feel art-directed, airy, and premium, with beautiful spacing and hierarchy. No heavy fonts, no cheap health-product design, no crowded copy.
-
-Branding:
-Place a minimal AURAGRAIN logo in the upper left corner, understated and official. Add a very small net weight line in the lower right corner. Branding should feel discreet, international, and luxury-natural.
+Floating elements:
+Use only 2-3 softly motion-blurred banana slices, placed sparingly to support the sense of movement and flavor. Keep them subtle and secondary.
 
 Lighting and color:
-Soft controlled studio lighting with gentle highlights and quiet shadows. Color palette should be cooler and more restrained than rustic breakfast advertising: mineral ivory, oat beige, muted almond brown, soft cinnamon tan, pale honey amber, brushed silver. Avoid overly warm farmhouse tones. The final image should feel calm, premium, modern, and globally polished.
+Use bright premium studio lighting with crisp highlights on the can, soft sculpted shadows under the mascot, and strong subject separation against the yellow field. Keep the palette tightly controlled around banana yellow, creamy off-white, metallic silver, and minimal deep accent color on the packaging.
 
-Visual quality:
-Ultra-realistic commercial food rendering, premium FMCG key visual, elegant ingredient isolation, crisp texture definition, believable metallic spoon reflections, subtle tactile shadows, clean layout, sophisticated negative space, international wellness-brand campaign aesthetic.
+Visual style:
+Ultra-realistic commercial product rendering, premium 3D mascot realism, believable banana texture, realistic can condensation, clean packaging detail, flagship FMCG campaign quality, strong hierarchy, no clutter, no cheap retail-poster feel.
 
 Mood:
-Quiet confidence, premium nutrition, modern restraint, editorial elegance, clean appetite appeal, luxury naturalism.
+Sunny, fizzy, playful, craveable, globally branded, high-energy, premium, instantly memorable.
 
 Negative prompt:
-rustic farmhouse styling, cluttered layout, cheap packaging look, noisy annotations, playful doodles, messy crumbs, oversaturated warm tones, ugly bold fonts, plastic-looking oats, fake honey, dirty background, crowded composition, low-end organic branding, blurry food texture, distorted spoon, casual supermarket flyer aesthetic
+cheap flyer design, cluttered composition, unreadable packaging, childish cartoon mascot, distorted limbs, awkward hands, flat lighting, muddy yellow background, too many floating slices, excessive copy, low-end convenience-store ad aesthetic, plastic-looking banana texture
 ```
 
 </details>
@@ -467,7 +506,7 @@ rustic farmhouse styling, cluttered layout, cheap packaging look, noisy annotati
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRYM12WagAAkn0B.jpg" width="700" alt="Premium Granola Poster with Central Spoon">
+<img src="https://image.moge.ai/prompt_media/HRdsh6SbIAA3W2s.jpg" width="700" alt="Banana Mascot Soda Ad Poster">
 </div>
 
 <br>
@@ -476,54 +515,66 @@ rustic farmhouse styling, cluttered layout, cheap packaging look, noisy annotati
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2095876859758002398) | 2026-09-04 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2096263504454128117) | 2026-09-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095876859758002398)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2096263504454128117)**
 
 </div>
 
 ---
 
-### No. 8: Architectural Typographic Editorial Poster
+### No. 8: Architectural Perspective Typography Poster
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Creates a vertical architectural poster blending real monochrome building photography with oversized typography and a single accent color.
+Creates a high-impact vertical poster where oversized typography is embedded into architecture, using perspective, curves and openings to build depth and movement.
 
 #### 🌟 Prompt
 
-Theme: [museum / city campaign / design week / hotel / public space] Main title: [YOUR TITLE] Architecture: …
+TITLE: [DROP / PASSAGE / BEND / RISE-FALL / your own text] PROJECT NAME: [brand / exhibition / campaign] …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Theme: [museum / city campaign / design week / hotel / public space]
-Main title: [YOUR TITLE]
-Architecture: [building type and key geometry]
-Accent color: [orange / blue / teal / yellow / other]
-Type interaction: [behind / overlapping / wrapping / cropped by architecture]
-Aspect ratio: 9:16
+TITLE: [DROP / PASSAGE / BEND / RISE-FALL / your own text]
+PROJECT NAME: [brand / exhibition / campaign]
+ARCHITECTURAL SPACE: [atrium / passage / curved ramp / vertical canyon / other]
+TYPE MOTION: [fall / recede / bend / rise / opposing directions]
+SUBJECT: [small human figure / skater / none]
+MAIN COLOR: [one or two strong accent colors]
+SUPPORTING TEXT: [location / date / short tagline]
+FORMAT: 9:16 vertical poster
 
-Create a vertical architectural editorial poster combining real architectural photography with bold graphic typography.
+Create a high-impact perspective typography poster where oversized type is physically integrated into architecture and uses the structure of the space to create movement, depth and direction.
 
-Use a warm off-white background and mostly monochrome architecture with strong contrast, realistic concrete, glass, steel and natural shadows. Make the building large in frame with dramatic cropping, clear geometry and a strong silhouette rather than showing the entire structure neatly.
+Build the architecture and perspective system first, then make the typography strictly follow its surfaces, curves, openings, height changes and vanishing directions.
 
-Use only one saturated accent color, applied selectively to oversized type, geometric blocks, outlines or small architectural areas.
+The main word should dominate the composition while remaining readable. Let the letterforms change naturally according to the selected spatial mechanism:
 
-Typography must act as part of the composition, not simply sit on top of the photo. Use oversized bold sans-serif lettering that overlaps, hides behind, cuts across or extends beyond the architecture and poster edges.
+For vertical spaces, make the type expand, compress or fall through different levels.
 
-Add a small amount of structured editorial information such as event name, date, location, categories or a short statement. Keep the hierarchy clear: architecture and oversized type first, supporting text second.
+For passages and repeating openings, let the letters appear, disappear behind structural elements and re-emerge deeper in the scene.
 
-Aim for a sophisticated architectural magazine / cultural campaign aesthetic with strong negative space, graphic tension and clear thumbnail impact.
+For curved paths, bend and rotate the typography along the changing direction of the architecture.
 
-Avoid generic real-estate advertising, futuristic CGI buildings, excessive colors, meaningless text, logos, numbering, watermarks and decorative clutter.
+For opposing directions, use two typographic flows moving against each other within the same spatial system.
+
+Typography should feel painted, printed or embedded into real architectural surfaces, with accurate perspective, scale, occlusion and surface contact. Avoid simply placing flat text over the image.
+
+Use a restrained architectural palette with one or two strong accent colors against concrete, black, white or neutral materials. Keep the letterforms bold, geometric and visually dominant.
+
+If a person is included, keep them relatively small and use them as a scale anchor. Their movement or position should reinforce the direction of the typography rather than compete with it.
+
+Add only a small amount of editorial information such as project name, location, date and one short thematic line.
+
+Overall style: perspective typography, architectural poster, spatial graphic design, editorial composition, strong depth, clear hierarchy and bold visual impact.
 ```
 
 </details>
@@ -531,7 +582,7 @@ Avoid generic real-estate advertising, futuristic CGI buildings, excessive color
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRa6U1Qa4AA2CcI.jpg" width="700" alt="Architectural Typographic Editorial Poster">
+<img src="https://image.moge.ai/prompt_media/HRgPBSQa0AA6VAu.jpg" width="700" alt="Architectural Perspective Typography Poster">
 </div>
 
 <br>
@@ -540,13 +591,13 @@ Avoid generic real-estate advertising, futuristic CGI buildings, excessive color
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2096067650052874367) | 2026-09-05 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2096442563385290804) | 2026-09-06 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2096067650052874367)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2096442563385290804)**
 
 </div>
 
@@ -652,7 +703,361 @@ Important: Do not reproduce the NIVORA name, orange color scheme, logo, earbuds,
 
 ---
 
-### No. 10: Mid-Autumn Teacher Tribute Vertical Poster
+### No. 10: Multi-Portrait Editorial Poster
+
+![Category: Marketing Materials](https://img.shields.io/badge/Category-Marketing%20Materials-lightgrey)
+
+#### 📚 Description
+
+Creates a high-end vertical editorial poster arranging multiple portraits in a modular layout system with strong typography, ideal for festivals, exhibitions and cultural events.
+
+#### 🌟 Prompt
+
+[THEME / EVENT]: {fill in} [MAIN TITLE]: {fill in} [SUBTITLE]: {fill in} [PEOPLE]: {4–8 people + roles} …
+
+<details>
+<summary>Show full prompt</summary>
+
+```
+[THEME / EVENT]: {fill in}
+[MAIN TITLE]: {fill in}
+[SUBTITLE]: {fill in}
+[PEOPLE]: {4–8 people + roles}
+[LAYOUT]: {oversized type / circular grid / geometric grid / vertical slices / centered composition}
+[MAIN COLOR]: {fill in}
+[ACCENT COLOR]: {fill in}
+[DATE / LOCATION]: {fill in}
+[FORMAT]: 9:16 vertical poster
+
+Create a high-end multi-portrait editorial poster with strong typography, modular portrait placement and rich but controlled information density.
+
+Build the composition around ONE clear layout system selected above. Do not simply arrange portraits in equal rows or a basic speaker grid. Treat each person as a graphic module: use varied portrait scales, cropping, cutouts, geometric containers, overlaps, edge-breaking and foreground/background relationships.
+
+Use realistic, high-quality portrait photography with a consistent visual treatment across all people. Vary poses, head angles and crop sizes so the cast feels dynamic while still belonging to the same visual system.
+
+Typography must actively shape the composition. Make the main title large and visually dominant, allowing portraits and letters to overlap, intersect or sit behind one another where appropriate. Add the subtitle, names, roles, date, location and a few meaningful topic labels as secondary information.
+
+Keep the layout information-rich but organized: combine dense portrait areas with quieter breathing space, and create clear hierarchy between the main title, people, event details and small editorial text.
+
+Use a restrained color system: a clean neutral background, one dominant color and one supporting accent. Geometric shapes, lines, circles, frames or architectural modules should support the chosen layout rather than act as random decoration.
+
+The final image should feel like a finished contemporary exhibition, festival, forum or editorial poster — not a PowerPoint speaker lineup or a generic template.
+```
+
+</details>
+
+#### 🌁 Generated Image
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HRW9RqBXwAMpxxo.jpg" width="700" alt="Multi-Portrait Editorial Poster">
+</div>
+
+<br>
+
+<div align="center">
+
+| Author | Source | Published |
+| :---: | :---: | :---: |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2095789359475704049) | 2026-09-04 |
+
+</div>
+
+<div align="center">
+
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095789359475704049)**
+
+</div>
+
+---
+
+### No. 11: Hand-Drawn Travel Postcard Illustration
+
+![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
+
+#### 📚 Description
+
+Creates a charming vintage postcard illustration with an iconic landmark as the focus, surrounded by European charm in colored-pencil and watercolor.
+
+#### 🌟 Prompt
+
+Create a charming hand-drawn illustrated travel scene featuring [ICONIC STRUCTURE] as the unmistakable main …
+
+<details>
+<summary>Show full prompt</summary>
+
+```
+Create a charming hand-drawn illustrated travel scene featuring [ICONIC STRUCTURE] as the unmistakable main focal point, inspired by a beautifully detailed vintage European storybook postcard. Keep the structure highly recognizable with accurate proportions, distinctive architectural details, and an elegant handcrafted appearance. Surround it with a picturesque local environment representing the city — charming traditional buildings, cobblestone streets, cafés, small shops, flowers, trees, street lamps, bicycles, pedestrians, and subtle location-specific details. Add a beautiful foreground element such as a river, canal, garden, plaza, or waterfront with soft reflections.
+
+Use colored-pencil and watercolor illustration, visible hand-drawn strokes, textured paper, slightly imperfect sketch lines, rich yet harmonious colors, delicate shading, and a nostalgic travel-journal feeling. Add tiny playful doodles such as hearts, stars, sparkles, clouds, birds, and little handwritten-style accents naturally around the sky. Create a lively, cozy atmosphere with layered depth and miniature details throughout the scene.
+
+Whimsical handcrafted illustration, vintage travel postcard, storybook aesthetic, highly detailed architecture, colorful European charm, artistic colored-pencil texture, watercolor wash, warm nostalgic mood, no photorealism, no collage, cohesive single scene. 4:5 vertical composition.
+```
+
+</details>
+
+#### 🌁 Generated Image
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HRbAzUla8AAIWAd.jpg" width="700" alt="Hand-Drawn Travel Postcard Illustration">
+</div>
+
+<br>
+
+<div align="center">
+
+| Author | Source | Published |
+| :---: | :---: | :---: |
+| [simeon-sanai](https://x.com/Naiknelofar788) | [X / Twitter](https://x.com/Naiknelofar788/status/2096074679555641415) | 2026-09-05 |
+
+</div>
+
+<div align="center">
+
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2096074679555641415)**
+
+</div>
+
+---
+
+### No. 12: Ice Crystal Victorian Bride Portrait
+
+![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
+
+#### 📚 Description
+
+An ultra-realistic cinematic vertical close-up of a Victorian bride in an ivory lace gown with a crystal tiara and icy glam makeup.
+
+#### 🌟 Prompt
+
+Ultra-realistic cinematic close-up fashion portrait of a real adult human woman, 9:16 vertical, NOT anime, …
+
+<details>
+<summary>Show full prompt</summary>
+
+```
+Ultra-realistic cinematic close-up fashion portrait of a real adult human woman, 9:16 vertical, NOT anime, NOT manga, NOT cartoon, NOT illustration, NOT CGI, NOT 3D, NOT doll-like. Preserve completely natural human facial anatomy and realistic skin texture.
+
+Recreate the SAME POSE AND COMPOSITION as the reference: intimate tilted close-up portrait, head gently tilted toward one side, face angled slightly upward toward the camera, shoulders subtly turned, eyes looking directly into the camera with a soft dreamy expression, lips slightly parted. Match the framing, head angle, eye direction, facial positioning and elegant relaxed posture of the reference.
+
+ETHEREAL ICE CRYSTAL VICTORIAN BRIDE LOOK: luxurious ivory-white Victorian couture gown with a high lace neckline, dense three-dimensional floral lace, silver embroidery, tiny pearls and crystal embellishments. Large intricate silver floral brooch at the chest with a pale icy-blue gemstone center. Soft translucent ivory bridal veil surrounding the face.
+
+Hair: elegant ash-brown/light brown romantic bridal updo with soft waves and realistic fine strands. Large elaborate silver crystal tiara with branching filigree and oversized faceted transparent crystals.
+
+Intricate silver bridal forehead jewelry covering the forehead and temples, made of delicate floral filigree, fine chains, pearls, crystal beads and dangling crystal strands framing both sides of the face. Long silver floral chandelier earrings with pearls and large teardrop crystal pendants.
+
+MAKEUP MUST BE CLEARLY VISIBLE AND PROMINENT: sophisticated icy bridal glam makeup, luminous satin skin, visible cool-pink blush, strong champagne-white shimmer on the eyelids, soft silver-gray eyeshadow in the crease, defined dark brown-gray eyeliner, visibly curled long separated eyelashes, detailed lower lashes, bright champagne inner-corner highlight, subtle aegyo-sal highlight, softly defined brows, pale icy blue-gray eyes with realistic iris detail and glossy catchlights. Soft rosy-pink glossy lips with clearly visible lip color and definition. Makeup must remain elegant but noticeably visible in the image, especially the eyeshadow, eyeliner, lashes, blush and glossy lips.
+
+Highly realistic pale blue-gray eyes, natural human proportions, realistic pores.
+```
+
+</details>
+
+#### 🌁 Generated Image
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HRdR4uMbcAAiMSL.jpg" width="700" alt="Ice Crystal Victorian Bride Portrait">
+</div>
+
+<br>
+
+<div align="center">
+
+| Author | Source | Published |
+| :---: | :---: | :---: |
+| [Talia](https://x.com/TaliaAariz) | [X / Twitter](https://x.com/TaliaAariz/status/2096234240727719986) | 2026-09-05 |
+
+</div>
+
+<div align="center">
+
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2096234240727719986)**
+
+</div>
+
+---
+
+### No. 13: 9:16 Food Editorial Poster
+
+![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
+
+#### 📚 Description
+
+Creates a magazine-style vertical food poster that pairs realistic food photography with expressive typography and a flexible editorial layout.
+
+#### 🌟 Prompt
+
+[BRAND]: {brand name} [FOOD / DRINK]: {main product} [HEADLINE]: {main headline} [SUBHEAD]: {short supporting …
+
+<details>
+<summary>Show full prompt</summary>
+
+```
+[BRAND]: {brand name}
+[FOOD / DRINK]: {main product}
+[HEADLINE]: {main headline}
+[SUBHEAD]: {short supporting line}
+[DETAILS]: {ingredients / flavor / hours / address / short brand copy}
+[ACCENT COLOR]: {burgundy / forest green / cobalt blue / etc.}
+[LAYOUT]: {diagonal split / annotated flat lay / circular typography / oversized type / other editorial composition}
+
+Create a 9:16 vertical food editorial poster that combines highly realistic food photography with expressive magazine-style typography.
+
+Use a warm ivory or cream paper background with subtle natural paper texture. The food or drink should be the main visual anchor, photographed with realistic texture, natural highlights, contact shadows, appetizing materials and believable proportions. Avoid CGI, plastic-looking surfaces, overly polished commercial rendering or floating cutout objects.
+
+Build the composition around the actual shape, direction or arrangement of the food rather than placing the product in a fixed template. Let the selected [LAYOUT] determine how photography and typography interact. The subject may crop beyond the frame, overlap with type, divide the page, create a circular structure, form a diagonal axis, or leave intentional negative space for editorial information.
+
+Typography should be a major part of the composition. Use one expressive display typeface for the main [HEADLINE] and one restrained supporting typeface for secondary information. Allow changes in scale, orientation, cropping and placement so the text feels integrated with the food rather than simply placed above or below it.
+
+Keep a clear visual hierarchy:
+large headline and food first, short supporting copy second, then a few useful details such as ingredients, flavor notes, opening hours or address.
+
+Use [ACCENT COLOR] sparingly alongside cream, food-derived natural colors and dark neutral typography. Keep the palette controlled and cohesive.
+
+Small editorial elements such as thin rules, dots, curved lines or subtle annotations may be added when useful, but avoid decorative clutter, numbered labels, 01/02, Vol., four-point sparkles, generic filler copy or meaningless microtext.
+
+The final image should feel like a real café, bakery or food brand campaign: visually bold at thumbnail size, detailed when viewed closely, practical enough for branding or menu use, and designed as a complete poster rather than a reusable-looking template.
+```
+
+</details>
+
+#### 🌁 Generated Image
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HRcnf71WQAkSYJV.jpg" width="700" alt="9:16 Food Editorial Poster">
+</div>
+
+<br>
+
+<div align="center">
+
+| Author | Source | Published |
+| :---: | :---: | :---: |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2096207481353425049) | 2026-09-05 |
+
+</div>
+
+<div align="center">
+
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2096207481353425049)**
+
+</div>
+
+---
+
+### No. 14: Oriental Poetic Flowing-Light Poster
+
+![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
+
+#### 📚 Description
+
+Creates a 9:16 vertical Oriental poetic poster on white handmade paper with generous white space, a tiny symbolic subject, and iridescent light that turns poetic emotion into visual motion.
+
+#### 🌟 Prompt
+
+【Original poem line】: fill in 【Two-character theme】: fill in 【Core emotion】: fill in 【Visual action】: pierce …
+
+<details>
+<summary>Show full prompt</summary>
+
+```
+【Original poem line】: fill in
+【Two-character theme】: fill in
+【Core emotion】: fill in
+【Visual action】: pierce / refract / shake / scatter / burn / gather / rise / fall
+【Subject】: sword / lantern / figure / railing / river / boat / flower / bird / object, etc.
+【Flowing-light colors】: fill in 2–4 colors
+【Bas-relief】: mountain ridge / waterway / footprints / sound waves / old paths / building ruins, etc.
+【Location】: fill in
+【Date】: fill in
+【English subtitle】: fill in
+
+Generate a 9:16 vertical Oriental poetic flowing-light poster with white space.
+
+Do not directly replicate the complete ancient scene in the 【original poem line】; instead distill the 【core emotion】 and 【visual action】, and through one clear small subject 【subject】, transform the poetry into a directional, changing visual movement.
+
+Use near-pure-white premium handmade art paper as the background, preserving fine paper fibers and natural press marks, keeping about 65%–75% effective white space. Keep the subject at roughly 8%–20% of the frame, avoiding huge figures or objects that fill the scene.
+
+Let "light" truly participate in the composition. Design the state of the light according to the 【visual action】, for example passing through, refracting, diffusing, converging, or gradually vanishing from a point. Use the 【flowing-light colors】 to form refined localized iridescence like pearl, jade, metal, or water surface; you may add ice blue, emerald green, light purple, champagne gold, amber gold, etc.; keep colored areas restrained, avoiding neon and full-screen rainbow gradients.
+
+Add a narratively meaningful white bas-relief to the background 【bas-relief】, expressing old paths, mountains and rivers, footprints, sound echoes, or scenes that have already vanished. Clean from afar, hidden details revealed up close.
+
+All water lines, light lines, wind lines, and ripples must be continuous, smooth, and complete, avoiding broken lines, fragmented dots, and messy AI textures.
+
+The human figure is not a fixed element. When scale is needed, add a tiny figure; when stronger resonance is wanted, leave only "human traces" through a sword, lantern, wine cup, railing, letter, etc.
+
+The main title uses the 【two-character theme】, paired with a concise verse, 【location】, 【date】, and 【English subtitle】, in a modern refined Chinese serif typeface (Song, Ming), keeping it accurate, clear, and editorial.
+
+Overall presentation:
+Oriental poetry × large white space × handmade paper × white bas-relief × small subject × emotional flowing light × Editorial Design.
+
+Avoid: ordinary ancient-style illustration, full landscape replication, huge subject, deep black background, full-screen golden light, neon gradient, wuxia-fantasy effects, meaningless relief, broken flow lines, yellowed aged background, dense text.
+```
+
+</details>
+
+#### 🌁 Generated Image
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HRgKQowXAAEV24k.jpg" width="700" alt="Oriental Poetic Flowing-Light Poster">
+</div>
+
+<br>
+
+<div align="center">
+
+| Author | Source | Published |
+| :---: | :---: | :---: |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2096436999645208946) | 2026-09-06 |
+
+</div>
+
+<div align="center">
+
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2096436999645208946)**
+
+</div>
+
+---
+
+### No. 15: Burger Brand From a Graphic
+
+![Category: Branding & Interface](https://img.shields.io/badge/Category-Branding%20%26%20Interface-lightgrey)
+
+#### 📚 Description
+
+Builds a complete burger brand identity based on a provided reference graphic.
+
+#### 🌟 Prompt
+
+```
+Create a burger brand based on this graphic.
+```
+
+#### 🌁 Generated Image
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HQQ_igOXQAAOoNa.jpg" width="700" alt="Burger Brand From a Graphic">
+</div>
+
+<br>
+
+<div align="center">
+
+| Author | Source | Published |
+| :---: | :---: | :---: |
+| [Gizem Akdag](https://x.com/gizakdag) | [X / Twitter](https://x.com/gizakdag/status/2090866028284682592) | 2026-08-21 |
+
+</div>
+
+<div align="center">
+
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2090866028284682592)**
+
+</div>
+
+---
+
+### No. 16: Mid-Autumn Teacher Tribute Vertical Poster
 
 ![Category: Marketing Materials](https://img.shields.io/badge/Category-Marketing%20Materials-lightgrey)
 
@@ -697,7 +1102,7 @@ Creates a vertical Mid-Autumn greeting poster for teachers, with a realistic moo
 
 ---
 
-### No. 11: Neon Anime Woman Portrait
+### No. 17: Neon Anime Woman Portrait
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
@@ -744,34 +1149,24 @@ Negative Prompt: photorealistic, 3d render, deformed hands, distorted face, extr
 
 ---
 
-### No. 12: Nostalgic Polaroid Portrait Collage
+### No. 18: Editorial Fashion Portrait
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-Creates a photorealistic editorial collage of two Polaroids of the same young woman in candid portraits, with grainy 2000s film aesthetics.
+Creates an editorial fashion portrait of a young woman with a sleek black bob, geometric couture gown, and wildflower framing under studio lighting.
 
 #### 🌟 Prompt
 
-A photorealistic editorial-style two-photo Polaroid collage featuring the same young woman in two different …
-
-<details>
-<summary>Show full prompt</summary>
-
 ```
-A photorealistic editorial-style two-photo Polaroid collage featuring the same young woman in two different candid portraits. She has dark-brown hair styled in a loose, slightly messy updo with soft wispy strands framing her face, warm brown eyes, natural rosy cheeks, and glossy natural lips.
-Top photo: a close-up portrait facing the camera, gently resting both hands against her cheeks with a playful soft pout. She wears a delicate pink camisole with thin black and pink straps and a minimal silver necklace. Soft direct flash creates a clean, nostalgic snapshot look.
-Bottom photo: a relaxed portrait of her looking down and smiling naturally while gently touching her messy bun with one hand. She wears the same pink camisole, subtle necklace, and small earrings.
-Both photographs are printed as slightly imperfect cream-white Polaroid-style frames, arranged vertically with a small overlap on a textured off-white fabric background. Warm neutral backdrop, soft indoor lighting, subtle flash highlights, realistic skin texture, detailed hair strands, delicate facial features, authentic film grain, slight vintage color fade, nostalgic 2000s photo aesthetic, natural imperfections, high-detail photorealism, vertical 4:5 composition.
+An editorial fashion portrait of a young East Asian woman featuring a sleek, blunt black bob with straight bangs. She poses in profile against a slate-blue studio backdrop, wearing a high-collared gown defined by bold black-and-white geometric abstraction, vertical striping, and subtle color accents. Bright wildflowers frame the lower edges under balanced studio lighting.
 ```
-
-</details>
 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRV3wVKbYAACp1b.jpg" width="700" alt="Nostalgic Polaroid Portrait Collage">
+<img src="https://image.moge.ai/prompt_media/HRc0q3IaMAAYGhP.jpg" width="700" alt="Editorial Fashion Portrait">
 </div>
 
 <br>
@@ -780,75 +1175,83 @@ Both photographs are printed as slightly imperfect cream-white Polaroid-style fr
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Aqsa](https://x.com/Aqsahere_) | [X / Twitter](https://x.com/Aqsahere_/status/2095712883615338664) | 2026-09-04 |
+| [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | [X / Twitter](https://x.com/afrinxai/status/2096209479918317663) | 2026-09-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095712883615338664)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2096209479918317663)**
 
 </div>
 
 ---
 
-### No. 13: Orbit Mocha Shake Ad Poster
+### No. 19: Winter Sandwich Cookie Ad Poster
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a premium cafe poster with a takeaway cup on the left and a surreal coffee, cream, and cookie explosion on the right against a mint background.
+Creates a premium winter ad poster for a sandwich cookie brand, turning the giant cookie into a miniature icy world with tiny skaters gliding on the creme.
 
 #### 🌟 Prompt
 
-Create a Cannes-level flagship dessert-beverage advertising poster for an original premium cafe brand named …
+Create a Cannes-level flagship winter advertising poster for an original sandwich cookie brand named …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a Cannes-level flagship dessert-beverage advertising poster for an original premium cafe brand named CREMA BLOOM, featuring the hero product MOCHA CLOUD SHAKE. Build the image with strong Orbit visual logic and a more elevated global launch-key-visual attitude: on the left, a clean branded takeaway cup with a whipped cream top and a bold stacked title block; on the right, a surreal enlarged ingredient spectacle where coffee liquid, whipped cream, and soft sandwich-cookie shells explode and swirl together in midair. The final artwork must feel ultra-real, sculptural, reduced, and internationally premium, with the drink as the commercial anchor and the ingredient explosion as the appetite trigger.
+Create a Cannes-level flagship winter advertising poster for an original sandwich cookie brand named FROSTWICH, featuring the hero product Vanilla Snow Creme Cookie. Build the image with refined Orbit flow and clean Transit reduction, turning the cookie into a premium miniature winter world while keeping absolute product dominance.
 
 Core composition:
-Use a wide horizontal poster with a clean cool mint or aqua background and a subtle tabletop plane along the bottom. The layout should be visually divided into two zones: the left side contains the branded cup and the large headline, while the right side holds the monumental suspended ingredient explosion. Keep the composition balanced, spacious, and highly readable, with a premium billboard-style simplicity.
-
-Orbit visual logic:
-Design the poster as a closed premium visual loop. The eye should begin at the whipped top of the takeaway cup on the left, move upward and inward through the headline block, travel into the right-side central whipped cream spiral, follow the glossy coffee splash arcs around the ingredient burst, and then curve back toward the left through the lower visual weight of the composition, returning to the cup body and brand area. Every major curve and highlight must support this circulation. The composition should feel dynamic but controlled.
+Use a vertical poster set in a bright alpine winter environment with a crisp blue sky, distant snow-covered mountains, and a clean snowy foreground. Keep the background elegant and simplified, with strong atmospheric depth and minimal distractions. In the exact center, place one enormous ultra-realistic sandwich cookie resting in fresh snow as the absolute hero.
 
 Hero product logic:
-The true commercial hero is the premium takeaway coffee-dessert shake. Place one branded paper cup on the left standing upright on the tabletop, with a creamy whipped top or soft-serve-like peak emerging from the lid opening. The cup must feel physically real, premium, and globally marketable, with clean graphic branding, believable paper texture, subtle chill or condensation feel, and elegant color blocking. The cup must clearly anchor the entire campaign.
+The cookie is a dark cocoa sandwich biscuit with rich embossed detailing, precise ridges, and believable matte crumb texture. A thick layer of bright vanilla creme rises above the top biscuit and becomes a smooth snow-like skating surface. The creme must feel luxurious, cool, soft, and physically believable, with subtle circular skate traces that echo the round geometry of the cookie.
 
-Ingredient spectacle:
-On the right side, create a giant floating flavor composition where two large cocoa-brown sandwich-cookie or coffee-macaron-like shells appear separated, with whipped cream and glossy coffee splash erupting between them. The central splash must feel like rich mocha liquid colliding upward around a swirl of white cream, with droplets and arcs flying outward in a dynamic but controlled way. The spectacle should imply that the indulgent core of the drink lives inside this suspended flavor world.
+Orbit structure:
+Build a calm closed-loop visual flow around the cookie:
+headline -> skaters -> circular skate marks -> cookie edge and embossed details -> snow mounds -> milk glass -> back to the cookie top.
+Use the round form of the cookie, the motion path of the skaters, and the placement of the milk glass to create a gentle orbit that always returns the eye to the product. The loop should feel elegant, quiet, and premium rather than playful chaos.
 
-Flavor and material realism:
-Render the coffee splash with exceptional realism: translucent brown liquid, glossy reflections, believable viscosity, droplet variation, and smooth dynamic tension. The whipped cream must feel dense, airy, and premium, with sharp spiral ridges and soft highlights. The cookie shells should feel lightly textured, soft yet structured, with cocoa dusting and subtle baked surface detail. Every element must look edible, premium, and hyper-real.
+Miniature narrative:
+On the creme surface, place two tiny winter skaters in dynamic but controlled motion, one in muted warm red and one in icy blue. Their scale should reinforce the monumental size of the cookie. Keep their poses natural, joyful, and anatomically correct, with clean silhouette readability and refined motion.
 
-Typography and branding:
-Do not use any real brand names or copied source text. Use original English-only typography because this is an overseas-style beverage campaign. On the left side, next to or above the product cup, place a bold stacked title block:
-BEST
-INSIDE
-THE
-MOCHA
-Use expressive handcrafted or premium playful bold lettering in a deep cocoa tone. Keep it large, graphic, and highly legible. On the cup, use the brand name:
-CREMA BLOOM
-In the lower-right corner, place only a very small, understated, signature-like brand mark or monogram, reduced enough that it functions as a quiet identity cue rather than a visual element. No extra body copy.
+Transit reduction:
+Edit the supporting world to only the essential elements:
 
-Lighting:
-Use bright premium studio lighting with soft frontal illumination and controlled highlights that make the whipped cream glow and the coffee splash shine. The cup must feel clearly lit and readable, while the ingredient spectacle should have dimensional highlights and crisp edge separation. The mint background should stay smooth, fresh, and uncluttered.
+- the central hero cookie
+- two tiny skaters
+- a few restrained snow-covered pine trees
+- one clean partially cropped glass of milk at the lower right
+  Remove extra doodles, excess decorative accents, and unnecessary environmental clutter. If a cabin is used at all, keep it extremely distant and subtle, or omit it entirely. The scene must feel cleaner, calmer, and more international.
 
-Color direction:
-Use a tightly controlled premium palette of cool mint blue, coffee brown, cream white, soft beige, and subtle warm caramel highlights. The contrast between the fresh background and the rich mocha ingredients must create the poster's commercial energy.
+Typography system:
+At the upper center, place a concise original winter campaign headline in large soft white custom lettering:
+“CREAM
+IN SEASON”
+Below it, add one short supporting line in refined smaller type:
+“winter begins with the first twist”
+Keep typography airy, premium, and beautifully spaced. No excess copy.
+
+Branding:
+Place a small understated FROSTWICH logo at the upper left. On the milk glass, add a tiny ritual line in clean minimal type:
+“TWIST. SIP. SMILE.”
+Branding should feel polished, global, and secondary to the hero cookie.
+
+Lighting and color:
+Use bright cold winter sunlight with crisp highlights on the creme and snow, gentle sculpted shadows around the cookie ridges, and soft premium contrast. Keep the palette disciplined: alpine blue, snow white, cocoa black-brown, soft cream, and tiny muted color accents from the skaters.
+
+Visual style:
+Ultra-realistic commercial food photography fused with miniature storytelling, flagship FMCG campaign quality, highly detailed cookie embossing, believable creme texture, realistic snow crystal detail, clean glass reflections, elegant depth of field, and strong product hierarchy.
 
 Mood:
-playful, orbit-driven, indulgent, premium, fresh, sculptural, reduced, globally polished, commercially irresistible, globally award-worthy
-
-Rendering style:
-ultra-realistic flagship cafe beverage advertising poster, Orbit-driven mocha shake key visual, left-side takeaway cup hero, right-side coffee splash and cream ingredient explosion, cool mint background, bold stacked typography, understated signature logo, world-class commercial food-and-drink photography, 8k
+Quiet delight, winter magic, premium nostalgia, refined playfulness, globally branded seasonal indulgence.
 
 Negative prompt:
-real brand names, copied source text, cluttered layout, weak product focus, oversized logo, cheap splash effects, muddy coffee tones, low-detail cup, plastic-looking cream, chaotic composition, excessive text, low-resolution beverage rendering
+cheap holiday flyer, cluttered winter scene, cartoon cookie, low-detail creme, distorted skaters, awkward anatomy, too many props, unreadable logo, muddy snow, plastic-looking milk, messy typography, low-end festive design, oversaturated colors, weak product hierarchy
 ```
 
 </details>
@@ -856,7 +1259,7 @@ real brand names, copied source text, cluttered layout, weak product focus, over
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRSPpHeb0AANNSN.jpg" width="700" alt="Orbit Mocha Shake Ad Poster">
+<img src="https://image.moge.ai/prompt_media/HRcs6E3a8AAaYc6.jpg" width="700" alt="Winter Sandwich Cookie Ad Poster">
 </div>
 
 <br>
@@ -865,51 +1268,51 @@ real brand names, copied source text, cluttered layout, weak product focus, over
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2095457767058505935) | 2026-09-03 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2096193544428098025) | 2026-09-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095457767058505935)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2096193544428098025)**
 
 </div>
 
 ---
 
-### No. 14: Playful Pastel Diary Collage
+### No. 20: Photo + Doodle Editorial Poster
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Turns each photo into a 3:4 vertical poster with the real image on top and a paper-textured pastel doodle collage reinterpretation below.
+Turns each photo into a 3:4 poster with the real photo on top and a loose, minimalist doodle illustration below, with abundant white space and integrated handwritten typography.
 
 #### 🌟 Prompt
 
-Please turn each photo I upload into a separate high-end design poster; no multi-image collages, each photo …
+Turn each photo I upload into a separate, high-end design poster—no multi-image collage, each photo output …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Please turn each photo I upload into a separate high-end design poster; no multi-image collages, each photo output individually. Use an overall 3:4 vertical composition, with the upper and lower areas strictly 1:1 in height, each occupying 50% of the frame.
+Turn each photo I upload into a separate, high-end design poster—no multi-image collage, each photo output individually. Use an overall 3:4 vertical composition, with the top and bottom areas at strictly 1:1 height, each occupying 50% of the frame.
 
-The upper half retains the original photo, keeping the subject's identity, structure, pose, real texture, natural light and shadow, and original color atmosphere, applying only slight high-end color grading to give it the quality of an art magazine, independent publication, and exhibition image. To fit the format, the environmental background may be naturally extended, but the subject must not be stretched, distorted, or altered.
+The top half retains the original photo, preserving the subject's identity, structure, pose, real texture, natural light and shadow, and original color atmosphere, applying only slight high-end color grading to give it the quality of an art magazine and exhibition image. To fit the frame, the environmental background may be naturally extended, but the subject must not be stretched, distorted, or altered.
 
-The lower half first understands the most memorable core theme, subject relationships, structural trends, emotional atmosphere, and visual metaphor of the original photo, then reconstructs them into a retro paper-textured pastel hand-drawn doodle illustration. The whole still maintains the logic of material collage, but do not fully copy the photo, nor transcribe object by object; instead, remove irrelevant details and keep only the most representative structure, trends, and visual memory points, re-summarizing them through hand-drawn doodles, paper collage, pastel crayon texture, naive shapes, and diary-style reorganization, so that after understanding and recreation, the correspondence with the photo above can still be recognized at a glance.
+The bottom half makes a fresh artistic judgment, **extracting only the most recognizable subject, contour, structure, pose, and narrative relationships from the photo**, and reconstructing them as Hand-drawn Doodle Lifestyle Illustration / Naïve Illustration / Marker Drawing. Do not keep all objects, do not copy the original scene; actively remove the vast majority of the background and irrelevant information, and re-direct the composition through reduction, rearrangement, cropping, and scale change, so that even an ordinary composition becomes a work that stands on its own.
 
-The modeling uses a mixed-media logic of hand-drawn doodle + paper collage + pastel crayon texture. Lines are deliberately irregular, preserving a sense of sketch, hand-drawing, slight clumsiness, and looseness; color blocks have dry granular edges, like marks gently applied with crayon, chalk, or colored pencil. The subject and a few auxiliary elements can be recombined like stickers, paper scraps, or casually drawn symbols, but always around the subject's narrative, without meaningless piling up.
+Forms are simplified, symbolic, relaxed, and characterful, using slightly shaky, intermittent, not fully regular hand-drawn lines, as well as natural coloring like marker, crayon, and oil pastel. Allow slight overshoots, exposed white, and handmade errors; do not pursue realistic proportions, complete perspective, or fine rendering.
 
-The composition maintains the relationship of small-scale seals and large areas of white space, freely arranging positions according to the subject's own direction, proportion, and visual center of gravity, which may be off-center, edge-aligned, suspended, or partially cropped. The subject and a few auxiliary elements form a clear visual landing point, with the rest of the space actively left empty. The white space must be a conscious compositional language, not an empty background: together with the subject, collage elements, text, and local symbols, it forms positive and negative shapes, density, dispersion, and asymmetrical balance, creating a clear sense of breathing, space, and pause. Prefer to reduce rather than fill.
+The bottom half must have **a huge amount of deliberate white space** at its core, with solid shapes occupying only a small proportion and the rest of the space actively left empty. The subject may be off-center, edge-hugging, suspended, or partially cropped, with position determined by the direction of the pose and the visual center of gravity. White space and subject together form positive-negative shapes, distance, pause, and breathing room; rather draw less than fill the frame.
 
-The material is based on a paper texture like kraft paper, recycled paper, or handmade paper, preserving a real material feel and slight granularity, reducing the digital feel. The whole looks like an independently published diary, visual journal, or scrapbook editorial illustration, not an ordinary children's illustration or simple transcription.
+**The graphics and text must be re-laid out as one whole, not "a phrase on top, a figure below."** First establish an invisible grid, visual axes, and reading path, then decide text position; the text may sit close to the subject's contour, follow the direction of movement, align with the head or shoulder line, fall into large negative space, or form offset, interweaving, and asymmetrical resonance with the graphics. Avoid mechanical centering, vertical stacking, and fixed templates; let the graphics carry emotion and the text carry rhythm, both completing the composition together.
 
-The color scheme extracts the 2–4 most lively, approachable colors that best represent the spirit of the photo above, remixing them into a softer, brighter, more healing pastel color group. It can naturally form light color relationships such as peach pink, light blue, cream yellow, orange-apricot, and tender green, moderately brightening, purifying, and de-graying, while keeping warm, intimate, retro, and life-like feel. Avoid dull, dirty, gloomy retro, fluorescent colors, and cheap candy feel.
+The text is not limited to any language, keeping only a very small amount of truly meaningful words or short phrases. Use a **light, natural handwritten font with slight variations in character width and pen pressure**, retaining a bit of a casual handwritten feel, but with letter spacing, line spacing, and overall placement controlled by editorial design. A slightly more prominent short phrase may be paired with tiny auxiliary text to form hierarchy, but no menu-style titles, long copy, or full-page text.
 
-The text has only minimal editorial intervention, with no language restriction. A few words or short phrases can be freely extracted from the subject, location, action, emotion, life details, or metaphor, using a small, restrained, slightly mechanical and slightly misaligned retro typewriter-style font, forming a diary-style image-text collage relationship with the illustration, quietly landing in the white space area or the edge of the subject, without commercial title piling. 
+The color scheme uses a soft, bright, healing limited palette, extracting the most vital colors from the original image and re-mixing them, forming cream yellow, peach pink, coral red, sky blue, lake teal, tender green, lavender purple, and other fresh colors; vivid but not glaring, soft but not muddy, with warm white or very light neutral tones as large areas of breathing space.
 
-The whole presents a high-end visual effect composed of hand-drawn doodles, material collage, pastel crayon, paper texture, small-scale seals, large areas of conscious white space, and retro image-text mixing. Avoid object-by-object transcription, filled frames, complex backgrounds, realistic depiction, smooth vectors, 3D feel, cheap cartoon feel, and templated collage.
+The whole pursues **naïve drawing, mature composition, smart image-text relationships, and a huge amount of white space**, like a high-end independent magazine, lifestyle editorial illustration, or art publication, not a children's scrapbook. Avoid the fixed structure of centered subject + centered copy, random small icons scattered all around, complex backgrounds, information pileup, a filled frame, cheap cartoon feel, and template-style layout.
 ```
 
 </details>
@@ -917,7 +1320,7 @@ The whole presents a high-end visual effect composed of hand-drawn doodles, mate
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRY395FaEAAXc-R.jpg" width="700" alt="Playful Pastel Diary Collage">
+<img src="https://image.moge.ai/prompt_media/HReKyLLasAAUWk3.jpg" width="700" alt="Photo + Doodle Editorial Poster">
 </div>
 
 <br>
@@ -926,36 +1329,62 @@ The whole presents a high-end visual effect composed of hand-drawn doodles, mate
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [小小东](https://x.com/xiaoxiaodong01) | [X / Twitter](https://x.com/xiaoxiaodong01/status/2095924235374092730) | 2026-09-04 |
+| [小小东](https://x.com/xiaoxiaodong01) | [X / Twitter](https://x.com/xiaoxiaodong01/status/2096298280619745661) | 2026-09-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095924235374092730)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2096298280619745661)**
 
 </div>
 
 ---
 
-### No. 15: Burger Brand From a Graphic
+### No. 21: Seasonal Botanical Packaging Poster
 
 ![Category: Branding & Interface](https://img.shields.io/badge/Category-Branding%20%26%20Interface-lightgrey)
 
 #### 📚 Description
 
-Builds a complete burger brand identity based on a provided reference graphic.
+Creates a modern botanical packaging poster with hand-drawn black plant contours, flat pastel color blocks, and clean editorial typography.
 
 #### 🌟 Prompt
 
+Theme: [season / concept] Product: [tea / botanical product] Main botanical: [plant / flower / leaf] …
+
+<details>
+<summary>Show full prompt</summary>
+
 ```
-Create a burger brand based on this graphic.
+Theme: [season / concept]
+Product: [tea / botanical product]
+Main botanical: [plant / flower / leaf]
+Secondary botanical: [optional]
+Title: [main title]
+Subtitle: [short meaningful information]
+Palette: [2–3 pastel colors]
+Aspect ratio: [9:16]
+
+Create a modern botanical packaging poster with a clean white or warm off-white background, inspired by vintage botanical illustration and contemporary editorial design.
+
+Use bold, hand-drawn black botanical contour lines with simple internal details and a slightly imperfect printed-illustration feel. Let the plants occupy around 55–70% of the composition, enlarged and naturally cropped by the edges rather than floating neatly in the center.
+
+Keep most of the botanical artwork as black line art, with only selected leaves, petals, or fruits filled with flat pastel colors. Add 2–4 simple circles, ovals, or organic color blocks behind the plants using [Palette]. Colors should be soft, fresh, flat, and opaque — no gradients or watercolor effects.
+
+Place a compact typography system in the upper-left area: small series or brand text, a clear serif main title, and only a few short lines of meaningful product information. Avoid filler text. Typography should support the illustration rather than dominate it.
+
+Use asymmetrical composition, varied plant scale, overlapping branches, generous but not excessive negative space, and a playful balance between large flat color areas and detailed black linework.
+
+Overall aesthetic: botanical packaging, editorial illustration, retro-modern print design, fresh pastel palette, graphic simplicity, collectible art-card quality.
 ```
+
+</details>
 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HQQ_igOXQAAOoNa.jpg" width="700" alt="Burger Brand From a Graphic">
+<img src="https://image.moge.ai/prompt_media/HQPJjj4aMAANkwZ.jpg" width="700" alt="Seasonal Botanical Packaging Poster">
 </div>
 
 <br>
@@ -964,19 +1393,19 @@ Create a burger brand based on this graphic.
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Gizem Akdag](https://x.com/gizakdag) | [X / Twitter](https://x.com/gizakdag/status/2090866028284682592) | 2026-08-21 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2090742650697834873) | 2026-08-21 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2090866028284682592)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2090742650697834873)**
 
 </div>
 
 ---
 
-### No. 16: Curved-Composition Editorial Poster
+### No. 22: Curved-Composition Editorial Poster
 
 ![Category: Marketing Materials](https://img.shields.io/badge/Category-Marketing%20Materials-lightgrey)
 
@@ -1058,7 +1487,7 @@ Overall requirements: clear curve, eye-catching visuals, rich but not cluttered 
 
 ---
 
-### No. 17: Floral Shadow on White Wall
+### No. 23: Floral Shadow on White Wall
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
@@ -1112,23 +1541,73 @@ Additional requirements: overall translucent, bright, girlish but not childish, 
 
 ---
 
-### No. 18: Handcrafted Miniature Food Scene
+### No. 24: Airport Fashion-Travel Cover
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-Creates a cozy editorial photo of a handcrafted miniature dish in a stop-motion aesthetic with soft natural light and charming clay and paper details.
+Creates a cinematic fashion-travel magazine cover featuring a stylish woman seated on an airport luggage trolley, with bold typography and editorial travel graphics.
 
 #### 🌟 Prompt
 
-Create a charming handcrafted miniature food scene featuring [FOOD / DISH] as the main focal point. Arrange …
+Create a premium cinematic fashion-travel magazine cover in a vertical 4:5 composition. A stylish young woman …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a charming handcrafted miniature food scene featuring [FOOD / DISH] as the main focal point. Arrange the food beautifully on a simple ceramic plate with tiny complementary ingredients naturally placed around it. Add a small drink, miniature wooden spoon and fork, a linen napkin, scattered ingredients, tiny flowers or leaves, and a few playful handmade decorative details. Include a small handwritten paper note with a short phrase related to the food, creating a cozy visual story. Use soft natural daylight, a clean warm-white textured background, gentle shadows, delicate pastel and earthy tones, tactile clay and paper textures, tiny handmade imperfections, minimal Scandinavian-inspired composition, whimsical stop-motion aesthetic, cozy editorial food photography, highly detailed, elegant negative space, 4:5 vertical.
+Create a premium cinematic fashion-travel magazine cover in a vertical 4:5 composition.
+
+A stylish young woman is seated confidently on a chrome airport luggage trolley inside a modern international airport terminal. She is leaning slightly back, with her right arm raised and holding the trolley handle, while her other hand rests naturally near her lap. She has long dark hair, a natural confident expression, realistic facial features and proportions.
+
+Outfit: fitted charcoal-gray sleeveless crop top, extremely wide-leg light-wash baggy jeans, and black-and-white classic canvas sneakers. Add a minimal dark necklace and subtle natural styling.
+
+The airport environment should feel cinematic and photorealistic: huge glass architecture, soft diffused daylight, realistic luggage, chrome trolley details, glossy reflective floor, subtle background blur, natural shadows and reflections.
+
+Design it as a sophisticated luxury travel editorial poster. Use a deep forest-green background with oversized bold off-white typography behind the woman.
+
+Main headline:
+“ERASING
+TEMPLATES”
+
+The typography must be huge, condensed, bold, clean and partially hidden behind the subject.
+
+Add premium editorial travel graphics and small details:
+“ETERNAL COLLECTION”
+“ISSUE NO.2025”
+“SEASON COLLECTION”
+“MADE TO TRAVEL”
+“FIRST CLASS”
+“ERASING TEMPLATES”
+“MADE TO TRAVEL”
+“37.7749° N, 122.4194° W”
+“PRIORITY LUGGAGE”
+“HANDLE WITH PURPOSE”
+“MADE FOR MOVEMENT.”
+“BUILT TO LAST.”
+“SEOUL”
+“DEPARTED”
+“INCHEON AIRPORT”
+“REPUBLIC OF KOREA”
+
+Include barcode graphics, boarding-pass elements, airplane icon, globe symbol, arrows, luggage tag, circular travel emblem and subtle technical/editorial markings around the composition.
+
+Color palette: deep forest green, warm ivory, muted gray, silver chrome and natural skin tones. High-end fashion campaign aesthetic, subtle film grain, realistic skin texture, cinematic lighting, premium commercial photography, sharp details, realistic fabric texture, authentic reflections, sophisticated modern typography, balanced composition.
+
+IMPORTANT: Keep the subject photorealistic and anatomically accurate. The typography and graphic elements should look professionally designed around the photograph, like an authentic luxury fashion magazine cover.
+
+Create a high-end cinematic fashion editorial poster set inside a modern airport terminal.
+
+A stylish young woman is seated confidently on a chrome airport luggage trolley, with one arm raised and holding the trolley handle. She wears an elegant ivory/cream lace long-sleeve blouse, wide-leg cream trousers, and chunky white sneakers. Natural confident expression, realistic skin texture, refined fashion-editorial appearance.
+
+Background: spacious modern airport terminal with glass architecture, soft cinematic daylight, subtle depth of field, glossy reflective floor, realistic shadows and reflections. Dark muted green and warm cream color palette, premium luxury travel magazine aesthetic.
+
+Typography and graphic design: oversized bold cream-colored headline text reading “ETHEREAL FEMININE” across the upper half, partially positioned behind the subject. Add sophisticated travel-editorial details including “ETERNAL COLLECTION”, “FIRST CLASS”, boarding-pass graphics, barcode elements, globe and airplane icons, coordinates, “SEOUL”, “DEPARTED”, “INCHEON AIRPORT”, “PRIORITY LUGGAGE”, luggage tag graphics, arrows, and small editorial text.
+
+Composition: vertical luxury magazine cover, balanced Swiss/editorial graphic layout, bold typography, sophisticated negative space, realistic photography blended with premium graphic design, subtle film grain, soft contrast, photorealistic, ultra-detailed, professional fashion campaign, 4K.
+
+Keep the woman anatomically realistic, with natural proportions and realistic hands, face, hair, clothing folds, lighting and shadows. The final image should look like an authentic luxury fashion-travel magazine cover.
 ```
 
 </details>
@@ -1136,7 +1615,7 @@ Create a charming handcrafted miniature food scene featuring [FOOD / DISH] as th
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRVu9G2bkAAu7GO.jpg" width="700" alt="Handcrafted Miniature Food Scene">
+<img src="https://image.moge.ai/prompt_media/HRcTYf1aQAAfkEo.jpg" width="700" alt="Airport Fashion-Travel Cover">
 </div>
 
 <br>
@@ -1145,75 +1624,98 @@ Create a charming handcrafted miniature food scene featuring [FOOD / DISH] as th
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [simeon-sanai](https://x.com/Naiknelofar788) | [X / Twitter](https://x.com/Naiknelofar788/status/2095703211374219472) | 2026-09-04 |
+| [Zara Quinn](https://x.com/Zara__Ai) | [X / Twitter](https://x.com/Zara__Ai/status/2096165481157984611) | 2026-09-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095703211374219472)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2096165481157984611)**
 
 </div>
 
 ---
 
-### No. 19: Desert Vortex Beer Ad Poster
+### No. 25: CRAVELOOP Crisp Roller-Coaster Poster
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a premium beer ad poster where a giant amber lager glass rises from the desert and transforms into a sand vortex, with minimalist international launch-key-visual typography.
+Creates a premium snack ad poster where stacked crisps form a looping roller-coaster, anchored by a product can and a minimalist ingredient platform.
 
 #### 🌟 Prompt
 
-Create a Cannes-level flagship beer advertising poster for an original premium draft lager brand named …
+Create a Cannes-level flagship advertising poster for an original stacked crisp brand named CRAVELOOP, …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a Cannes-level flagship beer advertising poster for an original premium draft lager brand named SOLSTICE CROWN, featuring the hero product SOLSTICE CROWN Desert Draft. Build the image with strong Orbit visual logic and a highly reduced international launch-key-visual approach: a towering pint glass made of glowing amber lager rises from the desert floor like a twisting sand-and-beer vortex, with a dense creamy foam crown at the top, while the lower body transforms into a roaring dust column and swirling sand plume. The final artwork must feel iconic, premium, monumental, and globally publishable, with only one short professional main title and one short subtitle.
+Create a Cannes-level flagship advertising poster for an original stacked crisp brand named CRAVELOOP, featuring the hero product Smoky Paprika Stacked Crisps. Build the image with strong Orbit circulation and refined Transit reduction, creating a bold, globally polished premium snack campaign.
 
 Core composition:
-Use a tall vertical poster with a vast clean sky occupying the upper half of the frame and a warm desert ground occupying the lower half. Place the beer glass exactly in the center, upright, colossal, and dominant, rising from the sand like a sacred vertical force. The silhouette must remain unmistakably readable as a premium draft beer glass, even though the lower portion dissolves into a tornado-like sand vortex. The composition should feel minimal, iconic, and globally premium, with strong negative space and a single central hero.
+Use a vertical poster set against a deep moody forest-green background with subtle texture, soft atmospheric depth, and cinematic spotlighting. Keep the layout clean and powerful with three essential zones:
 
-Orbit visual logic:
-Design the image as a premium closed visual loop. The viewer first lands on the thick foam crown, then travels down the luminous amber spiral inside the glass, continues into the twisting sand-and-dust column at the base, follows the curved motion in the desert plume, and is guided back upward along the bright inner glass wall toward the foam and central product silhouette. Every highlight, liquid contour, and dust flow must reinforce this circulation. The product remains the center of gravity at all times.
+1. a giant looping crisp roller-coaster at center
+2. one large upright CRAVELOOP can on the right as the official product anchor
+3. one tightly edited ingredient platform at the lower left
+   The overall image must feel dramatic, craveable, and highly controlled.
 
-Hero product logic:
-The hero product is the beer itself presented as a giant premium draft glass. Design a refined tall lager glass with elegant tapering curvature, transparent premium glass walls, glowing amber-gold beer inside, visible liquid rotation, crisp refraction, and a dense velvety foam crown. The beer must feel cold, radiant, and premium, with realistic carbonation, internal luminosity, and layered golden translucency. The foam head should look thick, creamy, tactile, and freshly poured.
+Orbit structure:
+Design the composition so the eye moves in a clear closed loop:
+headline -> crisp roller-coaster -> product can -> lower-left ingredient platform -> back upward into the roller-coaster.
+Use the rising curve of the crisps, the opened can lid, the scattered crisp direction, and the angle of the lower-left ingredient labels to reinforce this circulation. The roller-coaster must feel like the emotional engine of the poster, while the can remains the clearest commercial hero.
 
-Transformation logic:
-The upper half of the object must read as a clean, highly realistic beer glass, while the lower half transitions seamlessly into a powerful vertical sandstorm column. The transition must feel physically convincing and visually intelligent, as if the beer glass has been forged from desert force itself. Use rotating amber liquid ribbons inside the glass body, and below that convert the structure into a twisting dust funnel made of sand, mist, foam residue, and golden particles. This is the core surreal idea and must feel original, premium, and commercially sharp.
+Hero visual logic:
+At the center, build an elegant roller-coaster track entirely from perfectly aligned stacked crisps, including one strong rising arc and one full loop. The crisps must feel ultra-realistic, evenly layered, delicately seasoned, golden, crisp-edged, and physically believable. A tiny red coaster cart rides on the track as a subtle storytelling accent, but it should remain secondary and not turn the poster into a toy scene.
 
-Environment:
-Use an open desert landscape with subtle dune texture, faint wind trails, and a distant pale horizon. Keep the environment minimal and uncluttered so the giant glass remains dominant. If any drifting fragments are included, keep them extremely sparse and elegant. No people, no vehicles, no unrelated props.
+Product hero:
+On the right, place one oversized CRAVELOOP can standing upright with the lid partially opened, revealing a neat stack of crisps inside. The packaging should feel premium, real, shelf-ready, and globally publishable, using a disciplined red-orange, cream, and golden palette. The can must be sharply lit, highly legible, and visually stable enough to counterbalance the motion of the roller-coaster.
 
-Lighting:
-Use strong late-afternoon golden sunlight from the right side, creating radiant amber glow through the beer glass and warm rim light on the foam crown. The sky should be a soft gradient from pale warm blue to sunlit haze. The lighting must reveal the transparency of the lager, the density of the foam, and the depth of the dust plume. The product should feel luminous, refreshing, and expensive.
+Packaging text:
+Use original on-pack wording such as:
+CRAVELOOP
+SMOKY PAPRIKA
+STACKED CRISPS
+Refined supporting lines:
+“REAL POTATO CUT”
+“BOLD SPICE FINISH”
+Keep the front-of-pack hierarchy clean and premium, with no cluttered claims.
 
-Typography and branding:
-Do not use any real brand names or copied source text. Use original English-only typography because this is an overseas-style beer campaign. Keep typography extremely minimal and premium. At the top center, place the elegant brand wordmark:
-SOLSTICE CROWN
-Use only one short subtitle, placed smaller beneath it:
-DESERT DRAFT
-No extra body copy, no extra slogan lines, no annotations. Typography must feel refined, global, and flagship-grade.
+Typography system:
+At the upper left, place one concise original campaign headline in expressive oversized type:
+“CRUNCH
+IN MOTION”
+Use a refined combination of warm golden emphasis and clean white supporting text, with strong hierarchy and premium spacing. Keep it shorter and cleaner than a retail ad headline so the poster feels more international and flagship.
 
-Material realism:
-Push extreme realism in the glass surface, amber liquid refraction, foam micro-bubbles, condensation traces, sand particle density, vortex motion, and desert dust behavior. The beer must look drinkable and physically real; the storm must look dangerous yet beautiful. The integration between beverage realism and natural force must feel masterfully engineered.
+Transit reduction:
+Edit the lower-left ingredient area down to only the most essential flavor cues:
+
+- raw potatoes
+- paprika seasoning
+- a small supporting accent such as chili rings
+  Use only 2-3 tiny art-directed ingredient labels in elegant micro typography. Remove excess props, extra bowls, and unnecessary callouts. The ingredient platform should support the story without competing with the main product and roller-coaster.
+
+Lower strip:
+If a footer is used, keep it extremely restrained. Replace any loud promotional banner with one short premium line in small typography:
+“Stacked for the long crave.”
+No sales language, no retail clutter, no aggressive CTA button feel.
+
+Lighting and atmosphere:
+Use premium commercial lighting with warm highlights on the crisps, sculpted reflections on the can, subtle seasoning sparkle, controlled shadows on the lower platform, and enough depth separation to make the loop, can, and ingredient base feel dimensional. The scene should feel cinematic but clean.
 
 Color direction:
-Use a premium palette of glowing amber gold, honey lager, creamy white foam, sunlit sand beige, warm copper-brown dust, and pale atmospheric blue. Keep the image clean, warm, monumental, and unmistakably premium.
+Deep forest green, near-black shadow tones, golden crisp yellow, paprika red-orange, restrained cream typography, and warm brown ingredient accents. Keep the palette rich and disciplined. The red-orange can should act as the key brand beacon.
+
+Visual style:
+Ultra-realistic commercial food photography, flagship FMCG campaign quality, believable crisp texture, elegant seasoning detail, premium packaging realism, clean art direction, strong hierarchy, and no clutter. The final image must feel like a global snack-brand launch visual, not a supermarket flyer.
 
 Mood:
-monumental, radiant, elemental, orbit-driven, premium, surreal, iconic, desert-forged, cinematic, refreshing, globally award-worthy
-
-Rendering style:
-ultra-realistic flagship beer advertising poster, Orbit-driven giant central draft beer glass, amber liquid vortex, sandstorm transformation, minimalist desert environment, reduced international key visual typography, cinematic sunlight, world-class beverage realism, 8k, master-level advertising image quality
+Bold, immersive, craveable, graphic, premium, internationally branded, high-impact, cleanly theatrical.
 
 Negative prompt:
-real brand names, copied slogan, long headline copy, cluttered desert scene, people, vehicles, random props, weak product silhouette, cartoon foam, muddy beer color, cheap sand effects, low-detail glass, messy typography, overdesigned layout, low-resolution liquid, chaotic composition
+cheap supermarket flyer, cluttered ingredient platform, too many props, low-detail crisps, warped roller-coaster, unreadable can design, excessive claim text, cartoon snack styling, muddy background, weak lighting, flat composition, plastic-looking chips, noisy footer banner, low-end promo aesthetic
 ```
 
 </details>
@@ -1221,7 +1723,7 @@ real brand names, copied slogan, long headline copy, cluttered desert scene, peo
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRRxmVAbEAAjNMQ.jpg" width="700" alt="Desert Vortex Beer Ad Poster">
+<img src="https://image.moge.ai/prompt_media/HRciQyLbUAAGC3O.jpg" width="700" alt="CRAVELOOP Crisp Roller-Coaster Poster">
 </div>
 
 <br>
@@ -1230,69 +1732,53 @@ real brand names, copied slogan, long headline copy, cluttered desert scene, peo
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2095424645956800687) | 2026-09-03 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2096181870845403269) | 2026-09-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095424645956800687)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2096181870845403269)**
 
 </div>
 
 ---
 
-### No. 20: Vertical Sliced Typography Poster
+### No. 26: Architectural Concept Sketch Duo Poster
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Creates a premium editorial poster with a giant word embedding one continuous photograph, its lower strokes extended into vertical slices.
+Turns each photo into a half-and-half 3:4 poster: the original image on top and an architectural perspective sketch below, with generous white space and editorial typography.
 
 #### 🌟 Prompt
 
-【MAIN WORD】: {4–8 letter uppercase keyword} 【PROJECT TYPE】: {campaign / product launch / exhibition / …
+Turn each photo I upload into a separate high-end design poster—no multi-image collage; output each photo …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-【MAIN WORD】: {4–8 letter uppercase keyword}
-【PROJECT TYPE】: {campaign / product launch / exhibition / editorial poster}
-【BRAND / PROJECT】: {name}
-【PHOTO SUBJECT】: {one complete photographic scene}
-【BACKGROUND COLOR】: {color}
-【IMAGE PALETTE】: {main colors}
-【TYPE STYLE】: {condensed grotesk / slab serif / Didone serif}
-【TOP LEFT】: {date / time / location}
-【TOP RIGHT】: {short statement}
-【BOTTOM LEFT】: {supporting details}
-【BOTTOM RIGHT】: {brand / project name}
-【FORMAT】: 9:16 vertical
+Turn each photo I upload into a separate high-end design poster—no multi-image collage; output each photo individually. Use an overall 3:4 vertical composition, with the top and bottom areas strictly 1:1 in height, each occupying 50% of the frame.
 
-Create a high-end editorial poster built around **vertical sliced typography**.
+The top half keeps the original photo, preserving the subject's identity, structure, pose, real texture, natural light and shadow, and original color atmosphere, applying only a slight high-end color grade to give it the quality of an art magazine and exhibition image. To fit the format, the environmental background may be naturally extended, but the subject must not be stretched, distorted, or altered.
 
-Place 【MAIN WORD】 at the center as the dominant visual, occupying about 75–85% of the poster width. Keep the word bold, clear and readable at thumbnail size.
+The bottom half extracts only the most recognizable subject, outline, structure, pose, and narrative relationships from the photo, reconstructing them into an architectural concept perspective sketch / architectural scheme hand-drawing. Do not preserve the entire scene, do not copy the photo object by object; actively remove most of the background, staffage, and irrelevant details, leaving only the core forms, spatial relationships, and visual memory points that best represent the original theme.
 
-Embed **one single continuous photograph** of 【PHOTO SUBJECT】 inside the entire word. Every letter should reveal a different part of the same image, with horizons, objects, people, light, branches, roads or material edges connecting naturally across the letters.
+The bottom half makes a fresh artistic judgment. Even if the original has poor composition, a messy background, or a small subject, rescue it into a valid work through reduction, reorganization, cropping, scale change, and white space, truly giving the model the power to re-direct the image.
 
-Keep roughly the upper 40–45% of the letterforms intact. Extend selected lower strokes downward into 5–7 vertical slices with varied short, medium and long lengths. The slices must grow naturally from the original letters, not become unrelated rectangles or barcode-like strips.
+The style uses free freehand perspective line work + a few selective color blocks. The lines are loose, restrained, with a slight sense of repetition and pause; a few auxiliary lines, extension lines, construction lines, and geometric reference lines of architectural hand-drawing may be kept, forming a clear sense of design deliberation. Color is lightly applied only at a few key spots, to emphasize the subject, structural layers, local shadows, or spatial focal points; the rest is left as unpainted as possible.
 
-Continue the same photograph through every extended slice. Place the strongest visual focus around the central letters and use one clear continuous feature to connect the composition.
+The image must have a large amount of conscious white space as its core. The subject should be smaller and more refined, with the rest of the space left largely empty. White space is not an empty background but part of the composition, forming a sense of breathing, space, and rhythm together with the subject, line work, reference lines, shadows, and few color blocks. The subject may be off-center, edge-hugging, partially cropped, or reduced in scale; better to draw less than to fill it up.
 
-Add a subtle soft shadow behind the typography, slightly offset toward the lower right, creating a restrained floating-paper effect.
+A few geometric shadow color blocks may be added to strengthen volume, depth, and spatial layers, but avoid heavy rendering, complex environments, and a realistic rendering feel. Keep the background extremely minimal, retaining only a tiny necessary hint of the site.
 
-Use a clean 【BACKGROUND COLOR】 background with generous negative space. Keep most visual complexity inside the typography and use 【IMAGE PALETTE】 for the embedded photography.
+The palette extracts 2–4 of the most recognizable and vivid colors from the photo above, reorganized into a cleaner, more restrained, and easy-on-the-eye sketch color system. The whole may be moderately brightened, purified, and de-grayed, dominated by cream white, light gray, warm gray, soft green, light wood tone, light blue-gray, etc., locally keeping a few more vivid but not glaring accent colors. Avoid dirty gray, dinginess, excessive retro, and a cheap high-saturation feel.
 
-Arrange meaningful supporting information around the main visual:
+Text appears only as a minimal editorial intervention, with no language restriction. A few words, short phrases, or notes may be generated based on the subject, location, action, or emotion, quietly placed in the white space area, forming a restrained image-text relationship.
 
-Top left: 【TOP LEFT】
-Top right: 【TOP RIGHT】
-Bottom left: 【BOTTOM LEFT】
-Bottom right: 【BOTTOM RIGHT】
-
-Use clean modern typography for secondary information. The final image should feel like a finished campaign, exhibition, product-launch or editorial poster, not a template demonstration.
+The whole presents a high-end visual effect composed of architectural concept hand-drawing, free line work, geometric reference lines, a few color blocks, geometric shadows, an enormous amount of white space, and editorial layout. Avoid full-scene preservation, object-by-object copying, complex backgrounds, full-frame coloring, realistic rendering, thick outlines, a cartoon feel, a 3D feel, and templated representation.
 ```
 
 </details>
@@ -1300,7 +1786,7 @@ Use clean modern typography for secondary information. The final image should fe
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRYIL0pa8AAvJsy.jpg" width="700" alt="Vertical Sliced Typography Poster">
+<img src="https://image.moge.ai/prompt_media/HReDxvSaUAAv7IE.jpg" width="700" alt="Architectural Concept Sketch Duo Poster">
 </div>
 
 <br>
@@ -1309,54 +1795,45 @@ Use clean modern typography for secondary information. The final image should fe
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2095872766188654917) | 2026-09-04 |
+| [小小东](https://x.com/xiaoxiaodong01) | [X / Twitter](https://x.com/xiaoxiaodong01/status/2096290195792642498) | 2026-09-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095872766188654917)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2096290195792642498)**
 
 </div>
 
 ---
 
-### No. 21: Seasonal Botanical Packaging Poster
+### No. 27: Photo-to-Logo Minimalist Poster
 
 ![Category: Branding & Interface](https://img.shields.io/badge/Category-Branding%20%26%20Interface-lightgrey)
 
 #### 📚 Description
 
-Creates a modern botanical packaging poster with hand-drawn black plant contours, flat pastel color blocks, and clean editorial typography.
+Turns any photo into a 3:4 vertical poster with the original image on top and a custom, geometric, minimalist logo below.
 
 #### 🌟 Prompt
 
-Theme: [season / concept] Product: [tea / botanical product] Main botanical: [plant / flower / leaf] …
+Turn each photo I upload into a separate high-end design poster—no multi-image collages; each photo is output …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Theme: [season / concept]
-Product: [tea / botanical product]
-Main botanical: [plant / flower / leaf]
-Secondary botanical: [optional]
-Title: [main title]
-Subtitle: [short meaningful information]
-Palette: [2–3 pastel colors]
-Aspect ratio: [9:16]
+Turn each photo I upload into a separate high-end design poster—no multi-image collages; each photo is output individually. Use an overall 3:4 vertical composition, with the top and bottom areas strictly at a 1:1 height ratio, each occupying 50% of the frame.
 
-Create a modern botanical packaging poster with a clean white or warm off-white background, inspired by vintage botanical illustration and contemporary editorial design.
+The top half keeps the original photo, preserving the subject's structure, real texture, natural light and shadow, and original color atmosphere, applying only a slight high-end photographic color grade to give it the quality of an art magazine, independent publication, and exhibition photography. To fit the frame, you may naturally extend the sky, ground, or environmental background, but you must not stretch, distort, or alter the subject.
 
-Use bold, hand-drawn black botanical contour lines with simple internal details and a slightly imperfect printed-illustration feel. Let the plants occupy around 55–70% of the composition, enlarged and naturally cropped by the edges rather than floating neatly in the center.
+The bottom half extracts the most recognizable **subject, silhouette, posture, and narrative relationship** from the photo and reconstructs them into a **simple, professional, brand-recognizable custom wordmark / logo graphic**. Do not place the subject graphic separately next to the text; instead, cleverly integrate its most essential silhouette, structure, or feature into the letters themselves or the overall mark structure, so that graphic and text become a unified, complete, recognizable visual symbol. Whether the subject is a person, animal, plant, building, object, vehicle, or natural landscape, extract its core visual feature and transform it into a simple, geometric, graphic logo language, maintaining an at-a-glance recognizable identity with minimal information.
 
-Keep most of the botanical artwork as black line art, with only selected leaves, petals, or fruits filled with flat pastel colors. Add 2–4 simple circles, ovals, or organic color blocks behind the plants using [Palette]. Colors should be soft, fresh, flat, and opaque — no gradients or watercolor effects.
+The text is distilled from the photo's subject name, thematic attribute, location clue, action state, or symbolic meaning into a short English main text; if the original image has a clear proper name, it can be directly converted into the main mark name; if there is no clear name, distill a highly summarized, easily recognizable English word or phrase suitable as a brand wordmark. It may be accompanied by a minimal amount of small auxiliary text, such as category, region, state word, or a short slogan, but it must be highly restrained, serving only as a supplement to the identification hierarchy. Text and graphic must together form the mark, not the conventional "icon + title" collage.
 
-Place a compact typography system in the upper-left area: small series or brand text, a clear serif main title, and only a few short lines of meaningful product information. Avoid filler text. Typography should support the illustration rather than dominate it.
+The overall style stays **minimal, modern, geometric, striking, elegant, with ample white space and balanced composition**. The background uses a light solid color or extremely pale neutral tone, staying clean and simple; the mark is presented in black and white or with minimal color, and the color can be extracted from the photo above, choosing the one with the most spirit for a slight translation, but restraint, professionalism, and branding remain the priority overall. The mark maintains a comfortable medium visual size in the bottom half, neither too large nor too small, with the finish of a mature brand identity, a cultural visual system, or a high-end design studio's work.
 
-Use asymmetrical composition, varied plant scale, overlapping branches, generous but not excessive negative space, and a playful balance between large flat color areas and detailed black linework.
-
-Overall aesthetic: botanical packaging, editorial illustration, retro-modern print design, fresh pastel palette, graphic simplicity, collectible art-card quality.
+Overall it emphasizes **the integration of graphic and text, subject recognizability, geometric order, refined letter spacing, professional layout, and high-end white space**, presenting the visual character of modern logo design combined with an art poster. Avoid a tourist-poster feel, simple icon-plus-text, cartoonization, decoration piling, e-commerce feel, cheap graphics, and a template feel.
 ```
 
 </details>
@@ -1364,7 +1841,7 @@ Overall aesthetic: botanical packaging, editorial illustration, retro-modern pri
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HQPJjj4aMAANkwZ.jpg" width="700" alt="Seasonal Botanical Packaging Poster">
+<img src="https://image.moge.ai/prompt_media/HQNbqD4bcAAigI-.jpg" width="700" alt="Photo-to-Logo Minimalist Poster">
 </div>
 
 <br>
@@ -1373,19 +1850,19 @@ Overall aesthetic: botanical packaging, editorial illustration, retro-modern pri
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2090742650697834873) | 2026-08-21 |
+| [小小东](https://x.com/xiaoxiaodong01) | [X / Twitter](https://x.com/xiaoxiaodong01/status/2090616800711229764) | 2026-08-21 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2090742650697834873)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2090616800711229764)**
 
 </div>
 
 ---
 
-### No. 22: Nordic Winter Travel Poster
+### No. 28: Nordic Winter Travel Poster
 
 ![Category: Marketing Materials](https://img.shields.io/badge/Category-Marketing%20Materials-lightgrey)
 
@@ -1469,7 +1946,7 @@ No random landmark placement.
 
 ---
 
-### No. 23: Red Higanbana Anime Portrait
+### No. 29: Red Higanbana Anime Portrait
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
@@ -1514,23 +1991,41 @@ A close-up anime-style portrait of the attached model. She is adorned in a black
 
 ---
 
-### No. 24: Elegant Pastel Lehenga Portrait
+### No. 30: Pink Petal Dress Editorial
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-An elegant portrait of a woman in soft spotlight, wearing a pastel blue lehenga with gold embroidery and delicate jewelry.
+Ultra-photorealistic fashion portrait of a young woman in a flower-shaped pastel-pink dress with high-key lighting and a wildflower meadow backdrop.
 
 #### 🌟 Prompt
 
-Elegant portrait of a woman in soft spotlight against a dark background, casting a clean shadow behind her. …
+Ultra-photorealistic fashion editorial of a clearly adult young woman, youthful fresh appearance, slim …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Elegant portrait of a woman in soft spotlight against a dark background, casting a clean shadow behind her. She wears a pastel blue lehenga with intricate gold embroidery and a sheer dupatta with pink and gold detailing. Floral accessories in her hair, long wavy black hair resting over her shoulders. Subtle jewelry: gold necklace, earrings, and bracelets adorned with small roses. Gentle smile, calm expression, warm light highlighting her face and outfit.
+Ultra-photorealistic fashion editorial of a clearly adult young woman, youthful fresh appearance, slim elegant V-line face, refined jawline and chin, pale luminous glass skin with realistic pores and subtle natural texture. Large round expressive eyes, soft gentle gaze, curled eyelashes, delicate youthful features. Douyin/Ulzzang soft-glam makeup with luminous complexion, subtle contour, high-set pink Igari blush across cheekbones and under-eyes, soft eye shimmer, natural brows, glossy pink gradient/ombre lips.
+
+Shoulder-length ash-blonde/light ash-brown wavy hair, loose messy-chic volume, wispy see-through bangs, individual strands naturally separated and gently blown by wind, realistic texture and movement.
+
+Wearing an elegant pastel-pink off-shoulder sabrina dress with layered ruffles, lightweight translucent organza/tulle fabric, realistic fine fibers, natural folds and wrinkles, dramatically flowing and billowing in the breeze. Subtle white inner layer visible beneath the translucent pink fabric.
+The skirt is highly voluminous but remains airy and weightless, with individual petal layers clearly separated and visible. A subtle white inner layer is visible between the translucent pink petals, creating depth and a soft luminous effect. The outer petals extend outward and upward naturally as if gently caught by a breeze, producing dynamic flowing movement while maintaining the recognizable flower-petal shape.
+
+The petal edges are delicate, slightly wavy and organically curved rather than perfectly symmetrical or geometric. Fine translucent fabric fibers, subtle wrinkles, realistic folds, soft overlapping shadows, and physically accurate fabric movement make every petal look like real lightweight couture fabric. The overall silhouette resembles an enormous blooming pastel-pink flower surrounding the lower body, elegant, whimsical, ethereal, sophisticated, and couture-fashion inspired — never resembling a conventional layered skirt or tutu.
+Large dangling cluster-petal/pearl earrings, two thin layered bracelets on left wrist including a tiny black ribbon detail, delicate ring on left index finger.
+
+GRACEFUL OVER-THE-SHOULDER POSE: body slightly turned away, looking back naturally over the left shoulder toward camera, upper back and shoulders exposed, right shoulder uncovered, left arm relaxed naturally in front of the dress, fingers softly curved, believable body weight and anatomy, elegant spontaneous movement rather than mannequin-like posing.
+
+Eye-level camera, medium-full fashion shot from head to mid-thigh/above knees, 85mm full-frame portrait lens aesthetic, shallow natural depth of field, sharp eyes, realistic optical perspective, high-resolution 8K photographic detail.
+
+Extremely bright high-key diffused studio lighting, soft even illumination, luminous highlights, minimal harsh shadows, ethereal magical atmosphere while preserving realistic skin dimension. Clean seamless solid-white background transitioning naturally into a dreamy wildflower meadow filled with pastel-pink and pale-yellow flowers, slender green stems reaching thigh height, realistic botanical detail, natural depth and subtle foreground blur.
+
+PHOTOREALISM LOCK: real human photography, natural anatomy, realistic hands/fingers, skin pores, individual hair strands, physically accurate translucent fabric, realistic jewelry reflections, authentic camera optics, HDR, premium luxury fashion photography, natural colors.
+
+ANTI-OLD / ANTI-CARTOON: youthful adult 20–26, fresh facial structure, firm natural skin, no wrinkles, no crow’s feet, no sagging, no mature/middle-aged/elderly appearance. NO cartoon, anime, illustration, painting, CGI, 3D render, doll face, plastic/waxy skin, excessive beauty filter, fake hair, distorted anatomy, deformed hands, extra fingers, stiff pose, dead expression, harsh shadows, oversaturation, uncanny valley.
 ```
 
 </details>
@@ -1538,7 +2033,7 @@ Elegant portrait of a woman in soft spotlight against a dark background, casting
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRU4u59bsAEIPdW.jpg" width="700" alt="Elegant Pastel Lehenga Portrait">
+<img src="https://image.moge.ai/prompt_media/HRbk34vbwAAe4vf.jpg" width="700" alt="Pink Petal Dress Editorial">
 </div>
 
 <br>
@@ -1547,481 +2042,75 @@ Elegant portrait of a woman in soft spotlight against a dark background, casting
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Talia](https://x.com/TaliaAariz) | [X / Twitter](https://x.com/TaliaAariz/status/2095643928724742477) | 2026-09-03 |
+| [Mahira](https://x.com/MahiraEhan) | [X / Twitter](https://x.com/MahiraEhan/status/2096114526932595069) | 2026-09-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095643928724742477)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2096114526932595069)**
 
 </div>
 
 ---
 
-### No. 25: Forced-Perspective Sports Poster
+### No. 31: ZENRO Minimalist Ramen Poster
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a high-energy sports campaign poster with extreme forced perspective, a peak-action athlete, and oversized typography integrated into the scene.
+Creates a crimson-red ramen brand poster with a young woman slurping noodles, a bowl, and a large central wordmark in a clean, premium look.
 
 #### 🌟 Prompt
 
-Brand: [BRAND NAME] Product / Campaign: [PRODUCT OR CAMPAIGN] Main Word: [SHORT ACTION WORD] Subject: …
+Create a Cannes-level flagship advertising poster for an original ramen brand named ZENRO, promoting its …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Brand: [BRAND NAME]
-Product / Campaign: [PRODUCT OR CAMPAIGN]
-Main Word: [SHORT ACTION WORD]
-Subject: [ATHLETE / DANCER / OTHER]
-Action: [DUNK / PUNCH / CUT / JUMP / OTHER]
-Foreground Object: [SHOE / GLOVE / BALL / PRODUCT / OTHER]
-Main Color: [COLOR]
-Accent Color: [COLOR]
-Campaign Details: [SLOGAN / SPECS / DATE]
-Aspect Ratio: [9:16]
+Create a Cannes-level flagship advertising poster for an original ramen brand named ZENRO, promoting its signature product Fire Miso Ramen. Build the image with a refined Orbit flow and a clean Transit reduction, creating a bold, globally polished food-brand key visual.
 
-Create a bold commercial campaign poster built around **extreme forced perspective, dynamic human motion, and oversized typography**.
+Core composition:
+A vertical poster with a seamless pure crimson-red background, smooth and uninterrupted, with no environment and no unnecessary props. The image should feel immediate, graphic, and iconic, with strong negative space and absolute clarity.
 
-Use a low-angle or close-perspective camera so one important object enters the foreground much larger than normal, while the athlete remains clearly readable in the mid-ground. The foreground object should feel dramatic but must not block the face or destroy the body proportions.
+Hero subject:
+At the upper center, show a stylish young Asian woman in a tight medium close-up portrait, facing forward while glancing slightly sideways with a playful, irresistible expression as she slurps ramen noodles. Her hair is styled into two casual mini buns with a few loose strands. She wears a minimal dark top so the face, noodles, and brand typography dominate the composition. Skin must look natural and realistic, with refined texture, believable lips, elegant hand anatomy, five correct fingers, natural joints, and no distortion.
 
-Capture the subject at a clear peak-action moment with believable anatomy, balance, weight, and direction. Hair, clothing, limbs, and equipment should follow the same movement naturally.
+Orbit structure:
+Use the noodles as the main visual loop. A single clean stream of glossy ramen noodles travels from the chopsticks to her mouth, forming the primary vertical motion line. Connect this flow with the direction of her gaze, the angle of the chopsticks, the curve of the bowl, and the width of the central brand typography so the eye moves in a clear circuit:
+eyes -> noodles -> wordmark -> bowl -> hand -> back to face.
+The Orbit should feel strong, appetizing, and controlled, not chaotic.
 
-Make the main word extremely large and integrate it into the scene rather than placing it flat behind the subject. Use controlled depth, perspective, cropping, and foreground/background overlap so parts of the typography sit behind the athlete while selected sections move into the foreground.
-
-Let the typography reinforce the action: it can rise, compress, slice, drop, or shift according to the subject’s movement, while remaining clearly readable.
-
-Use a strong high-saturation color system with one dominant background color, one contrasting accent color, warm white or black typography, and only a few supporting colors.
-
-Add 2–3 compact information areas with meaningful campaign details such as product weight, cushioning, grip, material, performance features, or slogan, plus a clean footer.
-
-Prioritize:
-**dynamic subject → strong foreground perspective → clear product → oversized type interaction → supporting information.**
-
-Keep people, hands, equipment, shoes, balls, and body mechanics realistic and structurally correct.
-
-The final image should feel like a finished high-energy sports campaign key visual — bold, colorful, dimensional, dynamic, and instantly readable in a social feed.
-```
-
-</details>
-
-#### 🌁 Generated Image
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HRQ9CXoWYAQ65vJ.jpg" width="700" alt="Forced-Perspective Sports Poster">
-</div>
-
-<br>
-
-<div align="center">
-
-| Author | Source | Published |
-| :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2095366987773845806) | 2026-09-03 |
-
-</div>
-
-<div align="center">
-
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095366987773845806)**
-
-</div>
-
----
-
-### No. 26: Curved Fan-Shaped Editorial Poster
-
-![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
-
-#### 📚 Description
-
-Creates a 9:16 editorial poster using a curved fan-shaped composition with flowing movement and strong visual rhythm, mixing imagery, color and typography.
-
-#### 🌟 Prompt
-
-Create a 9:16 editorial poster based on a fan-shaped composition, with an emphasis on curved structures, …
-
-<details>
-<summary>Show full prompt</summary>
-
-```
-Create a 9:16 editorial poster based on a fan-shaped composition, with an emphasis on curved structures, flowing movement, and strong visual rhythm.
-
-SUBJECT: [your subject]
-TITLE: [main title]
-CONCEPT: [core idea or mood]
-FAN LOGIC: [flowing ribbon / offset arcs / radial burst / motion arcs / mixed curved fan structure]
-VISUAL MATERIALS: [photography / collage / textures / painting / architecture / people / objects]
-COLOR SYSTEM: [2–4 main colors]
-TYPOGRAPHY: [serif / grotesk / condensed sans / editorial mix]
-BACKGROUND: [paper texture / flat tone / minimal backdrop]
-TEXT DETAILS: [optional short meaningful phrases]
-
-Use the fan-shaped composition as the main visual language, but do not limit it to straight wedges. The structure can bend, arc, curve, flow, expand, compress, or rotate depending on the concept.
-
-Prioritize graceful visual movement. Let the composition guide the eye through the poster with ribbons, arcs, layered curved sections, or a single radial burst used in a more expressive way.
-
-The shape should help express the idea:
-
-* a flowing ribbon can suggest wind, motion, transition, or invisible force
-* offset arcs can suggest observation, rhythm, memory, or layered perception
-* a radial burst can suggest sound, signal, speed, or urban energy
-* motion arcs can suggest body movement, choreography, or time unfolding
-
-Build a strong large silhouette first, then fill it with controlled visual variety. Mix image sections, pure color areas, negative space, and small editorial details so the poster feels designed rather than template-based.
-
-Allow some elements to break across the fan boundaries when useful. Curves should feel intentional and elegant, not decorative for their own sake.
-
-Typography should feel integrated into the composition. Use one clear title, a short supporting line, and a small amount of editorial text. Keep the copy meaningful and concise.
-
-The final poster should feel like an art-forward editorial collage: visually striking from a distance, but richer and more layered up close.
-```
-
-</details>
-
-#### 🌁 Generated Image
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HRXwBg1XEAEhkIw.jpg" width="700" alt="Curved Fan-Shaped Editorial Poster">
-</div>
-
-<br>
-
-<div align="center">
-
-| Author | Source | Published |
-| :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2095845240221368708) | 2026-09-04 |
-
-</div>
-
-<div align="center">
-
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095845240221368708)**
-
-</div>
-
----
-
-### No. 27: Photo-to-Logo Minimalist Poster
-
-![Category: Branding & Interface](https://img.shields.io/badge/Category-Branding%20%26%20Interface-lightgrey)
-
-#### 📚 Description
-
-Turns any photo into a 3:4 vertical poster with the original image on top and a custom, geometric, minimalist logo below.
-
-#### 🌟 Prompt
-
-Turn each photo I upload into a separate high-end design poster—no multi-image collages; each photo is output …
-
-<details>
-<summary>Show full prompt</summary>
-
-```
-Turn each photo I upload into a separate high-end design poster—no multi-image collages; each photo is output individually. Use an overall 3:4 vertical composition, with the top and bottom areas strictly at a 1:1 height ratio, each occupying 50% of the frame.
-
-The top half keeps the original photo, preserving the subject's structure, real texture, natural light and shadow, and original color atmosphere, applying only a slight high-end photographic color grade to give it the quality of an art magazine, independent publication, and exhibition photography. To fit the frame, you may naturally extend the sky, ground, or environmental background, but you must not stretch, distort, or alter the subject.
-
-The bottom half extracts the most recognizable **subject, silhouette, posture, and narrative relationship** from the photo and reconstructs them into a **simple, professional, brand-recognizable custom wordmark / logo graphic**. Do not place the subject graphic separately next to the text; instead, cleverly integrate its most essential silhouette, structure, or feature into the letters themselves or the overall mark structure, so that graphic and text become a unified, complete, recognizable visual symbol. Whether the subject is a person, animal, plant, building, object, vehicle, or natural landscape, extract its core visual feature and transform it into a simple, geometric, graphic logo language, maintaining an at-a-glance recognizable identity with minimal information.
-
-The text is distilled from the photo's subject name, thematic attribute, location clue, action state, or symbolic meaning into a short English main text; if the original image has a clear proper name, it can be directly converted into the main mark name; if there is no clear name, distill a highly summarized, easily recognizable English word or phrase suitable as a brand wordmark. It may be accompanied by a minimal amount of small auxiliary text, such as category, region, state word, or a short slogan, but it must be highly restrained, serving only as a supplement to the identification hierarchy. Text and graphic must together form the mark, not the conventional "icon + title" collage.
-
-The overall style stays **minimal, modern, geometric, striking, elegant, with ample white space and balanced composition**. The background uses a light solid color or extremely pale neutral tone, staying clean and simple; the mark is presented in black and white or with minimal color, and the color can be extracted from the photo above, choosing the one with the most spirit for a slight translation, but restraint, professionalism, and branding remain the priority overall. The mark maintains a comfortable medium visual size in the bottom half, neither too large nor too small, with the finish of a mature brand identity, a cultural visual system, or a high-end design studio's work.
-
-Overall it emphasizes **the integration of graphic and text, subject recognizability, geometric order, refined letter spacing, professional layout, and high-end white space**, presenting the visual character of modern logo design combined with an art poster. Avoid a tourist-poster feel, simple icon-plus-text, cartoonization, decoration piling, e-commerce feel, cheap graphics, and a template feel.
-```
-
-</details>
-
-#### 🌁 Generated Image
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HQNbqD4bcAAigI-.jpg" width="700" alt="Photo-to-Logo Minimalist Poster">
-</div>
-
-<br>
-
-<div align="center">
-
-| Author | Source | Published |
-| :---: | :---: | :---: |
-| [小小东](https://x.com/xiaoxiaodong01) | [X / Twitter](https://x.com/xiaoxiaodong01/status/2090616800711229764) | 2026-08-21 |
-
-</div>
-
-<div align="center">
-
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2090616800711229764)**
-
-</div>
-
----
-
-### No. 28: Forced-Perspective Editorial Poster
-
-![Category: Marketing Materials](https://img.shields.io/badge/Category-Marketing%20Materials-lightgrey)
-
-#### 📚 Description
-
-Creates a bold editorial poster using forced perspective, oversized typography, and an enlarged foreground object overlapping a realistic human subject.
-
-#### 🌟 Prompt
-
-Theme: [poster theme / event] Headline: [one bold word, 4–8 letters] Subject: [adult person + styling] …
-
-<details>
-<summary>Show full prompt</summary>
-
-```
-Theme: [poster theme / event]
-Headline: [one bold word, 4–8 letters]
-Subject: [adult person + styling]
-Foreground object: [basketball / camera / skateboard / racket / bike wheel / other object]
-Event info: [date / venue / time / category / website]
-Base colors: [background + main color]
-Accent color: [one restrained accent]
-Aspect ratio: 9:16
-
-Create a bold editorial poster built around forced perspective, oversized typography, and a realistic human subject.
-
-Place the subject near the center or slightly off-center, photographed from a dramatic low angle. Push the [foreground object] extremely close to the camera so it becomes oversized and creates a strong near-to-far depth relationship leading back toward the subject.
-
-Use the [headline] as enormous condensed bold sans-serif typography across the upper and middle background. Let the person and foreground object naturally overlap and partially obscure the letters so the typography feels integrated into the physical space rather than placed behind the image.
-
-Build three clear information scales:
-1. Oversized headline
-2. Medium event details
-3. Small editorial information
-
-Arrange the smaller information along the left, right, and bottom edges using a clean editorial grid. All text should feel relevant to the actual theme rather than random placeholder words.
-
-Use a lightly textured off-white paper background with subtle print grain. Add very faint oversized secondary typography or minimal perspective lines in the background for depth, but keep them low contrast.
-
-Keep the palette restrained: mostly [base colors] with only small amounts of [accent color]. Let the visual impact come from scale, perspective, typography, and overlap rather than excessive decoration.
-
-The subject should look photographic and natural, with realistic skin, hair, clothing folds, and believable anatomy. Keep the foreground object structurally accurate and visually dominant.
-
-Overall feel: contemporary editorial design, street culture, fashion campaign, sports culture, and independent event poster aesthetics.
-
-The final result should feel like a finished poster artwork, not a design mockup or template.
-```
-
-</details>
-
-#### 🌁 Generated Image
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HQ9x3A2XoAEpRG7.jpg" width="700" alt="Forced-Perspective Editorial Poster">
-</div>
-
-<br>
-
-<div align="center">
-
-| Author | Source | Published |
-| :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2094017781393928349) | 2026-08-30 |
-
-</div>
-
-<div align="center">
-
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2094017781393928349)**
-
-</div>
-
----
-
-### No. 29: 3×3 Doodle Journal Poster
-
-![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
-
-#### 📚 Description
-
-Turns a photo into a vertical poster: upper half keeps the refined original image, lower half becomes a 3×3 naïve doodle grid with retro colors and handwritten notes, like a personal journal page.
-
-#### 🌟 Prompt
-
-Create a separate, standalone premium design poster for each photo I upload. Do not combine multiple photos …
-
-<details>
-<summary>Show full prompt</summary>
-
-```
-Create a separate, standalone premium design poster for each photo I upload. Do not combine multiple photos into a collage; output each photo individually. Use an overall 3:4 vertical composition, with the upper and lower sections divided in a strict 1:1 ratio, each occupying exactly 50% of the canvas.
-
-In the upper half, preserve the original photograph, including the subject's identity, structure, pose, authentic texture, natural lighting, and original color atmosphere. Apply only subtle, refined color grading to give it the visual quality of an art magazine, independent publication, or exhibition image. If necessary to fit the composition, naturally extend the surrounding environment or background, but do not stretch, distort, reshape, or alter the main subject.
-
-In the lower half, extract the most recognizable subject, local elements, action cues, object details, and narrative relationships from the photograph, and reconstruct them into a visual system consisting of a 3×3 modular icon grid + naïve hand-drawn doodle illustrations + crayon/colored-pencil grain texture + handwritten typography. Do not fully depict the original image and do not create realistic illustrations. Instead, compress the complex information into the 9 visual units most worth remembering. These may include the main subject, distinctive features, personal belongings, plants, food, modes of transportation, poses, emotional symbols, or small memorable details from the scene. Every unit should semantically extend from the same image above, so that at a glance they feel like a "memory checklist" belonging to that photograph.
-
-Use an implicit, loose 3×3 grid for the composition. The nine-cell grid should function only as an underlying organizational system and should not appear overly precise or rigid. The position, size, angle, and placement of each icon may shift slightly, creating a loose grid / organic grid feeling that is structured without becoming mechanical. A short handwritten title may appear at the top, accompanied by a few relaxed decorative elements such as small wavy lines, stars, dots, or symbols. A tiny handwritten caption may appear at the bottom, making the overall composition feel like a page from a personal journal, visual diary, or collection sheet. Negative space must remain generous. The layout should feel relaxed, cute, restrained, and never cluttered.
-
-Use a Naïve Hand-drawn Doodle Illustration style: forms should be simple and slightly awkward in a deliberate way, with gently trembling outlines, uneven line weights, partially open contours, and consciously preserved imperfections. Do not fill colors too completely; allow paper texture, white grain, and rough edges to remain visible. Combine thin black outlines, colored-pencil or crayon fills, and a small amount of localized color blocking. Do not rely on realistic lighting or shading; instead, establish graphic relationships through flat color / spot color. If grid guidelines appear, they should be extremely faint, like lightly sketched pencil construction lines rather than a digitally generated regular table.
-
-Use a low-saturation retro candy color palette, with warm off-white, coarse-textured paper as the base. Keep the colors soft, light, friendly, and refined. Extract colors from the original photograph and reinterpret them into relationships involving sage green, mint green, crayon blue, cobalt blue, cream yellow, dusty pink, strawberry pink, and coral orange-red. Blue and green should generally function as the dominant colors, with yellow and pink used as object fills, while orange-red should appear only in very small amounts as an accent. The overall balance should consist of a large off-white background, a moderate amount of blue-green primary color, small areas of yellow and pink secondary colors, and only a few orange-red highlights, creating richness without visual clutter.
-
-Add a small layer of hand-drawn red annotation elements, such as circles, arrows, hearts, starbursts, small crosses, wavy lines, or emphasis marks. These should transform the design from an ordinary icon sheet into a more editorial and personal visual diary. However, the annotations must be sparse and precise, functioning only as secondary accents and never overpowering the main composition.
-
-Do not restrict the text to any fixed content or language. Generate only a small amount of genuinely meaningful wording based on the photograph's subject, mood, location, action, or sense of everyday life. Titles and supporting text should use light, small, relaxed handwritten lettering with subtle pauses, irregular spacing, and drifting letter placement, making the words feel naturally written onto the paper rather than typeset as commercial graphic-design headlines. Keep the total amount of text minimal and small, with generous surrounding space, allowing the typography, icons, and annotations to form a natural mixed graphic-and-text layout.
-
-The overall visual character should feel naïve, relaxed, retro, comforting, lighthearted, approachable, and editorially designed, like a carefully preserved personal journal, happiness checklist, or page of everyday observations. Avoid clean vector aesthetics, realistic lighting, complex textures, heavy shadows, overly precise UI-icon styling, commercial template aesthetics, and childish cartoon styling.
-```
-
-</details>
-
-#### 🌁 Generated Image
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HRDVgJ_aUAAX03v.jpg" width="700" alt="3×3 Doodle Journal Poster">
-</div>
-
-<br>
-
-<div align="center">
-
-| Author | Source | Published |
-| :---: | :---: | :---: |
-| [小小东](https://x.com/xiaoxiaodong01) | [X / Twitter](https://x.com/xiaoxiaodong01/status/2094409213183410255) | 2026-08-31 |
-
-</div>
-
-<div align="center">
-
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2094409213183410255)**
-
-</div>
-
----
-
-### No. 30: Soft Realistic Studio Portrait
-
-![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
-
-#### 📚 Description
-
-Creates a photorealistic close-up portrait of a young woman in a thoughtful pose, with soft studio lighting and a gray curtain backdrop.
-
-#### 🌟 Prompt
-
-A highly realistic close-up portrait photograph of a young East Asian woman in her early 20s with fair, …
-
-<details>
-<summary>Show full prompt</summary>
-
-```
-A highly realistic close-up portrait photograph of a young East Asian woman in her early 20s with fair, smooth skin and soft natural features. She has long, straight, silky light-brown hair with subtle golden highlights that falls past her shoulders and frames her face, parted slightly off-center. Her expression is calm and slightly pouty, with soft full lips in a natural pinkish-nude shade, lightly defined brows, subtle eyeliner, and soft eyeshadow that gives a gentle, polished look. She gazes directly at the camera with a relaxed, slightly tilted head pose.
-
-Her right hand is raised, resting gently under her chin with fingers softly curled, supporting her face in a classic thoughtful pose. She wears a simple black strapless bandeau or tube top that sits low, revealing her shoulders and upper chest. On her right wrist is a delicate silver chain-link bracelet that catches the light.
-
-The background is a soft, muted gray curtain with gentle vertical folds, creating a clean, studio-like indoor setting. Soft, even diffused lighting illuminates her face evenly with subtle highlights on her cheekbones and hair, producing a smooth, flattering skin texture and natural shadows. Shot from a slightly elevated selfie-style angle, tightly framed from mid-chest up, high resolution, photorealistic detail, natural color grading, sharp focus on the face and eyes.
-```
-
-</details>
-
-#### 🌁 Generated Image
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HRMny2xa8AAYNLK.jpg" width="700" alt="Soft Realistic Studio Portrait">
-</div>
-
-<br>
-
-<div align="center">
-
-| Author | Source | Published |
-| :---: | :---: | :---: |
-| [Feyber](https://x.com/woleswoosh) | [X / Twitter](https://x.com/woleswoosh/status/2095542340035260517) | 2026-09-03 |
-
-</div>
-
-<div align="center">
-
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095542340035260517)**
-
-</div>
-
----
-
-### No. 31: Flagship Sports Audio Long Poster
-
-![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
-
-#### 📚 Description
-
-Creates a four-section vertical flagship poster for an open-ear sports earphone, unified by a continuous copper-orange energy flow in a premium black brand world.
-
-#### 🌟 Prompt
-
-Create a Cannes-level flagship long-form product advertising poster for an original premium open-ear sports …
-
-<details>
-<summary>Show full prompt</summary>
-
-```
-Create a Cannes-level flagship long-form product advertising poster for an original premium open-ear sports audio brand named AURAFLOW, featuring the hero model AURAFLOW ARC PRO. Build the artwork with Orbit x Transit visual logic: preserve a four-section vertical campaign board with a dominant hero section, a credibility section, a scenic showcase section, and a final performance climax, while unifying all sections through one continuous copper-orange energy path and reducing unnecessary informational noise so the whole campaign feels more iconic, more premium, more architectural, and more globally sophisticated. The product must remain the absolute visual leader throughout every section.
-
-Overall composition:
-Use a tall vertical poster divided into four wide horizontal sections stacked from top to bottom. Keep the entire campaign within a unified black-to-deep-espresso premium background world, with restrained molten copper-orange energy flowing through all sections as a continuous visual signature. Maintain large areas of clean darkness and controlled negative space. Every section must feel distinct in function but inseparable in brand identity.
-
-Orbit x Transit logic:
-Design the copper-orange motion language as one elegant closed-loop current that evolves through the four sections. In the top section it appears as flowing light ribbons around the hero product, in the second section it becomes quieter directional highlights guiding attention across the ranked lineup, in the third section it transforms into canyon-like environmental flow lines, and in the fourth section it culminates in a concentrated radial impact burst before visually settling back into the product form. The eye should move naturally through the entire poster and repeatedly return to the headphone silhouette. At the same time, reduce clutter, remove excessive claims, and keep the board flagship-grade, calm, and distilled.
-
-Brand and product:
-Design an original flagship open-ear sports audio device named AURAFLOW ARC PRO. The product should feel globally premium and physically real, with a sculpted ear-hook architecture, smooth aerodynamic band, matte high-performance finish, subtle titanium or graphite accents, refined seam logic, and excellent ergonomic credibility. Use a signature molten orange hero color supported by graphite black and deep metallic neutrals.
-
-Section 1, top hero:
-Create a monumental hero product shot occupying most of the upper section against an almost black background. Show the AURAFLOW ARC PRO enlarged in an elegant three-quarter view, suspended in darkness and surrounded by soft copper-orange energy ribbons that curve around the product without overwhelming it. On the left side, place an original English headline such as:
-OPEN THE PULSE
-MOVE WITHOUT LIMIT
-Beneath it, add only one short premium line about all-day endurance and open-ear awareness. Keep typography minimal, bold, and luxurious.
-
-Section 2, ranking and lineup credibility:
-Create a dark premium display stage with three products presented on refined low podiums or minimal plinths. Keep AURAFLOW ARC PRO as the primary hero and use two supporting sibling models for lineup credibility. Above each product, add restrained laurel-style recognition lines such as:
-No.1 Open-Ear Bestseller
-Top Fitness Audio Pick
-Editor's Choice
-On the left side, place one large statement:
-BESTSELLER
-OF THE YEAR
-Keep this section quieter than a retail banner, with fewer words and more prestige.
-
-Section 3, premium environmental showcase:
-Place the orange hero product inside a sculptural canyon-like environment formed by flowing copper sandstone curves, wind-carved surfaces, and warm reflected highlights. The product should appear like a jewel inside a naturally aerodynamic chamber. Add one concise central ranking statement such as:
-No.4
-Most-Watched Sport Audio Brand
-Include a minimal framed recognition plaque or award tile, but keep it clean and secondary. This section should feel cinematic, tactile, and elegant.
-
-Section 4, performance climax:
-End with the strongest but most controlled performance image: the orange AURAFLOW ARC PRO centered over a dark textured surface where copper energy, dust, and glowing particles burst outward in a contained radial impact. The effect must feel premium and precise, not chaotic. Add a bold product lockup such as:
-AURAFLOW ARC PRO 2
-and on the opposite side a concise recognition statement such as:
-TOP 1
-New Release Audio Gear
-Keep this final section dramatic but reduced.
+Food logic:
+In the lower center, place a dark premium ramen bowl held in one hand, with subtle reflections and believable depth. The ramen should appear rich, hot, and craveable, with springy noodles, deep broth tones, and hints of premium toppings visible near the rim. Keep the bowl simple and elegant, without too many ingredients fighting for attention.
 
 Typography system:
-Do not copy any source text. Use original English-only typography. Use a refined system of bold modern sans-serif headlines, tiny premium annotation text, elegant ranking laurels, and disciplined product naming. Typography must feel international, polished, and quiet in authority. Avoid heavy clutter, over-explanation, and generic promotional styling.
+Across the middle of the image, place a huge bold white custom brand wordmark:
+“ZENRO”
+Integrate a minimal ramen-bowl icon subtly into the branding system so it feels iconic, premium, and ownable, not cute or childish.
+Below the wordmark, add one short original line in clean uppercase type:
+“HEAT WITH INTENT.”
+Keep typography highly controlled, international, and campaign-ready. Remove all extra copy. No clutter, no secondary decorative lines, no noisy supporting text.
 
-Lighting and material realism:
-Render the headphones with exceptional realism: matte polymer body, subtle rubberized contact surfaces, clean seam lines, metallic accent highlights, believable acoustic openings, and ergonomic curvature. Use premium cinematic lighting with crisp edge highlights and carefully controlled orange reflections. The orange energy must feel integrated with the product and environment, not pasted on.
+Transit reduction:
+Keep only the essential elements: red background, face, noodles, chopsticks, bowl, central brand wordmark, and one short slogan. If graphic accents are used, limit them to one or two tiny understated symbols only, placed far from the hero elements. The poster must feel cleaner, calmer, and more premium than a social-content food ad.
 
-Color direction:
-Use a tightly controlled palette of deep black, espresso brown, molten copper orange, ember gold, graphite gray, and soft warm highlights. The orange product color and energy path must be the main visual anchor across the entire poster. No random accent colors.
+Color and styling:
+Use a disciplined palette of vivid crimson red, white typography, warm noodle gold, natural skin tones, and restrained black accents from the clothing and bowl. The red should feel dense, premium, and immersive, not cheap or neon.
+
+Lighting:
+Soft but sculpted studio lighting on the face and hands, crisp highlights on the noodles, subtle shine on the bowl, and enough tonal contrast to separate the portrait cleanly from the red background. The image should feel dimensional while remaining graphically pure.
+
+Visual style:
+Ultra-realistic commercial food-and-portrait photography, premium restaurant-brand campaign quality, clean beauty realism, highly detailed noodles, elegant hand realism, strong typography hierarchy, flagship launch visual, no clutter, no cheap takeaway poster feeling.
 
 Mood:
-flagship, orbit-driven, reduced, premium, athletic, cinematic, architectural, award-winning, technologically advanced, globally sophisticated
-
-Rendering style:
-ultra-realistic flagship open-ear sports audio campaign board, Orbit x Transit four-section long-form poster, premium black-and-copper brand world, monumental hero product, reduced ranking stage, sculptural canyon showcase, controlled performance climax, world-class commercial design, 8k
+Bold, craveable, youthful, precise, fashion-forward, globally branded, high-impact, premium fast-casual ramen advertising.
 
 Negative prompt:
-real brand names, copied source text, cluttered layout, cheap e-commerce banner style, weak product focus, random extra props, toy-like headphones, low-detail materials, flat lighting, muddy blacks, oversaturated colors, fake award icons, low-resolution typography, messy particle effects, excessive text density
+restaurant interior, cluttered props, messy toppings, distorted hands, extra fingers, malformed chopsticks, plastic skin, cartoon ramen, low-detail noodles, blurry bowl, crowded layout, weak logo, cheap fast-food flyer, noisy decorative elements, oversaturated skin, muddy red background
 ```
 
 </details>
@@ -2029,7 +2118,7 @@ real brand names, copied source text, cluttered layout, cheap e-commerce banner 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HROSNibaUAEv4bQ.jpg" width="700" alt="Flagship Sports Audio Long Poster">
+<img src="https://image.moge.ai/prompt_media/HRcXU71boAAEJd5.jpg" width="700" alt="ZENRO Minimalist Ramen Poster">
 </div>
 
 <br>
@@ -2038,70 +2127,47 @@ real brand names, copied source text, cluttered layout, cheap e-commerce banner 
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2095179032258330985) | 2026-09-02 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2096169883621044504) | 2026-09-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095179032258330985)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2096169883621044504)**
 
 </div>
 
 ---
 
-### No. 32: Central-Axis Framing Cultural Poster
+### No. 32: Half-Photo Half-Graphite Sketch Poster
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Creates a high-impact cultural poster built on a central vertical axis where two large flanking subjects push the eye toward the central title and core information.
+Turns each photo into a split 3:4 poster: the top half a lightly graded photo, the bottom half a re-directed pencil sketch illustration with abundant editorial white space.
 
 #### 🌟 Prompt
 
-Prompt: 【Theme】：\_\_\_\_ 【Chinese main title】：\_\_\_\_ 【English title】：\_\_\_\_ 【Left subject】：\_\_\_\_ 【Right subject】：\_\_\_\_ …
+Turn each photo I upload into a standalone high-end design poster, with no multi-image collage; each photo is …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Prompt:
+Turn each photo I upload into a standalone high-end design poster, with no multi-image collage; each photo is output separately. Use an overall 3:4 vertical composition, with the top and bottom areas strictly 1:1 in height, each taking up 50% of the frame.
 
-【Theme】：____
-【Chinese main title】：____
-【English title】：____
-【Left subject】：____
-【Right subject】：____
-【Composition】：bilateral framing / mirrored facing / four-corner array / two-object juxtaposition
-【Main background color】：____
-【Title color】：____
-【Subject material / style】：____
-【Date / venue】：____
-【Aspect ratio】：9:16
+The top half keeps the original photo, preserving the subject's identity, structure, pose, real texture, natural light and shadow, and original color mood, applying only a slight high-end color grade to give it the feel of an art magazine, independent publication, and exhibition image. To fit the aspect ratio, the environmental background may be naturally extended, but the subject must not be stretched, distorted, or altered.
 
-Generate a "central-axis framing" poster with strong visual impact and a refined cultural-exhibition aura.
+The bottom half undergoes a fresh, independent artistic judgment and image direction. Do not copy the original photo's composition, and do not transcribe object by object; first understand the theme truly worth keeping, the structural flow, the subject relationships, and the visual memory points of the original, then recompose through deletion, rearrangement, cropping, scale change, position adjustment, and white space. Even if the original subject is small, the background cluttered, or the composition ordinary, actively correct it so the bottom half is itself a complete, coherent work with aesthetic judgment.
 
-First establish a clear, stable vertical central axis, then let the left and right subjects jointly exert visual weight toward the center, "clamping" the main title and core information into the focal point of the image.
+Rebuild the retained key subjects, partial structures, or related objects into a hand-drawn pencil-sketch-style thematic combination illustration. Use graphite pencil outlines, natural hatching, a little cross-hatching, and light gray tones, with forms that are slightly loose, naive, and illustrative-sketch-like, not pursuing academic realism or complex perspective. Draw only the most meaningful parts, so the correspondence with the photo above is felt at a glance, but it is not a pencil copy of the photo.
 
-The flanking subjects must be large enough to dominate the visual weight and sit near the edges to create a cropped feel. The two sides may differ in form, size, material, and detail, but the overall visual weight must be balanced, avoiding mechanical mirroring or simple copying.
+The composition emphasizes abundant intentional white space. White space is not background but a compositional element as important as the subject; arrange it freely according to the subject's direction, proportion, and visual center of gravity—it can be off-center, edge-hugging, suspended, enlarged, shrunk, or partially cropped—building breathing room, a sense of space, and editorial order through positive/negative shapes, density, clustering, and asymmetric balance. Prefer to remove information rather than fill the frame.
 
-Choose the composition according to the content:
+Overall it is mainly black-and-white or natural graphite grayscale, with the option to very sparingly extract 1–2 identifiable colors from the original for local emphasis. Text is only a light editorial intervention, with no restriction on language or fixed format, and may freely generate a few words or short phrases based on the subject, location, mood, or metaphor, quietly blending into the white space and forming the layout together with the illustration.
 
-Bilateral framing: two large subjects converge toward the center from the sides, with a giant title on the axis.
-Mirrored facing: two faces, masks, or profiles face each other, creating strong dialogue and tension in the middle.
-Four-corner array: 4 subjects of the same kind but different forms surround a central vertical title, forming a stable collection arrangement.
-Two-object juxtaposition: two objects placed side by side, with the axis establishing order through title, date, and decorative motifs.
-
-The Chinese main title must be an important visual element—it may use giant vertical typesetting, mixed horizontal-vertical layout, partial cropping, or slight overlap with the subject, rather than just being placed ordinarily at the top.
-
-Small English text, date, location, and exhibition notes are concentrated in 2–3 information zones, creating a clear size contrast between the huge title and the tiny text. Information density can be rich, but it must be concentrated and hierarchical, not spread evenly across the layout.
-
-Use a large solid-color background to establish strong recognition, such as vermilion red, cobalt blue, lemon yellow, purple, dark brown, or grass green. Keep 3–4 main colors overall, creating contrast through subject material, typography, and a few accent colors.
-
-Visual style reference: Museum Exhibition Poster × Contemporary Editorial Graphic Design: historical artifacts, figures, relics, or traditional cultural subjects combined with bold, modern, clear typography.
-
-Overall requirements: strong axis, strong subjects, strong color field; composition stable but not rigid; rich in detail but not cluttered; an evident clash between classical content and modern design language.
+Overall it presents a re-directed image, pencil hand-drawing, thematic combination, active reduction, abundant artistic white space, and high-end editorial typesetting. Avoid photo replication, traditional academic sketching, complex backgrounds, a filled frame, overly dense detail, mechanical layout, and a template feel.
 ```
 
 </details>
@@ -2109,7 +2175,7 @@ Overall requirements: strong axis, strong subjects, strong color field; composit
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRXakrjW0AAY_Cp.jpg" width="700" alt="Central-Axis Framing Cultural Poster">
+<img src="https://image.moge.ai/prompt_media/HRd6AsJaMAADBEg.jpg" width="700" alt="Half-Photo Half-Graphite Sketch Poster">
 </div>
 
 <br>
@@ -2118,13 +2184,13 @@ Overall requirements: strong axis, strong subjects, strong color field; composit
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2095821540696715461) | 2026-09-04 |
+| [小小东](https://x.com/xiaoxiaodong01) | [X / Twitter](https://x.com/xiaoxiaodong01/status/2096279325939310924) | 2026-09-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095821540696715461)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2096279325939310924)**
 
 </div>
 
@@ -2208,32 +2274,53 @@ copied original wording, generic interior brochure, cheap real-estate ad, fake C
 
 ---
 
-### No. 34: Oriental Zen Spring Cover
+### No. 34: Forced-Perspective Editorial Poster
 
 ![Category: Marketing Materials](https://img.shields.io/badge/Category-Marketing%20Materials-lightgrey)
 
 #### 📚 Description
 
-Creates a minimalist oriental-aesthetic cover featuring a classically dressed woman beside a round floral window, in sweet bright spring tones for social media.
+Creates a bold editorial poster using forced perspective, oversized typography, and an enlarged foreground object overlapping a realistic human subject.
 
 #### 🌟 Prompt
 
-Theme direction: Oriental Zen minimalist cover poster Style branch: bright feminine aesthetic Main subject: a …
+Theme: [poster theme / event] Headline: [one bold word, 4–8 letters] Subject: [adult person + styling] …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Theme direction: Oriental Zen minimalist cover poster
-Style branch: bright feminine aesthetic
-Main subject: a woman in classical attire standing beside a round floral window, gently holding a small flowering sprig
-Emotional motif: sweet, bright, relaxed spring vibe
-Scene and imagery: round floral window, lychee-pink blossoms, apple-green leaves, warm white negative-space background, side profile of the woman
-Composition and space: figure at lower right of the frame, round floral window in the upper-center as the main visual, full title area reserved on the left and top
-Color control: cream white as the high-brightness background, lychee pink for blossoms and small accents on the clothing, apple green for leaves and a few plants outside the window, clothing in light beige or light pinkish white; avoid a pink-green filter over the whole image
-Light and texture: bright natural light, clean flat-illustration feel, crisp edges, very light paper texture
+Theme: [poster theme / event]
+Headline: [one bold word, 4–8 letters]
+Subject: [adult person + styling]
+Foreground object: [basketball / camera / skateboard / racket / bike wheel / other object]
+Event info: [date / venue / time / category / website]
+Base colors: [background + main color]
+Accent color: [one restrained accent]
 Aspect ratio: 9:16
-Additional requirements: overall should be sweet, with vivid clean colors, suitable for a spring social-media cover, no gray haze or old-paper feel
+
+Create a bold editorial poster built around forced perspective, oversized typography, and a realistic human subject.
+
+Place the subject near the center or slightly off-center, photographed from a dramatic low angle. Push the [foreground object] extremely close to the camera so it becomes oversized and creates a strong near-to-far depth relationship leading back toward the subject.
+
+Use the [headline] as enormous condensed bold sans-serif typography across the upper and middle background. Let the person and foreground object naturally overlap and partially obscure the letters so the typography feels integrated into the physical space rather than placed behind the image.
+
+Build three clear information scales:
+1. Oversized headline
+2. Medium event details
+3. Small editorial information
+
+Arrange the smaller information along the left, right, and bottom edges using a clean editorial grid. All text should feel relevant to the actual theme rather than random placeholder words.
+
+Use a lightly textured off-white paper background with subtle print grain. Add very faint oversized secondary typography or minimal perspective lines in the background for depth, but keep them low contrast.
+
+Keep the palette restrained: mostly [base colors] with only small amounts of [accent color]. Let the visual impact come from scale, perspective, typography, and overlap rather than excessive decoration.
+
+The subject should look photographic and natural, with realistic skin, hair, clothing folds, and believable anatomy. Keep the foreground object structurally accurate and visually dominant.
+
+Overall feel: contemporary editorial design, street culture, fashion campaign, sports culture, and independent event poster aesthetics.
+
+The final result should feel like a finished poster artwork, not a design mockup or template.
 ```
 
 </details>
@@ -2241,7 +2328,7 @@ Additional requirements: overall should be sweet, with vivid clean colors, suita
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HQs9yHjaUAAKNdH.jpg" width="700" alt="Oriental Zen Spring Cover">
+<img src="https://image.moge.ai/prompt_media/HQ9x3A2XoAEpRG7.jpg" width="700" alt="Forced-Perspective Editorial Poster">
 </div>
 
 <br>
@@ -2250,36 +2337,59 @@ Additional requirements: overall should be sweet, with vivid clean colors, suita
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [李岳](https://x.com/liyue_ai) | [X / Twitter](https://x.com/liyue_ai/status/2092834397464777096) | 2026-08-27 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2094017781393928349) | 2026-08-30 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2092834397464777096)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2094017781393928349)**
 
 </div>
 
 ---
 
-### No. 35: Black Ink Line Art
+### No. 35: 3×3 Doodle Journal Poster
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Creates a minimalist black-ink fashion illustration on a white background with loose, expressive strokes and generous negative space.
+Turns a photo into a vertical poster: upper half keeps the refined original image, lower half becomes a 3×3 naïve doodle grid with retro colors and handwritten notes, like a personal journal page.
 
 #### 🌟 Prompt
 
+Create a separate, standalone premium design poster for each photo I upload. Do not combine multiple photos …
+
+<details>
+<summary>Show full prompt</summary>
+
 ```
-Minimalist fashion illustration sketch of a [subject], black ink line art on a pure white background, [dynamic pose], expressive rough hand-drawn strokes, loose fluid lines, monochrome, uncolored, avant-garde editorial aesthetic, generous negative space, isolated composition
+Create a separate, standalone premium design poster for each photo I upload. Do not combine multiple photos into a collage; output each photo individually. Use an overall 3:4 vertical composition, with the upper and lower sections divided in a strict 1:1 ratio, each occupying exactly 50% of the canvas.
+
+In the upper half, preserve the original photograph, including the subject's identity, structure, pose, authentic texture, natural lighting, and original color atmosphere. Apply only subtle, refined color grading to give it the visual quality of an art magazine, independent publication, or exhibition image. If necessary to fit the composition, naturally extend the surrounding environment or background, but do not stretch, distort, reshape, or alter the main subject.
+
+In the lower half, extract the most recognizable subject, local elements, action cues, object details, and narrative relationships from the photograph, and reconstruct them into a visual system consisting of a 3×3 modular icon grid + naïve hand-drawn doodle illustrations + crayon/colored-pencil grain texture + handwritten typography. Do not fully depict the original image and do not create realistic illustrations. Instead, compress the complex information into the 9 visual units most worth remembering. These may include the main subject, distinctive features, personal belongings, plants, food, modes of transportation, poses, emotional symbols, or small memorable details from the scene. Every unit should semantically extend from the same image above, so that at a glance they feel like a "memory checklist" belonging to that photograph.
+
+Use an implicit, loose 3×3 grid for the composition. The nine-cell grid should function only as an underlying organizational system and should not appear overly precise or rigid. The position, size, angle, and placement of each icon may shift slightly, creating a loose grid / organic grid feeling that is structured without becoming mechanical. A short handwritten title may appear at the top, accompanied by a few relaxed decorative elements such as small wavy lines, stars, dots, or symbols. A tiny handwritten caption may appear at the bottom, making the overall composition feel like a page from a personal journal, visual diary, or collection sheet. Negative space must remain generous. The layout should feel relaxed, cute, restrained, and never cluttered.
+
+Use a Naïve Hand-drawn Doodle Illustration style: forms should be simple and slightly awkward in a deliberate way, with gently trembling outlines, uneven line weights, partially open contours, and consciously preserved imperfections. Do not fill colors too completely; allow paper texture, white grain, and rough edges to remain visible. Combine thin black outlines, colored-pencil or crayon fills, and a small amount of localized color blocking. Do not rely on realistic lighting or shading; instead, establish graphic relationships through flat color / spot color. If grid guidelines appear, they should be extremely faint, like lightly sketched pencil construction lines rather than a digitally generated regular table.
+
+Use a low-saturation retro candy color palette, with warm off-white, coarse-textured paper as the base. Keep the colors soft, light, friendly, and refined. Extract colors from the original photograph and reinterpret them into relationships involving sage green, mint green, crayon blue, cobalt blue, cream yellow, dusty pink, strawberry pink, and coral orange-red. Blue and green should generally function as the dominant colors, with yellow and pink used as object fills, while orange-red should appear only in very small amounts as an accent. The overall balance should consist of a large off-white background, a moderate amount of blue-green primary color, small areas of yellow and pink secondary colors, and only a few orange-red highlights, creating richness without visual clutter.
+
+Add a small layer of hand-drawn red annotation elements, such as circles, arrows, hearts, starbursts, small crosses, wavy lines, or emphasis marks. These should transform the design from an ordinary icon sheet into a more editorial and personal visual diary. However, the annotations must be sparse and precise, functioning only as secondary accents and never overpowering the main composition.
+
+Do not restrict the text to any fixed content or language. Generate only a small amount of genuinely meaningful wording based on the photograph's subject, mood, location, action, or sense of everyday life. Titles and supporting text should use light, small, relaxed handwritten lettering with subtle pauses, irregular spacing, and drifting letter placement, making the words feel naturally written onto the paper rather than typeset as commercial graphic-design headlines. Keep the total amount of text minimal and small, with generous surrounding space, allowing the typography, icons, and annotations to form a natural mixed graphic-and-text layout.
+
+The overall visual character should feel naïve, relaxed, retro, comforting, lighthearted, approachable, and editorially designed, like a carefully preserved personal journal, happiness checklist, or page of everyday observations. Avoid clean vector aesthetics, realistic lighting, complex textures, heavy shadows, overly precise UI-icon styling, commercial template aesthetics, and childish cartoon styling.
 ```
+
+</details>
 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRC7OphawAEK820.jpg" width="700" alt="Black Ink Line Art">
+<img src="https://image.moge.ai/prompt_media/HRDVgJ_aUAAX03v.jpg" width="700" alt="3×3 Doodle Journal Poster">
 </div>
 
 <br>
@@ -2288,35 +2398,35 @@ Minimalist fashion illustration sketch of a [subject], black ink line art on a p
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Amira Zairi](https://x.com/azed_ai) | [X / Twitter](https://x.com/azed_ai/status/2094379698105323931) | 2026-08-31 |
+| [小小东](https://x.com/xiaoxiaodong01) | [X / Twitter](https://x.com/xiaoxiaodong01/status/2094409213183410255) | 2026-08-31 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2094379698105323931)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2094409213183410255)**
 
 </div>
 
 ---
 
-### No. 36: Shadow and Crimson Lips Portrait
+### No. 36: Moody Cinematic Film Portrait
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-Creates a high-contrast avant-garde fashion portrait with a shadow across the eyes and vivid red lips on a solid red background.
+A cinematic close-up portrait of a young woman in dramatic low-key lighting with a moody 35mm film aesthetic.
 
 #### 🌟 Prompt
 
-Dramatic avant-garde fashion portrait of a pale woman, high-contrast chiaroscuro lighting, wearing a …
+A close-up cinematic portrait of a beautiful young woman with long, messy dark hair blowing across her face …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Dramatic avant-garde fashion portrait of a pale woman, high-contrast chiaroscuro lighting, wearing a wide-brimmed black fedora hat and a fitted black turtleneck. A sharp, curved horizontal shadow falls across her eyes and the bridge of her nose, casting the upper face into deep shadow while brightly illuminating her lower face. Glossy bright crimson red lips, subtle freckles, sculpted jawline, smokey eye makeup, striking blue-grey eyes peering through the shadow. Vivid solid red background, cinematic editorial photography, shot on 85mm lens, f/1.8, ultra-detailed skin texture, high fashion magazine cover style.
+A close-up cinematic portrait of a beautiful young woman with long, messy dark hair blowing across her face and subtle freckles across her nose. The scene is set in dramatic low-key lighting with deep shadows and soft directional light highlighting her facial features, smooth skin texture, and expressive dark eyes. Her expression is thoughtful and intense, set against a dark, minimalistic background, shot on 35mm film with hyper-realistic detail and a moody aesthetic.
 ```
 
 </details>
@@ -2324,7 +2434,7 @@ Dramatic avant-garde fashion portrait of a pale woman, high-contrast chiaroscuro
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRTHuaxagAAUrdF.jpg" width="700" alt="Shadow and Crimson Lips Portrait">
+<img src="https://image.moge.ai/prompt_media/HRYLw6CXsAYEAQ2.jpg" width="700" alt="Moody Cinematic Film Portrait">
 </div>
 
 <br>
@@ -2333,71 +2443,58 @@ Dramatic avant-garde fashion portrait of a pale woman, high-contrast chiaroscuro
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | [X / Twitter](https://x.com/afrinxai/status/2095523711340134648) | 2026-09-03 |
+| [Minahil](https://x.com/Minahil42298354) | [X / Twitter](https://x.com/Minahil42298354/status/2095875639660146847) | 2026-09-04 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095523711340134648)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095875639660146847)**
 
 </div>
 
 ---
 
-### No. 37: EMBER CREST Luxury Spirit Poster
+### No. 37: Food Editorial Poster
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a luxury spirit campaign poster with a premium bottle as hero, editorial typography, and a sculpted amber-copper material field wrapping the product.
+Creates a 9:16 vertical poster for cafés and bakeries that fuses realistic food photography with expressive magazine-style typography, building the layout around the food itself.
 
 #### 🌟 Prompt
 
-Create a Cannes-level flagship product advertising poster for an original luxury spirit brand named EMBER …
+[BRAND]: {brand name} [FOOD / DRINK]: {main product} [HEADLINE]: {main headline} [SUBHEAD]: {short supporting …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a Cannes-level flagship product advertising poster for an original luxury spirit brand named EMBER CREST, using the same core poster skeleton: one tall premium bottle placed slightly left of center as the absolute visual hero, a large clean typography field on the right, and a designed fluid-material interaction field on the lower foreground. Rebuild the visual language into a Transit x Port direction: cleaner, more controlled, more premium, more systemized, with reduced visual noise, stronger brand-template discipline, and a more architectural expression of motion and material.
+[BRAND]: {brand name}
+[FOOD / DRINK]: {main product}
+[HEADLINE]: {main headline}
+[SUBHEAD]: {short supporting line}
+[DETAILS]: {ingredients / flavor / hours / address / short brand copy}
+[ACCENT COLOR]: {burgundy / forest green / cobalt blue / etc.}
+[LAYOUT]: {diagonal split / annotated flat lay / circular typography / oversized type / other editorial composition}
 
-Core composition:
-Keep a bright ivory-to-warm-white studio background with abundant negative space. The bottle stands upright, front-facing, slightly left of center, commanding the composition. The right side remains a highly disciplined editorial typography zone with elegant vertical spacing and luxury campaign hierarchy. The bottom foreground contains a refined material platform formed by layered amber lacquer, metallic copper traces, and restrained liquid diffusion, anchoring the product physically and visually. Preserve the original left-product / right-type / bottom-material structure exactly, but elevate it into a more premium and deliberate global campaign layout.
+Create a 9:16 vertical food editorial poster that combines highly realistic food photography with expressive magazine-style typography.
 
-Product design:
-Design an original collectible whisky-style bottle with a refined rectangular silhouette, softly rounded shoulders, a heavy glass base, luminous amber liquid, and a deep oxblood or ember-red label with subtle gold foil detailing. The bottle must feel expensive, tactile, real, and photographically believable, with precise glass thickness, refracted highlights, elegant internal glow, realistic cap material, subtle embossing, and premium manufacturing detail. The bottle remains the dominant subject at all times.
+Use a warm ivory or cream paper background with subtle natural paper texture. The food or drink should be the main visual anchor, photographed with realistic texture, natural highlights, contact shadows, appetizing materials and believable proportions. Avoid CGI, plastic-looking surfaces, overly polished commercial rendering or floating cutout objects.
 
-Transit visual logic:
-Replace the highly expressive paint-ribbon energy with a more controlled and flagship-grade material motion system. Instead of chaotic flourish, use sculpted amber vapor trails, translucent resin-like sweeps, thin copper-metallic arcs, and warm liquid-glass flow lines that wrap around the bottle in a quieter but more sophisticated orbit. The movement must feel intentional, restrained, and luxurious, as if the bottle radiates distilled heat, aroma, and craft through premium materialized motion. Keep the atmosphere clean, avoid clutter, and reduce unnecessary splash aggression.
+Build the composition around the actual shape, direction or arrangement of the food rather than placing the product in a fixed template. Let the selected [LAYOUT] determine how photography and typography interact. The subject may crop beyond the frame, overlap with type, divide the page, create a circular structure, form a diagonal axis, or leave intentional negative space for editorial information.
 
-Port visual logic:
-Turn the poster into a reusable luxury brand master layout. The structure should feel like a standardized campaign template for a world-class product line: product hero on the left, official brand block on the right, controlled annotation zones, micro-copy, crest mark, and subtle technical descriptors arranged with perfect spacing. Typography must feel elegant, premium, and internationally published, using refined serif for the main title and a restrained sans-serif or small editorial serif for supporting copy. No crude bold fonts, no messy text, no copied wording.
+Typography should be a major part of the composition. Use one expressive display typeface for the main [HEADLINE] and one restrained supporting typeface for secondary information. Allow changes in scale, orientation, cropping and placement so the text feels integrated with the food rather than simply placed above or below it.
 
-Branding and typography:
-Do not use any real brand names or copied source text. Use original English-only typography. Main title: EMBER CREST. Secondary line: RESERVE No. 01. Supporting copy can include: Distilled Atmosphere, Limited Signature Batch, Crafted for Slow Fire, and a small technical notation system such as Barrel Tone / Copper Finish / Amber Depth. Add a minimal crest-like symbol above the title if appropriate. Typography should be smaller, more elegant, and more luxurious than typical commercial posters, with precise spacing and editorial confidence.
+Keep a clear visual hierarchy:
+large headline and food first, short supporting copy second, then a few useful details such as ingredients, flavor notes, opening hours or address.
 
-Lower material field:
-Construct a clean, art-directed material base beneath and around the bottle using amber resin, thin lacquer membranes, faint metallic copper runoff, and subtle reflective fluid pooling. The interaction must feel premium and physically coherent, never messy. Include realistic wet-edge tension, thin translucent gradients, reflective viscosity, and delicate surface ripples, as if the product sits in a controlled field of distilled essence and molten design language. The lower area should connect visually with the arcs surrounding the bottle, forming a complete and elegant motion loop.
+Use [ACCENT COLOR] sparingly alongside cream, food-derived natural colors and dark neutral typography. Keep the palette controlled and cohesive.
 
-Lighting:
-Use extremely refined studio lighting with soft frontal illumination, warm internal bottle glow, crisp edge highlights, and delicate shadow transitions. The bottle should feel luminous from within, while the surrounding material arcs catch soft gold and copper reflections. The overall light structure must feel expensive, silky, controlled, and physically believable. Avoid flat lighting, muddy contrast, and dead black areas.
+Small editorial elements such as thin rules, dots, curved lines or subtle annotations may be added when useful, but avoid decorative clutter, numbered labels, 01/02, Vol., four-point sparkles, generic filler copy or meaningless microtext.
 
-Material realism:
-Push exceptional realism in glass, liquid, embossed label stock, metallic foil, translucent resin motion, copper traces, and reflective wet surfaces. Every material must have clear physical identity. Preserve extreme sharpness on the bottle edges, cap, label, glass highlights, and key foreground reflections, while allowing the surrounding motion elements to feel softer and more atmospheric. The result should look like elite product photography fused with master-level material installation art.
-
-Color direction:
-Use a restrained premium palette: amber gold, deep ember red, oxblood, warm copper, pale ivory, soft champagne highlights, and controlled shadow neutrals. Keep the image warm, noble, elegant, and unmistakably high-end. The background must stay clean so the product remains visually dominant.
-
-Mood:
-flagship, refined, collectible, editorial, architectural, restrained, luxurious, sculptural, atmospheric, premium, globally award-worthy
-
-Rendering style:
-ultra-realistic luxury product poster, flagship campaign key visual, premium studio photography fused with restrained material sculpture, Transit minimal atmosphere, Port brand-template discipline, elegant editorial typography, master-level glass realism, sophisticated copper-amber motion system, 8k, world-class advertising image quality
-
-Negative prompt:
-real brand names, copied original text, aggressive chaotic paint splash, dirty background, heavy black blocks, cheap CGI, plastic-looking bottle, messy layout, oversized typography, random extra props, low-detail liquid, muddy whites, dead blacks, cluttered annotations, human characters
+The final image should feel like a real café, bakery or food brand campaign: visually bold at thumbnail size, detailed when viewed closely, practical enough for branding or menu use, and designed as a complete poster rather than a reusable-looking template.
 ```
 
 </details>
@@ -2405,7 +2502,7 @@ real brand names, copied original text, aggressive chaotic paint splash, dirty b
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRNsSM1boAEghW5.jpg" width="700" alt="EMBER CREST Luxury Spirit Poster">
+<img src="https://image.moge.ai/prompt_media/HRbci5PbgAA20uA.jpg" width="700" alt="Food Editorial Poster">
 </div>
 
 <br>
@@ -2414,45 +2511,53 @@ real brand names, copied original text, aggressive chaotic paint splash, dirty b
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2095137326443950312) | 2026-09-02 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2096105230303641778) | 2026-09-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095137326443950312)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2096105230303641778)**
 
 </div>
 
 ---
 
-### No. 38: Souvenir Magnet Travel Poster
+### No. 38: Crayon Pastel Split Poster
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Turns a travel photo into a luxury 3:4 editorial poster, with an enamel souvenir magnet on top and the authentic original photo below.
+Turns each photo into a 3:4 poster with the original image on top and a crayon-pastel doodle reinterpretation on light paper below.
 
 #### 🌟 Prompt
 
-Create a premium luxury travel poster using the uploaded travel photo as the single source of truth. Analyze …
+Turn each photo I upload into a separate, high-end design poster—no multi-image collage; output each photo …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a premium luxury travel poster using the uploaded travel photo as the single source of truth. Analyze it first and select one primary subject only: Person, Landmark/Architecture, or Landscape.
+Turn each photo I upload into a separate, high-end design poster—no multi-image collage; output each photo individually. Use an overall 3:4 vertical composition, with the top and bottom regions strictly 1:1 in height, each occupying 50% of the frame.
 
-Use a strict vertical 3:4 layout, split into two equal horizontal sections. Upper half: use one dominant solid color sampled from the photo, with generous negative space. Place one small, realistic die-cut enamel souvenir magnet (20–30% width) extracted directly from the original subject, preserving its silhouette, viewpoint, proportions, colors, and recognizable details. Add a soft natural shadow and thin cream/white border.
+The top half keeps the original photo, preserving the subject's identity, structure, pose, real texture, natural light and shadow, and original color atmosphere, applying only slight high-end color grading to give it the quality of an art magazine, independent publication, and exhibition image. To fit the aspect ratio, the environmental background may be naturally expanded, but the subject must not be stretched, distorted, or altered.
 
-Beneath the magnet, add one elegant handwritten English location/name, only if confidently identifiable; otherwise omit it.
+The bottom half first understands the most memorable **core theme, subject relationships, structural flow, emotion, and visual metaphor** of the original photo, then reconstructs it as a **pastel crayon doodle illustration with vintage paper texture**. Do not copy the photo object by object, nor fully re-render all content; keep only the most representative contours, poses, directions, and visual memory points, and through reduction, generalization, slight exaggeration, and recombination, make the correspondence to the photo above felt at a glance.
 
-Lower half: keep the original photograph completely authentic, allowing only natural cropping. No repainting, regeneration, distortion, object removal, or identity changes.
+The subject uses **coarse-grained chalk / crayon-style hand-drawn contours**: lines slightly thick, loose, and dry, with powdery grain, intermittent color loss, slight wobble, and not-fully-closed edges, with naturally rounded tips. Inside the subject, add only very few pastel color patches, simple grids, stripes, dots, or casual scribbles, hinting at structure with minimal information, without realistic volume or complete detail.
 
-Style: luxury editorial travel postcard, museum souvenir, refined, minimal, timeless, premium paper texture.
+The surrounding small elements use **the same line language** as the subject, but further compressed into doodle symbols recognizable in one or a few strokes. Stars, flowers, plants, objects, environmental cues, or abstract symbols should all be simple, naive, open, and not fully closed, mainly single-line contours with very little fill. Do not draw them as refined icons, stickers, or standalone small illustrations.
 
-Negative: multiple magnets, invented scenery, gradients, illustrations, collage, fake text, logos, watermark, subject changes, face replacement, distorted architecture, regenerated photo.
+The composition keeps the relationship of **small-scale stamps and large areas of white space**, freely arranging placement according to the subject's own direction, proportion, and visual center of gravity—may be off-center, edge-hugging, suspended, or partially cropped. The subject and very few doodle symbols form a loose but clear visual cluster, with the rest of the space deliberately left empty. **The white space itself is the main compositional element**, creating breathing room, distance, and pause through emptiness and fullness, concentration and dispersion, size contrast, and asymmetrical relationships; better to draw less than to fill everything.
+
+The background must use **an extremely pale, bright, clean paper base color**, such as cream white, ivory white, light beige white, pale apricot white, very light grayish white, or a near-white paper color intelligently matched to the original's overall color temperature. The paper retains only very slight fibers and grain, and must not lean brown, yellow, gray, or look aged. **The background brightness must be clearly higher than the subject's lines and color patches, ensuring all crayon contours, small symbols, and text are clearly visible and do not blur into the background.**
+
+The palette extracts **2–4 of the most vivid, most approachable colors that best represent the image's spirit** from the photo above, re-blending them into bright, soft pastel crayon colors. Light colors such as peach pink, apricot orange, cream yellow, mint green, sky blue, and pale purple may naturally emerge; the subject's lines prioritize tones clearer than the background, such as coral pink, soft blue, teal, warm orange, pale purple, or dark cream tones, and small elements repeat these colors only sparingly to create echoes. Overall, maintain the contrast relationship of **pale background + clear colored lines + a few soft color patches**, bright, healing, relaxed, and with a sense of life. Avoid darkness, dirty brown, dull faded Morandi-fication, low contrast, fluorescent colors, and cheap candy feel.
+
+Text intervenes in small amounts, with no language restriction. Short phrases or text fragments may be freely extracted from the subject, action, emotion, memory, or metaphor, using a **light, airy typeset typewriter font with slight uneven letter spacing and old-style mechanical printing errors**, in colors that are clear but not harsh, such as gray-brown, soft black, dark blue-gray, or dark tones echoing the subject, ensuring sufficient legibility on the pale paper. The text scatters naturally in the white space areas, forming a text-image mix with the subject and doodles, with no fixed title template.
+
+Overall, present a high-end healing visual composed of **extremely pale paper, coarse-grained crayon contours, a small amount of pastel fill, minimalist doodle symbols, a small-scale subject, and abundant artistic white space**. The key is to make the subject and small elements clearly emerge on the pale paper while maintaining a loose, innocent, gentle, and mature editorial compositional sense. Avoid dark kraft paper, dark brown backgrounds, low-contrast lines, background and subject blurring together, fine outlining, realistic re-rendering, complex small icons, filled background, smooth vectors, 3D feel, and commercial template look.
 ```
 
 </details>
@@ -2460,7 +2565,7 @@ Negative: multiple magnets, invented scenery, gradients, illustrations, collage,
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRWxsJ1bUAA6_2Y.jpg" width="700" alt="Souvenir Magnet Travel Poster">
+<img src="https://image.moge.ai/prompt_media/HRdrN8waQAAA0X8.jpg" width="700" alt="Crayon Pastel Split Poster">
 </div>
 
 <br>
@@ -2469,13 +2574,13 @@ Negative: multiple magnets, invented scenery, gradients, illustrations, collage,
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Eesha](https://x.com/MissDelulu9) | [X / Twitter](https://x.com/MissDelulu9/status/2095776599841095765) | 2026-09-04 |
+| [小小东](https://x.com/xiaoxiaodong01) | [X / Twitter](https://x.com/xiaoxiaodong01/status/2096262813010600335) | 2026-09-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095776599841095765)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2096262813010600335)**
 
 </div>
 
@@ -2886,124 +2991,32 @@ The visual strength must come from precise geometry, raw mineral concrete, livin
 
 ---
 
-### No. 40: Customizable Premium Editorial Poster
+### No. 40: Oriental Zen Spring Cover
 
 ![Category: Marketing Materials](https://img.shields.io/badge/Category-Marketing%20Materials-lightgrey)
 
 #### 📚 Description
 
-Generates a sophisticated editorial poster for any brand, event or product with strong visual hierarchy, expressive typography and a professional grid composition.
+Creates a minimalist oriental-aesthetic cover featuring a classically dressed woman beside a round floral window, in sweet bright spring tones for social media.
 
 #### 🌟 Prompt
 
-Create a premium, highly engaging editorial poster for [SUBJECT / BRAND / EVENT / PRODUCT], designed around …
+Theme direction: Oriental Zen minimalist cover poster Style branch: bright feminine aesthetic Main subject: a …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a premium, highly engaging editorial poster for [SUBJECT / BRAND / EVENT / PRODUCT], designed around strong visual hierarchy, intentional composition, and immediate 2–3 second readability.
-
-**ART DIRECTION**
-
-Style: [Swiss / Brutalist / Bauhaus / Minimal / Editorial / Futuristic / Architectural / Luxury]
-
-Create a sophisticated contemporary graphic-design aesthetic rather than a generic advertising layout. Every element must have a clear compositional purpose.
-
-**01 — VISUAL HIERARCHY**
-
-Establish a clear viewing sequence:
-
-1. Primary: "[MAIN HEADLINE]"
-2. Secondary: "[HERO SUBJECT / IMAGE / OBJECT]"
-3. Tertiary: "[SUBHEAD / DATE / DETAILS / CTA]"
-
-The main message must remain recognizable even when viewed as a small thumbnail.
-
-**02 — TYPOGRAPHY**
-
-Use typography as an active visual element rather than simple text placement.
-
-Use:
-
-- Oversized display typography
-- Strong differences in scale
-- Tight, intentional kerning
-- Controlled line spacing
-- Strategic cropping
-- Stacking and vertical alignment
-- Selective text/subject overlaps
-- Typographic masking where appropriate
-
-Use maximum 1–2 complementary typefaces.
-
-Primary typography: [BOLD CONDENSED / GROTESK / SERIF / CUSTOM]
-Secondary typography: clean neutral sans-serif.
-
-Keep all important text accurately spelled, readable, and professionally typeset.
-
-**03 — COMPOSITION**
-
-Build the poster using a disciplined editorial grid.
-
-Create:
-
-- One dominant focal point
-- Strong alignment
-- Clear margins
-- Asymmetrical balance where appropriate
-- Controlled tension
-- Intentional negative space
-- One or two elements subtly breaking the grid
-
-Avoid placing every element in the center. Balance visual weight across the entire canvas.
-
-**04 — HERO VISUAL**
-
-Feature [SUBJECT] as the primary visual.
-
-Presentation: "[FULL-BLEED / CUTOUT / 3D / PHOTOGRAPHIC / ILLUSTRATED / PAPER-CUT / ABSTRACT]"
-
-Integrate the subject with the typography using layering, masking, foreground/background relationships, or controlled overlap.
-
-The subject and headline should feel like one unified composition, not an image with text placed on top.
-
-**05 — SCALE**
-
-Use dramatic scale contrast:
-
-Huge: main headline or hero element
-Medium: secondary information
-Small: supporting copy
-Micro: technical/editorial details
-
-Avoid using similar sizes for every element.
-
-**06 — COLOR**
-
-Palette:
-
-Background: "[COLOR]"
-Primary: "[COLOR]"
-Accent: "[COLOR]"
-
-Use a restrained 2–4 color system with one dominant accent.
-
-Prioritize strong tonal contrast and readability.
-
-**07 — DEPTH & LAYERING**
-
-Hierarchy > Typography > Subject > Contrast > Negative Space > Details
-
-**AVOID**
-
-Generic centered layouts, excessive text, random decorative shapes, weak hierarchy, equal-sized elements, excessive fonts, unnecessary gradients, clutter, illegible typography, arbitrary placement, excessive effects, oversaturation, cheap advertising aesthetics, fake logos, watermarks, duplicated objects, malformed typography, and meaningless micro-text.
-
-**OUTPUT**
-
-Aspect ratio: "[4:5 / 2:3 / 3:4 / 9:16 / 16:9]"
-Quality: ultra-high-resolution, print-quality finish
-Layout: balanced from all edges with deliberate margins and professional spacing.
+Theme direction: Oriental Zen minimalist cover poster
+Style branch: bright feminine aesthetic
+Main subject: a woman in classical attire standing beside a round floral window, gently holding a small flowering sprig
+Emotional motif: sweet, bright, relaxed spring vibe
+Scene and imagery: round floral window, lychee-pink blossoms, apple-green leaves, warm white negative-space background, side profile of the woman
+Composition and space: figure at lower right of the frame, round floral window in the upper-center as the main visual, full title area reserved on the left and top
+Color control: cream white as the high-brightness background, lychee pink for blossoms and small accents on the clothing, apple green for leaves and a few plants outside the window, clothing in light beige or light pinkish white; avoid a pink-green filter over the whole image
+Light and texture: bright natural light, clean flat-illustration feel, crisp edges, very light paper texture
+Aspect ratio: 9:16
+Additional requirements: overall should be sweet, with vivid clean colors, suitable for a spring social-media cover, no gray haze or old-paper feel
 ```
 
 </details>
@@ -3011,7 +3024,7 @@ Layout: balanced from all edges with deliberate margins and professional spacing
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HQWyzehaUAAPC6f.jpg" width="700" alt="Customizable Premium Editorial Poster">
+<img src="https://image.moge.ai/prompt_media/HQs9yHjaUAAKNdH.jpg" width="700" alt="Oriental Zen Spring Cover">
 </div>
 
 <br>
@@ -3020,43 +3033,36 @@ Layout: balanced from all edges with deliberate margins and professional spacing
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Shams](https://x.com/ShamsAmin56) | [X / Twitter](https://x.com/ShamsAmin56/status/2091274234370937019) | 2026-08-22 |
+| [李岳](https://x.com/liyue_ai) | [X / Twitter](https://x.com/liyue_ai/status/2092834397464777096) | 2026-08-27 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2091274234370937019)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2092834397464777096)**
 
 </div>
 
 ---
 
-### No. 41: Cute Hand-Drawn Kawaii Sticker Character
+### No. 41: Black Ink Line Art
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Turns a person into a hand-drawn kawaii cartoon character with bold black linework, a pastel palette, and cute cats on a bright yellow background.
+Creates a minimalist black-ink fashion illustration on a white background with loose, expressive strokes and generous negative space.
 
 #### 🌟 Prompt
 
-Cute kawaii hand-drawn character illustration inspired by modern Japanese and Korean sticker artwork. …
-
-<details>
-<summary>Show full prompt</summary>
-
 ```
-Cute kawaii hand-drawn character illustration inspired by modern Japanese and Korean sticker artwork. Transform the person into this charming cartoon style while keeping their distinctive appearance instantly identifiable, including their facial structure, hairstyle, signature features, and natural expression. Use bold, expressive black linework, a gentle cream-and-pastel palette, clean flat coloring, and very subtle shading. Give the character tiny oval eyes, a minimal nose and mouth, soft rosy cheeks, rounded simplified proportions, and a slightly oversized playful head. Add cute cats, tiny doodles, and whimsical decorative elements around the character for a lively sticker-like composition. Place everything against a vivid solid yellow background. Keep the artwork youthful, cheerful, handmade, and slightly imperfect, with clean 2D digital illustration aesthetics. Avoid realism, 3D effects, photorealistic textures, overly detailed anime eyes, or complex rendering.
+Minimalist fashion illustration sketch of a [subject], black ink line art on a pure white background, [dynamic pose], expressive rough hand-drawn strokes, loose fluid lines, monochrome, uncolored, avant-garde editorial aesthetic, generous negative space, isolated composition
 ```
-
-</details>
 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRCSJUUakAAEKFQ.jpg" width="700" alt="Cute Hand-Drawn Kawaii Sticker Character">
+<img src="https://image.moge.ai/prompt_media/HRC7OphawAEK820.jpg" width="700" alt="Black Ink Line Art">
 </div>
 
 <br>
@@ -3065,60 +3071,38 @@ Cute kawaii hand-drawn character illustration inspired by modern Japanese and Ko
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Eesha](https://x.com/MissDelulu9) | [X / Twitter](https://x.com/MissDelulu9/status/2094334540991037600) | 2026-08-31 |
+| [Amira Zairi](https://x.com/azed_ai) | [X / Twitter](https://x.com/azed_ai/status/2094379698105323931) | 2026-08-31 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2094334540991037600)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2094379698105323931)**
 
 </div>
 
 ---
 
-### No. 42: Ethereal Sky-Gaze Portrait
+### No. 42: Nostalgic Polaroid Portrait Collage
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-A cinematic low-angle close-up portrait of a young woman gazing up at the blue sky, hair caught in the breeze under soft natural light.
+Creates a photorealistic editorial collage of two Polaroids of the same young woman in candid portraits, with grainy 2000s film aesthetics.
 
 #### 🌟 Prompt
 
-This is a close-up, low-angle portrait photograph of a young East Asian woman looking upward and slightly to …
+A photorealistic editorial-style two-photo Polaroid collage featuring the same young woman in two different …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-This is a close-up, low-angle portrait photograph of a young East Asian woman looking upward and slightly to her right. The framing focuses tightly on her face, neck, and upper shoulders against a clear, bright blue sky background with soft, diffused natural daylight.
-
-Face and expression:
-
-Soft, smooth skin with a natural, slightly dewy finish and subtle highlights on the cheeks, nose bridge, and forehead.
-Eyes are partially open / softly gazing upward; the visible eye (her left) has a calm, introspective expression with defined but natural eyelashes and light makeup.
-Well-defined eyebrows with a gentle arch.
-Straight nose with a soft tip.
-Full, naturally pink lips, slightly parted so that the upper teeth are just visible. The expression is relaxed and contemplative rather than smiling.
-A few fine strands of hair cross the face, including one thin lock that curves across her right cheek.
-Hair:
-
-Medium-to-dark brown hair with warm undertones, appearing soft and slightly windswept.
-Longer layers frame the face and fall over the shoulders; some strands are lifted by a light breeze, creating a sense of movement.
-Soft side-swept bangs / fringe partially cover the forehead.
-Accessories and clothing:
-
-Small, simple stud earring in the visible (right) ear, with a second tiny earring or piercing just below it.
-She appears to be wearing a dark-colored top or outer garment (likely black or navy), of which only the shoulder and a small portion of the collar area are visible at the bottom of the frame.
-Lighting and composition:
-
-Natural outdoor lighting from above and slightly in front, producing gentle shadows under the chin and along the neck while keeping the face well-illuminated.
-Shallow depth of field: the face is sharp while the sky and edges of the hair fall into soft focus.
-Camera angle is low and tilted upward, emphasizing the jawline, neck, and upward gaze. The composition feels intimate and cinematic.
-Color palette is cool and airy — dominant sky blue contrasted with the warm skin tones and brown hair.
-Overall mood: Calm, ethereal, and slightly dreamy. The upward gaze combined with the wind-blown hair and open sky creates a sense of freedom, contemplation, or quiet confidence.
+A photorealistic editorial-style two-photo Polaroid collage featuring the same young woman in two different candid portraits. She has dark-brown hair styled in a loose, slightly messy updo with soft wispy strands framing her face, warm brown eyes, natural rosy cheeks, and glossy natural lips.
+Top photo: a close-up portrait facing the camera, gently resting both hands against her cheeks with a playful soft pout. She wears a delicate pink camisole with thin black and pink straps and a minimal silver necklace. Soft direct flash creates a clean, nostalgic snapshot look.
+Bottom photo: a relaxed portrait of her looking down and smiling naturally while gently touching her messy bun with one hand. She wears the same pink camisole, subtle necklace, and small earrings.
+Both photographs are printed as slightly imperfect cream-white Polaroid-style frames, arranged vertically with a small overlap on a textured off-white fabric background. Warm neutral backdrop, soft indoor lighting, subtle flash highlights, realistic skin texture, detailed hair strands, delicate facial features, authentic film grain, slight vintage color fade, nostalgic 2000s photo aesthetic, natural imperfections, high-detail photorealism, vertical 4:5 composition.
 ```
 
 </details>
@@ -3126,7 +3110,7 @@ Overall mood: Calm, ethereal, and slightly dreamy. The upward gaze combined with
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRMj1EHaMAATeWs.jpg" width="700" alt="Ethereal Sky-Gaze Portrait">
+<img src="https://image.moge.ai/prompt_media/HRV3wVKbYAACp1b.jpg" width="700" alt="Nostalgic Polaroid Portrait Collage">
 </div>
 
 <br>
@@ -3135,77 +3119,73 @@ Overall mood: Calm, ethereal, and slightly dreamy. The upward gaze combined with
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Feyber](https://x.com/woleswoosh) | [X / Twitter](https://x.com/woleswoosh/status/2095391338938106149) | 2026-09-03 |
+| [Aqsa](https://x.com/Aqsahere_) | [X / Twitter](https://x.com/Aqsahere_/status/2095712883615338664) | 2026-09-04 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095391338938106149)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095712883615338664)**
 
 </div>
 
 ---
 
-### No. 43: LIVARA FLOW Wellness Livestream Poster
+### No. 43: Premium Granola Poster with Central Spoon
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a premium wellness live-platform ad poster with an athletic creator partially enclosed by a 3D screen frame, coral yoga mat, and livestream UI elements.
+Creates a luxury editorial poster for a granola brand, with a central hero spoon and ingredients in a refined circular orbit.
 
 #### 🌟 Prompt
 
-Create a Cannes-level advertising poster for an original premium wellness live-platform brand named LIVARA …
+Create a Cannes-level flagship advertising poster for an original premium granola brand named AURAGRAIN, …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a Cannes-level advertising poster for an original premium wellness live-platform brand named LIVARA FLOW, built with strong Orbit visual logic and a polished creator-livestream structure. Use a wide horizontal composition with a clean luminous lavender background, one realistic athletic young woman centered in the scene, and a large premium 3D screen frame acting as the main structural anchor. The key requirement is that part of the woman must be visually enclosed by the frame, while another part naturally extends outside it, as if her body is partially threaded through the screen. The final image must feel fresh, interactive, dimensional, commercially sharp, and globally premium, while keeping the wellness products and creator identity visually dominant.
+Create a Cannes-level flagship advertising poster for an original premium granola brand named AURAGRAIN, featuring the product Honey Cinnamon Oat Granola. Build the image with a refined Orbit composition and a cooler, more international editorial aesthetic.
 
 Core composition:
-Use a soft bright lavender studio background with no clutter. Place one healthy young woman in the center, front-facing with a slight natural body angle and a warm, confident smile. A large silver-white 3D livestream screen frame sits around her upper body. Important spatial logic: part of her torso, waist, and one arm must remain visually inside the frame, clearly enclosed by it, while part of her shoulder, forearm, yoga mat, and one side of her body extend forward outside the frame. The body should feel partially wrapped or slotted through the frame rather than simply standing in front of it. This creates a clear in-frame / out-of-frame dimensional effect.
-
-Orbit visual logic:
-Design the whole poster as a closed attention loop. The viewer first notices the woman’s face and smile, then the coral-red rolled yoga mat, then the sleek hydration bottle, then the edges of the 3D frame, then the glowing LIVE indicator, then the floating comment bars and reaction elements, and finally the eye returns back toward the woman’s face and the held products. Every UI component, highlight direction, and object angle must support this circulation path. The woman and products remain the center of gravity.
+A vertical luxury food campaign poster with a soft mineral-off-white background, subtle natural paper texture, very clean negative space, and a calm premium atmosphere. In the exact center, place a polished silver spoon vertically as the hero object, filled with ultra-realistic honey cinnamon granola. The spoon must dominate the composition and feel precise, sculptural, and appetizing.
 
 Hero product logic:
-The hero products are a premium rolled yoga mat and a sleek insulated wellness bottle held naturally by the woman. The yoga mat must feel tactile and high-end, with crisp rolled edges, refined foam texture, and a vivid coral-red tone that energizes the composition. The bottle should feel elegant and expensive, with a soft matte coating, minimalist branding, and realistic cylindrical form. Both products must read instantly as real physical objects and not as secondary props.
+Inside the spoon, show detailed toasted oat flakes, compact crunchy granola clusters, roasted almond pieces, and a restrained glossy honey-coated texture. The food must feel authentic, premium, dry-crisp yet lightly glazed, with real commercial food-photography detail. No mess, no excessive crumbs, no rustic chaos.
 
-Creator livestream system:
-Use a large clean 3D monitor-like frame with a small red session tab above it and a glowing red LIVE indicator in the upper-right of the screen. Add a subtle playback-control strip along the lower part of the frame. Place two or three elegant horizontal comment bars across the lower foreground, partially overlapping the frame. Add a premium thumbs-up icon on one side and one or two refined emoji-style reaction badges near the lower right. All interface elements must feel dimensional, polished, and premium, integrated into the scene rather than pasted on.
+Orbit structure:
+Arrange 4 key ingredient elements around the spoon in a controlled circular flow: oat flakes, granola clusters, roasted almonds, and a small drop of golden honey. Their placement should create a subtle closed-loop visual rhythm around the spoon, guiding the eye in an elegant orbit. Use very thin refined directional lines and understated curved graphic gestures to connect the surrounding ingredients back toward the center. The orbit should feel intentional, premium, and quiet, not playful or messy.
 
 Typography system:
-Do not copy any source text. Create a fully original English-only communication system. On the left side, place a bold editorial headline such as:
-MOVE
-LIVE
-BETTER
-with a refined supporting line below, for example:
-Wellness becomes presence.
-Use a premium modern sans-serif with controlled spacing, white typography accented by coral-red emphasis. In the upper-right corner, place a small website. Add subtle micro labels like FLOW SESSION or LIVE NOW only if needed. Typography must feel global, digital-native, and elegant.
+Use a highly refined international typography layout. Replace any overly casual rustic feeling with a more elevated editorial balance:
 
-Female figure and anatomy:
-Use a realistic healthy young woman with accurate anatomy, natural head-neck-shoulder proportion, relaxed confident posture, and correct hands with five clean, well-formed fingers. She wears premium fitted activewear in blush pink and charcoal gray. Skin must feel natural and de-AI-ed, with believable texture, realistic tone transitions, and no plastic smoothing. Her expression should feel open, energetic, and trustworthy, like a wellness creator greeting an audience in real time.
+- Large elegant custom script headline near the upper center-left: “Awaken”
+- Small uppercase sans-serif line beneath it: “CLEAN ENERGY. QUIET LUXURY.”
+- Small refined flavor descriptor at the upper right: “honey cinnamon”
+- Minimal ingredient annotations placed near each ingredient in tiny sophisticated English editorial type:
+  “slow-toasted oats”
+  “granola crunch”
+  “roasted almonds”
+  “pure honey glaze”
 
-Lighting:
-Use soft premium studio lighting with gentle frontal illumination, flattering facial highlights, subtle contouring on the shoulders and arms, clean reflections on the bottle, and controlled highlights on the 3D frame. The lighting must feel bright, healthy, and polished, with smooth transitions and no dirty shadows or dead black patches.
+Typography must feel art-directed, airy, and premium, with beautiful spacing and hierarchy. No heavy fonts, no cheap health-product design, no crowded copy.
 
-Material realism:
-Render the yoga mat, bottle, activewear fabric, UI frame, icons, and comment strips with exceptional realism. The mat should show believable micro texture and soft compression. The bottle should show elegant matte finish and subtle reflections. The 3D frame must have crisp edges, soft contact shadows, and convincing spatial presence. Add one or two minimal rounded geometric accent forms in the background to support the futuristic wellness atmosphere.
+Branding:
+Place a minimal AURAGRAIN logo in the upper left corner, understated and official. Add a very small net weight line in the lower right corner. Branding should feel discreet, international, and luxury-natural.
 
-Color direction:
-Use a premium palette of soft lavender, pale violet, coral red, blush pink, silver-white, healthy skin tones, and restrained charcoal accents. The coral mat should act as a key energy point within the Orbit loop. The full image must feel optimistic, feminine, healthy, modern, and highly marketable.
+Lighting and color:
+Soft controlled studio lighting with gentle highlights and quiet shadows. Color palette should be cooler and more restrained than rustic breakfast advertising: mineral ivory, oat beige, muted almond brown, soft cinnamon tan, pale honey amber, brushed silver. Avoid overly warm farmhouse tones. The final image should feel calm, premium, modern, and globally polished.
+
+Visual quality:
+Ultra-realistic commercial food rendering, premium FMCG key visual, elegant ingredient isolation, crisp texture definition, believable metallic spoon reflections, subtle tactile shadows, clean layout, sophisticated negative space, international wellness-brand campaign aesthetic.
 
 Mood:
-fresh, uplifting, orbit-driven, creator-led, premium, healthy, elegant, interactive, dimensional, polished, commercial
-
-Rendering style:
-ultra-realistic wellness advertising poster, premium creator livestream campaign, athletic woman partially enclosed by 3D screen frame and partially extending outward, realistic yoga mat and insulated bottle, polished live UI interaction elements, soft lavender studio environment, global commercial design quality, 8k, master-level product lifestyle rendering
+Quiet confidence, premium nutrition, modern restraint, editorial elegance, clean appetite appeal, luxury naturalism.
 
 Negative prompt:
-real brand names, copied source text, ugly generic fonts, cluttered layout, cheap UI stickers, simple full-body out-of-frame pose, weak frame interaction, distorted hands, extra fingers, fused fingers, broken anatomy, plastic skin, malformed limbs, muddy lavender background, weak product focus, low-detail yoga mat, flat lighting, random props, low-resolution interface elements
+rustic farmhouse styling, cluttered layout, cheap packaging look, noisy annotations, playful doodles, messy crumbs, oversaturated warm tones, ugly bold fonts, plastic-looking oats, fake honey, dirty background, crowded composition, low-end organic branding, blurry food texture, distorted spoon, casual supermarket flyer aesthetic
 ```
 
 </details>
@@ -3213,7 +3193,7 @@ real brand names, copied source text, ugly generic fonts, cluttered layout, chea
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRNsFbRbIAA-Z66.jpg" width="700" alt="LIVARA FLOW Wellness Livestream Poster">
+<img src="https://image.moge.ai/prompt_media/HRYM12WagAAkn0B.jpg" width="700" alt="Premium Granola Poster with Central Spoon">
 </div>
 
 <br>
@@ -3222,61 +3202,55 @@ real brand names, copied source text, ugly generic fonts, cluttered layout, chea
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2095137115889918381) | 2026-09-02 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2095876859758002398) | 2026-09-04 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095137115889918381)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095876859758002398)**
 
 </div>
 
 ---
 
-### No. 44: Perspective Typography Poster
+### No. 44: Bold Japanese Editorial Poster
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Creates a high-impact vertical poster where oversized type becomes the spatial structure of the scene, integrating letterforms into roads, stairs or corridors in perspective.
+Creates a Japanese cultural poster where giant typography and imagery interlock, with strong scale contrast and museum-grade editorial design.
 
 #### 🌟 Prompt
 
-TITLE: [e.g. RUN THROUGH / SHIFT / ASCEND / IDEAS HAVE WEIGHT] PROJECT NAME: [brand / campaign / editorial / …
+【Theme】{fill in the theme} 【Chinese title】{fill in 2–4 characters} 【English title】{fill in short English} …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-TITLE: [e.g. RUN THROUGH / SHIFT / ASCEND / IDEAS HAVE WEIGHT]
-PROJECT NAME: [brand / campaign / editorial / exhibition]
-SCENE: [city road / architectural corridor / concrete stairs / abstract typographic space]
-SUBJECT: [runner / fashion figure / climber / small human figure / none]
-PERSPECTIVE TYPE: [road depth / folded surface / stepped perspective / type-built space]
-MAIN COLOR: [one strong accent color]
-SUPPORTING TEXT: [location / date / short tagline]
-FORMAT: 9:16 vertical poster
+【Theme】{fill in the theme}
+【Chinese title】{fill in 2–4 characters}
+【English title】{fill in short English}
+【Core subject】{person / object / classical image / product / scene, etc.}
+【Layout mechanism】{old image × fluorescent giant type / giant-type architecture × subject interpenetration / person × geometric slices / monochrome field × ultra-thin vertical axis / other}
+【Main color】{fill in}
+【Accent color】{fill in}
+【Information density】{low / medium / high}
+【Aspect ratio】9:16
 
-Create a high-impact perspective typography poster where oversized type becomes the main spatial structure of the image.
+Generate a text-and-image poster with the refinement of a mature Japanese art museum, cultural publications, and Editorial Graphic Design. Do not apply the fixed "title + main image + info bar" template; instead, based on the 【Layout mechanism】, first establish a sufficiently striking visual action so that text, image, color blocks, and subject truly participate in the same composition.
 
-The composition should be built around one clear perspective system. Let the main word stretch, compress, fold or recede into space depending on the scene, so the typography feels physically integrated into the environment rather than placed on top of it.
+Typography must become the visual structure. The Chinese or English title may be extremely enlarged, run off the edge, misalign, cross zones, be occluded by the subject, or conversely press down on the subject; allow the subject to enter the negative space of the letterforms, so that "type" and "image" create interpenetration, occlusion, and front-to-back layering. Establish an obvious scale contrast: giant title × strong subject × tiny Micro Typography; do not keep all text at similar sizes.
 
-Use the title as the dominant visual element, occupying roughly 35–60% of the composition. The letterforms should feel bold, clean and highly legible, while also creating strong depth and directional movement.
+The image may be boldly cropped, with no requirement to show the subject in full. Depending on the subject matter, use old paintings, archival photography, portraits, objects, plants, or other visual materials, but each poster keeps only one strongest subject and one strongest compositional conflict. Information density should be locally concentrated: dates, English subtitles, short phrases, and micro annotations may grow naturally along edges, color blocks, letterforms, or the subject; do not spread them evenly, and do not make a card UI.
 
-If the scene is a road, let the word extend along the ground toward a vanishing point.
-If the scene is an architectural corridor, let the typography continue across floor and wall planes.
-If the scene is stairs, let the letters break naturally across the steps while still reading clearly from the chosen viewpoint.
-If the scene is abstract typographic space, let the word itself construct the spatial perspective.
+Keep the palette within 2–4 main color families; boldly use combinations of fluorescent pink, vermilion, orange, teal, black and white, letting traditional imagery clash with modern colors; you may also use a large monochrome field, keeping only minimal subject and text. Slight paper texture, print overprint feel, or handmade traces are allowed, but no heavy aging, grime, or noise.
 
-If a person is included, keep them secondary and use them as a scale anchor. They should interact naturally with the typographic space by running through it, walking across it, climbing it, or standing within it.
+The final effect should look like a genuinely art-directed Japanese cultural poster: bold text-image relationships, layout with personality, information that is rich yet orderly, each piece with its own independent visual action, rather than the same template with swapped content.
 
-Use a restrained palette with one strong accent color and a clean editorial layout. Add only a small amount of secondary information such as project name, date, location and one short thematic line.
-
-Overall style: perspective typography, oversized type, editorial poster design, architectural composition, strong depth, clean hierarchy, bold visual impact.
-
-Avoid floating text, weak perspective, random distortion, decorative 3D effects, excessive filler copy, cluttered backgrounds, watermarks and numbering.
+Avoid: plain title-on-top image-below, regular grids, card UI, PPT-style info modules, left-right symmetry, all subjects fully centered, meaningless English, random gibberish, excessive CG, cheap retro filters, numbering 01 / 02 / Vol., four-point star flares, and sparkle.
 ```
 
 </details>
@@ -3284,7 +3258,7 @@ Avoid floating text, weak perspective, random distortion, decorative 3D effects,
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRWP6iGXYAImJ0g.jpg" width="700" alt="Perspective Typography Poster">
+<img src="https://image.moge.ai/prompt_media/HRda289XwAQiLYP.jpg" width="700" alt="Bold Japanese Editorial Poster">
 </div>
 
 <br>
@@ -3293,13 +3267,13 @@ Avoid floating text, weak perspective, random distortion, decorative 3D effects,
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2095743199511773506) | 2026-09-04 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2096246567875260696) | 2026-09-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095743199511773506)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2096246567875260696)**
 
 </div>
 
@@ -3515,47 +3489,124 @@ No decorative particles.
 
 ---
 
-### No. 46: Oriental Herbal Tea Poster
+### No. 46: Customizable Premium Editorial Poster
 
 ![Category: Marketing Materials](https://img.shields.io/badge/Category-Marketing%20Materials-lightgrey)
 
 #### 📚 Description
 
-Creates a 9:16 Oriental herbal tea culture poster blending bold folk-style handwritten type, soft watercolor botanical illustration, tea utensils, and layered background shapes on aged paper.
+Generates a sophisticated editorial poster for any brand, event or product with strong visual hierarchy, expressive typography and a professional grid composition.
 
 #### 🌟 Prompt
 
-【Theme tea drink】: 【Core herb/fruit】: 【Auxiliary ingredients】: 【Main title】: 【Tea ware】: 【Main color】: …
+Create a premium, highly engaging editorial poster for [SUBJECT / BRAND / EVENT / PRODUCT], designed around …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-【Theme tea drink】:
-【Core herb/fruit】:
-【Auxiliary ingredients】:
-【Main title】:
-【Tea ware】:
-【Main color】:
-【Background design element】: e.g. rouge-toned base shape / apricot-toned base shape / layered mountain silhouettes / giant faded character
-【Auxiliary text】:
-【Seal text】:
+Create a premium, highly engaging editorial poster for [SUBJECT / BRAND / EVENT / PRODUCT], designed around strong visual hierarchy, intentional composition, and immediate 2–3 second readability.
 
-Generate a 9:16 Oriental herbal tea culture poster.
+**ART DIRECTION**
 
-Use a light beige-gray paper background overall, with natural paper fibers, slight old-print grain, and handmade paper texture; keep the image clean and restrained, not overly yellowed.
+Style: [Swiss / Brutalist / Bauhaus / Minimal / Editorial / Futuristic / Architectural / Luxury]
 
-On the left, use a large bold black Chinese title 【Main title】, in a squarish, clumsy, heavy handwritten art typeface with a folk hand-carved feel: wide flat structure, thick horizontal and vertical strokes, hard turns, local irregular distortions, dense ink with slight ink starvation. No elegant calligraphy, running/semi-cursive script, or modern print fonts; let the text itself be the main compositional element.
+Create a sophisticated contemporary graphic-design aesthetic rather than a generic advertising layout. Every element must have a clear compositional purpose.
 
-Use the 【Core herb/fruit】 as the subject, paired with the 【Auxiliary ingredients】, rendered as flat Oriental soft-color botanical illustration. Plant structure clear but moderately simplified, low-saturation colors, simplified shading, light watercolor bleed, and old-print feel; no realistic botanical photography or precise scientific drawing.
+**01 — VISUAL HIERARCHY**
 
-Behind the main plant, add the 【Background design element】, using low-saturation, low-opacity flat color blocks, ink mountain silhouettes, giant faded characters, or irregular paper shapes to form visual layering, letting the background participate in the composition rather than being a blank backing.
+Establish a clear viewing sequence:
 
-In the lower-middle area, add the 【Tea ware】 and a few scattered tea leaves, petals, fruits, or dried ingredients. The tea ware uses flat soft color with a slight cut-paper texture, loose outlines, simplified materials, very light shadows, like a still-life illustration on old tea packaging, not realistic product photography.
+1. Primary: "[MAIN HEADLINE]"
+2. Secondary: "[HERO SUBJECT / IMAGE / OBJECT]"
+3. Tertiary: "[SUBHEAD / DATE / DETAILS / CTA]"
 
-On the right, add a few small vertical Chinese captions 【Auxiliary text】 as a secondary information layer. Insert 1–2 cinnabar-red seals 【Seal text】, with slightly crooked, incomplete, ink-starved borders and uneven ink-paste density, keeping an authentic hand-carved seal feel; no standard tidy square icons.
+The main message must remain recognizable even when viewed as a small thumbnail.
 
-Maintain a unified visual language of "bold black folk lettering × soft botanical color × tea-ware still life × layered base shapes × old-paper printing" throughout. The composition should be rich but not crowded; each piece can vary the plant direction, color-block shapes, mountain layers, tea-ware position, and text layout, keeping the series consistent while avoiding a templated look.
+**02 — TYPOGRAPHY**
+
+Use typography as an active visual element rather than simple text placement.
+
+Use:
+
+- Oversized display typography
+- Strong differences in scale
+- Tight, intentional kerning
+- Controlled line spacing
+- Strategic cropping
+- Stacking and vertical alignment
+- Selective text/subject overlaps
+- Typographic masking where appropriate
+
+Use maximum 1–2 complementary typefaces.
+
+Primary typography: [BOLD CONDENSED / GROTESK / SERIF / CUSTOM]
+Secondary typography: clean neutral sans-serif.
+
+Keep all important text accurately spelled, readable, and professionally typeset.
+
+**03 — COMPOSITION**
+
+Build the poster using a disciplined editorial grid.
+
+Create:
+
+- One dominant focal point
+- Strong alignment
+- Clear margins
+- Asymmetrical balance where appropriate
+- Controlled tension
+- Intentional negative space
+- One or two elements subtly breaking the grid
+
+Avoid placing every element in the center. Balance visual weight across the entire canvas.
+
+**04 — HERO VISUAL**
+
+Feature [SUBJECT] as the primary visual.
+
+Presentation: "[FULL-BLEED / CUTOUT / 3D / PHOTOGRAPHIC / ILLUSTRATED / PAPER-CUT / ABSTRACT]"
+
+Integrate the subject with the typography using layering, masking, foreground/background relationships, or controlled overlap.
+
+The subject and headline should feel like one unified composition, not an image with text placed on top.
+
+**05 — SCALE**
+
+Use dramatic scale contrast:
+
+Huge: main headline or hero element
+Medium: secondary information
+Small: supporting copy
+Micro: technical/editorial details
+
+Avoid using similar sizes for every element.
+
+**06 — COLOR**
+
+Palette:
+
+Background: "[COLOR]"
+Primary: "[COLOR]"
+Accent: "[COLOR]"
+
+Use a restrained 2–4 color system with one dominant accent.
+
+Prioritize strong tonal contrast and readability.
+
+**07 — DEPTH & LAYERING**
+
+Hierarchy > Typography > Subject > Contrast > Negative Space > Details
+
+**AVOID**
+
+Generic centered layouts, excessive text, random decorative shapes, weak hierarchy, equal-sized elements, excessive fonts, unnecessary gradients, clutter, illegible typography, arbitrary placement, excessive effects, oversaturation, cheap advertising aesthetics, fake logos, watermarks, duplicated objects, malformed typography, and meaningless micro-text.
+
+**OUTPUT**
+
+Aspect ratio: "[4:5 / 2:3 / 3:4 / 9:16 / 16:9]"
+Quality: ultra-high-resolution, print-quality finish
+Layout: balanced from all edges with deliberate margins and professional spacing.
 ```
 
 </details>
@@ -3563,7 +3614,7 @@ Maintain a unified visual language of "bold black folk lettering × soft botanic
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HQT7MSWbAAAuysc.jpg" width="700" alt="Oriental Herbal Tea Poster">
+<img src="https://image.moge.ai/prompt_media/HQWyzehaUAAPC6f.jpg" width="700" alt="Customizable Premium Editorial Poster">
 </div>
 
 <br>
@@ -3572,36 +3623,43 @@ Maintain a unified visual language of "bold black folk lettering × soft botanic
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2091072492068843789) | 2026-08-22 |
+| [Shams](https://x.com/ShamsAmin56) | [X / Twitter](https://x.com/ShamsAmin56/status/2091274234370937019) | 2026-08-22 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2091072492068843789)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2091274234370937019)**
 
 </div>
 
 ---
 
-### No. 47: Retro Mid-Century Illustration
+### No. 47: Cute Hand-Drawn Kawaii Sticker Character
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Creates a retro mid-century illustration of any subject with geometric shapes, muted palette, and vintage print textures in a 1950s editorial style.
+Turns a person into a hand-drawn kawaii cartoon character with bold black linework, a pastel palette, and cute cats on a bright yellow background.
 
 #### 🌟 Prompt
 
+Cute kawaii hand-drawn character illustration inspired by modern Japanese and Korean sticker artwork. …
+
+<details>
+<summary>Show full prompt</summary>
+
 ```
-A retro mid-century modern illustration of a [subject], composed with geometric shapes, muted [color1] and [color2] palettes, and vintage print textures. Clean editorial composition, stylish 1950s design aesthetic.
+Cute kawaii hand-drawn character illustration inspired by modern Japanese and Korean sticker artwork. Transform the person into this charming cartoon style while keeping their distinctive appearance instantly identifiable, including their facial structure, hairstyle, signature features, and natural expression. Use bold, expressive black linework, a gentle cream-and-pastel palette, clean flat coloring, and very subtle shading. Give the character tiny oval eyes, a minimal nose and mouth, soft rosy cheeks, rounded simplified proportions, and a slightly oversized playful head. Add cute cats, tiny doodles, and whimsical decorative elements around the character for a lively sticker-like composition. Place everything against a vivid solid yellow background. Keep the artwork youthful, cheerful, handmade, and slightly imperfect, with clean 2D digital illustration aesthetics. Avoid realism, 3D effects, photorealistic textures, overly detailed anime eyes, or complex rendering.
 ```
+
+</details>
 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HQ8RX7TaoAA4SLd.jpg" width="700" alt="Retro Mid-Century Illustration">
+<img src="https://image.moge.ai/prompt_media/HRCSJUUakAAEKFQ.jpg" width="700" alt="Cute Hand-Drawn Kawaii Sticker Character">
 </div>
 
 <br>
@@ -3610,35 +3668,35 @@ A retro mid-century modern illustration of a [subject], composed with geometric 
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Zephyra Leigh](https://x.com/ZephyraLeigh) | [X / Twitter](https://x.com/ZephyraLeigh/status/2093911640488198223) | 2026-08-30 |
+| [Eesha](https://x.com/MissDelulu9) | [X / Twitter](https://x.com/MissDelulu9/status/2094334540991037600) | 2026-08-31 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2093911640488198223)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2094334540991037600)**
 
 </div>
 
 ---
 
-### No. 48: Golden Hour Shadow Portrait
+### No. 48: Handcrafted Miniature Food Scene
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-A cinematic close-up portrait of a young woman in golden hour light, with dramatic slatted shadows cast across her face.
+Creates a cozy editorial photo of a handcrafted miniature dish in a stop-motion aesthetic with soft natural light and charming clay and paper details.
 
 #### 🌟 Prompt
 
-A close-up cinematic portrait of a young woman with natural beauty, hazel eyes, and slightly parted lips. Her …
+Create a charming handcrafted miniature food scene featuring [FOOD / DISH] as the main focal point. Arrange …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-A close-up cinematic portrait of a young woman with natural beauty, hazel eyes, and slightly parted lips. Her wavy, warm-brown hair is loosely tied back with soft, messy tendrils framing her face. She is wearing a fitted black ribbed knit mock-neck top. Golden hour sunlight streams through a window, casting sharp, dramatic slatted shadow patterns diagonally across her face and neck. High-contrast chiaroscuro lighting, warm golden tones with deep shadows, visible skin texture and subtle freckles, shot on 85mm f/1.4 lens, shallow depth of field, soft muted background, moody editorial photography.
+Create a charming handcrafted miniature food scene featuring [FOOD / DISH] as the main focal point. Arrange the food beautifully on a simple ceramic plate with tiny complementary ingredients naturally placed around it. Add a small drink, miniature wooden spoon and fork, a linen napkin, scattered ingredients, tiny flowers or leaves, and a few playful handmade decorative details. Include a small handwritten paper note with a short phrase related to the food, creating a cozy visual story. Use soft natural daylight, a clean warm-white textured background, gentle shadows, delicate pastel and earthy tones, tactile clay and paper textures, tiny handmade imperfections, minimal Scandinavian-inspired composition, whimsical stop-motion aesthetic, cozy editorial food photography, highly detailed, elegant negative space, 4:5 vertical.
 ```
 
 </details>
@@ -3646,7 +3704,7 @@ A close-up cinematic portrait of a young woman with natural beauty, hazel eyes, 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HROk6DfbcAANuUX.jpg" width="700" alt="Golden Hour Shadow Portrait">
+<img src="https://image.moge.ai/prompt_media/HRVu9G2bkAAu7GO.jpg" width="700" alt="Handcrafted Miniature Food Scene">
 </div>
 
 <br>
@@ -3655,65 +3713,75 @@ A close-up cinematic portrait of a young woman with natural beauty, hazel eyes, 
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | [X / Twitter](https://x.com/afrinxai/status/2095318609287393715) | 2026-09-03 |
+| [simeon-sanai](https://x.com/Naiknelofar788) | [X / Twitter](https://x.com/Naiknelofar788/status/2095703211374219472) | 2026-09-04 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095318609287393715)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095703211374219472)**
 
 </div>
 
 ---
 
-### No. 49: Full-Bleed Forced Perspective Poster
+### No. 49: Orbit Mocha Shake Ad Poster
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a full-bleed editorial campaign poster with realistic photography, oversized colored typography, and strong forced perspective connected to the action.
+Creates a premium cafe poster with a takeaway cup on the left and a surreal coffee, cream, and cookie explosion on the right against a mint background.
 
 #### 🌟 Prompt
 
-Theme: {automotive / travel / sport / urban / photography / etc.} Brand / Event: {name} Main word: {short …
+Create a Cannes-level flagship dessert-beverage advertising poster for an original premium cafe brand named …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Theme: {automotive / travel / sport / urban / photography / etc.}
-Brand / Event: {name}
-Main word: {short bold keyword}
-Person: {adult character, outfit, vibe}
-Interactive object: {steering wheel / suitcase / barbell / phone / camera / etc.}
-Action: {natural interaction}
-Typography color: {acid lime / orange / vermilion / violet / cyan / etc.}
-Environment: {car / terminal / gym / metro / street / etc.}
-Aspect ratio: 9:16
+Create a Cannes-level flagship dessert-beverage advertising poster for an original premium cafe brand named CREMA BLOOM, featuring the hero product MOCHA CLOUD SHAKE. Build the image with strong Orbit visual logic and a more elevated global launch-key-visual attitude: on the left, a clean branded takeaway cup with a whipped cream top and a bold stacked title block; on the right, a surreal enlarged ingredient spectacle where coffee liquid, whipped cream, and soft sandwich-cookie shells explode and swirl together in midair. The final artwork must feel ultra-real, sculptural, reduced, and internationally premium, with the drink as the commercial anchor and the ingredient explosion as the appetite trigger.
 
-Create a clean full-bleed editorial campaign poster with realistic photography, oversized colored typography, and strong connected forced perspective.
+Core composition:
+Use a wide horizontal poster with a clean cool mint or aqua background and a subtle tabletop plane along the bottom. The layout should be visually divided into two zones: the left side contains the branded cup and the large headline, while the right side holds the monumental suspended ingredient explosion. Keep the composition balanced, spacious, and highly readable, with a premium billboard-style simplicity.
 
-The foreground object must be the same object the person is naturally holding, operating, pulling, or using. Keep a clear physical connection:
+Orbit visual logic:
+Design the poster as a closed premium visual loop. The eye should begin at the whipped top of the takeaway cup on the left, move upward and inward through the headline block, travel into the right-side central whipped cream spiral, follow the glossy coffee splash arcs around the ingredient burst, and then curve back toward the left through the lower visual weight of the composition, returning to the cup body and brand area. Every major curve and highlight must support this circulation. The composition should feel dynamic but controlled.
 
-body → arm → hand → object.
+Hero product logic:
+The true commercial hero is the premium takeaway coffee-dessert shake. Place one branded paper cup on the left standing upright on the tabletop, with a creamy whipped top or soft-serve-like peak emerging from the lid opening. The cup must feel physically real, premium, and globally marketable, with clean graphic branding, believable paper texture, subtle chill or condensation feel, and elegant color blocking. The cup must clearly anchor the entire campaign.
 
-Use a 20–28mm wide-angle perspective. The object appears oversized only because it is extremely close to the camera. Keep the grip, anatomy, object structure, and perspective realistic.
+Ingredient spectacle:
+On the right side, create a giant floating flavor composition where two large cocoa-brown sandwich-cookie or coffee-macaron-like shells appear separated, with whipped cream and glossy coffee splash erupting between them. The central splash must feel like rich mocha liquid colliding upward around a swirl of white cream, with droplets and arcs flying outward in a dynamic but controlled way. The spectacle should imply that the indulgent core of the drink lives inside this suspended flavor world.
 
-Place one huge condensed sans-serif keyword behind the subject using the selected bold color. Let the person, arm, and foreground object naturally overlap the letters to create depth.
+Flavor and material realism:
+Render the coffee splash with exceptional realism: translucent brown liquid, glossy reflections, believable viscosity, droplet variation, and smooth dynamic tension. The whipped cream must feel dense, airy, and premium, with sharp spiral ridges and soft highlights. The cookie shells should feel lightly textured, soft yet structured, with cocoa dusting and subtle baked surface detail. Every element must look edible, premium, and hyper-real.
 
-Use a continuous full-bleed environment from top to bottom. The street, floor, vehicle interior, terminal, gym, or architecture should extend all the way to the bottom edge.
+Typography and branding:
+Do not use any real brand names or copied source text. Use original English-only typography because this is an overseas-style beverage campaign. On the left side, next to or above the product cup, place a bold stacked title block:
+BEST
+INSIDE
+THE
+MOCHA
+Use expressive handcrafted or premium playful bold lettering in a deep cocoa tone. Keep it large, graphic, and highly legible. On the cup, use the brand name:
+CREMA BLOOM
+In the lower-right corner, place only a very small, understated, signature-like brand mark or monogram, reduced enough that it functions as a quiet identity cue rather than a visual element. No extra body copy.
 
-Do not add a separate footer band. Place bottom text directly over the scene.
+Lighting:
+Use bright premium studio lighting with soft frontal illumination and controlled highlights that make the whipped cream glow and the coffee splash shine. The cup must feel clearly lit and readable, while the ingredient spectacle should have dimensional highlights and crisp edge separation. The mint background should stay smooth, fresh, and uncluttered.
 
-Keep supporting information minimal and meaningful: brand, date, location, category, short specs, or action phrases.
+Color direction:
+Use a tightly controlled premium palette of cool mint blue, coffee brown, cream white, soft beige, and subtle warm caramel highlights. The contrast between the fresh background and the rich mocha ingredients must create the poster's commercial energy.
 
-Keep the person clean, sharp, and realistic with even skin tone, subtle pores, soft directional light, and natural matte-to-satin skin. Keep the face, hands, and foreground object sufficiently clear.
+Mood:
+playful, orbit-driven, indulgent, premium, fresh, sculptural, reduced, globally polished, commercially irresistible, globally award-worthy
 
-Avoid duplicated or floating objects, disconnected limbs, incorrect grips, distorted anatomy, oily or blotchy skin, excessive decoration, meaningless filler text, complex UI, CGI skin, and bottom footer bands.
+Rendering style:
+ultra-realistic flagship cafe beverage advertising poster, Orbit-driven mocha shake key visual, left-side takeaway cup hero, right-side coffee splash and cream ingredient explosion, cool mint background, bold stacked typography, understated signature logo, world-class commercial food-and-drink photography, 8k
 
-Final result: a bold full-bleed poster with strong color identity, realistic connected action, dramatic depth, and high visual impact.
+Negative prompt:
+real brand names, copied source text, cluttered layout, weak product focus, oversized logo, cheap splash effects, muddy coffee tones, low-detail cup, plastic-looking cream, chaotic composition, excessive text, low-resolution beverage rendering
 ```
 
 </details>
@@ -3721,7 +3789,7 @@ Final result: a bold full-bleed poster with strong color identity, realistic con
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRNRUzeXoAAwyMh.jpg" width="700" alt="Full-Bleed Forced Perspective Poster">
+<img src="https://image.moge.ai/prompt_media/HRSPpHeb0AANNSN.jpg" width="700" alt="Orbit Mocha Shake Ad Poster">
 </div>
 
 <br>
@@ -3730,65 +3798,68 @@ Final result: a bold full-bleed poster with strong color identity, realistic con
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2095107825982751112) | 2026-09-02 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2095457767058505935) | 2026-09-03 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095107825982751112)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095457767058505935)**
 
 </div>
 
 ---
 
-### No. 50: Spatial Perspective Typography Poster
+### No. 50: Vertical Sliced Typography Editorial Poster
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Creates a contemporary vertical typography poster where oversized letters merge into the architecture, following the space's perspective, curvature and depth.
+Creates a high-end vertical editorial poster with a large centered word, one continuous photo embedded in the letters and strokes extended into vertical slices.
 
 #### 🌟 Prompt
 
-CORE WORD: [e.g. ORBIT / PORTAL / VANISH / DEPTH] PROJECT NAME: [brand / exhibition / campaign name] SPATIAL …
+【MAIN WORD】: {4–8 letter uppercase keyword} 【PROJECT】: {exhibition / festival / cultural event / editorial} …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-CORE WORD: [e.g. ORBIT / PORTAL / VANISH / DEPTH]
-PROJECT NAME: [brand / exhibition / campaign name]
-SPATIAL STRUCTURE: [spiral ramp / nested frames / tunnel / layered panels / other]
-SCENE: [architectural environment]
-SUBJECT: [small human figure / cyclist / none]
-MAIN COLOR: [one strong accent color]
-SUPPORTING TEXT: [date / location / short tagline]
-FORMAT: 9:16 vertical poster
+【MAIN WORD】: {4–8 letter uppercase keyword}
+【PROJECT】: {exhibition / festival / cultural event / editorial}
+【SUBJECT】: {one complete photographic scene}
+【BACKGROUND】: {color}
+【PALETTE】: {main colors}
+【TYPE STYLE】: {bold grotesk / geometric sans / slab serif}
+【TOP LEFT】: {date / time / venue}
+【TOP RIGHT】: {3 short concept words}
+【BOTTOM LEFT】: {supporting information}
+【BOTTOM RIGHT】: {organization / event name}
+【FORMAT】: 9:16 vertical
 
-Create a contemporary perspective typography poster where oversized type becomes part of the physical space instead of simply sitting on top of the image.
+Create a high-end editorial poster using vertical sliced typography.
 
-Build one clear spatial system first, then make the typography strictly follow its geometry, perspective, curvature, depth and surface changes.
+Place 【MAIN WORD】 large at the center, occupying about 75–85% of the width. Keep the word bold, clearly readable, and visually dominant.
 
-The main word should occupy roughly 35–55% of the composition and act as the primary visual structure.
+Embed one single continuous photograph of 【SUBJECT】 inside the entire word. Every letter must reveal a different part of the same image, with major visual lines such as light beams, coastlines, architecture, circular forms, roads or objects continuing naturally across the letters.
 
-Depending on the chosen spatial structure, allow the letterforms to:
+Keep roughly the upper 40–45% of the letterforms intact. Extend selected lower strokes downward into 5–7 vertical sections with varied short, medium and long lengths. The extensions must grow naturally from the original letters and should never look like random rectangles or barcode strips.
 
-* wrap around curved architecture,
-* continue across floors and walls,
-* pass through repeated frames,
-* or split across multiple depth layers and visually realign from one specific viewpoint.
+Continue the same photograph through all extended sections. Place the strongest visual focus around the central letters and use one clear continuous feature to connect the whole composition.
 
-The typography must feel physically integrated into the environment, with correct scale, perspective, occlusion and surface contact. From the intended camera angle, the word should remain recognizable and visually powerful even if individual letterforms are distorted by the architecture.
+Add a subtle soft shadow behind the typography, slightly offset to the lower right, creating a restrained floating-paper effect.
 
-Use a restrained palette with one strong accent color against neutral concrete, black, white or architectural materials. Keep the color fields clean, solid and graphic rather than glossy, neon or heavily textured.
+Use a clean 【BACKGROUND】 with generous negative space and keep most visual complexity inside the type. Apply 【PALETTE】 to the embedded photography with one small accent color if needed.
 
-If a person is included, keep them relatively small and use them as a scale reference. They should naturally walk, ride or move through the typographic space rather than pose for the camera.
+Arrange supporting information around the composition:
 
-Add only a small amount of secondary editorial information such as project name, location, date and one short thematic line. Keep it clearly subordinate to the main word.
+Top left: 【TOP LEFT】
+Top right: 【TOP RIGHT】
+Bottom left: 【BOTTOM LEFT】
+Bottom right: 【BOTTOM RIGHT】
 
-Overall style: experimental typography, spatial graphic design, contemporary architecture, editorial poster, installation art, strong depth, clean hierarchy, high-impact composition.
+Use small, precise modern typography for all secondary information. The final piece should feel like a finished exhibition, festival or cultural editorial poster, not a template demonstration.
 ```
 
 </details>
@@ -3796,7 +3867,7 @@ Overall style: experimental typography, spatial graphic design, contemporary arc
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRWOem-WsAIOWXz.jpg" width="700" alt="Spatial Perspective Typography Poster">
+<img src="https://image.moge.ai/prompt_media/HRbCHkubUAA4xQr.jpg" width="700" alt="Vertical Sliced Typography Editorial Poster">
 </div>
 
 <br>
@@ -3805,13 +3876,13 @@ Overall style: experimental typography, spatial graphic design, contemporary arc
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2095738067445276956) | 2026-09-04 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2096076711574097975) | 2026-09-05 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095738067445276956)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2096076711574097975)**
 
 </div>
 
@@ -3885,7 +3956,357 @@ No people, no clutter, no distorted typography, no random text, no watermark.
 
 ---
 
-### No. 52: Universal Cultural Editorial Poster
+### No. 52: Oriental Herbal Tea Poster
+
+![Category: Marketing Materials](https://img.shields.io/badge/Category-Marketing%20Materials-lightgrey)
+
+#### 📚 Description
+
+Creates a 9:16 Oriental herbal tea culture poster blending bold folk-style handwritten type, soft watercolor botanical illustration, tea utensils, and layered background shapes on aged paper.
+
+#### 🌟 Prompt
+
+【Theme tea drink】: 【Core herb/fruit】: 【Auxiliary ingredients】: 【Main title】: 【Tea ware】: 【Main color】: …
+
+<details>
+<summary>Show full prompt</summary>
+
+```
+【Theme tea drink】:
+【Core herb/fruit】:
+【Auxiliary ingredients】:
+【Main title】:
+【Tea ware】:
+【Main color】:
+【Background design element】: e.g. rouge-toned base shape / apricot-toned base shape / layered mountain silhouettes / giant faded character
+【Auxiliary text】:
+【Seal text】:
+
+Generate a 9:16 Oriental herbal tea culture poster.
+
+Use a light beige-gray paper background overall, with natural paper fibers, slight old-print grain, and handmade paper texture; keep the image clean and restrained, not overly yellowed.
+
+On the left, use a large bold black Chinese title 【Main title】, in a squarish, clumsy, heavy handwritten art typeface with a folk hand-carved feel: wide flat structure, thick horizontal and vertical strokes, hard turns, local irregular distortions, dense ink with slight ink starvation. No elegant calligraphy, running/semi-cursive script, or modern print fonts; let the text itself be the main compositional element.
+
+Use the 【Core herb/fruit】 as the subject, paired with the 【Auxiliary ingredients】, rendered as flat Oriental soft-color botanical illustration. Plant structure clear but moderately simplified, low-saturation colors, simplified shading, light watercolor bleed, and old-print feel; no realistic botanical photography or precise scientific drawing.
+
+Behind the main plant, add the 【Background design element】, using low-saturation, low-opacity flat color blocks, ink mountain silhouettes, giant faded characters, or irregular paper shapes to form visual layering, letting the background participate in the composition rather than being a blank backing.
+
+In the lower-middle area, add the 【Tea ware】 and a few scattered tea leaves, petals, fruits, or dried ingredients. The tea ware uses flat soft color with a slight cut-paper texture, loose outlines, simplified materials, very light shadows, like a still-life illustration on old tea packaging, not realistic product photography.
+
+On the right, add a few small vertical Chinese captions 【Auxiliary text】 as a secondary information layer. Insert 1–2 cinnabar-red seals 【Seal text】, with slightly crooked, incomplete, ink-starved borders and uneven ink-paste density, keeping an authentic hand-carved seal feel; no standard tidy square icons.
+
+Maintain a unified visual language of "bold black folk lettering × soft botanical color × tea-ware still life × layered base shapes × old-paper printing" throughout. The composition should be rich but not crowded; each piece can vary the plant direction, color-block shapes, mountain layers, tea-ware position, and text layout, keeping the series consistent while avoiding a templated look.
+```
+
+</details>
+
+#### 🌁 Generated Image
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HQT7MSWbAAAuysc.jpg" width="700" alt="Oriental Herbal Tea Poster">
+</div>
+
+<br>
+
+<div align="center">
+
+| Author | Source | Published |
+| :---: | :---: | :---: |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2091072492068843789) | 2026-08-22 |
+
+</div>
+
+<div align="center">
+
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2091072492068843789)**
+
+</div>
+
+---
+
+### No. 53: Retro Mid-Century Illustration
+
+![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
+
+#### 📚 Description
+
+Creates a retro mid-century illustration of any subject with geometric shapes, muted palette, and vintage print textures in a 1950s editorial style.
+
+#### 🌟 Prompt
+
+```
+A retro mid-century modern illustration of a [subject], composed with geometric shapes, muted [color1] and [color2] palettes, and vintage print textures. Clean editorial composition, stylish 1950s design aesthetic.
+```
+
+#### 🌁 Generated Image
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HQ8RX7TaoAA4SLd.jpg" width="700" alt="Retro Mid-Century Illustration">
+</div>
+
+<br>
+
+<div align="center">
+
+| Author | Source | Published |
+| :---: | :---: | :---: |
+| [Zephyra Leigh](https://x.com/ZephyraLeigh) | [X / Twitter](https://x.com/ZephyraLeigh/status/2093911640488198223) | 2026-08-30 |
+
+</div>
+
+<div align="center">
+
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2093911640488198223)**
+
+</div>
+
+---
+
+### No. 54: Elegant Pastel Lehenga Portrait
+
+![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
+
+#### 📚 Description
+
+An elegant portrait of a woman in soft spotlight, wearing a pastel blue lehenga with gold embroidery and delicate jewelry.
+
+#### 🌟 Prompt
+
+Elegant portrait of a woman in soft spotlight against a dark background, casting a clean shadow behind her. …
+
+<details>
+<summary>Show full prompt</summary>
+
+```
+Elegant portrait of a woman in soft spotlight against a dark background, casting a clean shadow behind her. She wears a pastel blue lehenga with intricate gold embroidery and a sheer dupatta with pink and gold detailing. Floral accessories in her hair, long wavy black hair resting over her shoulders. Subtle jewelry: gold necklace, earrings, and bracelets adorned with small roses. Gentle smile, calm expression, warm light highlighting her face and outfit.
+```
+
+</details>
+
+#### 🌁 Generated Image
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HRU4u59bsAEIPdW.jpg" width="700" alt="Elegant Pastel Lehenga Portrait">
+</div>
+
+<br>
+
+<div align="center">
+
+| Author | Source | Published |
+| :---: | :---: | :---: |
+| [Talia](https://x.com/TaliaAariz) | [X / Twitter](https://x.com/TaliaAariz/status/2095643928724742477) | 2026-09-03 |
+
+</div>
+
+<div align="center">
+
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095643928724742477)**
+
+</div>
+
+---
+
+### No. 55: Desert Vortex Beer Ad Poster
+
+![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
+
+#### 📚 Description
+
+Creates a premium beer ad poster where a giant amber lager glass rises from the desert and transforms into a sand vortex, with minimalist international launch-key-visual typography.
+
+#### 🌟 Prompt
+
+Create a Cannes-level flagship beer advertising poster for an original premium draft lager brand named …
+
+<details>
+<summary>Show full prompt</summary>
+
+```
+Create a Cannes-level flagship beer advertising poster for an original premium draft lager brand named SOLSTICE CROWN, featuring the hero product SOLSTICE CROWN Desert Draft. Build the image with strong Orbit visual logic and a highly reduced international launch-key-visual approach: a towering pint glass made of glowing amber lager rises from the desert floor like a twisting sand-and-beer vortex, with a dense creamy foam crown at the top, while the lower body transforms into a roaring dust column and swirling sand plume. The final artwork must feel iconic, premium, monumental, and globally publishable, with only one short professional main title and one short subtitle.
+
+Core composition:
+Use a tall vertical poster with a vast clean sky occupying the upper half of the frame and a warm desert ground occupying the lower half. Place the beer glass exactly in the center, upright, colossal, and dominant, rising from the sand like a sacred vertical force. The silhouette must remain unmistakably readable as a premium draft beer glass, even though the lower portion dissolves into a tornado-like sand vortex. The composition should feel minimal, iconic, and globally premium, with strong negative space and a single central hero.
+
+Orbit visual logic:
+Design the image as a premium closed visual loop. The viewer first lands on the thick foam crown, then travels down the luminous amber spiral inside the glass, continues into the twisting sand-and-dust column at the base, follows the curved motion in the desert plume, and is guided back upward along the bright inner glass wall toward the foam and central product silhouette. Every highlight, liquid contour, and dust flow must reinforce this circulation. The product remains the center of gravity at all times.
+
+Hero product logic:
+The hero product is the beer itself presented as a giant premium draft glass. Design a refined tall lager glass with elegant tapering curvature, transparent premium glass walls, glowing amber-gold beer inside, visible liquid rotation, crisp refraction, and a dense velvety foam crown. The beer must feel cold, radiant, and premium, with realistic carbonation, internal luminosity, and layered golden translucency. The foam head should look thick, creamy, tactile, and freshly poured.
+
+Transformation logic:
+The upper half of the object must read as a clean, highly realistic beer glass, while the lower half transitions seamlessly into a powerful vertical sandstorm column. The transition must feel physically convincing and visually intelligent, as if the beer glass has been forged from desert force itself. Use rotating amber liquid ribbons inside the glass body, and below that convert the structure into a twisting dust funnel made of sand, mist, foam residue, and golden particles. This is the core surreal idea and must feel original, premium, and commercially sharp.
+
+Environment:
+Use an open desert landscape with subtle dune texture, faint wind trails, and a distant pale horizon. Keep the environment minimal and uncluttered so the giant glass remains dominant. If any drifting fragments are included, keep them extremely sparse and elegant. No people, no vehicles, no unrelated props.
+
+Lighting:
+Use strong late-afternoon golden sunlight from the right side, creating radiant amber glow through the beer glass and warm rim light on the foam crown. The sky should be a soft gradient from pale warm blue to sunlit haze. The lighting must reveal the transparency of the lager, the density of the foam, and the depth of the dust plume. The product should feel luminous, refreshing, and expensive.
+
+Typography and branding:
+Do not use any real brand names or copied source text. Use original English-only typography because this is an overseas-style beer campaign. Keep typography extremely minimal and premium. At the top center, place the elegant brand wordmark:
+SOLSTICE CROWN
+Use only one short subtitle, placed smaller beneath it:
+DESERT DRAFT
+No extra body copy, no extra slogan lines, no annotations. Typography must feel refined, global, and flagship-grade.
+
+Material realism:
+Push extreme realism in the glass surface, amber liquid refraction, foam micro-bubbles, condensation traces, sand particle density, vortex motion, and desert dust behavior. The beer must look drinkable and physically real; the storm must look dangerous yet beautiful. The integration between beverage realism and natural force must feel masterfully engineered.
+
+Color direction:
+Use a premium palette of glowing amber gold, honey lager, creamy white foam, sunlit sand beige, warm copper-brown dust, and pale atmospheric blue. Keep the image clean, warm, monumental, and unmistakably premium.
+
+Mood:
+monumental, radiant, elemental, orbit-driven, premium, surreal, iconic, desert-forged, cinematic, refreshing, globally award-worthy
+
+Rendering style:
+ultra-realistic flagship beer advertising poster, Orbit-driven giant central draft beer glass, amber liquid vortex, sandstorm transformation, minimalist desert environment, reduced international key visual typography, cinematic sunlight, world-class beverage realism, 8k, master-level advertising image quality
+
+Negative prompt:
+real brand names, copied slogan, long headline copy, cluttered desert scene, people, vehicles, random props, weak product silhouette, cartoon foam, muddy beer color, cheap sand effects, low-detail glass, messy typography, overdesigned layout, low-resolution liquid, chaotic composition
+```
+
+</details>
+
+#### 🌁 Generated Image
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HRRxmVAbEAAjNMQ.jpg" width="700" alt="Desert Vortex Beer Ad Poster">
+</div>
+
+<br>
+
+<div align="center">
+
+| Author | Source | Published |
+| :---: | :---: | :---: |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2095424645956800687) | 2026-09-03 |
+
+</div>
+
+<div align="center">
+
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095424645956800687)**
+
+</div>
+
+---
+
+### No. 56: Architectural Typographic Editorial Poster
+
+![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
+
+#### 📚 Description
+
+Creates a vertical architectural poster blending real monochrome building photography with oversized typography and a single accent color.
+
+#### 🌟 Prompt
+
+Theme: [museum / city campaign / design week / hotel / public space] Main title: [YOUR TITLE] Architecture: …
+
+<details>
+<summary>Show full prompt</summary>
+
+```
+Theme: [museum / city campaign / design week / hotel / public space]
+Main title: [YOUR TITLE]
+Architecture: [building type and key geometry]
+Accent color: [orange / blue / teal / yellow / other]
+Type interaction: [behind / overlapping / wrapping / cropped by architecture]
+Aspect ratio: 9:16
+
+Create a vertical architectural editorial poster combining real architectural photography with bold graphic typography.
+
+Use a warm off-white background and mostly monochrome architecture with strong contrast, realistic concrete, glass, steel and natural shadows. Make the building large in frame with dramatic cropping, clear geometry and a strong silhouette rather than showing the entire structure neatly.
+
+Use only one saturated accent color, applied selectively to oversized type, geometric blocks, outlines or small architectural areas.
+
+Typography must act as part of the composition, not simply sit on top of the photo. Use oversized bold sans-serif lettering that overlaps, hides behind, cuts across or extends beyond the architecture and poster edges.
+
+Add a small amount of structured editorial information such as event name, date, location, categories or a short statement. Keep the hierarchy clear: architecture and oversized type first, supporting text second.
+
+Aim for a sophisticated architectural magazine / cultural campaign aesthetic with strong negative space, graphic tension and clear thumbnail impact.
+
+Avoid generic real-estate advertising, futuristic CGI buildings, excessive colors, meaningless text, logos, numbering, watermarks and decorative clutter.
+```
+
+</details>
+
+#### 🌁 Generated Image
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HRa6U1Qa4AA2CcI.jpg" width="700" alt="Architectural Typographic Editorial Poster">
+</div>
+
+<br>
+
+<div align="center">
+
+| Author | Source | Published |
+| :---: | :---: | :---: |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2096067650052874367) | 2026-09-05 |
+
+</div>
+
+<div align="center">
+
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2096067650052874367)**
+
+</div>
+
+---
+
+### No. 57: Translucent Glass 3D Logo
+
+![Category: Branding & Interface](https://img.shields.io/badge/Category-Branding%20%26%20Interface-lightgrey)
+
+#### 📚 Description
+
+Turns any brand logo into a translucent frosted-glass 3D object with volumetric color absorption at the base, set on a clean high-key studio background.
+
+#### 🌟 Prompt
+
+[BRAND NAME = \_\_\_\_\_\_\_\_\_\_\_\_\_\_] [BACKGROUND COLOR = \_\_\_\_\_] [LOWER COLOR = \_\_\_\_\_\_\_\_\_\_\_\_\_] Create a square 1:1 …
+
+<details>
+<summary>Show full prompt</summary>
+
+```
+[BRAND NAME = ______________]
+[BACKGROUND COLOR = _____]
+[LOWER COLOR = _____________]
+
+Create a square 1:1 high-key studio CGI visualization of the authentic official standalone symbol of [BRAND NAME], physically translated into thick monolithic translucent glass with a near-white optically diffusive character, softly sculpted geometry, a perfectly smooth polished outer skin and localized deep [LOWER COLOR] volumetric absorption. Automatically identify the brand's most recognizable symbol and preserve its silhouette, proportions and authentic geometry without redesigning it. Construct every element as solid, optically dense cast glass with subtly convex front surfaces and soft rounded edges. Use one homogeneous translucent glass material, nearly colorless and pale across most of its volume, with internal diffusion but a perfectly polished, textureless exterior. The defining chromatic feature is a volumetric color progression derived exclusively from [LOWER COLOR], concentrated in roughly the lowest 10–25% of the form, occurring INSIDE the glass volume, never painted onto the surface. Light with an extremely soft high-key studio environment, no hard key light and no strong directional shadows. Keep reflections clean and minimal and the surface perfectly clean and continuous. Use [BACKGROUND COLOR] as a seamless matte studio background, with no floor, horizon, pedestal or cast shadow. Square 1:1 composition, near-frontal camera, 100–135 mm equivalent lens, f/8–f/11 depth-of-field. Render as path-traced advertising CGI, optically soft but geometrically precise, with no photographic grain, procedural noise or surface texture. The outer glass skin must remain perfectly smooth, polished and textureless; all frosted softness must originate from volumetric scattering inside the glass.
+```
+
+</details>
+
+#### 🌁 Generated Image
+
+<div align="center">
+<img src="https://image.moge.ai/prompt_media/HPN1rhPWEAAippg.jpg" width="700" alt="Translucent Glass 3D Logo">
+</div>
+
+<br>
+
+<div align="center">
+
+| Author | Source | Published |
+| :---: | :---: | :---: |
+| [AmirMušić](https://x.com/AmirMushich) | [X / Twitter](https://x.com/AmirMushich/status/2086142130930790518) | 2026-08-08 |
+
+</div>
+
+<div align="center">
+
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2086142130930790518)**
+
+</div>
+
+---
+
+### No. 58: Universal Cultural Editorial Poster
 
 ![Category: Marketing Materials](https://img.shields.io/badge/Category-Marketing%20Materials-lightgrey)
 
@@ -3941,7 +4362,7 @@ Theme: Mid-Autumn Festival poster
 
 ---
 
-### No. 53: Birch Forest Storybook Fairytale Portrait
+### No. 59: Birch Forest Storybook Fairytale Portrait
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
@@ -4009,23 +4430,27 @@ Do not add any text, letters, logos, watermark, border, inset reference photo, e
 
 ---
 
-### No. 54: Scarlet Bikini & Leather Studio Portrait
+### No. 60: Soft Realistic Studio Portrait
 
 ![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
 
 #### 📚 Description
 
-Creates a minimalist daylight studio portrait of a model in a scarlet bikini and oversized leather racing jacket with hard directional light.
+Creates a photorealistic close-up portrait of a young woman in a thoughtful pose, with soft studio lighting and a gray curtain backdrop.
 
 #### 🌟 Prompt
 
-A pristine daylight studio wraps the environment in luminous simplicity, where minimalist elegance meets bold …
+A highly realistic close-up portrait photograph of a young East Asian woman in her early 20s with fair, …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-A pristine daylight studio wraps the environment in luminous simplicity, where minimalist elegance meets bold modern attitude. The subject commands the empty field with arms raised overhead, projecting an effortless aura of withheld confidence and sovereign stillness. Her vivid scarlet bikini top and matching bottoms contrast sharply against an oversized leather racing jacket that hangs with structured architectural weight. Directional hard key illumination sweeps across her shoulders and collarbone, carving crisp highlights before transitioning cleanly into deep, warm-toned shadow. The seamless off-white backdrop recedes into subtle ambient gradients, allowing saturated crimson panels and shimmering silver chains to define the composition. Every refined contour celebrates the magnetic power of form, where disciplined poise transforms empty space into an unforgettable editorial vision.
+A highly realistic close-up portrait photograph of a young East Asian woman in her early 20s with fair, smooth skin and soft natural features. She has long, straight, silky light-brown hair with subtle golden highlights that falls past her shoulders and frames her face, parted slightly off-center. Her expression is calm and slightly pouty, with soft full lips in a natural pinkish-nude shade, lightly defined brows, subtle eyeliner, and soft eyeshadow that gives a gentle, polished look. She gazes directly at the camera with a relaxed, slightly tilted head pose.
+
+Her right hand is raised, resting gently under her chin with fingers softly curled, supporting her face in a classic thoughtful pose. She wears a simple black strapless bandeau or tube top that sits low, revealing her shoulders and upper chest. On her right wrist is a delicate silver chain-link bracelet that catches the light.
+
+The background is a soft, muted gray curtain with gentle vertical folds, creating a clean, studio-like indoor setting. Soft, even diffused lighting illuminates her face evenly with subtle highlights on her cheekbones and hair, producing a smooth, flattering skin texture and natural shadows. Shot from a slightly elevated selfie-style angle, tightly framed from mid-chest up, high resolution, photorealistic detail, natural color grading, sharp focus on the face and eyes.
 ```
 
 </details>
@@ -4033,7 +4458,7 @@ A pristine daylight studio wraps the environment in luminous simplicity, where m
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRObjuBa0AEAluu.jpg" width="700" alt="Scarlet Bikini &amp; Leather Studio Portrait">
+<img src="https://image.moge.ai/prompt_media/HRMny2xa8AAYNLK.jpg" width="700" alt="Soft Realistic Studio Portrait">
 </div>
 
 <br>
@@ -4042,513 +4467,13 @@ A pristine daylight studio wraps the environment in luminous simplicity, where m
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [GenAngelsAI](https://x.com/GenAngelsAI) | [X / Twitter](https://x.com/GenAngelsAI/status/2095189330256085453) | 2026-09-02 |
+| [Feyber](https://x.com/woleswoosh) | [X / Twitter](https://x.com/woleswoosh/status/2095542340035260517) | 2026-09-03 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095189330256085453)**
-
-</div>
-
----
-
-### No. 55: KINETIQ Brand Triptych Campaign
-
-![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
-
-#### 📚 Description
-
-Creates a premium mobile-story triptych campaign for a wellness-tech brand, with three modular vertical panels uniting hardware, body transformation, and conversion into a repeatable brand system.
-
-#### 🌟 Prompt
-
-Create a premium triptych mobile-story advertising campaign for an original high-performance wellness …
-
-<details>
-<summary>Show full prompt</summary>
-
-```
-Create a premium triptych mobile-story advertising campaign for an original high-performance wellness technology brand named "KINETIQ", preserving the exact structural logic of three tall rounded-rectangle vertical ad panels placed side by side on a deep midnight-navy background while strengthening both Orbit and Port. The final image must feel like the definitive flagship campaign system for a futuristic recovery-performance brand: product-led, editorially precise, highly modular, and immediately recognizable as a repeatable brand master template.
-
-Overall structure:
-Use three ultra-tall vertical rounded cards with narrow, even spacing between them, floating on a dark midnight-navy field.
-Left panel: dark product-sale story, black luxury-tech atmosphere, flagship airflow hardware focus.
-Center panel: bright ivory-white training-membership story, high-contrast editorial fitness layout, one dominant athletic human figure.
-Right panel: hybrid premium story, dark product credibility in the upper half and light training-conversion content in the lower half.
-All three panels must share one unified system of typography, icon scale, CTA shapes, spacing, corner radii, card proportions, and editorial pacing.
-
-Orbit logic:
-Create a deliberate closed visual loop across the entire triptych. The eye should enter through the glowing airflow ribbons and metallic hardware crops in the left panel, travel upward and inward through the sale typography, jump into the center panel through the inverted or extended athletic pose, descend through the modular membership cards, then move into the right panel via the upper dark product section, sweep down across the headphone portrait and lower class cards, and finally curve back toward the left through repeated circular motifs such as the bladeless loop form, headphone earcup disc, feature icons, dumbbell curvature, and the rounded CTA buttons. The three panels must feel optically linked by recurring arcs, looped product geometry, and rhythmic black-white-black tonal alternation.
-
-Port logic:
-Turn this campaign into a brand super-symbol and permanent visual mother-template. Lock the system as: left dark hardware-sales card, center light human-performance conversion card, right hybrid product-plus-lifestyle conversion card. Reuse the same rounded-story proportions, icon clusters, pill CTA buttons, stacked heading logic, card modules, circular product motifs, and black-ivory tonal switching so the entire campaign can be extended across future launches without losing identity. Every design decision must feel standardized, transferable, and unmistakably part of the KINETIQ brand language.
-
-Brand world:
-KINETIQ is a premium recovery-performance ecosystem combining intelligent airflow devices, immersive recovery audio, and science-based movement programs. The brand tone must feel futuristic, athletic, elevated, and commercially sharp, without ever becoming cheap, noisy, or generic.
-
-Panel 1, left story:
-Build a dramatic black luxury-tech product advertisement centered on an original bladeless smart airflow device with a graphite-black metallic body and a glowing cool-blue internal air chamber at the base. Add two or three sculptural close-up product crops near the top and lower edges so the loop-shaped opening becomes a repeating motif. Let elegant translucent airflow ribbons drift diagonally through the panel and subtly echo the rounded product geometry. Integrate bold original English sale typography in a refined modern sans-serif:
-"EARLY ACCESS"
-"15% EVENT"
-Add a pill-shaped CTA button:
-"UNLOCK OFFER"
-Below, include a digital countdown line with spaced numerals:
-"03 : 18 : 42"
-Add a mid-lower heading:
-"PRECISION AIR CONTROL"
-At the lower feature area, show three minimal icon callouts:
-"Sleep Mode"
-"Touch Oscillation"
-"Adaptive Tilt"
-At the bottom, create a compact best-sellers strip with three tiny product thumbnails and micro labels. Keep everything sharp, luxurious, black, graphite, silver, and electric blue, with strong hierarchy and no clutter.
-
-Panel 2, center story:
-Build a bright editorial fitness-membership advertisement on a warm white or very pale gray background. Place a real athletic human figure in the upper half performing an advanced calisthenics or hand-balance pose on parallel bars, body fully stretched, anatomically correct, elegant, strong, and believable. The pose must create a directional bridge between the left and right panels. Below the figure, place strong stacked typography:
-"RESET YOUR CORE"
-"START AGAIN"
-Add a black rounded CTA button:
-"BEGIN THE SHIFT"
-Below, create a tightly organized modular membership-package layout with icon cards and value blocks, using original text such as:
-"14 DAY RESET"
-"Mobility Scan"
-"Recovery Session"
-"Fuel Starter"
-"Value $39"
-"Value $65"
-Use neat black-and-white cards with tiny icons and consistent proportions. Lower in the panel, add two or three small rectangular class-image cards showing premium training interiors. Under them, add a compact editorial paragraph about movement, science, recovery, and focus. Finish with a bold lower CTA strip:
-"TRAIN. RECOVER. EVOLVE."
-The whole center panel must feel like the clean operational core of the brand system.
-
-Panel 3, right story:
-Build a hybrid premium story layout. The upper section returns to a dark black background with two elegant bladeless airflow devices floating as premium hero products, plus three circular benefit icons with short claims:
-"Fast Dispatch"
-"Price Guard"
-"2 Year Cover"
-Below that, integrate a refined portrait crop of a stylish young woman wearing original premium copper-and-black over-ear recovery headphones, looking off-frame with cinematic light. Her anatomy, facial structure, skin texture, and hair must feel realistic and not AI-plastic. Add a small pill CTA near the portrait:
-"CLAIM 15% EVENT"
-The lower half transitions to a warm light background containing two or three small class or studio cards, a bold black conversion question such as:
-"WHY JOIN NOW?"
-followed by a short persuasive editorial paragraph. Add a black CTA button:
-"START TODAY"
-Near the bottom, place a clean product-lifestyle composition with matte-black dumbbells or training objects on a pale floor, followed by a bold final message:
-"RETURN TO FORM"
-and a closing CTA:
-"ENTER KINETIQ"
-Keep the right panel dense but controlled, acting as the bridge between product prestige and human aspiration.
-
-Typography and graphic system:
-Typography must be a major compositional force. Use polished English typography only, with varied scale, controlled tracking, elegant uppercase, stacked headlines, pill buttons, icon grids, and modular text cards. Avoid crude heavy block fonts. The text system must feel art-directed, premium, and repeatable across an entire campaign family.
-
-Lighting:
-Use high-end commercial lighting across all three panels.
-Left panel: glossy luxury hardware lighting with sharp rim highlights, deep blacks, and cool-blue base illumination.
-Center panel: soft neutral daylight-style lighting with clean shadow edges and calm studio brightness.
-Right panel: mixed lighting, with dark cinematic highlights in the top product section and warm controlled portrait and studio lighting in the lower section.
-Maintain physical realism and a coherent premium finish in every panel.
-
-Materials and realism:
-Render all products with industrial-grade accuracy: brushed metal, satin polymer, clean vents, reflective accents, translucent airflow ribbons, realistic base illumination, luxurious headphone materials, soft-touch plastics, and sharp machining detail. Human skin must show subtle natural texture, realistic pores, faint tonal variation, believable fingers, and correct anatomy. Gym bars, dumbbells, interiors, and seating must remain minimal, refined, and physically plausible.
-
-Color system:
-Base palette: black, graphite, midnight navy, soft ivory, warm light gray.
-Accent palette: controlled copper, cool cyan-blue glow, muted silver.
-Left panel is predominantly dark with blue accents.
-Center panel is predominantly light with black typography.
-Right panel alternates dark top and light lower blocks, with copper accents in the headphone portrait.
-The triptych must read as one balanced premium system.
-
-Composition logic:
-The left panel sells the flagship hardware.
-The center panel sells the transformation program.
-The right panel fuses product credibility, emotional aspiration, and conversion.
-The whole image must function as a unified story-ads ecosystem with clear brand authorship, recurring loop forms, and a memorable modular identity.
-
-Image quality and physical rules:
-ultra-detailed luxury commercial rendering, clean mobile-story layout, rounded card corners, precise spacing, strong hierarchy, readable but minimal text, perfect product geometry, realistic human anatomy, normal fingers, no extra limbs, no deformed hands, no warped objects, no muddy blacks, no dead black patches, no clutter, no cheap gradients, 8k advertising quality, flagship campaign polish
-
-Negative prompt:
-copied original text, real brand names, cheap ecommerce style, messy layout, low-resolution text, random extra widgets, cartoon look, plastic-looking humans, deformed hands, extra fingers, warped anatomy, broken product geometry, cluttered backgrounds, muddy shadows, oversaturated colors, generic fonts, ugly heavy black type, noisy composition, low-detail hardware, fake reflections, inconsistent lighting
-```
-
-</details>
-
-#### 🌁 Generated Image
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HRInzamacAAzxyG.jpg" width="700" alt="KINETIQ Brand Triptych Campaign">
-</div>
-
-<br>
-
-<div align="center">
-
-| Author | Source | Published |
-| :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2094784149051879598) | 2026-09-01 |
-
-</div>
-
-<div align="center">
-
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2094784149051879598)**
-
-</div>
-
----
-
-### No. 56: Before-and-After Travel Art Print
-
-![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
-
-#### 📚 Description
-
-Stacks a seaside promenade's original photo and its watercolor vintage illustration reinterpretation into one vertical travel-journal poster.
-
-#### 🌟 Prompt
-
-Use the uploaded reference photograph as the exact visual source. Create one single vertical 4:5 image …
-
-<details>
-<summary>Show full prompt</summary>
-
-```
-Use the uploaded reference photograph as the exact visual source. Create one single vertical 4:5 image containing two clearly separated panels stacked vertically.
-
-TOP PANEL — ORIGINAL: Keep the uploaded photograph completely unchanged and recognizable. Do not repaint, crop, stylize, alter colors, or modify any people, buildings, sea, umbrellas, stairs, plants, or composition. This is the original reference.
-
-BOTTOM PANEL — ARTISTIC RESULT: Reimagine the exact same scene from the top panel as an original minimalist editorial travel-journal art print. Preserve the same viewpoint, architecture, waterfront, curved promenade, sea, stairs, umbrellas, pedestrians, plants, proportions, and overall composition so the connection between both panels is immediately obvious. Do not invent a different location or rearrange the scene.
-
-Transform only the visual treatment into a sophisticated handmade illustration: delicate imperfect ink contours, simplified elegant shapes, soft watercolor washes, subtle screen-print texture, faded pigments, dry-brush marks, slight ink-registration imperfections, natural paper grain, and lightly weathered vintage-print texture.
-
-Use a restrained palette of dusty ocean blue, muted sea-green, warm sand, creamy ivory, soft stone gray, and small faded terracotta accents. Preserve the important colors and character of the original scene while giving them a refined vintage travel-poster treatment.
-
-Place the bottom artwork on warm ivory handmade paper with generous breathing room and subtle tactile fibers. Keep the architecture clearly recognizable and maintain the original visual balance. Add gentle afternoon light and quiet coastal nostalgia.
-
-Near the lower portion of the BOTTOM PANEL, add elegant understated typewriter-inspired typography:
-
-“harbour light”
-
-Beneath it, much smaller:
-
-“afternoon lingers in the curve, where sea and steps remember.”
-
-Add a very subtle thin divider between the two panels. Make the entire image look like a carefully photographed before-and-after page from a premium independent travel-art journal.
-
-Important: The TOP must remain the untouched original photograph. The BOTTOM must be the artistic reinterpretation of that exact photograph. Both panels must show the same scene from the same viewpoint. No photorealistic recreation in the bottom, no major composition changes, no new architecture, no excessive detail, no glossy digital effects, no oversaturated colors.
-```
-
-</details>
-
-#### 🌁 Generated Image
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HRVq4lAbIAAFa2Q.jpg" width="700" alt="Before-and-After Travel Art Print">
-</div>
-
-<br>
-
-<div align="center">
-
-| Author | Source | Published |
-| :---: | :---: | :---: |
-| [Mahnoor Fatima](https://x.com/MahnoorAi12) | [X / Twitter](https://x.com/MahnoorAi12/status/2095699083512164544) | 2026-09-04 |
-
-</div>
-
-<div align="center">
-
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095699083512164544)**
-
-</div>
-
----
-
-### No. 57: Translucent Glass 3D Logo
-
-![Category: Branding & Interface](https://img.shields.io/badge/Category-Branding%20%26%20Interface-lightgrey)
-
-#### 📚 Description
-
-Turns any brand logo into a translucent frosted-glass 3D object with volumetric color absorption at the base, set on a clean high-key studio background.
-
-#### 🌟 Prompt
-
-[BRAND NAME = \_\_\_\_\_\_\_\_\_\_\_\_\_\_] [BACKGROUND COLOR = \_\_\_\_\_] [LOWER COLOR = \_\_\_\_\_\_\_\_\_\_\_\_\_] Create a square 1:1 …
-
-<details>
-<summary>Show full prompt</summary>
-
-```
-[BRAND NAME = ______________]
-[BACKGROUND COLOR = _____]
-[LOWER COLOR = _____________]
-
-Create a square 1:1 high-key studio CGI visualization of the authentic official standalone symbol of [BRAND NAME], physically translated into thick monolithic translucent glass with a near-white optically diffusive character, softly sculpted geometry, a perfectly smooth polished outer skin and localized deep [LOWER COLOR] volumetric absorption. Automatically identify the brand's most recognizable symbol and preserve its silhouette, proportions and authentic geometry without redesigning it. Construct every element as solid, optically dense cast glass with subtly convex front surfaces and soft rounded edges. Use one homogeneous translucent glass material, nearly colorless and pale across most of its volume, with internal diffusion but a perfectly polished, textureless exterior. The defining chromatic feature is a volumetric color progression derived exclusively from [LOWER COLOR], concentrated in roughly the lowest 10–25% of the form, occurring INSIDE the glass volume, never painted onto the surface. Light with an extremely soft high-key studio environment, no hard key light and no strong directional shadows. Keep reflections clean and minimal and the surface perfectly clean and continuous. Use [BACKGROUND COLOR] as a seamless matte studio background, with no floor, horizon, pedestal or cast shadow. Square 1:1 composition, near-frontal camera, 100–135 mm equivalent lens, f/8–f/11 depth-of-field. Render as path-traced advertising CGI, optically soft but geometrically precise, with no photographic grain, procedural noise or surface texture. The outer glass skin must remain perfectly smooth, polished and textureless; all frosted softness must originate from volumetric scattering inside the glass.
-```
-
-</details>
-
-#### 🌁 Generated Image
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HPN1rhPWEAAippg.jpg" width="700" alt="Translucent Glass 3D Logo">
-</div>
-
-<br>
-
-<div align="center">
-
-| Author | Source | Published |
-| :---: | :---: | :---: |
-| [AmirMušić](https://x.com/AmirMushich) | [X / Twitter](https://x.com/AmirMushich/status/2086142130930790518) | 2026-08-08 |
-
-</div>
-
-<div align="center">
-
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2086142130930790518)**
-
-</div>
-
----
-
-### No. 58: Paper Cutout Travel Poster
-
-![Category: Marketing Materials](https://img.shields.io/badge/Category-Marketing%20Materials-lightgrey)
-
-#### 📚 Description
-
-Creates a vibrant paper-cutout collage travel poster with bold central typography surrounded by layered landmarks, vehicles, and flowers under a sunny sky.
-
-#### 🌟 Prompt
-
-{ "style": { "type": "paper cutout collage illustration with mixed photography elements", "visual\_tone": …
-
-<details>
-<summary>Show full prompt</summary>
-
-```
-{
-"style": {
-"type": "paper cutout collage illustration with mixed photography elements",
-"visual_tone": "playful, vibrant, travel-poster inspired",
-"mood": "celebratory, adventurous, uplifting",
-"suitable_for": [
-"event posters",
-"travel campaigns",
-"anniversary visuals",
-"tourism ads",
-"festival promotions"
-]
-},
-
-"composition": {
-"layout": "layered collage with central headline and surrounding illustrated landmarks",
-"subject_placement": "main typography centered, visual elements arranged radially around it",
-"foreground": "road, vehicle, and flowers with strong cutout edges",
-"midground": "architectural landmarks and attractions",
-"background": "soft sky with clouds and minimal gradients",
-"depth": "multi-layered overlapping cutout elements creating visual depth",
-"balance": "asymmetrical yet visually balanced through distributed elements"
-},
-
-"camera": {
-"angle": "slightly elevated perspective with frontal composition",
-"framing": "wide poster framing capturing multiple elements",
-"lens_look": "flat perspective with subtle depth simulation",
-"depth_of_field": "mostly sharp across all elements"
-},
-
-"lighting": {
-"type": "bright daylight",
-"direction": "soft top-front lighting",
-"effect": "even illumination with minimal harsh shadows",
-"shadow_style": "subtle drop shadows enhancing the paper-cutout effect"
-},
-
-"color_palette": {
-"primary_colors": ["sky blue", "teal", "white"],
-"secondary_colors": ["green", "yellow", "red accents", "earth tones"],
-"contrast": "moderate contrast with bright highlights",
-"overall_feel": "fresh, clean, energetic"
-},
-
-"typography": {
-"style": "bold sans-serif with rounded edges and playful distortion",
-"placement": "centered and layered over irregular cutout shapes",
-"hierarchy": "large headline, medium subheading, and smaller informational text",
-"readability": "high readability with strong contrast and generous spacing"
-},
-
-"graphic_elements": {
-"effects": ["paper tear edges", "cutout outlines", "subtle drop shadows"],
-"textures": ["paper texture", "subtle grain"],
-"overlays": ["cloud overlays", "soft gradients"],
-"decorative_elements": ["icons", "birds", "signage", "flowers"]
-},
-
-"layout_prompt": "Create a layered paper-cut collage poster with a bold central headline placed on irregular white cutout shapes. Surround the typography with travel-themed elements arranged in a loose semi-circular composition. Include roads, vehicles, or flowers in the foreground, recognizable landmarks and attractions in the midground, and a soft blue sky with clouds in the background. Use torn paper edges, overlapping layers, subtle outlines, and drop shadows to create dimensional depth.",
-
-"universal_prompt": "A vibrant paper-cut collage travel poster featuring bold central typography on torn white paper shapes, surrounded by layered landmarks, vehicles, roads, flowers, and nature elements. Bright daylight, soft cloud-filled sky, playful asymmetric composition, strong rounded sans-serif typography, subtle paper shadows and handmade textures, fresh and energetic colors, dynamic celebratory atmosphere, polished professional advertising design, high detail.",
-
-"negative_prompt": "photorealistic single scene, minimalism, dark lighting, monochrome palette, flat design without layers, heavy shadows, cluttered typography, low contrast, blurry elements, lack of depth, realistic perspective without collage effect"
-}
-```
-
-</details>
-
-#### 🌁 Generated Image
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HP1E2wmaEAAEk9h.jpg" width="700" alt="Paper Cutout Travel Poster">
-</div>
-
-<br>
-
-<div align="center">
-
-| Author | Source | Published |
-| :---: | :---: | :---: |
-| [Saul Goodman](https://x.com/Goodmanprotocol) | [X / Twitter](https://x.com/Goodmanprotocol/status/2088901593836265855) | 2026-08-16 |
-
-</div>
-
-<div align="center">
-
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2088901593836265855)**
-
-</div>
-
----
-
-### No. 59: Child's Dream Watercolor World
-
-![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
-
-#### 📚 Description
-
-Turns a child's dream into a layered watercolor illustrated world with one main scene and many hidden magical mini-stories.
-
-#### 🌟 Prompt
-
-Child’s dream: [Describe what the child remembers from the dream in their own words] Main character: [child / …
-
-<details>
-<summary>Show full prompt</summary>
-
-```
-Child’s dream:
-[Describe what the child remembers from the dream in their own words]
-
-Main character:
-[child / pet / family member / toy / other]
-
-Important details:
-[people, animals, places, objects, colors, feelings, strange moments]
-
-Dream mood:
-[happy / magical / funny / adventurous / strange / slightly scary / peaceful]
-
-Aspect ratio:
-[wide landscape, around 1.41:1]
-
-Turn the child’s dream into a richly illustrated dream world.
-
-Use the dream description as the story foundation, but don’t simply depict one literal scene. Expand it into one main event plus several interconnected mini-stories, as if different fragments of the same dream were unfolding together on one page.
-
-Transform familiar memories and everyday objects into imaginative dream elements: bedrooms can become landscapes, blankets can turn into rivers, books can become mountains, toys can come alive, houses can fly, animals can travel through the sky, and ordinary objects can quietly change into something magical.
-
-If the dream is happy or beautiful, preserve its warmth and sense of wonder so it feels like a memory worth keeping.
-
-If the dream is strange or slightly scary, keep the important story elements but reinterpret them through a gentle, colorful, child-friendly visual language — mysterious rather than frightening, imaginative rather than dark.
-
-Create a layered composition with several large flowing shapes, medium-sized story scenes, and many small discoveries hidden throughout the image. Every area should contain a little story, while the whole image still feels like one continuous dream.
-
-Visual style: colorful hand-painted watercolor storybook illustration × contemporary folk art × naïve art.
-
-Use clean, bright and cheerful colors: golden yellow, turquoise, sky blue, mint green and jade green, with accents of coral orange, soft pink and cream white.
-
-Keep all colors fresh and clear with smooth, natural transitions. Use only subtle watercolor texture.
-
-Avoid muddy colors, black speckles, dirty stains, rough pigment granulation, distressed textures, heavy paper aging or dark gray-brown shadows.
-
-Use fine, smooth, continuous colored outlines instead of heavy black outlines. Keep curves, clouds, plants, water, characters and decorative shapes clean and flowing.
-
-Keep the image mostly flat and decorative rather than realistic 3D. Avoid miniature-model aesthetics, photorealism and dramatic cinematic lighting.
-
-The final image should feel like a child’s dream has been turned into a colorful watercolor painting they can actually see, talk about, and keep as a memory.
-
-No readable text, logos, borders or watermarks.
-```
-
-</details>
-
-#### 🌁 Generated Image
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HQ5qqW2WQAAppN1.jpg" width="700" alt="Child&#x27;s Dream Watercolor World">
-</div>
-
-<br>
-
-<div align="center">
-
-| Author | Source | Published |
-| :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2093729648664334444) | 2026-08-29 |
-
-</div>
-
-<div align="center">
-
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2093729648664334444)**
-
-</div>
-
----
-
-### No. 60: AI Influencer Beauty Portrait
-
-![Category: Photography & Imagery](https://img.shields.io/badge/Category-Photography%20%26%20Imagery-lightgrey)
-
-#### 📚 Description
-
-Creates an ultra-realistic beauty portrait of a female AI influencer with studio lighting and understated Korean luxury aesthetics.
-
-#### 🌟 Prompt
-
-Ultra-photorealistic portrait of an adult woman with a consistent AI influencer identity, oval face, full …
-
-<details>
-<summary>Show full prompt</summary>
-
-```
-Ultra-photorealistic portrait of an adult woman with a consistent AI influencer identity, oval face, full cheeks, almond-shaped glossy eyes, a petite nose, and heart-shaped rose lips. Natural porcelain skin with visible pores and realistic skin texture. Long, sleek ash-brown hair with a center part, wearing a fitted black crew-neck top. Direct eye contact with a faint, cute mischievous smile. 85mm studio beauty portrait, soft diffused frontal lighting, matte cool-gray background, shallow depth of field, understated luxury Korean beauty photography, cinematic realism. No plastic skin, CGI look, facial distortion, text, logo, or watermark.
-```
-
-</details>
-
-#### 🌁 Generated Image
-
-<div align="center">
-<img src="https://image.moge.ai/prompt_media/HRM40EQaMAA7Lrw.jpg" width="700" alt="AI Influencer Beauty Portrait">
-</div>
-
-<br>
-
-<div align="center">
-
-| Author | Source | Published |
-| :---: | :---: | :---: |
-| [Eesha](https://x.com/MissDelulu9) | [X / Twitter](https://x.com/MissDelulu9/status/2095080753944248587) | 2026-09-02 |
-
-</div>
-
-<div align="center">
-
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095080753944248587)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2095542340035260517)**
 
 </div>
 
