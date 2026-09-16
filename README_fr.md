@@ -5,7 +5,7 @@
 **Prompts de génération d'images IA gratuits, sélectionnés dans le monde entier — mis à jour quotidiennement.**  
 Texte complet du prompt · images d'aperçu · **10 langues**
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) ![Curated Prompts](https://img.shields.io/badge/Curated%20Prompts-4100%2B-1f6feb) ![Languages](https://img.shields.io/badge/languages-10-2ea043) ![Updated](https://img.shields.io/badge/updated-daily-8957e5)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) ![Curated Prompts](https://img.shields.io/badge/Curated%20Prompts-4200%2B-1f6feb) ![Languages](https://img.shields.io/badge/languages-10-2ea043) ![Updated](https://img.shields.io/badge/updated-daily-8957e5)
 
 ### [✨ Parcourir la bibliothèque de prompts d'images Moge.ai →](https://moge.ai/fr/prompt)
 
@@ -27,93 +27,53 @@ Texte complet du prompt · images d'aperçu · **10 langues**
   <tr><td>&nbsp;🖍️&nbsp; <a href="https://moge.ai/fr/prompt">Illustration &amp; IP</a>&nbsp;</td><td>&nbsp;📸&nbsp; <a href="https://moge.ai/fr/prompt">Photographie &amp; image</a>&nbsp;</td></tr>
 </table>
 
-> ℹ️ Cette page présente les 60 prompts les plus récents parmi plus de 4100 prompts sélectionnés. Les prompts proviennent de publications publiques et créditent leurs auteurs. Pour toute demande de retrait, écrivez à **team@moge.ai**.
+> ℹ️ Cette page présente les 60 prompts les plus récents parmi plus de 4200 prompts sélectionnés. Les prompts proviennent de publications publiques et créditent leurs auteurs. Pour toute demande de retrait, écrivez à **team@moge.ai**.
 >
-> 📊 Dernière mise à jour : 2026-09-14.
+> 📊 Dernière mise à jour : 2026-09-16.
 
 ---
 
 ## 🎩 Derniers prompts sélectionnés
 
-### No. 1: Publicité jus de grenade Tropicana
+### No. 1: Affiche Premium de Brochettes Grillées
 
 ![Catégorie: Publicité & produit](https://img.shields.io/badge/Cat%C3%A9gorie-Publicit%C3%A9%20%26%20produit-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche publicitaire premium de jus de grenade Tropicana avec bouteille héros, fruits frais, éclaboussure de jus maîtrisée et typographie éditoriale au format 4:5.
+Crée une affiche publicitaire premium de grillades avec une brochette grillée hyperréaliste, une architecture de prix orange et une typographie élégante.
 
 #### 🌟 Prompt
 
-TROPICANA — « SIP SUNSHINE » PROMPT MAÎTRE DE RECRÉATION PUBLICITÉ PREMIUM FMCG POUR RÉSEAUX SOCIAUX / 4:5 01 …
+Créez une affiche publicitaire de brochettes grillées ultra-premium de niveau Cannes pour une maison de …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-TROPICANA — « SIP SUNSHINE »
+Créez une affiche publicitaire de brochettes grillées ultra-premium de niveau Cannes pour une maison de barbecue urbaine fictive appelée EMBER SKEWER HOUSE, en préservant la logique structurelle exacte d'une affiche alimentaire moderne axée sur les ventes tout en fusionnant une narration d'appétit plus forte avec un réalisme alimentaire médico-légal et une mise en page plus élevée et moins promotionnelle. La composition est carrée ou presque carrée : un fond beige-crème chaud remplit le cadre, un bloc de texte éditorial en gras à gauche guide le regard, une grande architecture sculpturale de prix orange occupe la moitié droite, une brochette grillée héros sur une planche en bois premium entre puissamment depuis le bas à gauche vers le centre, et un plateau de service raffiné de brochettes et de salade fraîche en haut à droite équilibre la composition. L'image finale doit ressembler à une campagne de restaurant haut de gamme qui convertit toujours immédiatement.
 
-PROMPT MAÎTRE DE RECRÉATION
+Composition centrale : utilisez un champ beige mat doux avec une seule grande forme verticale orange arrondie ou pilier de prix abstrait ancrant le côté droit. Dans le quadrant supérieur gauche, placez un système de titre compact mais en gras, avec un mélange de sans-serif moderne et de typographie d'affichage légèrement expressive, suivi d'une seule ligne de support concise. Du bas à gauche vers le centre, placez une brochette grillée surdimensionnée présentée sur une longue planche de service en bois foncé qui coupe la composition comme un déclencheur d'appétit cinématographique. En haut à droite, placez un plateau peu profond premium avec des bouchées de brochette grillée sur des feuilles de salade croquantes, des tranches de concombre et des accents de radis. Au centre-inférieur droit, intégrez une grande et élégante déclaration de prix directement dans l'architecture orange. Supprimez l'encombrement du code QR, réduisez les mini badges promotionnels et laissez la mise en page respirer.
 
-PUBLICITÉ PREMIUM FMCG POUR RÉSEAUX SOCIAUX / 4:5
+Atmosphère Orbit : l'affiche doit ressembler au moment de charbon le plus désirable de la ville traduit en forme graphique. Le texte du côté gauche invite, le prix du côté droit atterrit avec confiance, et la brochette entrant dans le cadre ressemble à de la chaleur traversant vers le désir. Le ton émotionnel doit être chaleureux, immédiat et élégant plutôt que bruyant ou bon marché. Le plateau secondaire introduit fraîcheur et équilibre, faisant ressembler la scène à une marque de barbecue élevée plutôt qu'à un prospectus de rabais.
 
-01 — RÔLE DU SYSTÈME
+Réalisme Transit : rendez la brochette héros avec une précision de food styling de classe mondiale. Les morceaux de viande doivent montrer un glaçage caramélisé profond, une vraie cloque de grill, des mouchetures d'épices, une brillance de graisse fondue, des bords légèrement noircis et des fibres juteuses visibles sur les surfaces exposées. Le bâton de brochette doit montrer un ton et une épaisseur de bois crédibles. La planche de service doit avoir un grain poli chaud, des reflets de bord adoucis et une densité tactile. Le plateau en haut à droite doit porter une fraîcheur de salade croquante, un concombre hydraté, des tranches de radis translucides et des bouchées de brochette saisies proprement avec le même détail premium de braise. Chaque ingrédient doit se lire comme fraîchement dressé et commercialement exact.
 
-Vous êtes un système d'intelligence créative pluridisciplinaire d'élite opérant au niveau d'une agence de branding mondiale de premier plan.
+Typographie et logique de prix : préservez la logique publicitaire de l'image source mais affinez-la en un système plus premium. En haut à gauche, utilisez un titre fort en anglais comme « Fire-Kissed Flavor, Built to Crave » ou « More Than Grilled. Made to Desire. » En dessous, ajoutez une seule ligne de support courte, par exemple « House-cut skewers, charcoal-seared to perfection. » Sur le panneau orange de droite, placez un grand prix élégant comme « 10 » ou « 12 » avec un petit descripteur comme « skewer plate + salad. » Gardez la typographie en gras, lisible et luxueuse, sans densité de prospectus bon marché et sans micro-texte encombré.
 
-Domaines d'expertise : branding de boissons, publicité FMCG, direction artistique de la marque Tropicana, photographie commerciale de produit, food styling, photographie de liquides, conception de campagnes pour réseaux sociaux, design graphique éditorial, hiérarchie typographique, campagnes publicitaires premium, direction artistique et retouche.
+Retenue graphique : supprimez le bloc de code QR, supprimez l'excès de petits autocollants et réduisez tous les marqueurs promotionnels circulaires supplémentaires à au maximum un accent subtil si absolument nécessaire. Gardez les informations de contact/pied de page presque invisibles ou entièrement omises. Le résultat global doit ressembler à une affiche de lancement de restaurant premium, pas à une publicité d'offre rapide encombrée. Laissez la composition reposer sur l'échelle alimentaire, une hiérarchie propre et une géométrie contrôlée.
 
-Pensez comme un hybride de : Équipe Créative Globale Tropicana × AKQA × Pentagram × studio de photographie commerciale premium.
+Éclairage : utilisez un éclairage commercial de studio lumineux et chaud avec une emphase directionnelle subtile depuis le haut à gauche. La brochette héros doit recevoir le motif de reflet le plus riche, révélant la texture de braise, le glaçage et le volume de la viande. Le plateau en haut à droite doit sembler plus frais et plus propre avec des reflets de légumes croquants. La planche et le plateau doivent porter des reflets tactiles chauds. Le champ beige et la forme orange doivent rester assez plats pour la clarté du design mais doucement dimensionnels pour sembler premium. Pas d'ombres alimentaires boueuses, pas de flou huileux, pas de points noirs morts.
 
-Étudiez l'image de référence fournie comme référence de direction artistique visuelle et reproduisez sa logique publicitaire globale, sa composition, sa hiérarchie, ses relations de couleurs et son fini commercial, tout en gardant une exécution photoréaliste et cohérente. Ne faites pas une affiche de jus générique. Le résultat doit ressembler à une campagne Tropicana délibérément dirigée, pas à un collage d'IA.
+Matériau et texture : mettez l'accent sur la topographie de la croûte grillée, les fibres de viande, la brillance de la graisse, les granules d'épices rôties, l'humidité du concombre, la translucidité du radis, le croquant de la salade, le grain de la planche en bois, la finition du plateau et le corps mat doux du fond et de la structure graphique orange. Chaque surface doit sembler tactile, appétissante et hautement dirigée artistiquement.
 
-02 — TÂCHE
+Hiérarchie de couleurs : 50% de neutres beige et crème chauds avec une forte architecture de prix orange ; 35% de viandes ambre-brun grillées, de tons caramel rôti et de notes profondes de braise ; 15% d'herbes vertes fraîches, de concombre, de radis et de petits accents rouges. La palette doit sembler chaude, savoureuse, contrôlée et premium.
 
-Créez une affiche publicitaire premium pour réseaux sociaux du Tropicana Pomegranate Delight. Message central : SIP SUNSHINE. Créez une campagne vibrante de fraîcheur matinale mettant en vedette l'authentique bouteille Tropicana Pomegranate Delight comme produit héros. La scène combine : cuisine matinale premium + grenade fraîche + jus frais + mouvement de liquide maîtrisé + typographie éditoriale audacieuse + couleurs de la marque Tropicana. Le visuel final doit communiquer : fraîcheur / optimisme / vitalité / fruit naturel / meilleures matinées. Plateforme : Instagram. Ratio : vertical 4:5. Toile : 1080 × 1350. Qualité : photographie commerciale photoréaliste 8K.
+Intention de conception : l'affiche finale doit préserver la logique d'impact exacte de bloc de texte à gauche, architecture de prix à droite, planche de brochette héros en bas à gauche, plateau dressé en haut à droite, et lisibilité promotionnelle claire, tout en fusionnant l'atmosphère Orbit et le réalisme Transit en une campagne de barbecue plus propre, plus chère et plus dirigée artistiquement à l'échelle internationale. La nourriture doit maintenant porter plus de désir que la promotion elle-même, et le prix doit sembler être une note finale confiante plutôt que le point central de l'image.
 
-03 — ADN DE MARQUE
+Style de rendu : publicité alimentaire ultra-photoréaliste, campagne de brochette grillée premium, affiche de restaurant moderne, food styling commercial haut de gamme, architecture graphique de vente avec retenue de luxe, réalisme de texture appétissant, retouche commerciale de classe mondiale, finition prête à imprimer.
 
-Marque : Tropicana. Produit : Pomegranate Delight. Utilisez la bouteille de référence fournie comme référence stricte du produit. Préservez les éléments reconnaissables : bouteille rouge transparente, bouchon à vis vert, silhouette de la bouteille, proportions, boisson rouge de grenade, étiquette blanche Tropicana, logo vert Tropicana, imagerie de grenade, hiérarchie existante de l'étiquette. La bouteille doit ressembler au produit réellement photographié, pas à une réinterprétation IA. Personnalité de marque : fraîche / optimiste / naturelle / vibrante / accessible / premium grand public. Couleurs primaires : vert Tropicana + rouge grenade + orange chaud + blanc pur. Le rouge du produit doit être la couleur secondaire la plus forte tandis que le vert reste l'ancre reconnaissable de la marque.
-
-04 — OBJECTIF DE CAMPAGNE
-
-Créez un attrait appétissant immédiat qui arrête le défilement. Le spectateur doit voir instantanément : TROPICANA → GRENADE → JUS FRAIS → ÉNERGIE MATINALE. La réaction émotionnelle : « Ça a l'air incroyablement frais. » La campagne doit rendre le produit froid, juteux, rafraîchissant et désirable. Ne surchargez pas le spectateur d'informations produit. La création doit vendre l'expérience de fraîcheur, pas fonctionner comme une infographie nutritionnelle.
-
-05 — CONTEXTE HÉROS
-
-Créez une cuisine contemporaine premium et lumineuse par un beau petit matin. Une grande fenêtre à l'arrière-plan laisse entrer une lumière solaire naturelle et chaude. L'arrière-plan contient subtilement : des plantes vertes, une architecture de cuisine douce, des reflets matinaux naturels, des détails domestiques légèrement flous. Gardez l'environnement sophistiqué mais discret. Le premier plan est un plan de travail en marbre blanc/clair propre. Placez la bouteille Tropicana Pomegranate Delight de façon proéminente vers le centre-droite. La bouteille est fraîchement réfrigérée et couverte de condensation réaliste. À côté de la bouteille : une grenade entière mûre, une grande grenade fraîchement coupée, plusieurs graines de grenade naturellement éparpillées, quelques feuilles vertes fraîches. Un verre transparent rempli de jus de grenade rubis se trouve subtilement à l'arrière-plan/côté de la composition. Le fruit doit paraître véritablement comestible, humide et fraîchement préparé.
-
-06 — ENVIRONNEMENT NUMÉRIQUE
-
-Créez un arc contrôlé d'éclaboussure de jus rouge rubis derrière et autour de la bouteille. Le liquide doit visuellement provenir de l'environnement de grenade et former un mouvement courbe dynamique derrière le produit héros. L'éclaboussure doit rester physiquement crédible. Utilisez : viscosité réaliste, tension superficielle, bords transparents, gouttelettes naturelles, pulpe subtile, tailles de gouttes variées, réfraction réaliste, reflets précis. Le liquide doit sembler capturé par une caméra commerciale ultra-rapide. Ne créez pas d'explosion géante. L'éclaboussure est un dispositif visuel de soutien, pas le héros. La bouteille reste totalement lisible devant elle. De petites graines de grenade peuvent apparaître dans le bas du premier plan, mais gardez-les rares et intentionnelles.
-
-07 — PLAN DE COMPOSITION
-
-Composition publicitaire verticale 4:5. Structurez le cadre en trois zones visuelles. HAUT 30% : typographie éditoriale nette. Placez le titre de façon proéminente en haut à gauche : SIP SUNSHINE. « SIP » en rouge grenade/orange vibrant. « SUNSHINE » en vert Tropicana. Gardez la typographie audacieuse et compacte. En dessous : Bright mornings. Better choices. Puis une ligne de soutien plus petite : Bottled freshness to fuel your day. La typographie doit occuper le côté gauche sans toucher le produit. CENTRE 50% : la photographie produit domine. Bouteille Tropicana : point focal le plus grand + le plus net + le plus lumineux. Positionnez-la légèrement à droite du centre. L'architecture de la grenade entoure la partie inférieure de la bouteille. L'arc de jus crée du mouvement autour du produit. La bouteille doit rester visuellement séparée de l'arrière-plan. BAS 20% : créez un pied de page de marque Tropicana sophistiqué. Utilisez une vague verte organique fluide le long du bord inférieur. Introduisez une forme orange maîtrisée dans le coin inférieur droit. Placez le logo Tropicana dans le pied de page vert. Ajoutez des informations de marque discrètes et trois petites icônes circulaires de bénéfice. Le pied de page doit sembler un système d'identité de marque, pas un panneau graphique sans rapport. Maintenez un espacement généreux.
-
-08 — SYSTÈME TYPOGRAPHIQUE
-
-Titre principal : SIP SUNSHINE. Utilisez une sans-serif contemporaine condensée et audacieuse avec une forte présence publicitaire. Caractéristiques : graisse lourde, géométrie nette, haute lisibilité, interligne serré mais maîtrisé, alignement assuré, caractère FMCG moderne. « SIP » doit paraître énergique. « SUNSHINE » doit paraître frais et optimiste. Le texte secondaire doit être nettement plus petit. Hiérarchie suggérée : SIP (le plus grand), SUNSHINE (grand), Bright mornings. Better choices. (moyen), Bottled freshness to fuel your day. (petit), POMEGRANATE DELIGHT (petit descripteur de produit). Ne laissez pas la typographie dominer la photographie produit. Tout le texte doit être net, composé professionnellement et parfaitement aligné.
-
-09 — SYSTÈME GRAPHIQUE
-
-Construisez un langage graphique Tropicana cohérent. Utilisez : vert Tropicana, rouge grenade, orange chaud, blanc, courbes organiques subtiles, géométrie circulaire du fruit, séparateurs éditoriaux nets, iconographie retenue. La vague verte inférieure doit avoir un contour organique lisse. La forme orange en bas à droite doit créer un fort contrepoids visuel. Utilisez de petites icônes circulaires pour : RICH IN VITAMIN C, NO ADDED PRESERVATIVES, 100% GOODNESS. Gardez les icônes extrêmement simples et cohérentes. N'introduisez pas de graphiques sans rapport. Le système graphique doit sembler faire partie d'une identité de campagne développée professionnellement.
-
-10 — ÉCLAIRAGE / MATÉRIAU
-
-Photographie commerciale premium de boissons. Utilisez une lumière solaire matinale naturelle et chaude entrant par l'arrière-gauche/droite. La lumière doit créer : jus rouge lumineux, reflets brillants sur la grenade, liseré subtil sur la bouteille, reflets chauds sur le plan de travail, profondeur atmosphérique naturelle. Utilisez une lumière d'appoint professionnelle maîtrisée pour garder l'étiquette parfaitement lisible. Bouteille : condensation réaliste, minuscules gouttes d'eau, reflets subtils, comportement précis du plastique transparent, densité réaliste du liquide rouge. Grenade : graines brillantes, membranes humides, irrégularité naturelle, pépins réalistes, peau de fruit détaillée, humidité subtile. Plan de travail : texture de marbre réaliste, reflets maîtrisés, ombres de contact naturelles, légère humidité autour du fruit et de la bouteille. La photographie globale doit ressembler à un shooting commercial de boissons moyen format Canon/Sony éclairé professionnellement, pas à du CGI.
-
-11 — ANTI-SLOP
-
-ÉVITEZ ABSOLUMENT : esthétique générique de pub de jus, explosions aléatoires de fruits, liquide excessif, physique d'éclaboussure impossible, dizaines de graines flottantes, grenades dupliquées, feuilles dupliquées, fruits d'aspect plastique, faux jus CGI, bloom excessif, HDR excessif, couleurs néon, saturation extrême, flare de lentille artificiel, cuisine fantastique, accessoires excessifs, bouteille flottante, silhouette de bouteille déformée, bouchon incorrect, emballage redessiné, logo Tropicana déformé, allégations d'emballage inventées, typographie mal orthographiée, icônes aléatoires, décoration graphique excessive, logo secondaire géant, pied de page encombré, mise en page Canva générique, composition de banque d'images, aspect de prospectus promotionnel bon marché, flou de profondeur excessif, étalonnage cinématographique factice, effets visuels sans signification. Ne rendez pas tous les éléments également importants. La photographie produit doit rester le langage visuel dominant. Les graphiques doivent soutenir la photographie.
-
-12 — BARRE DE QUALITÉ
-
-Le résultat final doit ressembler à une vraie campagne publicitaire sociale premium Tropicana. Cible : QUALITÉ FMCG MONDIALE × PHOTOGRAPHIE COMMERCIALE × DIRECTION ARTISTIQUE NIVEAU BEHANCE. Auto-évaluez avant de finaliser : Alignement de marque 10/10, Précision produit 10/10, Fraîcheur 10/10, Attrait appétissant 10/10, Composition 10/10, Typographie 9+/10, Système graphique 9+/10, Photoréalisme 10/10, Pouvoir d'arrêt du défilement 10/10, Originalité 9+/10. Si une zone paraît générique, encombrée, artificielle ou générée par IA, affinez-la.
-
-RÈGLE FINALE DE DIRECTION ARTISTIQUE : la référence fournie établit la composition et la grammaire de campagne : titre audacieux → environnement matinal premium → bouteille héros → architecture de fruits → mouvement de jus maîtrisé → pied de page de marque. Ne reproduisez pas simplement des objets. Recréez l'intelligence publicitaire derrière la composition. L'image finale doit ressembler à une campagne Tropicana finie qui se trouve avoir été générée avec l'IA. Pas à une image IA tentant de ressembler à une publicité.
-
-4:5 vertical • 8K • ultra-photoréaliste • photographie FMCG premium • styling produit précis • design éditorial sophistiqué • branding Tropicana authentique • retouche commerciale • qualité étude de cas Behance • prête pour campagne.
+Prompt négatif : texte source copié, vrais noms de marque, code QR, mini autocollants promotionnels encombrés, style de prospectus de menu bon marché, viande d'aspect plastique, braise peu détaillée, géométrie de brochette déformée, texture de salade boueuse, typographie de prix illisible, pied de page encombré, éclairage plat, flou huileux, accessoires aléatoires, taches noires, filigrane
 ```
 
 </details>
@@ -121,7 +81,7 @@ RÈGLE FINALE DE DIRECTION ARTISTIQUE : la référence fournie établit la compo
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSHPW-5bYAAiXCF.jpg" width="700" alt="Publicité jus de grenade Tropicana">
+<img src="https://image.moge.ai/prompt_media/HSUy1iub0AAql9P.jpg" width="700" alt="Affiche Premium de Brochettes Grillées">
 </div>
 
 <br>
@@ -130,53 +90,180 @@ RÈGLE FINALE DE DIRECTION ARTISTIQUE : la référence fournie établit la compo
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) | [X / Twitter](https://x.com/Diplomeme/status/2099187306074906752) | 2026-09-13 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2100140737321206117) | 2026-09-16 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099187306074906752)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2100140737321206117)**
 
 </div>
 
 ---
 
-### No. 2: Affiches Éditoriales Mode Circulaires
+### No. 2: Photo en Kit de Biscuits Faits Main
 
 ![Catégorie: Visuels créatifs](https://img.shields.io/badge/Cat%C3%A9gorie-Visuels%20cr%C3%A9atifs-lightgrey)
 
 #### 📚 Description
 
-Crée une série cohérente de quatre affiches éditoriales mode 9:16, chacune structurée autour d'une forme circulaire dominante, avec des mannequins créant mouvement, profondeur et tension.
+Divise une image 3:4 en deux : la photo originale en haut et, en bas, un petit ensemble de biscuits artisanaux rustiques recréant fidèlement le sujet avec un emballage sur mesure.
 
 #### 🌟 Prompt
 
-Crée une série d'affiches éditoriales haute couture 9:16 avec un fort système de composition circulaire. Le …
+Observez attentivement chaque photo téléchargée une par une et transformez chacune en une affiche design …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Crée une série d'affiches éditoriales haute couture 9:16 avec un fort système de composition circulaire.
+Observez attentivement chaque photo téléchargée une par une et transformez chacune en une affiche design indépendante. Ne combinez pas plusieurs photos en un collage. Produisez toujours une œuvre par photo.
 
-Le style général doit évoquer les couvertures de magazines de mode contemporains et les affiches éditoriales de luxe : studio épuré, fond minimaliste, typographie nette, titres élégants en serif, mise en page raffinée, fort espace négatif et un rendu premium soigné.
+Le format général doit être une composition verticale 3:4. Divisez la toile exactement en deux à l'horizontale, 50% en haut et 50% en bas.
 
-Chaque image doit utiliser une forme circulaire dominante comme structure visuelle principale, le mannequin interagissant avec elle de manière à créer du mouvement, de la profondeur ou de la tension.
+Moitié supérieure = Photo originale
+Moitié inférieure = Un petit ensemble de biscuits faits main inspiré de la photo
 
-Garde une mise en page moderne et fashion, avec un grand texte de titre en anglais, un petit texte éditorial secondaire et une hiérarchie claire. Évite les logos, filigranes, encombrements superflus, symboles aléatoires et étiquettes numérotées.
+【Moitié Supérieure | Photo Originale | Le Plus Important】
 
-Pour ce premier ensemble, crée quatre variantes d'affiche indépendantes sous le même système visuel :
+Utilisez la photo originale telle quelle.
 
-1) « FULL TURN » — une femme dans une robe ivoire fluide pivotant sur place, avec un flou de mouvement circulaire spectaculaire du tissu autour d'elle et une couche intérieure rouge profond créant du contraste, fond noir, cinématographique et élégant.
+Ne remplacez pas la personne, le chat, le chien, l'animal, le bâtiment, la fleur, la nourriture, l'objet, le paysage ni aucun autre sujet par autre chose. Préservez avec précision le visage, l'expression, les yeux, les oreilles, la coiffure, la couleur du pelage, les motifs, la forme du corps, la posture, la pose, les vêtements, les objets, l'orientation, les couleurs, l'éclairage et l'atmosphère générale.
 
-2) « THE WATERLINE » — une femme dans une robe orange rouille à une épaule debout au bord d'une grande piscine circulaire, un pied entrant dans l'eau pour créer des ondulations, calme et minimaliste, avec une atmosphère éditoriale de resort de luxe.
+Étendez l'arrière-plan naturellement seulement si nécessaire. Ne déformez pas et n'altérez pas le sujet principal lui-même.
 
-3) « INWARD » — un jeune homme élégant dans un costume sans manches bleu cobalt assis à l'intérieur de cadres circulaires concentriques superposés en jaune, ivoire et anthracite foncé, créant de la profondeur et une composition de mode sculpturale.
+【Moitié Inférieure | Petit Ensemble de Biscuits Faits Main】
 
-4) « ORBIT VEIL » — un mannequin masculin dans un costume bleu pâle marchant à travers un grand anneau métallique drapé d'un tissu lavande translucide et doux, lumière douce, texture aérienne et une ambiance de mode moderne et sereine.
+Observez attentivement la photo originale et choisissez un sujet principal qui représente le mieux l'image.
 
-Les quatre images doivent sembler visuellement unifiées mais clairement différentes en sujet, style et ambiance. La première impression doit être frappante, épurée et fortement axée sur le design.
+Créez un « biscuit du sujet principal » qui recrée ce sujet, plus 2–4 « mini biscuits associés » naturellement inspirés du sujet, du lieu, de la saison, de l'événement ou de l'atmosphère de la photo, pour un ensemble total d'environ 3–5 petits biscuits.
+
+Par exemple, si le sujet principal est un chat, créez le chat lui-même plus des éléments comme un poisson, une friandise, une pelote de laine, une empreinte de patte ou un jouet, en choisissant ce qui convient le mieux à ce chat et cette photo spécifiques.
+
+N'utilisez pas la même combinaison à chaque fois. Concevez le contenu individuellement pour chaque photo.
+
+【Le Plus Important | Ne Généralisez Pas le Sujet Principal】
+
+Ne remplacez pas le biscuit du sujet principal par un « chat générique », un « chien générique », une « personne générique » ou une autre version généralisée.
+
+Le biscuit doit représenter l'individu, l'animal ou l'objet exact montré sur la photo originale.
+
+Portez une attention particulière à :
+
+* La forme du visage
+* L'expression
+* La forme des yeux
+* La forme et l'angle des oreilles
+* La coiffure
+* La couleur et les motifs du pelage
+* La forme du corps
+* L'orientation
+* La posture et la pose
+* Les objets ou accessoires distinctifs
+
+Faites correspondre ces détails à la photo originale aussi fidèlement que possible.
+
+Pour un chat, il ne doit pas être seulement reconnaissable comme « un chat ». En le comparant à la photo ci-dessus, la priorité absolue est que l'on ressente :
+
+« C'est exactement ce chat ! »
+
+Si le sujet est montré de profil, gardez-le de profil. S'il a l'air endormi, préservez l'expression endormie. S'il est assis, recréez la même pose assise. Ne le tournez pas arbitrairement vers l'avant et ne le changez pas de pose.
+
+【Comment Faire les Biscuits】
+
+N'imprimez pas la photographie sur un biscuit.
+
+Découpez plutôt les biscuits selon les formes réelles du sujet principal et de chaque motif.
+
+Ne dessinez pas simplement des traits marron sur des biscuits ronds ordinaires.
+
+Recréez les caractéristiques déterminantes avec des méthodes réalistes pour des biscuits faits main, comme la silhouette extérieure, les détails en léger relief et les variations naturelles de la couleur de la pâte.
+
+【Aspect Rustique Fait Main】
+
+Tous les biscuits doivent être assez petits, de taille miniature.
+
+Ne les rendez pas parfaitement lisses comme des produits industriels. Préservez des détails comme :
+
+* Des contours légèrement irréguliers
+* De subtiles distorsions
+* Des formes asymétriques
+* Une épaisseur inégale
+* De minuscules fissures ou bulles d'air
+* Des bords arrondis
+* Des variations naturelles de dorure
+
+Ils ne doivent pas ressembler à des biscuits ratés, mais avoir l'irrégularité charmante de biscuits découpés et cuits individuellement à la main.
+
+Cependant, la qualité faite main ne doit pas déformer le visage ou les caractéristiques distinctives du sujet principal au point qu'il ressemble à un sujet différent.
+
+【Emballage | Changez-le pour Chaque Photo】
+
+Disposez les 3–5 mini biscuits ensemble dans un petit emballage.
+
+N'utilisez pas de couleur, de motif, de matériau, de ficelle ou d'étiquette fixes pour l'emballage. Concevez-les automatiquement d'après la photo originale.
+
+Extrayez 2–3 couleurs d'éléments comme le pelage du sujet, les vêtements, les fleurs, le décor, la saison, le ciel, l'éclairage ou les couleurs d'accent, et transformez-les en une palette douce et légèrement désaturée.
+
+Si un motif est utilisé, faites-en un motif subtil dessiné à la main basé sur de petits motifs inspirés de la photo. N'imprimez pas la photographie elle-même.
+
+Choisissez un matériau d'emballage adapté à la photo, comme :
+
+* Un sachet transparent
+* Du papier glassine semi-transparent
+* Du papier ciré
+* Du papier de soie blanc cassé naturel
+* Un petit sac en papier
+
+Préservez la chaleur d'un emballage enveloppé à la main avec des plis naturels, des pliures légèrement irrégulières et un léger désalignement.
+
+【Le Plus Important | Ne Décorez Pas l'Arrière-plan】
+
+L'arrière-plan de la moitié inférieure ne doit être constitué que de papier très pâle et uni qui s'harmonise avec la photo, comme :
+
+* Blanc crème
+* Ivoire
+* Blanc cassé naturel
+* Beige clair
+* Blanc gris pâle
+
+N'ajoutez aucune fleur, plante, assiette, accessoire, ruban, chute de papier, motif, illustration ou autre décoration à l'arrière-plan.
+
+Rien ne doit y être placé à part l'ensemble de biscuits emballé. Laissez une grande quantité d'espace vide.
+
+【Le Plus Important | Gardez l'Ensemble Petit et Compact】
+
+Non seulement les biscuits, mais l'ensemble entier, emballage compris, doit paraître assez petit.
+
+À titre indicatif, l'emballage complet ne doit occuper qu'environ 25–30% de la largeur de la moitié inférieure. Ne l'agrandissez pas au point qu'il remplisse la section inférieure.
+
+La composition doit donner l'impression d'un petit paquet posé de façon décontractée près du centre d'un vaste champ d'espace vide et uni.
+
+Le petit paquet doit paraître compact, souple et légèrement dodu, presque comme s'il avait simplement été posé là.
+
+Il peut être légèrement incliné, et les mini biscuits à l'intérieur peuvent se chevaucher naturellement. Cependant, le visage, la forme et les traits distinctifs du biscuit du sujet principal doivent rester clairement reconnaissables.
+
+Utilisez une lumière naturelle douce et seulement une ombre de contact très légère. Ne faites pas flotter le paquet en l'air. Il doit sembler naturellement posé sur du vrai papier.
+
+【Image Finale】
+
+Moitié supérieure = Photo originale exactement telle quelle
+Moitié inférieure = Biscuit du sujet principal ressemblant beaucoup à la photo + mini biscuits associés inspirés de la photo + emballage personnalisé conçu spécialement pour cette photo
+
+Le sujet principal doit avoir le même visage, la même expression, la même orientation, la même posture et les mêmes traits déterminants que sur la photo originale.
+
+Les biscuits doivent être petits, légèrement irréguliers, rustiques et faits main.
+
+L'emballage doit changer de couleur, de motif et de matériau selon chaque photo.
+
+L'arrière-plan doit rester totalement simple et uni.
+
+L'ensemble entier doit être assez petit, disposé de façon compacte au milieu d'une grande quantité d'espace vide.
+
+En comparant la photo ci-dessus avec les biscuits ci-dessous, l'œuvre finie doit faire ressentir au spectateur :
+
+« Cette photo a été transformée directement en un minuscule ensemble de biscuits faits main ! »
 ```
 
 </details>
@@ -184,7 +271,7 @@ Les quatre images doivent sembler visuellement unifiées mais clairement différ
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSHtZj9WgAAttgq.jpg" width="700" alt="Affiches Éditoriales Mode Circulaires">
+<img src="https://image.moge.ai/prompt_media/HSSkn-zWYAExE4e.jpg" width="700" alt="Photo en Kit de Biscuits Faits Main">
 </div>
 
 <br>
@@ -193,13 +280,13 @@ Les quatre images doivent sembler visuellement unifiées mais clairement différ
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2099220110355697893) | 2026-09-13 |
+| [Kris Kashtanova](https://x.com/icreatelife) | [X / Twitter](https://x.com/icreatelife/status/2099984336393048565) | 2026-09-15 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099220110355697893)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099984336393048565)**
 
 </div>
 
@@ -264,26 +351,56 @@ NÉGATIF : forme altérée, proportions déformées, texte, éléments suppléme
 
 ---
 
-### No. 4: Affiche d'information cérémonielle minimaliste
+### No. 4: Affiche Culturelle Orientale en Collage Papier
 
 ![Catégorie: Supports marketing](https://img.shields.io/badge/Cat%C3%A9gorie-Supports%20marketing-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche d'information minimaliste et solennelle sur n'importe quel thème, avec titre centré, trois symboles abstraits et un vaste espace blanc dans un style de catalogue de musée.
+Crée une affiche culturelle orientale moderne avec de grands aplats de couleur en papier artisanal et une micro-scène narrative de figurines au travail artisanal.
 
 #### 🌟 Prompt
 
-Composez une affiche d'information minimaliste à l'allure cérémonielle autour de n'importe quel thème. Au …
+【Thème de l'affiche】 【Titre principal】 【Champ de couleur principal】 【Micro-scène】 【Action des figures】 …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Composez une affiche d'information minimaliste à l'allure cérémonielle autour de n'importe quel thème. Au premier regard, un titre principal précisément centré doit apparaître dans un vaste champ vide de blanc chaud, en opposition solennelle avec trois symboles thématiques : le thème fournit le nom central, les participants ou mots-clés, convertis en un grand titre à traits fins en haut, un ensemble de signes abstraits reconnaissables au centre et des blocs de couleur unie sur les côtés — la sémantique change, l'ordre non. Conservez une forte proportion d'espace blanc, un axe vertical central, une division haut/bas et le rythme de pause de fines lignes noires horizontales ; tous les éléments disposés avec retenue, comme un catalogue d'exposition ou un annuaire d'institution internationale. Le texte principal utilise une serif fine à fort contraste ou une forme équivalente, aux contours ouverts, traits fins, terminaisons nettes et rythme aéré, gardant une ossature élancée, un interlettrage large, une lisibilité claire et une respiration sereine dans tout système d'écriture, sans copier une fonte latine spécifique. Les couleurs extraient deux couleurs représentatives de haute pureté du thème en blocs à bords nets ; le signe central n'utilise que des lignes noires et un peu de géométrie pleine ; le fond est un blanc chaud légèrement texturé papier, sans dégradés, ombres ni textures décoratives. En bas, avec un centre de gravité plus bas, placez le sous-titre et un petit texte explicatif ; en pied de page, une information microscopique en trois points ancre le bord, créant le contraste d'un thème grandiose dompté par l'espace blanc muséal. Symptômes d'échec : éléments saturés, couleurs criardes, polices épaisses, icônes réalistes ou perte de l'ordre rituel austère.
+【Thème de l'affiche】
+【Titre principal】
+【Champ de couleur principal】
+【Micro-scène】
+【Action des figures】
+【Éléments culturels】
+【Informations de l'événement】
+【Format du cadre】
 
-——————
-Définissez le thème comme « Journée portes ouvertes de la bibliothèque publique municipale », pour l'affiche principale d'un événement d'institution culturelle publique : utilisez l'indigo et le rouge cinabre comme deux couleurs de bloc de haute pureté, au centre des lignes noires abstraient des pages de livre ouvertes et un arc de portail ; le groupe de symboles descend fermement sous le titre le long de l'axe vertical ; le titre principal est centré dans la moitié supérieure, le sous-titre et la date formant en dessous une hiérarchie clairsemée à deux niveaux ; conservez un vaste espace blanc chaud et des pauses de fines lignes noires ; format vertical 3:4.
+Concevez une affiche d'événement culturel à l'esthétique éditoriale orientale moderne, en utilisant comme méthode centrale « grand champ de couleur + micro-scène » et en combinant la texture matérielle du collage papier, de l'aquarelle et des pigments naturels.
+
+L'image établit d'abord un 【champ de couleur principal】 clair et visuellement pesant. Utilisez de grands blocs de couleur en papier, irréguliers et aux bords naturels, pour porter la composition principale ; selon le 【thème de l'affiche】, laissez les blocs former un espace abstrait par superposition, encerclement, décalage, entrelacement, suspension, extension ou relations d'espace négatif. Les blocs peuvent suggérer montagnes, cours, ateliers, tissus teints, fours à céramique, bois, etc., mais ne doivent pas être peints comme des scènes réalistes ordinaires.
+
+Les blocs de papier doivent avoir une matérialité réelle évidente et raffinée : fibres naturelles longues et courtes, granules de pâte artisanale, dépôts d'aquarelle ou de pigments minéraux, légères marques de pression, dégradés naturels, grandes variations de couleur et bords déchirés irréguliers. Riche en texture mais restant propre, complet, mat et respirant. Évitez saleté, taches jaunes, décoloration sévère, tavelure aléatoire, bruit fort et effets bon marché de faux vieillissement.
+
+Le grand champ de couleur est le premier élément visuel. De loin, on doit voir d'abord les grandes formes claires, les relations de couleur et la structure spatiale, en gardant sa lisibilité même réduit à la taille d'un fil de réseaux sociaux. Ne dépendez pas de textes minuscules ou de détails complexes.
+
+Dans l'espace formé par les grands blocs, ajoutez une 【micro-scène】 de très petite échelle mais narrativement complète. Figures et accessoires occupent au total environ 2%–5% de l'image ; les figures exécutent réellement l'【action des figures】, sans regarder l'objectif ni poser. La micro-scène ne doit être découverte qu'en s'approchant et raconter une petite histoire par la relation des actions.
+
+Selon le thème, ajoutez naturellement peu d'【éléments culturels】, comme céramique, papier artisanal, tissus teints, paniers en bambou, ustensiles à thé, plantes, cithare ancienne, cerfs-volants, table en bois, outils, etc. Les objets doivent réellement participer à la scène, sans accumulation décorative ni étalage commercial ordonné.
+
+L'image peut comporter une couleur d'accent de surface minimale, comme rouge cinabre, orange chaud, or sec ou couleur de flamme, généralement limitée à 1%–3% de la surface totale. La couleur d'accent doit se rapporter au thème, comme le feu du four, des empreintes, des objets, des matériaux de teinture ou des points de lumière naturelle, et non être ajoutée au hasard.
+
+Le titre principal 【titre principal】 utilise une police raffinée et sobre, comme le Song/Ming chinois ou au caractère éditorial moderne. Le corps du titre reste de taille moyenne-petite, sans typographie géante, sans dominer le grand champ de couleur. L'anglais auxiliaire, la date, le lieu et le type d'événement utilisent un corps plus petit, formant une hiérarchie d'information claire et préservant un large espace blanc.
+
+La mise en page évite le centrage régulier et la grille type PPT. Privilégiez une composition asymétrique, des contrastes de taille, des variations de densité, de grandes zones blanches, le décalage des blocs et la superposition avant-arrière, pour que le texte entre naturellement dans l'image comme l'information éditoriale d'une institution culturelle, sans couvrir le sujet visuel principal.
+
+L'ordre de lecture global doit être :
+
+grand champ de couleur en papier et relations matérielles → micro-scène de figures et de comportement culturel → titre principal → petites informations de l'événement.
+
+Le résultat final est une affiche culturelle orientale moderne qui est « de loin simple avec de grandes formes, de près raffinée avec texture et histoire ». Dans l'ensemble, elle doit réunir les caractéristiques du collage papier, de la texture aquarelle, du design éditorial, de la narration miniature et du visuel d'événement culturel, raffinée mais pas excessivement complexe.
+
+Évitez : allure de couverture de livre, titres géants, peinture à l'encre traditionnelle, illustration de style chinois ordinaire, fond photographique réaliste, mise en page type PPT, allure de publicité commerciale, accumulation d'éléments, mots anglais sans sens en placeholder, papier sale et vieux, bruit fort, texture plastique, 3D CGI, matériau de verre, couleurs néon, logo, filigrane, numérotation et ornements en étoile.
 ```
 
 </details>
@@ -291,7 +408,7 @@ Définissez le thème comme « Journée portes ouvertes de la bibliothèque publ
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSHLijVaQAAJZkh.jpg" width="700" alt="Affiche d&#x27;information cérémonielle minimaliste">
+<img src="https://image.moge.ai/prompt_media/HSQELxXXAAAdRgJ.jpg" width="700" alt="Affiche Culturelle Orientale en Collage Papier">
 </div>
 
 <br>
@@ -300,53 +417,89 @@ Définissez le thème comme « Journée portes ouvertes de la bibliothèque publ
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [小小东](https://x.com/xiaoxiaodong01) | [X / Twitter](https://x.com/xiaoxiaodong01/status/2099183233166614915) | 2026-09-13 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2099810103318733179) | 2026-09-15 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099183233166614915)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099810103318733179)**
 
 </div>
 
 ---
 
-### No. 5: Portrait Duo au Fusain Noir
+### No. 5: Portrait Aquarelle et Encre à Contraste de Couleurs
 
 ![Catégorie: Illustration & IP](https://img.shields.io/badge/Cat%C3%A9gorie-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche verticale avec la photo réelle en haut et une silhouette minimaliste au fusain noir du même sujet en bas, style livre pour enfants.
+Transforme un selfie en portrait féminin aquarelle et encre, avec contraste de couleurs chaudes/froides, éclaboussures et traits fluides.
 
 #### 🌟 Prompt
 
-Crée une affiche verticale de style « diptyque haut/bas », la toile étant strictement divisée en deux zones, …
+Utilisez l'image téléchargée UNIQUEMENT comme référence de visage et d'identité. Ne modifiez pas la structure …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Crée une affiche verticale de style « diptyque haut/bas », la toile étant strictement divisée en deux zones, en conservant globalement de larges espaces blancs, une ambiance calme et une sensation raffinée d'édition de livre pour enfants.
+Utilisez l'image téléchargée UNIQUEMENT comme référence de visage et d'identité. Ne modifiez pas la structure du visage, les proportions ni le réalisme.
 
-Partie supérieure :
-Montre la photo originale téléchargée par l'utilisateur. Le sujet se limite à des personnes, des animaux de compagnie, des animaux ou à l'interaction entre personnes et animaux, en préservant l'état photographique réel du sujet, y compris la forme, la couleur du pelage ou de la peau, la coiffure, les vêtements, la posture, l'action, l'expression et le tempérament général. La partie supérieure n'est pas redessinée en style illustration ; elle doit ressembler à une photo de référence propre, réelle et nette. L'arrière-plan peut être modérément simplifié et recadré, mais ne laisse pas les bâtiments et l'environnement devenir les vedettes ; l'accent reste toujours sur le sujet humain ou animal.
+Créez un portrait féminin en techniques mixtes à l'aquarelle, très détaillé, avec une POSE STRICTEMENT VERROUILLÉE :
+Vue de trois quarts de dos
+Haut du corps légèrement détourné de la caméra
+Tête tournée par-dessus l'épaule vers le spectateur
+Contact visuel direct
+Le cadre inclut la tête, le cou et une partie de l'épaule
+Composition très serrée (focus portrait)
 
-Partie inférieure :
-Extrais le même sujet de la photo supérieure et reconstruis-le en une illustration de silhouette minimaliste au médium sec noir et épais. Ne recopie pas mécaniquement les détails de la photo, mais comprime le sujet en formes arrondies, trapues et légèrement naïves ; tu peux agrandir modérément la tête, le visage, les oreilles, les gestes des mains, la queue, le contour du corps ou la partie la plus mémorable, afin qu'il reste reconnaissable au premier coup d'œil avec très peu d'informations. Si la photo contient plusieurs sujets, conserve l'interaction la plus importante en les traitant comme une seule unité visuelle, plutôt que de disperser le focus de façon égale.
+Expression (IMPORTANT) :
+Calme mais émotionnellement intense, regard doux mais perçant, lèvres légèrement entrouvertes, tension subtile et naturelle du visage — sans émotion exagérée.
 
-Utilise uniquement un fond de papier presque entièrement blanc + des traces denses de craie noire, de fusain ou de frottement sec ; pas de couleur, pas de dégradés de gris. Les formes noires ne sont pas des blocs vectoriels lisses et pleins, mais résultent d'applications répétées, courtes et vigoureuses de craie, en conservant le grain du papier, les traits interrompus, les marques de pression, les bords rugueux, la densité irrégulière et le blanc partiellement apparent. Les contours tremblent légèrement, restent incomplets et imprécis, préservant une authentique sensation faite main.
+Style de rendu (VERROUILLÉ)
+Illustration hybride aquarelle + encre
+Lavis fluides et doux + trait d'encre net
+Fines lignes sombres définissant yeux, nez, lèvres, mâchoire
+Pas de flou pictural, pas d'effet peinture à l'huile
 
-Les caractéristiques de reconnaissance les plus cruciales du sujet peuvent être renforcées par des « zones blanches de trait soudainement découpées dans la silhouette noire », comme le contour du visage d'une personne, la zone autour des yeux, la ligne des cheveux, la forme de la bouche, le visage de l'animal, la zone du museau, le motif sur le poitrail, la structure centrale d'un objet ou la partie la plus reconnaissable ; puis complète l'expression et les détails avec très peu de points noirs, de courtes lignes ou de symboles. Ne cherche pas de traits réalistes ni de structures précises, mais laisse le noir et le blanc former une relation de reconnaissance directe, amusante et intense.
+Couleur & Éclairage (STRUCTURÉ)
+Fort contraste de couleurs divisé :
+Côté gauche → chaud (jaune, orange, magenta)
+Côté droit → froid (bleu, cyan, violet)
+Lumière abstraite venant du haut à gauche (représentée par des éclats de couleur, pas une lumière réaliste)
+Les teintes de peau se fondent naturellement avec les pigments d'aquarelle (pas de coloration plate)
 
-Garde la composition avec de vastes zones de blanc pur + une relation visuelle principale. Le sujet peut flotter au centre, ou être légèrement décalé, partiellement recadré ou placé près du bas, en n'utilisant qu'une ligne de frottement au sol grossière, quelques courtes lignes ou très peu de symboles d'environnement pour suggérer l'espace. Les brins d'herbe, le vent, la table, le sol, la fumée, la route, l'ombre ou d'autres informations environnementales doivent être réduits à très peu de marques de craie, afin que le fond reste calme et vide. Globalement, ne cherche pas de scènes complexes, mais laisse une posture, une action, une distance ou une relation porter le récit principal.
+Comportement de l'aquarelle (TRÈS IMPORTANT)
+Fusion humide sur humide sur le visage et la peau
+Éclaboussures de peinture visibles autour du sujet
+Éclaboussures et gouttes d'encre contrôlées
+Coulures verticales subtiles (surtout en bas)
+Épanouissements organiques de couleur et bords de pigment
+Les couleurs débordent légèrement des contours (rendu aquarelle naturel)
 
-Conserve un système discret de petits textes mêlant raffinement éditorial et ambiance de livre pour enfants. N'écris pas seulement le lieu ou le nom de l'objet, mais extrais de l'émotion, de l'action, de la relation, du temps ou de la petite histoire de la photo un court titre en anglais, accompagné d'une numérotation, d'une formule adaptée, d'un numéro de chapitre ou d'une très courte légende subtile. Le texte peut être de petites lettres typographiques sobres, ou inclure très peu d'écriture manuscrite maladroite, de lettres à la craie ou de formes pas tout à fait régulières, afin qu'il semble appartenir d'origine à cette illustration.
+Cheveux (RESPECTER LE STYLE)
+Attachés lâchement ou chignon décoiffé
+Mèches fines autour du visage
+Les cheveux absorbent les couleurs environnantes (bleu, violet, reflets chauds)
+Légère sensation de mouvement, pas statique
 
-Le texte doit entretenir une relation astucieuse avec les formes : il peut s'aligner sur la ligne du sol, s'étendre dans la direction du mouvement du sujet, se cacher dans de grands espaces blancs, chevaucher légèrement le contour, se coincer dans la forme négative entre deux sujets, ou relier la numérotation au sujet par une fine ligne. Garde « un court titre + 1 à 2 groupes de textes auxiliaires minuscules », faisant du texte une partie du rythme de la composition, et non un titre d'affiche ordinaire.
+Arrière-plan
+Base blanche épurée
+Éclaboussures dynamiques d'aquarelle derrière le sujet (non aléatoires — en accord avec la composition)
+Pas d'encombrement, pas d'objets
 
-Globalement, présente les caractéristiques visuelles de « photo originale réelle en haut + noir épais, blanc net, formes simples et texture rugueuse en bas », en maintenant un équilibre subtil entre l'enfantin, le doux, le calme, l'humoristique et le solitaire, tel un vieux livre pour enfants en noir et blanc réédité par un studio de design raffiné. Évite les contours numériques lisses, les traits précis, la lumière et l'ombre réalistes, la peinture épaisse, les effets tridimensionnels, la couleur, le rendu de grandes zones de gris, l'aspect autocollant de dessin animé et l'illustration commerciale calibrée sur modèle.
+Texture
+Grain visible du papier aquarelle grain torchon
+Bords de pigment légèrement rugueux
+Imperfections naturelles de l'aquarelle préservées
+
+Style : illustration expressive aquarelle + encre
+
+Ambiance : artistique, pleine d'âme, émotionnellement engageante
+
+Format : 4:5
 ```
 
 </details>
@@ -354,7 +507,7 @@ Globalement, présente les caractéristiques visuelles de « photo originale ré
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSFCJ3cagAAMcTi.jpg" width="700" alt="Portrait Duo au Fusain Noir">
+<img src="https://image.moge.ai/prompt_media/HSTsKWyboAAgUJT.jpg" width="700" alt="Portrait Aquarelle et Encre à Contraste de Couleurs">
 </div>
 
 <br>
@@ -363,35 +516,35 @@ Globalement, présente les caractéristiques visuelles de « photo originale ré
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [DAAI](https://x.com/zhidawang219555) | [X / Twitter](https://x.com/zhidawang219555/status/2099031654975361099) | 2026-09-13 |
+| [Kubra Ai](https://x.com/Kubra_286) | [X / Twitter](https://x.com/Kubra_286/status/2100063240105435328) | 2026-09-16 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099031654975361099)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2100063240105435328)**
 
 </div>
 
 ---
 
-### No. 6: Rêverie de Tournesols au Soleil
+### No. 6: Portrait d'une femme en saree au soleil
 
 ![Catégorie: Photographie & image](https://img.shields.io/badge/Cat%C3%A9gorie-Photographie%20%26%20image-lightgrey)
 
 #### 📚 Description
 
-Portrait éditorial en lumière naturelle d'une jeune femme aux marguerites dans les cheveux serrant des tournesols, devant un mur de stuc beige aux ombres diagonales et lueur dorée.
+Crée un portrait élégant et serein d'une femme en saree traditionnel sud-asiatique, assise près d'une fenêtre donnant sur une skyline sous une lumière naturelle.
 
 #### 🌟 Prompt
 
-Portrait éditorial en lumière naturelle d'une jeune femme aux longues ondulations brun foncé ébouriffées et à …
+Crée une image qui capture une femme vêtue d'une tenue traditionnelle sud-asiatique, regardant sur le côté …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Portrait éditorial en lumière naturelle d'une jeune femme aux longues ondulations brun foncé ébouriffées et à la frange douce, de minuscules marguerites blanches parsemées dans ses cheveux, regardant rêveusement sur le côté, portant une robe milkmaid à épaules dénudées et manches bouffantes en crème à fleurs roses et vertes, serrant un grand bouquet de tournesols frais aux feuilles vertes ; devant un mur de stuc beige chaleureux avec de spectaculaires rayures d'ombre diagonales projetées sur la scène ; lumière solaire chaude en contre-plongée venant du haut à gauche créant de fortes ombres directionnelles et une lueur dorée gorgée de soleil, palette chaude de doré miel, crème, rose poudré et vert olive avec un profond contraste ombre-lumière ; pris avec un objectif portrait 85mm à f/2.2, faible profondeur de champ, composition verticale, angle légèrement au-dessus du niveau des yeux, cadré à partir de la taille avec les tournesols ancrant le premier plan ; peau lumineuse embrassée par le soleil avec diffusion sous-cutanée naturelle et taches de rousseur douces, lèvres brillantes et humides, cheveux ondulés richement détaillés avec des mèches folles éclairées par le soleil, pétales de marguerite délicats et nets, texture tactile du tissu floral, pétales de tournesol vifs et détaillés, finition propre, chaleureuse et haute résolution en lumière naturelle, ultra-détaillé, 8k.
+Crée une image qui capture une femme vêtue d'une tenue traditionnelle sud-asiatique, regardant sur le côté avec un léger sourire. Elle porte un saree blanc cassé semi-transparent orné de délicats motifs tissés dans des teintes vives de rouge, vert, jaune et bleu. Son chemisier rayé à manches courtes s'accorde parfaitement aux rayures métalliques aux tons chauds parcourant le tissu de son saree. Ses bijoux comprennent un ras-du-cou ouvragé en or ancien, des bracelets en or superposés aux deux poignets et un discret bindi rouge sur le front. Ses cheveux foncés sont soigneusement noués en un chignon bas, quelques mèches douces encadrant son visage. Elle pose délicatement une main près de ses cheveux, apportant à sa posture un aspect naturel et spontané. Elle est assise en intérieur près d'une grande fenêtre vitrée, offrant une vue douce et floue d'une skyline urbaine ensoleillée avec de grands immeubles sous un ciel bleu clair. La lumière naturelle du soleil illumine ses traits, mettant en valeur son maquillage doux et son teint chaleureux. À gauche, une touche de feuillage vert en pot ajoute une texture naturelle à la scène intérieure. La composition globale offre une esthétique élégante, sereine et chaleureuse. Sans fleur dans les cheveux
 ```
 
 </details>
@@ -399,7 +552,7 @@ Portrait éditorial en lumière naturelle d'une jeune femme aux longues ondulati
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSHVUioaoAA9Kms.jpg" width="700" alt="Rêverie de Tournesols au Soleil">
+<img src="https://image.moge.ai/prompt_media/HSUG7DhaIAA8a4J.jpg" width="700" alt="Portrait d&#x27;une femme en saree au soleil">
 </div>
 
 <br>
@@ -408,57 +561,55 @@ Portrait éditorial en lumière naturelle d'une jeune femme aux longues ondulati
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Ozair AI](https://x.com/Ozayrr_irl) | [X / Twitter](https://x.com/Ozayrr_irl/status/2099193471051395154) | 2026-09-13 |
+| [Zorvia](https://x.com/ZorviaLux) | [X / Twitter](https://x.com/ZorviaLux/status/2100092422814667089) | 2026-09-16 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099193471051395154)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2100092422814667089)**
 
 </div>
 
 ---
 
-### No. 7: Affiche de Bouteille en Sanctuaire de Glace
+### No. 7: Affiche du vieillissement sain AUREM VITA
 
 ![Catégorie: Publicité & produit](https://img.shields.io/badge/Cat%C3%A9gorie-Publicit%C3%A9%20%26%20produit-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche publicitaire de luxe avec une bouteille isotherme premium tenue par une patte de bête arctique sur un socle de glace dans une grotte glaciaire.
+Crée une affiche éditoriale de luxe pour une marque fictive de longévité : deux visages féminins en très gros plan partagent le cadre pour célébrer un vieillissement gracieux.
 
 #### 🌟 Prompt
 
-Crée une affiche publicitaire d'hydratation outdoor ultra-premium de niveau Cannes pour une maison fictive de …
+Crée une affiche publicitaire de vieillissement sain, ultra-premium et de niveau Cannes, pour une maison …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Crée une affiche publicitaire d'hydratation outdoor ultra-premium de niveau Cannes pour une maison fictive de gourdes d'expédition nommée GLACIER HOWL, en préservant la logique structurelle exacte d'une campagne hero-shot en grotte gelée tout en fusionnant un réalisme matériel forensique avec un registre émotionnel plus froid, plus silencieux et plus élevé. La composition est verticale et symétrique dans le ressenti : une caverne de glace arctique encadre l'image par le haut et les deux côtés, une unique gourde isotherme de luxe est tenue au centre par une patte de bête polaire gardienne couverte de givre, la gourde s'élève au-dessus d'un piédestal de glace sculpté, une zone de titre supérieure retenue couronne le cadre, et une bande éditoriale inférieure minimale ancre la composition. L'image finale doit évoquer un luxe polaire mythique, non un e-commerce ordinaire.
+Crée une affiche publicitaire de vieillissement sain, ultra-premium et de niveau Cannes, pour une maison fictive de skincare de longévité nommée AUREM VITA, en préservant la logique structurelle exacte d'une campagne éditoriale intime de visage divisé, tout en fusionnant chaleur émotionnelle, réalisme forensique de la peau et un système de texte ultra-réduit. La composition est verticale et bord à bord : deux visages féminins adultes remplissent tout le cadre en très gros plan, se rejoignant étroitement à la ligne centrale, avec seulement une étroite couture de cheveux et une transition de peau entre eux. Une femme à gauche paraît légèrement plus jeune et sereine ; la femme à droite paraît plus âgée, chaleureusement expressive et visiblement belle dans son âge. L'image finale doit se ressentir comme un manifeste de luxe pour un vieillissement gracieux, non comme une publicité correctrice de beauté.
 
-Composition centrale : place le spectateur à l'intérieur d'une chambre glaciaire en forme de cathédrale naturelle. La grotte de glace se courbe vers l'intérieur par la gauche et la droite, avec des stalactites allongées descendant du plafond et une ouverture froide et pâle brillant doucement dans l'arrière-plan profond. Au premier plan central, un piédestal de glace monumental s'élève du sol gelé avec des arêtes planes nettes et de subtiles marques sculptées. Depuis la droite, une grande patte de bête arctique entre et saisit la gourde à la verticale avec un contrôle délibéré, légèrement inclinée mais visuellement stable, la présentant au spectateur. La gourde doit demeurer l'autorité visuelle absolue. Retire tout encombrement inutile, gardant l'environnement spacieux, silencieux et sculptural.
+Composition centrale : remplis le cadre avec les visages de deux femmes adultes, cadrés serré du front à la joue inférieure et à la zone des lèvres, afin que la peau elle-même devienne le paysage. Le visage de gauche doit présenter un calme immobile et une peau plus lisse mais toujours pleinement vivante. Le visage de droite doit présenter un sourire doux avec des lignes fines visibles mais élégantes autour de l'œil, de la joue et de la bouche. Leurs visages doivent s'aligner intimement et naturellement, se lisant comme une continuité à travers le temps plutôt qu'un contraste entre opposés. Garde le cadrage frontal, proche et silencieux, avec un œil de chaque sujet clairement lisible et la ligne de rencontre entre elles adoucie par quelques fins brins de cheveux naturels.
 
-Design du produit : invente une gourde signature pour GLACIER HOWL avec un corps dense bleu-glacier mat, une base et un couvercle en titane brossé, une boucle de transport rectangulaire intégrée et un branding intégré extrêmement minimal. La surface porte une floraison de givre raffinée, une délicate cristallisation de glace, une condensation froide sèche et une finition premium impeccable sans usure. La zone d'étiquette ne doit contenir qu'un texte discret intégré tel que « GLACIER HOWL » et « ARCTIC CORE », composé avec une élégante retenue. L'objet doit sembler conçu, collectionnable et cher, comme un instrument de survie polaire raffiné en icône de design.
+Atmosphère Orbit : le ton émotionnel doit se ressentir comme le temps tenu près de la peau. L'image ne concerne pas la jeunesse contre l'âge, mais la grâce de la peau qui continue à vivre, bouger et se souvenir. Le côté droit doit rayonner chaleur, douceur et confiance ; le côté gauche doit tenir composure, lumière calme et potentiel. Ensemble, les deux visages doivent se ressentir comme un dialogue intime entre la beauté présente et la beauté future, créant un champ émotionnel tendre et intelligent plutôt qu'un message de vente.
 
-Atmosphère : le ton émotionnel doit suggérer un sanctuaire arctique gardé par un froid ancestral. La grotte n'est ni hostile ni chaotique ; elle est silencieuse, révérencieuse et raréfiée. La lumière lointaine bleu-blanc semble presque sacrée, comme si l'objet avait été révélé dans une chambre cérémonielle gelée. La patte de la bête se lit moins comme de l'agression et plus comme une garde, une offrande mythique du paysage lui-même. Le cadre doit communiquer contrôle, immobilité, endurance et puissance tranquille.
+Réalisme Transit : rends les deux visages avec une précision de peau éditoriale de classe mondiale. Montre des pores subtils, un fin duvet, des transitions réalistes sous les yeux, une texture douce des sourcils, une texture naturelle des lèvres et des glissements tonals nuancés à travers la peau. Sur le visage plus âgé, préserve pattes d'oie, lignes de sourire, plis doux de joue et texture vécue sans exagération. Sur le visage plus jeune, préserve l'élasticité réelle de la peau, des pores doux et une asymétrie naturelle plutôt que de la lisser en plasticité cosmétique. Les cheveux traversant la couture centrale doivent être délicats, nets et crédibles. Le portrait entier doit se ressentir photographique, tactile et respectueusement réel.
 
-Réalisme matériel : rends chaque transition de matériau avec une précision physique. Souligne la peau mate poudrée de la gourde, la fine directionnalité brossée du titane, les reflets sur les bords de la boucle de transport, les microcristaux de givre à la couture du bouchon, le contact de pression où les doigts griffus compriment la gourde, les mèches de fourrure semi-humides agglutinées par l'humidité gelante, la texture de griffe en kératine aux pointes glacées, la lueur translucide sous-surface des parois de la grotte et l'effilement net des stalactites. Le piédestal doit montrer une masse gelée dense, une abrasion de surface, une fine poussière de neige et une insigne gravée subtile. Chaque surface doit sembler photographiquement exacte et retouchée commercialement à un standard de classe mondiale.
+Système de texte réduit : comprime tout le texte à seulement deux éléments. Dans le coin supérieur gauche, place une petite marque élégante et le nom « AUREM VITA ». Dans la zone centre-gauche, place seulement un grand titre anglais à empattement tel que « The Art of Aging Well » ou « Grace, Backed by Time ». Supprime toutes les lignes secondaires de soutien, les descripteurs et les notations inférieures. L'image doit se lire davantage comme une couverture de magazine de luxe ou une affiche d'exposition que comme une publicité produit conventionnelle.
 
-Réalisme de la patte-créature : la main qui saisit doit sembler crédible, premium et anatomiquement résolue. Montre une épaisse fourrure d'hiver pâle transitionnant vers une peau gris-bleu froide autour des doigts, une forte masse de jointures, une articulation correcte et des griffes acérées mais non grotesques. Le geste est ferme et élégant, avec une pression de contact crédible et un espacement naturel entre les doigts. Pas de difformité, pas de doigts supplémentaires, pas d'exagération fantaisiste, pas de style de bête cartoon.
+Éclairage : utilise une lumière directionnelle douce, chaude-naturelle, venant du haut à gauche, comme une lumière calme de fenêtre. La lumière doit révéler la texture plutôt que de la cacher, façonnant doucement front, joue, zone des yeux, arête du nez et lèvres. Les ombres doivent rester douces, respirantes et humaines. Le visage plus âgé doit conserver le détail dimensionnel des lignes sans dureté ; le visage plus jeune doit conserver la douceur sans s'aplatir. Garde l'éclairage global chaud, intime et premium.
 
-Éclairage : utilise un setup de lumière froide ultra-contrôlé. Un contre-jour diffus bleu-blanc entre par l'ouverture lointaine de la grotte, façonnant la chambre de glace avec une douce profondeur atmosphérique. Une lumière clé premium retenue isole la gourde et la patte qui saisit, produisant les reflets les plus nets du cadre. Les bords métalliques reçoivent des reflets froids nets, le corps mat montre un dégradé tonal doux, les scintillements de givre restent épars et raffinés, et les parois de la grotte restent sobres. Évite le flare théâtral, le contraste dur ou le scintillement bruyant de particules. La région la plus lumineuse doit rester autour de la gourde et du noyau supérieur de la grotte, laissant le reste du cadre tomber dans d'élégants dégradés froids.
+Matériau et texture de la peau : accentue la peau vivante, les pores ténus, la compression réelle du sourire, la sécheresse douce des lèvres ou l'éclat naturel, la texture délicate des sourcils et les subtils glissements de chaleur du teint humain. Pas de polissage type filtre, pas d'effacement de l'âge, pas de sculpture de rides exagérée. La peau elle-même est le matériau héros, et chaque microdétail doit soutenir confiance, intimité et dignité.
 
-Typographie et mise en page : préserve l'architecture d'information supérieure et inférieure, mais raffine-la en une forme éditoriale de luxe. En haut au centre, place un bloc de logo minimal, puis un unique titre en anglais tel que « Prepared Beyond Weather. » ou « Cold, Mastered. » avec une courte ligne de soutien dessous en typographie élégante et retenue. Élimine le langage de vente agressif. Près de la gourde, si nécessaire, inclus seulement une carte translucide très subtile avec une micro-typographie. En bas, utilise une bande éditoriale en trois parties à faible densité avec des descripteurs concis tels que « Thermal Precision », « Expedition Engineered » et « Field Silence ». Toute la couche graphique doit sembler intégrée, éparse et chère.
+Hiérarchie des couleurs : 75% de neutres chauds avoine, amande, beige et tons de peau ; 20% de taupe doux, brun chaud et profondeur d'ombre douce ; 5% de texte crème pâle et accents de rehaut minimaux. La palette doit se ressentir humaine, luxueuse, silencieuse et cliniquement digne de confiance.
 
-Hiérarchie de couleur : 60% cyan glaciaire, blanc de brume gelée, bleu-glace pâle et air froid lumineux ; 30% ombre teal profonde, gris titane-acier, neutre de fourrure sourd et profondeur bleu-noir de la caverne ; 10% bleu-glacier saturé de la gourde et petits accents spéculaires argent-blanc. La palette doit être désaturée, plus froide, plus calme et plus premium qu'une campagne outdoor conventionnelle.
+Intention de design : l'affiche finale doit préserver la logique d'impact exacte de l'image source de deux visages cadrés serré partageant le cadre, une petite marque en haut à gauche et un grand titre éditorial sur le centre-gauche, tout en fusionnant l'émotion Orbit et le réalisme Transit en une campagne de vieillissement sain plus réduite, plus élégante et à la direction artistique plus internationale. Le message visuel doit être continuité, dignité et intelligence dans la peau, non transformation ou peur.
 
-Intention de design : l'affiche finale doit préserver la structure hero exacte de l'image de référence—cadre de grotte de glace, gourde centrée, prise de patte de bête, base de piédestal, titre supérieur, bande d'info inférieure—tout en transformant le ton en quelque chose de plus international, retenu et luxueux. Le produit n'est pas simplement protégé du froid ; il appartient au froid. Le monde autour de lui n'existe que pour confirmer son autorité.
+Style de rendu : publicité de skincare de luxe ultra-photoréaliste, portrait de beauté éditorial intime, campagne de vieillissement sain, réalisme naturel de la peau, design chaud et minimaliste, typographie à empattement premium, retenue de couverture de magazine, retouche commerciale de classe mondiale, finition prête à l'impression.
 
-Style de rendu : publicité produit outdoor de luxe ultra-photoréaliste, campagne éditoriale de sanctuaire arctique, réalisme polaire mythique, retouche commerciale haut de gamme, architecture de glace cinématographique, langage de design d'expédition premium, étalonnage froid retenu, finition impeccable prête à imprimer, détail matériel exceptionnel.
-
-Prompt négatif : noms de marques réels, slogan original copié, style e-commerce bon marché, esthétique de monstre ludique, main de yéti cartoon, doigts supplémentaires, griffes malformées, géométrie de gourde déformée, métal d'aspect plastique, fourrure peu détaillée, cartes UI encombrées, grand badge de réduction, tempête de neige bruyante, ombres de grotte boueuses, zones noires mortes, texte illisible, mise en page surchargée, grotte de glace fantaisiste enfantine, filigrane.
+Prompt négatif : texte source copié, vrais noms de marques, ressemblance de célébrité, look de publicité avant-après, retouche plastique, peau sur-lissée, rides exagérées, contraste âgiste, anatomie faciale déformée, effet de filtre beauté, éclairage flash dur, tons beige boueux, texte de soutien supplémentaire, mise en page encombrée, texte illisible, taches noires, filigrane
 ```
 
 </details>
@@ -466,7 +617,7 @@ Prompt négatif : noms de marques réels, slogan original copié, style e-commer
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSFqknCbkAA7Qfm.jpg" width="700" alt="Affiche de Bouteille en Sanctuaire de Glace">
+<img src="https://image.moge.ai/prompt_media/HSUR0N9aUAAVHXN.jpg" width="700" alt="Affiche du vieillissement sain AUREM VITA">
 </div>
 
 <br>
@@ -475,54 +626,57 @@ Prompt négatif : noms de marques réels, slogan original copié, style e-commer
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2099076097652686968) | 2026-09-13 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2100104409640472935) | 2026-09-16 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099076097652686968)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2100104409640472935)**
 
 </div>
 
 ---
 
-### No. 8: Affiche d'exposition à composition enveloppante
+### No. 8: Affiches de typographie spatiale brutaliste
 
 ![Catégorie: Visuels créatifs](https://img.shields.io/badge/Cat%C3%A9gorie-Visuels%20cr%C3%A9atifs-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche d'exposition moderne et nette où personnages, typographie géante et bords réels compressent le centre pour former un point focal clair dans l'espace négatif.
+Crée une série d'affiches verticales où la typographie surdimensionnée se comporte comme de l'architecture : elle projette des ombres, épouse le béton brutaliste et change de perspective aux côtés de jeunes personnages réalistes.
 
 #### 🌟 Prompt
 
-【Thème】 【Sujet visuel principal】 【Caractère-clé chinois】 【Titre chinois】 【Titre anglais】 【Mode …
+Crée une série d'affiches éditoriales verticales 9:16 en anglais, combinant architecture brutaliste, …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-【Thème】
-【Sujet visuel principal】
-【Caractère-clé chinois】
-【Titre chinois】
-【Titre anglais】
-【Mode d'encadrement】figures tout autour / grands caractères sur trois côtés / bords physiques / cadres imbriqués / autre
-【Couleur d'accent】
-【Proportion】9:16
+Crée une série d'affiches éditoriales verticales 9:16 en anglais, combinant architecture brutaliste, typographie géante en perspective, figures de jeunes adultes réalistes et fortes relations spatiales tridimensionnelles.
 
-Générez une affiche d'exposition moderne à l'atmosphère de **East Asian Modernist Exhibition Poster, Japanese Contemporary Graphic Design, Editorial Design**. Le cœur utilise une "composition enveloppante" : n'ajoutez pas simplement un cadre autour du sujet, mais faites que des figures, une typographie géante, des bords d'objets réels, des cadres géométriques ou des recadrages photographiques exercent une pression visuelle de la périphérie vers le centre, formant naturellement un point focal clair ou un espace négatif au milieu. La relation d'encadrement doit avoir une direction et un poids ; évitez quatre côtés totalement égaux en largeur, quantité et symétrie ; utilisez des structures déséquilibrées comme "lourd à gauche, léger à droite, dense en haut, épars en bas" ou "trois côtés se refermant, un côté ouvert" pour maintenir la tension.
+Maintiens un système visuel cohérent sur toute la série : photographie dramatique en contre-plongée, ciel bleu cobalt profond, gris chaud de béton brut, typographie ivoire chaud, vêtements anthracite et orange de sécurité comme seul accent fort. L'architecture doit sembler monumentale et simple, avec de grandes surfaces géométriques plutôt que des structures complexes.
 
-Choisissez d'abord le mécanisme d'encadrement le plus adapté au 【Thème】. Les thèmes de figures peuvent faire converger plusieurs portraits recadrés vers le centre ; une seule sculpture ou un produit peut utiliser une typographie de bord surdimensionnée et de l'espace blanc pour former un encadrement à trois côtés ; les espaces réels peuvent utiliser rideaux, encadrements de portes, bords architecturaux et autres structures physiques pour cerner la zone centrale ; les thèmes graphiques peuvent se contracter couche par couche vers le centre avec des cadres géométriques décalés, du texte répété ou des bordures imbriquées. Ne mettez pas toutes ces méthodes dans une seule image ; choisissez uniquement la plus adaptée au thème comme ossature principale et ajoutez une légère "rupture de cadre", par exemple l'épaule d'une figure entrant dans le centre, le sujet pressant le texte, un objet traversant la bordure ou une ligne de cadre interrompue par un objet réel.
+La typographie doit participer activement à l'espace. Laisse les lettres suivre la perspective architecturale, changer d'échelle avec la profondeur, épouser les surfaces, projeter de vraies ombres, être partiellement cachées par des personnes ou du béton et interagir naturellement avec les éléments de premier et d'arrière-plan. Évite le texte plat posé sur une photographie.
 
-La typographie doit faire partie de la composition, pas être un simple titre. Utilisez un 【Caractère-clé chinois】 marquant, qui peut jouxter le bord du cadre, être partiellement recadré, pivoté, traverser des zones ou se superposer au sujet ; le titre anglais utilise un Grotesk moderne, un Condensed Sans ou un Serif sobre, permettant un interlettrage ultra-large, une rotation à 90°, une police outline et un recadrage de bord. Utilisez au maximum 2–3 caractères typographiques, formant une hiérarchie claire "grandes lettres pour la structure, moyennes pour le thème, petites pour l'information". La densité d'information provient principalement de la taille, de la direction, du recadrage et des relations spatiales, non de l'empilement de modules explicatifs.
+Garde les personnes réalistes et posées naturellement, avec une texture de peau authentique, des cheveux naturels, des plis de vêtements crédibles et une claire interaction physique avec l'architecture environnante.
 
-Gardez l'image moderne, tranchante et sobre. L'arrière-plan privilégie des couleurs neutres comme le blanc froid, le gris clair, le noir charbon ; ajoutez seulement une 【Couleur d'accent】 comme nœud visuel ; la surface totale de la couleur d'accent reste autour de 5%–10%, utilisée dans de petits blocs de couleur, de courtes lignes, des dates ou des graphiques locaux. La zone centrale doit être nettement plus calme que la périphérie, gardant environ 25%–40% d'espace négatif efficace, faisant de "dense dehors × épars dedans" le rythme visuel central. Le sujet reste unique, clair, avec un contour fort ; n'ajoutez pas simultanément paysages, sceaux, motifs traditionnels, graphiques d'artisanat complexes, cartes de matériaux et beaucoup de décoration.
+Affiche 1 : CAST TYPE
+Crée des lettres tridimensionnelles monumentales épelant “TYPE” montées au-dessus d'une structure en béton brutaliste. Utilise des faces avant ivoire chaud et une profondeur latérale orange de sécurité. Une forte lumière solaire projette d'énormes ombres de lettres lisibles sur le mur de béton en dessous. Place une jeune femme réaliste marchant à travers la transition entre la lumière du soleil et l'ombre projetée. Ajoute “CAST” en tant que typographie géante en perspective dans le ciel. Le texte d'accompagnement peut inclure “LIGHT MAKES FORM”, “READ THE SHADOW” et “SOLID / PROJECTION”.
 
-L'ordre de lecture final doit être : d'abord les formes fortes de la périphérie et le point focal central ; deuxièmement, comment la périphérie cerne le centre ; troisièmement, découvrir les recadrages, croisements ou ruptures de cadre ; enfin, lire le titre, la date et peu d'informations. L'ensemble de l'œuvre doit ressembler à une véritable affiche d'exposition contemporaine, une œuvre d'annuaire international de design graphique ou un visuel de magazine culturel indépendant, non à une page de propagande culturelle traditionnelle, une mise en page PPT ou un panneau d'archives de musée.
+Affiche 2 : SKY APERTURE
+Crée un atrium brutaliste circulaire monumental vu d'en bas, avec une grande ouverture ronde révélant un ciel bleu vif. Intègre “SKY APERTURE” dans la structure de béton courbe en utilisant une véritable perspective circulaire plutôt qu'un texte courbe plat. Ajoute un jeune homme réaliste sur la passerelle inférieure et un accent graphique courbe vermillon discret. Le texte d'accompagnement peut inclure “OPEN ABOVE”, “CIRCULAR FIELD” et “LIGHT ENTERS HERE”.
 
-Évitez : cadres égaux sur les quatre côtés, symétrie mécanique, texte explicatif pleine page, décoration traditionnelle, fond de paysage, sceaux empilés, petits caractères de modèle, HUD technologique, anglais dénué de sens, Design Study, Vol., numérotation, Logo, QR code et marques de copyright.
+Affiche 3 : OPEN CORNER
+Crée un immense angle de béton brutaliste à 90 degrés vu sous un angle bas dramatique. Place une jeune femme réaliste interagissant naturellement avec l'angle et une forme spatiale tridimensionnelle orange en L. Fais en sorte que “OPEN CORNER” s'enroule sur les deux plans architecturaux afin que la typographie change visiblement de direction à l'angle. Le texte d'accompagnement peut inclure “TWO SIDES”, “TURN THE GRID” et “BETWEEN SURFACES”.
+
+Affiche 4 : FLOAT LEVEL
+Crée deux dalles de béton décalées avec un jeune homme réaliste marchant le long du niveau supérieur. Introduis deux plans translucides séparés à différentes profondeurs, un gris-bleu enfumé derrière lui et un plan orange devant, créant un volume spatial fragmenté. Place “FLOAT LEVEL” sur plusieurs profondeurs afin que les mots apparaissent à différentes distances. Le texte d'accompagnement peut inclure “BETWEEN PLANES”, “NO FIXED GROUND” et “OFFSET HEIGHT”.
+
+Utilise un microtexte éditorial significatif, de petites étiquettes, des filets fins et des annotations compactes pour créer une densité d'information riche mais contrôlée. Maintiens une hiérarchie claire et un généreux espace négatif autour des principales formes architecturales.
+
+La série finale doit ressembler à des affiches éditoriales d'architecture et de culture jeune dirigées professionnellement, avec un fort impact en miniature et un détail spatial sophistiqué de près.
 ```
 
 </details>
@@ -530,7 +684,7 @@ L'ordre de lecture final doit être : d'abord les formes fortes de la périphér
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSGf9sdWgAcYKTL.jpg" width="700" alt="Affiche d&#x27;exposition à composition enveloppante">
+<img src="https://image.moge.ai/prompt_media/HSQp4y6WgAA4IIM.jpg" width="700" alt="Affiches de typographie spatiale brutaliste">
 </div>
 
 <br>
@@ -539,13 +693,13 @@ L'ordre de lecture final doit être : d'abord les formes fortes de la périphér
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2099134814985085141) | 2026-09-13 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2099849499170492882) | 2026-09-15 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099134814985085141)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099849499170492882)**
 
 </div>
 
@@ -642,37 +796,47 @@ nom de marque original copié, texte original copié, prospectus de supermarché
 
 ---
 
-### No. 10: Affiche d'exposition au sujet géant
+### No. 10: Affiche culturelle orientale moderne
 
 ![Catégorie: Supports marketing](https://img.shields.io/badge/Cat%C3%A9gorie-Supports%20marketing-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche d'exposition dans une galerie blanche avec une installation monumentale d'objets géants empilés, une rampe en spirale et un personnage colossal, avec une typographie plate sur les bords.
+Crée une affiche éditoriale d'événement culturel oriental mêlant grands aplats de couleur, micro-scène narrative et textures de collage papier et aquarelle.
 
 #### 🌟 Prompt
 
-🙂🙃🙃 Dans l'atrium haut et presque entièrement blanc d'une galerie d'art, photographie une affiche …
+【Thème / Nom de l'événement】 【Champ de couleur principal】 【Micro-scène】 【Éléments culturels】 【Texte du titre】 …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-🙂🙃🙃
-Dans l'atrium haut et presque entièrement blanc d'une galerie d'art, photographie une affiche d'exposition : sur un socle circulaire se dresse une installation monumentale, plusieurs objets quotidiens surdimensionnés empilés de façon décalée en architecture, une rampe en spirale blanche s'enroulant entre eux, transformant la nature morte en un chemin praticable. Un visiteur à l'échelle humaine réelle se tient sur le sol poli en levant les yeux, prouvant par son corps que c'est l'échelle d'une salle, pas une maquette de studio. Au sommet de l'installation est assis un personnage géant lisse ; chapeau, foulard et sac sont des blocs de vêtements volumétriques ; de plus petits personnages identiques parsèment la rampe et les interstices, comme si quelqu'un grimpait déjà. À droite se dresse un panneau de signalisation correspondant, transformant le même jeu de catégories, d'icônes et de flèches en un panneau routier plat, servant de légende mutuelle avec l'escalade tridimensionnelle.
+【Thème / Nom de l'événement】
+【Champ de couleur principal】
+【Micro-scène】
+【Éléments culturels】
+【Texte du titre】
+【Informations complémentaires】
+【Proportions du cadre】
 
-Le sujet est de la photographie ou une visualisation 3D hautement réaliste, pas une illustration. L'installation occupe un volume réel, reçoit la lumière d'une fenêtre latérale-haute, projette des ombres au sol et laisse des reflets colorés adoucis sur la pierre polie. Le personnage est une coque de jouet continue avec des reflets de lumière de fenêtre. Les corps empilés sont des blocs géométriques peints à la bombe, à l'épaisseur solide et aux bords de couche ; la spirale est un tube blanc fin et rigide qui s'entrelace devant et derrière, coupant le contour rectangulaire. La typographie plate reste une seconde couche collée sur l'image, n'entre pas dans la perspective, ne projette pas d'ombre sur l'architecture. Le seul trait à la main est un slogan peint décontracté, qui peut porter un minuscule gribouillis du personnage.
+Conçois une affiche d'événement culturel à l'esthétique éditoriale orientale moderne. Le visuel central utilise la composition « grand champ de couleur + micro-scène », avec un langage de collage papier et de texture aquarelle marqué mais contenu.
 
-La composition place le monument au centre-droit, laissant le tiers gauche et les quatre coins aux informations de l'affiche. Le titre principal se situe environ à la hauteur de la tête du personnage, dialoguant à travers un grand mur blanc, sans jamais empiéter sur le personnage ou l'installation. L'installation et le socle circulaire entrent entiers dans le cadre ; mur et cadres de fenêtre sont rognés, faisant paraître l'espace plus grand que l'affiche. Chaque couche empilée devient une légende de bloc de couleur : un mot plus un symbole pictographique, légèrement pivoté et décalé. Le même jeu de couleurs graphiques hautement saturées forme un circuit du titre, du slogan peint, du panneau et de l'anneau du socle, verrouillant texte plat et objet tridimensionnel en un seul système.
+De grandes plages de couleur peu saturées constituent le sujet visuel principal ; le 【champ de couleur principal】 établit des relations de grande forme fortes et complètes. Les plages de couleur peuvent former des espaces abstraits — montagnes, berges, cours, ateliers, cerfs-volants, tissus teints — par déchirure de papier, superposition, occlusion, encadrement, entrelacement, suspension, extension diagonale ou espace négatif, sans dessiner de scènes réalistes ordinaires. De loin, on voit d'abord une composition claire de grands champs de couleur, reconnaissable même en miniature.
 
-Le titre principal utilise un gras industriel grand, compact et légèrement incliné, empilé en blocs de couleur saturée, d'un volume suffisant pour rivaliser avec le personnage. En dessous, une phrase explicative plus petite et ordonnée. Le reste, ce sont le nom de l'institution, un numéro, une date et un slogan de clôture dans les coins, ainsi que le texte d'étiquette sur les objets. La densité de texte est sur les bords, le centre réservé à l'installation.
+Toutes les plages de couleur présentent des textures riches et réelles de papier artisanal, de pâte de papier aquarelle et de pigments minéraux : fibres naturelles visibles, dépôt de pigment, légères marques de pression, frottage, variations naturelles d'intensité et bords déchirés irréguliers. La texture est fine et riche, mais propre et intègre — sans saleté, taches jaunes, dégâts importants, grain fort ni filtres vintage bon marché. L'ensemble a un toucher de papier mat, naturel et respirant.
 
-Presque toute la couleur hautement saturée s'empile sur l'installation, placée dans un vaste espace clair blanc-froid. L'architecture est presque achromatique. Le personnage est le bloc le plus clair et le plus chaud ; des couches plus sombres et froides s'intercalent, interrompant l'empilement chaud pour qu'il se lise comme une stratification codée et non comme une masse chaude. Les reflets au sol installent la couleur dans l'espace. Ne colore pas l'architecture, ne sature pas tout le cadre, ne fais pas une affiche d'illustration de personnage, ne supprime pas la figure d'échelle et le chemin en spirale, ne laisse pas le titre chevaucher l'installation.
+Entre les grands champs de couleur, insère une 【micro-scène】 d'échelle très petite mais au contenu complet. Les personnages et accessoires n'occupent qu'environ 2%–5% du cadre ; le personnage fait vraiment quelque chose, il ne pose pas debout. Raconte une petite histoire par l'action, les objets et les relations spatiales : lâcher un cerf-volant, jouer du guqin, boire le thé, faire un estampage, sécher des livres, teindre du tissu ou faire de la poterie. Les vêtements des personnages sont naturels et contenus, unifiés au thème culturel, sans voler la vedette au champ de couleur principal.
 
-———————
-Thème : affiche de la fête de la mi-automne
-Personnages principaux : le Lièvre de Jade et les gâteaux de lune
-🤪🥲😝
+La micro-scène peut inclure quelques 【éléments culturels】, en contrôlant la quantité et la densité d'information. Les accessoires sont naturellement dispersés ou participent à l'action — pas d'étalage de produits ni de cadre surchargé. On peut placer un tout petit point de couleur chaude, un sceau vermillon, une lumière, la lune ou la couleur d'un objet comme touche finale, généralement dans 1%–3% du cadre.
+
+La mise en page utilise un langage éditorial oriental contenu. Le titre principal 【texte du titre】 emploie une police chinoise à empattements raffinée, Mincho ou une police moderne à caractère éditorial, en corps pas trop grand, avec de larges blancs, faisant du texte une deuxième couche visuelle, sans typographie géante écrasant le cadre. L'anglais complémentaire, la date, le lieu et les infos de l'événement en corps plus petit forment une hiérarchie claire. Tout texte doit avoir un sens réel, sans mots vides comme RANDOM, DESIGN, ART, STUDIO.
+
+La composition évite le centrage mécanique et les grilles type PPT, préférant une mise en page asymétrique, de larges blancs, le décalage des blocs, l'occlusion avant-arrière et le contraste de densité. Crée une lecture « de loin sobre, avec de grandes formes ; de près avec texture, scène et histoire ».
+
+Le style d'ensemble doit montrer la fusion d'une affiche culturelle orientale moderne, du collage papier, de la texture aquarelle, du design éditorial et du micro-récit — raffiné, naturel, contenu, avec un caractère culturel, et la finition d'une vraie affiche professionnelle.
+
+Éviter : allure de couverture de livre, titres géants, peinture à l'encre traditionnelle, illustration de style chinois ordinaire, fond photographique réaliste, mise en page type PPT, allure de publicité commerciale, accumulation d'éléments, ornementation excessive, papier sale, bruit aléatoire, aspect plastique, CGI 3D, texture de verre, couleurs néon, logos, filigranes, numérotation, ornements en étoile.
 ```
 
 </details>
@@ -680,7 +844,7 @@ Personnages principaux : le Lièvre de Jade et les gâteaux de lune
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSGlP_7akAA32lx.jpg" width="700" alt="Affiche d&#x27;exposition au sujet géant">
+<img src="https://image.moge.ai/prompt_media/HSP_NhlXYAETJU1.jpg" width="700" alt="Affiche culturelle orientale moderne">
 </div>
 
 <br>
@@ -689,36 +853,43 @@ Personnages principaux : le Lièvre de Jade et les gâteaux de lune
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [小小东](https://x.com/xiaoxiaodong01) | [X / Twitter](https://x.com/xiaoxiaodong01/status/2099141506821247159) | 2026-09-13 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2099804706801369428) | 2026-09-15 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099141506821247159)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099804706801369428)**
 
 </div>
 
 ---
 
-### No. 11: Gribouillis Fantaisistes Dessinés à la Main
+### No. 11: Compilateur d'illustration anime à l'encre
 
 ![Catégorie: Illustration & IP](https://img.shields.io/badge/Cat%C3%A9gorie-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Crée une illustration simple et enjouée d'un personnage aux traits dessinés à la main, aux proportions fantaisistes et à l'expression charmante sur fond blanc.
+Un système qui transforme toute idée en un seul prompt d'illustration anime narrative, avec contours à l'encre, couleurs locales plates et ombres graphiques, sans dérive photographique ni 3D.
 
 #### 🌟 Prompt
 
+[Traduction FR du prompt complet ci-dessus : un compilateur de prompts Midjourney V8.2 pour illustration …
+
+<details>
+<summary>Afficher le prompt complet</summary>
+
 ```
-Une illustration simple d'un [sujet] portant [tenue], [faisant une action], avec une expression [expression faciale], des traits dessinés à la main et enjoués, des proportions fantaisistes, des détails minimaux, un langage corporel expressif, une personnalité fantasque, un fond blanc épuré, une charmante esthétique de dessin éditorial contemporain
+[Traduction FR du prompt complet ci-dessus : un compilateur de prompts Midjourney V8.2 pour illustration anime narrative dessinée à la main à l'encre et en couleur plate. Définit le rôle, le noyau visuel, le système d'encre, la forme et l'ombrage, la fiche personnage, le design du visage et du corps, les cheveux, la garde-robe, les mains et l'appartenance des objets, le contrôle d'ensemble, l'action, la composition, le cadrage, l'environnement, la répartition du détail, la séparation figure/fond, le système de couleur, la lumière, la signalétique et le texte, la surface, l'originalité, l'anti-dérive, les règles de compilation et l'économie du prompt, le mode Style Reference, la politique et l'hygiène des paramètres (--v 8.2 --raw --ar 2:3 --s 50 --c 0 --hd ; avec une Style Reference valide, --sw 100), les images multiples, le protocole de revue des résultats, la règle de correction et la vérification finale. Ne renvoyer que le prompt final.]
 ```
+
+</details>
 
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HR2bII6a0AAoa1z.jpg" width="700" alt="Gribouillis Fantaisistes Dessinés à la Main">
+<img src="https://image.moge.ai/prompt_media/HSTn7ToXcAAzWir.jpg" width="700" alt="Compilateur d&#x27;illustration anime à l&#x27;encre">
 </div>
 
 <br>
@@ -727,36 +898,57 @@ Une illustration simple d'un [sujet] portant [tenue], [faisant une action], avec
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Amira Zairi](https://x.com/azed_ai) | [X / Twitter](https://x.com/azed_ai/status/2098003579449794570) | 2026-09-10 |
+| [Emily](https://x.com/IamEmily2050) | [X / Twitter](https://x.com/IamEmily2050/status/2100058993498488951) | 2026-09-16 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2098003579449794570)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2100058993498488951)**
 
 </div>
 
 ---
 
-### No. 12: Portrait sombre aux cheveux bouclés
+### No. 12: Portrait beauté sous une douce lumière solaire
 
 ![Catégorie: Photographie & image](https://img.shields.io/badge/Cat%C3%A9gorie-Photographie%20%26%20image-lightgrey)
 
 #### 📚 Description
 
-Un portrait en gros plan d'une jeune femme aux cheveux bouclés foncés et humides, avec un éclairage dramatique et contrasté créant une ambiance sombre.
+Portrait éditorial en gros plan d'une jeune femme à la peau hâlée et taches de rousseur, sous une lumière solaire chaude devant un mur de stuc neutre.
 
 #### 🌟 Prompt
 
+Sujet : Une jeune femme aux longs cheveux ondulés brun foncé retombant sur les deux épaules et avec une raie …
+
+<details>
+<summary>Afficher le prompt complet</summary>
+
 ```
-Un portrait en gros plan d'une jeune femme aux yeux sombres et intenses, avec des cheveux bouclés foncés, humides et ébouriffés encadrant son visage. L'éclairage dramatique et fortement contrasté projette des ombres profondes sur un côté de ses traits tout en soulignant délicatement les contours de ses pommettes, l'arête de son nez et ses lèvres, créant une esthétique sombre et atmosphérique.
+Sujet : Une jeune femme aux longs cheveux ondulés brun foncé retombant sur les deux épaules et avec une raie au milieu, regardant directement l'objectif avec une expression douce, sensuelle et lèvres closes. Elle a une peau chaude hâlée par le soleil, des taches de rousseur naturelles, un rouge à lèvres brillant rouge brique profond et porte un haut rouge côtelé à épaules dénudées.
+
+Moyen & Style Artistique : Photographie beauté/portrait en lumière naturelle avec une esthétique éditoriale épurée et intime — rappelant une campagne beauté en gros plan ou une séance publicitaire de cosmétiques.
+
+Environnement/Décor : Extérieur devant un simple mur de stuc texturé aux tons neutres beige-gris doux, avec une lumière solaire chaude projetant de doux motifs d'ombres tachetées sur le mur derrière elle, minimaliste et épuré pour garder toute l'attention sur le sujet.
+
+Éclairage & Palette de Couleurs : Lumière solaire directionnelle douce et chaude venant de l'avant-gauche, créant de doux reflets sur les pommettes et la clavicule avec une chute d'ombre naturelle douce. Palette chaude de rouge terracotta, brun miel et tons de peau chauds, subtilement contrastée avec le fond gris neutre et froid — une harmonie chaud-froid équilibrée avec un grand naturalisme.
+
+Appareil & Technique : Photographié avec un appareil plein format et un objectif portrait 85mm, faible profondeur de champ (f/2–f/2.8) floutant doucement le mur texturé derrière elle. Composition verticale en gros plan, angle à hauteur des yeux, sujet centré et cadré serré des épaules vers le haut, remplissant la majeure partie du cadre.
+
+Texture & Rendu : Peau naturellement lumineuse, réchauffée par le soleil, avec de fins pores visibles, des taches de rousseur et une douce diffusion sous-cutanée ; fini de lèvres brillant et richement pigmenté ; texture de cheveux ondulés richement détaillée avec définition de mèches individuelles et de doux cheveux rebelles captant la lumière ; subtile texture tricot côtelé sur le haut ; sans grain de film — fini beauté en lumière naturelle propre, net et haute résolution.
+
+Prompt Combiné :
+
+"Portrait beauté en lumière naturelle d'une jeune femme aux longs cheveux ondulés brun foncé retombant sur les deux épaules, raie au milieu, regardant l'objectif avec une expression douce et sensuelle lèvres closes, peau chaude hâlée avec taches de rousseur naturelles, rouge à lèvres brillant rouge brique profond, haut rouge côtelé à épaules dénudées ; devant un simple mur de stuc beige-gris texturé avec de douces ombres de lumière solaire tachetée ; lumière solaire directionnelle douce et chaude venant de l'avant-gauche créant de doux reflets et une chute d'ombre naturelle, palette chaude de rouge terracotta, brun miel et tons de peau réchauffés par le soleil équilibrée avec un fond neutre froid ; photographié avec un objectif portrait 85mm à f/2.2, faible profondeur de champ, composition verticale en gros plan, angle à hauteur des yeux, cadré serré des épaules vers le haut ; peau lumineuse réchauffée par le soleil avec pores visibles et taches de rousseur, subtile diffusion sous-cutanée, lèvres brillantes richement pigmentées, cheveux ondulés finement détaillés avec de doux cheveux rebelles, subtile texture de maille côtelée, fini en lumière naturelle propre et net haute résolution, ultra-détaillé, 8k."
 ```
+
+</details>
 
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSG_qC3WUAUtZuI.jpg" width="700" alt="Portrait sombre aux cheveux bouclés">
+<img src="https://image.moge.ai/prompt_media/HSRlD4VWkAAVdI3.jpg" width="700" alt="Portrait beauté sous une douce lumière solaire">
 </div>
 
 <br>
@@ -765,57 +957,55 @@ Un portrait en gros plan d'une jeune femme aux yeux sombres et intenses, avec de
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Minahil](https://x.com/Minahil42298354) | [X / Twitter](https://x.com/Minahil42298354/status/2099169648277082265) | 2026-09-13 |
+| [Ozair AI](https://x.com/Ozayrr_irl) | [X / Twitter](https://x.com/Ozayrr_irl/status/2099914465172918566) | 2026-09-15 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099169648277082265)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099914465172918566)**
 
 </div>
 
 ---
 
-### No. 13: Affiche Cosmique de Gelato à la Pistache
+### No. 13: Affiche Premium d'Épices SAFFRON VAULT
 
 ![Catégorie: Publicité & produit](https://img.shields.io/badge/Cat%C3%A9gorie-Publicit%C3%A9%20%26%20produit-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche publicitaire de gelato ultra-premium avec une planète de pistache minée dans l'espace et un pot héros en bas, dans un style luxueux et minimaliste.
+Crée une affiche verticale d'épices de luxe avec une éruption diagonale de poudres à gauche, une typographie élégante à droite et un réalisme macro éditorial.
 
 #### 🌟 Prompt
 
-Créez une affiche publicitaire de gelato ultra-premium de niveau Cannes pour une maison de desserts …
+Créez une affiche publicitaire d'épices ultra-premium de niveau Cannes pour une maison d'exportation …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Créez une affiche publicitaire de gelato ultra-premium de niveau Cannes pour une maison de desserts interstellaire fictive nommée VERDANT ORBIT, en préservant la logique structurelle exacte d'une campagne de produit cosmique, en fusionnant atmosphère narrative, réalisme matériel forensique et retenue curatoriale. La composition est verticale et hautement disciplinée : une planète monumentale de gelato à la pistache occupe les deux tiers supérieurs du cadre, partiellement excavée pour révéler un vortex intérieur lumineux, entourée d'un réseau réduit mais crédible d'élégantes structures d'extraction et de minuscules techniciens astronautes, tandis que le premier plan inférieur présente un pot de gelato héros comme unique ancre commerciale, soutenu par une nature morte minimale d'ingrédients de pistache et une typographie éditoriale extrêmement retenue. L'image finale doit sembler plus froide, plus propre et plus luxueuse qu'une affiche typique de nourriture fantastique.
+Créez une affiche publicitaire d'épices ultra-premium de niveau Cannes pour une maison d'exportation patrimoniale fictive appelée SAFFRON VAULT, en préservant la logique structurelle exacte d'une campagne raffinée de marque d'ingrédients, tout en fusionnant l'atmosphère émotionnelle avec un réalisme matériel médico-légal et en supprimant les points d'information à gauche et la plaque inférieure. La composition est verticale et très disciplinée : un champ de parchemin pâle et chaud, une éruption spectaculaire de matière d'épices sur le côté gauche balayant en diagonale vers le haut, un bloc de marque et de titre net au centre-droit dans un espace négatif ouvert, un délicat élément floral-botanique d'équilibre à l'extrême droite, et une base d'ingrédients richement dirigée artistiquement sur le tiers inférieur. L'image finale doit sembler élégante, sensorielle et internationalement premium, avec moins d'encombrement graphique et plus d'autorité visuelle.
 
-Composition centrale : placez une planète sphérique géante de gelato à la pistache au centre supérieur contre un champ d'étoiles profond et calme. La sphère doit être légèrement asymétrique du fait de l'excavation, avec une grande ouverture sculptée révélant un noyau spiral lumineux de vert-pistache pâle et d'énergie crémeuse dorée chaude. Gardez le système d'ingénierie environnant sélectif et intentionnel : quelques plateformes suspendues raffinées, un ou deux bras de forage articulés, de subtiles lignes d'amarrage, des structures d'accostage discrètes, plusieurs minuscules vaisseaux de transport et un petit nombre de travailleurs astronautes placés avec une échelle et un but crédibles. Évitez l'encombrement visuel. La planète reste écrasante et dominante, la machinerie n'agissant que comme preuve d'un rare rituel de récolte de saveur.
+Composition centrale : utilisez un fond chaud ivoire-à-beige avec une subtile variation tonale semblable au papier et un espace ouvert généreux à droite. Du coin inférieur gauche vers le cadre supérieur et médian gauche, construisez une vague chromatique contrôlée de matériaux d'épices explosant vers le haut en un arc diagonal : poudre de piment, filaments de safran, poussière de paprika, brume de curcuma, fragments grillés, graines et piments séchés entiers. Cette poussée d'épices doit sembler directionnelle et sculpturale, non aléatoire. Dans le champ ouvert au centre-droit, placez le logo SAFFRON VAULT et un grand titre anglais en serif comme « SEE THE FLAVOUR. » ou « COLOR HAS TASTE. » En dessous, ajoutez seulement une ligne de support premium concise. À l'extrême droite, incluez une délicate fioriture botanique ou branche florale pour adoucir et contrebalancer l'intensité du champ d'épices.
 
-Atmosphère d'orbite : le monde doit sembler être une planète comestible sacrée soigneusement minée pour son essence. Le vortex intérieur n'est pas chaotique ; il rayonne d'une attraction magnétique tranquille, comme le cœur vivant d'un rare champ minéral de dessert. L'obscurité environnante doit porter un sens d'échelle, de calme et de luxe lointain. Les astronautes et les vaisseaux doivent sembler cérémoniels et précis plutôt qu'affairés, transformant la scène en un mythe calme d'extraction et d'émerveillement.
+Atmosphère Orbit : l'image doit donner l'impression de l'arôme devenant visible. L'éruption d'épices du côté gauche n'est pas simplement une éclaboussure d'ingrédients, mais la forme visuelle de la chaleur, de la mémoire, de la lumière du soleil et de la richesse des routes commerciales s'élevant dans l'air. L'affiche doit porter la sensation de récoltes patrimoniales, d'anciennes routes des épices et de la chaleur émotionnelle de la saveur moulue libérée de la terre. Le détail floral à droite doit se lire comme le contrepoint parfumé silencieux à l'énergie ardente à gauche, créant un équilibre émotionnel sophistiqué entre force et douceur.
 
-Réalisme matériel de transit : rendez la planète de pistache comme un véritable objet de dessert glacé haut de gamme avant tout. Montrez une topographie dense coupée à la cuillère, des plis crémeux, un éclat mat-glacé de gelato, un léger brillant de fonte aux bords exposés, des fragments de pistache torréfiée incrustés dans la masse, des cavités occasionnelles de noix, de faibles microcristaux gelés et des strates vert-torréfié légèrement plus sombres où des coupes plus profondes exposent une densité de saveur plus riche. Le noyau spiral doit sembler comestible et physique, avec une turbulence rotationnelle crémeuse, une douce lueur thermique et une profondeur visqueuse crédible. La machinerie doit montrer de fines articulations métalliques, une tension de câble, une pression d'accostage, une logique de poids structurel, de petites lumières industrielles et une réflectance réaliste de métal brossé. L'emballage en dessous doit montrer une netteté d'impression premium, une réflectivité du bord du couvercle, une précision cylindrique et une finition matérielle tactile.
+Réalisme Transit : rendez chaque matériau d'épice avec une précision de nature morte macro de premier ordre. Les poudres doivent montrer une densité particulaire réelle, une profondeur chromatique en couches et une dispersion aérienne crédible. Les piments séchés entiers doivent porter des peaux ridées, un léger éclat, une courbure naturelle et un détail de tige. Les racines de curcuma doivent montrer une peau mate terreuse et des intérieurs coupés brillants et humides. Les gousses de cardamome verte doivent afficher des nervures, de minuscules imperfections de surface et des craquelures naturelles. Les filaments de safran doivent sembler délicats, filiformes et richement pigmentés. Les grains de poivre, graines de coriandre, anis étoilé et autres fragments d'épices à la base doivent montrer une variation d'échelle précise, des surfaces sèches et dures et une identité tactile claire. L'élément floral ou de feuille à droite doit sembler naturellement intégré et doucement éclairé, non un clip-art décoratif.
 
-Retenue portuaire : simplifiez la mise en page en une affiche de luxe plus proche d'une galerie. Réduisez les badges latéraux, les légendes et le bruit d'icônes décoratives. Gardez seulement un bloc de titre raffiné en haut à gauche, un sceau de qualité discret en haut à droite, une ligne conceptuelle centrée entre la planète et l'emballage, et une élégante signature ou marque de division en bas à droite si nécessaire. Laissez l'espace négatif, le contraste d'échelle et la hiérarchie précise faire le travail. L'emballage du produit et la planète doivent se lire comme les deux principales déclarations visuelles.
+Terrain d'ingrédients inférieur : sur le tiers inférieur, créez un paysage d'épices richement stratifié mais étroitement édité qui ancre visuellement la composition. Construisez d'élégants monticules et traînées de poudres rouges, jaunes et vertes entrelacées de racines de curcuma, gousses de cardamome, piments séchés, graines et quelques formes d'anis étoilé. La base inférieure doit sembler abondante mais organisée, se connectant sans couture à la poussée d'épices du côté gauche. Supprimez toute plaque ou insigne inférieur séparé pour que la zone inférieure reste entièrement dirigée par les ingrédients et plus luxueuse.
 
-Design du produit héros : placez un pot de gelato premium orienté vers l'avant au centre inférieur, grand et parfaitement lisible, mais toujours secondaire à la planète cosmique au-dessus. Le contenant doit être noir mat ou vert forêt profond presque noir avec un couvercle bronze brossé feutré ou or satiné. Utilisez une image de marque intégrée élégante comme « VERDANT ORBIT » et un nom de produit comme « Pistachio Nebula Reserve » ou « Emerald Core Extraction ». Le design de l'étiquette doit être minimal, raffiné et contemporain, avec une serif de luxe et un type de support retenu. Autour du pot, placez un petit arrangement organisé de pistaches craquées, quelques coquilles ouvertes et un tas net de poudre de pistache vive. Gardez le premier plan propre et sculptural.
+Système typographique et graphique : réduisez la mise en page à l'essentiel. En haut au centre-droit, placez un emblème raffiné et le nom de marque « SAFFRON VAULT » avec un descripteur discret comme « Single-origin spice atelier. » En dessous, utilisez un grand titre élégant en serif comme « SEE THE FLAVOUR. » suivi d'une courte ligne de support comme « Rare spice palettes drawn from heritage harvests. » Éliminez les points d'icône informatifs à gauche et la capsule de style URL en bas. L'affiche doit sembler plus une impression de luxe dirigée artistiquement qu'une brochure de produit.
 
-Typographie et mise en page : dans le quadrant supérieur gauche, placez un titre de campagne raffiné comme « PISTACHIO ORBIT » avec une sous-ligne retenue comme « Harvested from the quiet side of wonder. » En haut à droite, placez un petit sceau d'insigne premium pour VERDANT ORBIT. Entre la planète et le pot, placez une ligne éditoriale centrée comme « RARE FLAVOR, EXTRACTED WITH PRECISION. » La typographie doit sembler internationale, cinématographique et luxueuse, jamais bruyante, encombrante ou promotionnelle. Aucun mot copié de l'image source.
+Éclairage : utilisez une lumière du jour premium douce depuis le coin supérieur gauche avec un caractère de studio éditorial chaleureux. La vague d'épices doit capter des reflets sélectifs et une riche profondeur volumétrique, tandis que les poudres et épices entières dans le tiers inférieur restent très lisibles en détail à angle bas. La zone de titre à droite doit rester calme, lumineuse et lisible. Les ombres doivent être douces mais dimensionnelles, sans accumulation sombre boueuse et sans surexposition dure. L'impression générale doit être chaleureuse, lumineuse et sensorielle.
 
-Éclairage : utilisez deux systèmes d'éclairage hautement contrôlés. La planète et le vortex intérieur reçoivent une douce luminosité vert-chaud interne plus des reflets industriels épars, créant de la profondeur sans chaos. L'emballage inférieur et les ingrédients reçoivent une lumière clé raffinée de photographie culinaire de luxe depuis l'avant supérieur, donnant au couvercle, au bord, à l'étiquette, aux coquilles de pistache et à la poudre une nette séparation de forme. Maintenez un champ environnant sombre mais évitez les taches noires mortes. Les points les plus brillants doivent être l'intérieur du vortex, les reflets métalliques sélectionnés et le bord du pot héros.
+Hiérarchie des couleurs : 60% or safran, rouge paprika, jaune curcuma et neutres parchemin chauds ; 30% cramoisi de piment profond, brun grillé, vert olive atténué et tons de graines foncés ; 10% roses botaniques doux ou verts de feuille et accents de texte foncé retenus. La palette doit sembler riche, aromatique, luxueuse et globalement distinctive.
 
-Hiérarchie des couleurs : 60% vert-pistache retenu, bleu-noir de l'espace profond et neutres sombres froids ; 30% lumières industrielles ambre-doré chaudes, beige de pistache torréfiée, accents métalliques bronze et typographie crème feutrée ; 10% lueur d'énergie vert-acide vive et reflets premium sélectifs. La palette doit sembler riche, contrôlée et coûteuse.
+Intention de design : l'affiche finale doit préserver la logique d'impact exacte de l'image source — une puissante éruption d'épices à gauche, un champ typographique net au centre-droit, une délicate note florale d'équilibre à droite et une base d'épices richement stratifiée — tout en fusionnant l'atmosphère Orbit et le réalisme Transit en une image de campagne plus nette et plus luxueuse. Avec les points d'information à gauche et la plaque inférieure supprimés, le langage visuel devient plus raffiné, plus proche d'une exposition et plus premium.
 
-Intention de design : l'affiche finale doit préserver la logique d'impact exacte d'un monde comestible géant en haut et d'un emballage héros commercial en bas, tout en fusionnant l'atmosphère Orbit, le réalisme Transit et la curation minimale Port en une campagne de luxe résolue. L'image doit communiquer que ce gelato est une rare substance récoltée d'un cosmos gastronomique imaginé, tout en semblant un produit de détail crédible, désirable et premium.
+Style de rendu : publicité d'épices de luxe ultra-photoréaliste, affiche éditoriale d'ingrédients, image de marque d'exportation patrimoniale premium, réalisme matériel macro, espace négatif élégant, atmosphère de nature morte cinématographique, retouche commerciale de classe mondiale, finition impeccable prête à imprimer.
 
-Style de rendu : publicité alimentaire de luxe ultra-photoréaliste, éditorial gastronomique sci-fi cinématographique, fantaisie d'exploitation spatiale retenue, réalisme exceptionnel de dessert glacé, photographie d'emballage haut de gamme, espace négatif élégant, finition de campagne de niveau musée, retouche commerciale de classe mondiale.
-
-Prompt négatif : texte source copié, vrais noms de marques, style fantastique enfantin, vaisseaux spatiaux façon jouet, astronautes cartoon, mise en page d'infographie encombrée, badges surdimensionnés, emballage illisible, gelato d'apparence plastique, tons verts boueux, champ d'étoiles chaotique, planètes supplémentaires aléatoires, géométrie de pot déformée, pistaches peu détaillées, machinerie désordonnée, éclairage plat, texte excessif, taches noires, typographie déformée, filigrane
+Prompt négatif : texte source copié, vrais noms de marque, aspect encombré d'étal de marché, poudres d'épices peu détaillées, textures de piment fausses, explosion chaotique désordonnée, points d'icône à gauche, plaque URL inférieure, graphismes d'emballage bon marché, typographie illisible, bruns boueux, éclairage plat, fleurs de clip-art décoratives, taches noires, filigrane
 ```
 
 </details>
@@ -823,7 +1013,7 @@ Prompt négatif : texte source copié, vrais noms de marques, style fantastique 
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSFp9g3aoAAWFTL.jpg" width="700" alt="Affiche Cosmique de Gelato à la Pistache">
+<img src="https://image.moge.ai/prompt_media/HSRI6CqaUAAXdbO.jpg" width="700" alt="Affiche Premium d&#x27;Épices SAFFRON VAULT">
 </div>
 
 <br>
@@ -832,80 +1022,72 @@ Prompt négatif : texte source copié, vrais noms de marques, style fantastique 
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2099075430036959360) | 2026-09-13 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2099883512451186772) | 2026-09-15 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099075430036959360)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099883512451186772)**
 
 </div>
 
 ---
 
-### No. 14: Affiche d'Exposition Orientale Asymétrique
+### No. 14: Affiche de Voyage Vintage par Ville
 
 ![Catégorie: Visuels créatifs](https://img.shields.io/badge/Cat%C3%A9gorie-Visuels%20cr%C3%A9atifs-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche d'exposition de culture orientale à haute esthétique avec une composition asymétrique gauche-droite, un côté ancrant le poids visuel et l'autre guidant la lecture.
+Crée une affiche de voyage en sérigraphie vintage pour n'importe quelle ville, avec des silhouettes de monuments emblématiques, un transport local et une grande typographie sur fond de papier crème.
 
 #### 🌟 Prompt
 
-Prompt : 【Thème】: 【Titre en chinois】: 【Titre en anglais】: 【Sujet central】: 【Relation gauche-droite】: objet …
+{ "input": { "city\_name": "{{USER\_INPUT\_CITY}}" }, "reference\_style": { "use\_uploaded\_reference\_images": …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Prompt :
-
-【Thème】:
-【Titre en chinois】:
-【Titre en anglais】:
-【Sujet central】:
-【Relation gauche-droite】: objet géant dominant / bande d'image étroite × large champ de texte / sujet × archive / image débordante / dense × vide / autre
-【Contenu du côté gauche】:
-【Contenu du côté droit】:
-【Éléments transfrontaliers】: contour d'objet / feuillage / grandes lettres / dessin au trait / motif / autre
-【Couleur principale】:
-【Couleur d'accent】:
-【Date / Lieu】:
-【Proportion】: 9:16
-
-Générez une affiche d'exposition de culture orientale à haute esthétique et haute densité d'information, avec une « composition gauche-droite / composition à double zone asymétrique ».
-
-Ne divisez pas l'image 50/50 ; utilisez des proportions flexibles comme 35/65, 40/60, 45/55 selon le volume du sujet, la densité du texte et l'espace vide. L'important n'est pas l'égalité des surfaces, mais l'équilibre visuel entre le poids de l'image, la typographie et la densité d'information.
-
-Choisissez la méthode selon le thème :
-
-Objet géant dominant : un côté agrandit un objet, artefact ou objet d'art à grande échelle, autorisant des recadrages audacieux, occupant le poids visuel principal ; l'autre établit la hiérarchie de lecture avec titre, anglais, petits caractères, dessins au trait structurels et informations d'exposition.
-
-Bande d'image étroite × large champ de texte : un côté utilise une peinture ancienne allongée, une photographie ou une tranche de motif, l'autre conserve plus de papier et de typographie. Le feuillage, les oiseaux, les nuages ou les contours du sujet dans l'image peuvent activement déborder dans la zone de texte.
-
-Sujet × archive : un côté garde un seul sujet fort, l'autre combine dessins de forme, macro de matière, estampages, études de motifs, dimensions, époque et peu de texte explicatif, formant une sensation de catalogue d'art.
-
-Dense × vide : un côté forme un visuel de haute densité avec images, fragments d'archive et recherche, l'autre garde un large espace vide contrôlé, n'utilisant que quelques grandes lettres et informations clés. Le vide ne peut être seulement « absence de contenu », il doit être conçu avec précision par l'espacement, les lignes fines, la position et la proportion.
-
-La frontière gauche-droite ne doit pas être mécanique. Laissez les bords d'objets, grandes lettres, fleurs, motifs ou lignes de recherche franchir la division d'environ 3%–10%, reconnectant les deux côtés, mais évitez le collage aléatoire.
-
-La typographie doit être redessinée selon le sujet de chaque image. Utilisez d'énormes lettres uniques, deux lettres décalées, un titre horizontal complet, un titre d'échelle moyenne, du texte inter-colonnes ou une inversion de couleur locale. Maintenez le contraste d'échelle « grand très grand, petit très petit », en réduisant les lettres moyennes sans intérêt. N'utilisez pas fixement quatre caractères verticaux ni ne répétez le modèle « deux lettres horizontales + deux verticales ».
-
-La densité d'information doit se référer aux affiches de musée abouties, au Japanese Editorial Design et à l'Art Catalogue. Elle peut inclure un sous-titre en anglais, l'époque, le matériau, la technique, le lieu, la date, une phrase curatoriale et 1–3 nœuds de recherche directement liés au thème, comme des dessins de forme, une macro d'émail, des matériaux de peinture ancienne, des estampages de motifs, une étude de veines de pierre ou un agrandissement local.
-
-Ces informations auxiliaires doivent servir le thème, pas empiler des petits caractères aléatoires pour « paraître professionnel ».
-
-Contrôlez la couleur à 3–5 couleurs principales. Privilégiez des couleurs retenues comme le blanc d'os, le noir d'encre, le vert céladon, le bleu-vert minéral, le gris foncé, l'ocre, et ajoutez un rouge cinabre net mais de très petite surface ou une autre couleur d'accent. Gardez le papier propre, sans filtre jaune sale de vieillissement.
-
-Premier regard : le grand sujet et le rapport de poids gauche-droite ; deuxième : titre et blocs de couleur principaux ; troisième : comment les objets, peintures anciennes ou feuillages franchissent la frontière ; enfin : matériau, structure, époque et archive de l'exposition.
-
-Principe central : un côté ancre le visuel, l'autre porte la lecture ; le vide est aussi du poids, la densité d'information est aussi du poids ; gauche et droite inégales, mais l'ensemble doit être équilibré.
-
-Exigences générales : 9:16, haute définition, net, papier propre, texture réelle du sujet, typographie affûtée, lignes fines et petits caractères aussi clairs que possible, riche en information mais pas confus, avec la finition d'une affiche de musée aboutie et d'une publication d'art.
-
-Éviter : division 50/50 mécanique, simple image à gauche texte à droite, deux sujets similaires de chaque côté, sujet trop petit, zone d'information comme un manuel, modèle de titre fixe, cadres d'information de PPT, UI complexe, anglais aléatoire, vieillissement sévère, bruit tacheté, numérotation de l'image, marque de droits d'auteur, éclats à quatre branches, sparkle et allure d'affiche IA de faible finition.
+{
+  "input": {
+    "city_name": "{{USER_INPUT_CITY}}"
+  },
+  "reference_style": {
+    "use_uploaded_reference_images": true,
+    "reference_images_define": ["composition d'ensemble", "esthétique de sérigraphie faite main", "silhouettes graphiques noires marquées", "palette de couleurs limitée", "caractère d'affiche de voyage vintage", "texture d'encre rugueuse", "bords faits main légèrement imparfaits", "grande typographie du nom de la ville", "disposition en couches des monuments", "élément de transport en bas", "fond de papier crème/blanc cassé", "composition éditoriale minimaliste"],
+    "do_not_copy": ["monuments spécifiques", "nom de ville spécifique", "véhicule spécifique", "combinaisons de couleurs spécifiques", "disposition exacte de la typographie", "emplacement exact des monuments"]
+  },
+  "generation": {
+    "type": "affiche_de_voyage_de_ville_vintage",
+    "aspect_ratio": "3:4",
+    "resolution": "haute",
+    "orientation": "portrait",
+    "city_adaptation": {
+      "primary_rule": "Tout doit être redessiné autour du city_name de l'utilisateur.",
+      "identify_city": true,
+      "research_visual_identity": true,
+      "landmarks": {"count": "4-7", "selection": "Sélectionner automatiquement les monuments les plus reconnaissables et visuellement distinctifs de la ville spécifiée.", "prioritize": ["monument principal", "architecture historique", "icône architecturale moderne", "monument religieux ou culturel", "pont ou monument", "élément reconnaissable de la ligne d'horizon"], "rendering": "Convertir chaque monument en silhouettes de sérigraphie noires simplifiées et marquées tout en préservant son identité architecturale reconnaissable."},
+      "transportation": {"automatically_select": true, "instruction": "Choisir un véhicule de transport fortement associé à la ville spécifiée, comme un taxi, un tramway, un bus, une rame de métro, un tuk-tuk, un téléphérique, un pousse-pousse, une voiture classique, un ferry ou un autre transport local emblématique.", "placement": "grand élément au premier plan le long du bord inférieur", "style": "illustration de sérigraphie vintage simplifiée"},
+      "colors": {"automatically_adapt": true, "instruction": "Sélectionner une palette restreinte de 2-4 couleurs inspirée de l'identité visuelle de la ville, du transport local, du drapeau, de l'architecture ou des couleurs culturelles.", "black": "couleur d'encre graphique dominante", "background": "papier crème chaud et vieilli", "accent_colors": "spécifiques à la ville et discrètes, jamais trop saturées"},
+      "typography": {"text": "{{USER_INPUT_CITY}}", "case": "majuscules", "style": "grandes lettres d'affichage grasses, irrégulières et condensées", "placement": "intégrée de manière proéminente entre ou derrière les monuments", "texture": "encre imprimée rugueuse", "alignment": "légèrement imparfait et organique", "rule": "Le nom de la ville doit être parfaitement orthographié et clairement lisible."},
+      "secondary_text": {"enabled": false, "instruction": "Ne pas ajouter de slogans arbitraires, de dates, de phrases touristiques, de descriptions ou de texte lisible supplémentaire."},
+      "local_details": {"automatically_adapt": true, "instruction": "Ajouter des détails visuels subtils qui renforcent immédiatement l'identité de la ville spécifiée sans surcharger la composition."}
+    },
+    "composition": {"layout": "affiche de voyage vintage éditoriale", "landmarks": "disposés dynamiquement autour de la typographie", "typography": "grand point d'ancrage visuel central", "foreground": "un élément de transport emblématique de la ville", "depth": "superposition graphique plate avec chevauchement minimal", "negative_space": "espace négatif crème généreux", "balance": "asymétrique mais visuellement équilibré", "cropping": "permettre aux monuments ou au transport sélectionnés de s'étendre naturellement vers les bords"},
+    "art_direction": {"medium": "affiche de voyage en sérigraphie tirée à la main / inspirée de la linogravure", "visual_language": ["silhouettes marquées", "formes plates", "bords d'encre rugueux", "grain d'impression visible", "usure d'encre subtile", "légères imperfections de repérage", "imperfections faites main", "design éditorial graphique", "influence des affiches de voyage du milieu du siècle"], "linework": "trait fort, épais et simplifié", "texture": "grain de papier authentique et couverture d'encre irrégulière", "finish": "œuvre imprimée physique plutôt qu'art vectoriel numériquement parfait"},
+    "background": {"color": "ivoire chaud / crème vieilli", "texture": "fibres de papier naturelles subtiles", "pattern": "aucun", "gradient": false},
+    "quality": {"photorealism": false, "vector_perfection": false, "digital_gloss": false, "clean_modern_ui": false, "high_detail": true, "print_ready_appearance": true}
+  },
+  "constraints": {
+    "user_controls_only": ["city_name"],
+    "model_controls": ["sélection des monuments", "disposition des monuments", "transport", "palette de couleurs", "détails visuels locaux", "composition typographique", "hiérarchie graphique"],
+    "must_have": ["nom de ville correct", "monuments reconnaissables de cette ville", "élément de transport ou de mobilité spécifique à la ville", "fond de papier crème chaud", "formes de sérigraphie noires marquées", "grande typographie de la ville", "texture d'impression artisanale vintage", "composition cohérente d'affiche de voyage"],
+    "avoid": ["monuments d'autres villes", "bâtiments génériques", "imagerie touristique générique", "rendu photoréaliste", "rendu 3D", "dégradés brillants", "couleurs néon", "design d'affiche corporate moderne", "texte aléatoire", "nom de ville mal orthographié", "slogans supplémentaires", "filigranes", "logos", "artefacts d'IA", "bords vectoriels trop nets"]
+  },
+  "output_instruction": "Créer une seule affiche de voyage en sérigraphie vintage finalisée représentant {{USER_INPUT_CITY}}. Préserver le langage artistique et la retenue visuelle des références fournies, mais redessiner entièrement les monuments, le transport, les couleurs d'accent et les détails locaux pour qu'ils appartiennent authentiquement à la ville spécifiée."
+}
 ```
 
 </details>
@@ -913,7 +1095,7 @@ Exigences générales : 9:16, haute définition, net, papier propre, texture ré
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSFhlpGakAAd5VE.jpg" width="700" alt="Affiche d&#x27;Exposition Orientale Asymétrique">
+<img src="https://image.moge.ai/prompt_media/HSPWNKrbkAAoYWC.jpg" width="700" alt="Affiche de Voyage Vintage par Ville">
 </div>
 
 <br>
@@ -922,13 +1104,13 @@ Exigences générales : 9:16, haute définition, net, papier propre, texture ré
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2099066309950447881) | 2026-09-13 |
+| [Maercih](https://x.com/Maercihh) | [X / Twitter](https://x.com/Maercihh/status/2099757585264251102) | 2026-09-15 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099066309950447881)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099757585264251102)**
 
 </div>
 
@@ -1023,53 +1205,49 @@ Qualité : ultra-haute résolution, typographie nette, reproduction précise du 
 
 ---
 
-### No. 16: Affiche éditoriale point-ligne-plan
+### No. 16: Affiche éditoriale à composition dispersée
 
 ![Catégorie: Supports marketing](https://img.shields.io/badge/Cat%C3%A9gorie-Supports%20marketing-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche verticale éditoriale sobre qui traduit un thème culturel en géométrie point-ligne-plan, avec cercles texturés, un petit point focal figuratif et une typographie contrastée.
+Génère une affiche éditoriale contemporaine haut de gamme avec une composition dispersée menée par une figure, une typographie expérimentale et une forte hiérarchie visuelle pour campagnes et événements.
 
 #### 🌟 Prompt
 
-【Thème】 : {ex. : son simulé / architecture en bois / émail céramique / observation astronomique} 【Titre …
+【Thème】{ex. : danse contemporaine, course urbaine, film indépendant, design industriel} 【Projet / …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-【Thème】 : {ex. : son simulé / architecture en bois / émail céramique / observation astronomique}
-【Titre principal】 : {inscrivez le titre}
-【Sous-titre】 : {inscrivez une phrase courte}
-【Élément visuel central】 : {ex. : disque et sillons sonores / cernes et structure en bois / éclats d'émail et température de four / carte du ciel et orbites}
-【Point focal figuratif】 : {ex. : magnétophone à bobines / pavillon en bois / tasse en céladon / télescope et personnage}
-【Palette principale】 : {1 couleur principale + 2–4 couleurs auxiliaires peu saturées}
-【Informations de l'événement】 : {date, lieu, contenu de l'exposition, etc.}
-【Ratio】 : 9:16
+【Thème】{ex. : danse contemporaine, course urbaine, film indépendant, design industriel}
+【Projet / Marque】{nom}
+【Titre Principal】{2–4 mots}
+【Figure / Objet Principal】{figure humaine principale ou objet dominant}
+【Nœuds Secondaires】{3–7 figures d'appui, détails corporels, objets, matériaux ou images d'archives}
+【Couleur d'Accent】{une couleur d'accent forte}
+【Arrière-plan】{ivoire chaud / noir charbon / bleu marine profond / une autre base sobre}
+【Informations Clés】{date, lieu, catégories, matériaux, slogan court}
+【Format】9:16
 
-Génère une affiche éditoriale verticale haut de gamme, sobre, à l'allure de publication indépendante.
+Créez une affiche éditoriale contemporaine haut de gamme en utilisant une composition dispersée menée par une figure. L'affiche doit sembler énergique, en couches et visuellement dense sans devenir chaotique. Construisez la composition autour d'une figure humaine, d'un objet ou d'un ancrage typographique dominant, puis répartissez 4 à 8 nœuds d'appui autour en utilisant de fortes différences d'échelle, de direction, de recadrage et d'espacement.
 
-Exploite pleinement la logique de composition graphique « point, ligne, plan » en traduisant les caractéristiques visuelles du 【Thème】 en langage géométrique, plutôt que d'ajouter simplement des cercles décoratifs.
+Utilisez une hiérarchie claire G / M / P : un ancrage surdimensionné, 2–3 nœuds visuels moyens et plusieurs petits nœuds de détail. Les éléments d'appui peuvent inclure des figures supplémentaires, des mains ou pieds recadrés, des détails de produit en gros plan, des études de matériaux, de la photographie d'archives, des équipements, des textures, des données ou des images de processus. Chaque nœud doit révéler un aspect différent du même thème plutôt que de répéter le même sujet.
 
-Utilise un grand cercle complet ou un plan géométrique comme ancre visuelle principale, puis ajoute 4–6 cercles, anneaux, arcs ouverts ou plans partiels aux tailles nettement différentes, formant de haut en bas un rythme visuel asymétrique. Les éléments géométriques peuvent se masquer, superposer les couleurs et se chevaucher partiellement, mais ne les répartis pas uniformément et ne forme pas de grille mécanique de points.
+La typographie doit se comporter comme une partie du système visuel. Laissez le titre principal être découpé en grands groupes de mots ou de lettres, placés dans différentes zones de la page tout en restant lisibles. Laissez certaines figures ou objets passer devant et derrière de grandes lettres pour créer une profondeur crédible et une forte interaction figure–typographie. Conservez une interaction spatiale principale comme surprise focale plutôt que de faire chevaucher tous les éléments.
 
-À l'intérieur des plans circulaires, conçois des textures différentes selon l'【élément visuel central】, par exemple sillons sonores, cernes, craquelures d'émail, lignes orbitales, réseau de méridiens, motifs concentriques, fines lignes parallèles, coupes de matériau, etc. Les textures doivent être délicates, nettes et sobres ; les grandes zones restent simples, le détail se concentrant localement.
+Utilisez la direction de la pose, le mouvement du corps, l'orientation des objets, des formes géométriques répétées ou un système de lignes sobre pour créer un parcours visuel lisible à travers les éléments dispersés. La composition peut se déplacer en diagonale, de manière circulaire ou via une séquence contrôlée, mais ne doit jamais sembler distribuée au hasard.
 
-Ajoute quelques lignes verticales, arcs, lignes de mesure ou lignes structurelles extrêmement fines qui relient naturellement plusieurs éléments géométriques. Les lignes doivent être complètes, avec une direction claire, et participer réellement à la composition, sans devenir une décoration aléatoire.
+Choisissez un motif visuel pour unifier la composition, comme des arcs ouverts, des cercles, des rectangles recadrés, des fragments de matériaux, une typographie condensée, des marques de données répétées ou un traitement photographique cohérent. La position peut varier, mais la grammaire visuelle doit rester cohérente sur toute l'affiche.
 
-Dans la partie centrale-inférieure, ajoute un petit 【point focal figuratif】 comme point d'ancrage visuel à fort contraste. L'élément figuratif ne doit pas être trop grand ni devenir une publicité produit ou une photographie principale ; il doit s'intégrer naturellement à la mise en page géométrique.
+Gardez la palette sobre : un arrière-plan de base, des images noires / neutres et une couleur d'accent forte. Répétez l'accent à seulement 3–5 endroits séparés afin qu'il agisse comme un connecteur visuel plutôt que de couvrir toute l'affiche.
 
-À droite, dispose le 【Titre principal】 en chinois vertical de grande taille, avec une police élancée, élégante et un interlettrage aéré. À proximité, compose le 【Sous-titre】 dans un corps plus petit. À gauche et dans la zone centrale-inférieure, dispose de petites informations réelles bien réglées, comprenant les 【Informations de l'événement】 ainsi qu'un peu de texte en anglais, de données ou de notes de matériaux liés au thème.
+Maintenez environ 20–30% d'espace négatif effectif. Ne remplissez pas chaque interstice. Les grands ancrages visuels ont besoin d'espace pour respirer, tandis que les nœuds d'appui liés peuvent former des groupes plus serrés.
 
-Forme un rapport net « grand texte très espacé, petit texte très dense » tout en conservant beaucoup de blanc. Ne remplis pas l'image uniformément ; les zones complexes et vides doivent former un rythme évident.
+Tout le texte doit être significatif et pertinent pour le projet. N'utilisez que des informations utiles telles que le nom du projet, la date, le lieu, les catégories, les matériaux, les données de performance, les spécifications du produit ou une courte déclaration thématique. Évitez le texte de remplissage, le japonais dénué de sens, la numérotation décorative, les textes de copyright ou la micro-typographie aléatoire.
 
-Utilise la 【Palette principale】 comme système chromatique central de toute l'affiche ; toutes les couleurs conservent une faible saturation, du poids et une hiérarchie. Le fond utilise un papier blanc ivoire chaud, uniforme et continu, avec une très légère texture naturelle de fibre de papier et d'impression d'art.
-
-L'ensemble présente l'allure du design éditorial japonais moderne, d'une affiche d'exposition, d'une publication indépendante et d'une impression d'art légèrement rétro. L'image doit ressembler à une œuvre de design réellement achevée, non à un modèle ou une mise en page fictive.
-
-Attention particulière :
-Le cercle principal du haut doit apparaître complet et naturel, en gardant une distance de sécurité par rapport aux bords gauche et supérieur, sans être rogné par le cadre. Le fond doit couvrir intégralement toute l'image ; le blanc de droite doit appartenir à la composition globale, sans former de bord blanc isolé ni de colonne verticale blanche supplémentaire.
+L'image finale doit ressembler à une affiche de campagne ou culturelle achevée : design éditorial est-asiatique contemporain, typographie expérimentale, photographie réelle, forte hiérarchie et tension visuelle maîtrisée. De loin, le spectateur doit immédiatement remarquer la figure ou l'objet dominant, le grand titre et la couleur d'accent ; de près, des images plus petites, des matériaux, des détails de mouvement et des informations sur le projet doivent se révéler progressivement.
 ```
 
 </details>
@@ -1077,7 +1255,7 @@ Le cercle principal du haut doit apparaître complet et naturel, en gardant une 
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSFSRDGaoAA9hGW.jpg" width="700" alt="Affiche éditoriale point-ligne-plan">
+<img src="https://image.moge.ai/prompt_media/HSLZvZjWUAA4ew6.jpg" width="700" alt="Affiche éditoriale à composition dispersée">
 </div>
 
 <br>
@@ -1086,43 +1264,40 @@ Le cercle principal du haut doit apparaître complet et naturel, en gardant une 
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2099049885064405340) | 2026-09-13 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2099479984746156216) | 2026-09-14 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099049885064405340)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099479984746156216)**
 
 </div>
 
 ---
 
-### No. 17: Affiche de Voyage Japonaise Rétro
+### No. 17: Portraits d'Empreintes Biométriques
 
 ![Catégorie: Illustration & IP](https://img.shields.io/badge/Cat%C3%A9gorie-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Crée une illustration minimaliste dans le style d'une affiche de voyage japonaise vintage, avec une scène de rue géométrique et une palette rétro en vecteurs plats.
+Transforme des icônes de la culture pop en portraits minimalistes noir sur blanc, sculptés à partir de sillons et de spirales d'empreintes digitales.
 
 #### 🌟 Prompt
 
-Créez une illustration minimaliste dans le style d'une affiche de voyage japonaise vintage de …
-
-<details>
-<summary>Afficher le prompt complet</summary>
-
 ```
-Créez une illustration minimaliste dans le style d'une affiche de voyage japonaise vintage de [SUBJECT/LOCATION], mettant en scène [MAIN FOREGROUND ELEMENT] et une rue japonaise stylisée avec des bâtiments bas géométriques, des arbres arrondis, des marquages routiers, des poteaux électriques et des panneaux de signalisation. Incluez [LANDMARK/BACKGROUND ELEMENT] bien en évidence à l'arrière-plan et [SUN/SECONDARY ELEMENT] dans le ciel. Utilisez des formes vectorielles plates, des lignes nettes, une géométrie simplifiée, sans dégradés, et une palette rétro audacieuse de bleu marine profond, bleu cobalt, vert forêt, blanc cassé chaud et accents rouge-orange vifs, avec une esthétique équilibrée d'affiche sérigraphiée.
+STYLE Impression d'art linéaire en empreinte digitale biométrique
+SUJET [SUJET] formé de sillons et spirales courbes d'empreinte digitale
+ENVIRONNEMENT Fond blanc net et épuré, cadrage vertical centré
+ÉCLAIRAGE & AMBIANCE Encre noire monochrome à fort contraste, esthétique conceptuelle marquée
+SPÉCIFICATIONS Lignes vectorielles nettes, illustration en espace négatif, --ar 3:4
 ```
-
-</details>
 
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HR123FHWwAEbhUU.jpg" width="700" alt="Affiche de Voyage Japonaise Rétro">
+<img src="https://image.moge.ai/prompt_media/HSSZnn_WEAAqV-e.jpg" width="700" alt="Portraits d&#x27;Empreintes Biométriques">
 </div>
 
 <br>
@@ -1131,35 +1306,57 @@ Créez une illustration minimaliste dans le style d'une affiche de voyage japona
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [NoorAI](https://x.com/noorwithwifi) | [X / Twitter](https://x.com/noorwithwifi/status/2097963713609298011) | 2026-09-10 |
+| [Pan](https://x.com/sebatheepan) | [X / Twitter](https://x.com/sebatheepan/status/2099972239831564665) | 2026-09-15 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2097963713609298011)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099972239831564665)**
 
 </div>
 
 ---
 
-### No. 18: Portrait Serein en Lumière Naturelle
+### No. 18: Portrait féminin en pleine lumière du soleil
 
 ![Catégorie: Photographie & image](https://img.shields.io/badge/Cat%C3%A9gorie-Photographie%20%26%20image-lightgrey)
 
 #### 📚 Description
 
-Un portrait photographique d'une jeune femme sereine près d'une fenêtre à claire-voie, avec une lumière naturelle douce et des fleurs de cerisier en arrière-plan.
+Crée un portrait ultra-réaliste en gros plan d'une jeune femme sous une forte lumière solaire, avec des cheveux lumineux, une peau texturée et une ambiance intime et spontanée.
 
 #### 🌟 Prompt
 
-Un portrait photographique détaillé d'une jeune femme sereine aux cheveux foncés coiffés en un chignon …
+Couleur des cheveux : Haut : Lumière du soleil : Pose : Arrière-plan : Créez un portrait en gros plan …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Un portrait photographique détaillé d'une jeune femme sereine aux cheveux foncés coiffés en un chignon élégant, avec de douces mèches encadrant son visage. Elle a des yeux chaleureux et expressifs, un sourire doux, et repose délicatement son menton sur sa main. Elle porte une simple robe en lin vert à manches trois-quarts. La scène est éclairée par une douce lumière naturelle qui filtre à travers une fenêtre à claire-voie traditionnelle de style shoji, projetant de délicates ombres sur son visage et son épaule. Dans l'arrière-plan flou, une petite table d'appoint en bois porte un vase en céramique rempli de branches de cerisier rose en fleurs et d'une unique fleur d'iris violette éclatante, créant une atmosphère intérieure paisible et contemplative, avec une profondeur cinématographique et des textures naturelles.
+Couleur des cheveux :
+Haut :
+Lumière du soleil :
+Pose :
+Arrière-plan :
+
+Créez un portrait en gros plan ultra-réaliste 9:16 d'une jeune femme adulte sous une forte lumière naturelle du soleil.
+
+Faites de la lumière du soleil un élément majeur de l'image : directe, inégale, légèrement dure, avec des reflets vifs tombant sur les cheveux, le visage, les épaules et la clavicule. Autorisez de petites zones d'écrêtage contrôlé des hautes lumières tout en gardant visibles la structure du visage et les détails de la peau.
+
+Les cheveux doivent sembler particulièrement vivants dans la lumière — volume naturel, mèches lâches, cheveux rebelles, fins cheveux individuels et léger mouvement. Les mèches éclairées à contre-jour ou de côté doivent briller nettement sur l'arrière-plan plus sombre, avec une variation de ton réaliste plutôt qu'une couleur de cheveux plate et uniforme.
+
+Gardez la peau très réaliste et humaine : texture fine visible, pores subtils, variation naturelle de ton, couleur douce du visage et reflets crédibles. Évitez une peau trop lisse, grasse, plastique, cireuse ou d'aspect CGI.
+
+Utilisez un haut ajusté et simple avec une encolure nette et une texture de tissu réaliste. Les vêtements doivent définir et compléter doucement la silhouette du haut du corps sans devenir le point central. Gardez le design minimal, sans logos, imprimés ni accessoires distrayants.
+
+Cadrez le portrait de très près, avec un recadrage légèrement imparfait et une impression de cliché spontané et intime. Laissez quelques mèches de cheveux traverser le visage naturellement. Gardez l'expression détendue et discrète, jamais comme une pose de mode commerciale.
+
+Utilisez un arrière-plan simple et plus sombre pour faire ressortir les cheveux et la peau éclairés par le soleil.
+
+Impression générale : intime, baignée de soleil, spontanée, tactile, légèrement imparfaite et véritablement photographique plutôt qu'une photographie de beauté de studio léchée.
+
+Évitez : peau à filtre beauté, cheveux de salon parfaits, éclairage doux et plat, éclairage de studio, retouche excessive, peau CGI brillante, fausse texture de perruque, expressions trop posées, arrière-plans chargés, mains déformées ou anatomie non naturelle.
 ```
 
 </details>
@@ -1167,7 +1364,7 @@ Un portrait photographique détaillé d'une jeune femme sereine aux cheveux fonc
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSGb9njWQAMKTo7.jpg" width="700" alt="Portrait Serein en Lumière Naturelle">
+<img src="https://image.moge.ai/prompt_media/HSRbWOXbgAAM3uh.jpg" width="700" alt="Portrait féminin en pleine lumière du soleil">
 </div>
 
 <br>
@@ -1176,63 +1373,143 @@ Un portrait photographique détaillé d'une jeune femme sereine aux cheveux fonc
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Minahil](https://x.com/Minahil42298354) | [X / Twitter](https://x.com/Minahil42298354/status/2099130400186445881) | 2026-09-13 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2099904698073616580) | 2026-09-15 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099130400186445881)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099904698073616580)**
 
 </div>
 
 ---
 
-### No. 19: Affiche de Campagne Mode Premium
+### No. 19: Affiche Adidas 'Break the Pattern'
 
 ![Catégorie: Publicité & produit](https://img.shields.io/badge/Cat%C3%A9gorie-Publicit%C3%A9%20%26%20produit-lightgrey)
 
 #### 📚 Description
 
-Génère une affiche mode éditoriale de luxe en 2:3 avec une mannequin, une architecture minimaliste et une typographie de marque raffinée dans un large espace négatif.
+Crée une affiche sociale 4:5 de campagne sportive premium avec une coureuse en mouvement dans une architecture de béton surréaliste et une typographie audacieuse.
 
 #### 🌟 Prompt
 
-{ "input": { "pose": "{{jambes croisées}}", "brand\_name": "{{aroma}}", "brand\_logo": "{{générer logo}}", …
+ADIDAS — « BREAK THE PATTERN » Format : Affiche hero sociale verticale 4:5 Style : Campagne sportive premium …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-{
-"input": {
-"pose": "{{jambes croisées}}",
+ADIDAS — « BREAK THE PATTERN »
 
-"brand_name": "{{aroma}}",
-"brand_logo": "{{générer logo}}",
-"brand_tagline": "{{générer slogan}}",
-"headline": "{{générer titre}}",
-"subheadline": "{{GÉNÉRER SOUS-TITRE}}",
-"supporting_text": "{{GÉNÉRER TEXTE_DE_SOUTIEN}}",
-"microcopy": "{{GÉNÉRER MICROTEXTE}}"
-},
-"generation": {
-"type": "campagne_de_mode_contemporaine_premium",
-"aspect_ratio": "2:3",
-"orientation": "portrait",
-"visual_style": {"aesthetic": "publicité de mode contemporaine haut de gamme avec une esthétique éditoriale de magazine épurée", "mood": "assurée, sophistiquée, aspirationnelle, sobre et moderne", "finish": "photographie de campagne de mode professionnelle photoréaliste"},
-"subject": {"model": "jeune mannequin femme", "skin": "texture de peau naturelle réaliste avec pores subtils et retouche minimale"},
-"outfit": {"palette": "neutres sophistiqués sourds avec bleu marine, crème, beige, brun, anthracite retenus"},
-"pose": {"instruction": "{{POSE_DÉFINIE_PAR_UTILISATEUR}}", "priority": "Suivre précisément la pose demandée tout en gardant une anatomie réaliste et un équilibre naturel."},
-"environment": {"setting": "environnement de studio premium minimaliste", "background": "blanc cassé chaud, crème, beige ou gris clair", "negative_space": "grandes zones intentionnelles d'espace négatif pour la typographie"},
-"lighting": {"style": "éclairage de mode commercial haut de gamme avec grandes lumières de studio douces et diffuses"},
-"camera": {"style": "photographie de mode éditoriale professionnelle, mise au point nette sur le visage et les vêtements"},
-"composition": {"layout": "composition éditoriale asymétrique avec un large espace pour la typographie"},
-"typography": {"typographic_rule": "Tout le texte fourni doit être reproduit exactement, correctement orthographié et rendu comme un design graphique professionnel intentionnel."},
-"negative_prompt": ["photo de banque d'images générique", "peau plastique", "anatomie irréaliste", "texte incohérent", "filigrane"]
-},
-"output": {"aspect_ratio": "2:3", "quality": "maximale", "style": "campagne éditoriale premium photoréaliste"}
-}
+Format : Affiche hero sociale verticale 4:5
+Style : Campagne sportive premium × photographie éditoriale contemporaine × architecture surréaliste × design graphique audacieux
+Qualité : Hyperréaliste, 8K, photographie commerciale de campagne
+
+IDÉE CENTRALE
+
+Les athlètes passent des années à répéter les mêmes mouvements jusqu'à ce que la répétition devienne instinct.
+
+Au lieu de montrer l'athlète courant dans un environnement normal, visualisez la routine se désintégrant autour d'elle.
+
+Créez un immense espace d'entraînement en béton minimaliste où le sol est divisé en centaines de sections géométriques répétées. À mesure que l'athlète avance, ces sections se soulèvent physiquement, pivotent et se réorganisent en un nouveau chemin.
+
+Le monde change parce que l'athlète refuse de suivre le motif attendu.
+
+ATHLÈTE PRINCIPALE
+
+Jeune coureuse professionnelle saisie en pleine foulée.
+
+Physique athlétique naturel, peau réaliste et légère sueur, expression concentrée, cheveux détachés réagissant au mouvement.
+
+Elle porte :
+
+* Un haut de performance adidas noir
+* Un short de course léger et noir
+* Des chaussettes de performance blanches
+* Des chaussures de course adidas modernes au détail reconnaissable des trois bandes
+
+Pas de muscles exagérés ni de pose de mannequin. Elle doit ressembler à une véritable athlète saisie pendant l'entraînement.
+
+ENVIRONNEMENT
+
+Espace architectural minimaliste en blanc et béton avec d'énormes murs géométriques et un large espace négatif.
+
+Des centaines de panneaux de sol rectangulaires créent une grille précise. Certains panneaux restent plats tandis que d'autres s'élèvent en rampes, murs et passerelles suspendues, créant un paysage impossible et maîtrisé.
+
+Une fine ligne bleue d'accent suit le parcours de l'athlète à travers l'environnement.
+
+Pas d'objets flottants aléatoires, de décors fantastiques ou d'effets psychédéliques.
+
+COMPOSITION
+
+Gardez l'athlète comme ancre visuelle.
+
+Utilisez la grille architecturale pour créer de fortes lignes directrices vers elle.
+
+De grandes portions de l'affiche restent épurées et minimalistes, tandis que des sections sélectionnées contiennent des éléments graphiques surdimensionnés, des marqueurs de distance et des chiffres recadrés.
+
+TYPOGRAPHIE
+
+Typographie condensée, grande et en gras, intégrée à l'architecture :
+
+BREAK
+THE
+PATTERN
+
+Faites de PATTERN le mot dominant.
+
+Texte d'accompagnement :
+
+DON’T FOLLOW THE LINE.
+CREATE YOUR OWN.
+
+Petits éléments techniques :
+
+ADIDAS RUNNING / 01
+PACE — PROGRESSIVE
+DISTANCE — 10K
+MODE — FORWARD
+
+CTA en bas :
+
+RUN DIFFERENT →
+
+Ajoutez une fine bande horizontale bleue :
+
+RUN / TRAIN / PUSH / REPEAT / EVOLVE
+
+PRODUIT
+
+La chaussure de course adidas doit être très réaliste et naturellement intégrée à l'action.
+
+Mesh ingénierié visible, coutures, texture de semelle extérieure et déformation réaliste du matériau.
+
+Le branding des trois bandes doit être net et correctement proportionné sans devenir surdimensionné.
+
+ÉCLAIRAGE ET CAMÉRA
+
+Lumière du jour directionnelle et vive entrant par le haut, produisant des ombres architecturales nettes et des reflets naturels.
+
+Photographie sportive professionnelle, objectif 50mm, position de caméra légèrement basse, vitesse d'obturation rapide, profondeur de champ réaliste et léger grain cinématographique.
+
+Tons de peau naturels. Blancs propres. Noirs profonds. Accent bleu maîtrisé.
+
+RENDU FINAL
+
+Le résultat doit ressembler à une campagne mondiale de performance adidas photographiée dans une installation d'entraînement architecturalement impossible.
+
+Minimaliste, énergique, jeune et conceptuel.
+
+Pas de publicité générique de baskets.
+Pas de photographie de catalogue.
+Pas de surréalisme aléatoire d'IA.
+Pas d'excès de graphisme.
+Pas d'esthétique de mode de luxe.
+Pas d'apparence de CGI factice.
+
+Vertical 4:5 · 8K UHD · photographie sportive hyperréaliste · architecture surréaliste · typographie audacieuse · campagne adidas premium · direction artistique éditoriale contemporaine
 ```
 
 </details>
@@ -1240,7 +1517,7 @@ Génère une affiche mode éditoriale de luxe en 2:3 avec une mannequin, une arc
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSEUAXfbUAAdjja.jpg" width="700" alt="Affiche de Campagne Mode Premium">
+<img src="https://image.moge.ai/prompt_media/HSRE3ZsbwAAW-bl.jpg" width="700" alt="Affiche Adidas &#x27;Break the Pattern&#x27;">
 </div>
 
 <br>
@@ -1249,79 +1526,35 @@ Génère une affiche mode éditoriale de luxe en 2:3 avec une mannequin, une arc
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Maercih](https://x.com/Maercihh) | [X / Twitter](https://x.com/Maercihh/status/2098990617007440344) | 2026-09-13 |
+| [Jack](https://x.com/j_smeaton99) | [X / Twitter](https://x.com/j_smeaton99/status/2099879054904324278) | 2026-09-15 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2098990617007440344)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099879054904324278)**
 
 </div>
 
 ---
 
-### No. 20: Affiche d'exposition orientale asymétrique
+### No. 20: Portrait réel dans un décor au trait
 
 ![Catégorie: Visuels créatifs](https://img.shields.io/badge/Cat%C3%A9gorie-Visuels%20cr%C3%A9atifs-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche d'exposition culturelle orientale très esthétique à composition gauche-droite asymétrique, équilibrant le poids visuel entre sujet, ombre et matières plutôt que des surfaces égales.
+Garde la personne photoréaliste tout en transformant tout le décor en une illustration au trait monochrome sur papier blanc.
 
 #### 🌟 Prompt
 
-Prompt : 【Thème】: 【Titre chinois】: 【Titre anglais】: 【Contenu central gauche】: 【Contenu central droit】: …
+Utilisez la photo du quotidien téléchargée comme unique source d'identité, de pose, de vêtements, de …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Prompt :
-
-【Thème】:
-【Titre chinois】:
-【Titre anglais】:
-【Contenu central gauche】:
-【Contenu central droit】:
-【Relation gauche-droite】: objet × projection / sujet × texte / matière première × résultat / contraste clair-obscur / dense × vide / autre
-【Élément transversal】: contour du sujet / ombre / lignes / matière / titre / autre
-【Couleur principale】:
-【Couleur auxiliaire】:
-【Date / Lieu】:
-【Proportion】: 9:16
-
-Génère une affiche d'exposition culturelle orientale très esthétique et à haute densité d'information, en "composition gauche-droite / composition asymétrique à deux zones".
-
-Ne coupe pas l'image en 50/50 ; établis une hiérarchie visuelle claire selon le thème, par exemple 40/60, 45/55, 35/65. Les deux côtés assument des tâches différentes et l'équilibre vient du poids visuel, non d'aires égales.
-
-Choisis la relation gauche-droite selon le thème :
-
-Objet × projection : d'un côté une personne ou un objet réel, de l'autre l'ombre, la lumière, la trajectoire de mouvement ou un autre résultat visuel qu'il produit, formant une relation de cause à effet.
-
-Sujet × texte : d'un côté un grand sujet dominant la scène ; de l'autre grand titre, petits textes, date, informations d'archives et schémas de recherche créant un poids de lecture.
-
-Matière première × résultat : un côté montre minerai, matrice de bois, matériau ou l'état brut du métier ; l'autre montre pigment, empreinte, produit fini ou application, pour que la composition elle-même explique le processus de transformation.
-
-Dense × vide : un côté utilise objets, fragments d'archives, motifs et informations de recherche pour une haute densité visuelle ; l'autre garde plus de blanc, seulement titre ou quelques graphismes forts, créant le design par le contraste dense-clairsemé.
-
-Contraste clair-obscur : autorise un côté en papier clair (blanc os, gris clair) et l'autre en champs de couleur forts (noir d'encre, rouge profond, bleu-vert profond), formant une collision visuelle nette.
-
-Les deux côtés ne peuvent être totalement séparés. Laisse le sujet, l'ombre, les branches, le texte, les coups de pinceau, les motifs ou de fines lignes traverser modérément la ligne centrale, reconnectant les deux côtés en un tout. La frontière peut être brisée, mais sans devenir un collage chaotique.
-
-La typographie est redessinée pour chaque image : titre horizontal complet, grands caractères décalés, titre moyen, texte traversant les côtés ou inversion partielle de couleur. Ne fixe pas quatre caractères verticaux ni ne répète le modèle "deux caractères horizontaux + deux verticaux".
-
-La densité d'information suit les affiches de musée abouties, le design éditorial japonais et les catalogues d'art. Peut inclure sous-titre anglais, matière, métier, date, lieu, phrase curatoriale et un peu de contenu de recherche lié : croquis structurel, macro partielle, coupe de matériau, processus de fabrication ou étude de motifs.
-
-Le contenu de recherche n'est que la deuxième couche de lecture, concentré sur 2–3 zones ; n'en fais pas un PPT, une page d'encyclopédie ou une fiche d'information réglée.
-
-Limite la couleur à 3–5 couleurs principales, avec une couleur principale nette comme point de mémoire, plus noir, blanc os, gris foncé comme couleurs de base. Garde les aplats propres, la matière réaliste, le contraste net.
-
-Au premier regard : le sujet le plus fort et le contraste visuel gauche-droite ; au deuxième : le titre ; au troisième : la relation transversale ou causale entre les côtés ; enfin : matière, structure, métier et informations d'exposition.
-
-Principe central : les côtés n'ont pas besoin d'être égaux, mais le poids visuel doit être équilibré. Un côté capte le regard, l'autre soutient la lecture. Établis d'abord la frontière, puis brise-la activement.
-
-Exigences générales : haute définition, netteté, papier propre, sujet net, typographie hiérarchisée, petits textes et fines lignes aussi clairs que possible, information riche mais bien ordonnée, avec la finition d'une affiche culturelle aboutie et d'une publication d'art.
+Utilisez la photo du quotidien téléchargée comme unique source d'identité, de pose, de vêtements, de composition et de relations de scène. Créez un portrait en techniques mixtes où la personne reste photoréaliste tandis que l'environnement devient une simple illustration au trait monochrome dessinée à la main. Préservez le visage reconnaissable, le teint, la coiffure, la couleur des cheveux, l'expression, la pose, les vêtements et ne redessinez pas la personne. Composition : conservez le cadrage, le recadrage, l'angle de caméra, l'échelle du sujet, la position et le geste d'origine et ne faites pas de miroir, ne recentrez pas, ne zoomez pas et n'inventez pas de nouvelle pose. La personne réelle reste le point focal visuel au même endroit que la source. Personne : rendez le sujet comme une photographie réaliste avec une peau naturelle, des détails de tissu et une lumière crédible. Faites correspondre l'éclairage et la perspective de la source. Les objets tenus ou utilisés directement dans la pose peuvent rester photoréalistes. Arrière-plan : transformez tout le décor environnant en un champ de papier blanc chaud avec uniquement un dessin au trait d'une seule couleur. Redessinez les murs, fenêtres, rideaux, étagères, livres, plantes, lampes, canapés, tables, tapis, cadres et objets de la pièce principaux en contours lâches et simplifiés basés sur la photo. Préservez leur position, échelle et relations approximatives pour que la scène reste reconnaissable. Supprimez la texture photographique, les ombres et la couleur. Couleur du trait : utilisez exactement une teinte d'encre monochrome saturée pour toutes les lignes d'arrière-plan. Choisissez une couleur claire non neutre prélevée sur la photo téléchargée et éclaircissez-la en un ton moyen vif. Si la source est majoritairement neutre, utilisez un seul accent harmonieux comme bleu cobalt, rouge brique, corail, vert forêt, bleu-vert profond, et ne mélangez pas les couleurs de trait. Style de trait : utilisez des traits d'épaisseur moyenne de type feutre ou stylo à bille avec un tremblement visible, une pression inégale, des jonctions tordues, des extrémités émoussées, de petits débordements et une énergie en un seul passage. Gardez les contours simples et imparfaits. Évitez le dessin technique fin, les courbes vectorielles lisses, les hachures denses ou les lignes d'esquisse répétées. Simplification : réduisez les objets à quelques traits. Les livres deviennent des rectangles, les plantes des formes de feuilles lâches, les lampes des dômes et tiges basiques, les fenêtres des cadres ouverts et les tissus des plis de contour épars. Gardez un espace blanc généreux et laissez de grandes zones vides. La pièce doit sembler aérée, ludique et inachevée. Ancrage : si la source comprend un tapis, un lit, un canapé, une surface de table ou un bord de sol, dessinez uniquement son contour et quelques coutures dans la même encre de base grise, sans ombre portée ni remplissage coloré. Laissez la personne réelle chevaucher les formes illustrées. Style : personne photoréaliste + gribouillage d'environnement monochrome naïf, techniques mixtes éditoriales, illustration lifestyle de magazine indépendant, fond de papier blanc épuré, minimaliste et ludique. Le contraste entre la figure réelle et la pièce au trait brut est l'effet central. Négatif : pas de personne illustrée, pas de visage de dessin animé, pas d'identité modifiée, pas de tenue modifiée, pas de pose modifiée, pas de personnes supplémentaires, pas de membres manquants, pas de meubles inventés, pas d'art au trait multicolore, pas de photo d'arrière-plan réaliste, pas de dégradés, pas d'aquarelle, pas de 3D, pas d'anime, pas de manga, pas d'art vectoriel poli, pas de texte, pas de logo, pas de filigrane, pas d'UI.
 ```
 
 </details>
@@ -1329,7 +1562,7 @@ Exigences générales : haute définition, netteté, papier propre, sujet net, t
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSFXSA7awAAWk-V.jpg" width="700" alt="Affiche d&#x27;exposition orientale asymétrique">
+<img src="https://image.moge.ai/prompt_media/HSPCcTVboAAJGq3.jpg" width="700" alt="Portrait réel dans un décor au trait">
 </div>
 
 <br>
@@ -1338,13 +1571,13 @@ Exigences générales : haute définition, netteté, papier propre, sujet net, t
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2099061104785715486) | 2026-09-13 |
+| [Sairah](https://x.com/Sairah_0) | [X / Twitter](https://x.com/Sairah_0/status/2099735654641070183) | 2026-09-15 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099061104785715486)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099735654641070183)**
 
 </div>
 
@@ -1413,66 +1646,26 @@ Utilise un fort alignement de grille, une hiérarchie visuelle claire, des panne
 
 ---
 
-### No. 22: Affiche d'événement duotone à masque en escalier
+### No. 22: Affiche d'information cérémonielle minimaliste
 
 ![Catégorie: Supports marketing](https://img.shields.io/badge/Cat%C3%A9gorie-Supports%20marketing-lightgrey)
 
 #### 📚 Description
 
-Crée des affiches d'événement en duotone avec un canal blanc en escalier façon pixels qui bascule la partie du corps en action vers une couleur chaude, typographie néo-grotesque noire et dates en gros chiffres.
+Crée une affiche d'information minimaliste et solennelle sur n'importe quel thème, avec titre centré, trois symboles abstraits et un vaste espace blanc dans un style de catalogue de musée.
 
 #### 🌟 Prompt
 
-{ "nom\_du\_style": "Step Season", "slug\_du\_style": "stepped-mask-duotone-event-poster", "toile": "affiche …
+Composez une affiche d'information minimaliste à l'allure cérémonielle autour de n'importe quel thème. Au …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-{
-  "nom_du_style": "Step Season",
-  "slug_du_style": "stepped-mask-duotone-event-poster",
-  "toile": "affiche verticale 9:16, un champ de couleur saturée plat de bord à bord, sans texture",
-  "couleur": {
-    "paires": [
-      "cobalt #0A3FD4 + rouge #E8342A",
-      "turquoise #1ECFC4 + orange #E85A22",
-      "jaune acide #E8F32B + violet #6B4FD8",
-      "champ orange chaud + couleur chaude bleu profond"
-    ],
-    "regle": "DEUX couleurs par affiche — le champ teinte toute la photographie en duotone, la couleur chaude n'apparaît que dans le canal en escalier ; noir pour la typographie ; blanc pour le canal lui-même. Pas de troisième teinte, pas de dégradé, pas de grain.",
-    "regle_de_serie": "sur une série de quatre, donnez à chaque affiche une famille de couleur distincte — jamais deux bleus"
-  },
-  "systeme_de_marches": {
-    "forme": "un canal blanc à bord en escalier net, comme des marches de pixels, traversant verticalement le cadre et débordant en haut et en bas",
-    "module": "la hauteur et la profondeur de marche sont UNE unité fixe sur toute la série — environ 1/16 de la largeur de l'affiche ; ne jamais redimensionner par affiche",
-    "regle_de_compte": "un canal par défaut ; se diviser en deux blocs en escalier seulement quand le métier a deux points d'impact simultanés (cymbale et caisse claire), un bloc par point",
-    "regle_chaude": "tout ce qui tombe dans le canal passe à la couleur chaude — et le canal doit être positionné pour tomber sur la partie du corps ou l'outil qui travaille en ce moment"
-  },
-  "typographie": {
-    "titre": "3–4 mots dans une néo-grotesque propre, casse de phrase — seule la première lettre en majuscule, le reste en minuscules ; noir ; 2–3 lignes ; haut du cadre",
-    "dates": "chiffres du jour empilés verticalement en grands numéraux noirs, mois et année en petites capitales dessous ; UNE position fixe sur toute la série — côté droit, aligné sur l'axe vertical du titre",
-    "pied": "une ligne de petites capitales grasses en bas à gauche : le nom de l'événement, une barre oblique, le format (OPEN PRACTICE / PROCESS LIVE / LIVE ROOMS / OPEN SESSIONS)"
-  },
-  "photographie": {
-    "sujet": "un praticien au sommet d'une action — en plein plongeon, foulée, cueillage, frappe ; jamais posé, jamais face à l'objectif",
-    "decor": "le lieu réel reste visible et en duotone — carrelage de piscine et plongeoir, couloirs de piste et projecteurs, établi de studio et four, batterie et cymbales",
-    "cadrage": "corps entier là où l'action l'exige, à partir de la taille là où l'outil l'exige"
-  },
-  "regles_de_design": [
-    "les titres suivent une grammaire : [nom] en [état] — Bodies in blue, Matter in motion, Sound in the making",
-    "aucune paire d'affiches d'une série ne peut répéter un mot",
-    "le canal est l'identité — gardez-le géométrique, jamais doux ni déchiré",
-    "tout ce qui est imprimé repose sur le champ plat ; rien ne chevauche la photographie sauf le canal"
-  ],
-  "variables_d_echange": {
-    "discipline": "plongeon / sprint / soufflage de verre / percussion",
-    "titre": "Bodies in blue / City in stride / Matter in motion / Sound in the making",
-    "paire_de_couleurs": "cobalt+rouge / orange chaud+bleu / turquoise+orange / jaune acide+violet",
-    "zone_chaude": "torse entrant dans l'eau / jambe motrice / cueillage de verre en fusion sur la canne / cymbale et caisse claire",
-    "pied": "AQUATIC MOTION · OPEN PRACTICE / URBAN TRACK MEET · OPEN SESSIONS / GLASS STUDIO DAYS · PROCESS LIVE / PERCUSSION WEEKEND · LIVE ROOMS"
-  }
-}
+Composez une affiche d'information minimaliste à l'allure cérémonielle autour de n'importe quel thème. Au premier regard, un titre principal précisément centré doit apparaître dans un vaste champ vide de blanc chaud, en opposition solennelle avec trois symboles thématiques : le thème fournit le nom central, les participants ou mots-clés, convertis en un grand titre à traits fins en haut, un ensemble de signes abstraits reconnaissables au centre et des blocs de couleur unie sur les côtés — la sémantique change, l'ordre non. Conservez une forte proportion d'espace blanc, un axe vertical central, une division haut/bas et le rythme de pause de fines lignes noires horizontales ; tous les éléments disposés avec retenue, comme un catalogue d'exposition ou un annuaire d'institution internationale. Le texte principal utilise une serif fine à fort contraste ou une forme équivalente, aux contours ouverts, traits fins, terminaisons nettes et rythme aéré, gardant une ossature élancée, un interlettrage large, une lisibilité claire et une respiration sereine dans tout système d'écriture, sans copier une fonte latine spécifique. Les couleurs extraient deux couleurs représentatives de haute pureté du thème en blocs à bords nets ; le signe central n'utilise que des lignes noires et un peu de géométrie pleine ; le fond est un blanc chaud légèrement texturé papier, sans dégradés, ombres ni textures décoratives. En bas, avec un centre de gravité plus bas, placez le sous-titre et un petit texte explicatif ; en pied de page, une information microscopique en trois points ancre le bord, créant le contraste d'un thème grandiose dompté par l'espace blanc muséal. Symptômes d'échec : éléments saturés, couleurs criardes, polices épaisses, icônes réalistes ou perte de l'ordre rituel austère.
+
+——————
+Définissez le thème comme « Journée portes ouvertes de la bibliothèque publique municipale », pour l'affiche principale d'un événement d'institution culturelle publique : utilisez l'indigo et le rouge cinabre comme deux couleurs de bloc de haute pureté, au centre des lignes noires abstraient des pages de livre ouvertes et un arc de portail ; le groupe de symboles descend fermement sous le titre le long de l'axe vertical ; le titre principal est centré dans la moitié supérieure, le sous-titre et la date formant en dessous une hiérarchie clairsemée à deux niveaux ; conservez un vaste espace blanc chaud et des pauses de fines lignes noires ; format vertical 3:4.
 ```
 
 </details>
@@ -1480,7 +1673,7 @@ Crée des affiches d'événement en duotone avec un canal blanc en escalier faç
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSBaiXLaEAA1crg.jpg" width="700" alt="Affiche d&#x27;événement duotone à masque en escalier">
+<img src="https://image.moge.ai/prompt_media/HSHLijVaQAAJZkh.jpg" width="700" alt="Affiche d&#x27;information cérémonielle minimaliste">
 </div>
 
 <br>
@@ -1489,137 +1682,41 @@ Crée des affiches d'événement en duotone avec un canal blanc en escalier faç
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Vigo Zhao](https://x.com/VigoCreativeAI) | [X / Twitter](https://x.com/VigoCreativeAI/status/2098776988005581043) | 2026-09-12 |
+| [小小东](https://x.com/xiaoxiaodong01) | [X / Twitter](https://x.com/xiaoxiaodong01/status/2099183233166614915) | 2026-09-13 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2098776988005581043)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099183233166614915)**
 
 </div>
 
 ---
 
-### No. 23: Affiche de Lignes à l'Encre Orientale
+### No. 23: Fille et chat en papier découpé 3D
 
 ![Catégorie: Illustration & IP](https://img.shields.io/badge/Cat%C3%A9gorie-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Transforme une photo de référence en une affiche minimaliste de traits de pinceau dans un style d'encre orientale, préservant l'identité du sujet avec beaucoup d'espace blanc et un petit sceau rouge.
+Illustration en papier découpé 3D d'une femme arrosant ses plantes à la fenêtre avec un chat blanc et roux, dans des tons pastel vert menthe.
 
 #### 🌟 Prompt
 
-Utilise strictement l'image de référence que j'ai téléversée comme unique source de référence du sujet. …
+Esthétique d'illustration en papier artisanal / papier découpé 3D, une femme à l'expression paisible debout …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Utilise strictement l'image de référence que j'ai téléversée comme unique source de référence du sujet.
-
-Analyse et extrais d'abord les éléments visuels les plus reconnaissables de la référence, notamment :
-
-l'identité et le type du sujet
-les traits du visage ou de la tête
-le contour de la tête comme coiffure, oreilles, cornes, chapeaux
-vêtements, accessoires, accessoires de scène
-la posture du corps et la direction du mouvement
-le contour extérieur le plus reconnaissable
-la relation entre les sujets
-les couleurs représentatives de l'image d'origine
-les détails marquants qui révèlent l'identité du sujet
-
-Ne copie pas mécaniquement la référence et ne cherche pas une reproduction photoréaliste.
-
-Tout en garantissant que le sujet reste reconnaissable au premier coup d'œil, recrée la référence de façon fortement synthétisée, abstraite et artistiquement orientalisée.
-
-Traduis le sujet en art moderne abstrait de lignes dessinées à la main, à la forte esthétique orientale chinoise.
-
-Utilise des lignes de pinceau extrêmement minimalistes et un langage de dessin linéaire moderne, en résumant la structure du sujet par quelques courbes peu nombreuses mais expressives.
-
-Les lignes ont une nette sensation de pinceau fait main, une épaisseur qui varie naturellement, de légers traits secs (feibai), des variations d'encre humide et sèche et des coups de pinceau manuels.
-
-Utilise abondamment de longues courbes artistiques fluides et flottantes.
-
-Certaines lignes peuvent se prolonger naturellement depuis la structure du sujet, formant de longues courbes comme des traits calligraphiques, des rubans de vêtement, des courants d'eau, du vent ou des nuages, créant une nette sensation de vitesse, de direction et de rythme oriental.
-
-Ne dessine pas toute la structure en entier.
-
-Il est permis de représenter le sujet par des lignes interrompues, du vide, quelques traits résumés, des absences partielles et l'association visuelle.
-
-Conserve surtout le contour, la posture et les éléments marquants les plus reconnaissables, en abandonnant hardiment les autres détails.
-
-Limite les couleurs à un nombre minimal.
-
-Utilise des lignes noires comme principale ossature visuelle et, à partir des couleurs représentatives de la référence elle-même, extrais 1 à 2 couleurs d'accent pour un usage artistique.
-
-Couleurs autorisées en priorité :
-noir, rouge vermillon, vert foncé.
-La couleur ne sert que de touche ponctuelle, sans grands aplats.
-
-Certains vêtements, accessoires, accessoires marquants ou trajectoires de mouvement peuvent être soulignés par de longues lignes rouges ou vertes.
-
-Composition complète mais extrêmement retenue.
-
-Le sujet se trouve dans la zone centrale visuelle ; on peut rompre les proportions conventionnelles en allongeant et en courbant le corps, les vêtements, la fourrure, la queue, les accessoires ou les trajectoires de mouvement.
-
-Fais en sorte que le sujet semble formé naturellement par quelques lignes de pinceau en mouvement, et non délimité par un contour fermé.
-
-L'ensemble possède un langage visuel qui fusionne :
-l'art abstrait oriental,
-le minimalisme moderne,
-les lignes de calligraphie chinoise,
-le croquis à l'encre,
-l'illustration mythologique traditionnelle,
-l'illustration éditoriale moderne.
-
-Ajoute un petit sceau gravé traditionnel de couleur rouge vermillon.
-Le texte du sceau est extrait de l'identité, du nom, du surnom, d'un trait de personnage ou du thème du sujet, limité à 2 à 4 caractères chinois.
-S'il n'y a pas d'information textuelle claire, n'ajoute pas de nom précis de ton propre chef ; tu peux utiliser un court texte d'imagerie orientale en accord avec le tempérament du sujet.
-Le sceau n'est qu'un détail visuel, de petite taille, sans voler la vedette au sujet.
-Garde le fond extrêmement simple.
-Utilise un délicat papier de riz (xuan) blanc crème comme base, avec une texture de fibres de papier très légère, naturelle et réaliste.
-N'inclus pas de scènes complexes, d'architecture, de paysages ni de fonds décoratifs.
-Il est impératif de conserver de vastes espaces blancs tout autour de l'image, surtout autour du sujet, sans l'encombrer d'éléments.
-
-Utilise le vide et quelques courbes pour former la "relation entre le plein et le vide" et la sensation de respiration de la peinture orientale.
-
-L'effet final doit ressembler à :
-
-"Extraire l'âme et le contour d'une vraie photo de référence, puis la redessiner avec quelques longues lignes flottantes de pinceau chinois."
-
-Accent :
-l'identité du sujet doit être conservée,
-mais ce n'est pas une copie photographique ;
-structure fortement résumée,
-mais pas abstraite au point d'être méconnaissable ;
-lignes peu nombreuses et précises,
-flottantes mais non désordonnées ;
-tempérament oriental traditionnel et sens du design moderne coexistant.
-
-Haute définition et finesse, finition de niveau affiche artistique, propre, retenue et raffinée.
-
-Interdit :
-effet photo réaliste,
-rendu 3D,
-style cartoon mignon,
-fond complexe,
-beaucoup de couleurs,
-grands aplats de couleur,
-détails denses,
-contour mécanique,
-contour vectoriel fermé,
-effet néon,
-éléments cyberpunk,
-texte superflu,
-texte en anglais,
-logo commercial,
-filigrane.
-
-Le point central de l'image est toujours :
-"reconnaissabilité du sujet de la référence + lignes de pinceau minimalistes + longues courbes flottantes + vide oriental + petite touche de vermillon/vert foncé".
+Esthétique d'illustration en papier artisanal / papier découpé 3D,
+une femme à l'expression paisible debout près de la fenêtre, arrosant des plantes avec un petit arrosoir,
+un chat blanc et roux assis à proximité levant les yeux,
+intérieur simple avec une grande fenêtre carrée en arrière-plan et quelques plantes en pot,
+sensation de profondeur comme des couches de papier, texture de papier mat, ombres douces, composition épurée exploitant l'espace vide,
+atmosphère lumineuse et sereine,
+palette rafraîchissante basée sur un fond vert menthe pastel avec du corail, de la pêche et de la crème
 ```
 
 </details>
@@ -1627,7 +1724,7 @@ Le point central de l'image est toujours :
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HR1VXIvbAAA6dk4.jpg" width="700" alt="Affiche de Lignes à l&#x27;Encre Orientale">
+<img src="https://image.moge.ai/prompt_media/HSNRH5Ta0AAAuIC.jpg" width="700" alt="Fille et chat en papier découpé 3D">
 </div>
 
 <br>
@@ -1636,35 +1733,35 @@ Le point central de l'image est toujours :
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [DAAI](https://x.com/zhidawang219555) | [X / Twitter](https://x.com/zhidawang219555/status/2097927488559366317) | 2026-09-10 |
+| [Makari ｜AIイラスト](https://x.com/Makari_5108010) | [X / Twitter](https://x.com/Makari_5108010/status/2099611148685631843) | 2026-09-14 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2097927488559366317)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099611148685631843)**
 
 </div>
 
 ---
 
-### No. 24: Éditorial Mode Luxe avec Cheval
+### No. 24: Portrait Féminin en Lumière Dorée
 
 ![Catégorie: Photographie & image](https://img.shields.io/badge/Cat%C3%A9gorie-Photographie%20%26%20image-lightgrey)
 
 #### 📚 Description
 
-Crée un éditorial mode ultra-réaliste avec une élégante mannequin blonde aux côtés d'un cheval blanc dans un studio beige minimaliste.
+Un portrait cinématographique en gros plan d'une femme aux cheveux foncés et ondulés, sous une douce lumière dorée, au regard chaleureux et fond flou.
 
 #### 🌟 Prompt
 
-Éditorial de mode de luxe ultra-réaliste dans un studio minimaliste beige chaud. Une glamoureuse mannequin …
+Un portrait en gros plan d'une femme aux longs cheveux foncés et ondulés encadrant son visage, avec une douce …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Éditorial de mode de luxe ultra-réaliste dans un studio minimaliste beige chaud. Une glamoureuse mannequin adulte blonde aux longs cheveux ondulés et doux pose élégamment aux côtés d'un majestueux cheval blanc pur grandeur nature portant une bride en cuir noir réaliste avec de discrètes ferrures dorées. La mannequin porte une sophistiquée tenue ivoire sans manches à jambe large ajustée avec une longue cape fluide, des talons élégants et des bijoux raffinés. Créez un look de campagne haute couture premium avec des poses élégantes de la mannequin, parfois debout à côté du cheval tenant les rênes et parfois assise gracieusement sur des blocs géométriques crème tandis que le cheval se tient calmement derrière ou à côté d'elle. Fond et sol beige chaud sans couture, éclairage de studio doux et directionnel, texture de peau réaliste, anatomie et pelage du cheval réalistes, ombres naturelles, tissu fluide, palette de couleurs neutres raffinée, photoréaliste, esthétique éditoriale luxueuse, composition en pied, haut niveau de détail, vertical 3:4
+Un portrait en gros plan d'une femme aux longs cheveux foncés et ondulés encadrant son visage, avec une douce et chaude lumière de golden hour illuminant ses traits et projetant une lueur délicate sur sa peau et les subtiles taches de rousseur sur son nez. Elle a des yeux marron expressifs, un léger et doux sourire, et un arrière-plan flou qui crée une profondeur de champ intime et cinématographique.
 ```
 
 </details>
@@ -1672,7 +1769,7 @@ Crée un éditorial mode ultra-réaliste avec une élégante mannequin blonde au
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSGMBYaXQAYVw0y.jpg" width="700" alt="Éditorial Mode Luxe avec Cheval">
+<img src="https://image.moge.ai/prompt_media/HSRR3eTboAESHpu.jpg" width="700" alt="Portrait Féminin en Lumière Dorée">
 </div>
 
 <br>
@@ -1681,64 +1778,58 @@ Crée un éditorial mode ultra-réaliste avec une élégante mannequin blonde au
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [H A J R A](https://x.com/codewithhajra) | [X / Twitter](https://x.com/codewithhajra/status/2099112862769676467) | 2026-09-13 |
+| [Minahil](https://x.com/Minahil42298354) | [X / Twitter](https://x.com/Minahil42298354/status/2099893354612117844) | 2026-09-15 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099112862769676467)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099893354612117844)**
 
 </div>
 
 ---
 
-### No. 25: Affiche culinaire en réaction à la typographie
+### No. 25: Campagne Éditoriale Mode Architecturale
 
 ![Catégorie: Publicité & produit](https://img.shields.io/badge/Cat%C3%A9gorie-Publicit%C3%A9%20%26%20produit-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche éditoriale culinaire verticale où de vrais aliments réagissent physiquement à une typographie rigide et grasse : division, impact, écoulement ou compression.
+Crée une affiche éditoriale mode multi-personnages haut de gamme, où des gens se déplacent dans un système architectural (anneau, croisement, rampe en spirale ou couloir), unifiant figures, mouvement et typographie dans un même champ de perspective.
 
 #### 🌟 Prompt
 
-[BRAND] : {nom de la marque} [PRODUCT] : {nourriture / boisson} [HEADLINE] : {mot court en gras} …
+[NOM DE MARQUE] : {à remplir} [CAMPAGNE / SÉRIE] : {à remplir} [TITRE PRINCIPAL] : {à remplir} [SLOGAN] : {à …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-[BRAND] : {nom de la marque}
-[PRODUCT] : {nourriture / boisson}
-[HEADLINE] : {mot court en gras}
-[INTERACTION] : {division / impact / écoulement de poudre / compression}
-[ACCENT COLOR] : {couleur du titre}
-[DETAILS] : {ingrédients / texte court / horaires / adresse}
+[NOM DE MARQUE] : {à remplir}
+[CAMPAGNE / SÉRIE] : {à remplir}
+[TITRE PRINCIPAL] : {à remplir}
+[SLOGAN] : {à remplir}
+[SYSTÈME DE PARCOURS SPATIAL] : {anneau circulaire / chemins croisés / rampe en spirale / long couloir}
+[COULEUR PRIMAIRE] : {à remplir}
+[COULEUR SECONDAIRE] : {à remplir}
+[PRODUIT / ACCESSOIRE OPTIONNEL] : {aucun / bagage / accessoire de mode / autre}
+[NOMBRE DE PERSONNES] : {6–8 adultes}
+[FORMAT] : {9:16}
 
-Créez une affiche éditoriale culinaire verticale 9:16 combinant une photographie culinaire très réaliste avec une typographie audacieuse et conçue professionnellement.
+Créez une affiche de campagne éditoriale multi-personnages haut de gamme, construite autour d'un solide système architectural de parcours. L'idée principale est le mouvement à travers l'espace : les personnes doivent marcher, s'arrêter, se croiser, grimper ou circuler le long d'une structure circulaire, de chemins qui se croisent, d'une rampe en spirale ou d'un long couloir en perspective.
 
-Utilisez un fond crème ou ivoire chaleureux, une subtile texture de papier, une composition éditoriale épurée et un minimum d'accessoires.
+Toutes les figures doivent appartenir au même champ de perspective cohérent. Placez-les à différentes distances, hauteurs et profondeurs pour que leur échelle change naturellement. Évitez les personnes également espacées, les grilles, les alignements ou les compositions de photo d'équipe. Utilisez des figures au premier plan, au plan intermédiaire et au loin avec une nette variation de taille et de visibilité.
 
-Gardez [HEADLINE] grand, plat, rigide et parfaitement lisible. La typographie reste inchangée tandis que la vraie nourriture y réagit physiquement selon [INTERACTION].
+Faites en sorte que l'architecture organise activement le casting. Certaines figures doivent apparaître devant le parcours, d'autres derrière, certaines partiellement cachées par des murs ou des plateformes, et d'autres visibles à travers des ouvertures ou des couches plus profondes. L'espace doit sembler physiquement connecté, et non comme des personnes séparées collées sur un fond.
 
-Pour « division », laissez un flux liquide continu heurter une lettre et se diviser clairement en deux flux crédibles avant de se rejoindre.
+Gardez l'environnement minimaliste et sculptural. Utilisez un geste architectural dominant, de grands champs de couleur nets, un fort espace négatif, une lumière du jour réaliste et des ombres cohérentes. La composition doit rester audacieuse et lisible en taille miniature.
 
-Pour « impact », laissez un aliment cassant entrer en collision avec le bord dur d'une lettre et se briser uniquement au point de contact, avec quelques fragments réalistes suivant la direction de l'impact.
+Intégrez le titre principal naturellement dans l'architecture lorsque c'est approprié : le long d'un anneau courbe, au bord d'une passerelle, en suivant un mur en spirale ou en s'éloignant dans un couloir. La typographie doit obéir à la perspective réelle et à la direction de la surface plutôt que de flotter sur l'image.
 
-Pour « écoulement de poudre », laissez une vraie poudre alimentaire heurter la typographie, s'accumuler sur les bords exposés, s'écouler autour de sa géométrie et créer des zones d'ombre plus nettes derrière les lettres.
+Utilisez une photographie de mode réaliste : texture de peau naturelle, anatomie crédible, vrais cheveux, pieds et mains précis, plis de tissu naturels et mouvement quotidien varié. Si un produit ou un accessoire est inclus, répétez-le naturellement dans la profondeur de la scène sans transformer l'image en catalogue de produits.
 
-Pour « compression », poussez un aliment mou à travers un espace étroit entre des lettres rigides, en montrant un aplatissement, un étirement et un renflement réalistes tout en gardant l'aliment continu.
-
-Utilisez une gravité crédible, des ombres de contact, une texture de matière et une relation cause-effet claire. Le spectateur doit comprendre immédiatement ce que la typographie fait physiquement à la nourriture.
-
-Ne transformez pas la nourriture en lettres, ne déformez pas la typographie et évitez les faux effets numériques, les matériaux CGI, les débris excessifs, les étiquettes numérotées, 01/02, Vol. ou les scintillements.
-
-Utilisez [ACCENT COLOR] avec des couleurs alimentaires naturelles et des neutres foncés. Ajoutez seulement quelques détails utiles comme [BRAND], le nom du produit, les ingrédients, une courte ligne de texte, les horaires d'ouverture et l'adresse.
-
-L'affiche finale doit fonctionner comme une image qui arrête le défilement : un titre audacieux, un élément alimentaire reconnaissable et une réaction physique claire.
-
-Gardez la typographie rigide. Laissez la nourriture réagir.
+Le résultat final doit ressembler à une véritable campagne contemporaine de mode, de voyage, de lifestyle ou de culture, où les personnes, le mouvement, l'architecture et la typographie appartiennent tous au même système spatial.
 ```
 
 </details>
@@ -1746,7 +1837,7 @@ Gardez la typographie rigide. Laissez la nourriture réagir.
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSBMcnxW4AY08HW.jpg" width="700" alt="Affiche culinaire en réaction à la typographie">
+<img src="https://image.moge.ai/prompt_media/HSQYR0DWoAAjztc.jpg" width="700" alt="Campagne Éditoriale Mode Architecturale">
 </div>
 
 <br>
@@ -1755,35 +1846,51 @@ Gardez la typographie rigide. Laissez la nourriture réagir.
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2098761960909160467) | 2026-09-12 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2099830159675175008) | 2026-09-15 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2098761960909160467)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099830159675175008)**
 
 </div>
 
 ---
 
-### No. 26: Miniature en Papier Découpé
+### No. 26: Typographie architecturale en affiches
 
 ![Catégorie: Visuels créatifs](https://img.shields.io/badge/Cat%C3%A9gorie-Visuels%20cr%C3%A9atifs-lightgrey)
 
 #### 📚 Description
 
-Un modèle générique qui transforme n'importe quel sujet en une miniature artisanale en papier découpé, photographiée comme une image de film en stop-motion.
+Série d'affiches verticales éditoriales où la typographie devient ouvertures, cadres et volumes 3D dans une architecture brutaliste, avec figures réalistes et accent orange sécurité.
 
 #### 🌟 Prompt
 
-Créez [VOTRE SUJET OU SCÈNE] sous forme de miniature artisanale vive et colorée, photographiée comme une …
+Crée une série d'affiches verticales 9:16 en anglais, dans un style visuel éditorial haut de gamme, combinant …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Créez [VOTRE SUJET OU SCÈNE] sous forme de miniature artisanale vive et colorée, photographiée comme une image de film en stop-motion cinématographique. Construisez les formes à partir de papier découpé en couches, de carton texturé, de feutre doux, de papier mâché et de tissu tissé, avec des fibres visibles, des plans pliés, des bords superposés, des coutures subtiles et de charmantes imperfections faites à la main. Combinez des silhouettes arrondies avec une construction légèrement anguleuse et facettée ; simplifiez les petits détails tout en préservant une riche richesse tactile. Utilisez une palette joyeuse et harmonieuse de mandarine vive, jaune doré, vert feuillage, bleu ciel et crème chaud, équilibrée par des accents sombres discrets. Éclairez avec une lumière du jour naturelle lumineuse, des reflets directionnels chauds, des ombres de contact douces et un ombrage ambiant délicat. Cadrez au niveau du sujet avec une profondeur convaincante à l'échelle miniature, un sujet focal net, des détails d'avant-plan légèrement flous et un bokeh crémeux en arrière-plan. Gardez des compositions épurées mais richement travaillées, avec des silhouettes claires et un espace de respiration généreux. Évoquez une atmosphère fantaisiste de livre d'images : chaleureuse, ludique, optimiste et tangible, jamais brillante, plastique, plate ou retouchée numériquement.
+Crée une série d'affiches verticales 9:16 en anglais, dans un style visuel éditorial haut de gamme, combinant architecture brutaliste, typographie monumentale en perspective, personnages réalistes de jeunes adultes et un fort design spatial tridimensionnel. La série doit sembler audacieuse, épurée, architecturale et visuellement sophistiquée, avec un ciel bleu cobalt profond, un gris béton brut chaud, une typographie ivoire chaud, un stylisme anthracite pour les figures et l'orange de sécurité comme seule couleur d'accent forte.
+
+Utilise des perspectives dramatiques en contre-plongée pour que l'architecture, la typographie, la figure humaine et les structures spatiales appartiennent au même système de perspective. Garde les bâtiments monumentaux, simples et géométriques. La typographie doit être surdimensionnée, haute, condensée et intégrée à la composition plutôt que de flotter comme un texte superposé plat. Les figures humaines doivent paraître réalistes, en poses naturelles et à l'échelle de l'architecture. Ajoute un micro-texte éditorial épuré, des titres secondaires et de petites annotations avec une forte hiérarchie et une densité d'information maîtrisée.
+
+Affiche 1 : TYPE VOID
+Crée un mur de béton monumental où le mot “VOID” est entièrement découpé à travers la structure comme de vraies ouvertures architecturales. Les surfaces intérieures des lettres découpées doivent être orange de sécurité, révélant une forte profondeur physique. Un jeune homme réaliste se tient ou avance naturellement dans l'ouverture en forme de D. Place le mot “TYPE” en typographie géante ivoire chaud en perspective dans le ciel. Ajoute du texte secondaire comme “WORDS BECOME OPENINGS”, “STEP THROUGH” et “POSITIVE / NEGATIVE”. L'image doit sembler architecturale, claire et conceptuellement frappante.
+
+Affiche 2 : SHIFT FRAME
+Crée une vue dramatique en contre-plongée de plateformes de béton brutalistes décalées, avec une jeune femme réaliste assise près du bord. Entoure-la et croise-la d'un cadre spatial orange semi-transparent pivoté, à la profondeur visible et aux fines arêtes structurelles ivoire. Place le titre principal “SHIFT FRAME” dans le ciel en typographie géante en perspective. Ajoute du texte secondaire comme “OFF AXIS”, “MOVE THE GRID” et “BETWEEN PLANES”. L'image doit sembler audacieuse, en couches et spatialement dynamique.
+
+Affiche 3 : TYPE DEPTH
+Crée un décor de béton brutaliste où le mot “TYPE” devient des lettres géantes extrudées tridimensionnelles aux faces ivoire chaud et à la profondeur latérale orange. Une jeune femme réaliste se déplace naturellement à travers ou entre les lettres, rendant la typographie habitable. Place le mot “DEPTH” plus en arrière en perspective dans le ciel. Ajoute du texte secondaire comme “WORDS HAVE WEIGHT”, “STEP INSIDE” et “TYPE IN SPACE”. L'image doit montrer clairement la typographie se transformant en espace physique.
+
+Affiche 4 : FLOAT LEVEL
+Crée deux grandes dalles de béton décalées avec un jeune homme réaliste marchant sur le niveau supérieur. Ajoute deux plans spatiaux translucides séparés, un plus grand et enfumé derrière lui et un plus petit orange devant, comme si une boîte avait été écartée en couches. Place le titre principal “FLOAT LEVEL” en typographie géante en perspective dans le ciel. Ajoute du texte secondaire comme “BETWEEN PLANES”, “NO FIXED GROUND” et “OFFSET HEIGHT”. L'image doit sembler ouverte, suspendue et en couches.
+
+Les quatre affiches doivent appartenir à la même famille visuelle, chacune explorant une relation différente entre architecture, typographie, échelle humaine et intervention spatiale tridimensionnelle.
 ```
 
 </details>
@@ -1791,7 +1898,7 @@ Créez [VOTRE SUJET OU SCÈNE] sous forme de miniature artisanale vive et color�
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSFTMVybYAEwJ3C.jpg" width="700" alt="Miniature en Papier Découpé">
+<img src="https://image.moge.ai/prompt_media/HSMIvv8bwAAp7ku.jpg" width="700" alt="Typographie architecturale en affiches">
 </div>
 
 <br>
@@ -1800,13 +1907,13 @@ Créez [VOTRE SUJET OU SCÈNE] sous forme de miniature artisanale vive et color�
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Umesh](https://x.com/umesh_ai) | [X / Twitter](https://x.com/umesh_ai/status/2099050403212279849) | 2026-09-13 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2099532496732049452) | 2026-09-14 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099050403212279849)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099532496732049452)**
 
 </div>
 
@@ -1912,39 +2019,37 @@ Important : Ne reproduis pas le nom NIVORA, le schéma de couleurs orange, le lo
 
 ---
 
-### No. 28: Affiche éditoriale point-ligne-surface
+### No. 28: Affiche d'exposition au sujet géant
 
 ![Catégorie: Supports marketing](https://img.shields.io/badge/Cat%C3%A9gorie-Supports%20marketing-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche verticale 9:16 minimaliste et élégante pour expositions ou événements culturels, avec une composition géométrique de cercles, lignes fines et textures sur fond papier ivoire.
+Crée une affiche d'exposition dans une galerie blanche avec une installation monumentale d'objets géants empilés, une rampe en spirale et un personnage colossal, avec une typographie plate sur les bords.
 
 #### 🌟 Prompt
 
-Contenu remplaçable : 【Titre】ex. : Rassemblement de camélias / Rituel d'encens de l'île / Soirée des marées …
+🙂🙃🙃 Dans l'atrium haut et presque entièrement blanc d'une galerie d'art, photographie une affiche …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Contenu remplaçable :
-【Titre】ex. : Rassemblement de camélias / Rituel d'encens de l'île / Soirée des marées lunaires / Chronique des strates
-【Sous-titre】ex. : Une tasse de montagne printanière, une demi-journée de calme / Le vent à travers la forêt, le parfum sur les vêtements / Le bruit des vagues entre dans la nuit, les vers reviennent au rivage / Le temps s'enfonce dans la pierre
-【Informations sur l'événement】ex. : Dégustation de thé de printemps / Recherche olfactive / Lecture de poésie / Observation d'échantillons géologiques
-【Date et heure】à remplacer librement
-【Lieu】à remplacer librement
-【Couleur principale】ex. : vert mousse, gris lilas fumé, bleu indigo, terracotta
+🙂🙃🙃
+Dans l'atrium haut et presque entièrement blanc d'une galerie d'art, photographie une affiche d'exposition : sur un socle circulaire se dresse une installation monumentale, plusieurs objets quotidiens surdimensionnés empilés de façon décalée en architecture, une rampe en spirale blanche s'enroulant entre eux, transformant la nature morte en un chemin praticable. Un visiteur à l'échelle humaine réelle se tient sur le sol poli en levant les yeux, prouvant par son corps que c'est l'échelle d'une salle, pas une maquette de studio. Au sommet de l'installation est assis un personnage géant lisse ; chapeau, foulard et sac sont des blocs de vêtements volumétriques ; de plus petits personnages identiques parsèment la rampe et les interstices, comme si quelqu'un grimpait déjà. À droite se dresse un panneau de signalisation correspondant, transformant le même jeu de catégories, d'icônes et de flèches en un panneau routier plat, servant de légende mutuelle avec l'escalade tridimensionnelle.
 
-Génère une affiche éditoriale verticale 9:16, dans un style de design graphique raffiné, sobre et élégant. Fond de papier blanc ivoire chaud, avec une légère texture de papier naturel et une sensation d'impression ancienne. L'image utilise une composition claire point-ligne-surface : un grand cercle complet comme visuel central, accompagné de 4 à 6 éléments géométriques de cercles, anneaux ou coupes partielles de tailles différentes, formant une structure verticale asymétrique de haut en bas. À l'intérieur des cercles, ajoute des textures fines liées au thème, comme des ondulations d'eau, des strates rocheuses, des craquelures d'émail, la diffusion d'un parfum, des textures végétales, tout en gardant l'ensemble bidimensionnel et plat, sans 3D, sans collage photographique, sans aspect e-commerce.
+Le sujet est de la photographie ou une visualisation 3D hautement réaliste, pas une illustration. L'installation occupe un volume réel, reçoit la lumière d'une fenêtre latérale-haute, projette des ombres au sol et laisse des reflets colorés adoucis sur la pierre polie. Le personnage est une coque de jouet continue avec des reflets de lumière de fenêtre. Les corps empilés sont des blocs géométriques peints à la bombe, à l'épaisseur solide et aux bords de couche ; la spirale est un tube blanc fin et rigide qui s'entrelace devant et derrière, coupant le contour rectangulaire. La typographie plate reste une seconde couche collée sur l'image, n'entre pas dans la perspective, ne projette pas d'ombre sur l'architecture. Le seul trait à la main est un slogan peint décontracté, qui peut porter un minuscule gribouillis du personnage.
 
-Ajoute quelques lignes verticales, arcs ou lignes de mesure extrêmement fins comme éléments de liaison et de rythme. En bas ou au centre-bas, place un petit sujet figuratif comme point d'ancrage visuel, par exemple un ustensile, une branche fleurie, une petite installation, un spécimen ou une silhouette humaine ; le sujet ne doit pas être trop grand ni voler la dominance de la composition géométrique.
+La composition place le monument au centre-droit, laissant le tiers gauche et les quatre coins aux informations de l'affiche. Le titre principal se situe environ à la hauteur de la tête du personnage, dialoguant à travers un grand mur blanc, sans jamais empiéter sur le personnage ou l'installation. L'installation et le socle circulaire entrent entiers dans le cadre ; mur et cadres de fenêtre sont rognés, faisant paraître l'espace plus grand que l'affiche. Chaque couche empilée devient une légende de bloc de couleur : un mot plus un symbole pictographique, légèrement pivoté et décalé. Le même jeu de couleurs graphiques hautement saturées forme un circuit du titre, du slogan peint, du panneau et de l'anneau du socle, verrouillant texte plat et objet tridimensionnel en un seul système.
 
-À droite, dispose le grand titre vertical en chinois【Titre】, avec une police élancée, aérée et de larges espaces blancs ; à gauche ou dans la zone centre-bas, place de minuscules textes fins, dont【Sous-titre】,【Informations sur l'événement】,【Date et heure】,【Lieu】et un peu de texte en anglais, créant un contraste éditorial de « grands caractères très espacés, petits caractères très denses ». Espaces blancs abondants, densité d'information sobre ; la mise en page doit ressembler à une publication indépendante ou à une affiche d'exposition, pas à un modèle.
+Le titre principal utilise un gras industriel grand, compact et légèrement incliné, empilé en blocs de couleur saturée, d'un volume suffisant pour rivaliser avec le personnage. En dessous, une phrase explicative plus petite et ordonnée. Le reste, ce sont le nom de l'institution, un numéro, une date et un slogan de clôture dans les coins, ainsi que le texte d'étiquette sur les objets. La densité de texte est sur les bords, le centre réservé à l'installation.
 
-Utilise une palette peu saturée, avec la【Couleur principale】comme cœur, pouvant se combiner à 2 à 4 couleurs auxiliaires, avec hiérarchie mais sans excès. Atmosphère générale calme, artistique, avec une sensation éditoriale japonaise et un caractère d'œuvre. Pas de numérotation, pas de filigrane, pas de logo, pas de mention de copyright, pas de sparkle, pas d'étoiles à quatre branches.
+Presque toute la couleur hautement saturée s'empile sur l'installation, placée dans un vaste espace clair blanc-froid. L'architecture est presque achromatique. Le personnage est le bloc le plus clair et le plus chaud ; des couches plus sombres et froides s'intercalent, interrompant l'empilement chaud pour qu'il se lise comme une stratification codée et non comme une masse chaude. Les reflets au sol installent la couleur dans l'espace. Ne colore pas l'architecture, ne sature pas tout le cadre, ne fais pas une affiche d'illustration de personnage, ne supprime pas la figure d'échelle et le chemin en spirale, ne laisse pas le titre chevaucher l'installation.
 
-Exigences particulières : le cercle principal du haut doit apparaître complet, sans être coupé à gauche ni en haut ; le fond doit couvrir entièrement toute la toile, sans bordure blanche supplémentaire ni bande blanche isolée à droite ; l'image doit ressembler à une œuvre achevée, pas à un modèle d'emplacement réservé.
+———————
+Thème : affiche de la fête de la mi-automne
+Personnages principaux : le Lièvre de Jade et les gâteaux de lune
+🤪🥲😝
 ```
 
 </details>
@@ -1952,7 +2057,7 @@ Exigences particulières : le cercle principal du haut doit apparaître complet,
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HR_7XqxXEAANz98.jpg" width="700" alt="Affiche éditoriale point-ligne-surface">
+<img src="https://image.moge.ai/prompt_media/HSGlP_7akAA32lx.jpg" width="700" alt="Affiche d&#x27;exposition au sujet géant">
 </div>
 
 <br>
@@ -1961,36 +2066,43 @@ Exigences particulières : le cercle principal du haut doit apparaître complet,
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2098673049851555979) | 2026-09-12 |
+| [小小东](https://x.com/xiaoxiaodong01) | [X / Twitter](https://x.com/xiaoxiaodong01/status/2099141506821247159) | 2026-09-13 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2098673049851555979)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099141506821247159)**
 
 </div>
 
 ---
 
-### No. 29: Dragon rouge et château en pixel art
+### No. 29: Portrait de BD d'aventure à Téhéran
 
 ![Catégorie: Illustration & IP](https://img.shields.io/badge/Cat%C3%A9gorie-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Crée une scène fantastique où un dragon rouge s'enroule autour de la tour d'un château sur une colline.
+Transforme le portrait d'un mannequin en illustration façon BD d'aventure, dans une rue ensoleillée de la vieille ville de Téhéran, avec palette terreuse et traits d'encre.
 
 #### 🌟 Prompt
 
+Une illustration numérique dans le style des bandes dessinées d'aventure classiques et des romans graphiques. …
+
+<details>
+<summary>Afficher le prompt complet</summary>
+
 ```
-un dragon rouge enroulé autour de la tour d'un château sur une colline
+Une illustration numérique dans le style des bandes dessinées d'aventure classiques et des romans graphiques. Au premier plan à droite, le mannequin apparaît exactement comme sur l'image jointe—conservant la même pose et la même tenue—regardant l'objectif avec assurance. Le décor est une rue ensoleillée de la vieille ville de Téhéran, avec des bâtiments en pierre, des récipients en argile et une grande porte en bois. Lumière du jour très contrastée aux ombres nettes ; une palette de couleurs chaude et terreuse avec des touches bleutées. Traits d'encre détaillés et atmosphère cinématographique. Utilisez la palette de couleurs suivante : des tons chauds et terreux dominés par le sable et l'ocre clair (#D9C3A3) sur les bâtiments et des bruns profonds (#593E2F) pour les ombres architecturales ; des accents bleu acier/verdâtre froids (#3A6B7E) sur les vêtements du personnage ; et un ciel bleu poussiéreux (#7DA0B2). Lumière du jour très contrastée.
 ```
+
+</details>
 
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRuL4JpWkAAVpy5.jpg" width="700" alt="Dragon rouge et château en pixel art">
+<img src="https://image.moge.ai/prompt_media/HR70lIQbAAAQ7r-.jpg" width="700" alt="Portrait de BD d&#x27;aventure à Téhéran">
 </div>
 
 <br>
@@ -1999,57 +2111,35 @@ un dragon rouge enroulé autour de la tour d'un château sur une colline
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Astropulse](https://x.com/RealAstropulse) | [X / Twitter](https://x.com/RealAstropulse/status/2097424407320809563) | 2026-09-08 |
+| [HER19845](https://x.com/her19845) | [X / Twitter](https://x.com/her19845/status/2099304121149125089) | 2026-09-14 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2097424407320809563)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099304121149125089)**
 
 </div>
 
 ---
 
-### No. 30: Portrait rétro-numérique en tenue de lapin
+### No. 30: Collage de Portraits : Étude de Coiffures
 
 ![Catégorie: Photographie & image](https://img.shields.io/badge/Cat%C3%A9gorie-Photographie%20%26%20image-lightgrey)
 
 #### 📚 Description
 
-Portrait vertical 3:4 d'une jeune femme en tenue de lapin noir et blanc assise sur le sol d'un studio blanc, avec une esthétique d'appareil photo numérique ancien et une pose décontractée.
+Un collage cinématographique en quatre panneaux verticaux du même homme, chacun avec une coiffure différente sous un éclairage clair-obscur dramatique.
 
 #### 🌟 Prompt
 
-Crée un portrait vertical 3:4 avec l'esthétique d'une photo de studio numérique ancienne, montrant une jeune …
+Un collage photo cinématographique dramatique en haute résolution, disposé en quatre panneaux verticaux, …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Crée un portrait vertical 3:4 avec l'esthétique d'une photo de studio numérique ancienne, montrant une jeune femme clairement adulte assise directement sur le sol d'un studio presque entièrement blanc. Utilise un fond blanc sans couture ou un mur et un sol blancs extrêmement minimalistes, sans meubles ni décoration complexe. Place-la légèrement à droite du centre et garde visibles les hautes oreilles de lapin noires, les jambes repliées et les chaussures.
-
-Elle a des cheveux courts en dégradé, d'un brun mauve poussiéreux à un brun rosé froid, entre un carré aérien et un shag léger, avec une frange fine et séparée tombant sur le front et des mèches latérales se retournant naturellement vers l'extérieur. Les cheveux doivent paraître légèrement décoiffés et légers, plutôt que parfaitement coiffés en salon. Ses yeux semblent vert-gris pâle à vert-eau. Incline doucement sa tête vers une épaule et laisse-la regarder vers le haut en direction de l'objectif, sous la frange.
-
-Utilise un maquillage frais et translucide inspiré de la mode alternative japonaise, du style gothic-cute et de la photographie de personnage rétro : peau ivoire à rose pâle, fard à paupières brun-gris ou rose-brun atténué, eye-liner noir fin prolongeant légèrement les coins externes, cils définis mais discrets, blush minimal et lèvres rose froid à rose poussiéreux. Une main s'élève près de sa bouche avec les doigts naturellement recourbés, masquant une partie des lèvres comme si elle réprimait un sourire ou faisait une pause dans un geste timide et espiègle. Garde l'émotion faciale calme, retenue et légèrement mystérieuse, plutôt que théâtralement séductrice.
-
-Habille-la d'une tenue classique en noir et blanc inspirée de la fille-lapin : un body noir moulant sans bretelles, un col blanc amidonné séparé avec un nœud papillon noir, et des poignets blancs rigides de style français avec de petits boutons de manchette dorés. Ajoute une paire de hautes oreilles de lapin étroites en noir mat inclinées dans des directions légèrement différentes.
-
-Ses jambes portent des collants noirs semi-transparents de transparence moyenne, laissant entrevoir subtilement la peau claire des jambes, les genoux et la forme musculaire sous une couche gris fumé. Elle s'assoit directement sur le sol, le torse se repliant légèrement vers l'intérieur et l'avant. Les deux jambes sont relevées et fermement repliées, pliées et croisées devant le corps : une cuisse passe de façon proéminente au centre tandis que l'autre genou se lève derrière, créant des diagonales superposées et des formes triangulaires. Préserve une légère maladresse physique et une véritable tension d'équilibre, plutôt que de créer une pose de catalogue parfaitement symétrique.
-
-Les chaussures sont essentielles : utilise des stilettos noirs à bout pointu, mais garde une seule chaussure à son pied. L'autre pied reste couvert uniquement par le collant noir. Place le second stiletto séparément dans le coin inférieur gauche du cadre, où il devient une forte forme graphique noire indépendante équilibrant la figure centrale. Une semelle de couleur chair pâle peut être visible sur la chaussure relevée.
-
-La peau visible se concentre sur le visage, le cou, les épaules, les clavicules, les bras, les avant-bras et les mains, tandis que la peau des jambes reste visible uniquement à travers le collant. Garde la poitrine, les fesses et les zones intimes entièrement couvertes. Utilise une peau ivoire très claire, neutre et froide, avec une subtile variation rose pâle. La peau doit sembler douce, à grain fin, légèrement poudrée et semi-mate, avec une résistance de surface réaliste, pas comme du plastique lisse. Préserve une légère rougeur et de minuscules irrégularités de ton sur les épaules et les bras. Le collant rend les jambes visuellement plus lisses et uniformes.
-
-Utilise une grande source diffuse venant de la gauche/de l'avant de la caméra et légèrement au-dessus, combinée à un fort rebond du mur et du sol blancs. Cela produit un éclairage très doux sur le visage, les épaules, les bras et les jambes. Conserve un ombrage gris pâle sur le côté droit de la figure et à l'intérieur des jambes superposées pour que le corps garde une structure dimensionnelle. Évite un flash direct dur, une forte lumière de contour ou un contraste cinématographique.
-
-Photographie avec le caractère d'un appareil photo numérique ancien, d'un petit studio de portrait ou d'un plateau de photo cosplay, en utilisant environ une focale équivalente à 35–50mm en plein format. Garde l'appareil à hauteur du haut du torse jusqu'au visage et incline-le vers le bas d'environ 5–15 degrés. Le visage, la main, les jambes au premier plan et les stilettos doivent rester substantiellement nets. L'arrière-plan paraît lisse parce qu'il ne contient presque aucun détail visuel, non pas à cause d'une profondeur de champ extrêmement réduite.
-
-Laisse le fond blanc porter une très légère teinte gris froid ou cyan, plutôt que de devenir mathématiquement blanc pur. Préserve un léger grain numérique, une accentuation modérée des bords, des hautes lumières légèrement brûlées et un traitement des couleurs simple. Quelques cheveux rebelles, une transparence des bas légèrement inégale autour des genoux et des cuisses étirés, et un placement imparfait de la chaussure aident à préserver le réalisme de la photo de personnage du début d'internet.
-
-Sur le plan émotionnel, cela doit donner l'impression qu'elle avait déjà réalisé plusieurs portraits en costume de lapin dans le studio blanc, puis s'était assise nonchalamment par terre, avait retiré un talon et était passée à une pose plus compacte et espiègle. Sa main vient de se lever près de ses lèvres, et elle pourrait réajuster ses jambes repliées juste après la photo. Garde l'énergie finale espiègle, fraîche, rétro-numérique et « douce mais pas innocente », sans augmenter la nudité.
-
-Prompt négatif : mineure, selfie dans le miroir, téléphone dans le cadre, cheveux longs, oreilles de lapin absentes, costume coloré, jambes nues, poignets absents, col absent, deux chaussures aux pieds, arrière-plan chargé, meubles, flash dur, forte lumière de contour, éclairage cinématographique, peau plastique, lissage intense, HDR, allongement extrême des jambes, poitrine exagérée, nudité explicite, mamelons visibles, parties génitales visibles, membres supplémentaires, doigts supplémentaires, chaussures déformées.
+Un collage photo cinématographique dramatique en haute résolution, disposé en quatre panneaux verticaux, présentant tous le même beau jeune homme à l'expression sérieuse et contemplative sur un fond sombre, texturé et maussade. Chaque panneau montre une coiffure différente. De haut en bas : premier panneau, une coupe courte et texturée avec un dégradé à ras de peau. Deuxième panneau, cheveux foncés ondulés mi-longs à effet mouillé. Troisième panneau, cheveux foncés plaqués en arrière à effet mouillé. Quatrième panneau, cheveux foncés plus longs, ondulés et à effet sec. Tous les panneaux conservent la même mâchoire ciselée, une barbe naissante négligée et des yeux enfoncés et pensifs regardant hors champ, avec un éclairage clair-obscur directionnel et cohérent qui souligne ses traits. L'esthétique générale est celle d'une évolution stylistique sophistiquée et d'une beauté mélancolique constante. Le collage comporte de fines bordures blanches nettes séparant les panneaux.
 ```
 
 </details>
@@ -2057,7 +2147,7 @@ Prompt négatif : mineure, selfie dans le miroir, téléphone dans le cadre, che
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSGB_o0aMAAOE3b.jpg" width="700" alt="Portrait rétro-numérique en tenue de lapin">
+<img src="https://image.moge.ai/prompt_media/HSQhuLwWQAAG1E0.jpg" width="700" alt="Collage de Portraits : Étude de Coiffures">
 </div>
 
 <br>
@@ -2066,86 +2156,74 @@ Prompt négatif : mineure, selfie dans le miroir, téléphone dans le cadre, che
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [underwood](https://x.com/underwoodxie96) | [X / Twitter](https://x.com/underwoodxie96/status/2099102018489205226) | 2026-09-13 |
+| [Minahil](https://x.com/Minahil42298354) | [X / Twitter](https://x.com/Minahil42298354/status/2099840418405920859) | 2026-09-15 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099102018489205226)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099840418405920859)**
 
 </div>
 
 ---
 
-### No. 31: Affiche Café Surréaliste "Un Monde dans la Tasse"
+### No. 31: Typographie tranchée verticale de campagne
 
 ![Catégorie: Publicité & produit](https://img.shields.io/badge/Cat%C3%A9gorie-Publicit%C3%A9%20%26%20produit-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche publicitaire premium de café avec une personne tenant un gobelet contenant un écosystème forestier miniature, une typographie géante et une bande produit.
+Crée une affiche premium de mode, beauté ou lifestyle où une seule photo commerciale remplit un grand mot servant de masque, avec des effets de brillance, pluie, reflet ou lumière solaire.
 
 #### 🌟 Prompt
 
-Affiche premium verticale 4:5, 8K, mise en page commerciale audacieuse × réalisme surréaliste 🧠 IDÉE CENTRALE …
+【MOT PRINCIPAL】: {mot-clé en majuscules de 4 à 6 lettres} 【SUJET】: {personne + produit} 【PRODUIT】: {beauté / …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Affiche premium verticale 4:5, 8K, mise en page commerciale audacieuse × réalisme surréaliste
+【MOT PRINCIPAL】: {mot-clé en majuscules de 4 à 6 lettres}
+【SUJET】: {personne + produit}
+【PRODUIT】: {beauté / lunettes / parapluie / accessoire}
+【EFFET VISUEL】: {brillance / pluie / reflet / lumière solaire / mouvement de tissu}
+【FOND】: {couleur}
+【PALETTE】: {couleurs principales}
+【HAUT GAUCHE】: {date / collection / produit}
+【HAUT DROITE】: {3 mots-concepts courts}
+【BAS GAUCHE】: {matériau / information de caractéristique}
+【BAS DROITE】: {marque / nom du produit}
+【FORMAT】: 9:16 vertical
 
-🧠 IDÉE CENTRALE :
-« VOTRE CAFÉ EST UN MONDE. »
+Créez une affiche de campagne premium de mode, beauté ou lifestyle en utilisant une typographie tranchée verticale.
 
-🎬 MISE EN PAGE (INSPIRÉE DE LA SOURCE) :
+Placez le 【MOT PRINCIPAL】 en grand au centre, occupant environ 80 à 88% de la largeur. Gardez-le gras et lisible en taille miniature.
 
-BLOC D'ARRIÈRE-PLAN :
-Grand rectangle arrondi en vert Starbucks profond
+Utilisez le mot entier comme masque photographique pour une seule photographie commerciale continue mettant en scène 【SUJET】, 【PRODUIT】 et 【EFFET VISUEL】.
 
-TYPOGRAPHIE GÉANTE :
-« STAR »
-en gras, recadrée, derrière le sujet
+Gardez la personne et le produit vedette clairement reconnaissables. Placez le visage, les yeux et le produit principal dans des zones de lettres plus larges et plus intactes. Utilisez un effet physique ou optique fort—comme un liquide brillant, la pluie, des reflets de lentille, une lumière solaire dure ou un tissu flottant—pour relier la composition à travers le mot.
 
-👤 SUJET :
+Gardez environ les 50 à 55% supérieurs des formes de lettres intacts. Étendez certains traits inférieurs vers le bas en 4 à 6 sections variées pour des détails secondaires tels que cheveux, vêtements, reflets, ombres ou environnement.
 
-Jeune adulte tenant un gobelet Starbucks vers la caméra
-même perspective que la référence (dominance du premier plan)
+La même photographie doit se poursuivre naturellement à travers chaque lettre et tranche.
 
-expression calme, légère curiosité
+Règle stricte de découpe: toutes les personnes, produits, cheveux, liquide, pluie, reflets et autres éléments photographiques doivent rester entièrement à l'intérieur de la typographie. Rien ne doit franchir l'espace négatif extérieur.
 
-☕ PRODUIT + TOUCHE SURRÉALISTE :
+Utilisez un 【FOND】 propre avec un espace négatif généreux, 【PALETTE】 pour la photographie et une ombre douce subtile derrière le texte.
 
-Gobelet Starbucks en main →
+Organisez les informations complémentaires:
 
-À l'intérieur du gobelet :
-- écosystème forestier miniature
-- petite cascade de café qui coule
-- brume s'élevant vers le ciel
+Haut gauche: 【HAUT GAUCHE】
+Haut droite: 【HAUT DROITE】
+Bas gauche: 【BAS GAUCHE】
+Bas droite: 【BAS DROITE】
 
-La vapeur se transforme en nuages au-dessus du sujet
+Utilisez une typographie sans empattement moderne, petite et précise.
 
-✨ ÉLÉMENTS GRAPHIQUES :
+Le résultat final doit ressembler à une campagne premium finie, avec une forte lisibilité en miniature et une interaction visuelle claire entre le sujet, le produit et la typographie.
 
-- icônes d'étincelles ✦
-- couches de brume douces
-- feuilles flottantes
-
-✍️ SYSTÈME DE TEXTE :
-
-Pastille supérieure :
-« Starbucks Coffee »
-
-Petit texte :
-« Signature Roast »
-
-BANDE INFÉRIEURE DE CARACTÉRISTIQUES :
-
-- Ethically Sourced
-- Fresh Brewed
-- Rich Aroma
-- Crafted Daily
+Évitez les visages brisés, les sujets dupliqués, des images différentes dans chaque lettre, des tranches excessives, des bandes de type code-barres, des éléments hors du masque de texte, des effets 3D lourds, des filigranes, la numérotation, Vol., No., des symboles d'éclat ou des étoiles à quatre branches.
 ```
 
 </details>
@@ -2153,7 +2231,7 @@ BANDE INFÉRIEURE DE CARACTÉRISTIQUES :
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HR_RU18aYAAmmWg.jpg" width="700" alt="Affiche Café Surréaliste &quot;Un Monde dans la Tasse&quot;">
+<img src="https://image.moge.ai/prompt_media/HSOnNK6WcAA5zJC.jpg" width="700" alt="Typographie tranchée verticale de campagne">
 </div>
 
 <br>
@@ -2162,44 +2240,63 @@ BANDE INFÉRIEURE DE CARACTÉRISTIQUES :
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) | [X / Twitter](https://x.com/Diplomeme/status/2098626670186090499) | 2026-09-12 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2099705720543256629) | 2026-09-15 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2098626670186090499)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099705720543256629)**
 
 </div>
 
 ---
 
-### No. 32: Affiche zen orientale minimaliste
+### No. 32: Typographie physique en perspective
 
 ![Catégorie: Visuels créatifs](https://img.shields.io/badge/Cat%C3%A9gorie-Visuels%20cr%C3%A9atifs-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche verticale 9:16 d'esthétique zen orientale : une femme en tenue ancienne sur un escalier clair parmi les feuilles de ginkgo et un ciel bleu, avec un large espace propre pour le titre.
+Crée une affiche verticale de typographie en perspective où le mot principal est formé par de véritables forces physiques et déformations structurelles.
 
 #### 🌟 Prompt
 
-Direction thématique : affiche de couverture zen orientale minimaliste Variante de style : esthétique …
+TITRE : [votre mot] PROJET : [marque / exposition / campagne] MÉCANISME PHYSIQUE : [onde stationnaire / …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Direction thématique : affiche de couverture zen orientale minimaliste
-Variante de style : esthétique féminine lumineuse
-Sujet principal : une femme en tenue ancienne se tient au milieu d'un long escalier clair, la tête inclinée, tenant légèrement sa jupe
-Motif émotionnel : légèreté, clarté, l'éclat lumineux de l'automne
-Scène et imagerie : feuilles de ginkgo, marches blanches, fond de ciel bleu dégagé, la femme, quelques ombres d'arbres
-Composition et espace : composition verticale 9:16, le long escalier monte depuis le bas créant un guide visuel, la figure dans la partie centrale-inférieure, large zone propre pour le titre en haut
-Contrôle des couleurs : blanc crème comme base très lumineuse, jaune ginkgo pour les feuilles tombées et les touches ponctuelles, bleu ciel dégagé pour les blocs de ciel lointain, vêtements en blanc ivoire clair ou abricot doux ; éviter un filtre jaune-bleu sur toute l'image
-Lumière et texture : lumière du jour vive, bords nets, léger effet d'affiche plate, texture de papier très subtile
-Proportions : 9:16
-Exigences supplémentaires : l'ensemble doit être vif, translucide et respirant ; la structure de l'escalier doit être simple et raffinée, adaptée à une couverture au fort attrait visuel
+TITRE : [votre mot]
+PROJET : [marque / exposition / campagne]
+MÉCANISME PHYSIQUE : [onde stationnaire / flexion / flambage / cisaillement / autre]
+STRUCTURE : [bandes élastiques / poutres flexibles / colonnes comprimées / couches décalées]
+SUJET : [petite figure humaine / aucun]
+COULEURS PRINCIPALES : [2–3 couleurs]
+FORMAT : affiche verticale 9:16
+
+Créez une affiche contemporaine de typographie en perspective où le mot principal est généré par de véritables forces physiques et une déformation structurelle.
+
+Le titre doit dominer environ 35 à 55 % de la composition et rester marqué et lisible depuis un point de vue précis.
+
+Pour les ondes stationnaires, utilisez des éléments tendus avec différentes amplitudes et phases afin que leurs courbes s'alignent pour former le mot.
+
+Pour la flexion, utilisez des poutres structurelles chargées dont la déflexion et la profondeur forment visuellement la typographie.
+
+Pour le flambage, comprimez des éléments structurels verticaux jusqu'à ce que leur déformation contrôlée se reconnecte en lettres lisibles.
+
+Pour le cisaillement, décalez latéralement des sections architecturales en couches afin que le type fragmenté s'aligne depuis l'angle de caméra prévu.
+
+Le mécanisme physique doit être facile à comprendre au premier coup d'œil. Gardez crédibles la gravité, la tension, la charge, la déformation, la perspective et l'occlusion.
+
+Utilisez de grandes formes géométriques, un fort contraste de couleurs et un cadre architectural contemporain et épuré. Depuis un autre point de vue ou après suppression de la force, le mot doit commencer à se désagréger.
+
+Si une personne est incluse, gardez-la petite et utilisez-la principalement comme référence d'échelle interagissant naturellement avec l'installation.
+
+N'ajoutez que des informations éditoriales minimales telles que le nom du projet, le lieu, la date et une courte ligne thématique.
+
+Style général : typographie en perspective, physique structurelle, installation spatiale, architecture contemporaine, affiche éditoriale, forte profondeur et impact visuel qui arrête le défilement.
 ```
 
 </details>
@@ -2207,7 +2304,7 @@ Exigences supplémentaires : l'ensemble doit être vif, translucide et respirant
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSE8ShebMAAlNzv.jpg" width="700" alt="Affiche zen orientale minimaliste">
+<img src="https://image.moge.ai/prompt_media/HSLhG0vbAAAAoUz.jpg" width="700" alt="Typographie physique en perspective">
 </div>
 
 <br>
@@ -2216,13 +2313,13 @@ Exigences supplémentaires : l'ensemble doit être vif, translucide et respirant
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [李岳](https://x.com/liyue_ai) | [X / Twitter](https://x.com/liyue_ai/status/2099025209110274525) | 2026-09-13 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2099490748391461209) | 2026-09-14 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099025209110274525)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099490748391461209)**
 
 </div>
 
@@ -2266,32 +2363,53 @@ Crée une marque de burger à partir de ce visuel.
 
 ---
 
-### No. 34: Affiche minimaliste zen orientale
+### No. 34: Affiche éditoriale point-ligne-plan
 
 ![Catégorie: Supports marketing](https://img.shields.io/badge/Cat%C3%A9gorie-Supports%20marketing-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche de couverture verticale 9:16 de style zen oriental minimaliste : une femme arrange une fleur violet raisin près d'un vase blanc, fond blanc lumineux et zone de titre épurée en haut.
+Crée une affiche verticale éditoriale sobre qui traduit un thème culturel en géométrie point-ligne-plan, avec cercles texturés, un petit point focal figuratif et une typographie contrastée.
 
 #### 🌟 Prompt
 
-Direction thématique : affiche de couverture zen orientale minimaliste Variante de style : esthétique …
+【Thème】 : {ex. : son simulé / architecture en bois / émail céramique / observation astronomique} 【Titre …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Direction thématique : affiche de couverture zen orientale minimaliste
-Variante de style : esthétique féminine à fort contraste
-Sujet : une femme debout près d'un vase minimaliste, arrangeant doucement une branche fleurie
-Motif émotionnel : raffiné, lumineux, sensation orientale de luxe léger
-Scène et imagerie : espace blanc, fleurs violet raisin, feuilles vert citron vert, vase en porcelaine blanche, femme
-Composition et espace : composition verticale 9:16, vase et personnage dans la moitié inférieure, décalés d'un côté, avec une zone de titre entièrement blanche réservée en haut ; la branche forme le point focal principal
-Contrôle des couleurs : blanc pur ou blanc crème comme base lumineuse, violet raisin uniquement pour les fleurs, vert citron vert pour les feuilles, le vase reste blanc ou beige clair, les vêtements de la femme en blanc chaud clair ; éviter que le violet et le vert ne polluent toute l'image
-Lumière et texture : lumière douce et lumineuse, contours nets, texture d'affiche plate et épurée
-Ratio : 9:16
-Exigences supplémentaires : couleurs vives et modernes, ensemble haut de gamme et raffiné, adapté à une couverture d'esthétique féminine
+【Thème】 : {ex. : son simulé / architecture en bois / émail céramique / observation astronomique}
+【Titre principal】 : {inscrivez le titre}
+【Sous-titre】 : {inscrivez une phrase courte}
+【Élément visuel central】 : {ex. : disque et sillons sonores / cernes et structure en bois / éclats d'émail et température de four / carte du ciel et orbites}
+【Point focal figuratif】 : {ex. : magnétophone à bobines / pavillon en bois / tasse en céladon / télescope et personnage}
+【Palette principale】 : {1 couleur principale + 2–4 couleurs auxiliaires peu saturées}
+【Informations de l'événement】 : {date, lieu, contenu de l'exposition, etc.}
+【Ratio】 : 9:16
+
+Génère une affiche éditoriale verticale haut de gamme, sobre, à l'allure de publication indépendante.
+
+Exploite pleinement la logique de composition graphique « point, ligne, plan » en traduisant les caractéristiques visuelles du 【Thème】 en langage géométrique, plutôt que d'ajouter simplement des cercles décoratifs.
+
+Utilise un grand cercle complet ou un plan géométrique comme ancre visuelle principale, puis ajoute 4–6 cercles, anneaux, arcs ouverts ou plans partiels aux tailles nettement différentes, formant de haut en bas un rythme visuel asymétrique. Les éléments géométriques peuvent se masquer, superposer les couleurs et se chevaucher partiellement, mais ne les répartis pas uniformément et ne forme pas de grille mécanique de points.
+
+À l'intérieur des plans circulaires, conçois des textures différentes selon l'【élément visuel central】, par exemple sillons sonores, cernes, craquelures d'émail, lignes orbitales, réseau de méridiens, motifs concentriques, fines lignes parallèles, coupes de matériau, etc. Les textures doivent être délicates, nettes et sobres ; les grandes zones restent simples, le détail se concentrant localement.
+
+Ajoute quelques lignes verticales, arcs, lignes de mesure ou lignes structurelles extrêmement fines qui relient naturellement plusieurs éléments géométriques. Les lignes doivent être complètes, avec une direction claire, et participer réellement à la composition, sans devenir une décoration aléatoire.
+
+Dans la partie centrale-inférieure, ajoute un petit 【point focal figuratif】 comme point d'ancrage visuel à fort contraste. L'élément figuratif ne doit pas être trop grand ni devenir une publicité produit ou une photographie principale ; il doit s'intégrer naturellement à la mise en page géométrique.
+
+À droite, dispose le 【Titre principal】 en chinois vertical de grande taille, avec une police élancée, élégante et un interlettrage aéré. À proximité, compose le 【Sous-titre】 dans un corps plus petit. À gauche et dans la zone centrale-inférieure, dispose de petites informations réelles bien réglées, comprenant les 【Informations de l'événement】 ainsi qu'un peu de texte en anglais, de données ou de notes de matériaux liés au thème.
+
+Forme un rapport net « grand texte très espacé, petit texte très dense » tout en conservant beaucoup de blanc. Ne remplis pas l'image uniformément ; les zones complexes et vides doivent former un rythme évident.
+
+Utilise la 【Palette principale】 comme système chromatique central de toute l'affiche ; toutes les couleurs conservent une faible saturation, du poids et une hiérarchie. Le fond utilise un papier blanc ivoire chaud, uniforme et continu, avec une très légère texture naturelle de fibre de papier et d'impression d'art.
+
+L'ensemble présente l'allure du design éditorial japonais moderne, d'une affiche d'exposition, d'une publication indépendante et d'une impression d'art légèrement rétro. L'image doit ressembler à une œuvre de design réellement achevée, non à un modèle ou une mise en page fictive.
+
+Attention particulière :
+Le cercle principal du haut doit apparaître complet et naturel, en gardant une distance de sécurité par rapport aux bords gauche et supérieur, sans être rogné par le cadre. Le fond doit couvrir intégralement toute l'image ; le blanc de droite doit appartenir à la composition globale, sans former de bord blanc isolé ni de colonne verticale blanche supplémentaire.
 ```
 
 </details>
@@ -2299,7 +2417,7 @@ Exigences supplémentaires : couleurs vives et modernes, ensemble haut de gamme 
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HR53tVsaYAAZepS.jpg" width="700" alt="Affiche minimaliste zen orientale">
+<img src="https://image.moge.ai/prompt_media/HSFSRDGaoAA9hGW.jpg" width="700" alt="Affiche éditoriale point-ligne-plan">
 </div>
 
 <br>
@@ -2308,45 +2426,49 @@ Exigences supplémentaires : couleurs vives et modernes, ensemble haut de gamme 
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [李岳](https://x.com/liyue_ai) | [X / Twitter](https://x.com/liyue_ai/status/2098246112159420546) | 2026-09-11 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2099049885064405340) | 2026-09-13 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2098246112159420546)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099049885064405340)**
 
 </div>
 
 ---
 
-### No. 35: Portrait VOXCAT en Sérigraphie Rétro
+### No. 35: Portrait Diptyque à l'Aquarelle Vintage
 
 ![Catégorie: Illustration & IP](https://img.shields.io/badge/Cat%C3%A9gorie-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Transforme tout personnage en affiche éditoriale sérigraphiée rétro avec tons directs, trame grossière et identité VOXCAT.
+Crée une affiche verticale divisée : photo réelle en haut et une traduction en illustration aquarelle vintage du même sujet en bas, pour personnes et animaux.
 
 #### 🌟 Prompt
 
-{personnage}, illustration de mode en sérigraphie rétro × affiche d'édition indépendante × design de figure …
+Crée une affiche verticale de style "division haut-bas", la toile étant strictement divisée en deux zones : …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-{personnage}, illustration de mode en sérigraphie rétro × affiche d'édition indépendante × design de figure géométrique × identité visuelle VOXCAT.
+Crée une affiche verticale de style "division haut-bas", la toile étant strictement divisée en deux zones : en haut la photo photographique réelle originale, en bas la traduction du même sujet en illustration éditoriale à l'aquarelle vintage dessinée à la main. L'ambiance générale est détendue, espiègle, douce, chic, vintage et avec une pointe d'humour.
 
-Conservez la silhouette de cheveux la plus reconnaissable, la couleur principale, les caractéristiques vestimentaires et les accessoires emblématiques du personnage, mais redessinez-les en un look de mode épuré et moderne. Proportions naturellement élancées, en pose éditoriale statique : de profil debout, adossé, se retournant, regardant en arrière, bras croisés ou tenant un accessoire du personnage, l'action s'adaptant à son tempérament.
+Partie supérieure :
+Place la photo originale téléchargée par l'utilisateur. Utilise des personnes, des animaux de compagnie, des animaux ou la relation entre une personne et son animal comme sujet principal, en montrant clairement les traits du visage, la coiffure, la couleur du pelage, les vêtements, les gestes, la posture et l'atmosphère générale. La partie supérieure conserve le style photographique réel, sans illustration, avec un recadrage modéré pour renforcer la mise au point sur le sujet. L'arrière-plan doit être sobre ; l'architecture et les espaces complexes ne servent que d'environnement atténué, non de contenu principal.
 
-Utilisez 3 à 4 tons directs très identifiables, en construisant le système chromatique à partir de la couleur représentative du personnage ; appliquez un aplat à bord dur, une trame de demi-teinte à gros grain, des couches d'encre sérigraphique, un léger décalage de repérage, une accumulation d'encre localisée et une texture de fibre de papier. Contours épais et géométriques, détails très synthétisés, corps et vêtements construits en grands aplats de couleur et silhouettes, sans effets doux de gouache numérique.
+Partie inférieure :
+Extrais de la photo supérieure le sujet, le contour, la posture et la relation narrative les plus reconnaissables et reconstruis-les en une illustration éditoriale dessinée à la main, légère, naïve et vintage. Ne reproduis pas les détails de façon mécanique ; réexprime-les par des formes synthétisées, des proportions modérément exagérées, des traits symboliques et des métaphores visuelles humoristiques, tout en gardant l'original reconnaissable au premier coup d'œil. Mêle l'illustration éditoriale moderniste, la composition graphique Bauhaus, le livre pour enfants, l'art naïf et l'esprit du croquis de mode ; formes épurées, contours avec une légère hésitation et des erreurs manuelles, détails locaux modérément agrandis, pour que l'image ait à la fois de la narration, du style et de l'espièglerie.
 
-Arrière-plan en composition géométrique asymétrique, organisant la mise en page avec de grands cercles, rectangles, arcs, blocs de couleur rognés et espace blanc, faisant se chevaucher, se croiser et déborder la figure et les formes géométriques, pour une atmosphère d'impression commerciale rétro des années 1960–1970 × affiche d'art indépendant contemporaine.
+Les couleurs sont extraites de la photo originale téléchargée, avec une palette limitée et douce de haute luminosité et de saturation faible à moyenne, unifiant l'ambiance par des couleurs analogues et créant des points d'accent avec de petites zones de couleurs complémentaires. Utilise un mélange de textures aquarelle, gouache, crayon de couleur, pastel et pinceau sec, en conservant le grain du papier, les transparences, les ruptures de coup de pinceau, les bords rugueux, une légère couleur sale et les décalages de repérage de l'impression ancienne. L'arrière-plan comporte de larges espaces blancs, ne soutenant le sujet que par de l'aquarelle légère et lâche, des hachures locales ou de simples éléments géométriques, en évitant les scènes complexes, les ombres et lumières réalistes, les vecteurs lisses, le rendu 3D et les retouches excessives.
 
-Intégrez les éléments de marque VOXCAT : en haut à gauche, un logo géométrique stylisé « V » × oreilles/queue de chat ; en bas à droite, une petite signature d'artiste manuscrite « voxCAT » ; sur les vêtements, une étiquette VOXCAT discrète, une broderie subtile ou une minuscule plaque métallique ; dans la mise en page, très peu de numérotations d'impression « VOXCAT / VC / V×C » comme élément de design, unifiées au système sérigraphique et sans voler la vedette.
+Le texte est distillé du lieu, des personnes, de la scène ou du thème de la photo en quelques mots-clés en anglais, titres, numérotations ou formules percutantes adaptées, prolongeant le langage éditorial dessiné à la main. Le titre principal utilise une calligraphie artistique à la touche naïve et vintage ; le texte auxiliaire utilise une police sans empattement ou à empattement sobre et douce, pouvant présenter de légers décalages, inclinaisons, étirements, superpositions de couleurs ou décalage de repérage de l'impression ancienne, afin que le texte pousse naturellement comme une partie de l'illustration, et non comme un élément de mise en page collé après coup.
 
-Visuel principal vertical de figure, large espace blanc, impression en 3–4 tons directs, trame grosse, décalage de repérage, grain de papier, blocs de couleur géométriques, silhouettes fortes, épuré et d'une qualité d'impression artistique indépendante de niveau collection.
+Utilise un fond blanc crème ou clair avec beaucoup d'espace blanc ; les traits du sujet, les couleurs, la posture et les symboles visuels conservent une correspondance unifiée dans l'image. L'ambiance générale est détendue, espiègle, vintage, douce, intelligente, chic, humoristique, romantique et décontractée, avec une pointe de maladresse et de confiance excentrique, comme une page d'un ancien livre de mode soigneusement conservé et d'un magazine d'art moderne.
+
+L'ensemble doit transmettre clairement que "la partie supérieure est la photo originale de référence et la partie inférieure est la traduction du même sujet en illustration éditoriale à l'aquarelle vintage", avec entre les deux à la fois une cohérence d'identité et une nette différence de style.
 ```
 
 </details>
@@ -2354,7 +2476,7 @@ Visuel principal vertical de figure, large espace blanc, impression en 3–4 ton
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRt_9JRbIAA8Xpj.jpg" width="700" alt="Portrait VOXCAT en Sérigraphie Rétro">
+<img src="https://image.moge.ai/prompt_media/HSIxvlRaEAAxJvP.jpg" width="700" alt="Portrait Diptyque à l&#x27;Aquarelle Vintage">
 </div>
 
 <br>
@@ -2363,35 +2485,67 @@ Visuel principal vertical de figure, large espace blanc, impression en 3–4 ton
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [VoxCat](https://x.com/VoxcatAI) | [X / Twitter](https://x.com/VoxcatAI/status/2097410766118977836) | 2026-09-08 |
+| [DAAI](https://x.com/zhidawang219555) | [X / Twitter](https://x.com/zhidawang219555/status/2099295085250916707) | 2026-09-14 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2097410766118977836)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099295085250916707)**
 
 </div>
 
 ---
 
-### No. 36: Portrait élégant en sari rouge
+### No. 36: Lookbook mode automne-hiver en trois vues
 
 ![Catégorie: Photographie & image](https://img.shields.io/badge/Cat%C3%A9gorie-Photographie%20%26%20image-lightgrey)
 
 #### 📚 Description
 
-Portrait photoréaliste à la lumière dorée d'une jeune Indienne en sari rouge brodé, tenant des bougainvilliers roses près d'un mur de pierre rustique.
+Crée une page de lookbook façon magazine japonais avec une même mannequin réaliste en trois vues, des gros plans d'expression et des détails de pièces pour des tenues automne-hiver.
 
 #### 🌟 Prompt
 
-Une belle jeune femme sud-asiatique portant un élégant sari rouge traditionnel avec une riche bordure brodée …
+Page verticale 3:4 de lookbook mode photoréaliste avec personne réelle / page de model sheet de personnage, …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Une belle jeune femme sud-asiatique portant un élégant sari rouge traditionnel avec une riche bordure brodée d'or et de subtiles touches vert citron, se tenant gracieusement près d'un mur de pierre beige rustique et texturé. Elle a de longs cheveux brun foncé, volumineux et naturellement ondulés retombant sur une épaule, un teint moyen et chaud, un maquillage naturel doux, des yeux sombres expressifs, des sourcils bien dessinés, de délicates créoles dorées et un sourire doux et confiant. Elle touche légèrement ses cheveux d'une main tout en tenant une branche de vibrantes fleurs de bougainvillier rose de l'autre. Lumière chaude de l'heure dorée, ombres naturelles douces, esthétique romantique indienne, portrait de mode spontané, texture de peau réaliste, tissu et broderie du sari détaillés, faible profondeur de champ, photographie cinématographique, objectif portrait 85mm, bokeh doux, photoréaliste, très détaillé, couleurs naturelles, composition élégante et féminine, portrait vertical, format 4:5
+Page verticale 3:4 de lookbook mode photoréaliste avec personne réelle / page de model sheet de personnage, fond blanc pur et net, mêlant la mise en page de magazine japonais (Lookbook) et un style planner/journal léger.
+
+La même femme adulte d'Asie de l'Est, jeune et délicate, petit visage ovale, traits fins et naturels, grands yeux, longs cheveux noirs, peau claire et naturelle, maquillage léger, couleur de lèvres douce, texture de peau réaliste. Silhouette élancée, proportions naturelles des membres, taille marquée, jambes fines et longues, sans allongement exagéré, sans déformation.
+
+De la gauche au centre, disposez trois vues de la même personne : plein pied de face, de profil/3/4, plein pied de dos, en garantissant visage, coiffure, silhouette et tenue parfaitement cohérents. Chaque angle avec une pose légèrement différente, non figée, avec des mouvements quotidiens naturels et mignons.
+
+En haut à droite, ajoutez un gros plan agrandi de type carte photo à bord arrondi, montrant l'expression indiquée, naturelle et vivante, avec un regard variable et des gestes suivant l'émotion ; ne pas toujours regarder l'objectif, pas de visage inexpressif.
+
+En haut, un grand titre en chinois + sous-titre en anglais ; en dessous, notez "正面 / FRONT VIEW, 侧面 / SIDE VIEW, 背面 / BACK VIEW". À droite, ajoutez la mention "表情 / EXPRESSION" en chinois et anglais et une courte phrase manuscrite.
+
+En bas, ITEM DETAILS (détails des pièces) : chapeau, haut, manteau, jupe, chaussettes, chaussures, sac, etc., chacun en présentation produit indépendante, avec noms en chinois et anglais et brève description de style. Tout en bas, ajoutez 4–5 blocs des couleurs principales des vêtements et les mots-clés "整体氛围 / OVERALL MOOD" en chinois et anglais.
+
+Style de mise en page : magazine de mode japonais, Lookbook coréen, style planner léger, épuré et haut de gamme, beaucoup d'espace blanc, palette désaturée noir-gris-brun, quelques cœurs, étoiles, flèches et gribouillis manuscrits.
+
+Qualité photographie réelle, lumière de studio douce et naturelle, texture de tissu nette, maille, laine, tweed et coton réalistes, haute résolution, structure de vêtement précise, chaussures et sacs complets.
+
+Interdit : effet collage, plusieurs personnes différentes, dérive des traits du visage, incohérence du visage sur les trois vues de la même personne, membres surnuméraires, doigts erronés, jambes déformées, peau sur-retouchée, visage plastique, tête exagérément grande, logo, filigrane, texte illisible.
+
+1. Cardigan en maille gris décontracté + jupe noire｜欧耶 / Oh Yeah! Cardigan en maille torsadée gris clair ample, mi-long ; dessous, chemise à col blanc cassé ; jupe courte plissée noire ligne A taille haute ; ceinture fine marron ; chaussettes courtes noires ; dad shoes blanches à semelle épaisse ; bonnet en maille marron ; petit sac bandoulière marron. Ensemble : style college japonais, commute automne-hiver doux, palette désaturée gris-brun. De face, une jambe légèrement levée, main droite en V vers le haut, corps légèrement incliné ; de côté, regard naturel en arrière avec sourire ; de dos, montre la longueur de la maille et la bandoulière. Expression de la carte : Oh Yeah ! Clin d'œil, doigts en V près de l'œil, coin de la bouche relevé, un peu espiègle et satisfaite.
+
+2. Long manteau noir + écharpe à carreaux｜哇 / Wow! Manteau en laine noir ajusté mi-long ; dessous, top en maille noir ; jupe courte taille haute en tweed gris-noir ; écharpe à carreaux noir-blanc-gris ; chaussettes froissées grises ; bottines noires à lacets à semelle épaisse ; petit sac bandoulière noir. Ensemble : style college hiver japonais, ton froid noir-gris, minimaliste et haut de gamme. De face, les deux mains près du visage, dix doigts écartés, corps légèrement en avant ; de côté, regard naturel en arrière ; de dos, met en valeur la silhouette du manteau, le tombé de l'écharpe et la coiffure. Expression de la carte : Wow ! Yeux grands ouverts, bouche entrouverte, une main couvrant le coin de la bouche, exprimant la mignonne surprise de voir quelque chose d'inattendu.
+
+3. Manteau en maille long gris + jupe noire｜开心呀 / So Happy! Cardigan en maille long gris clair ample ; dessous, maille grise ajustée à col roulé ; jupe courte plissée noire ligne A taille haute ; chaussettes hautes grises aux genoux ; chaussures Mary Jane grises à semelle épaisse ; petit sac bandoulière gris-brun. Ensemble : automne-hiver japonais minimaliste, intello et doux, ton désaturé gris-noir. De face, une main en V, jambes légèrement croisées ; de côté, regard doux en arrière ; de dos, une main effleure les cheveux, mouvement naturel et détendu. Carte : So Happy ! Sourire doux, joues légèrement relevées, une main soutenant le visage, regard tendre et lumineux, pas seulement un sourire figé.
+
+4. Veste courte en tweed gris-noir + jupe｜嘟嘟嘴 / Pouty Veste courte en tweed gris foncé style Chanel, col, poignets et bas en pied-de-poule noir-blanc, boutons métalliques rétro ; avec jupe courte ligne A gris-noir taille haute ; collants gris semi-transparents ; bottines noires à semelle épaisse ; petit sac bandoulière gris-brun. Ensemble : college rétro, style Chanel, commute japonais, palette raffinée gris-noir. De face, mains jointes naturellement devant le corps, épaules légèrement rentrées, tête légèrement penchée ; de côté, en regardant en arrière garde une légère moue ; de dos, montre la texture des assemblages de la veste. Carte : Pouty Lèvres légèrement avancées, petite moue, joues légèrement gonflées, un soupçon de câlinerie et d'entêtement dans les yeux et sourcils, paume soutenant une joue, mignonne mais pas trop enfantine.
+
+5. Chemise blanche + gilet en maille à losanges｜晚安啦 / Good Night Chemise blanche ample à manches longues, superposée à un gilet en maille à losanges bleu marine, beige et gris ; jupe courte plissée noire ligne A taille haute ; chaussettes noires aux genoux ; loafers noirs à semelle épaisse ; béret noir ; petit sac porté épaule noir. Ensemble : style college britannique, rétro et frais, lookbook de fille automnal. De face, main levée qui salue, clin d'œil ; de côté, regard naturel en arrière ; de dos, montre entièrement le motif à losanges du gilet et les épaisseurs de la chemise blanche. Carte : Good Night Un œil légèrement fermé, l'autre regardant doucement l'objectif, paume contre la joue, léger sourire. Autour, éléments dessinés à la main de lune, étoiles et Zzz.
+
+6. Cardigan en maille gris + débardeur blanc｜好吃！/ Yummy! Cardigan en maille gris clair à col V et boutons ; dessous, débardeur blanc ajusté ; jupe courte ligne A en tweed noir taille haute ; chaussettes noires aux genoux ; loafers noirs à semelle épaisse ; béret noir ; petit sac porté épaule noir. Ensemble : college coréen + rétro japonais, simple et doux. De face, fait le V, jambes légèrement fléchies ; de côté, sourire en regardant en arrière ; de dos, naturelle et détendue. Carte : Yummy ! Une main tient une fourchette avec un petit morceau de gâteau à la fraise, l'autre fait le pouce levé, clin d'œil, avec le sourire satisfait de "c'est vraiment délicieux".
+
+7. Long trench kaki + chemise à nœud｜可爱吧 / Cute, Right? Trench long classique kaki clair ; dessous, chemise à rayures verticales bleu clair ; au col, un grand nœud bleu clair noué ; jupe courte ligne A noire taille haute ; chaussettes courtes blanches ; loafers noirs à semelle épaisse ; grand sac à main noir. Ensemble : commute college britannique, rétro élégant, ambiance urbaine automnale. De face, V levé haut avec clin d'œil, une jambe légèrement fléchie ; de côté, regard en arrière avec sourire ; de dos, montre entièrement le nœud de la ceinture du trench et la structure du dos. Carte : Cute, Right? Tête légèrement penchée, une main soutenant le visage, regard avec un soupçon d'attente de confirmation, léger sourire, expression vive et naturelle.
+
+8. Maille bleu marine + jupe noire｜喜欢 / Like It! Maille ajustée bleu marine foncé à col mi-haut, petits boutons métalliques dorés au col et aux poignets ; jupe courte plissée noire ligne A taille haute ; ceinture fine marron ; chaussettes courtes noires ; loafers noirs à semelle épaisse ; petit sac bandoulière gris-brun. Ensemble : commute college japonais, intello et frais, palette raffinée bleu marine-noir. De face, tend la main pouce levé, l'autre jambe naturellement pliée en arrière ; de côté, regard naturel en arrière ; de dos, montre entièrement la coupe de la jupe taille haute et de la maille. Carte : Like It ! Clin d'œil, paume légèrement contre la joue, coin de la bouche avec un net sourire heureux, exprimant "très satisfaite, j'aime beaucoup".
 ```
 
 </details>
@@ -2399,7 +2553,7 @@ Une belle jeune femme sud-asiatique portant un élégant sari rouge traditionnel
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HR_qUfBaAAAvAdr.jpg" width="700" alt="Portrait élégant en sari rouge">
+<img src="https://image.moge.ai/prompt_media/HSQa_3ZbIAAxbpg.jpg" width="700" alt="Lookbook mode automne-hiver en trois vues">
 </div>
 
 <br>
@@ -2408,68 +2562,64 @@ Une belle jeune femme sud-asiatique portant un élégant sari rouge traditionnel
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Zarnish](https://x.com/ZarnishNael) | [X / Twitter](https://x.com/ZarnishNael/status/2098653604181610695) | 2026-09-12 |
+| [serein](https://x.com/you1873118) | [X / Twitter](https://x.com/you1873118/status/2099833023906861149) | 2026-09-15 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2098653604181610695)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099833023906861149)**
 
 </div>
 
 ---
 
-### No. 37: La Typographie Contrôle la Gravité
+### No. 37: Affiche culinaire à physique typographique
 
 ![Catégorie: Publicité & produit](https://img.shields.io/badge/Cat%C3%A9gorie-Publicit%C3%A9%20%26%20produit-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche de campagne commerciale audacieuse où une typographie géante contrôle la gravité et dicte le mouvement du sujet et du produit.
+Crée une affiche culinaire éditoriale 9:16 où de vrais aliments réagissent physiquement à une typographie rigide — durcissant, fondant, formant des flaques ou grandissant dans les lettres.
 
 #### 🌟 Prompt
 
-Créez une affiche de campagne commerciale audacieuse où une typographie surdimensionnée contrôle la gravité …
+Crée une affiche culinaire éditoriale verticale 9:16 combinant une photographie de nourriture très réaliste …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Créez une affiche de campagne commerciale audacieuse où une typographie surdimensionnée contrôle la gravité et affecte directement la façon dont le sujet se déplace.
+Crée une affiche culinaire éditoriale verticale 9:16 combinant une photographie de nourriture très réaliste avec une typographie audacieuse et conçue professionnellement.
 
-Marque : [BRAND NAME]
-Produit / Campagne : [PRODUCT OR CAMPAIGN]
-Mot Principal : [SHORT WORD]
-Sujet : [PERSON / PRODUCT / BOTH]
-Effet de Gravité : [TILT / DROP / FLOAT / PULL / OTHER]
-Mouvement : [DESCRIBE THE ACTION]
-Couleur Principale : [COLOR]
-Couleur d'Accent : [COLOR]
-Ratio d'Aspect : [9:16]
+Utilise un fond crème ou ivoire chaud, une subtile texture de papier, une composition éditoriale épurée et des accessoires minimaux.
 
-Utilisez une photographie commerciale réaliste, une typographie surdimensionnée, une perspective forte, des couleurs vives à fort contraste et un design éditorial contemporain.
+Garde [HEADLINE] grand, rigide, net et lisible. La typographie agit comme un véritable environnement physique tandis que la nourriture y réagit selon [INTERACTION].
 
-Rendez la typographie extrêmement grande et laissez-la créer un effet de gravité clair :
+Pour “cold-set”, laisse un aliment liquide chaud toucher une typographie froide et passer visiblement d'un liquide brillant à semi-figé, puis à un solide mat uniquement là où le contact se produit.
 
- TILT : faites pivoter la direction de la gravité tandis que la mise en page normale de l'affiche reste droite.
- DROP : tirez le sujet et la typographie vers le bas, avec un déplacement vertical plus fort vers le bas.
- FLOAT : supprimez le sol et laissez le sujet, les vêtements, les cheveux et la typographie flotter naturellement à différentes profondeurs.
- PULL : créez une force opposée qui tire les vêtements, les cheveux, les sangles ou les produits vers la typographie tandis que le sujet se déplace à contre-courant.
+Pour “heat-melt”, laisse un aliment solide comme le beurre toucher une typographie chaude et se ramollir, fondre, mousser et changer de couleur de façon réaliste le long du chemin de contact.
 
-La pose du corps, les cheveux, les vêtements, les accessoires, les ombres et les produits doivent tous suivre la même logique de gravité pour que l'effet semble physiquement crédible.
+Pour “liquid containment”, utilise les contre-formes des lettres ou de basses limites typographiques pour recueillir un vrai liquide en flaques visibles avec profondeur, ménisque et débordement contrôlé.
 
-Créez des couches claires de premier plan, de sujet et d'arrière-plan, avec des parties de la typographie se déplaçant devant et derrière le sujet.
+Pour “constrained growth”, laisse un aliment mou en expansion comme la pâte pousser contre des lettres rigides, s'aplatir aux points de contact, se comprimer dans les fentes étroites et s'étendre à nouveau là où l'espace se libère.
 
-Gardez les lettres principales nettes, lisibles et propres. Utilisez des surfaces mates et lisses, une couleur uniforme, des bords nets et une profondeur contrôlée. Évitez les textures usées, écaillées, sales, semblables au béton ou bruitées.
+Chaque réaction doit suivre une cause et un effet physiques clairs. Garde la typographie inchangée tandis que la forme, l'écoulement ou l'état matériel de la nourriture y répond.
 
-Tous les chemins de mouvement, lignes de gravité, courbes et lignes de légende doivent être continus, fluides et clairement rendus.
+Utilise [ACCENT COLOR] avec des couleurs naturelles d'aliments et des neutres foncés. N'ajoute que quelques détails utiles tels que [BRAND], nom du produit, ingrédients, une courte ligne de texte, horaires d'ouverture et adresse.
 
-Gardez les personnes très réalistes avec une anatomie naturelle, des proportions crédibles, une vraie texture de peau, des reflets contrôlés et des cheveux détaillés. Évitez la peau cireuse, les reflets huileux, l'apparence CGI, les membres déformés et les proportions grand-angle exagérées.
+Évite les lettres en forme de nourriture, les faux effets numériques, les gouttes aléatoires, la typographie 3D exagérée, les matériaux CGI, les étiquettes numérotées, 01/02, Vol. ou les scintillements.
 
-Utilisez une couleur dominante à fort impact avec du noir, du blanc et une couleur d'accent forte. Ajoutez seulement quelques détails de campagne significatifs tels que la marque, le nom du produit, le slogan et 2–3 légendes de caractéristiques concises.
+L'affiche finale doit fonctionner comme une image qui arrête le défilement : un titre audacieux, un élément alimentaire reconnaissable et une réaction physique immédiatement compréhensible.
 
-L'image finale doit ressembler à un visuel clé de campagne fini où la typographie, la gravité et le mouvement humain se comportent comme un seul système physique.
+Garde le caractère rigide. Laisse la nourriture obéir à la physique.
+
+[BRAND]: {nom de la marque}
+[PRODUCT]: {nourriture / dessert / pain}
+[HEADLINE]: {mot court et fort}
+[INTERACTION]: {cold-set / heat-melt / liquid containment / constrained growth}
+[ACCENT COLOR]: {couleur du titre}
+[DETAILS]: {ingrédients / texte court / horaires / adresse}
 ```
 
 </details>
@@ -2477,7 +2627,7 @@ L'image finale doit ressembler à un visuel clé de campagne fini où la typogra
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HR--j5jWwAoweI_.jpg" width="700" alt="La Typographie Contrôle la Gravité">
+<img src="https://image.moge.ai/prompt_media/HSLzWDva0AALBi4.jpg" width="700" alt="Affiche culinaire à physique typographique">
 </div>
 
 <br>
@@ -2486,64 +2636,61 @@ L'image finale doit ressembler à un visuel clé de campagne fini où la typogra
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2098605949070037227) | 2026-09-12 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2099508089841959257) | 2026-09-14 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2098605949070037227)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099508089841959257)**
 
 </div>
 
 ---
 
-### No. 38: Affiche typographie transformée par les aliments
+### No. 38: Affiche éditoriale à composition dispersée
 
 ![Catégorie: Visuels créatifs](https://img.shields.io/badge/Cat%C3%A9gorie-Visuels%20cr%C3%A9atifs-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche éditoriale culinaire 9:16 où de vrais procédés alimentaires — étalage, absorption, chaleur, diffusion — modifient physiquement la perception de la typographie en gras.
+Crée une affiche éditoriale contemporaine haut de gamme avec une composition dispersée maîtrisée, une hiérarchie d'échelle claire et une typographie intégrée pour des projets culturels et de marque.
 
 #### 🌟 Prompt
 
-[MARQUE] : {nom de la marque} [PRODUIT] : {plat / boisson} [TITRE] : {mot court en gras} [INTERACTION] : …
+【Thème】{ex. : art sonore, culture culinaire, typographie urbaine, archive botanique} 【Projet / Marque】{nom} …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-[MARQUE] : {nom de la marque}
-[PRODUIT] : {plat / boisson}
-[TITRE] : {mot court en gras}
-[INTERACTION] : {transition d'épaisseur / révélation par absorption / réfraction thermique / champ de diffusion}
-[COULEUR D'ACCENT] : {couleur principale de la typographie}
-[DÉTAILS] : {ingrédients / texte court / horaires / adresse}
+【Thème】{ex. : art sonore, culture culinaire, typographie urbaine, archive botanique}
+【Projet / Marque】{nom}
+【Titre Principal】{2–4 mots}
+【Sujet Principal】{ancre visuelle principale}
+【Éléments Satellites】{4–8 images, objets, textures ou détails de soutien}
+【Couleur d'Accent】{une couleur d'accent dominante}
+【Fond】{ivoire chaud / noir charbon / couleur plate intense}
+【Informations Clés】{date, lieu, matériaux, catégories, slogan court}
+【Ratio】9:16
 
-Créez une affiche éditoriale culinaire verticale 9:16 combinant une photographie de nourriture très réaliste avec une typographie en gras, conçue professionnellement.
+Créez une affiche éditoriale contemporaine haut de gamme en utilisant une composition dispersée maîtrisée. La mise en page doit sembler visuellement riche et exploratoire, mais jamais aléatoire. Construisez la composition autour d'une ancre visuelle dominante soutenue par 4–8 nœuds satellites répartis sur la page.
 
-Utilisez un fond crème chaud ou ivoire, une texture de papier subtile, des matériaux réalistes, un éclairage naturel et une mise en page éditoriale épurée.
+Établissez une hiérarchie d'échelle claire G / M / P : une grande ancre, 2–3 nœuds moyens et plusieurs petits nœuds de détail. Évitez les éléments de taille égale ou les grilles régulières. Utilisez les différences d'échelle, d'espacement, de recadrage, de chevauchement et de direction pour créer un rythme et un parcours de lecture non linéaire.
 
-Gardez le [TITRE] totalement intact, net et de conception normale. L'aliment doit rester un objet réel distinct et modifier physiquement uniquement la façon dont la typographie est vue selon l'[INTERACTION].
+La typographie doit participer activement à la composition plutôt que de rester dans un bloc d'en-tête conventionnel. Utilisez le titre principal comme l'un des plus grands éléments graphiques, en permettant aux mots ou lettres d'être divisés, décalés, recadrés ou répartis sur la mise en page tout en restant clairement lisibles. Limitez le système typographique à deux familles de polices complémentaires au maximum.
 
-Pour la « transition d'épaisseur », laissez l'aliment devenir physiquement plus fin par un processus réel comme l'étalage, révélant davantage la typographie derrière lui à mesure que l'épaisseur diminue.
+Combinez photographie éditoriale, objets détourés, études de matériaux, fragments d'archives, détails en gros plan et formes graphiques simples. Les nœuds de soutien doivent révéler différents aspects du même sujet plutôt que de répéter la même image. Mélangez des sujets complets avec des fragments, des textures, des détails de processus et de petites preuves visuelles.
 
-Pour la « révélation par absorption », laissez l'huile ou un autre liquide alimentaire imprégner un matériau réel comme le papier, augmentant sa transparence et révélant progressivement la typographie cachée en dessous.
+Utilisez un langage visuel répété pour unifier les éléments dispersés : cercles répétés, formes organiques, fragments rectangulaires, systèmes de lignes, textures de matériaux ou une seule couleur d'accent. La position est dispersée, mais la grammaire visuelle doit rester cohérente.
 
-Pour la « réfraction thermique », utilisez la chaleur réelle qui s'élève d'un aliment chaud pour courber et décaler légèrement uniquement la typographie vue à travers la zone d'air chaud, tout en gardant le reste parfaitement net.
+Limitez la palette à une couleur de base, des tons noir / neutres et une couleur d'accent forte. Répétez la couleur d'accent à 3–5 endroits séparés pour relier visuellement la composition. Évitez d'utiliser de nombreuses couleurs sans rapport.
 
-Pour le « champ de diffusion », laissez un ingrédient réel se répandre naturellement dans un liquide, créant des variations de couleur, de densité et de visibilité sur la typographie derrière.
+Maintenez environ 20–30 % d'espace négatif efficace. Ne remplissez pas chaque zone vide. Les nœuds liés peuvent être plus proches, tandis que les groupes non liés doivent avoir plus de distance afin que le spectateur comprenne naturellement la hiérarchie.
 
-Rendez le [TITRE] grand, simple et lisible en taille miniature. L'interaction physique doit être compréhensible dès la première seconde.
+Tout le texte doit avoir un sens réel lié au projet. N'incluez que des informations utiles comme le nom du projet, les catégories, les matériaux, la date, le lieu, de courts descriptifs ou un slogan concis. Évitez le texte de remplissage, les mots aléatoires, le texte japonais dénué de sens, la numérotation décorative, le texte de droits d'auteur ou les filigranes.
 
-Utilisez la [COULEUR D'ACCENT] avec du crème, des couleurs naturelles d'aliments et des neutres foncés. Ajoutez seulement quelques détails significatifs tels que [MARQUE], nom du produit, ingrédients, une courte ligne de texte, horaires d'ouverture ou adresse.
-
-Gardez les accessoires minimaux. Évitez les lettres en forme de nourriture, les masques numériques, le faux flou, les matériaux CGI, la typographie 3D générique, la distorsion aléatoire, les étiquettes numérotées, 01/02, Vol. ou les étincelles.
-
-L'affiche finale doit fonctionner comme une image qui arrête le défilement : un titre en gras, un processus alimentaire physique clair, et un changement surprenant mais crédible dans la façon dont la typographie est vue.
-
-Gardez la typographie conçue professionnellement et intacte — laissez le processus alimentaire réel changer la vue.
+L'affiche finale doit ressembler à un projet culturel ou de marque abouti, combinant le design éditorial est-asiatique contemporain, la composition graphique expérimentale et une narration visuelle sophistiquée. De loin, le spectateur doit immédiatement lire le titre principal, le sujet dominant et la couleur d'accent ; de près, des matériaux supplémentaires, des détails de processus, des textures et de petits nœuds d'information doivent apparaître progressivement.
 ```
 
 </details>
@@ -2551,7 +2698,7 @@ Gardez la typographie conçue professionnellement et intacte — laissez le proc
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSENGMEaEAAbPiO.jpg" width="700" alt="Affiche typographie transformée par les aliments">
+<img src="https://image.moge.ai/prompt_media/HSLUOXGXUAEv1LD.jpg" width="700" alt="Affiche éditoriale à composition dispersée">
 </div>
 
 <br>
@@ -2560,13 +2707,13 @@ Gardez la typographie conçue professionnellement et intacte — laissez le proc
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2098980286390214808) | 2026-09-13 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2099473870117892306) | 2026-09-14 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2098980286390214808)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099473870117892306)**
 
 </div>
 
@@ -2636,31 +2783,66 @@ Esthétique générale : emballage botanique, illustration éditoriale, design d
 
 ---
 
-### No. 40: Affiche Éditoriale de Conférence Académique
+### No. 40: Affiche d'événement duotone à masque en escalier
 
 ![Catégorie: Supports marketing](https://img.shields.io/badge/Cat%C3%A9gorie-Supports%20marketing-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche éditoriale mêlant photographie réelle et plans géométriques de couleur pure avec une typographie sculpturale pour promouvoir une conférence académique.
+Crée des affiches d'événement en duotone avec un canal blanc en escalier façon pixels qui bascule la partie du corps en action vers une couleur chaude, typographie néo-grotesque noire et dates en gros chiffres.
 
 #### 🌟 Prompt
 
-😃🙂🫤 Avec un thème clair comme noyau narratif, compose une œuvre visuelle éditoriale où la photographie et la …
+{ "nom\_du\_style": "Step Season", "slug\_du\_style": "stepped-mask-duotone-event-poster", "toile": "affiche …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-😃🙂🫤
-Avec un thème clair comme noyau narratif, compose une œuvre visuelle éditoriale où la photographie et la composition graphique se pénètrent mutuellement : utilise un ensemble d'objets ou de scènes réels et tangibles du thème comme ancrage émotionnel, en conservant volume, reflets, occlusions et subtile asymétrie sous une lumière naturelle, comme s'ils étaient disposés sur une scène d'exposition silencieuse ; puis insère deux ou trois plans géométriques de couleur pure fortement directionnels, qui peuvent se plier, masquer, s'étendre et dépasser les bords du sujet, telle une architecture transparente, un cadre de scène ou une mise en page démontée, restratifiant premier plan, plan intermédiaire et arrière-plan, tout en laissant de grandes zones sombres ou peu chargées pour respirer. Les contours, symboles ou actions clés du thème sont abstraits de la zone photographique, formant un événement visuel clair entre les plans géométriques, en conservant quelques détails pour que réalisme et concept coexistent. Utilise une police étroite et allongée, un logotype iconique ou le texte du thème portant le plus grand poids visuel comme poutre structurelle, donnant au texte une hauteur sculpturale, des lignes continues et un blanc mesuré ; le reste des informations se répartit en texte éditorial plus petit, régulier et aéré sur les bords ou les vides, formant titre principal, mentions annexes et date/lieu comme des voix distinctes ; la direction du texte peut suivre les axes des plans géométriques, et le chinois, l'anglais ou d'autres systèmes d'écriture conservent la personnalité des lettres et la hiérarchie de l'information. Extrais la couleur principale du thème lui-même, de la lumière de la scène ou d'un imaginaire culturel : une couleur structurelle profonde stabilise fond et ombres, une couleur vive d'ouverture soutient les plans géométriques, et une couleur focale très identifiable ne se pose que sur l'événement thématique ou peu de texte ; contrôle l'ordre de lecture par une division claire d'ombre et de lumière et une saturation limitée. Les surfaces présentent des textures photographiques réelles de verre, céramique, métal, tissu ou papier ; les plans géométriques gardent des bords nets et épais, et aux jonctions construis l'espace par transparence, ombres portées et superposition de couleur ; l'arrière-plan conserve des indices d'environnement reconnaissables mais discrets ; enfin, fais en sorte que information, objets, blocs de couleur et vide apparaissent comme une même architecture temporaire, produisant une expérience de contemplation calme, mystérieuse et empreinte d'un rituel d'exposition.
-
-——————
-Thème : International Conference on English and American Studies
-Usage : affiche promotionnelle
-Texte : anglais
-Ratio 9:16
-😆😁😂
+{
+  "nom_du_style": "Step Season",
+  "slug_du_style": "stepped-mask-duotone-event-poster",
+  "toile": "affiche verticale 9:16, un champ de couleur saturée plat de bord à bord, sans texture",
+  "couleur": {
+    "paires": [
+      "cobalt #0A3FD4 + rouge #E8342A",
+      "turquoise #1ECFC4 + orange #E85A22",
+      "jaune acide #E8F32B + violet #6B4FD8",
+      "champ orange chaud + couleur chaude bleu profond"
+    ],
+    "regle": "DEUX couleurs par affiche — le champ teinte toute la photographie en duotone, la couleur chaude n'apparaît que dans le canal en escalier ; noir pour la typographie ; blanc pour le canal lui-même. Pas de troisième teinte, pas de dégradé, pas de grain.",
+    "regle_de_serie": "sur une série de quatre, donnez à chaque affiche une famille de couleur distincte — jamais deux bleus"
+  },
+  "systeme_de_marches": {
+    "forme": "un canal blanc à bord en escalier net, comme des marches de pixels, traversant verticalement le cadre et débordant en haut et en bas",
+    "module": "la hauteur et la profondeur de marche sont UNE unité fixe sur toute la série — environ 1/16 de la largeur de l'affiche ; ne jamais redimensionner par affiche",
+    "regle_de_compte": "un canal par défaut ; se diviser en deux blocs en escalier seulement quand le métier a deux points d'impact simultanés (cymbale et caisse claire), un bloc par point",
+    "regle_chaude": "tout ce qui tombe dans le canal passe à la couleur chaude — et le canal doit être positionné pour tomber sur la partie du corps ou l'outil qui travaille en ce moment"
+  },
+  "typographie": {
+    "titre": "3–4 mots dans une néo-grotesque propre, casse de phrase — seule la première lettre en majuscule, le reste en minuscules ; noir ; 2–3 lignes ; haut du cadre",
+    "dates": "chiffres du jour empilés verticalement en grands numéraux noirs, mois et année en petites capitales dessous ; UNE position fixe sur toute la série — côté droit, aligné sur l'axe vertical du titre",
+    "pied": "une ligne de petites capitales grasses en bas à gauche : le nom de l'événement, une barre oblique, le format (OPEN PRACTICE / PROCESS LIVE / LIVE ROOMS / OPEN SESSIONS)"
+  },
+  "photographie": {
+    "sujet": "un praticien au sommet d'une action — en plein plongeon, foulée, cueillage, frappe ; jamais posé, jamais face à l'objectif",
+    "decor": "le lieu réel reste visible et en duotone — carrelage de piscine et plongeoir, couloirs de piste et projecteurs, établi de studio et four, batterie et cymbales",
+    "cadrage": "corps entier là où l'action l'exige, à partir de la taille là où l'outil l'exige"
+  },
+  "regles_de_design": [
+    "les titres suivent une grammaire : [nom] en [état] — Bodies in blue, Matter in motion, Sound in the making",
+    "aucune paire d'affiches d'une série ne peut répéter un mot",
+    "le canal est l'identité — gardez-le géométrique, jamais doux ni déchiré",
+    "tout ce qui est imprimé repose sur le champ plat ; rien ne chevauche la photographie sauf le canal"
+  ],
+  "variables_d_echange": {
+    "discipline": "plongeon / sprint / soufflage de verre / percussion",
+    "titre": "Bodies in blue / City in stride / Matter in motion / Sound in the making",
+    "paire_de_couleurs": "cobalt+rouge / orange chaud+bleu / turquoise+orange / jaune acide+violet",
+    "zone_chaude": "torse entrant dans l'eau / jambe motrice / cueillage de verre en fusion sur la canne / cymbale et caisse claire",
+    "pied": "AQUATIC MOTION · OPEN PRACTICE / URBAN TRACK MEET · OPEN SESSIONS / GLASS STUDIO DAYS · PROCESS LIVE / PERCUSSION WEEKEND · LIVE ROOMS"
+  }
+}
 ```
 
 </details>
@@ -2668,7 +2850,7 @@ Ratio 9:16
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRs6OLFbIAIQfj6.jpg" width="700" alt="Affiche Éditoriale de Conférence Académique">
+<img src="https://image.moge.ai/prompt_media/HSBaiXLaEAA1crg.jpg" width="700" alt="Affiche d&#x27;événement duotone à masque en escalier">
 </div>
 
 <br>
@@ -2677,177 +2859,173 @@ Ratio 9:16
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [小小东](https://x.com/xiaoxiaodong01) | [X / Twitter](https://x.com/xiaoxiaodong01/status/2097334284465922470) | 2026-09-08 |
+| [Vigo Zhao](https://x.com/VigoCreativeAI) | [X / Twitter](https://x.com/VigoCreativeAI/status/2098776988005581043) | 2026-09-12 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2097334284465922470)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2098776988005581043)**
 
 </div>
 
 ---
 
-### No. 41: Portrait vibrant au marqueur
+### No. 41: Fiche de Personnage Animé depuis un Animal
 
 ![Catégorie: Illustration & IP](https://img.shields.io/badge/Cat%C3%A9gorie-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Transforme une photo en portrait au marqueur aux couleurs denses, aux traits faits main et à une légende manuscrite pleine d'humour.
+Transforme la photo d'un animal en une fiche professionnelle de design de personnage 3D animé, avec portrait principal, palette de couleurs, détails, rotation du corps entier et expressions, en préservant l'identité exacte de l'animal.
 
 #### 🌟 Prompt
 
-Portrait au marqueur de couleur dense | transformer une personne réelle en une œuvre amusante Tâche créative …
+Crée une fiche professionnelle de design de personnage animé basée STRICTEMENT sur l'image de référence de …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Portrait au marqueur de couleur dense | transformer une personne réelle en une œuvre amusante
-
-Tâche créative
-
-En utilisant la photo téléversée par l'utilisateur comme seule référence de la personne, créez un portrait au marqueur avec une sensibilité artistique contemporaine.
-
-Conservez l'identité, l'expression, la pose et la ressemblance de la personne sur la photo, mais réorganisez entièrement les couleurs, les traits et l'espace de l'image. N'appliquez pas un filtre pictural sur la photo ; agissez plutôt comme un peintre observateur et plein d'humour qui, après avoir regardé cette personne, redessine ce moment avec quelques marqueurs à pointe large aux couleurs intenses.
-
-L'image doit être audacieuse, dense et décontractée, avec des marques faites main évidentes. Au premier regard, les grands aplats de couleur attirent ; au deuxième, on reconnaît la personne de la photo ; au troisième, on découvre à côté la phrase manuscrite un peu drôle.
-
-1. Direction artistique
-
-Pour l'organisation de la couleur et de la forme, inspirez-vous des rapports de couleurs pures et vives dans les découpages d'Henri Matisse, des contours simplifiés des figures et du rythme entre aplats de couleur et vides. Transposez ces inspirations en une peinture au marqueur, sans faire un collage de découpages. (Tate)
-
-Pour le texte et l'humour, inspirez-vous des dessins concis, des courtes phrases manuscrites de David Shrigley et de son observation de l'absurde du quotidien. N'empruntez que ce rapport humoristique entre image et texte ; cette création doit être plus chaleureuse, sans le ton sombre et acide, et sans copier ses œuvres ou phrases précises. (NGV)
-
-Unifiez le tout en un langage visuel clair : couleurs denses, traits larges, formes simplifiées, expression réelle et quelques notes manuscrites.
-
-Ne mélangez pas mécaniquement plusieurs styles. La personne n'est pas le personnage fixe d'un artiste ; elle doit rester la personne de la photo.
-
-2. D'abord reconnaître la personne, puis la simplifier
-
-Avant de dessiner, repérez les traits les plus reconnaissables de la photo : contour du visage, coiffure et ligne des cheveux, rapport entre les yeux, position du nez et de la bouche, angle de la tête, direction des épaules, pose et vêtements ou accessoires marquants.
-
-Organisez l'image autour de ces traits, plutôt que de représenter tous les détails de façon égale.
-
-Conservez l'âge apparent, les rapports de teint de peau, la présentation de genre et les caractéristiques physiques d'origine. Gardez les grains de beauté visibles, les taches de rousseur, les lunettes, la barbe et les quelques lignes du visage qui aident à identifier la personne.
-
-Conservez rigoureusement l'expression et la logique d'action d'origine : des yeux fermés ne peuvent pas devenir ouverts, une bouche fermée ne peut pas devenir un sourire dents apparentes, un profil ne peut pas devenir un visage de face, et de dos on ne peut pas inventer un visage. La direction dans laquelle les cheveux s'éparpillent et l'inclinaison du corps doivent suivre l'image d'origine.
-
-Les détails anatomiques peuvent être simplifiés, mais on ne peut pas refaçonner la personne en un autre visage par embellissement, amincissement du visage, agrandissement des yeux ou réduction du nez.
-
-L'humour vient surtout du texte et de l'observation, pas du fait de dessiner la personne de manière laide.
-
-3. Médium : marqueur à pigment opaque et dense
-
-Définissez le médium comme un marqueur à pigment opaque, à la texture proche du marqueur acrylique : appliquez la couleur avec des pointes larges et plates, construisez les formes avec des pointes moyennes, puis utilisez quelques pointes fines pour les détails nécessaires et le texte.
-
-Les grands aplats de couleur doivent être saturés, fermes et couvrants, mais sans empâtement tridimensionnel comme la peinture à l'huile.
-
-Laissez visible la façon dont le marqueur est passé sur le papier : les bandes d'un balayage large, les angles un peu durs dans les virages, les jointures des couches superposées, les bords pas tout à fait réguliers en fin de trait et les petits manques là où la pointe a sauté le grain du papier.
-
-Gardez la plupart des surfaces de couleur intactes, en ne révélant ces marques que par endroits. Ne remplacez pas les vrais traits par un bruit granuleux sur toute l'image.
-
-Peignez d'abord les aplats de couleur, puis ajoutez quelques lignes. Ne tracez pas d'abord tous les contours d'une ligne noire uniforme pour ensuite remplir comme un livre de coloriage.
-
-Autorisez les recouvrements localisés, les légers décalages et les bords pas tout à fait fermés. Conservez le processus du dessin, sans rendre chaque trait parfait.
-
-4. Construire la personne avec de grands aplats de couleur
-
-Résumez cheveux, visage, cou, haut, bras et accessoires nécessaires en quelques formes ayant du poids. Le rapport entre les formes compte plus que les textures minuscules.
-
-Le visage est composé surtout d'une surface de teint de base, de deux ou trois aplats structurels et de quelques traits de traits du visage. Supprimez les pores, les microtextures photographiques, les reflets minuscules et les dégradés complexes d'ombre et de lumière, mais conservez la structure du visage qui soutient la reconnaissance.
-
-Faites les yeux avec quelques traits courts et des points foncés ; la direction du regard doit être exacte. Ne les dessinez pas tous en grands yeux ronds, et n'ajoutez pas de reflets et de cils exagérés.
-
-Dessinez les sourcils avec des traits courts d'épaisseur variable, en gardant leur direction et leur écart d'origine.
-
-Le nez peut être suggéré surtout par un aplat chaud et un ou deux traits sombres, sans modelé tridimensionnel précis.
-
-La bouche conserve l'état d'ouverture d'origine, la direction des commissures et l'émotion. Ne dessinez de dents que si l'image d'origine en montre vraiment, en les résumant en formes simples.
-
-Pour les cheveux, dessinez d'abord le contour global puis ajoutez quelques traits indiquant la direction. Les cheveux foncés peuvent utiliser des aplats brun foncé, bleu encre ou presque noir ; les cheveux clairs ou gris doivent garder leur identité, sans devenir bruns par défaut. Les mèches importantes peuvent être des lignes fines tracées d'un coup, desserrant le bord de la figure.
-
-Le vêtement conserve le modèle, l'encolure, les couches et les rapports de couleur clés. Ne gardez que les quelques plis nécessaires pour expliquer la pose.
-
-Quand le geste est le point principal de la photo, conservez l'action ; quand les mains ne sont pas au centre, réduisez les détails, mais ne changez pas la position arbitrairement.
-
-5. Couleur : dense, sans être terne ; vive, sans être bruyante
-
-Abandonnez le pastel rosé uniforme, le teint crémeux et le fond bleu clair du prompt d'origine.
-
-Selon les vêtements, le teint et l'ambiance de la photo, choisissez une palette limitée et puissante. Utilisez en général quatre à six couleurs principales : une couleur dominante pour l'ambiance générale, une couleur de contraste pour créer de la tension et quelques couleurs d'accent pour éclairer l'image.
-
-Les couleurs candidates incluent le bleu cobalt, l'outremer, le vermillon, le rouge tomate, l'ocre, le vert herbe foncé, le vert paon, le violet aubergine, le bordeaux et le blanc ivoire chaud. Pour chaque tableau, ne choisissez que les quelques-unes qui conviennent, sans toutes les mettre en même temps.
-
-Laissez les grandes zones de couleur participer vraiment à la composition, au lieu de peindre seulement le fond de façon vive tandis que la personne reste photoréaliste.
-
-Le teint peut être transposé de façon artistique, avec des aplats d'ocre, de terre cuite, de pêche ou de brun chaud, et des couleurs froides localisées faisant écho au fond. Conservez les caractéristiques de teint de la peau d'origine, sans tout blanchir, ni découper le visage en fragments arc-en-ciel chaotiques.
-
-Créez du volume par la différence de température et de luminosité entre aplats voisins, sans compter sur des dégradés flous, des ombres à l'aérographe ou des effets de lumière cinématographiques.
-
-6. Composition et fond
-
-Extrayez la personne principale de l'image d'origine, en supprimant les passants sans rapport, les objets et les environnements complexes. Sur une photo de groupe sans hiérarchie claire, conservez la relation entre les personnes centrales, sans supprimer arbitrairement l'une d'elles.
-
-Conservez par défaut l'orientation (horizontale/verticale) et les actions clés de l'image d'origine. On peut recadrer, agrandir et repositionner le sujet avec modération, mais ne transformez pas toute action en pied significative en un buste.
-
-Utilisez une composition souple mais précise. La personne peut être légèrement décalée d'un côté, laissant une place naturelle au texte ; ne centrez pas mécaniquement au nom de la symétrie.
-
-Le fond est constitué d'un seul aplat de couleur dominante ou de deux grandes zones de couleur, en gardant éventuellement un peu de papier blanc chaud. Créez l'espace par la relation entre bords de couleur, contour de la figure et vides, sans reconstituer tout l'environnement photographique.
-
-Ne gardez un objet que lorsqu'il constitue directement l'intérêt de la photo ou une caractéristique de la personne, comme un gobelet à la main, un chapeau emporté par le vent ou un animal dans les bras. Peignez-le également en aplat de couleur simple.
-
-N'ajoutez pas sans raison des plantes, des étoiles, des cœurs, des autocollants ou des ornements géométriques. L'image a besoin de choix, pas d'un entassement d'éléments de design.
-
-7. Texte manuscrit : comme un peintre qui, en regardant la personne, ne peut s'empêcher d'écrire une phrase
-
-Comprenez d'abord l'action, l'expression, les vêtements ou l'objet réellement visibles sur la photo, puis créez la courte phrase humoristique correspondante.
-
-Le texte doit donner l'impression que : « cette phrase n'est venue qu'après avoir vu cette photo. »
-
-Utilisez un léger contraste, une blague dite avec sérieux, une petite plainte personnifiée ou un petit absurde du quotidien. Ne décrivez pas directement ce qu'il y a sur la photo, et n'utilisez pas de phrases motivationnelles creuses ni de slogans à la mode sans rapport avec l'image.
-
-Utilisez surtout l'anglais, en ajoutant éventuellement une phrase plus courte en chinois ; inutile de tout traduire ligne à ligne. La phrase principale fait de trois à huit mots anglais, avec possiblement une note d'un à trois mots. À part la date, le texte forme au plus deux groupes.
-
-Les exemples ci-dessous ne montrent que le mécanisme d'humour, ce ne sont pas des textes fixes ; ne les écrivez pas tous dans l'image :
-
-Quand les cheveux sont nettement ébouriffés, on peut écrire :
-« MY HAIR HAS OTHER PLANS. »
-Quand la personne tient sérieusement un petit gobelet de boisson, on peut écrire :
-« SMALL CUP. BIG RESPONSIBILITIES. »
-
-Quand la personne regarde nettement au loin, l'air absent, on peut écrire :
-« CURRENTLY BETWEEN THOUGHTS. »
-Il faut juger et créer de nouveau selon la photo réelle. Sans indice visuel correspondant, n'utilisez pas ces phrases, et n'ajoutez pas d'accessoires à la personne juste pour coller à la phrase.
-
-L'humour vise la situation, sans rabaisser l'apparence ou l'identité de la personne. Quand l'ambiance de la photo est solennelle, rendez le texte plus léger et plus discret, sans forcer la chute.
-Le texte doit sembler manuscrit : traits à pression variable, lettres de taille légèrement différente, ligne de base à légère ondulation, espacement naturellement irrégulier, mais orthographe correcte et lecture claire.
-
-Utilisez un marqueur sombre sur les zones claires, ou un marqueur à pigment blanc chaud sur les zones sombres. Le texte partage la même texture manuelle que la figure, sans ressembler à une police d'ordinateur superposée.
-
-Il peut y avoir un petit soulignement dessiné à la main ou une petite flèche pointant réellement quelque chose. Ne le transformez pas en gribouillage sur toute la page.
-
-8. Signature datée
-
-Une fois le dessin et la note terminés, dans le coin inférieur droit ou dans le vide en dessous, apposez la date réelle de création en écriture manuscrite plus petite et plus légère.
-
-Utilisez le format de date ; quand l'heure exacte peut être confirmée, on peut utiliser le format · HH:mm.
-
-Utilisez la date et l'heure vérifiables au moment de la génération de l'œuvre, en suivant en priorité le fuseau horaire indiqué par l'utilisateur. Quand les heures et minutes ne peuvent être confirmées, n'écrivez que la date, sans inventer d'heure précise. Ne faites pas passer la date de génération pour la date de prise de vue, et ne peignez pas les espaces réservés de format directement dans l'œuvre.
-
-La signature est comme un trait laissé négligemment par le peintre une fois terminé, à un niveau distinct du texte principal. N'ajoutez pas de signature d'artiste fictive, de logo ni de filigrane.
-
-9. Contrôle final
-
-Évitez la texture photo réaliste, la peinture à l'huile IA semi-réaliste, les dégradés doux à l'aérographe, les lavis transparents à l'aquarelle, les couleurs pastel bonbon, la peau plastique, les grands yeux d'anime, le cartoon 3D, les contours vectoriels, le cerné noir sur toute l'image et les textures excessivement fines de cheveux et de tissu.
-
-Évitez aussi l'autre extrême : ne comprenez pas la « sensibilité artistique » comme la destruction arbitraire des traits, le « fait main » comme de la saleté, ni l'« humour » comme un empilement de blagues.
-
-L'image finale doit ressembler à une œuvre de portrait au marqueur que l'on pourrait accrocher dans une petite galerie : de loin, des aplats de couleur vifs et ordonnés ; de près, des traits avec des pauses, des recouvrements et la touche de la main humaine ; en regardant de nouveau, la personne reste celle de la photo, et la petite phrase à côté donne soudain du caractère à tout le moment.
-
-Dessinez moins de détails sans rapport, donnez plus de poids aux couleurs et rendez la personne plus ressemblante à elle-même.
+Crée une fiche professionnelle de design de personnage animé basée STRICTEMENT sur l'image de référence de l'animal fournie.
+
+L'image de référence téléchargée est la SOURCE PRIMAIRE DE VÉRITÉ pour l'identité de l'animal, l'espèce, l'anatomie, le motif de fourrure/peau, les couleurs, la structure faciale, les proportions corporelles, les marques distinctives, les oreilles, les yeux, le nez, les pattes, la queue et toutes les caractéristiques reconnaissables.
+
+Transforme l'animal référencé exact en un personnage animé 3D soigné, attrayant et de haute qualité, tout en préservant son identité reconnaissable.
+
+IMPORTANT :
+Ne remplace pas l'animal par une version générique de l'espèce.
+Ne change pas aléatoirement ses marques, couleurs, structure faciale, forme du corps, couleur des yeux, forme des oreilles, forme de la queue ou traits distinctifs.
+Le personnage doit clairement rester le MÊME animal de la référence, simplement interprété comme un personnage animé professionnel.
+
+FORMAT DE LA FICHE DE DESIGN :
+
+Crée UNE fiche de présentation de design de personnage propre et professionnelle avec un fond de studio neutre et des sections organisées.
+
+SECTION SUPÉRIEURE — PERSONNAGE PRINCIPAL
+• Grand portrait principal de 3/4 ou de face de l'animal
+• Personnalité animée amicale, expressive et attrayante
+• Rendu 3D cinématographique de haute qualité
+• Visage, texture de fourrure/peau, yeux, oreilles et marques distinctives clairement visibles
+• Éclairage de studio doux et naturel
+• Personnage centré de manière proéminente
+• Ajoute le nom du personnage dans une police stylée manuscrite/d'affichage
+• Sous le nom, inclus une courte description de personnalité basée sur l'apparence de l'animal
+• Ajoute 3 à 5 petits traits de personnalité tels que :
+  Doux / Curieux / Joueur / Courageux / Énergique / Malin / Timide
+  Choisis des traits appropriés au personnage
+
+PALETTE DE COULEURS :
+Montre une petite section professionnelle de palette de couleurs contenant environ 5 à 7 échantillons de couleur circulaires extraits directement de l'animal de référence :
+• couleur primaire du corps
+• couleur secondaire de fourrure/peau
+• marques
+• couleur des yeux
+• couleur du nez
+• couleur d'accent
+• neutre de fond/accent si approprié
+
+DÉTAILS EN GROS PLAN :
+Inclus 2 à 4 petits panneaux agrandis montrant des caractéristiques importantes de l'animal :
+• gros plan de l'œil
+• gros plan du motif de fourrure/peau
+• marque distinctive
+• détail de patte/nez/oreille/queue
+Chaque détail doit correspondre précisément au personnage de référence.
+
+ROTATION DU CORPS ENTIER :
+Crée une rangée propre de vues du corps entier :
+1. Vue de face
+2. Vue 3/4
+3. Vue de côté
+4. Vue de dos
+5. Pose en T / Pose neutre
+
+Maintiens une continuité EXACTE du personnage dans chaque vue.
+La même anatomie, proportions, motif de fourrure/peau, couleurs, marques, structure faciale, queue, oreilles et accessoires doivent rester cohérents sous chaque angle.
+
+EXPRESSIONS :
+Crée une rangée de 4 à 6 portraits expressifs d'expression faciale/corporelle appropriés au personnage, par exemple :
+• Heureux / Sourire
+• Surpris / Alarmé
+• Somnolent
+• Déterminé
+• Curieux
+• Joueur
+
+Les expressions doivent changer naturellement tandis que l'identité sous-jacente du personnage reste totalement cohérente.
+
+COHÉRENCE DU PERSONNAGE :
+Chaque panneau doit représenter le MÊME personnage.
+Maintiens :
+• forme du visage identique
+• design et couleur des yeux identiques
+• oreilles identiques
+• nez/museau identique
+• couleurs de fourrure/peau identiques
+• marques et motifs identiques
+• proportions corporelles identiques
+• design de queue identique
+• pattes/pieds identiques
+• silhouette globale identique
+
+STYLE :
+Design de personnage de long-métrage animé haut de gamme,
+animation 3D stylisée,
+mignon mais conçu professionnellement,
+visage expressif,
+proportions attrayantes,
+fourrure/peau réaliste et douce,
+belle définition des matériaux,
+éclairage cinématographique subtil,
+rendu propre et soigné,
+art de développement de personnage professionnel,
+présentation premium de studio d'animation.
+
+MISE EN PAGE :
+Composition professionnelle de fiche de personnage,
+structure de grille propre,
+séparation claire des sections,
+espacement équilibré,
+petites étiquettes descriptives sous chaque vue,
+typographie minimaliste et sophistiquée,
+tableau de présentation de designer,
+fond neutre cohérent,
+aucun élément décoratif superflu,
+aucun encombrement.
+
+CAMÉRA / RENDU :
+Rendu 3D de haute qualité,
+éclairage de studio doux,
+éclairage global réaliste,
+occlusion ambiante subtile,
+ombres naturelles,
+fourrure/peau détaillée,
+détails faciaux nets,
+bords propres,
+art de production haute résolution.
+
+TEXTE :
+Utilise des étiquettes courtes et propres telles que :
+CHARACTER
+COLOR PALETTE
+DETAILS
+FULL BODY TURNAROUND
+EXPRESSIONS
+FRONT VIEW
+3/4 VIEW
+SIDE VIEW
+BACK VIEW
+T-POSE
+
+Si l'image de référence contient un nom, utilise ce nom.
+Sinon, crée un nom court et approprié pour le personnage.
+
+RÉSULTAT FINAL :
+L'image finie doit ressembler à une fiche officielle professionnelle de développement de personnage créée pour un film ou une production télévisée animée — pas à une collection d'images IA sans rapport.
+
+PRIORITÉ LA PLUS IMPORTANTE :
+PRÉCISION DE L'IMAGE DE RÉFÉRENCE + COHÉRENCE DU PERSONNAGE + MISE EN PAGE PROFESSIONNELLE DE FICHE DE PERSONNAGE.
 ```
 
 </details>
@@ -2855,7 +3033,7 @@ Dessinez moins de détails sans rapport, donnez plus de poids aux couleurs et re
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRpHv6LaIAArFyc.jpg" width="700" alt="Portrait vibrant au marqueur">
+<img src="https://image.moge.ai/prompt_media/HSGGZdPaIAAA0Gk.jpg" width="700" alt="Fiche de Personnage Animé depuis un Animal">
 </div>
 
 <br>
@@ -2864,35 +3042,35 @@ Dessinez moins de détails sans rapport, donnez plus de poids aux couleurs et re
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [虎小象](https://x.com/hx831126) | [X / Twitter](https://x.com/hx831126/status/2097067631149002848) | 2026-09-07 |
+| [M. Asif](https://x.com/meAsifAi) | [X / Twitter](https://x.com/meAsifAi/status/2099107492936794528) | 2026-09-13 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2097067631149002848)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099107492936794528)**
 
 </div>
 
 ---
 
-### No. 42: Portrait joyeux en extérieur
+### No. 42: Portrait urbain en couleur sélective
 
 ![Catégorie: Photographie & image](https://img.shields.io/badge/Cat%C3%A9gorie-Photographie%20%26%20image-lightgrey)
 
 #### 📚 Description
 
-Portrait en gros plan d'une jeune femme souriante aux taches de rousseur et cheveux ondulés, en extérieur avec un fond vert flou.
+Crée une photo cinématographique en noir et blanc avec des accents rouges vifs d'une modèle en skate dans une rue mouillée devant une fresque pop-art.
 
 #### 🌟 Prompt
 
-Un portrait en gros plan d'une jeune femme aux longs cheveux ondulés brun foncé, regardant sur le côté avec …
+Photographie cinématographique et collage d'art urbain dans un style de couleur sélective (noir et blanc avec …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Un portrait en gros plan d'une jeune femme aux longs cheveux ondulés brun foncé, regardant sur le côté avec un sourire éclatant et joyeux montrant les dents. Elle a une peau chaude et hâlée par le soleil avec de légères taches de rousseur, de doux yeux noisette et des sourcils bien définis. Elle porte un haut ou une robe sans manches à col haut de couleur crème, orné d'un délicat motif floral de roses roses et vertes. L'arrière-plan est doucement flou avec de la verdure naturelle en extérieur, créant un léger effet bokeh qui maintient l'attention entièrement sur son visage et son expression.
+Photographie cinématographique et collage d'art urbain dans un style de couleur sélective (noir et blanc avec de vibrants accents rouges). La modèle est montrée en skateboard le long d'une rue mouillée avec des flaques reflétant la lumière. En arrière-plan, une grande fresque murale de style pop-art affiche un portrait vintage de la modèle, un disque vinyle, des lèvres rouges et un graffiti indiquant "HER19845". De saisissants accents rouge vif soulignent les lèvres, le skateboard et des détails dispersés. Esthétique d'art urbain, haute définition, textures détaillées, qualité photoréaliste.
 ```
 
 </details>
@@ -2900,7 +3078,7 @@ Un portrait en gros plan d'une jeune femme aux longs cheveux ondulés brun fonc�
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HR7irQAW0AEbaSu.jpg" width="700" alt="Portrait joyeux en extérieur">
+<img src="https://image.moge.ai/prompt_media/HSLmAWtXMAAkjAo.jpg" width="700" alt="Portrait urbain en couleur sélective">
 </div>
 
 <br>
@@ -2909,35 +3087,59 @@ Un portrait en gros plan d'une jeune femme aux longs cheveux ondulés brun fonc�
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Minahil](https://x.com/Minahil42298354) | [X / Twitter](https://x.com/Minahil42298354/status/2098363733185634713) | 2026-09-11 |
+| [HER19845](https://x.com/her19845) | [X / Twitter](https://x.com/her19845/status/2099780006566035459) | 2026-09-15 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2098363733185634713)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099780006566035459)**
 
 </div>
 
 ---
 
-### No. 43: Affiche de Campagne Mode H&M
+### No. 43: Affiche Ludique de Pulpe de Mangue
 
 ![Catégorie: Publicité & produit](https://img.shields.io/badge/Cat%C3%A9gorie-Publicit%C3%A9%20%26%20produit-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche mode verticale à fort impact dans le style H&M, avec une typographie condensée géante, un mannequin en mouvement et une palette rouge/noir/blanc.
+Crée une affiche premium jaune mangue avec une mascotte vache comique tirant une corde face à une canette géante de pulpe de mangue.
 
 #### 🌟 Prompt
 
-Affiche promotionnelle de mode H&amp;M ultra-premium pour réseaux sociaux. Vertical 4:5, créatif hero Instagram. …
+Crée une affiche publicitaire de mangue FMCG ultra-premium de niveau Cannes pour une maison tropicale fictive …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Affiche promotionnelle de mode H&M ultra-premium pour réseaux sociaux. Vertical 4:5, créatif hero Instagram. Campagne mondiale de retail mode. Publicité mode contemporaine. Design graphique commercial de mode. Direction artistique de niveau agence. Qualité page d'accueil Behance. 8K UHD hyperréaliste. Fusion mode × design graphique × culture urbaine. Communication visuelle à fort impact. Zéro « AI slop ». Zéro publicité générique de fast-fashion. Zéro esthétique de catalogue. Zéro esthétique de copie de luxe. ⸻ STRATÉGIE CENTRALE : Ce n'est pas simplement une publicité de vêtements. C'est H&M transformée en déclaration visuelle. La campagne doit communiquer : la mode va vite, la culture plus vite. H&M doit se sentir : accessible + expressive + contemporaine + jeune + mondiale + confiante. Le langage visuel combine : campagne mode H&M × magazine éditorial × affiche de culture urbaine × design graphique haute couture × publicité sociale digital-first. Le résultat doit se lire indéniablement comme H&M, pas Zara, Mango, COS ni une marque de luxe générique. La direction stylistique publiée de H&M met l'accent sur le contraste dramatique et la photographie de l'instant, donc la photographie doit sembler vivante, pas statique. ⸻ IDÉE DE CAMPAGNE « NEW UNIFORM » : Oubliez les uniformes traditionnels. C'est : L'UNIFORME DE MAINTENANT. Les vêtements représentent l'identité en constante évolution d'une nouvelle génération. Un jour : minimal. Le suivant : street. Puis : tailoring. Puis : expérimental. H&M devient la garde-robe qui suit le rythme. Message : L'UNIFORME CHANGE. VOUS N'AVEZ PAS À LE FAIRE. ⸻ VISUEL PRINCIPAL : Créez une énorme structure typographique lisant : H&M. La typographie doit occuper environ 60–70% de toute la composition, ressentie comme : audacieuse, compressée, graphique, énergique, légèrement disruptive. Les lettres géantes H&M peuvent être partiellement rognées, empilées, répétées, superposées, cachées derrière le mannequin, croisées par des blocs graphiques rouges, coupées par des cadres photographiques diagonaux et poussées au-delà du cadre. La typographie doit sembler être une installation physique d'affiche. ⸻ SUJET PRINCIPAL : Jeune mannequin de mode féminine. Apparence mode mondiale contemporaine. Texture de peau naturelle. Visage fort et expressif. Maquillage minimal mais soigné. Expression confiante. Pas de sourire artificiel d'influenceuse. Pas de pose de luxe exagérée. Le mannequin doit sembler être quelqu'un qui appartient vraiment à la ville. Jeune, sûre d'elle, énergique, culturellement consciente. ⸻ GARDE-ROBE : Créez un look H&M contemporain. LOOK PRINCIPAL : blouson bomber noir oversize effet cuir, débardeur blanc ajusté net, pantalon gris ample wide-leg décontracté, chaussures noires chunky, petits bijoux argentés, mini sac à bandoulière structuré, détail d'accessoire rouge subtil, styling en couches. Les vêtements doivent sembler de la mode accessible élevée par le styling. Pas de couture. Pas de costume de défilé. Pas de quiet luxury. Pas de branding excessif. Les vêtements doivent sembler véritablement portables. ⸻ POSE / MOUVEMENT : Le mannequin est capturé en pleine foulée. Un pied en avant. Le blouson bouge naturellement. Cheveux légèrement en mouvement. Corps tourné d'environ 15 degrés. Contact visuel direct. Une main ajustant le blouson. L'autre détendue. L'image doit sembler être un moment capturé, pas une pose répétée. ⸻ COMPOSITION : TYPOGRAPHIE 60–70% MANNEQUIN 20–25% INFO GRAPHIQUE/PROMO 10–15%. Hiérarchie visuelle : H&M ↓ NEW UNIFORM ↓ MANNEQUIN ↓ INFO COLLECTION ↓ CTA. Créez une forte tension visuelle entre le mannequin et la typographie. Le mannequin doit couvrir partiellement les lettres géantes. ⸻ SYSTÈME DE COULEUR H&M : ROUGE H&M PRIMAIRE, rouge saturé fort, utilisez environ #E50010 comme référence visuelle primaire. NOIR #000000 pour typographie, mode, blocs graphiques, bordures, micro typographie. BLANC #FFFFFF pour espace négatif, texte, panneaux graphiques, zones de fond. ⸻ RATIO DE COULEUR : 60% blanc/neutre clair, 20% noir, 15% rouge H&M, 5% tons naturels photographiques. Le rouge doit être stratégique, pas inonder l'affiche. Utilisez le rouge comme déclencheur visuel : rectangle graphique rouge, typographie rouge, bande de bordure rouge, accessoire rouge, CTA rouge. ⸻ ARRIÈRE-PLAN : Créez un environnement de studio urbain contemporain. Murs architecturaux blancs. Sol en béton. Grands panneaux géométriques. Lumière solaire vive. Ombres dures. Un énorme bloc architectural rouge H&M. Plans graphiques noirs. Texture subtile de papier/affiche. L'environnement doit être à mi-chemin entre studio de mode et installation de panneau urbain. Pas de ville reconnaissable, pas de décor distrayant, pas d'hôtel de luxe, pas de ruelle streetwear générique. ⸻ SYSTÈME DE DESIGN GRAPHIQUE : Créez une grille éditoriale agressive mais contrôlée. Utilisez : règles horizontales audacieuses, lignes verticales, rectangles rouges, blocs noirs, chiffres surdimensionnés, micro typographie, texte rogné, codes de collection, bordures fines, petites flèches directionnelles, fenêtres de recadrage photographique. Introduisez un système affiche-dans-l'affiche : une petite image secondaire de campagne dans un cadre rouge. À côté : 01 / 04 NEW SEASON H&M WOMEN. ⸻ SYSTÈME TYPOGRAPHIQUE : Utilisez le caractère typographique de H&M. TITRE PRINCIPAL : typographie display condensée, capitale, audacieuse, inspirée du système de titres de H&M. Échelle extrêmement grande. Interligne serré. Tracking minimal. Présence géométrique dure. TEXTE DE SOUTIEN : grotesque propre, caractéristiques de style IBM Plex Sans, très lisible, neutre, moderne. ⸻ COIN SUPÉRIEUR GAUCHE : Petit placement de logo H&M officiel. En dessous : FASHION FOR EVERYONE, très petit. Ne pas concurrencer la typographie hero. Préserver un espace libre généreux autour du logo. ⸻ TYPOGRAPHIE CENTRALE GÉANTE : Énorme H&M. Puis, superposé derrière : NEW UNIFORM. Les lettres géantes doivent s'étendre hors du cadre, rognées à gauche, en haut et à droite, interagissant physiquement avec le mannequin. ⸻ TITRE DE CAMPAGNE : En bas à gauche : NEW UNIFORM, typographie condensée capitale extrêmement audacieuse, avec UNIFORM nettement plus grand que NEW et un petit soulignement rouge. ⸻ TEXTE DE SOUTIEN : THE UNIFORM OF NOW. Ligne secondaire : Designed for whatever comes next. Rester court, pas de paragraphe, pas de copy marketing inutile. ⸻ INFO COLLECTION : Petit bloc structuré : H&M WOMEN AUTUMN / WINTER 2026 COLLECTION 01 NEW SEASON FASHION / ESSENTIALS / STREET, en micro typographie. ⸻ BANDE PROMOTIONNELLE : Créez un bloc horizontal rouge H&M fin contenant : NEW ARRIVALS, TRENDING NOW, ONLINE EXCLUSIVE, MEMBERS FIRST ACCESS, en capitales blanches, intégré à la grille, pas comme une bannière de soldes. ⸻ CTA : En bas à droite : SHOP NOW → bouton rectangulaire noir, typographie blanche. En dessous : Explore the new collection. Bouton compact. ⸻ PRIX : Coin inférieur droit : FROM ₹999, assez grand pour être commercialement lisible, mais secondaire à la déclaration mode. L'affiche ne doit pas ressembler à une publicité de réduction. ⸻ BANDE INFÉRIEURE : règle noire fine, puis : WOMEN / MEN / KIDS / DENIM / TRENDING / NEW ARRIVALS. ⸻ TEXTE DE BORD VERTICAL : Bord droit : H&M / AW26, tourné verticalement, petit, précis. ⸻ DISPOSITIF GRAPHIQUE ROUGE : Créez un énorme rectangle rouge H&M derrière le mannequin. À l'intérieur : 02, grand chiffre noir. En dessous : THE NEW EVERYDAY. Cela devient la signature visuelle de la campagne, presque comme du design graphique suisse traduit en publicité mode contemporaine. ⸻ STYLE PHOTOGRAPHIQUE : Photographie de mode à haute énergie. Contraste dramatique. Moment net. Mouvement naturel. Lumière directionnelle dure. Ombres profondes. Blancs vifs. Rouge H&M saturé. Peau naturelle. Tissu réaliste. Mouvement subtil dans les vêtements. ⸻ ÉCLAIRAGE : Grande source de studio directionnelle. Forte lumière latérale. Ombres dures contrôlées. Hautes lumières blanches vives. Séparation noire profonde des vêtements. Surfaces rouges recevant une lumière riche et saturée. Exposition naturelle de la peau. Pas de glamour beauty-dish, pas de brume douce de luxe, pas de bloom excessif, pas de néon artificiel. ⸻ CAMÉRA : ARRI Alexa Mini LF, objectif mode/éditorial 50mm, angle de caméra légèrement bas, composition plein corps, énergie de campagne fast-fashion, profondeur de champ modérée, texture de vêtement extrêmement nette, mouvement naturel, haute plage dynamique, photographie de mode commerciale premium. ⸻ POST-PRODUCTION : Étalonnage de campagne mode mondiale contemporaine. Blancs propres. Noirs profonds. Rouge contrôlé hautement saturé. Tons de peau naturels. Grain de film subtil. Texture textile visible. Typographie nette. Bords graphiques nets. Contraste contrôlé. Pas de retouche excessive, pas de peau plastique, pas de HDR artificiel, pas de fausse lueur de luxe, pas d'étalonnage cinématographique teal-orange, pas de grain excessif. ⸻ SÉCURITÉ / COHÉRENCE DE MARQUE : Le visuel final doit se lire immédiatement comme H&M sans se reposer uniquement sur le logo. La reconnaissance doit venir de : rouge/noir/blanc, typographie condensée audacieuse, photographie dramatique en mouvement, styling contemporain accessible, langage graphique de campagne, énergie mode mondiale jeune, communication commerciale forte. Il ne doit pas ressembler au minimalisme éditorial retenu de ZARA, à la chaleur méditerranéenne de MANGO, au minimalisme architectural de COS, au luxe intellectuel de Prada ni au luxe patrimonial de Louis Vuitton. L'identité doit rester H&M. ⸻ RESSENTI FINAL : Comme si H&M × un magazine de mode mondial × un studio de design graphique contemporain × la culture urbaine × un énorme panneau urbain avaient créé une campagne ensemble. Pas un catalogue, pas une publicité générique de fast-fashion, pas une imitation de luxe, pas une simple affiche rouge et blanche. Une campagne H&M à fort impact où typographie, mouvement, mode et design graphique deviennent un seul système visuel. Vertical 4:5 — 8K UHD — hyperréaliste — photographie de mode de l'instant dramatique — palette rouge/noir/blanc H&M — typographie condensée surdimensionnée — grille éditoriale précise — anatomie humaine réaliste — peau naturelle — tissus détaillés — traitement de marque H&M précis — typographie nette et lisible — photographie commerciale premium — direction artistique de niveau agence — créatif hero Instagram — qualité page d'accueil Behance — prêt à imprimer.
+Crée une affiche publicitaire de mangue FMCG ultra-premium de niveau Cannes pour une maison tropicale fictive nommée SOLARO PULP, en préservant la logique structurelle exacte d'une campagne produit lumineuse et à forte conversion, tout en fusionnant l'humour narratif, le réalisme forensique de l'emballage et la retenue curatoriale. La composition est verticale et hautement contrôlée : un fond de studio jaune mangue saturé plein cadre, une mascotte vache laitière 3D expressive à gauche tirant une corde avec un désespoir comique, une grande canette premium de pulpe de mangue dominant le côté droit, un bloc de titre audacieux et spirituel dans le quadrant supérieur droit, une bande propre de trois avantages près du bas et une plaque d'appel à l'action centrée en dessous. L'image finale doit sembler ludique, mémorable et globalement soignée, tout en gardant la canette comme l'héroïne commerciale incontestée.
+
+Composition centrale : utilise un fond jaune mangue monochrome vif avec une transition de studio sans couture du sol au mur et un espace négatif généreux. À gauche, place une mascotte vache 3D premium debout, penchée en arrière avec un effort visible tout en agrippant une corde nouée fermement autour de la canette. La corde crée la principale tension directionnelle dans le cadre, mais la canette doit visuellement gagner la lutte par l'échelle, le poids et l'autorité. À droite, positionne une grande canette de pulpe de mangue de face, proprement isolée et légèrement avancée dans la composition, entourée à la base d'un petit groupe soigné de vraies mangues, d'une joue de mangue entaillée, de quelques feuilles brillantes et rien de plus. Garde le cadre ouvert, respirant et orienté conversion.
+
+Atmosphère Orbit : l'accroche émotionnelle doit donner l'impression que le produit est si riche et irrésistible que même la mascotte de la ferme refuse de le lâcher. L'humour doit sembler intelligent pour la marque, non enfantin. L'expression de la mascotte doit communiquer une panique avide, une possessivité et une frustration comique, tandis que le produit reste calme, solide et désirable. L'affiche doit créer une mémorisation instantanée par une histoire simple : le désir rencontre l'abondance, et la canette devient la source de la blague. L'ambiance est lumineuse, joyeuse et très confiante, mais encore assez épurée pour sembler premium.
+
+Réalisme Transit : rends chaque matériau avec une précision FMCG de classe mondiale. La canette doit montrer une géométrie cylindrique précise, des reflets métalliques nets sur le couvercle, de subtiles coutures de bord roulé, un repérage d'étiquette impeccable, un contraste d'impression crédible et une finition premium. L'étiquette ne doit contenir qu'un branding intégré élégant tel que « SOLARO PULP » et le nom du produit « Totapuri Mango Pulp », soutenu par un visuel de mangue réaliste et un bol de purée dense. Les mangues à la base doivent montrer un éclat de peau tendue, des dégradés mûrs jaune-orange, des fossettes naturelles, une fibre juteuse dans le fruit coupé et des feuilles vertes fraîches aux nervures visibles. La corde doit montrer un détail de fibre torsadée, une compression de tension là où elle presse la canette et un contact crédible avec les sabots de la mascotte. La mascotte doit porter une surface 3D premium lisse, un ombrage doux mat à satiné, une anatomie correcte des sabots, une articulation naturelle des membres, une transition subtile peau/poil et une sculpture faciale expressive mais propre, sans bavure d'animation.
+
+Retenue Port : simplifie la campagne en une déclaration FMCG plus proche de la galerie. Retire l'encombrement décoratif de fruits supplémentaires, les informations de pied de page excessives et le petit bruit promotionnel inutile. Garde uniquement le bloc logo, le titre spirituel en haut à droite, la mascotte à gauche, la canette héroïne à droite, un groupe de fruits retenu, la bande d'avantages inférieure et la plaque CTA. Laisse le champ jaune, la tension de la corde et l'échelle de la canette créer le luxe. Le cadre doit sembler édité, intelligent et immédiatement lisible.
+
+Design de la mascotte : crée une adorable vache laitière de dessin premium aux proportions arrondies, taches noir et blanc, petites cornes, grands yeux expressifs, bouche légèrement ouverte, sourcils relevés et posture de traction tendue. Le personnage doit sembler physiquement ancré, avec un transfert de poids crédible dans les jambes, des bras ou membres antérieurs étirés agrippant la corde et des ombres de contact nettes. La vache est un dispositif narratif, pas le produit héros. Elle soutient l'histoire de marque mais ne vole jamais la dominance à la canette.
+
+Typographie et mise en page du message : dans le coin supérieur gauche, place un bloc de marque compact pour SOLARO PULP. Dans le quadrant supérieur droit, place un grand titre ludique en anglais tel que « Too Good To Give Away » ou « So Rich, Nobody Wants To Share », avec une courte ligne de support en dessous décrivant la richesse de la pulpe de mangue Totapuri. La phrase principale peut être rendue en brush-script expressif ou en écriture manuscrite premium vivante, tandis que la ligne secondaire utilise un sans-serif moderne et propre. La typographie doit sembler dirigée artistiquement, spirituelle et intégrée à la composition, non générique ni trop commerciale.
+
+Architecture d'information inférieure : près du bas, inclus une bande d'avantages propre en trois parties avec des icônes élégantes et un texte concis tel que « Fait avec de vraies mangues Totapuri », « Sans colorants artificiels » et « Texture riche et épaisse ». En dessous, place une plaque CTA arrondie centrée telle que « SHOP NOW » ou « TASTE THE GOLD ». Garde la bande nette, symétrique et très lisible, mais évite l'impression de prospectus de marché bruyant. S'il existe un minuscule pied de page, il doit être minimal et périphérique.
+
+Éclairage : utilise un éclairage de studio premium et lumineux avec une clarté frontale douce et un modelé subtil en haut à gauche. Le fond jaune doit rester lumineux et uniforme, sans dégradés sales. La canette doit recevoir la structure de reflet la plus propre, avec une lisibilité d'étiquette nette et un lustre métallique contrôlé sur le couvercle. La mascotte doit avoir un modelé dimensionnel lisse et des ombres de contact douces. Les mangues doivent capter de petits reflets brillants et des spéculaires juteux. Garde l'image joyeuse et dimensionnelle, mais jamais dure ni encombrée.
+
+Hiérarchie de couleur : 60% de jaune mangue saturé et de tons chauds doré-orange ; 30% de noir, blanc, brun profond et accents neutres chauds de la mascotte, de la corde et de la typographie de l'étiquette ; 10% d'accents de feuille verte et de reflets métalliques argentés sur le couvercle de la canette. La palette doit sembler fruitée, lumineuse, digne de confiance et internationalement premium.
+
+Intention de design : l'affiche finale doit préserver la logique d'impact exacte de la structure de référence — fond jaune complet, action de la mascotte à gauche, canette héroïne à droite, bloc de texte spirituel en haut à droite, bande d'avantages inférieure et CTA centré — tout en fusionnant le charme narratif Orbit, le réalisme matériel Transit et la retenue curatoriale Port en une campagne FMCG de luxe résolue. L'humour crée la mémorabilité, mais le produit reste le vrai centre visuel et commercial.
+
+Style de rendu : publicité FMCG ultra-soignée, branding de mascotte 3D premium, affiche produit de studio lumineuse, campagne retail globale épurée, réalisme d'emballage haut de gamme, détail de fruit appétissant, hiérarchie graphique élégante, retouche commerciale de classe mondiale, finition impeccable prête à imprimer.
+
+Prompt négatif : texte source copié, vrais noms de marques, mascotte peu détaillée, visage de vache effrayant, membres malformés, mauvaise anatomie des sabots, étiquette illisible, style de prospectus bon marché, fond jaune boueux, géométrie de canette déformée, fausse texture de mangue, pied de page encombré, mauvais espacement typographique, éclairage plat, taches noires, filigrane
 ```
 
 </details>
@@ -2945,7 +3147,7 @@ Affiche promotionnelle de mode H&M ultra-premium pour réseaux sociaux. Vertical
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HR8NmYGbMAEZqs1.jpg" width="700" alt="Affiche de Campagne Mode H&amp;M">
+<img src="https://image.moge.ai/prompt_media/HSLse54agAAH2f6.jpg" width="700" alt="Affiche Ludique de Pulpe de Mangue">
 </div>
 
 <br>
@@ -2954,59 +3156,35 @@ Affiche promotionnelle de mode H&M ultra-premium pour réseaux sociaux. Vertical
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) | [X / Twitter](https://x.com/Diplomeme/status/2098411659002012050) | 2026-09-11 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2099500411455721969) | 2026-09-14 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2098411659002012050)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099500411455721969)**
 
 </div>
 
 ---
 
-### No. 44: Affiche Urbaine à Typographie en Perspective
+### No. 44: La Suisse dans une montre de poche
 
 ![Catégorie: Visuels créatifs](https://img.shields.io/badge/Cat%C3%A9gorie-Visuels%20cr%C3%A9atifs-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche éditoriale urbaine verticale 9:16 mêlant photographie humaine réaliste, architecture brutaliste monumentale et typographie condensée géante suivant la perspective de l'espace.
+Un monde alpin suisse miniature émergeant d'une montre de poche ancienne, mêlant photographie de voyage de luxe et diorama artisanal détaillé.
 
 #### 🌟 Prompt
 
-【Titre principal】{ex. HIGH EDGE} 【Concept】{l'idée ou l'ambiance de l'affiche} 【Sujet】{personne, tenue, pose …
+Un monde alpin suisse miniature à couper le souffle émergeant d'une montre de poche ancienne ouverte, d'un …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-【Titre principal】{ex. HIGH EDGE}
-【Concept】{l'idée ou l'ambiance de l'affiche}
-【Sujet】{personne, tenue, pose et action}
-【Architecture】{toit brutaliste, rampe, canyon de béton, porte-à-faux, etc.}
-【Graphisme spatial】{cadre en perspective, boîte transparente, champ de signal, bande lumineuse, etc.}
-【Couleur d'accent】{orange / chartreuse / rouge corail}
-【Texte d'accompagnement】{courtes phrases anglaises porteuses de sens}
-
-Crée une affiche éditoriale urbaine verticale 9:16 haut de gamme utilisant uniquement une typographie en anglais.
-
-Combine photographie humaine réaliste, architecture brutaliste monumentale, typographie condensée surdimensionnée et graphismes spatiaux géométriques en un seul système de perspective cohérent.
-
-Utilise un point de vue architectural spectaculaire avec une direction de fuite claire. La personne doit sembler naturellement intégrée à l'espace plutôt que collée sur l'arrière-plan. Conserve une texture de peau réaliste, des cheveux naturels, des plis de vêtements crédibles et une lumière du jour authentique.
-
-Rends le titre principal extrêmement grand et laisse-le suivre l'architecture : s'étirer vers le point de fuite, changer d'échelle avec la perspective, déborder du cadre et interagir avec la personne ou le béton par un recadrage et une occlusion naturels. La typographie doit sembler faire partie de l'architecture, pas un texte plat posé sur une photo.
-
-Ajoute un élément graphique spatial distinctif qui suit lui aussi la même perspective, tel qu'un cadre géométrique, un volume transparent, un champ de lignes directionnelles, un plan coloré ou une bande lumineuse. Laisse des parties passer derrière et devant le sujet pour créer une vraie profondeur.
-
-Construis une mise en page éditoriale en couches avec un titre géant, un titre secondaire moyen, plusieurs étiquettes courtes et porteuses de sens, de fines lignes et une petite quantité de microtexte. Garde une densité d'information riche mais maîtrisée, avec une hiérarchie claire et un espace négatif délibéré.
-
-Utilise une palette sobre : ciel bleu, gris béton brut, typographie ivoire chaud, vêtements neutres sombres et une couleur d'accent forte.
-
-L'image finale doit ressembler à une affiche de magazine d'architecture et de culture jeune dirigée artistiquement de façon professionnelle : percutante en vignette, détaillée de près, asymétrique, spatiale et visuellement dynamique.
-
-Évite les modèles d'affiche génériques, la typographie plate, le charabia aléatoire, l'excès de microtexte, les mises en page centrées, la peau brillante, l'architecture en CGI, les logos sans signification, la numérotation, « 01 », « 02 », « Vol. », les icônes d'étincelles, les étoiles décoratives ou les mentions de copyright.
+Un monde alpin suisse miniature à couper le souffle émergeant d'une montre de poche ancienne ouverte, d'un rouge profond, posée sur du papier fait main ivoire chaleureux. À l'intérieur de la montre, un vif train à crémaillère cramoisi s'incurve sur un élégant viaduc de pierre au-dessus d'engrenages en laiton visibles, à côté d'un lac glaciaire turquoise cristallin. Le majestueux Cervin s'élève de façon spectaculaire à l'arrière-plan, entouré de sommets enneigés, de forêts de pins et d'une délicate brume matinale. Incluez un chaleureux chalet en bois aux fenêtres illuminées, de colorées fleurs sauvages alpines, deux minuscules randonneurs sur un sentier de montagne, une montgolfière rouge et blanche et un aigle royal planant au-dessus. Transformez de façon transparente les mécanismes de la montre en voies ferrées et en chemins de montagne sinueux. Lever de soleil doré et net, fraîches ombres alpines bleues, raffinés accents rouge suisse, reflets réalistes dans l'eau et textures exceptionnellement détaillées de bois, laiton, pierre, neige et papier. Photographie éditoriale de voyage de luxe mêlée à un diorama artisanal complexe, perspective isométrique de trois quarts, forte profondeur, composition élégante, espace négatif épuré, format vertical 4:5. Placez le mot exact « SWITZERLAND » discrètement sous l'œuvre en lettrage sérif majuscule raffiné. Premium, sophistiqué et hautement soigné.
 ```
 
 </details>
@@ -3014,7 +3192,7 @@ L'image finale doit ressembler à une affiche de magazine d'architecture et de c
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSBrtaMWcAkWeux.jpg" width="700" alt="Affiche Urbaine à Typographie en Perspective">
+<img src="https://image.moge.ai/prompt_media/HSLSEd1bQAA_7sG.jpg" width="700" alt="La Suisse dans une montre de poche">
 </div>
 
 <br>
@@ -3023,13 +3201,13 @@ L'image finale doit ressembler à une affiche de magazine d'architecture et de c
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2098796827650687205) | 2026-09-12 |
+| [Nagarjuna Creates](https://x.com/nagarjuncreates) | [X / Twitter](https://x.com/nagarjuncreates/status/2099471354785673505) | 2026-09-14 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2098796827650687205)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099471354785673505)**
 
 </div>
 
@@ -3090,31 +3268,39 @@ L'ensemble met l'accent sur **l'intégration du graphique et du texte, la reconn
 
 ---
 
-### No. 46: Affiche d'Événement avec Enveloppe et Tracts
+### No. 46: Affiche éditoriale point-ligne-surface
 
 ![Catégorie: Supports marketing](https://img.shields.io/badge/Cat%C3%A9gorie-Supports%20marketing-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche d'événement avec trois tracts superposés sortant d'une enveloppe en papier ouverte, un titre condensé répété et des autocollants thématiques.
+Crée une affiche verticale 9:16 minimaliste et élégante pour expositions ou événements culturels, avec une composition géométrique de cercles, lignes fines et textures sur fond papier ivoire.
 
 #### 🌟 Prompt
 
-Crée une affiche d'événement pour [NOM DE L'ÉVÉNEMENT]. Dispose trois tracts blanc froid superposés sortant …
+Contenu remplaçable : 【Titre】ex. : Rassemblement de camélias / Rituel d'encens de l'île / Soirée des marées …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Crée une affiche d'événement pour [NOM DE L'ÉVÉNEMENT]. Dispose trois tracts blanc froid superposés sortant d'une enveloppe en papier [COULEUR DE L'ENVELOPPE] ouverte, avec des plis triangulaires visibles.
+Contenu remplaçable :
+【Titre】ex. : Rassemblement de camélias / Rituel d'encens de l'île / Soirée des marées lunaires / Chronique des strates
+【Sous-titre】ex. : Une tasse de montagne printanière, une demi-journée de calme / Le vent à travers la forêt, le parfum sur les vêtements / Le bruit des vagues entre dans la nuit, les vers reviennent au rivage / Le temps s'enfonce dans la pierre
+【Informations sur l'événement】ex. : Dégustation de thé de printemps / Recherche olfactive / Lecture de poésie / Observation d'échantillons géologiques
+【Date et heure】à remplacer librement
+【Lieu】à remplacer librement
+【Couleur principale】ex. : vert mousse, gris lilas fumé, bleu indigo, terracotta
 
-Répète un grand titre d'événement noir, épais et condensé et une illustration dessinée à la main de [ACTIVITÉ] sur les trois tracts.
+Génère une affiche éditoriale verticale 9:16, dans un style de design graphique raffiné, sobre et élégant. Fond de papier blanc ivoire chaud, avec une légère texture de papier naturel et une sensation d'impression ancienne. L'image utilise une composition claire point-ligne-surface : un grand cercle complet comme visuel central, accompagné de 4 à 6 éléments géométriques de cercles, anneaux ou coupes partielles de tailles différentes, formant une structure verticale asymétrique de haut en bas. À l'intérieur des cercles, ajoute des textures fines liées au thème, comme des ondulations d'eau, des strates rocheuses, des craquelures d'émail, la diffusion d'un parfum, des textures végétales, tout en gardant l'ensemble bidimensionnel et plat, sans 3D, sans collage photographique, sans aspect e-commerce.
 
-Utilise un fond [COULEUR DE FOND] vif. Ajoute un bandeau noir irrégulier directement sur le fond, quatre autocollants découpés spécifiques au thème avec bordures blanches, et de petits détails de date et de lieu.
+Ajoute quelques lignes verticales, arcs ou lignes de mesure extrêmement fins comme éléments de liaison et de rythme. En bas ou au centre-bas, place un petit sujet figuratif comme point d'ancrage visuel, par exemple un ustensile, une branche fleurie, une petite installation, un spécimen ou une silhouette humaine ; le sujet ne doit pas être trop grand ni voler la dominance de la composition géométrique.
 
-Garde la texture du papier subtile, les blancs propres et les couleurs saturées.
+À droite, dispose le grand titre vertical en chinois【Titre】, avec une police élancée, aérée et de larges espaces blancs ; à gauche ou dans la zone centre-bas, place de minuscules textes fins, dont【Sous-titre】,【Informations sur l'événement】,【Date et heure】,【Lieu】et un peu de texte en anglais, créant un contraste éditorial de « grands caractères très espacés, petits caractères très denses ». Espaces blancs abondants, densité d'information sobre ; la mise en page doit ressembler à une publication indépendante ou à une affiche d'exposition, pas à un modèle.
 
-Garde fixe la structure enveloppe-et-tracts. Change l'événement, la palette, l'illustration et les autocollants.
+Utilise une palette peu saturée, avec la【Couleur principale】comme cœur, pouvant se combiner à 2 à 4 couleurs auxiliaires, avec hiérarchie mais sans excès. Atmosphère générale calme, artistique, avec une sensation éditoriale japonaise et un caractère d'œuvre. Pas de numérotation, pas de filigrane, pas de logo, pas de mention de copyright, pas de sparkle, pas d'étoiles à quatre branches.
+
+Exigences particulières : le cercle principal du haut doit apparaître complet, sans être coupé à gauche ni en haut ; le fond doit couvrir entièrement toute la toile, sans bordure blanche supplémentaire ni bande blanche isolée à droite ; l'image doit ressembler à une œuvre achevée, pas à un modèle d'emplacement réservé.
 ```
 
 </details>
@@ -3122,7 +3308,7 @@ Garde fixe la structure enveloppe-et-tracts. Change l'événement, la palette, l
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRnDKFhaYAAdDBm.jpg" width="700" alt="Affiche d&#x27;Événement avec Enveloppe et Tracts">
+<img src="https://image.moge.ai/prompt_media/HR_7XqxXEAANz98.jpg" width="700" alt="Affiche éditoriale point-ligne-surface">
 </div>
 
 <br>
@@ -3131,54 +3317,53 @@ Garde fixe la structure enveloppe-et-tracts. Change l'événement, la palette, l
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Vigo Zhao](https://x.com/VigoCreativeAI) | [X / Twitter](https://x.com/VigoCreativeAI/status/2096956652629143708) | 2026-09-07 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2098673049851555979) | 2026-09-12 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2096956652629143708)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2098673049851555979)**
 
 </div>
 
 ---
 
-### No. 47: Affiche Éditoriale de Pays Dessinée à la Main
+### No. 47: Portrait Duo au Fusain Noir
 
 ![Catégorie: Illustration & IP](https://img.shields.io/badge/Cat%C3%A9gorie-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Crée une illustration éditoriale vintage dessinée à la main d'un pays, avec figure de mode, animal natif et symboles culturels à l'encre noire.
+Crée une affiche verticale avec la photo réelle en haut et une silhouette minimaliste au fusain noir du même sujet en bas, style livre pour enfants.
 
 #### 🌟 Prompt
 
-Créez une illustration éditoriale sophistiquée dessinée à la main représentant [PAYS]. Mettez en scène une …
+Crée une affiche verticale de style « diptyque haut/bas », la toile étant strictement divisée en deux zones, …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Créez une illustration éditoriale sophistiquée dessinée à la main représentant [PAYS].
-Mettez en scène une élégante figure humaine en pied inspirée de la culture, de la mode et du caractère du pays, aux côtés de son animal natif le plus emblématique. Entourez-les d'éléments nationaux reconnaissables tels que [MONUMENT], [PLANTE/FLEUR], [NOURRITURE], [OBJET TRADITIONNEL] et [PAYSAGE].
+Crée une affiche verticale de style « diptyque haut/bas », la toile étant strictement divisée en deux zones, en conservant globalement de larges espaces blancs, une ambiance calme et une sensation raffinée d'édition de livre pour enfants.
 
-Utilisez un élégant trait à l'encre noire, de fins détails de croquis, des contours faits main légèrement imparfaits et une esthétique d'illustration éditoriale vintage. Ajoutez des formes géométriques abstraites en couches—cercles, taches organiques, arcs fins, lignes, points et blocs de couleur sourds—inspirés de la palette nationale du pays.
+Partie supérieure :
+Montre la photo originale téléchargée par l'utilisateur. Le sujet se limite à des personnes, des animaux de compagnie, des animaux ou à l'interaction entre personnes et animaux, en préservant l'état photographique réel du sujet, y compris la forme, la couleur du pelage ou de la peau, la coiffure, les vêtements, la posture, l'action, l'expression et le tempérament général. La partie supérieure n'est pas redessinée en style illustration ; elle doit ressembler à une photo de référence propre, réelle et nette. L'arrière-plan peut être modérément simplifié et recadré, mais ne laisse pas les bâtiments et l'environnement devenir les vedettes ; l'accent reste toujours sur le sujet humain ou animal.
 
-Gardez un fond en papier texturé ivoire chaud, avec un grain subtil et un rendu d'impression d'archives. Combinez un détail réaliste de l'animal avec un trait minimal d'illustration de mode. Conservez beaucoup d'espace négatif et une composition verticale équilibrée.
+Partie inférieure :
+Extrais le même sujet de la photo supérieure et reconstruis-le en une illustration de silhouette minimaliste au médium sec noir et épais. Ne recopie pas mécaniquement les détails de la photo, mais comprime le sujet en formes arrondies, trapues et légèrement naïves ; tu peux agrandir modérément la tête, le visage, les oreilles, les gestes des mains, la queue, le contour du corps ou la partie la plus mémorable, afin qu'il reste reconnaissable au premier coup d'œil avec très peu d'informations. Si la photo contient plusieurs sujets, conserve l'interaction la plus importante en les traitant comme une seule unité visuelle, plutôt que de disperser le focus de façon égale.
 
-Utilisez 3 à 5 couleurs sourdes associées à [PAYS], avec une texture de papier subtile, une encre délavée, un léger décalage et des imperfections de sérigraphie.
+Utilise uniquement un fond de papier presque entièrement blanc + des traces denses de craie noire, de fusain ou de frottement sec ; pas de couleur, pas de dégradés de gris. Les formes noires ne sont pas des blocs vectoriels lisses et pleins, mais résultent d'applications répétées, courtes et vigoureuses de craie, en conservant le grain du papier, les traits interrompus, les marques de pression, les bords rugueux, la densité irrégulière et le blanc partiellement apparent. Les contours tremblent légèrement, restent incomplets et imprécis, préservant une authentique sensation faite main.
 
-Ajoutez de petits éléments décoratifs inspirés de motifs traditionnels, de la géographie, de l'architecture ou de symboles nationaux, mais gardez le tout élégant et épuré.
+Les caractéristiques de reconnaissance les plus cruciales du sujet peuvent être renforcées par des « zones blanches de trait soudainement découpées dans la silhouette noire », comme le contour du visage d'une personne, la zone autour des yeux, la ligne des cheveux, la forme de la bouche, le visage de l'animal, la zone du museau, le motif sur le poitrail, la structure centrale d'un objet ou la partie la plus reconnaissable ; puis complète l'expression et les détails avec très peu de points noirs, de courtes lignes ou de symboles. Ne cherche pas de traits réalistes ni de structures précises, mais laisse le noir et le blanc former une relation de reconnaissance directe, amusante et intense.
 
-Esthétique globale : croquis de mode contemporain × illustration de voyage vintage × estampe botanique × affiche éditoriale culturelle, très détaillé, artistique, premium, artisanal, intemporel.
+Garde la composition avec de vastes zones de blanc pur + une relation visuelle principale. Le sujet peut flotter au centre, ou être légèrement décalé, partiellement recadré ou placé près du bas, en n'utilisant qu'une ligne de frottement au sol grossière, quelques courtes lignes ou très peu de symboles d'environnement pour suggérer l'espace. Les brins d'herbe, le vent, la table, le sol, la fumée, la route, l'ombre ou d'autres informations environnementales doivent être réduits à très peu de marques de craie, afin que le fond reste calme et vide. Globalement, ne cherche pas de scènes complexes, mais laisse une posture, une action, une distance ou une relation porter le récit principal.
 
-Pays : [PAYS]
-Figure principale : [PERSONNE INSPIRÉE PAR LA CULTURE/MODE]
-Animal : [ANIMAL NATIF EMBLÉMATIQUE]
-Monument : [MONUMENT EMBLÉMATIQUE]
-Élément botanique : [PLANTE/FLEUR NATIVE]
-Objets culturels : [2–3 OBJETS]
-Paysage : [PAYSAGE EMBLÉMATIQUE]
+Conserve un système discret de petits textes mêlant raffinement éditorial et ambiance de livre pour enfants. N'écris pas seulement le lieu ou le nom de l'objet, mais extrais de l'émotion, de l'action, de la relation, du temps ou de la petite histoire de la photo un court titre en anglais, accompagné d'une numérotation, d'une formule adaptée, d'un numéro de chapitre ou d'une très courte légende subtile. Le texte peut être de petites lettres typographiques sobres, ou inclure très peu d'écriture manuscrite maladroite, de lettres à la craie ou de formes pas tout à fait régulières, afin qu'il semble appartenir d'origine à cette illustration.
+
+Le texte doit entretenir une relation astucieuse avec les formes : il peut s'aligner sur la ligne du sol, s'étendre dans la direction du mouvement du sujet, se cacher dans de grands espaces blancs, chevaucher légèrement le contour, se coincer dans la forme négative entre deux sujets, ou relier la numérotation au sujet par une fine ligne. Garde « un court titre + 1 à 2 groupes de textes auxiliaires minuscules », faisant du texte une partie du rythme de la composition, et non un titre d'affiche ordinaire.
+
+Globalement, présente les caractéristiques visuelles de « photo originale réelle en haut + noir épais, blanc net, formes simples et texture rugueuse en bas », en maintenant un équilibre subtil entre l'enfantin, le doux, le calme, l'humoristique et le solitaire, tel un vieux livre pour enfants en noir et blanc réédité par un studio de design raffiné. Évite les contours numériques lisses, les traits précis, la lumière et l'ombre réalistes, la peinture épaisse, les effets tridimensionnels, la couleur, le rendu de grandes zones de gris, l'aspect autocollant de dessin animé et l'illustration commerciale calibrée sur modèle.
 ```
 
 </details>
@@ -3186,7 +3371,7 @@ Paysage : [PAYSAGE EMBLÉMATIQUE]
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRlGVgabUAAzBp2.jpg" width="700" alt="Affiche Éditoriale de Pays Dessinée à la Main">
+<img src="https://image.moge.ai/prompt_media/HSFCJ3cagAAMcTi.jpg" width="700" alt="Portrait Duo au Fusain Noir">
 </div>
 
 <br>
@@ -3195,41 +3380,38 @@ Paysage : [PAYSAGE EMBLÉMATIQUE]
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [simeon-sanai](https://x.com/Naiknelofar788) | [X / Twitter](https://x.com/Naiknelofar788/status/2096784452865433604) | 2026-09-07 |
+| [DAAI](https://x.com/zhidawang219555) | [X / Twitter](https://x.com/zhidawang219555/status/2099031654975361099) | 2026-09-13 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2096784452865433604)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099031654975361099)**
 
 </div>
 
 ---
 
-### No. 48: Portrait de Rue Automnal Élégant
+### No. 48: Portrait de Femme en Lehenga Fleuri
 
 ![Catégorie: Photographie & image](https://img.shields.io/badge/Cat%C3%A9gorie-Photographie%20%26%20image-lightgrey)
 
 #### 📚 Description
 
-Portrait ultra-réaliste d'une jeune femme en tenue de luxe dans une rue urbaine mouillée aux feuilles d'automne et lumière douce.
+Portrait éditorial cinématographique d'une jeune femme sud-asiatique en lehenga fleuri rouge et rose, assise près d'une fenêtre sous une douce lumière naturelle.
 
 #### 🌟 Prompt
 
-Photo lifestyle luxueuse ultra-réaliste. Une fille est dans le cadre. Ses cheveux sont très longs, raides …
+Une superbe jeune femme sud-asiatique assise gracieusement près d'une fenêtre sous une douce lumière …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Photo lifestyle luxueuse ultra-réaliste. Une fille est dans le cadre. Ses cheveux sont très longs, raides jusqu'à la taille, avec une raie uniforme et plusieurs mèches tombant sur son visage. Teint lisse. 100% de ressemblance faciale.
-
-Elle porte un pull gris oversize à col roulé avec des manches longues, une jupe en jean noire aux bords effilochés et une ceinture noire d'une marque reconnaissable. Une partie du pull est rentrée dans la jupe. Elle porte des collants noirs en nylon et des bottes noires hautes et ajustées. Ses ongles sont courts et laiteux. Elle porte de petites boucles d'oreilles rondes en or. Elle tient un sac Dior noir à la main et porte un long manteau gris volumineux.
-
-L'image paraît élégante et harmonieuse. Elle se tient dans une rue de la ville avec des pavés mouillés, des façades de bâtiments, des feuilles tombées et des flaques. Un arbre est visible à côté d'elle, avec des branches aux feuilles jaunes suspendues au-dessus. Elle regarde sur le côté avec un doux sourire fermé.
-
-Photographié avec un iPhone 17 Pro Max. L'arrière-plan n'est pas flou. Des nuages sont visibles. Détails de peau élevés. Éclairage doux et tamisé. Photo en direct, sans retouche du visage. Aspect brut.
+Une superbe jeune femme sud-asiatique assise gracieusement près d'une fenêtre sous une douce lumière naturelle du soleil. Elle a de longs cheveux soyeux brun foncé avec une raie au milieu, des mèches encadrant doucement le visage, des yeux marron en amande expressifs, des sourcils naturels et doux, un nez délicat et un beau sourire subtil. Elle porte un magnifique lehenga choli traditionnel indien à imprimé floral rouge et rose avec un chemisier sans manches, un dupatta floral assorti drapé élégamment autour du cou et sur une épaule, et de délicates boucles d'oreilles jhumka traditionnelles en argent.
+  Elle est assise dans une pose détendue et élégante, le corps légèrement tourné vers l'appareil, un bras reposant naturellement, regardant directement l'objectif avec un sourire doux et charmant. Peau naturellement rayonnante, maquillage minimal, lèvres rose tendre, détails du visage réalistes.
+L'arrière-plan est un balcon ou un coin fenêtre lumineux et chaleureux avec des murs couleur crème, un cadre de fenêtre sombre, des plantes vertes feuillues et une belle lumière du jour chaude. Douce lumière du soleil tombant naturellement sur son visage et ses cheveux, photographie cinématographique, faible profondeur de champ, bokeh crémeux, texture de peau réaliste, photographie de portrait DSLR, objectif 85mm, f/1.8, haut niveau de détail, couleurs naturelles, ultra-réaliste, qualité 4K, portrait de mode éditorial, composition verticale, rapport d'aspect 9:16.
+Important : Préservez la même composition globale, pose assise, style de tenue, coiffure, éclairage et esthétique naturelle que l'image de référence.
 ```
 
 </details>
@@ -3237,7 +3419,7 @@ Photographié avec un iPhone 17 Pro Max. L'arrière-plan n'est pas flou. Des nua
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HR5yEV5a4AAeKi9.jpg" width="700" alt="Portrait de Rue Automnal Élégant">
+<img src="https://image.moge.ai/prompt_media/HSO86NWbEAE7-X6.jpg" width="700" alt="Portrait de Femme en Lehenga Fleuri">
 </div>
 
 <br>
@@ -3246,58 +3428,332 @@ Photographié avec un iPhone 17 Pro Max. L'arrière-plan n'est pas flou. Des nua
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Meem](https://x.com/mehvishs25) | [X / Twitter](https://x.com/mehvishs25/status/2098239922549449108) | 2026-09-11 |
+| [Zorvia](https://x.com/ZorviaLux) | [X / Twitter](https://x.com/ZorviaLux/status/2099729570413076599) | 2026-09-15 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2098239922549449108)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099729570413076599)**
 
 </div>
 
 ---
 
-### No. 49: Affiche Éditoriale 1:2 Décentrée
+### No. 49: Fiche Technique de Mode Professionnelle
 
 ![Catégorie: Publicité & produit](https://img.shields.io/badge/Cat%C3%A9gorie-Publicit%C3%A9%20%26%20produit-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche éditoriale de marque haut de gamme en composition 1:2 décentrée, où typographie géante, produit et matières s'imbriquent par couches.
+Transforme une image de référence de tenue en planche de mode haut de gamme avec annotations techniques, palette de couleurs et notes de style.
 
 #### 🌟 Prompt
 
-【Thème】{à remplir, ex. : Lumière de Pomélo / Lumière de Jade / Trace Verte} 【Nom de marque】{à remplir} …
+Créez une fiche technique de design de mode professionnelle premium basée strictement sur l'image de …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-【Thème】{à remplir, ex. : Lumière de Pomélo / Lumière de Jade / Trace Verte}
-【Nom de marque】{à remplir}
-【Produit / Sujet】{à remplir, ex. : parfum, bracelet de jade, céramique, service à thé}
-【Couleur principale】{à remplir}
-【Matériaux auxiliaires】{à remplir, ex. : plantes, pierre brute, éclats d'émail, écorce, bois}
-【Grand titre】{à remplir, 2–4 caractères}
-【Sens de composition】{1:2 / 2:1}
-【Format】{par défaut 9:16}
+Créez une fiche technique de design de mode professionnelle premium basée strictement sur l'image de référence fournie du vêtement/de la tenue.
 
-Génère une affiche éditoriale graphique contemporaine haut de gamme avec une composition 1:2 nettement décentrée : environ 1/3 est un axe d'information de faible densité et environ 2/3 un champ visuel principal de haute densité, avec possibilité d'inversion horizontale. Les deux côtés partagent le même fond et le même univers visuel ; n'utilise pas de cadres évidents, de blocs de couleur à coupes franches ni de gabarits traditionnels à deux colonnes.
+L'image de référence téléchargée est la source primaire et faisant autorité pour le design de la tenue. Analysez-la attentivement et reconstruisez le vêtement le plus précisément possible en préservant son identité de design originale, sa silhouette, ses proportions, ses matériaux, ses couleurs, ses motifs, sa construction, ses accessoires et ses détails distinctifs.
 
-La zone visuelle principale comprend une ancre typographique géante, un produit réel ou sujet central, 1–2 éléments de matière auxiliaire, un petit échantillon d'étude ou de processus de matière, et quelques éléments dynamiques reliant texte et objet. Fais en sorte que texte, produit et matières se chevauchent et s'imbriquent naturellement avec des rapports de profondeur, plutôt que de juxtaposer simplement image et texte.
+Le résultat final doit ressembler à une planche de présentation professionnelle de design de mode / développement de costume haut de gamme, similaire à la fiche de spécification de design interne d'une marque de mode de luxe.
 
-Le titre géant doit assumer le rôle compositionnel principal, avec un corps assez grand pour rester lisible une fois réduit ; le produit ou sujet agit comme deuxième couche visuelle, formant avec le titre une nette différence d'échelle et une interaction spatiale. On peut ajouter des tranches de matière première, des échantillons de processus, de la pierre brute, des plantes, des éclats d'émail et de la photographie de processus, mais ils doivent être nettement inférieurs au titre et au sujet principaux, sans former une troisième colonne ni une distribution uniforme.
+1. VERROUILLAGE DE LA RÉFÉRENCE DE LA TENUE
 
-Garde l'axe d'information sobre, uniquement nom de marque, nom de produit, matière, technique, année et une ou deux phrases de thème réelles. Évite le lorem ipsum, le texte aléatoire, la numérotation, les mentions de copyright et le texte décoratif dénué de sens.
+Utilisez la référence de vêtement téléchargée comme source de vérité du design.
 
-Suis le principe "forme forte de loin, information riche de près" : au premier regard on voit le grand titre, le sujet et la couleur principale ; en agrandissant apparaissent matière, technique, processus et détails. L'information peut être riche, mais le poids visuel doit avoir une hiérarchie claire.
+Préservez :
 
-Limite les couleurs à 2–4 tons centraux, avec une couleur dominante créant un point de mémoire ; fond propre à légère texture de papier ou d'impression, mais sans jaunissement, taches, grain fort ni vieillissement.
+type exact de vêtement et silhouette globale
+couleurs originales et relations de couleurs
+apparence du tissu
+imprimés, motifs, rayures, carreaux, broderies et graphiques
+cols, encolures et revers
+manches, poignets et ourlets
+boutons, fermetures éclair, boucles et fermetures
+poches et coutures
+détails de couture et de construction
+structure de superposition
+sangles, ceintures et quincaillerie
+chaussures
+sacs et autres accessoires visibles
+éléments de design distinctifs
 
-L'image finale doit se situer entre une campagne de marque premium, une affiche éditoriale est-asiatique contemporaine, la photographie de produit et un manuel d'étude de matériaux, avec une réelle valeur commerciale et un sentiment d'œuvre aboutie.
+Ne redessinez pas, ne simplifiez pas, ne modernisez pas, n'embellissez pas et ne remplacez pas la tenue.
 
-Évite : la symétrie centrale, les colonnes égales, les coupes franches gauche/droite évidentes, la structure à trois colonnes, l'aspect PPT, l'UI en cartes, l'accumulation de petites images, l'excès d'éléments décoratifs, le texte insignifiant, le vieillissement excessif, l'allure d'e-commerce bon marché, la matière plastique CGI, la surnetteté, les éclats en étoile, la numérotation, les filigranes et les marques de copyright.
+Si la référence contient plusieurs pièces de vêtement, identifiez et reproduisez chaque composant visible séparément.
+
+Si quelque chose est partiellement caché dans la référence, reconstruisez-le intelligemment tout en restant cohérent avec le design visible.
+
+2. PRÉSENTATION PROFESSIONNELLE DE LA FICHE
+
+Créez une planche de présentation de mode professionnelle verticale 4:5 avec une mise en page éditoriale épurée.
+
+Placez la tenue complète en évidence au centre, présentée comme une visualisation professionnelle de produit/design de mode.
+
+Le vêtement doit être clairement visible de haut en bas.
+
+Utilisez un style de présentation isolé et épuré, de préférence sur un fond neutre très clair / ivoire / blanc chaud sophistiqué.
+
+La composition doit rappeler :
+
+Lookbook de Mode de Luxe + Fiche de Design de Costume + Planche de Spécification Technique de la Tenue
+
+NE faites PAS en sorte que cela ressemble à une photographie de mode ordinaire.
+
+NE placez PAS la tenue sur un mannequin distrayant, sauf si la référence exige spécifiquement une présentation basée sur un mannequin.
+
+Préférez un vêtement flottant épuré / mannequin invisible / tenue disposée professionnellement afin que le vêtement lui-même reste le point focal principal.
+
+3. DÉCOMPOSITION DU DESIGN
+
+Entourez la tenue principale d'annotations professionnelles.
+
+Ajoutez de fines lignes de repère élégantes pointant vers les détails importants du vêtement.
+
+Créez environ 6–10 annotations numérotées de détails, selon le nombre d'éléments significatifs présents dans la référence.
+
+Exemples :
+
+01 — Vêtement Principal
+Identifiez la pièce de vêtement principale et sa construction.
+
+02 — Détail Supérieur
+Décrivez le col, l'encolure, le revers, l'épaule ou la construction supérieure.
+
+03 — Détail de Manche / Poignet
+Décrivez la forme de la manche, la construction du poignet, les boutons ou la finition.
+
+04 — Tissu & Texture
+Décrivez le matériau visible, le tissage, la finition, la texture ou la qualité de surface.
+
+05 — Détail de Motif / Imprimé
+Décrivez les carreaux, rayures, graphiques, broderies, motifs ou éléments décoratifs.
+
+06 — Fermeture / Quincaillerie
+Décrivez les boutons, fermeture éclair, boucle, pressions, chaînes ou autre quincaillerie.
+
+07 — Vêtement Inférieur
+Décrivez pantalon, jupe, short, structure de robe ou autre composant du bas du corps.
+
+08 — Accessoires / Chaussures
+Décrivez chaussures, sac, ceinture, bijoux ou autres accessoires visibles.
+
+N'incluez que les catégories réellement pertinentes pour la référence.
+
+4. PANNEAU MATÉRIAU & DÉTAIL
+
+Ajoutez une section dédiée MATÉRIAU & DÉTAIL.
+
+Montrez plusieurs petits gros plans professionnels de la tenue en vous concentrant sur :
+
+texture du tissu
+couture
+broderie
+boutons
+quincaillerie
+imprimés
+coutures
+garnitures
+détails de construction distinctifs
+
+Chaque gros plan doit ressembler à une photographie de référence professionnelle de développement de mode.
+
+Utilisez de petites étiquettes numérotées sous les détails.
+
+5. PALETTE DE COULEURS
+
+Ajoutez une section PALETTE DE COULEURS.
+
+Extrayez les couleurs dominantes directement de la tenue de référence.
+
+Affichez environ 4–7 échantillons circulaires de couleur épurés.
+
+Sous chaque échantillon, fournissez un nom de couleur professionnel court comme :
+
+Ivoire
+Anthracite
+Bordeaux
+Olive
+Marine
+Sable
+Noir
+
+N'inventez pas de couleurs non liées.
+
+La palette doit représenter avec précision le vêtement réel.
+
+6. NOTES DE COORDINATION / DESIGN
+
+Ajoutez une petite section de texte professionnelle intitulée :
+
+NOTE DE COORDINATION
+
+Expliquez brièvement :
+
+direction stylistique globale
+silhouette
+superposition
+équilibre visuel
+relation entre les vêtements
+langage de design distinctif
+
+Gardez le texte concis et éditorial.
+
+7. POINT D'ATTRAIT
+
+Ajoutez une section intitulée :
+
+POINT D'ATTRAIT
+
+Énumérez environ 4–6 points forts de design courts expliquant ce qui rend la tenue visuellement distinctive.
+
+Les exemples peuvent inclure :
+
+silhouette distinctive
+détails contrastés
+tailoring structuré
+construction en couches
+quincaillerie remarquable
+placement de motif unique
+proportions inhabituelles
+finition raffinée
+
+Ces observations doivent être basées sur la référence réelle.
+
+8. LOGIQUE DE STYLE
+
+Ajoutez une petite section intitulée :
+
+LOGIQUE DE STYLE
+
+Expliquez comment les pièces individuelles fonctionnent ensemble visuellement et pourquoi la combinaison crée le look global.
+
+Gardez-le concis, professionnel et éditorial de mode.
+
+9. TYPOGRAPHIE & DESIGN GRAPHIQUE
+
+Utilisez un système typographique éditorial de mode minimaliste premium.
+
+Utilisez :
+
+typographie serif élégante pour les grands titres
+sans-serif moderne et épuré pour les informations techniques
+séparateurs à ligne fine
+étiquettes numérotées subtiles
+lignes de repère précises
+marges équilibrées
+espace négatif généreux
+hiérarchie éditoriale sophistiquée
+
+La page doit donner l'impression d'un véritable document de design d'une maison de mode de luxe, pas d'une affiche générée par IA.
+
+Ne surchargez pas la page.
+
+10. QUALITÉ D'IMAGE & RÉALISME
+
+Photographie de mode professionnelle ultra-réaliste / visualisation de produit.
+
+Détail extrêmement élevé.
+
+Comportement précis du tissu.
+
+Couture réaliste.
+
+Texture de matériau réaliste.
+
+Construction de vêtement physiquement crédible.
+
+Bords nets du vêtement.
+
+Ombres naturelles.
+
+Éclairage de studio subtil.
+
+Qualité de photographie commerciale premium.
+
+Rendu épuré haute résolution.
+
+Aucune apparence plastique artificielle.
+
+Aucune surface d'aspect CGI.
+
+Aucun vêtement déformé.
+
+Aucun accessoire aléatoire.
+
+Aucun élément décoratif inutile.
+
+11. ADAPTATION UNIVERSELLE DE LA TENUE
+
+Ce prompt doit fonctionner quel que soit le vêtement téléchargé.
+
+La référence peut contenir :
+
+vêtements pour hommes
+vêtements pour femmes
+vêtements pour enfants
+vêtements unisexes
+vêtements décontractés
+vêtements formels
+streetwear
+vêtements de sport
+uniformes
+vêtements traditionnels
+vêtements culturels
+vêtements de mariée
+vêtements de soirée
+costumes fantaisie
+vêtements historiques
+vêtements futuristes
+vêtements d'extérieur
+tenues complètes
+vêtements uniques
+vêtements avec accessoires
+
+Adaptez automatiquement la structure de la fiche à ce qui est réellement présent dans l'image de référence.
+
+Ne forcez pas de sections ou de catégories de vêtements non pertinentes.
+
+Si la référence ne contient qu'un seul vêtement, concentrez la fiche sur ce vêtement.
+
+Si elle contient une tenue complète, documentez la tenue complète.
+
+Si des accessoires sont présents, incluez-les.
+
+Si les accessoires sont absents, ne les inventez pas.
+
+12. RÈGLE DE PRÉCISION ABSOLUE
+
+IMAGE DE RÉFÉRENCE > INTERPRÉTATION CRÉATIVE
+
+La référence téléchargée a toujours la priorité.
+
+Ne changez pas :
+
+identité du vêtement
+silhouette
+couleur
+motif
+proportions
+construction
+détails distinctifs
+
+sauf si nécessaire pour reconstruire une partie masquée qui n'est pas visible.
+
+La fiche finale doit permettre à un designer de mode, costumier, illustrateur ou système de génération d'images par IA de comprendre exactement à quoi ressemble la tenue originale et comment elle est construite.
+
+SORTIE FINALE
+
+Une seule fiche technique de mode professionnelle verticale 4:5 soignée, centrée sur la tenue de référence reconstruite avec précision, avec une mise en page éditoriale élégante, des annotations techniques, des gros plans de matériau/détail, une palette de couleurs, des notes de style et une documentation professionnelle de design de mode.
+
+Esthétique de maison de mode premium.
+Minimal. Sophistiqué. Technique. Éditorial. Ultra-réaliste.
+Aucune créativité inutile. Préservez le design de référence.
 ```
 
 </details>
@@ -3305,7 +3761,7 @@ L'image finale doit se situer entre une campagne de marque premium, une affiche 
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HR7pSd8WEAISOIf.jpg" width="700" alt="Affiche Éditoriale 1:2 Décentrée">
+<img src="https://image.moge.ai/prompt_media/HSKCjU9bQAEw1cu.jpg" width="700" alt="Fiche Technique de Mode Professionnelle">
 </div>
 
 <br>
@@ -3314,47 +3770,57 @@ L'image finale doit se situer entre une campagne de marque premium, une affiche 
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2098371005785723269) | 2026-09-11 |
+| [M. Asif](https://x.com/meAsifAi) | [X / Twitter](https://x.com/meAsifAi/status/2099441779812794437) | 2026-09-14 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2098371005785723269)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099441779812794437)**
 
 </div>
 
 ---
 
-### No. 50: Typographie en Perspective Optique
+### No. 50: Portrait à l'aquarelle d'une femme en sari
 
 ![Catégorie: Visuels créatifs](https://img.shields.io/badge/Cat%C3%A9gorie-Visuels%20cr%C3%A9atifs-lightgrey)
 
 #### 📚 Description
 
-Crée des affiches verticales d'exposition où les mots deviennent des installations spatiales, révélées par des lentilles, prismes, eau et verre polarisé dans un espace architectural minimaliste.
+Crée un élégant portrait à l'aquarelle d'une jeune femme sud-asiatique en sari ivoire orné de jasmin, dans un style botanique délicat.
 
 #### 🌟 Prompt
 
-Créez une affiche verticale 9:16 dans un espace architectural épuré et contemporain, évoquant un musée, avec …
+Créez un portrait à l'aquarelle délicat et élégant d'une jeune femme sud-asiatique portant un sari indien …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Créez une affiche verticale 9:16 dans un espace architectural épuré et contemporain, évoquant un musée, avec une typographie éditoriale minimaliste et une petite figure humaine pour l'échelle. Le style doit évoquer une affiche d'exposition haut de gamme : surfaces de pierre ou de béton pâles, lumière du jour forte, ombres nettes, composition raffinée et atmosphère calme mais saisissante. Faites en sorte que le mot lui-même devienne l'installation, entièrement intégré à l'espace. Ajoutez de petits micro-textes en anglais dans les coins, comme une affiche d'étude de design, mais n'ajoutez aucune marque de copyright ni numéro de page.
+Créez un portrait à l'aquarelle délicat et élégant d'une jeune femme sud-asiatique portant un sari indien traditionnel.
+Correspondance faciale 100%
+Elle a des traits juvéniles et doux, une peau chaude et naturelle, des sourcils foncés expressifs, de longs cils et des cheveux brun foncé/noirs coiffés en chignon bas. Ses cheveux sont ornés d'un beau bouquet de fleurs de jasmin blanches fraîches (gajra). Quelques mèches libres encadrent naturellement son visage.
 
-1. ZOOM
-   Utilisez un concept d'agrandissement. Construisez le mot « ZOOM » à travers une séquence de grands disques circulaires de type lentilles de Fresnel alignés dans l'espace, de sorte que les lettres soient révélées, agrandies et déformées à travers les lentilles. Utilisez une typographie bleue avec de fins accents structurels rouges. Le sol peut porter des lignes graphiques directrices qui font écho à l'effet optique. Le résultat doit sembler précis, optique et spatial.
+Elle porte un sari blanc ivoire doux avec de subtils imprimés floraux vert sauge et une délicate bordure brodée d'argent, associé à un chemisier vert sauge atténué. Elle porte des boucles d'oreilles jhumka en argent traditionnelles et de multiples fins bracelets de verre vert et argent au poignet. Un minuscule bindi noir est centré sur son front.
 
-2. PRISM
-   Utilisez un concept de lumière réfractive. Construisez le mot « PRISM » avec de hauts panneaux de verre transparent dressés dans une cour de musée lumineuse. Chaque panneau doit réfracter et teinter les lettres d'une couleur spectrale semblable à un arc-en-ciel, projetant des reflets irisés et une lumière prismatique sur le sol. La sensation générale doit être lumineuse, aérienne, élégante et très visuelle.
+POSE ET EXPRESSION:
+Elle est assise gracieusement, regardant vers le bas avec un sourire doux et timide. Une main est levée naturellement vers la nuque/les cheveux près des fleurs de jasmin. Sa posture est détendue, féminine, élégante et spontanée.
 
-3. FLOAT
-   Utilisez un concept de flottabilité. Montrez le mot « FLOAT » divisé en grands blocs modulaires de lettres dérivant sur un bassin peu profond d'eau claire à l'intérieur d'un pavillon ouvert minimaliste. Les blocs doivent sembler lourds mais flottants, légèrement amarrés en place, avec de douces ondulations et reflets. Utilisez une typographie bleue sur des formes flottantes pâles. La scène doit sembler calme, architecturale et subtilement surréaliste.
+STYLE ARTISTIQUE:
+Illustration à l'aquarelle peinte à la main hautement détaillée, lavis d'aquarelle doux et translucides, texture délicate du papier, léger fondu des pigments, pinceau fin, détails botaniques élégants, tons de peau naturels, esthétique sud-asiatique traditionnelle raffinée. La femme reste le point focal clair.
 
-4. PHASE
-   Utilisez un concept de polarisation / verre en couches. Construisez le mot « PHASE » à travers une série de panneaux de verre bleu transparent parallèles, de sorte que les lettres ne se résolvent pleinement que par un alignement en couches depuis le bon point de vue. Laissez la lumière traverser le verre et créer de doux reflets bleus sur le sol. La composition doit être minimaliste, précise et visuellement intelligente.
+COMPOSITION:
+Composition de portrait vertical, cadrage à mi-corps à corps entier. Fond de papier aquarelle fait main blanc cassé doux avec un feuillage à l'aquarelle vert sauge lâche et des éclaboussures de peinture abstraites entourant le sujet. Espace négatif aéré, composition éditoriale sophistiquée, équilibre gracieux, éclairage naturel doux.
+
+PALETTE DE COULEURS:
+Blanc ivoire, vert sauge, vert olive atténué, tons de peau beige chaud, subtils accents argentés, avec une atmosphère botanique et sereine.
+
+QUALITÉ:
+Œuvre à l'aquarelle ultra-détaillée, anatomie faciale réaliste, mains et doigts naturels, texture complexe du tissu du sari, belles fleurs de jasmin, illustration de beaux-arts haut de gamme, élégante, intemporelle, sophistiquée, haute résolution.
+
+PROMPT NÉGATIF:
+photographie photoréaliste, rendu 3D, CGI, anime, dessin animé, peau plastique, couleurs sursaturées, ombres dures, visage déformé, yeux asymétriques, mains malformées, doigts supplémentaires, doigts manquants, bijoux dupliqués, anatomie désordonnée, expression artificielle, détails flous, basse résolution, texte, filigrane, logo.
 ```
 
 </details>
@@ -3362,7 +3828,7 @@ Créez une affiche verticale 9:16 dans un espace architectural épuré et contem
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSBUkdxaQAEomgp.jpg" width="700" alt="Typographie en Perspective Optique">
+<img src="https://image.moge.ai/prompt_media/HSLPc5ZbIAA5OsI.jpg" width="700" alt="Portrait à l&#x27;aquarelle d&#x27;une femme en sari">
 </div>
 
 <br>
@@ -3371,13 +3837,13 @@ Créez une affiche verticale 9:16 dans un espace architectural épuré et contem
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2098770655894241502) | 2026-09-12 |
+| [Arina Ai](https://x.com/Arina_hoqe) | [X / Twitter](https://x.com/Arina_hoqe/status/2099468480462663842) | 2026-09-14 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2098770655894241502)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099468480462663842)**
 
 </div>
 
@@ -3461,126 +3927,32 @@ texte original copié, brochure d'intérieur générique, publicité immobilièr
 
 ---
 
-### No. 52: Exposition de musée fictive à partir du profil
+### No. 52: Affiche minimaliste zen orientale
 
 ![Catégorie: Supports marketing](https://img.shields.io/badge/Cat%C3%A9gorie-Supports%20marketing-lightgrey)
 
 #### 📚 Description
 
-Transforme le profil d'une marque ou personne en une affiche éditoriale d'exposition de musée fictive, avec un objet symbolique, de minuscules figures et une typographie audacieuse.
+Crée une affiche de couverture verticale 9:16 de style zen oriental minimaliste : une femme arrange une fleur violet raisin près d'un vase blanc, fond blanc lumineux et zone de titre épurée en haut.
 
 #### 🌟 Prompt
 
-\# Prompt pour générer une publicité d'exposition/musée fictif Tu es un directeur de création publicitaire de …
+Direction thématique : affiche de couverture zen orientale minimaliste Variante de style : esthétique …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-# Prompt pour générer une publicité d'exposition/musée fictif
-
-Tu es un directeur de création publicitaire de premier plan, directeur artistique, designer d'expositions, designer éditorial, designer de marque, typographe, designer UX et marketeur.
-
-Lis le profil de réseau social joint (X, Instagram, note, landing page ou capture de posts) et traduis l'essence de cette personne/marque/service en une **affiche publicitaire éditoriale de haute sensibilité, réinventée comme une exposition de musée fictive**.
-
-Ne reproduis pas l'écran du réseau social, n'affiche ni explication ni analyse ; génère une seule image finale.
-
-## Entrée
-
-Nom de marque/personne
-{{si vide, lire depuis l'image jointe}}
-
-Produit/service/activité
-{{si vide, lire depuis l'image jointe}}
-
-Accroche en japonais
-{{une phrase courte ; si vide, l'IA complète}}
-
-Titre en anglais
-{{si vide, reconstruire en 1–4 mots à partir de la philosophie de la marque}}
-
-Infos complémentaires
-{{3 éléments maximum}}
-
-Taille/ratio
-{{vertical 4:5}}
-
-Usage
-{{post réseau social / annonce de marque / annonce note / pub de cours / présentation de service}}
-
-## Concept
-
-À partir de l'image jointe, lis la philosophie de la marque, la cible, le ton, les couleurs et la valeur offerte, et conçois avec l'idée :
-
-**« Et si la marque elle-même devenait une exposition de musée ? »**
-
-Pas seulement une affiche style musée, mais conçois de façon cohérente :
-
-**philosophie de la marque → thème de l'exposition → objet symbolique → espace, signalétique et typographie**.
-
-Symbole, pas explication. Exposition, pas auto-présentation. Expérience culturelle, pas présentation de produit.
-
-## Exposition principale
-
-Place **un seul objet énigmatique** symbolisant la philosophie de la marque au centre ou au point focal. L'IA peut le concevoir librement selon le thème.
-
-Exemples : sculpture abstraite ; objet typographique géant ; œuvre tridimensionnelle en papier/carton ; structure en acrylique transparent ; objet du quotidien à une échelle anormale ; motif de marque abstrait ; installation utilisant l'espace lui-même.
-
-Ne matérialise pas le travail au sens littéral ; **symbolise l'expérience ou la philosophie qu'offre la marque**. Un seul objet protagoniste, sans multiplier les petits éléments.
-
-## Figures
-
-Place seulement 1 à 3 personnes, **très petites**. Ce ne sont pas le portrait de la marque, mais des visiteurs, un curateur, du petit personnel ou quelqu'un marchant près de l'objet. Ne détaille pas trop les visages ; l'objet et l'espace sont les protagonistes. Les figures créent l'échelle et la narration.
-
-## Système graphique
-
-Conçois toute la composition comme le visuel d'une exposition de musée contemporain. Sélectionne les éléments et n'utilise **que 3 à 5** parmi : titre de l'exposition, numéro, petites légendes, signalétique du lieu, ticket, étiquette d'exposition, grille, dates ou infos fictives. Pas besoin de tout inclure. Non comme décor, mais **unifié comme un système d'identité visuelle de musée**.
-
-## Typographie
-
-L'anglais en protagoniste, peu d'informations. Structure de base : 1. titre 1–4 mots ; 2. nom de marque ; 3. phrase en japonais ; 4. numéro d'exposition ou courte légende ; 5. infos complémentaires, max. 3 éléments.
-
-Exemple :
-
-MIYAMA CREATIVE
-THOUGHTS BECOME FORM
-EXHIBITION 01
-2026
-
-Crée un contraste audacieux entre lettres géantes et minuscules. Utilise surtout des sans-serif contemporaines, condensées et grotesques neutres, avec une impression éditoriale et intellectuelle. Traite le texte comme un élément graphique qui compose l'espace, non comme une simple explication. Le japonais petit et soigné ; texte long ou bandeaux blancs interdits.
-
-## Couleurs
-
-Extrais les couleurs principales de la capture et reconstruis une palette d'exposition raffinée. En principe 3–4 couleurs : fond, protagoniste, typographie, petit accent. Ne répartis pas les couleurs uniformément ; crée un contraste avec de grands aplats et de petits accents. Choisis automatiquement fond blanc, fond coloré ou monochrome + 1 couleur selon le thème.
-
-## Mise en page
-
-Vertical 4:5. Marges larges, avec **un objet + typographie + petites figures** en protagonistes. Basée sur une grille ordonnée, mais avec des décalages, des coupes et des superpositions audacieux par endroits, dans un ton éditorial contemporain. Le regard doit couler : **titre → objet → petites figures → légende**. Ne remplis pas uniformément ; crée un silence d'espace et un point fort unique.
-
-## Direction artistique automatique
-
-Ne fais pas la même affiche pour toutes les marques. Ajuste automatiquement objet, espace, police, couleur, grille, figures, densité d'information et mode d'exposition selon le thème et la cible. Créatif : expérimental et ludique. Tech : intellectuel et structurel. Beauté : sensoriel et silencieux. B2B : précis comme une exposition d'architecture/documentaire. Lifestyle : chaleureux comme une exposition culturelle/de design.
-
-## Interdit
-
-- Reproduire l'écran du réseau social
-- Publicité produit ordinaire
-- Composition seulement avec photo d'intérieur de musée
-- Beaucoup d'objets alignés
-- Figures grandes
-- Visages en protagonistes
-- Beaucoup de légendes/textes explicatifs
-- Dépendance aux serifs style marque de luxe
-- Style modèle Canva
-- Style miniature YouTube
-- Style infoproduit
-- Tickets/étiquettes purement décoratifs
-- Collage brouillon
-- Composition où tout est protagoniste
-
-## Rendu
-
-L'image finale doit être **une affiche publicitaire conceptuelle qui cure la marque elle-même comme une exposition de musée fictive, composée d'un objet symbolique, de figures minuscules, d'une typographie audacieuse, d'un numéro d'exposition, d'une signalétique et d'espace blanc**. Au premier coup d'œil elle éveille la curiosité « quelle exposition est-ce ? » ; en regardant de près, la philosophie de la marque est traduite dans l'objet et les détails. Elle doit tenir avec une silhouette et une typographie fortes même sur mobile, avec une finition de haute qualité, intellectuelle et ludique, comme réellement produite par une institution culturelle ou un musée du design.
+Direction thématique : affiche de couverture zen orientale minimaliste
+Variante de style : esthétique féminine à fort contraste
+Sujet : une femme debout près d'un vase minimaliste, arrangeant doucement une branche fleurie
+Motif émotionnel : raffiné, lumineux, sensation orientale de luxe léger
+Scène et imagerie : espace blanc, fleurs violet raisin, feuilles vert citron vert, vase en porcelaine blanche, femme
+Composition et espace : composition verticale 9:16, vase et personnage dans la moitié inférieure, décalés d'un côté, avec une zone de titre entièrement blanche réservée en haut ; la branche forme le point focal principal
+Contrôle des couleurs : blanc pur ou blanc crème comme base lumineuse, violet raisin uniquement pour les fleurs, vert citron vert pour les feuilles, le vase reste blanc ou beige clair, les vêtements de la femme en blanc chaud clair ; éviter que le violet et le vert ne polluent toute l'image
+Lumière et texture : lumière douce et lumineuse, contours nets, texture d'affiche plate et épurée
+Ratio : 9:16
+Exigences supplémentaires : couleurs vives et modernes, ensemble haut de gamme et raffiné, adapté à une couverture d'esthétique féminine
 ```
 
 </details>
@@ -3588,7 +3960,7 @@ L'image finale doit être **une affiche publicitaire conceptuelle qui cure la ma
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRnUsW0a8AAwe_l.jpg" width="700" alt="Exposition de musée fictive à partir du profil">
+<img src="https://image.moge.ai/prompt_media/HR53tVsaYAAZepS.jpg" width="700" alt="Affiche minimaliste zen orientale">
 </div>
 
 <br>
@@ -3597,77 +3969,38 @@ L'image finale doit être **une affiche publicitaire conceptuelle qui cure la ma
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [ミヤマ](https://x.com/mmmiyama_D) | [X / Twitter](https://x.com/mmmiyama_D/status/2096940963168190873) | 2026-09-07 |
+| [李岳](https://x.com/liyue_ai) | [X / Twitter](https://x.com/liyue_ai/status/2098246112159420546) | 2026-09-11 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2096940963168190873)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2098246112159420546)**
 
 </div>
 
 ---
 
-### No. 53: Estampe Aquarelle d'Hiver
+### No. 53: Personnages géométriques vibrants
 
 ![Catégorie: Illustration & IP](https://img.shields.io/badge/Cat%C3%A9gorie-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Transforme des photos nocturnes hivernales en délicates illustrations aquarelle peintes à la main, au style d'estampe de galerie minimaliste avec typographie manuscrite.
+Crée des personnages illustratifs aux formes géométriques audacieuses, aux traits exagérés et aux couleurs orange et violettes vives avec une texture granuleuse.
 
 #### 🌟 Prompt
 
-Utilise l'image téléchargée comme référence exacte de composition et de sujet. Transforme la photographie …
-
-<details>
-<summary>Afficher le prompt complet</summary>
-
 ```
-Utilise l'image téléchargée comme référence exacte de composition et de sujet. Transforme la photographie nocturne d'origine en une délicate estampe artistique à l'aquarelle peinte à la main, tout en préservant la scène reconnaissable et tous les éléments majeurs.
+--sref 3612025082
 
-Recrée le café Starbucks centré au premier plan, avec son bâtiment sombre et bas, l'enseigne STARBUCKS clairement visible, une lumière intérieure chaude et rayonnante, des sièges/fenêtres extérieurs, des arbres à feuillage persistant tout autour, des lampadaires minimalistes et le majestueux mont Fuji couvert de neige se dressant directement derrière le café. Préserve la perspective, les proportions, le placement et la profondeur atmosphérique d'origine.
-
-Style : illustration à l'aquarelle d'inspiration japonaise traditionnelle sur papier texturé ivoire chaud, élégante et minimale, avec de douces lavis translucides, un léger diffusion de pigment, un grain de papier visible, des coups de pinceau libres peints à la main et des bords d'aquarelle naturellement imparfaits.
-
-Utilise une palette hivernale sobre de bleu cobalt profond, bleu glacé, cyan doux, marine atténué, gris pâle et jaune doré chaud provenant des fenêtres et de l'enseigne du café. Peins le mont Fuji avec de délicates ombres de neige bleu-gris et une brume atmosphérique autour de ses pentes inférieures. Garde le ciel magnifiquement simplifié en dégradés d'aquarelle doux plutôt qu'en détails photographiques.
-
-Crée une composition haut de gamme minimaliste de papeterie / estampe de galerie, avec l'illustration relativement petite et centrée, entourée d'un généreux papier crème vierge.
-
-Sous l'illustration, ajoute une typographie soignée de style manuscrit indiquant exactement :
-
-“coffee · mist · mountain”
-“a quiet moment”
-
-Puis en dessous :
-
-“2024”
-
-La typographie doit être petite, discrète, à l'encre gris-bleu foncé, avec d'authentiques imperfections faites à la main.
-
-Important : garde la marque et l'enseigne Starbucks clairement reconnaissables, préserve la forme distinctive du mont Fuji, n'ajoute pas de personnes, de voitures, de bâtiments supplémentaires ni d'objets inutiles. Pas de photoréalisme, pas d'aspect 3D numérique, pas de contours épais, pas de couleurs sursaturées. Le résultat final doit ressembler à une estampe de voyage japonaise à l'aquarelle, silencieuse, sophistiquée et faite à la main.
-
-Utilise l'image téléchargée comme référence visuelle exacte. Recrée la même maison de banlieue enneigée, le paysage enneigé environnant, le véhicule garé couvert de neige, le lampadaire, l'arbre à feuillage persistant, l'antenne parabolique, les toits et l'horizon hivernal lointain, avec la même composition et perspective d'ensemble.
-
-Transforme la photographie réaliste en une délicate illustration à l'aquarelle peinte à la main sur papier texturé blanc cassé chaud. Préserve l'architecture reconnaissable, le placement, les proportions et les détails clés de la scène d'origine tout en les simplifiant naturellement en élégants coups de pinceau à l'aquarelle. Utilise de doux tons pastel hivernaux—bleu glacé, lavande, rose pâle, crème chaud et gris atténué—avec de subtils lavis transparents et une texture de papier visible.
-
-Le ciel doit avoir de beaux coups de pinceau libres à l'aquarelle rappelant les nuages pastel du coucher de soleil d'origine. Ajoute une douce lumière dorée et chaude rayonnant des fenêtres de la maison et du lampadaire. La neige doit apparaître douce, en couches et légèrement peinte avec de subtiles ombres bleues et lavande.
-
-Crée une esthétique raffinée et chaleureuse d'estampe artistique hivernale, minimale mais atmosphérique, avec un généreux espace de papier vierge autour de l'illustration centrale. Ajoute une petite typographie élégante de style manuscrit sous l'œuvre indiquant :
-
-“Winter Light”
-“2025”
-
-Pas de photoréalisme, pas de contours durs, pas de détails excessifs, pas de personnes, pas d'objets supplémentaires, composition propre et sophistiquée, texture authentique d'aquarelle traditionnelle, illustration haut de gamme faite à la main, douces imperfections naturelles.
+Formes audacieuses, personnalités originales et exagération ludique. Des formes géométriques, des traits surdimensionnés, des oranges et violets vifs et une subtile texture granuleuse donnent à ces personnages un charmant mélange d'illustration éditoriale et de design de dessin animé moderne. Simple, étrange et merveilleusement expressif.
 ```
-
-</details>
 
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRh1p4RaYAAd4a4.jpg" width="700" alt="Estampe Aquarelle d&#x27;Hiver">
+<img src="https://image.moge.ai/prompt_media/HSBJyK-akAAQtBK.jpg" width="700" alt="Personnages géométriques vibrants">
 </div>
 
 <br>
@@ -3676,35 +4009,35 @@ Pas de photoréalisme, pas de contours durs, pas de détails excessifs, pas de p
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Alina Ai](https://x.com/Alina_with_Ai) | [X / Twitter](https://x.com/Alina_with_Ai/status/2096555280306000120) | 2026-09-06 |
+| [OscarAI](https://x.com/Artedeingenio) | [X / Twitter](https://x.com/Artedeingenio/status/2098758673866571785) | 2026-09-12 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2096555280306000120)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2098758673866571785)**
 
 </div>
 
 ---
 
-### No. 54: Portrait N&B aux lèvres magenta
+### No. 54: Portrait haute couture au château
 
 ![Catégorie: Photographie & image](https://img.shields.io/badge/Cat%C3%A9gorie-Photographie%20%26%20image-lightgrey)
 
 #### 📚 Description
 
-Un portrait de studio en noir et blanc à fort contraste d'une jeune femme, avec une colorisation sélective mettant en valeur les lèvres en magenta éclatant.
+Portrait éditorial de luxe d'une femme élégante en robe bleu marine sur le balcon d'un château français au crépuscule.
 
 #### 🌟 Prompt
 
-Un portrait de studio en noir et blanc à fort contraste met en scène une jeune femme saisissante aux cheveux …
+Un portrait de studio haute couture d'une élégante femme blonde debout sur un balcon de pierre orné d'un …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Un portrait de studio en noir et blanc à fort contraste met en scène une jeune femme saisissante aux cheveux foncés courts et ondulés, portant une casquette gavroche foncée texturée et un col roulé noir sous un manteau sombre. Son regard est intense et direct, en connexion avec l'objectif. L'élément artistique principal est la colorisation sélective ; ses lèvres sont rendues dans un magenta-rouge vibrant et profond, créant un point focal dramatique contre la scène par ailleurs monochrome. L'éclairage est atmosphérique et directionnel, sculptant ses traits et la texture de ses vêtements et de sa casquette sur un fond sombre et indistinct. L'esthétique générale est élégante et intemporelle, avec une présence puissante et concentrée.
+Un portrait de studio haute couture d'une élégante femme blonde debout sur un balcon de pierre orné d'un château français au crépuscule. Elle porte une sophistiquée robe bleu marine sans manches dotée d'un bustier transparent et complexe incrusté de cristaux, de perles et de strass scintillants. Elle porte des gants d'opéra en satin bordeaux profond, une main posée gracieusement près de sa clavicule et l'autre sur la rambarde décorative en fer noir. Ses cheveux sont coiffés en un chignon bas latéral et lisse, accessoirisés de boucles d'oreilles en forme de goutte. De douces lumières chaudes en bokeh illuminent les jardins du domaine à l'arrière-plan, créant une esthétique éditoriale de luxe cinématographique et très détaillée, avec une faible profondeur de champ, résolution 8k, éclairage photoréaliste, pris avec un objectif 85 mm.
 ```
 
 </details>
@@ -3712,7 +4045,7 @@ Un portrait de studio en noir et blanc à fort contraste met en scène une jeune
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HR3kN39XUAgDvhK.jpg" width="700" alt="Portrait N&amp;B aux lèvres magenta">
+<img src="https://image.moge.ai/prompt_media/HSOxUzwasAA0HR_.jpg" width="700" alt="Portrait haute couture au château">
 </div>
 
 <br>
@@ -3721,53 +4054,57 @@ Un portrait de studio en noir et blanc à fort contraste met en scène une jeune
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Minahil](https://x.com/Minahil42298354) | [X / Twitter](https://x.com/Minahil42298354/status/2098083943090200606) | 2026-09-10 |
+| [Lavinia](https://x.com/laviniavelle) | [X / Twitter](https://x.com/laviniavelle/status/2099716835998384295) | 2026-09-15 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2098083943090200606)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099716835998384295)**
 
 </div>
 
 ---
 
-### No. 55: Lion de café sculpté dans l'éclaboussure
+### No. 55: Affiche Aérienne Grillade et Whisky
 
 ![Catégorie: Publicité & produit](https://img.shields.io/badge/Cat%C3%A9gorie-Publicit%C3%A9%20%26%20produit-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche de café haut de gamme où café et lait jaillissent d'une tasse pour former un lion rugissant sur fond noir.
+Crée une affiche de luxe en vue de dessus avec un grill central de mets flambés sur pelouse, un titre manuscrit et une bouteille de whisky comme signature de marque.
 
 #### 🌟 Prompt
 
-Crée une affiche commerciale de café ultra-premium de niveau Cannes pour la marque fictive FEROX ROAST, …
+Créez une affiche publicitaire ultra-premium de niveau Cannes pour un dîner au feu vif et whisky en plein air …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Crée une affiche commerciale de café ultra-premium de niveau Cannes pour la marque fictive FEROX ROAST, fusionnant la précision matérielle de Transit avec l'atmosphère mythique d'Orbit tout en préservant rigoureusement le type visuel exact de la référence : un vide de studio quasi noir, une tasse sombre recadrée bas dans le cadre, et une éruption sculpturale violente de café et de lait depuis la tasse qui forme la tête et la crinière supérieure d'un lion rugissant. Garde l'image globale sans texte, sans titre, sans texte promotionnel et sans encombrement graphique supplémentaire. La tasse et le lion liquide doivent rester l'histoire commerciale complète.
+Créez une affiche publicitaire ultra-premium de niveau Cannes pour un dîner au feu vif et whisky en plein air pour une maison de spiritueux fictive appelée EMBER OAK RESERVE, en préservant la logique structurelle exacte d'une affiche d'événement sur pelouse vue de dessus tout en fusionnant atmosphère narrative, réalisme forensique de la nourriture et retenue curatoriale. La composition est carrée ou presque carrée et vue directement de dessus : un champ d'herbe verte richement texturé remplit tout l'arrière-plan, un grill rectangulaire central chargé de mets impeccablement disposés et léchés par les flammes ancre l'image, un titre manuscrit géant en anglais balaie la partie supérieure-centrale au-dessus du grill, une petite ligne de présentateur se place en haut, un bloc de date en gras se place en bas à gauche, une tuile discrète de responsabilité d'âge se place en bas à droite, une bande minimale de sponsor ou d'hôte court le long du centre inférieur, et une bouteille de whisky premium se dresse comme héros-signature du produit sur le bord inférieur droit. L'image finale doit ressembler à un rituel de barbecue de luxe plutôt qu'à un tract bruyant d'événement.
 
-Composition centrale : utilise une affiche verticale avec une tasse en céramique sombre positionnée bas et centralement, partiellement recadrée par le bord inférieur pour paraître proche et monumentale. Depuis la surface de la tasse, le café et la crème explosent vers le haut en une transformation fluide continue, formant un lion rugissant en profil de trois quarts. La tête du lion doit dominer le cadre médio-supérieur, clairement lisible à travers la structure liquide, avec la crinière s'évasant vers l'arrière et l'extérieur en jets asymétriques d'éclaboussures. L'éclaboussure doit paraître puissante mais contrôlée, la silhouette principale du lion étant toujours plus forte que les gouttelettes périphériques. Préserve un fond noir propre pour que la forme en éruption maintienne un contraste maximal et une dominance héroïque.
+Composition centrale : gardez le champ d'herbe large et ouvert pour que la mise en page respire. Positionnez le grill légèrement au-dessus du centre, s'étendant horizontalement à travers le cadre, avec des mets soigneusement mis en scène pour une lisibilité instantanée à distance d'affiche. Superposez au grill un grand et élégant titre manuscrit comme "The Fire Table" ou "The Flame Hour", rendu en écriture blanc-chaud crémeuse avec une forte autorité et un flux gracieux. Au-dessus, placez une ligne compacte de présentateur en majuscules comme "EMBER OAK RESERVE PRESENTS". Sous le grill, gardez une ligne de sous-titre retenue comme "A whisky and live-fire gathering". En bas à gauche, ajoutez une tuile de date rouge-braise solide avec des informations empilées. En bas à droite, placez un raffiné badge de style "21+ / SIP WISELY". Le long du centre inférieur, gardez seulement une bande minimale d'hôte et de partenaires avec des marques éparses et un espacement propre.
 
-Précision matérielle Transit : rends la sculpture liquide avec un détail de classe mondiale. Le café sombre doit paraître dense, chaud, torréfié et sirupeux, avec des bords bruns translucides, des cœurs plus épais brillants et une tension fluide réaliste. Les composants de lait et de mousse doivent paraître soyeux, crémeux et légèrement aérés, définissant les plans faciaux du lion, la joue, la mâchoire, le museau et les reflets de la crinière. Le bord de la tasse doit montrer un résidu humide, une perturbation de mousse, de subtiles traces d'éclaboussures et un éclat céramique précis. La surface du café dans la tasse doit paraître physiquement active, comme si le lion s'arrachait d'un champ de crema fraîchement agité. Chaque gouttelette, feuille, ruban et poche de mousse doit obéir à une physique d'éclaboussure à grande vitesse crédible.
+Atmosphère Orbit : l'affiche doit évoquer un rassemblement de fin d'été à l'heure dorée sur une pelouse privée juste avant que la nuit ne tombe. Les braises, la fumée, les mets grillés et le whisky doivent porter un sentiment d'anticipation mûre, d'intimité et de chaleur sociale. L'herbe n'est pas qu'un arrière-plan ; elle devient la scène calme sous le rituel du feu, de la nourriture et du spiritueux ambré. L'ambiance doit être chaleureuse, magnétique et haut de gamme, avec un silence légèrement cinématographique plutôt qu'un chaos de festival.
 
-Atmosphère Orbit : approfondis le ton émotionnel en un mythe nocturne de force éveillée par le café. Le lion ne doit pas paraître comme un animal collé d'une autre source, mais comme l'énergie de torréfaction elle-même devenant une bête dans le noir. Laisse la crinière paraître comme une puissance chaude et une force vaporisée, comme si le rugissement naissait de l'arôme, de la chaleur et de l'impact. Le champ noir doit rester velouté et vide, rendant l'explosion cérémonielle, primale et iconique, comme un emblème sacré de puissance émergeant dans l'obscurité.
+Réalisme Transit : rendez chaque objet avec une précision commerciale de classe mondiale. Le grill doit montrer des barres noircies par la chaleur, un résidu subtil de carbone et des reflets métalliques crédibles. Les saucisses doivent avoir des peaux tendues et cloquées avec de vraies marques de grill ; les brochettes doivent montrer des légumes et de la viande caramélisés avec une carbonisation appropriée ; le steak ou la côtelette plus grande doit porter une graisse fondue brillante, une croûte saisie et des reflets juteux. Le maïs, les poivrons et les morceaux de poulet doivent sembler fraîchement finis au feu, pas trop stylisés. Les étincelles de braise doivent être éparses et physiquement plausibles. La fumée doit s'élever en rubans fins et élégants avec une transparence douce et sans brume trouble. La bouteille de whisky doit montrer un verre épais et clair, une géométrie d'épaule précise, une impression d'étiquette réaliste, un détail de col propre et un liquide ambré dense avec une profondeur interne lumineuse.
 
-Logique de forme du lion : le visage doit rester féroce et lisible, avec un front sculpté fluidement, une bouche ouverte, une expression rugissante et une direction de crinière entraînée par l'élan de l'éclaboussure. Les dents et l'intérieur de la bouche doivent être suggérés par la forme liquide et la sculpture tonale plutôt que par une anatomie collée littérale. Le lion doit se lire instantanément, tout en paraissant entièrement fait de café et de lait. Souligne la tension où le visage transitionne vers les éclaboussures sauvages de la crinière, pour que l'image paraisse à la fois animale et fluide.
+Retenue Port : simplifiez la mise en page en une déclaration plus curatée. Gardez seulement le titre géant en écriture, le festin central du grill, la petite ligne de présentateur, un sous-titre, le bloc de date, la tuile d'âge, une bande de partenaires inférieure compacte et la bouteille. Supprimez les badges supplémentaires excessifs, le désordre bruyant des sponsors et le surplus décoratif. Laissez le contraste d'échelle entre l'herbe ouverte, le grill central et la bouteille-héros créer le luxe.
 
-Éclairage : utilise un éclairage de studio dramatique avec une lumière clé directionnelle chaude depuis le haut avant-gauche et une séparation de contour contrôlée le long des bords d'éclaboussures et des champs de gouttelettes. Laisse les reflets voyager à travers les membranes de café, les plis de crème et les bords de mousse, donnant au lion liquide une définition sculpturale de niveau musée. Garde la tasse lisible mais secondaire à la tête du lion. Le fond doit rester sombre et propre, sans contamination environnementale.
+Conception du produit héros : créez une bouteille de collection pour EMBER OAK RESERVE avec du whisky ambré chaud, du verre premium épais, un système d'étiquette crème-et-charbon raffiné et un subtil accent vert profond ou bleu marine. La bouteille doit se placer près du bord inférieur droit, dressée et clairement lisible, captant une lumière de contour chaude de la zone du grill et de doux reflets de lumière du jour venant du dessus. Elle doit sembler digne d'un cadeau, mûre et premium, comme un single malt haut de gamme fait pour les rituels du soir en plein air. La bouteille est l'ancre commerciale qui confirme le prestige de l'événement.
 
-Direction de couleur : construis l'image autour de 60% brun espresso sombre, profondeur de café noir et moka torréfié, 30% blanc-crème, beige latte et lumière de mousse de cappuccino, et 10% reflets ambre-doré et reflets céramiques. La palette globale doit paraître noble, chaude, luxueuse et intense.
+Éclairage : utilisez une lumière naturelle du haut vive avec la chaleur de fin d'après-midi et une subtile contribution de feu vif. L'herbe doit rester nette et dimensionnelle, les mets du grill doivent briller d'une caramélisation appétissante, et la bouteille doit capter des reflets ambrés premium et de bord de verre. L'accent le plus lumineux doit rester sur le centre du grill et la zone de l'étiquette de la bouteille. Évitez les taches noires mortes, les ombres troubles, la fausse lueur orange ou l'éclat de feu excessif.
 
-Intention de design : l'affiche finale doit paraître comme un emblème mythique de café exprimé à travers une sculpture liquide à grande vitesse. Elle doit préserver la même image de choc de catégorie exacte de la référence tout en élevant à la fois le réalisme tactile et la puissance émotionnelle. Le spectateur doit lire la force, l'intensité de torréfaction et l'énergie de café premium immédiatement à partir de la tasse et de l'éruption en forme de lion seules.
+Matériau et texture : accentuez la densité des brins d'herbe, l'usure thermique du métal du grill, le cloquage de la saucisse, la croûte du steak, les peaux des légumes rôtis, la texture du bois de la brochette, la transparence de la fumée, les points de braise, l'épaisseur du verre, la réfraction du liquide, le grain du papier de l'étiquette et la finition premium de la bouteille sans condensation. Chaque matériau doit sembler physiquement réel, coûteux et photographié dans une configuration studio-rencontre-extérieur de classe mondiale.
 
-Style de rendu : publicité de café de luxe ultra-photoréaliste, affiche de studio sombre sans texte, lion rugissant sculpté de café et de lait, réalisme d'éclaboussure de niveau Transit, atmosphère de bête nocturne de niveau Orbit, clair-obscur cinématographique, direction artistique de boissons de classe mondiale, détail 8k.
+Hiérarchie des couleurs : 60% vert d'herbe naturelle et tons profonds de pelouse extérieure ; 30% orange braise, brun grillé, tons de viande caramélisée et or ambré de whisky ; 10% typographie ivoire chaude, blocs d'information rouge-braise et reflets nets d'étiquette. La palette doit sembler riche, fumée, estivale et premium.
 
-Prompt négatif : titre visible, logo, texte d'emballage, éléments de mise en page supplémentaires, lion de dessin animé, visage d'animal collé, hiérarchie faible de la tasse, liquide boueux, crème plastique, éclaboussure chaotique, gouttelettes peu détaillées, anatomie de lion cassée, éclairage plat, fond désordonné, esthétique bon marché de boisson énergisante, rendu fantastique de bas niveau, composition bruyante
+Intention de conception : l'affiche finale doit préserver la logique d'impact exacte de l'image source—arrière-plan d'herbe, festin central sur le grill, titre géant en écriture, ligne de présentateur en haut, blocs d'information inférieurs, bande de partenaires inférieure et bouteille de whisky latérale—tout en fusionnant l'atmosphère Orbit, le réalisme Transit et la curation minimale Port en une image de campagne de luxe résolue. Le grill crée la mythologie du rassemblement, mais la bouteille de whisky définit l'autorité et le désir de la marque.
+
+Style de rendu : publicité d'événement de luxe ultra-photoréaliste, affiche éditoriale premium de barbecue, campagne de nourriture lifestyle vue de dessus, intégration raffinée de produit de whisky, atmosphère cinématographique de braise, hiérarchie graphique retenue, retouche commerciale de classe mondiale, finition impeccable prête à imprimer.
+
+Prompt négatif : texte original copié, vrais noms de marques, style bon marché de tract d'événement, rangée de sponsors encombrée, herbe trouble, mets grillés peu détaillés, fausse fumée, flammes de dessin animé, bouteille d'aspect plastique, étiquette illisible, géométrie de grill déformée, étincelles excessives, accessoires aléatoires, taches noires, perspective distordue, mise en page désordonnée, filigrane
 ```
 
 </details>
@@ -3775,7 +4112,7 @@ Prompt négatif : titre visible, logo, texte d'emballage, éléments de mise en 
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HR7Q4Q-bcAAJl5q.jpg" width="700" alt="Lion de café sculpté dans l&#x27;éclaboussure">
+<img src="https://image.moge.ai/prompt_media/HSKsdwnaMAAcOwm.jpg" width="700" alt="Affiche Aérienne Grillade et Whisky">
 </div>
 
 <br>
@@ -3784,36 +4121,61 @@ Prompt négatif : titre visible, logo, texte d'emballage, éléments de mise en 
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2098344166489293224) | 2026-09-11 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2099430036063613142) | 2026-09-14 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2098344166489293224)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099430036063613142)**
 
 </div>
 
 ---
 
-### No. 56: Bambou à l'encre zen orientale
+### No. 56: Série d'Affiches Mode Circulaire
 
 ![Catégorie: Visuels créatifs](https://img.shields.io/badge/Cat%C3%A9gorie-Visuels%20cr%C3%A9atifs-lightgrey)
 
 #### 📚 Description
 
-Crée une composition éditoriale minimaliste orientale de bambou à l'encre libre, d'une élégance sereine.
+Crée une série d'affiches mode 9:16 où la mannequin interagit directement avec une grande structure circulaire, dans le style des couvertures de magazines de luxe.
 
 #### 🌟 Prompt
 
+Crée une série d'affiches éditoriales haute couture 9:16 construite autour d'un élégant cadrage circulaire et …
+
+<details>
+<summary>Afficher le prompt complet</summary>
+
 ```
-Éditorial minimaliste oriental × charme serein et élégant × composition à l'encre libre expressive × bambou
+Crée une série d'affiches éditoriales haute couture 9:16 construite autour d'un élégant cadrage circulaire et d'une interaction directe entre la mannequin et la forme circulaire.
+
+Le style général doit évoquer les couvertures de magazines de mode internationaux, les campagnes couture et la photographie éditoriale de luxe : éclairage de studio raffiné, peau et tissu réalistes, fonds épurés, typographie serif sophistiquée, espace négatif maîtrisé et forte hiérarchie visuelle.
+
+Le cercle ne doit jamais sembler être un simple graphisme de fond. Il doit faire partie du stylisme, de la pose, du vêtement ou du décor physique, la mannequin s'y asseyant, le traversant, le portant ou l'ouvrant activement.
+
+Garde toute la typographie en anglais, avec de grands titres éditoriaux mode et une petite quantité de texte secondaire pertinent. Évite les logos, filigranes, étiquettes numérotées, fausses marques de magazine et textes de remplissage sans intérêt.
+
+Pour ce troisième ensemble, crée quatre variations d'affiche indépendantes sous le même système visuel :
+
+1. « PLEATED ORBIT » — une femme en robe bordeaux profond traversant une énorme structure circulaire rose pâle faite de plis couture radiaux, écartant doucement un pli tandis que des couches de tissu passent devant et derrière son corps, doux et élégant mais visuellement saisissant.
+
+2. « SCARLET EXIT » — une femme dans un look mode noir structuré sortant par un monumental anneau épais rouge écarlate, une jambe encore à l'intérieur et l'autre déjà dehors, avec un contact visuel direct, un mouvement fort, un fond ivoire épuré et une audacieuse énergie de couverture de magazine.
+
+3. « HALO FORM » — un gros plan beauté éditorial d'une femme aux cheveux courts en robe noire minimaliste portant un immense col couture circulaire en cuivre bruni autour des épaules, une partie du cercle ouverte pour qu'une épaule et une main percent la structure.
+
+4. « ECLIPSE LOUNGE » — un jeune homme en tailleur ivoire chaud et tabac assis naturellement sur la courbe intérieure d'une monumentale sculpture en croissant ambre brûlé, posture détendue, fond crème doux, éclairage chaleureux de luxe et ambiance éditoriale masculine raffinée.
+
+Les quatre images doivent former une seule histoire de mode tout en utilisant des relations complètement différentes entre le corps et le cercle. Garde les visuels soignés, élégants, modernes et assez forts pour fonctionner comme couvertures de magazine ou affiches de campagne.
 ```
+
+</details>
 
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSAInpCbkAAgBcx.jpg" width="700" alt="Bambou à l&#x27;encre zen orientale">
+<img src="https://image.moge.ai/prompt_media/HSLDsB5WcAETkXj.jpg" width="700" alt="Série d&#x27;Affiches Mode Circulaire">
 </div>
 
 <br>
@@ -3822,13 +4184,13 @@ Crée une composition éditoriale minimaliste orientale de bambou à l'encre lib
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [DeepBlue深藍](https://x.com/DeepBlueX0) | [X / Twitter](https://x.com/DeepBlueX0/status/2098686915092631789) | 2026-09-12 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2099463499588018438) | 2026-09-14 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2098686915092631789)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099463499588018438)**
 
 </div>
 
@@ -4239,58 +4601,31 @@ La force visuelle doit provenir d'une géométrie précise, d'un béton minéral
 
 ---
 
-### No. 58: Affiche à Cadrage Axial Central
+### No. 58: Affiche Éditoriale de Conférence Académique
 
 ![Catégorie: Supports marketing](https://img.shields.io/badge/Cat%C3%A9gorie-Supports%20marketing-lightgrey)
 
 #### 📚 Description
 
-Crée une affiche culturelle à fort impact où deux grands éléments latéraux encadrent un axe central avec titre audacieux, négatif ou motif.
+Crée une affiche éditoriale mêlant photographie réelle et plans géométriques de couleur pure avec une typographie sculpturale pour promouvoir une conférence académique.
 
 #### 🌟 Prompt
 
-[Thème]: \_\_\_\_ [Titre principal en chinois]: \_\_\_\_ [Titre en anglais]: \_\_\_\_ [Sujet gauche]: \_\_\_\_ [Sujet droit]: …
+😃🙂🫤 Avec un thème clair comme noyau narratif, compose une œuvre visuelle éditoriale où la photographie et la …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-[Thème]: ____
-[Titre principal en chinois]: ____
-[Titre en anglais]: ____
-[Sujet gauche]: ____
-[Sujet droit]: ____
-[Contenu de l'axe central]: titre / figure / plante / espace négatif / autre ____
-[Mode de cadrage]: négatif en arc / perspective spatiale / matière souple / équilibre de deux objets / autre ____
-[Couleur de fond principale]: ____
-[Matière et style du sujet]: ____
-[Date / Lieu]: ____
-[Proportion]: 9:16
+😃🙂🫤
+Avec un thème clair comme noyau narratif, compose une œuvre visuelle éditoriale où la photographie et la composition graphique se pénètrent mutuellement : utilise un ensemble d'objets ou de scènes réels et tangibles du thème comme ancrage émotionnel, en conservant volume, reflets, occlusions et subtile asymétrie sous une lumière naturelle, comme s'ils étaient disposés sur une scène d'exposition silencieuse ; puis insère deux ou trois plans géométriques de couleur pure fortement directionnels, qui peuvent se plier, masquer, s'étendre et dépasser les bords du sujet, telle une architecture transparente, un cadre de scène ou une mise en page démontée, restratifiant premier plan, plan intermédiaire et arrière-plan, tout en laissant de grandes zones sombres ou peu chargées pour respirer. Les contours, symboles ou actions clés du thème sont abstraits de la zone photographique, formant un événement visuel clair entre les plans géométriques, en conservant quelques détails pour que réalisme et concept coexistent. Utilise une police étroite et allongée, un logotype iconique ou le texte du thème portant le plus grand poids visuel comme poutre structurelle, donnant au texte une hauteur sculpturale, des lignes continues et un blanc mesuré ; le reste des informations se répartit en texte éditorial plus petit, régulier et aéré sur les bords ou les vides, formant titre principal, mentions annexes et date/lieu comme des voix distinctes ; la direction du texte peut suivre les axes des plans géométriques, et le chinois, l'anglais ou d'autres systèmes d'écriture conservent la personnalité des lettres et la hiérarchie de l'information. Extrais la couleur principale du thème lui-même, de la lumière de la scène ou d'un imaginaire culturel : une couleur structurelle profonde stabilise fond et ombres, une couleur vive d'ouverture soutient les plans géométriques, et une couleur focale très identifiable ne se pose que sur l'événement thématique ou peu de texte ; contrôle l'ordre de lecture par une division claire d'ombre et de lumière et une saturation limitée. Les surfaces présentent des textures photographiques réelles de verre, céramique, métal, tissu ou papier ; les plans géométriques gardent des bords nets et épais, et aux jonctions construis l'espace par transparence, ombres portées et superposition de couleur ; l'arrière-plan conserve des indices d'environnement reconnaissables mais discrets ; enfin, fais en sorte que information, objets, blocs de couleur et vide apparaissent comme une même architecture temporaire, produisant une expérience de contemplation calme, mystérieuse et empreinte d'un rituel d'exposition.
 
-Génère une affiche de "cadrage axial central" à fort impact visuel et à l'allure raffinée d'une exposition culturelle.
-
-Établis d'abord un axe vertical central clair et stable ; laisse ensuite le [sujet gauche] et le [sujet droit] créer du poids visuel des deux côtés, poussant le titre, la figure, la plante ou la zone négative vers le centre.
-
-Les sujets latéraux doivent être assez grands, près des bords et avec un recadrage naturel autorisé, portant ensemble le poids visuel principal. Les deux côtés peuvent différer par le contour, la taille, la couleur, la matière et le détail, mais le poids visuel global doit être équilibré, en évitant la copie simple et le miroir mécanique.
-
-Choisis le mode de cadrage selon le thème :
-
-les sujets ronds ou en arc peuvent cadrer un négatif central par leur contour ;
-les sujets spatiaux comme les bâtiments ou paravents peuvent former un axe en profondeur par la perspective ;
-les matières souples comme les tissus ou plantes peuvent former un cadrage doux par courbure naturelle ;
-les objets, figures ou artefacts peuvent renforcer le titre central par équilibre latéral.
-
-L'axe central doit être la zone de lecture la plus importante. Le titre principal en chinois utilise un corps typographique grand et audacieux, pouvant être vertical, mixte vertical-horizontal, avec variation d'échelle, occlusion partielle ou légère superposition avec le sujet, faisant que la typographie participe vraiment à la composition et non simplement placée en haut.
-
-Autorise un nœud visuel de faible poids sur l'axe, comme une figure minuscule, une branche, un frottage de motif, une esquisse structurelle ou un schéma d'étude, pour donner au centre à la fois du focus et des couches, sans former un troisième sujet de même niveau.
-
-La densité d'information peut être riche mais concentrée sur 2–3 zones : information centrale de l'axe, colonnes latérales et informations d'exposition en bas. Crée un contraste de taille net entre titre géant et texte minuscule, sans disperser le petit texte uniformément sur tout le cadre.
-
-Utilise une couleur dominante claire en grande surface pour l'identité, comme le rouge vermillon, le bleu cobalt, le jaune citron, le vert herbe, le bleu cyan, le brun foncé ou l'orange kaki. Garde au total 3 à 5 couleurs principales, en créant du contraste par la matière du sujet, la typographie et de minimes touches de couleur.
-
-Principe central : ce n'est pas une simple "symétrie gauche-droite", mais l'usage du poids visuel des deux côtés pour façonner le centre. Les côtés pressent, l'axe focalise ; la structure est stable, mais les détails peuvent différer.
-
-Exigence générale : axe fort, sujets forts, gamme chromatique forte, design clair, information riche mais non confuse, bords nets, texte lisible, matières réelles, avec la finition d'une affiche mature d'exposition culturelle et de design éditorial.
+——————
+Thème : International Conference on English and American Studies
+Usage : affiche promotionnelle
+Texte : anglais
+Ratio 9:16
+😆😁😂
 ```
 
 </details>
@@ -4298,7 +4633,7 @@ Exigence générale : axe fort, sujets forts, gamme chromatique forte, design cl
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRcgi30WIAIwNZR.jpg" width="700" alt="Affiche à Cadrage Axial Central">
+<img src="https://image.moge.ai/prompt_media/HRs6OLFbIAIQfj6.jpg" width="700" alt="Affiche Éditoriale de Conférence Académique">
 </div>
 
 <br>
@@ -4307,46 +4642,36 @@ Exigence générale : axe fort, sujets forts, gamme chromatique forte, design cl
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2096180343850074303) | 2026-09-05 |
+| [小小东](https://x.com/xiaoxiaodong01) | [X / Twitter](https://x.com/xiaoxiaodong01/status/2097334284465922470) | 2026-09-08 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2096180343850074303)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2097334284465922470)**
 
 </div>
 
 ---
 
-### No. 59: Illustration éditoriale de style saoudien
+### No. 59: Gribouillis Fantaisistes Dessinés à la Main
 
 ![Catégorie: Illustration & IP](https://img.shields.io/badge/Cat%C3%A9gorie-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Crée une illustration éditoriale caricaturale de thème saoudien avec texture artisanale, contours de pinceau imparfaits et palette chaude et terreuse.
+Crée une illustration simple et enjouée d'un personnage aux traits dessinés à la main, aux proportions fantaisistes et à l'expression charmante sur fond blanc.
 
 #### 🌟 Prompt
 
-Crée une charmante illustration éditoriale de thème saoudien de [personnage ou élément principal] [action ou …
-
-<details>
-<summary>Afficher le prompt complet</summary>
-
 ```
-Crée une charmante illustration éditoriale de thème saoudien de [personnage ou élément principal] [action ou pose] dans [lieu ou environnement]. La scène comprend [éléments et accessoires environnants].
-Le personnage porte [vêtements et détails] et a [traits ou détails supplémentaires].
-Utilise un style d'illustration cartoon texturé et artisanal, avec des traits expressifs simplifiés, des contours de pinceau noirs audacieux et imparfaits, des détails faciaux minimaux et des proportions légèrement exagérées. Utilise une palette de couleurs chaude et terreuse comprenant brun foncé, terracotta, beige sable, vert olive, or atténué et noir.
-Toute l'illustration a l'apparence d'un papier imprimé fait à la main avec un grain de papier visible, des textures rugueuses de pinceau sec, des détails au crayon de couleur, de subtiles imperfections de peinture et des surfaces organiques en couches. Composition graphique plate, traits expressifs dessinés à la main, illustration éditoriale contemporaine, narration culturelle saoudienne sophistiquée, atmosphère artistique et chaleureuse. Évite le photoréalisme, les surfaces brillantes et le rendu 3D.
+Une illustration simple d'un [sujet] portant [tenue], [faisant une action], avec une expression [expression faciale], des traits dessinés à la main et enjoués, des proportions fantaisistes, des détails minimaux, un langage corporel expressif, une personnalité fantasque, un fond blanc épuré, une charmante esthétique de dessin éditorial contemporain
 ```
-
-</details>
 
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HRdvXVxbYAA-yin.jpg" width="700" alt="Illustration éditoriale de style saoudien">
+<img src="https://image.moge.ai/prompt_media/HR2bII6a0AAoa1z.jpg" width="700" alt="Gribouillis Fantaisistes Dessinés à la Main">
 </div>
 
 <br>
@@ -4355,38 +4680,36 @@ Toute l'illustration a l'apparence d'un papier imprimé fait à la main avec un 
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Hana_هانا](https://x.com/Ha9n0) | [X / Twitter](https://x.com/Ha9n0/status/2096266615415329037) | 2026-09-05 |
+| [Amira Zairi](https://x.com/azed_ai) | [X / Twitter](https://x.com/azed_ai/status/2098003579449794570) | 2026-09-10 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2096266615415329037)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2098003579449794570)**
 
 </div>
 
 ---
 
-### No. 60: Portrait éditorial mode en noir et blanc
+### No. 60: Portrait éditorial de mariée indienne
 
 ![Catégorie: Photographie & image](https://img.shields.io/badge/Cat%C3%A9gorie-Photographie%20%26%20image-lightgrey)
 
 #### 📚 Description
 
-Crée un portrait masculin monochrome à fort contraste en style streetwear avec une lumière solaire diagonale dramatique sur un mur de béton.
+Crée un portrait éditorial ultra-réaliste d'une jeune femme sud-asiatique en lehenga rose brodé et bijoux de mariée dorés sur fond beige de studio.
 
 #### 🌟 Prompt
 
-Créez un portrait éditorial haute couture en noir et blanc d'un jeune homme aux cheveux foncés épais et …
+Créez un portrait éditorial ultra-réaliste et haut de gamme d'une jeune femme sud-asiatique portant un …
 
 <details>
 <summary>Afficher le prompt complet</summary>
 
 ```
-Créez un portrait éditorial haute couture en noir et blanc d'un jeune homme aux cheveux foncés épais et naturellement bouclés, portant un t-shirt noir oversize avec un petit logo minimaliste « NOCTIS » centré sur la poitrine, superposé à une chemise blanche à manches longues. Il porte un jean foncé ample avec une chaîne de portefeuille argentée pendant à la taille et des bijoux discrets.
-Il se tient décontracté contre un mur de béton texturé, les deux mains dans les poches. Sa tête est légèrement inclinée vers le haut, regardant avec assurance vers l'objectif avec une expression calme et sérieuse. Un fort faisceau diagonal de lumière solaire traverse le mur et son visage, créant une ombre dure et dramatique de sa silhouette derrière lui.
-Photographie monochrome à fort contraste, noirs profonds, hautes lumières éclatantes, texture de peau détaillée, cheveux bouclés naturels, éclairage directionnel dramatique, composition minimaliste, esthétique de magazine de mode, léger grain argentique.
-Composition verticale 4:5, cadrage mi-plein pied, objectif 50 mm, détails du visage nets, ombres cinématographiques, photographie professionnelle studio-éditorial, photoréaliste, 4K.
+Créez un portrait éditorial ultra-réaliste et haut de gamme d'une jeune femme sud-asiatique portant un élégant lehenga choli rose pâle brodé avec un délicat travail floral au fil, de fines paillettes et un dupatta bleu clair transparent doté d'une magnifique bordure rose ornée. Elle a de longs cheveux foncés volumineux et naturellement ondulés retombant sur une épaule. Ajoutez des bijoux de mariée indiens traditionnels : un collier ras-de-cou orné d'or et de perles, de longues boucles d'oreilles chandelier assorties et un délicat maang tikka. Maquillage naturel, lèvres rose doux, léger kajal, texture de peau réaliste, sourire gracieux et doux, regard légèrement de côté.
+Utilisez un fond de studio beige chaud avec un éclairage doux et diffus, des ombres subtiles, une photographie de mode de luxe sophistiquée, une texture de tissu réaliste, une broderie détaillée, des proportions naturelles, des détails faciaux nets, une faible profondeur de champ, une qualité DSLR photoréaliste, une composition élégante et intemporelle. Pas de texte, pas de filigrane, pas de peau d'aspect artificiel, pas de retouche excessive
 ```
 
 </details>
@@ -4394,7 +4717,7 @@ Composition verticale 4:5, cadrage mi-plein pied, objectif 50 mm, détails du vi
 #### 🌁 Image générée
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HR3GmTNasAIZWmE.jpg" width="700" alt="Portrait éditorial mode en noir et blanc">
+<img src="https://image.moge.ai/prompt_media/HSOv7P9XQAA5BZJ.jpg" width="700" alt="Portrait éditorial de mariée indienne">
 </div>
 
 <br>
@@ -4403,13 +4726,13 @@ Composition verticale 4:5, cadrage mi-plein pied, objectif 50 mm, détails du vi
 
 | Auteur | Source | Publié le |
 | :---: | :---: | :---: |
-| [Harboris](https://x.com/harboriis) | [X / Twitter](https://x.com/harboriis/status/2098051393538134448) | 2026-09-10 |
+| [Zarnish](https://x.com/ZarnishNael) | [X / Twitter](https://x.com/ZarnishNael/status/2099715293597589871) | 2026-09-15 |
 
 </div>
 
 <div align="center">
 
-**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2098051393538134448)**
+**[👉 Voir le prompt complet & copier →](https://moge.ai/fr/prompt/image/2099715293597589871)**
 
 </div>
 
