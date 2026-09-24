@@ -29,43 +29,49 @@ Texto completo do prompt · imagens de prévia · **10 idiomas**
 
 > ℹ️ Esta página mostra os 60 prompts mais recentes de mais de 4300 prompts selecionados. Os prompts são coletados de publicações públicas e creditam seus autores. Para solicitar a remoção, envie um e-mail para **team@moge.ai**.
 >
-> 📊 Última atualização: 2026-09-22.
+> 📊 Última atualização: 2026-09-24.
 
 ---
 
 ## 🎩 Últimos prompts selecionados
 
-### No. 1: Painel Editorial de Tênis Esportivo Futurista
+### No. 1: Pôster de Bebida de Verão Maximalista
 
 ![Categoria: Publicidade e produto](https://img.shields.io/badge/Categoria-Publicidade%20e%20produto-lightgrey)
 
 #### 📚 Descrição
 
-Cria uma prancha editorial modular 9:16 de um tênis esportivo escultural sem marca, combinando movimento humano, perfil do produto e macros de engenharia numa paleta obsidiana-titânio com acento ciano glacial.
+Cria um pôster vertical premium de campanha de verão com uma bebida gelada gigante como herói, tipografia inflável e uma modelo fashion em um cenário de resort de sobremesas.
 
 #### 🌟 Prompt
 
-Crie uma prancha editorial premium de calçado future-sport, 9:16, full bleed. Layout de atelier em painéis …
+Crie um pôster publicitário vertical premium para uma marca fictícia internacional de bebidas de verão …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Crie uma prancha editorial premium de calçado future-sport, 9:16, full bleed. Layout de atelier em painéis modulares, calçado escultural sem marca, movimento humano.
+Crie um pôster publicitário vertical premium para uma marca fictícia internacional de bebidas de verão chamada SOLÉA BLOOM, concebido como um único key visual carro-chefe unificado que funde Orbit, Transit e Port em uma melhor solução única: emocionalmente radiante, materialmente irresistível e graficamente curado. A imagem deve parecer uma campanha sazonal de lifestyle nível Cannes, onde design de produto superdimensionado, tipografia inflável, iconografia de resort divertida e uma presença feminina liderada pela moda se fundem em um sonho comercial polido. O clima é brilhante, extático, doce e instantaneamente memorável, mas o layout deve permanecer controlado, elegante e pronto para campanha.
 
-Uma prancha editorial disciplinada de alto contraste composta por 2 a 4 painéis de imagem modulares e nítidos, com calhas limpas e generoso espaço negativo. Paleta obsidiana, osso quente e titânio escovado com uma única linha ou marcador de acento ciano glacial contido.
+O herói absoluto é uma monumental bebida assinatura gelada rosa-morango colocada no lado direito da composição, escalada grande o suficiente para dominar o pôster como um monumento escultural de produto. O copo é alto, premium e fotorrealista, feito de plástico brilhante translúcido liso com espessura crível, reflexos sutis na superfície, minúsculas gotas de condensação e uma tampa transparente ajustada. Dentro, renderize uma densa bebida cremosa de fruta congelada com rica profundidade tonal rosa, leves redemoinhos e translucidez que capta a luz perto das bordas. Um canudo listrado sobe limpo da tampa com perspectiva precisa e realismo material. Na frente do copo, coloque uma marca dimensional elegante recém-inventada como "PURE JOY" em grandes letras brancas em relevo com um pequeno acento floral e um minúsculo ícone alegre integrado ao sistema gráfico. O produto deve parecer fabricável, desejável, tátil e comercial-luxuoso, nunca com aparência de brinquedo, nunca de desenho barato.
 
-O calçado principal apresenta uma arquitetura escultural original sem marca: cabedal em malha cor pérola-osso, gaiola de calcanhar aberta, ponte de arco flutuante em titânio escovado e um rocker contínuo de cerâmica esfumada com três longos canais entalhados. Antepé integrado e liso, sem cápsulas redondas separadas, sem sola vermelha.
+Ancore a metade superior do quadro com um enorme título 3D inflado feito de letras brilhantes em forma de balão, lendo "SUMMER VIBES" em uma composição tipográfica escultural personalizada. As letras devem parecer monumentais e flutuantes, como se pairassem sobre a rua do resort como uma instalação de moda de nível festival. Use um tratamento laranja-quente-a-amarelo-dourado para a palavra superior e um tratamento rosa-a-rosa para a inferior, com brilhos arredondados, lógica sutil de costura, pressão interna inflada e reflexos controlados do céu e dos objetos ao redor. Ao redor do título principal, coloque alguns elementos de badge-bolha curados como "NEW DROP", "LIMITED SUN" e "SWEET CLUB", cada um renderizado como adesivo dimensional premium com sua própria linguagem de silhueta. Esses elementos devem emoldurar a composição e realçar a arquitetura tipográfica sem sobrecarregar o produto nem obscurecer o rosto da modelo.
 
-Os painéis combinam: um gesto atlético humano dinâmico ou momento tranquilo em escala natural, um perfil do tênis herói captando reflexos metálicos e uma macro tátil detalhando a ponte de arco aberta e os sulcos do rocker.
+Coloque uma mulher madura no primeiro plano centro-esquerda, posicionada entre o gigantesco monumento tipográfico e a bebida herói, atuando como âncora emocional de lifestyle da campanha. Ela usa um vestido de verão rosa curto e esvoaçante com delicada microestampa floral, leve franzido e movimento arejado do tecido, com tênis brancos premium e joias douradas sutis. Seu cabelo é longo, suavemente ao vento e luminoso sob a luz do verão. Sua expressão é serena, convidativa e levemente provocante, nunca exagerada. Sua pose deve parecer natural e elegante: uma perna estendida à frente com confiança relaxada, a outra sustentando o peso, torso levemente deslocado, um braço descansando casualmente contra a bebida superdimensionada ou pairando perto dela. A anatomia deve estar totalmente correta e realista: ombros e quadris equilibrados, peso natural do peito, estrutura pélvica crível, transições suaves de quadril para coxa, suavidade madura realista, mãos elegantes com cinco dedos claramente separados, textura de pele sutil, leves covinhas naturais, elasticidade de pele realista e nenhuma rigidez de manequim ou plasticidade de IA.
 
-Título: "[HEADLINE]"
-Gesto humano: [MOVIMENTO E POSE ATLÉTICOS]
-Cenário do atelier: [AMBIENTE E ILUMINAÇÃO]
-Hierarquia dos painéis: [ARRANJO MODULAR DOS PAINÉIS]
-Foco macro: [DETALHE DE ENGENHARIA E BRILHO DO TITÂNIO]
+Construa o ambiente como uma rua de resort-sobremesa hiperestilizada sob um vívido céu azul de verão. Use uma lógica de paleta 60/30/10 forte mas disciplinada: 60% de tons alegres de rosa, blush, rosê e morango; 30% de céu ciano limpo, azul-piscina e acentos turquesa frescos; 10% de amarelo cítrico, luz solar quente, brilhos brancos lustrosos e minúsculos acentos dourados. O chão deve ser um caminho polido de xadrez pastel ou ladrilho de doce recuando em profundidade. Adicione um número limitado de objetos de apoio superdimensionados que reforcem o mundo da campanha: um gigante donut brilhante glaceado no primeiro plano esquerdo, um morango maduro perto da borda inferior, algumas esferas transparentes tipo doce ou bolhas de geleia suspensas no espaço, um quiosque de sobremesas retrô ou doceria no plano médio, silhuetas de palmeiras, uma boia de flamingo e acentos de cítricos fatiados. Cada objeto deve parecer intencionalmente dirigido em arte, com espaçamento limpo, forte hierarquia e acabamento de material premium. Mantenha abundância sem caos.
 
-Renderize um título editorial limpo em grotesca condensada refinada. Mantenha a tipografia alinhada à grade com micro-rótulos mínimos. Sem Nike, sem Reebok, sem swoosh, sem logos, sem marcas falsas, sem HUD carregado, sem membros duplicados.
+A camada Orbit deve entregar impacto emocional imediato e prazer escapista. O espectador deve entender a campanha em um relance: verão, doçura, moda, alegria e desejo pelo produto. A camada Transit deve fazer a imagem parecer pronta para sistema, como se este pôster pertencesse a uma campanha sazonal mais ampla que poderia se expandir em múltiplos sabores, cores e variantes colecionáveis usando a mesma arquitetura de produto, monumento tipográfico e cenário de mundo-resort. A camada Port deve remover toda desordem não essencial e manter a composição graficamente forte, com espaço negativo claro ao redor da cabeça da modelo, ao redor da silhueta do copo e entre as massas visuais principais. Mesmo com muitos elementos alegres, a imagem deve parecer curada, premium e internacionalmente polida.
+
+A iluminação deve ser brilhante, limpa e luxuosa, como uma foto de campanha de bebida de verão de primeira linha. Use uma luz-chave comercial iluminada pelo sol do canto superior frontal-esquerdo, preenchimento frontal suave para o rosto da modelo, reflexo ambiental luminoso das superfícies rosa, sutil luz de contorno no cabelo e ombros, e destaques especulares nítidos mas gentis por todo o copo, letras, glacê do donut, bolhas flutuantes e badges brilhantes. As sombras devem ter bordas suaves e ancorar, nunca turvas, nunca planas. Construa contraste suficiente para separação clara de volume entre o céu, letras infladas, modelo e produto, preservando a doçura fresca da paleta.
+
+A semântica dos materiais deve ser explícita e altamente persuasiva. A bebida se lê como cremosa, gelada, densa e refrescante. O copo se lê como plástico transparente premium com espessura física e comportamento de reflexo convincente. O título inflado se lê como vinil de luxo com pressão de ar, inteligência de costura e acabamento suave brilhante. O glacê do donut é espesso, reflexivo e comestível. O tecido do vestido é arejado e respirável com dobras críveis e transmissão de luz. A pele permanece fotorrealista e natural. Badges decorativos e ícones de sorriso têm profundidade sutil e bordas manufaturadas limpas. O chão de ladrilhos reflete um pouco de luz colorida sem se tornar espelhado.
+
+A tipografia deve ser inteiramente em inglês e recém-inventada. Além do título gigante, inclua uma pequena frase manuscrita brilhante colocada no espaço centro-esquerda, como "good days, bright hearts", e uma ou duas minúsculas notas editoriais perto da área inferior do produto descrevendo sabor ou coleção sazonal. A tipografia deve parecer premium-brincalhona, dimensional e dirigida em arte, nunca colada, nunca usando fontes pesadas grosseiras, nunca interferindo no rótulo do produto ou no rosto da modelo. O texto funciona como um ingrediente gráfico dentro da composição.
+
+A imagem final deve parecer um pôster de verão global colecionável, uma campanha pop-resort de luxo e uma propaganda comercial focada no produto, tudo ao mesmo tempo. A bebida herói permanece o ponto focal dominante, o título inflado torna-se o horizonte visual, a mulher fornece calor e escala aspiracionais, e os props curados do mundo-sobremesa completam a lógica do sonho. A imagem deve ser hiperdetalhada, fotorrealista, brilhante, fisicamente crível, emocionalmente viciante e pronta para uso premium em outdoor, varejo ou lançamento digital de marca.
+
+Controle de qualidade e exclusões estruturadas: apenas fotorrealista, anatomia feminina correta, mãos corretas e cinco dedos, sem dedos extras, sem dedos faltando, sem dedos fundidos, sem pulsos quebrados, sem membros distorcidos, sem torso deformado, sem assimetria facial, sem pele plástica, sem texto ilegível, sem tipografia sem sentido, sem forma de copo malformada, sem canudo dobrado, sem paleta turva, sem áreas pretas mortas, sem desordem suja, sem objetos flutuando desleixados, sem acabamento de produto tipo brinquedo, sem visual barato de desenho, sem perspectiva ruim, sem desvio de estilo, sem artefatos de IA, sem marca d'água, sem nomes de pessoas reais, sem nomes de marcas reais.
 ```
 
 </details>
@@ -73,7 +79,7 @@ Renderize um título editorial limpo em grotesca condensada refinada. Mantenha a
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSvaSd3WsAAoTMR.jpg" width="700" alt="Painel Editorial de Tênis Esportivo Futurista">
+<img src="https://image.moge.ai/prompt_media/HS4y5tWacAEwIID.jpg" width="700" alt="Pôster de Bebida de Verão Maximalista">
 </div>
 
 <br>
@@ -82,66 +88,48 @@ Renderize um título editorial limpo em grotesca condensada refinada. Mantenha a
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Vigo Zhao](https://x.com/VigoCreativeAI) | [X / Twitter](https://x.com/VigoCreativeAI/status/2102035122707173584) | 2026-09-21 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2102674141958807858) | 2026-09-23 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2102035122707173584)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2102674141958807858)**
 
 </div>
 
 ---
 
-### No. 2: Série de Pôsteres de Retrato Editorial
+### No. 2: Pôster Duplo Foto e Papercraft
 
 ![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
 
 #### 📚 Descrição
 
-Transforma um retrato enviado em quatro pôsteres de moda editorial coesos, cada um com um conceito de layout tipográfico distinto.
+Transforma cada foto em um pôster minimalista 3:4 dividido meio a meio: a foto real em cima e uma releitura em papel recortado em camadas embaixo, com paleta clara e tipografia de galeria.
 
 #### 🌟 Prompt
 
-Crie quatro variações independentes de pôster de retrato a partir da foto enviada, todas pertencentes ao …
+Transforme cada foto que enviei em um pôster de design minimalista sofisticado e independente, sem colagens …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Crie quatro variações independentes de pôster de retrato a partir da foto enviada, todas pertencentes ao mesmo sistema visual.
+Transforme cada foto que enviei em um pôster de design minimalista sofisticado e independente, sem colagens de várias imagens; gere cada foto separadamente.
+Use uma composição vertical 3:4, com as duas áreas superior e inferior de altura rigorosamente 1:1, cada uma ocupando 50% da imagem.
 
-Retrato: [use o retrato enviado]
-Cor principal: [verde menta / vermelho / azul / amarelo / personalizada]
-Tema tipográfico: [SIGNAL / MOTION / ECHO / MINT, ou palavras personalizadas]
-Proporção: 9:16
+A metade superior mantém a foto original, preservando a estrutura do sujeito, a textura real, a luz e sombra naturais e a atmosfera de cor original, aplicando apenas uma leve gradação de cor sofisticada para dar qualidade de fotografia artística e visual de exposição. Para adaptar ao formato, o fundo do ambiente pode ser estendido naturalmente, mas o sujeito não deve ser esticado, distorcido ou alterado.
 
-Mantenha a mesma pessoa, identidade facial, penteado, roupa, realismo fotográfico, paleta de cores, família tipográfica e direção de arte editorial nos quatro pôsteres.
+A metade inferior extrai o contorno, a estrutura, as relações espaciais e as características narrativas mais reconhecíveis do sujeito e as reconstrói em uma cena em miniatura de papel no estilo layered paper cut art / 3D papercraft diorama / architectural relief. Não copie os detalhes da foto; preserve os símbolos visuais essenciais, reexpressando-os por meio de múltiplas camadas de papel, contornos recortados, estruturas vazadas e sobreposições espaciais, para que o sujeito pareça uma instalação de arte em papel de uma exposição de design moderno.
 
-Os quatro pôsteres devem parecer uma única série de moda editorial coesa, mas cada um deve usar um conceito de layout claramente diferente:
+Use estrutura simples, bordas precisas, múltiplos planos em camadas e leves sombras espaciais para criar volume, sem buscar renderização 3D realista, mas apresentando uma leveza que combina papel, maquete arquitetônica e instalação artística. Mantenha um único centro visual, amplo espaço em branco e composição contida e equilibrada.
 
-1. Camadas de Tipografia Vertical
-   Use tipografia condensada em tamanho grande como uma forte espinha vertical. Deixe as letras passarem na frente e atrás do retrato, criando profundidade clara e interação em camadas.
+Crie a paleta extraindo as cores mais brilhantes, vivas e cheias de vida da foto acima, e não uma média de cores. Aumente o brilho e a pureza cromática, usando matizes vivas naturalmente derivadas da imagem original — azul-céu límpido, verde-água, verde-broto, amarelo quente, laranja-coral, rosa-pêssego — com marfim e bege quente como fundo espacial principal, criando uma sensação reconfortante por meio de relações frias e quentes frescas. As cores principais são nítidas mas não agressivas, com laranja quente, dourado ou rosa como toques de destaque. Evite tons sujos, envelhecidos, mórandi apagados, filtros marrom-escuros, cores fluorescentes e aparência de doce barato.
 
-2. Retrato Fatiado
-   Divida o retrato em várias seções horizontais limpas e desloque levemente cada fatia. Mantenha o rosto reconhecível e bonito. Evite glitch RGB, ruído ou distorção digital.
+O texto intervém de forma discreta, gerando livremente títulos curtos, numeração ou minianotações conforme o sujeito, o local, a emoção ou o significado cultural. Use uma fonte moderna delicada, contida e com senso editorial arquitetônico, como as legendas de uma exposição de arte ou anotações de identidade visual de marca sofisticada, integrando-se naturalmente ao espaço em branco.
 
-3. Retrato Eco
-   Mostre o mesmo sujeito duas vezes usando escala ou orientação contrastante, como um retrato normal e um retrato ampliado e invertido. Use tipografia repetida ou tipo em contorno para criar um “eco” visual.
-
-4. Retrato Dentro de Tipografia Gigante
-   Use tipografia enorme e em negrito como composição principal. Deixe partes do rosto, olhos, lábios, cabelo ou ombros aparecerem através e entre as letras, de modo que o retrato se integre à tipografia.
-
-Use uma estética moderna de moda editorial com tipografia sans-serif condensada em tamanho grande, fotografia de retrato forte, estrutura geométrica limpa, generoso espaço negativo, linhas finas, pequenos textos editoriais significativos e blocos gráficos sutis.
-
-Mantenha a hierarquia de informação clara: tipografia grande primeiro, retrato em segundo, pequeno texto editorial em terceiro.
-
-Use textos de apoio significativos relacionados ao conceito visual, em vez de texto de preenchimento aleatório.
-
-Mantenha a pele realista com textura natural, fios de cabelo realistas, dobras naturais de tecido e iluminação fotográfica. Evite pele plástica, aparência de CGI, retoque excessivo, símbolos aleatórios, texto sem sentido, gráficos de UI pesados, brilhos, numeração, NO., VOL. e desordem decorativa.
-
-Gere todos os quatro como pôsteres independentes 9:16 separados, não combinados em uma única colagem.
+O estilo geral remete a estúdios de design internacionais, pôsteres arquitetônicos, visual de exposições de arte e sistemas visuais de marcas sofisticadas, apresentando espaço em papel recortado, estética oriental moderna, cores límpidas, amplo espaço em branco e senso de artesanato refinado. Evite CG realista, textura plástica, aparência de trabalho manual infantil, fundos complexos e efeitos padronizados.
 ```
 
 </details>
@@ -149,7 +137,7 @@ Gere todos os quatro como pôsteres independentes 9:16 separados, não combinado
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSu0BeQW8AAh0Jl.jpg" width="700" alt="Série de Pôsteres de Retrato Editorial">
+<img src="https://image.moge.ai/prompt_media/HS6MHuzbwAAhPW-.jpg" width="700" alt="Pôster Duplo Foto e Papercraft">
 </div>
 
 <br>
@@ -158,13 +146,13 @@ Gere todos os quatro como pôsteres independentes 9:16 separados, não combinado
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2101971646999363637) | 2026-09-21 |
+| [小小东](https://x.com/xiaoxiaodong01) | [X / Twitter](https://x.com/xiaoxiaodong01/status/2102772213422477428) | 2026-09-23 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101971646999363637)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2102772213422477428)**
 
 </div>
 
@@ -322,114 +310,23 @@ Evite títulos gigantes, ilustração comum de estilo chinês, figuras realistas
 
 ---
 
-### No. 5: Troca de Rosto em Ficha de Personagem
+### No. 5: Personagem de Filme 3D Cinematográfico
 
 ![Categoria: Ilustração e IP](https://img.shields.io/badge/Categoria-Ilustra%C3%A7%C3%A3o%20e%20IP-lightgrey)
 
 #### 📚 Descrição
 
-Substitui apenas o rosto, cabelo e barba do personagem em uma ficha de personagem completa pela identidade de uma foto de referência, mantendo todo o resto idêntico.
+Renderiza um personagem estilizado de longa-metragem animado com formas suaves, iluminação natural e acabamento cinematográfico refinado.
 
 #### 🌟 Prompt
 
-Use a IMAGEM ALVO enviada como a referência mestra exata. Use a IMAGEM DE REFERÊNCIA apenas para a identidade …
+Um [assunto], personagem estilizado de longa-metragem animado, renderização 3D cinematográfica limpa, formas …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Use a IMAGEM ALVO enviada como a referência mestra exata.
-
-Use a IMAGEM DE REFERÊNCIA apenas para a identidade da pessoa.
-
-Substitua o rosto do personagem em toda a ficha de personagem ALVO pela pessoa da IMAGEM DE REFERÊNCIA.
-
-TRANSFERÊNCIA DE IDENTIDADE — RIGOROSA:
-- Reproduza a identidade facial exata da pessoa de referência.
-- Reproduza formato do rosto, testa, sobrancelhas, olhos, nariz, lábios, bochechas, mandíbula e queixo.
-- Reproduza o tom de pele natural e a textura facial da pessoa de referência.
-- Use o penteado, a linha do cabelo, a cor, a textura, o comprimento e o formato geral exatos do cabelo da pessoa de referência.
-- Reproduza exatamente os pelos faciais da pessoa de referência, se houver.
-- Não adicione pelos faciais se a pessoa de referência estiver barbeada.
-- Mantenha a mesma identidade de forma consistente em todos os painéis de frente, 3/4, perfil, corpo inteiro, expressão e pose.
-
-IMPORTANTE:
-A IMAGEM DE REFERÊNCIA controla APENAS:
-1. Rosto / identidade
-2. Cabelo
-3. Linha do cabelo
-4. Pelos faciais / sobrancelhas quando aplicável
-
-A IMAGEM ALVO controla TODO O RESTO.
-
-PRESERVE O ALVO EXATAMENTE:
-- Layout da ficha de personagem
-- Todas as posições e proporções dos painéis
-- Rotação de corpo inteiro
-- Vistas de frente, 3/4, lateral e costas
-- Todas as poses e linguagem corporal
-- Formato e proporções do corpo
-- Vestido preto
-- Babados, decote e fenda lateral
-- Saltos altos pretos
-- Brincos de ouro e acessórios
-- Detalhes do figurino
-- Expressões e variações de expressão
-- Fundo
-- Fundo de estúdio branco
-- Tipografia e rótulos
-- Paleta de cores
-- Painéis de referência de material
-- Iluminação e sombras
-- Ângulos de câmera
-- Composição
-- Dimensões da imagem e design geral
-
-NÃO copie a roupa, o corpo, a pose, o fundo ou o ambiente da pessoa de referência.
-
-NÃO redesenhe nem regenere a ficha de personagem.
-
-REGRA FINAL:
-Substitua apenas a identidade facial, o cabelo e os detalhes dos pelos faciais do personagem usando a IMAGEM DE REFERÊNCIA. Todo o restante deve permanecer exatamente igual à IMAGEM ALVO, incluindo a estrutura original da ficha de personagem e todos os detalhes visuais.
-
-Use a FICHA DE PERSONAGEM enviada como o MESTRE ALVO exato.
-
-Use a IMAGEM DE REFERÊNCIA APENAS para a identidade e a aparência facial da pessoa.
-
-Substitua o rosto do personagem principal em toda a ficha de personagem pela pessoa da IMAGEM DE REFERÊNCIA.
-
-TRANSFERÊNCIA DE IDENTIDADE RIGOROSA:
-- Use a identidade facial exata da referência.
-- Reproduza o formato do rosto, olhos, sobrancelhas, nariz, lábios, mandíbula e os detalhes naturais da pele da pessoa de referência.
-- Use o penteado, a linha do cabelo, a textura, o comprimento e o formato do cabelo exatos da referência.
-- Reproduza a barba e o bigode/pelos faciais exatos da referência.
-- NÃO invente, adicione, remova ou modifique a barba ou o bigode.
-- Se a referência tiver um estilo específico de barba, reproduza esse mesmo estilo de forma consistente.
-- Mantenha a mesma identidade de forma consistente em TODAS as vistas, ângulos, expressões e poses da ficha de personagem.
-
-PRESERVE O ALVO EXATAMENTE:
-- mesmo layout da ficha de personagem
-- mesmas vistas de rotação de corpo inteiro
-- mesmas poses e proporções corporais
-- mesmo terno preto e camisa preta
-- mesmos sapatos
-- mesmas expressões
-- mesma iluminação
-- mesmo enquadramento
-- mesmo fundo
-- mesmo texto e rótulos
-- mesma paleta de cores
-- mesmos detalhes do figurino
-- mesma folha de expressões
-- mesma seção de pose/linguagem corporal
-- mesmo design geral e tipografia
-
-IMPORTANTE:
-Não copie a roupa, o corpo, a pose, o fundo ou a composição da pessoa de referência.
-
-Mude APENAS o rosto, o cabelo e os pelos faciais do personagem para corresponder à IMAGEM DE REFERÊNCIA.
-
-Todo o restante deve permanecer exatamente igual à IMAGEM ALVO.
+Um [assunto], personagem estilizado de longa-metragem animado, renderização 3D cinematográfica limpa, formas suavemente esculpidas, proporções estilizadas atraentes, design facial expressivo, formas orgânicas suaves, cabelo detalhadamente esculpido, materiais de pele refinados, textura de superfície sutil, iluminação natural suave, sombras dimensionais delicadas, acabamento polido de filme de animação, gradação de cor cinematográfica quente, renderização de personagem de alto nível
 ```
 
 </details>
@@ -437,7 +334,7 @@ Todo o restante deve permanecer exatamente igual à IMAGEM ALVO.
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSvFfPBbwAAB6re.jpg" width="700" alt="Troca de Rosto em Ficha de Personagem">
+<img src="https://image.moge.ai/prompt_media/HS5XykqbkAAkYNW.jpg" width="700" alt="Personagem de Filme 3D Cinematográfico">
 </div>
 
 <br>
@@ -446,35 +343,110 @@ Todo o restante deve permanecer exatamente igual à IMAGEM ALVO.
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Elsa Ai](https://x.com/ElsaSofia__AI) | [X / Twitter](https://x.com/ElsaSofia__AI/status/2101991001124729273) | 2026-09-21 |
+| [Amira Zairi](https://x.com/azed_ai) | [X / Twitter](https://x.com/azed_ai/status/2102714618779148548) | 2026-09-23 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101991001124729273)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2102714618779148548)**
 
 </div>
 
 ---
 
-### No. 6: Retrato Cozy de Coelhinha em Estúdio
+### No. 6: Editorial de Moda em Color Block
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Cria um retrato de estúdio high-key de uma idol vestindo um conjunto de pelúcia branca com orelhas de coelho, sentada sobre um tapete felpudo em iluminação suave.
+Cria um retrato editorial de moda de corpo inteiro com uma modelo em tons de cobalto e turquesa contra painéis geométricos de blocos de cor combinando.
 
 #### 🌟 Prompt
 
-Gere uma fotografia de retrato em quadro único de Kim Chaewon do LE SSERAFIM, uma exposição contínua …
+{ "proporcao": "9:16", "tipo\_de\_imagem": "fotografia editorial de alta moda", "composicao": { …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Gere uma fotografia de retrato em quadro único de Kim Chaewon do LE SSERAFIM, uma exposição contínua preenchendo o quadro de ponta a ponta. Seu bob reto castanho-escuro na altura do queixo, com franja suave e esvoaçante, emoldura seu rosto, destacando seu olhar gentil e de olhos grandes, um leve biquinho suave e um contato visual calmo e direto. Ela usa um confortável conjunto de duas peças feito de pelúcia fofa de pelo alto ultramacia em branco nuvem puro, com um top cropped tomara-que-caia de pelúcia com decote reto e recatado e forro opaco sólido, combinado com shorts de estar em casa de cintura alta em pelúcia com cobertura totalmente opaca e uma tiara com orelhas de coelho macias. Um detalhe de pompom branco e fofo enfeita a parte de trás do shorts. Um colar fino com placa e a inscrição alicekpop_ai em delicada letra cursiva repousa logo abaixo de sua clavícula. Ela está descalça, sentada graciosamente no centro de um tapete circular felpudo de pelúcia cinza, com os joelhos suavemente dobrados, apoiando o queixo nas mãos levemente entrelaçadas. Ao fundo, o estúdio fotográfico minimalista high-key apresenta uma parede de ciclorama cinza-claro lisa e sem emendas atrás do tapete. Uma iluminação de beleza de estúdio suave e difusa vinda de um grande softbox superior cria uma iluminação envolvente suave e delicadas sombras suaves pelo chão. Fotografado com lente de 85mm ao nível dos olhos, f/2.2, quadro vertical alto, uma figura centralizada preenchendo a altura da imagem. Acabamento de moda de estúdio high-key limpo, com tons de pele naturais, contraste suave e nitidez de lente precisa, com a pelúcia branco nuvem pura irradiando aconchego contra o fundo sem emendas.
+{
+  "proporcao": "9:16",
+  "tipo_de_imagem": "fotografia editorial de alta moda",
+  "composicao": {
+    "enquadramento": "retrato vertical de corpo inteiro",
+    "angulo_de_camera": "frontal, perspectiva de moda levemente baixa",
+    "posicao_do_sujeito": "lado direito do quadro",
+    "espaco_negativo": "grande área de bloco de cor marcante à esquerda",
+    "divisao_vertical": "limite vertical arquitetônico nítido entre dois campos de cor vibrantes",
+    "sobreposicao_do_sujeito": "a modelo emerge parcialmente por trás da borda da parede vertical",
+    "piso": "fina faixa de piso escuro na parte inferior"
+  },
+  "sujeito": {
+    "tipo": "modelo de moda feminina adulta",
+    "pose": "pose de moda confiante e não convencional com uma perna cruzada à frente e o corpo levemente inclinado a partir da borda da parede",
+    "bracos": "relaxados mas posicionados intencionalmente, uma mão ligeiramente à frente",
+    "cabeca": "levemente inclinada para baixo",
+    "visibilidade_do_rosto": "parcialmente sombreado pelo chapéu de aba larga",
+    "expressao": "misteriosa, confiante, atitude editorial"
+  },
+  "roupa": {
+    "cor_principal": "azul cobalto elétrico",
+    "cor_secundaria": "turquesa vívido",
+    "cor_de_destaque": "laranja coral intenso",
+    "vestido": "vestido de moda azul cobalto estruturado na altura do joelho com cintura marcada",
+    "mangas": "mangas longas justas",
+    "detalhe_da_cintura": "cinto largo turquesa com uma longa faixa de tecido laranja coral esvoaçante",
+    "detalhe_do_pescoco": "lenço turquesa dramático com pequenos detalhes decorativos laranja coral",
+    "calca": "calça justa com padrão cobalto e turquesa vívidos",
+    "sapatos": "botas de moda cobalto profundo brilhantes até o joelho",
+    "chapeu": "grande chapéu escultural de aba larga azul cobalto com uma sutil faixa turquesa",
+    "acessorios": "ornamento de moda escultural minimalista laranja coral perto do decote"
+  },
+  "fundo": {
+    "esquerda": "grande parede ou painel arquitetônico turquesa elétrico sólido",
+    "direita": "parede de estúdio azul cobalto profundo saturada",
+    "relacao_de_cor": "as cores do fundo ecoam diretamente a roupa da modelo, criando um mundo de cor monocromático unificado",
+    "destaque": "pequenos toques controlados de laranja coral conectam visualmente a roupa à paleta do fundo",
+    "piso": "piso fosco azul-marinho profundo",
+    "estilo": "cenário de estúdio geométrico minimalista com blocos de cor"
+  },
+  "iluminacao": {
+    "estilo": "iluminação de estúdio de moda premium e dramática",
+    "direcao": "luz direcional suave e forte vinda de cima à frente-esquerda",
+    "sombras": "sombras limpas e controladas",
+    "contraste": "alto contraste com cores ricas e saturadas",
+    "pele": "textura de pele natural e realista sem suavização de filtro de beleza",
+    "realces": "realces sutis no tecido e nas botas"
+  },
+  "paleta_de_cores": {
+    "primaria": "turquesa elétrico",
+    "secundaria": "azul cobalto saturado",
+    "destaque": "laranja coral intenso",
+    "escuro": "azul-marinho profundo",
+    "pele": "tons de pele naturais e realistas"
+  },
+  "estilo_visual": {
+    "clima": "ousado, marcante, misterioso, confiante, artístico",
+    "estetica": "editorial de alta moda contemporâneo com composição geométrica não convencional",
+    "energia": "visualmente dramático e chamativo sem parecer caótico",
+    "qualidade_de_imagem": "fotografia de moda DSLR de altíssima qualidade",
+    "detalhes": "textura de tecido realista, detalhes nítidos da roupa, anatomia natural, rosto e mãos realistas",
+    "sensacao_geral": "campanha de moda vibrante, harmonia de cor sofisticada, energia editorial levemente surreal",
+    "evitar": [
+      "cores opacas",
+      "cores pastel",
+      "cores aleatórias descombinadas",
+      "iluminação desbotada",
+      "enquadramento muito próximo",
+      "texto",
+      "logos",
+      "pele de aparência artificial",
+      "membros ou dedos extras"
+    ]
+  }
+}
 ```
 
 </details>
@@ -482,7 +454,7 @@ Gere uma fotografia de retrato em quadro único de Kim Chaewon do LE SSERAFIM, u
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSxUIXcXMAAq12z.jpg" width="700" alt="Retrato Cozy de Coelhinha em Estúdio">
+<img src="https://image.moge.ai/prompt_media/HS6hfjJagAEK2YG.jpg" width="700" alt="Editorial de Moda em Color Block">
 </div>
 
 <br>
@@ -491,49 +463,51 @@ Gere uma fotografia de retrato em quadro único de Kim Chaewon do LE SSERAFIM, u
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Alice Han](https://x.com/alicekpop_ai) | [X / Twitter](https://x.com/alicekpop_ai/status/2102147725005324734) | 2026-09-21 |
+| [Cherry](https://x.com/hey_am_cherry) | [X / Twitter](https://x.com/hey_am_cherry/status/2102795660009570304) | 2026-09-23 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2102147725005324734)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2102795660009570304)**
 
 </div>
 
 ---
 
-### No. 7: Pôster Esportivo com Megatipografia em Movimento
+### No. 7: Pôster de Batom Gigante Escarlate
 
 ![Categoria: Publicidade e produto](https://img.shields.io/badge/Categoria-Publicidade%20e%20produto-lightgrey)
 
 #### 📚 Descrição
 
-Cria um pôster esportivo premium 9:16 com um objeto herói em foco nítido, atleta em rastros de movimento direcional e megatipografia branca sobre um gradiente luminoso.
+Cria um pôster de campanha de beleza premium com um batom gigante como palco escultural, uma modelo em tons de vermelho e letras monumentais.
 
 #### 🌟 Prompt
 
-Crie um pôster de campanha esportiva premium finalizado, 9:16, sangria total. Megatipografia de velocidade …
+Crie um pôster publicitário de beleza premium para uma casa de cosméticos internacional fictícia chamada …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Crie um pôster de campanha esportiva premium finalizado, 9:16, sangria total. Megatipografia de velocidade borrada, um único objeto herói em primeiro plano perfeitamente nítido.
+Crie um pôster publicitário de beleza premium para uma casa de cosméticos internacional fictícia chamada ELORIA BEAUTY, concebido como uma única imagem de campanha principal em composição vertical, onde um batom superdimensionado se torna tanto o produto herói quanto o palco escultural de toda a composição. A imagem final deve fundir Orbit, Transit e Port em um único visual-chave: instantaneamente marcante, materialmente luxuoso e curatorialmente reduzido. Deve parecer uma campanha de beleza nível Cannes, um pôster colecionável de moda-cosméticos e uma impressão artística de varejo de nível de galeria, tudo ao mesmo tempo.
 
-Atmosfera de gradiente luminoso de dois ou três tons, mesclando cor esportiva saturada em um campo contrastante claro ou profundo. Dentro dela, uma fotografia de ação em ângulo baixo e grande angular com forte perspectiva de proximidade e distância.
+O herói absoluto é o batom. Renderize um batom de luxo monumental posicionado diagonalmente na metade inferior do quadro, grande o suficiente para dominar a página como uma escultura industrial de beleza. A bala do batom é um vermelho carmesim profundo e rico, com pigmento cremoso e denso, superfície aveludada e lisa, marcas sutis de pressão e um acabamento acetinado premium. O estojo do tubo é de metal ouro-rosé, com quebras de costura refinadas, bordas reflexivas polidas, brilhos suaves de grau cosmético e detalhes realistas de manufatura de luxo. Uma mancha controlada de batom se estende da bala pelo plano do chão: espessa, cremosa, altamente pigmentada, com sulcos arrastados suaves, bordas afiladas e realismo cosmético tátil. A mancha deve parecer luxuosa e sensual, nunca bagunçada, nunca como tinta, nunca sangrenta. O produto deve dominar a composição pela escala, nitidez e presença material irresistível.
 
-Um objeto de equipamento esportivo em primeiro plano aparece superdimensionado, perto da lente, em foco extremamente nítido com detalhes realistas. O atleta e o ambiente ao redor, atrás dele, se transformam em desfoque de movimento direcional intencional de longa exposição, seguindo a trajetória real da ação. Rosto e forma atlética permanecem identificáveis.
+Uma modelo feminina madura se senta sobre o corpo do batom com confiança relaxada e precisão de moda-beleza. Ela veste um sistema de estilo em tons de vermelho que harmoniza com o mundo do batom: um tricô ou moletom carmesim superdimensionado, uma saia escura minimalista ou silhueta curta e limpa, meias brancas e tênis premium branco-vermelho. Sua pose parece natural, mas exata: uma perna dobrada, outra estendida, um braço descansando, torso levemente virado, expressão equilibrada e consciente. A anatomia deve ser realista e elegante: proporção correta de cabeça-pescoço-ombros, estrutura crível de torso e quadris, transição suave de coxa a joelho, suavidade madura natural, mãos realistas com cinco dedos, textura sutil de pele e sem suavização plástica. Sua maquiagem é liderada pelo produto e polida: lábios vermelhos precisos combinando com o tom do batom, acabamento de pele refinado, definição suave dos olhos e sem glamour pesado e sobrecarregado. Ela apoia a narrativa do produto, mas o batom deve permanecer a estrela dominante.
 
-Uma enorme manchete em sans-serif geométrica maiúscula, branca, em negrito e alto contraste, sobrepõe a cena, varrendo diagonalmente ou em arco ao redor e parcialmente atrás do atleta, com bordas limpas e legíveis.
+O fundo é um neutro de papel cosmético limpo em marfim-bege quente com forte espaço negativo. Atrás da figura sentada, construa um bloco tipográfico monumental em letras arquitetônicas gigantes, como "LIP" ou "VELVET", renderizadas na mesma família de vermelho do batom, mas ligeiramente mais profunda e estrutural. Essas letras devem se erguer como uma parede gráfica atrás da modelo e do produto, emoldurando parcialmente o corpo sentado e reforçando a geometria da página. Devem parecer integradas à arquitetura do pôster, não flutuando. Mantenha o ambiente minimalista para que cada decisão visual aponte de volta para o produto, o corpo e a palavra.
 
-Manchete: "[HEADLINE]"
-Âncora nítida: [OBJETO ESPORTIVO HERÓI PERTO DA LENTE]
-Sujeito: [ATLETA & AÇÃO DIRECIONAL]
-Cena: [PALETA DE GRADIENTE & AMBIENTE]
-Trajetória do desfoque: [RASTROS DE MOVIMENTO DIRECIONAL]
+A camada Orbit: amplifique a sedução imediata do batom para que o pôster seja lido num relance como cor, confiança e impacto de beleza. A camada Transit: faça o layout parecer modular e comercialmente extensível, como se esta imagem herói pertencesse a um sistema de campanha mais amplo de tons, acabamentos e estados de moda. A camada Port: reduza toda a desordem não essencial, mantenha o espaço limpo, deixe o produto superdimensionado, a pose contida da modelo e as letras monumentais fazerem a maior parte do trabalho. O resultado deve parecer globalmente premium, contemporâneo e colecionável.
 
-Mantenha o objeto herói ultra nítido, o rosto reconhecível e a tipografia legível. Sem Nike, sem Reebok, sem swoosh, sem logos, sem marcas falsas, sem desfoque uniforme, sem membros fantasmas.
+A tipografia deve ser esparsa, luxuosa e recém-inventada apenas em inglês. Use uma linha manuscrita ou em estilo de script no canto superior direito, como "one touch, all presence" ou outra frase de beleza mais forte. Perto do lado direito do batom, coloque um elemento de alegação circular ou radial com pouquíssimas palavras e uma âncora central de desempenho como "12H". No canto inferior esquerdo, coloque a linha da marca "ELORIA beauty" em uma combinação editorial refinada de serifa e sem serifa. Adicione apenas alguns pequenos indicadores de produto, como nome do tom, acabamento ou peso líquido. Sem texto denso, sem sobrecarga de varejo, sem desordem promocional. A tipografia deve funcionar como elemento gráfico e permanecer longe do rosto da modelo e da bala do batom.
+
+Hierarquia de cores: 50% de espaço negativo branco-quente e bege cosmético pálido, 30% de carmesim rico e vermelho profundo de batom, 15% de estojo metálico ouro-rosé e calor suave da pele, 5% de contraste de microtipografia branca ou carvão. A iluminação deve ser brilhante, controlada e premium: luz-chave frontal suave de estúdio, preenchimento gentil, brilho especular sutil no estojo do batom, realces cremosos na bala, sombras de fixação limpas sob o produto e a modelo, e contraste suficiente para manter o mundo vermelho vibrante mas refinado. Sem vermelho turvo, sem cinza morto, sem excesso de brilho barato.
+
+A semântica material deve ser explícita e elevada: textura cremosa da bala, embalagem cosmética metálica, maciez do tecido de tricô, realismo de pele lisa, detalhe de couro e mesh do tênis, acabamento brilhante dos lábios e fundo premium de papel-estúdio. A imagem final deve ser lida tanto como um anúncio comercial de produto quanto como um objeto de beleza de alta moda.
+
+Controle de qualidade e exclusões estruturadas: apenas fotorrealismo, anatomia feminina correta, mãos realistas e cinco dedos, sem dedos extras, sem dedos faltando, sem dedos fundidos, sem pulsos quebrados, sem rosto distorcido, sem geometria de batom deformada, sem textura de mancha irreal, sem estilo de maquiagem barato, sem tipografia ilegível, sem letras aleatórias, sem layout desordenado, sem desvio de estilo, sem lixo de IA, sem nomes de pessoas reais, sem nomes de marcas reais.
 ```
 
 </details>
@@ -541,7 +515,7 @@ Mantenha o objeto herói ultra nítido, o rosto reconhecível e a tipografia leg
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSvAgdQWkAApxpk.jpg" width="700" alt="Pôster Esportivo com Megatipografia em Movimento">
+<img src="https://image.moge.ai/prompt_media/HS4xA03bIAAd2SL.jpg" width="700" alt="Pôster de Batom Gigante Escarlate">
 </div>
 
 <br>
@@ -550,45 +524,36 @@ Mantenha o objeto herói ultra nítido, o rosto reconhecível e a tipografia leg
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Vigo Zhao](https://x.com/VigoCreativeAI) | [X / Twitter](https://x.com/VigoCreativeAI/status/2101985516442829175) | 2026-09-21 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2102671984517910970) | 2026-09-23 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101985516442829175)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2102671984517910970)**
 
 </div>
 
 ---
 
-### No. 8: Interior de Trem Urbano: Foto e Ilustração
+### No. 8: Flor Biomórfica Low Poly
 
 ![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
 
 #### 📚 Descrição
 
-Retrata o interior de um trem urbano moderno — assentos azuis e brancos com um assento laranja em destaque — em dois estilos: fotografia editorial serena e ilustração de diário de viagem em aquarela.
+Transforma qualquer sujeito em uma floração biomórfica low poly com formas orgânicas facetadas e um gradiente de cores vibrante.
 
 #### 🌟 Prompt
 
-Crie uma fotografia de viagem serena e premium do interior de um trem urbano moderno durante o dia. Mostre um …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
 ```
-Crie uma fotografia de viagem serena e premium do interior de um trem urbano moderno durante o dia. Mostre um vagão branco, limpo e brilhante, com grandes janelas iluminadas por uma suave luz natural, uma fileira de assentos moldados azuis e brancos vazios ao longo da janela, com um assento laranja distinto em destaque, postes verticais de aço inoxidável, trilhos suspensos e várias alças triangulares suspensas em azul e laranja. Use uma composição documental de grande angular suave, com fortes linhas de condução, profundidade de campo suave, exposição arejada em tom alto, reflexos sutis nas janelas e no metal, tons pastel delicados, texturas realistas, grão de filme discreto, atmosfera minimalista e calma, fotografia de viagem autêntica, estética editorial sofisticada, imperfeições naturais, composição vertical 4:5, sem pessoas, sem logotipos, sem marca d'água.
-
-Crie uma ilustração minimalista de diário de viagem vintage do mesmo interior de trem urbano moderno: uma fileira de assentos azuis e brancos vazios ao lado de grandes janelas, um assento laranja distinto, postes finos de aço inoxidável, trilhos suspensos e várias alças triangulares suspensas. Desenhe-a com contornos de tinta delicados e imperfeitos combinados com suaves aguadas de aquarela em azul suave, laranja pálido, cinza quente e creme. Coloque a ilustração sobre papel marfim quente levemente envelhecido, com fibras visíveis, sutil grão de papel, bordas irregulares pintadas à mão, pequenas imperfeições de impressão e muito espaço negativo elegante. Adicione tipografia editorial refinada com os dizeres “CITY RIDE” e o pequeno subtítulo “A quiet journey through the light.” abaixo. Estética contemporânea de fanzine de viagem japonesa, clima nostálgico e tranquilo, design gráfico minimalista sofisticado, sensação artesanal, composição equilibrada, formato vertical 4:5, sem logotipos, sem marca d'água.
+Uma Floração Biomórfica Low Poly de [SUJEITO], com formas orgânicas e fluidas e texturas vibrantes e facetadas. Use um degradê de [COR1] a [COR2] para enfatizar as transições suaves e as formas naturais --ar 3:2
 ```
-
-</details>
 
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSuAyH8bsAAb6pW.jpg" width="700" alt="Interior de Trem Urbano: Foto e Ilustração">
+<img src="https://image.moge.ai/prompt_media/HS5zbmVWEAA533O.jpg" width="700" alt="Flor Biomórfica Low Poly">
 </div>
 
 <br>
@@ -597,13 +562,13 @@ Crie uma ilustração minimalista de diário de viagem vintage do mesmo interior
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Mahnoor Fatima](https://x.com/MahnoorAi12) | [X / Twitter](https://x.com/MahnoorAi12/status/2101915804724015207) | 2026-09-21 |
+| [LudovicCreator](https://x.com/LudovicCreator) | [X / Twitter](https://x.com/LudovicCreator/status/2102745008117895451) | 2026-09-23 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101915804724015207)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2102745008117895451)**
 
 </div>
 
@@ -770,24 +735,24 @@ O estilo geral combina colagem de papel artesanal, textura de aquarela ou pigmen
 
 ---
 
-### No. 11: Personagens Fofos em Aquarela
+### No. 11: Garota Skatista em Ilustração Flat
 
 ![Categoria: Ilustração e IP](https://img.shields.io/badge/Categoria-Ilustra%C3%A7%C3%A3o%20e%20IP-lightgrey)
 
 #### 📚 Descrição
 
-Cria clip art fofa em aquarela de um personagem interagindo com um objeto, com traços soltos e paleta suave sobre fundo branco.
+Ilustração plana e alegre de uma garota de boné sentada em um banco de skatepark, com formas geométricas simples e cores vibrantes.
 
 #### 🌟 Prompt
 
 ```
-Clip art fofa em aquarela, com estilo infantil, de um [personagem] segurando ou interagindo com um [objeto], proporções divertidas, lavagens suaves de aquarela, bordas soltas pintadas à mão, expressão alegre, paleta colorida e delicada, estética encantadora de livro de histórias, detalhes simples, isolado em um fundo branco limpo
+Estilo de ilustração flat e pop, uma garota usando boné, sentada em um banco de skatepark, um skate a seus pés, fundo com formas geométricas simples, deformação arredondada, atmosfera casual e alegre, paleta de cores usando azul, amarelo, rosa e verde, sem texto
 ```
 
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSvEm4Gb0AAeQLj.jpg" width="700" alt="Personagens Fofos em Aquarela">
+<img src="https://image.moge.ai/prompt_media/HS5W9--a4AAwQ8j.jpg" width="700" alt="Garota Skatista em Ilustração Flat">
 </div>
 
 <br>
@@ -796,50 +761,41 @@ Clip art fofa em aquarela, com estilo infantil, de um [personagem] segurando ou 
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Amira Zairi](https://x.com/azed_ai) | [X / Twitter](https://x.com/azed_ai/status/2101989836676911273) | 2026-09-21 |
+| [Makari ｜AIイラスト](https://x.com/Makari_5108010) | [X / Twitter](https://x.com/Makari_5108010/status/2102713734863196354) | 2026-09-23 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101989836676911273)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2102713734863196354)**
 
 </div>
 
 ---
 
-### No. 12: Retrato de Alta-Costura em Peônias
+### No. 12: Retrato Editorial de Sardas ao Pôr do Sol
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Retrato editorial fotorrealista de uma mulher elegante em um vestido de alta-costura feito de pétalas de peônia em um campo florido infinito.
+Cria um retrato editorial cinematográfico de uma jovem com sardas, olhos verdes e blusa vermelha de babados, sob luz quente do pôr do sol.
 
 #### 🌟 Prompt
 
-Crie um retrato editorial de moda fotorrealista e de alta resolução de uma mulher elegante em pé em um campo …
+Um retrato editorial em alta definição focado em uma jovem com um marcante conjunto de sardas naturais e …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Crie um retrato editorial de moda fotorrealista e de alta resolução de uma mulher elegante em pé em um campo infinito de peônias floridas. Ela veste um vestido de alta-costura extraordinário feito inteiramente de enormes pétalas de peônia em camadas nos tons magenta profundo, borgonha, rosa suave e marfim. O vestido tem uma silhueta dramática e superdimensionada de vestido de baile, com centenas de pétalas naturalmente sobrepostas criando volume, dobras, textura e dimensionalidade realistas.
+Um retrato editorial em alta definição focado em uma jovem com um marcante conjunto de sardas naturais e vibrantes olhos verdes. Seu cabelo escuro e ondulado tem um visual desalinhado e levemente úmido, com mechas emoldurando o rosto. Ela veste uma blusa vermelha vibrante de gola alta com delicadas bordas de babados, capturada sob iluminação quente e direcional durante a golden hour, contra um fundo azul frio suavemente desfocado.
 
-A mulher tem uma postura elegante e serena e uma expressão calma e confiante. O cabelo está preso em um coque alto e liso, decorado com várias pétalas magenta vivas. Maquiagem natural e refinada, traços faciais graciosos, textura de pele sutil, estilo editorial sofisticado.
+Uma fotografia em close de uma mulher com sardas proeminentes e olhos verdes vívidos, vestindo uma ousada blusa vermelha de gola alta com detalhes em renda franzida. Seu cabelo castanho bagunçado e rico em textura está ao vento. A iluminação é de sol forte, criando destaques nítidos e sombras profundas, dando uma sensação de pele beijada pelo sol. Fotografado em um estilo quente e cinematográfico.
 
-Ela estende suavemente um braço em direção a uma grande peônia ao lado, criando uma sensação de interação com o campo de flores. Cerque-a de inúmeras peônias em magenta, rosa, creme e branco intensos, estendendo-se até o horizonte distante.
+Um retrato dramático apresentando uma mulher com intensos olhos verdes e sardas naturais, vestindo um vestido vermelho escarlate texturizado de gola alta com detalhado acabamento de babados. Seu cabelo escuro e desarrumado tem um visual "molhado", com fios soltos caindo sobre o olhar. A imagem é banhada por intensa luz dourada natural.
 
-Composição: retrato de corpo inteiro centralizado, composição de moda simétrica, sujeito ocupando o quadro central, enorme vestido floral dominando o primeiro plano, flores ao redor da parte inferior do quadro, campo de flores distante criando profundidade.
-
-Iluminação: luz do dia suave e nublada, luz natural difusa, sombras suaves, realces sutis nas pétalas, profundidade atmosférica realista.
-
-Fotografia: campanha de moda de alta-costura luxuosa, fotografia editorial cinematográfica, aparência de câmera de médio formato, resolução 8K, pétalas extremamente detalhadas, textura de pele realista, cores naturais, sujeito nítido, detalhe ambiental profundo, gradação de cor sofisticada, profundidade de campo realista.
-
-Proporção: 4:5 vertical.
-Humor: onírico, romântico, majestoso, surreal, mas fotorrealista, alta-costura botânica.
-
-Prompt negativo: desenho animado, ilustração, aparência de CGI, pele plástica, anatomia distorcida, dedos extras, mãos malformadas, flores duplicadas, rosto borrado, baixo detalhe, pétalas de aparência artificial, cores supersaturadas, texto, marca d'água, logotipo.
+Use a foto enviada como referência de identidade facial para uma mulher adulta. Preserve seus traços faciais reconhecíveis, tom de pele natural, proporções faciais e aparência geral.
 ```
 
 </details>
@@ -847,7 +803,7 @@ Prompt negativo: desenho animado, ilustração, aparência de CGI, pele plástic
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSv0qeSW4AAfDoj.jpg" width="700" alt="Retrato de Alta-Costura em Peônias">
+<img src="https://image.moge.ai/prompt_media/HS0-xg3bsAANmsY.jpg" width="700" alt="Retrato Editorial de Sardas ao Pôr do Sol">
 </div>
 
 <br>
@@ -856,74 +812,51 @@ Prompt negativo: desenho animado, ilustração, aparência de CGI, pele plástic
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [H A J R A](https://x.com/codewithhajra) | [X / Twitter](https://x.com/codewithhajra/status/2102042667555160524) | 2026-09-21 |
+| [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | [X / Twitter](https://x.com/afrinxai/status/2102609402402378235) | 2026-09-23 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2102042667555160524)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2102609402402378235)**
 
 </div>
 
 ---
 
-### No. 13: Pôster do Apple Watch em Movimento
+### No. 13: Pôster Vermelho de Fone Premium
 
 ![Categoria: Publicidade e produto](https://img.shields.io/badge/Categoria-Publicidade%20e%20produto-lightgrey)
 
 #### 📚 Descrição
 
-Cria um pôster de produto premium do Apple Watch com um atleta em quadra de tênis, tipografia gigante e uma trilha circular metálica que conecta tempo e movimento.
+Cria um pôster publicitário monocromático vermelho de moda e tecnologia, com uma modelo madura de perfil usando fones over-ear premium e tipografia branca monumental atravessando o retrato.
 
 #### 🌟 Prompt
 
-APPLE WATCH SERIES 12 — “O TEMPO SE MOVE COM VOCÊ” Pôster premium vertical 4:5, 8K, layout comercial marcante …
+Crie um pôster publicitário premium de moda e tecnologia para uma marca de áudio internacional fictícia …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-APPLE WATCH SERIES 12 — “O TEMPO SE MOVE COM VOCÊ”
-Pôster premium vertical 4:5, 8K, layout comercial marcante × minimalismo suíço × publicidade de produto fotorrealista
-🧠 IDEIA CENTRAL:
-“O TEMPO, EM MOVIMENTO.”
-🎬 LAYOUT:
-BLOCO DE FUNDO:
-Grande retângulo arredondado em branco Apple limpo com sutil gradiente prateado e sombras arquitetônicas suaves
-TIPOGRAFIA GIGANTE:
-“TIME”
-em negrito, superdimensionada, cortada, atrás do sujeito e do produto
-👤 SUJEITO:
-Jovem atlético em movimento numa quadra de tênis profissional
-Apple Watch Series 12 claramente visível no pulso
-movimento natural, pele e tecido realistas
-fotografia esportiva comercial premium
-⌚ PRODUTO + REVIRAVOLTA CONCEITUAL:
-O Apple Watch Series 12 torna-se o centro visual da ação →
-Uma trilha de movimento circular precisa se estende da face do relógio ao redor do atleta:
-* fino arco metálico
-* sutis anéis translúcidos
-* geometria perfeitamente controlada
-* reflexos realistas
-* sem efeitos de fantasia
-A forma circular conecta visualmente tempo, movimento e o movimento do atleta, mantendo o relógio totalmente fotorrealista.
-✨ ELEMENTOS GRÁFICOS:
-* marcações geométricas mínimas
-* finas linhas de medição
-* sutis reflexos metálicos
-* pequenas anotações tipográficas
-* amplo espaço negativo
-✍️ SISTEMA DE TEXTO:
-Pílula superior:
-“Apple Watch Series 12”
-Texto pequeno:
-“Projetado para o movimento.”
-FAIXA INFERIOR DE RECURSOS:
-* Monitoramento Avançado de Fitness
-* Monitor de Frequência Cardíaca
-* Insights de Treino
-* Uso o Dia Todo
+Crie um pôster publicitário premium de moda e tecnologia para uma marca de áudio internacional fictícia chamada AURALITH, concebido como um único visual principal de composição vertical, onde design de produto, retrato editorial e tipografia monumental se fundem em uma imagem de campanha icônica. Preserve a força estrutural da referência apenas como gramática visual pura: um campo vermelho monocromático saturado, um retrato dominante de perfil de uma mulher madura, arquitetura tipográfica branca superdimensionada atrás e parcialmente sobre o retrato, e um par de fones over-ear de luxo usados como o produto comercial central. A imagem final deve integrar Orbit, Transit e Port ao mesmo tempo: imediatamente impactante, materialmente refinada e curatorialmente reduzida.
+
+O verdadeiro herói é o produto de fones. Renderize-o como um design over-ear sem fio premium de topo de linha, com acabamento marfim-pérola ou cerâmica fosca suave, conchas elípticas precisas, dobradiças sutis em metal escovado, almofadas macias de espuma viscoelástica, curvatura elegante do arco, lógica refinada de costuras e pressão de contato crível contra a cabeça. Os fones devem parecer caros, táteis e tecnologicamente avançados, sem parecer genéricos ou exageradamente desenhados. Mantenha o produto grande, limpo e inconfundivelmente legível, com contraste de iluminação suficiente para revelar sua linguagem de design industrial.
+
+A mulher é uma modelo de moda madura e real, vista em perfil próximo ou quase de perfil, ocupando o centro-direita da composição. Ela tem um corte bob louro-platinado reto de geometria exata, brilho reflexivo frio, mandíbula esculpida, pescoço elegante, lábios refinados e uma atitude calma e autossuficiente. Sua expressão é serena, severa e contemporânea, como se estivesse ouvindo algo além do mundo visível. Ela veste uma peça de tricô de gola alta ou têxtil vermelho escultural que se funde tonalmente com o ambiente, revelando ainda textura e volume premium. Se restarem óculos escuros, devem ser elegantes, modernos e levemente tingidos, reforçando o clima de luxo-tech. A pele deve ser realista e sofisticada: poros visíveis, transições tonais sutis, brilho natural suave, sem alisamento plástico, sem acabamento ceroso de retoque de beleza.
+
+A composição deve parecer mais internacional, mais reduzida e mais dirigida artisticamente do que um anúncio eletrônico padrão. Desloque a figura ligeiramente do centro para que a tipografia e o espaço negativo respirem. Deixe o retrato cruzar as letras gigantes como se o corpo e a declaração da marca fossem recortados da mesma arquitetura visual. Evite elementos de adereço desnecessários, poluição de interface, ícones de recursos ou linguagem de comparação de varejo. A imagem deve funcionar como um pôster principal de galeria para um objeto sonoro de luxo.
+
+Sistema de cor e iluminação: 70% de vermelho laca, carmesim e escarlate tonal profundo em todo o ambiente e roupa; 15% de marfim-pérola, creme suave e tons cerâmicos claros de produto; 10% de pele, reflexos louros e calor neutro suave; 5% de tipografia branca nítida e âncoras de sombra sutis. Use uma luz-chave de estúdio direcional suave do canto superior frontal esquerdo, um preenchimento delicado para preservar a estrutura facial e realces especulares sutis na concha dos fones, óculos, lábios e textura do tricô. Construa separação tonal dentro do campo vermelho por gradientes aveludados e queda suave de sombra, não por vazios pretos. O vermelho deve parecer luxuoso, saturado e cinematográfico, nunca barato ou plano.
+
+A tipografia é o segundo grande herói depois do produto. Crie uma declaração gigante em caixa alta empilhada em letras condensadas refinadas e em negrito, como "BEYOND SILENCE" ou "LISTEN FURTHER", disposta atrás e através do retrato em um bloco tipográfico branco monumental. Algumas letras devem ficar atrás da cabeça e dos fones, enquanto uma camada de contorno fino ou traço parcial pode passar levemente sobre o rosto ou a roupa com controle gráfico exato. Adicione apenas dois textos de apoio mínimos: uma linha curta de nível de produto como "Flagship Edition" e uma linha emocional curta como "Sound shaped for the senses." Se necessário, adicione uma minúscula âncora técnica na base como "Spatial audio / 40-hour power", mas mantenha-a extremamente contida. A tipografia deve se comportar como composição arquitetônica, não como texto de venda.
+
+A semântica de materiais deve ser explícita e elevada: estrutura de tricô fosca, brilho sutil de concha cerâmica, reflexo de dobradiça em metal escovado, maciez da almofada de espuma, tingimento brilhante da lente, precisão do cabelo platinado, textura suave dos lábios e contraste premium de pôster impresso. A imagem final deve ser lida tanto como uma campanha de tecnologia de consumo sofisticada quanto como um pôster de arte-moda colecionável.
+
+Alvo de renderização: campanha de áudio de luxo fotorrealista, realismo de moda editorial, arquitetura de pôster reduzida mas poderosa, hierarquia dominada pelo produto, branding monocromático ousado e sofisticação de acabamento de impressão de nível mundial.
+
+Controle de qualidade e exclusões estruturadas: apenas fotorrealista, anatomia facial correta, proporção realista de pescoço-ombro, estrutura crível de orelha e mandíbula, sem fones deformados, sem conchas flutuantes, sem geometria de arco quebrada, sem pele plástica, sem cabelo ceroso, sem texto ilegível, sem letras distorcidas, sem fundo poluído, sem estilo barato de anúncio de tecnologia, sem logos aleatórios, sem desvio de estilo, sem lixo de IA, sem nomes de pessoas reais.
 ```
 
 </details>
@@ -931,7 +864,7 @@ FAIXA INFERIOR DE RECURSOS:
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSu6kK8boAAmqTX.jpg" width="700" alt="Pôster do Apple Watch em Movimento">
+<img src="https://image.moge.ai/prompt_media/HS1JwnUa8AAW6Pb.jpg" width="700" alt="Pôster Vermelho de Fone Premium">
 </div>
 
 <br>
@@ -940,54 +873,71 @@ FAIXA INFERIOR DE RECURSOS:
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) | [X / Twitter](https://x.com/Diplomeme/status/2101978790704656819) | 2026-09-21 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2102417718783959385) | 2026-09-22 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101978790704656819)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2102417718783959385)**
 
 </div>
 
 ---
 
-### No. 14: Pôster Antes e Depois Geométrico
+### No. 14: Pôster Poético Oriental com Objeto Gigante
 
 ![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
 
 #### 📚 Descrição
 
-Transforma uma foto em um pôster 3:4 com a foto original em cima e uma releitura geométrica plana embaixo, no estilo de livro de arte.
+Cria um pôster editorial oriental moderno com um objeto gigante como âncora visual, figuras minúsculas e tipografia sino-inglesa em amplos campos de cor.
 
 #### 🌟 Prompt
 
-Usando a foto enviada, crie um pôster vertical de comparação “antes e depois” em 3:4. Se várias fotos forem …
+Prompt: 【Tema】: {preencher, ex.: Chuva no Lago Oeste / Orvalho Branco / Chá de Primavera / Festa das …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Usando a foto enviada, crie um pôster vertical de comparação “antes e depois” em 3:4. Se várias fotos forem enviadas, crie um pôster separado para cada foto; não misture fotos diferentes na mesma página. As seções superior e inferior devem ocupar exatamente metade da altura total, com uma transição perfeita entre elas. Não adicione bordas, setas ou rótulos “Antes”/“Depois”.
+Prompt:
 
-【SEÇÃO SUPERIOR: FOTO ORIGINAL】
-A seção superior deve usar a foto original enviada, preenchendo toda a largura da tela. Preserve o sujeito original, pose/ação, cena, iluminação natural e paleta de cores dominante. Permita apenas ajustes sutis de cor geral; não altere a atmosfera nem adicione efeitos de filtro. Mantenha a proporção original da foto e não estique o sujeito. Para caber na seção superior, você pode cortar bordas sem importância; se o corte remover o sujeito principal, priorize adicionar um pouco de fundo, mas nunca invente ou altere o sujeito ou elementos-chave da cena.
+【Tema】: {preencher, ex.: Chuva no Lago Oeste / Orvalho Branco / Chá de Primavera / Festa das Lanternas}
+【Título principal em inglês】: {preencher}
+【Título principal em chinês】: {preencher}
+【Subtítulo】: {preencher}
+【Elemento visual de escala gigante】: {preencher, ex.: guarda-chuva de papel oleado gigante / gota de orvalho / xícara de chá / lanterna}
+【Paisagem oriental】: {preencher, ex.: superfície do lago / vale / montanha de chá / margem d'água}
+【Figuras minúsculas e sua ação】: {preencher}
+【Cor dominante】: {preencher}
+【Cor de destaque】: {preencher}
+【Texto pequeno de estação / ano】: {opcional}
+【Proporção】: {padrão 9:16}
 
-【SEÇÃO INFERIOR: ABSTRATO GEOMÉTRICO】
-Usando a mesma foto da seção superior como única referência, recrie o sujeito central e alguns elementos ambientais principais como uma ilustração de estilo plano, geométrico e de bordas nítidas. Não adicione pessoas, animais, objetos ou ações que não estavam na foto original. Preserve a posição esquerda/direita do sujeito, pose, direção, interações e principais relações de oclusão da foto, de modo que as seções superior e inferior pareçam alinhadas à primeira vista; porém, não é necessário reproduzir a imagem pixel a pixel.
+Gere um pôster editorial oriental poético, moderno e sofisticado, que funda a atmosfera da paisagem oriental, o elemento visual de escala gigante, a narrativa das figuras minúsculas e a tipografia moderna sino-inglesa em uma obra visual completa.
 
-Remova elementos de fundo secundários e detalhes insignificantes. O sujeito pode ser reduzido levemente para criar amplo espaço negativo ao seu redor. Construa objetos usando um número limitado de polígonos de tamanhos variados, curvas simplificadas e blocos de cor sólida. Preserve o suficiente da silhueta, movimento e características definidoras do sujeito para que ele permaneça reconhecível como o sujeito específico da foto original; não o reduza a um ícone genérico.
+Não faça uma imagem promocional de estilo tradicional comum, um pôster turístico ou um template festivo; alcance o acabamento de uma campanha de marca cultural, de um visual de festival de arte ou de um pôster editorial de revista.
 
-Use blocos de cor adjacentes de formas e níveis de brilho diferentes para definir a estrutura. Não use gradientes, contornos, sombras 3D ou texturas realistas. Extraia aproximadamente 5–6 cores representativas da foto original e organize-as em uma paleta coesa com saturação levemente reduzida. Use um tom bege/branco-sujo quente como cor de fundo da seção inferior. Reserve os tons mais escuros para alguns pontos focais visuais e mantenha uma cor de destaque que ecoe a fotografia original. Não altere arbitrariamente as cores mais reconhecíveis do sujeito central.
+Use amplos campos de cor suaves para construir o espaço, com a 【cor dominante】 como cor ambiente principal, usando a 【cor de destaque】 apenas para reforçar de forma concentrada o 【elemento visual de escala gigante】, para que o sujeito seja reconhecível de imediato mesmo em miniatura. Represente a paisagem de fundo com lavagens de tinta, difusão pastel, névoa fina e blocos de cor de bordas suaves, reduzindo o detalhe realista; não deixe edifícios, árvores e montanhas chamarem demais a atenção.
 
-Mantenha todas as bordas geométricas nítidas e afiadas. Adicione apenas uma textura de granulação impressa extremamente sutil dentro dos blocos de cor, com leve desalinhamento de registro permitido em algumas bordas. Não renderize a imagem inteira com textura de papel áspero ou efeito de glitch-art.
+Amplie o 【elemento visual de escala gigante】 muito além da proporção real e faça-o realmente entrar no espaço da imagem por corte, oclusão, entrelaçamento ou perspectiva, em vez de simplesmente flutuar. Mantenha apenas uma âncora visual mais forte, evitando vários objetos grandes disputando o olhar.
 
-【TEXTO】
-Adicione uma pequena quantidade de tipografia estilo arquivo à seção inferior: gere automaticamente um título curto em inglês baseado no conteúdo da foto, acompanhado do pequeno número “NO. 023”. Coloque o título em uma área de espaço negativo onde não obstrua o sujeito, e posicione o número diagonalmente oposto ao título para criar equilíbrio visual.
+Adicione 【figuras minúsculas e sua ação】 em escala muito pequena, usando o contraste de escala entre o ambiente/objeto gigante e as figuras minúsculas para reforçar a sensação de espaço, a poesia e a narrativa. As figuras não devem ser protagonistas nem posadas; servem apenas como referência de escala e ponto narrativo.
 
-Não fabrique locais, datas, identidades ou eventos reais, e não adicione texto explicativo excessivamente denso. A composição geral deve lembrar uma página de um livro de arte contemporâneo: uma fotografia rica e realista em cima combinada com uma interpretação geométrica ousada, altamente simplificada e ordenada embaixo.
+No topo ou na metade superior, use um 【título principal em inglês】 enorme em uma fonte serifada editorial moderna, fina e de alto contraste, permitindo que o texto atravesse a imagem, se desloque e seja cortado, formando relações reais de oclusão frente-fundo com o objeto gigante, névoa, plantas, linhas de chuva, gotas ou vapor. Pode-se incluir um traço manuscrito em inglês, fino e natural, como linha visual suave, mas sem acumular fontes demais.
 
-Mantenha o trabalho geral contido, suave e distinto. Evite rostos de desenho animado, efeitos 3D, materiais plásticos, cores neon berrantes ou rabiscos aleatórios.
+Coloque o 【título principal em chinês】 na parte central inferior ou na área inferior esquerda, com tamanho nitidamente ampliado, criando oclusão parcial, sangria de borda, reflexo ou entrelaçamento com a paisagem, de modo que o texto se torne parte da composição, e não uma simples sobreposição. Use 【subtítulo】 como legenda, mantendo-a concisa e real.
+
+Conforme o tema, adicione uma "relação física" para reforçar a sensação de método visual, por exemplo: refração, reflexo, vapor virando nuvem, ondulações de chuva, oclusão frente-fundo, meio transparente, grande diferença de escala, objeto atravessando o texto. A relação visual deve ser compreendida à primeira vista e surpreender na segunda.
+
+Controle a densidade de informação: as três zonas — tipografia no topo, sujeito visual central no meio e título chinês embaixo — podem ser mais densas; deixe o restante com espaço em branco intencional. Evite texto miúdo e ornamentos cobrindo toda a tela.
+
+Todo o texto deve ser real, significativo e legível, sem rabiscos, inglês sem sentido, logos falsos, marcas falsas, numerações ou placeholders de template.
+
+Mantenha a textura sofisticada, suave, contida e moderna-oriental. Evite efeitos de luz CGI excessivos, brilho barato, aparência plástica, nitidez exagerada, acúmulo de padrões tradicionais, ar de propaganda turística, sensação de promoção de e-commerce, complexos arquitetônicos antigos densos, elementos festivos por toda a tela e ornamentos de estrelas de quatro pontas.
+
+A obra final deve reunir simultaneamente: amplos campos de cor, âncora visual forte, objeto gigante com figuras minúsculas, poesia oriental, tipografia editorial moderna, entrelaçamento espacial real, método de design evidente e completude de um pôster acabado.
 ```
 
 </details>
@@ -995,7 +945,7 @@ Mantenha o trabalho geral contido, suave e distinto. Evite rostos de desenho ani
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HStoUQbaMAAtFmJ.jpg" width="700" alt="Pôster Antes e Depois Geométrico">
+<img src="https://image.moge.ai/prompt_media/HS5p8MlXYAAcx5d.jpg" width="700" alt="Pôster Poético Oriental com Objeto Gigante">
 </div>
 
 <br>
@@ -1004,13 +954,13 @@ Mantenha o trabalho geral contido, suave e distinto. Evite rostos de desenho ani
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Sairah](https://x.com/Sairah_0) | [X / Twitter](https://x.com/Sairah_0/status/2101888385627598947) | 2026-09-21 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2102738823931118067) | 2026-09-23 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101888385627598947)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2102738823931118067)**
 
 </div>
 
@@ -1146,29 +1096,28 @@ O resultado final deve parecer contemporâneo, tátil, editorial, arquitetônico
 
 ---
 
-### No. 17: Retrato De Stijl em Díptico Vertical
+### No. 17: Ficha de Design de Personagem de Duas Celebridades
 
 ![Categoria: Ilustração e IP](https://img.shields.io/badge/Categoria-Ilustra%C3%A7%C3%A3o%20e%20IP-lightgrey)
 
 #### 📚 Descrição
 
-Transforma uma foto de pessoa ou pet em um díptico vertical: metade superior realista, metade inferior reconstruída no estilo geométrico De Stijl com linhas pretas e cores primárias.
+Gera uma ficha de design de personagem fotorrealista de duas celebridades com perfil, giro de corpo, expressões, poses, detalhes de figurino e paleta de cores.
 
 #### 🌟 Prompt
 
-Crie uma ilustração completa em díptico vertical, dividida rigorosamente 1:1 entre metade superior e …
+Uma ficha abrangente de design de personagem é apresentada, combinando os perfis de duas celebridades …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Crie uma ilustração completa em díptico vertical, dividida rigorosamente 1:1 entre metade superior e inferior, parecendo uma obra de díptico cuidadosamente projetada, e não uma simples colagem. A metade superior é a extração do sujeito da foto original; a inferior é uma reconstrução no estilo De Stijl.
-Metade superior:
-Use a foto enviada como única referência do sujeito, identificando automaticamente a principal pessoa, gato, cachorro ou outro pet comum, focando no sujeito em si e ignorando o predomínio de construções e ambientes complexos. Preserve ao máximo as informações mais identificáveis do sujeito, incluindo proporções faciais, penteado, roupa e presença da pessoa, ou a cor do pelo, padrão, porte e traços do pet. Simplifique moderadamente o fundo; sujeito completo e nítido, composição estável.
-Metade inferior:
-Transforme o mesmo sujeito numa ilustração completa na linguagem visual do estilo De Stijl. Características centrais: linhas pretas horizontais e verticais, cores primárias vermelho/amarelo/azul e blocos brancos em composição ordenada. Princípios gerais: estrutura geométrica clara, blocos planos e composição ordenada, com controle de hierarquia e espaço em branco. Use um único sujeito claro ou uma cena clara, centro visual estável, sujeito completo sem cortes, fundo moderadamente simplificado com espaço para respirar; linhas, blocos de cor, luz e sombra, textura e a superfície do papel devem servir ao mesmo estilo, sem misturar estilos alheios. O contorno, a pose, as grandes relações do vestuário e o espaço negativo do sujeito devem ser racionalmente inseridos no sistema ordenado de linhas pretas horizontais/verticais e blocos de cores primárias, formando uma tradução altamente geométrica e estruturada do estilo De Stijl. A imagem deve ser natural, com sensação artesanal e características de estilo reconhecíveis, evitando o excesso de suavidade, o acúmulo de detalhes sem sentido e as decorações aleatórias típicas da IA.
-Requisitos gerais:
-Os sujeitos superior e inferior devem corresponder fortemente; a metade inferior deve ser reconhecível à primeira vista como a reconstrução De Stijl do mesmo sujeito da metade superior. A menos que o tema exija explicitamente, não gere texto, logo, marca d'água, bordas ou UI, e não faça colagem de múltiplas imagens.
+Uma ficha abrangente de design de personagem é apresentada, combinando os perfis de duas celebridades distintas, Shakira Isabel Mebarak Ripoll e Aubrey "Drake" Graham, cada uma detalhada em sete seções categorizadas em um layout de referência compartilhado, limpo e de cor clara. A seção superior, "1. PERFIL DO PERSONAGEM", fornece dados biográficos de ambos, listando nome, idade (Shakira 49, Drake 39), altura (Shakira 1,57 m, Drake 1,83 m), tipo de corpo, traços de personalidade e atributos físicos distintivos, junto com suas cores características.
+Em seguida, "2. GIRO DE CORPO INTEIRO" exibe uma sequência de quatro vistas de corpo inteiro (frente, 3/4, lateral, costas) de cada personagem, mostrando Shakira em um vestido justo verde-esmeralda e Drake em um terno marrom. "3. DETALHES DE ROSTO E IDENTIDADE" oferece close-ups do rosto nos mesmos quatro ângulos para cada celebridade.
+"4. FOLHA DE EXPRESSÕES" apresenta uma grade de oito retratos fotorrealistas de ambos, capturando emoções que vão de neutra e feliz a raiva, tristeza, surpresa, preocupação, confiança e determinação.
+"5. POSE E LINGUAGEM CORPORAL" ilustra várias posturas de corpo inteiro de cada personagem, incluindo postura neutra, caminhando, sentado, relaxado (mãos nos bolsos), tenso e pronto para ação ou performance.
+"6. DETALHES DO FIGURINO" fornece macrofotografias e recortes específicos de suas roupas e acessórios: para Shakira, textura do tecido verde, decote, cava, argola de ouro, zíper das costas, sapato de salto alto e forro do vestido. Para Drake, tecido de lã do terno marrom, lapela e gola, corrente de ouro, punho da camisa branca, costas do paletó, mocassins e forro do terno.
+A seção final, "7. PALETA DE CORES E MATERIAIS", apresenta um inventário visual das cores principais com códigos hex (Shakira: verde-esmeralda, ouro, creme, preto, pele oliva, cabelo loiro; Drake: bordô, ouro, carvão, preto, branco) e amostras físicas de material (tecido, metal, couro) para o conjunto de cada personagem. A estética geral é altamente consistente, profissional, fotorrealista e bem iluminada.
 ```
 
 </details>
@@ -1176,7 +1125,7 @@ Os sujeitos superior e inferior devem corresponder fortemente; a metade inferior
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSqNUdhbwAAzeqd.jpg" width="700" alt="Retrato De Stijl em Díptico Vertical">
+<img src="https://image.moge.ai/prompt_media/HS3CqV6W0AArLfz.jpg" width="700" alt="Ficha de Design de Personagem de Duas Celebridades">
 </div>
 
 <br>
@@ -1185,35 +1134,72 @@ Os sujeitos superior e inferior devem corresponder fortemente; a metade inferior
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [DAAI](https://x.com/daaihq) | [X / Twitter](https://x.com/daaihq/status/2101647572809166902) | 2026-09-20 |
+| [Minahil](https://x.com/Minahil42298354) | [X / Twitter](https://x.com/Minahil42298354/status/2102550664475824575) | 2026-09-23 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101647572809166902)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2102550664475824575)**
 
 </div>
 
 ---
 
-### No. 18: Editorial de Moda Retrô com Vespa
+### No. 18: Retrato Noturno com Flash na Sacada
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Retrato editorial de moda ultrarrealista de uma mulher glamorosa sentada num sidecar amarelo ao lado de uma Vespa vintage diante de um café europeu, com estética de filme 35mm anos 60.
+Retrato feminino glamouroso em uma sacada urbana à noite, com luz de flash direta, look de cetim rosa e cidade ao fundo em bokeh.
 
 #### 🌟 Prompt
 
-Editorial de moda de rua ultrarrealista, mulher jovem adulta em frente a um café europeu clássico ao lado de …
+\# Solicitação de Retrato Detalhado ## Sujeito e Corpo - \*\*Identidade e Características:\*\* Sakura do LE …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Editorial de moda de rua ultrarrealista, mulher jovem adulta em frente a um café europeu clássico ao lado de uma scooter estilo Vespa vintage azul-pó com um side-car amarelo-canário brilhante e superdimensionado. Excêntrico, glamoroso, fantasia de moda italiana dos anos 1960 ligeiramente surreal encontra o editorial moderno. Coque baixo preto brilhante com risca ao meio. Pele de porcelana, sobrancelhas marcadas, delineador preto dramático, batom vermelho fosco vívido, óculos gatinho brancos superdimensionados com lentes pretas. Vestido midi de alta-costura azul gélido pálido: babados 3D densos, tule rasgado, pétalas tipo pluma, tiras de organza, adornos escuros, silhueta volumosa como nuvem, decote dramático, ombros exagerados. Bolsa estruturada verde esmeralda brilhante, scarpins amarelos de bico fino com detalhes pretos. Sentada elegantemente na borda do side-car, expressão composta e distante, pose editorial de corpo inteiro. Café: molduras de madeira escura, placa vermelha vintage "CAFE", toalhas de mesa xadrez, luz âmbar quente. Parede de reboco bege desgastada ao lado. Flash forte na câmera, luz ambiente quente, granulação de filme, cores saturadas, estética editorial vintage 35mm. Composição vertical 3:4. Fotorrealista, alta resolução. Prompt negativo: café minimalista, roupa casual, iluminação suave de estúdio, vestido simples, CGI, anime, desenho, anatomia distorcida, side-car deformado.
+# Solicitação de Retrato Detalhado
+
+## Sujeito e Corpo
+- **Identidade e Características:** Sakura do LE SSERAFIM
+- **Cabelo:** Cabelo longo, solto e ondulado, loiro dourado cor de mel caindo pelas costas, com franja cortina leve e esvoaçante emoldurando suavemente a testa
+- **Tipo de Corpo e Proporções:** apenas o nome
+- **Pose e Gravidade:** Em pé graciosamente na sacada, apoiando levemente as duas mãos no corrimão de metal escuro, girando o tronco superior para olhar por cima do ombro direito diretamente para a câmera
+- **Expressão e Olhar:** Olhar suave e cativante diretamente para a lente, com um sorriso caloroso, confiante e relaxado
+
+## Vestuário e Estilo
+- **Silhueta da Peça:** Top bustiê estruturado de cetim e shorts de estar sob medida com um robe de chiffon esvoaçante
+- **Material e Textura da Peça:** Seda-cetim pesado e lustroso com forro totalmente opaco e chiffon leve com punhos de plumas de marabu
+- **Cor e Suporte da Peça:** Rosa balé pálido, presente no top bustiê de cetim, nos shorts sob medida e no robe de chiffon esvoaçante
+- **Acessórios e Detalhes:** Delicados brincos de prata esterlina em formato de gota captando o flash direto
+- **Calçados:** peça de destaque fora do enquadramento
+
+## Cena e Ambiente
+- **Localização e Arquitetura:** Sacada urbana externa de um prédio residencial alto à noite
+- **Adereços e Primeiro Plano:** Balaustrada moderna de metal escuro e guarda-corpo de vidro transparente polido ao longo do perímetro da sacada
+- **Detalhes de Fundo:** Rua urbana de asfalto mal iluminada abaixo, com marcações pintadas, postes de luz de vapor de sódio quentes e silhuetas distantes de prédios contra o céu escuro da noite
+- **Atmosfera e Vibe:** Cenário urbano noturno glamouroso e atmosférico, repleto de luzes tranquilas da cidade e brisa fresca da noite
+
+## Fotografia e Câmera
+- **Lente e Distância Focal:** Lente prime de retrato de 50mm, câmera ao nível dos olhos, abertura f/2.8, captura com obturador rápido
+- **Ângulo e Enquadramento:** Composição vertical alta ao nível dos olhos com uma figura centralizada preenchendo a altura
+- **Profundidade de Campo e Distorção:** Profundidade de campo rasa criando círculos suaves de bokeh das luzes distantes da rua abaixo, enquanto renderiza o sujeito nitidamente
+- **Configuração e Fontes de Luz:** Iluminação de retrato com flash direto na câmera lançando luz limpa e luminosa sobre o sujeito contra a paisagem urbana noturna profunda
+- **Sombras e Realces:** Realces especulares nítidos do flash sobre o tecido lustroso de cetim e o acabamento suave de plumas, com sombras ambientes profundas no fundo da cidade
+
+## Pós-Produção e Estética
+- **Gradação de Cor e Textura de Filme:** Tom de retrato noturno com flash japonês brilhante, com proteção de tom de pele pêssego quente, grão fino delicado e contraste rico
+
+## Texto de Cena Integrado e Exclusões
+- **Texto de Cena Obrigatório:** alicekpop_ai
+- **Arquétipo do Texto de Cena:** tatuagem
+- **Suporte do Texto de Cena:** pequena tatuagem cursiva de linha fina
+- **Posição do Texto de Cena:** na nuca
+- **Outros Textos e Marcas:** Excluir todos os outros textos e marcas.
 ```
 
 </details>
@@ -1221,7 +1207,7 @@ Editorial de moda de rua ultrarrealista, mulher jovem adulta em frente a um caf�
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSqqiqjacAE8QlA.jpg" width="700" alt="Editorial de Moda Retrô com Vespa">
+<img src="https://image.moge.ai/prompt_media/HS3kTa2a8AAPygT.jpg" width="700" alt="Retrato Noturno com Flash na Sacada">
 </div>
 
 <br>
@@ -1230,56 +1216,56 @@ Editorial de moda de rua ultrarrealista, mulher jovem adulta em frente a um caf�
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Al-Shamus](https://x.com/im_shahid7) | [X / Twitter](https://x.com/im_shahid7/status/2101679703576994178) | 2026-09-20 |
+| [Alice Han](https://x.com/alicekpop_ai) | [X / Twitter](https://x.com/alicekpop_ai/status/2102588303233171641) | 2026-09-23 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101679703576994178)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2102588303233171641)**
 
 </div>
 
 ---
 
-### No. 19: Comida que Remodela a Tipografia
+### No. 19: Tipografia Reformada por Comida Real
 
 ![Categoria: Publicidade e produto](https://img.shields.io/badge/Categoria-Publicidade%20e%20produto-lightgrey)
 
 #### 📚 Descrição
 
-Cria um pôster editorial premium de comida em que alimentos reais interagem fisicamente e deformam uma tipografia gigante, com fundo creme e visual de café europeu.
+Cria um pôster editorial premium de comida em que alimentos reais interagem fisicamente e remodelam uma tipografia enorme, com grid editorial quebrado e amplo espaço negativo.
 
 #### 🌟 Prompt
 
-Marca: [BRAND NAME] Comida: [FOOD / DRINK] Título: [1 SHORT WORD] Interação Física: [PRESS / SCOOP / SMEAR / …
+Marca: [BRAND NAME] Comida: [FOOD / PRODUCT] Título: [1 SHORT WORD] Interação Física: [ROLL / TORCH / FOLD / …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
 Marca: [BRAND NAME]
-Comida: [FOOD / DRINK]
+Comida: [FOOD / PRODUCT]
 Título: [1 SHORT WORD]
-Interação Física: [PRESS / SCOOP / SMEAR / LAYER / outra ação física]
+Interação Física: [ROLL / TORCH / FOLD / GRATE / outra ação física]
 Cor de Destaque: [COLOR]
 Nome do Produto: [PRODUCT NAME]
 Preço: [PRICE]
 Proporção: 9:16
 
-Crie um pôster editorial premium de comida onde alimentos reais interagem fisicamente e remodelam uma tipografia gigante, usando um fundo creme ou marfim quente, tipografia Heavy Grotesk preta e forte, materiais alimentares fotorrealistas, amplo espaço negativo e uma grade editorial quebrada inspirada em branding de cafés europeus sofisticados e no design de revistas contemporâneas.
+Crie um pôster editorial premium de comida onde alimentos reais interagem fisicamente e remodelam uma tipografia enorme, usando um fundo creme ou marfim quente, tipografia Heavy Grotesk preta em negrito, materiais alimentares fotorrealistas, amplo espaço negativo e uma grade editorial quebrada inspirada no branding gastronômico europeu contemporâneo e no design de revistas sofisticadas.
 
-A comida não deve simplesmente sobrepor ou ficar ao lado das letras; trate a tipografia e a comida como objetos dentro do mesmo mundo físico, e a interação escolhida deve mudar visivelmente a estrutura das letras por meio de uma física crível.
+A comida e a tipografia devem existir dentro do mesmo mundo físico, a comida não deve simplesmente sobrepor, decorar ou ficar ao lado das letras, em vez disso a ação física selecionada deve alterar visivelmente a tipografia por meio de comportamento de material crível, geometria, calor, pressão, dobra, abrasão ou transformação de superfície.
 
-Exemplos: PRESS, o peso da comida comprime e deforma localmente a tipografia; SCOOP, uma colher real remove material diretamente de uma letra, deixando uma cavidade correspondente e revelando material comestível por dentro; SMEAR, uma faca arrasta a comida sobre a tipografia, causando alongamento lateral e cisalhamento localizados apenas ao longo da zona de contato; LAYER, a tipografia contém camadas reais de comida, e uma camada estrutural é fisicamente puxada para fora e deslocada.
+Exemplos: ROLL, uma superfície contínua de comida se enrola em espiral enquanto a tipografia impressa nessa mesma superfície se dobra, comprime, estica, encurta e se enrola com ela; TORCH, o calor transforma uma cobertura real de açúcar sobre as letras de cristais secos em açúcar derretido e depois em vidro de caramelo âmbar, enquanto o tipo preto embaixo permanece rígido; FOLD, a tipografia impressa diretamente sobre uma superfície fina de comida segue a mesma dobra, compressão de perspectiva, rotação e oclusão à medida que a comida é dobrada fisicamente; GRATE, um ralador real remove material diretamente das letras, revelando material comestível dentro enquanto o tipo removido se torna lascas e partículas realistas.
 
-Mantenha a interação localizada, clara e fisicamente crível; as partes não tocadas da tipografia devem permanecer duras, limpas, geométricas e legíveis; use apenas um mecanismo físico principal por pôster; evite efeitos aleatórios de liquify, sobreposição decorativa, letras 3D genéricas ou distorção com aparência digital.
+Use apenas um mecanismo físico principal por pôster, mantenha a causa e o efeito visualmente claros, as áreas intocadas da tipografia devem permanecer duras, limpas, geométricas e legíveis, toda deformação deve ocorrer apenas onde a comida, ferramenta, calor ou força física realmente faz contato.
 
-Adicione pequenas informações editoriais como [INGREDIENTS], [OPENING HOURS] e [ADDRESS], use forte contraste de escala em vez de linhas tradicionais de menu; evite longas linhas divisórias horizontais, preços em caixas, barras de informação rígidas na parte inferior ou layouts que pareçam template.
+Use uma grade editorial quebrada com forte contraste de escala, posicionamento assimétrico, informação nas bordas, pequenas anotações significativas e grandes áreas de espaço negativo, adicione detalhes como [INGREDIENTS], [OPENING HOURS], [ADDRESS] e [PRODUCT NOTES], mas evite linhas tradicionais de cardápio, longas linhas divisórias horizontais, barras rígidas de informação na base, preços em caixas e layouts padronizados.
 
-Use Grotesk Sans Serif forte para a tipografia principal, Serif Editorial de alto contraste ou Serif Itálico para nomes de produtos, citações ou preços, mantenha o sistema de cores mínimo com fundo creme, tipografia preta, cores naturais dos alimentos e uma cor de destaque.
+Use Grotesk Sans Serif em negrito para o título principal, Serif Editorial de alto contraste ou Serif Itálica para nomes de produtos, citações e preços, mantenha a paleta mínima com fundo creme, tipografia preta, cores naturais de comida e uma cor de destaque.
 
-O pôster final deve parecer inteligente, físico, premium e instantaneamente compreensível em tamanho miniatura; a ideia central é simples: a comida não decora a tipografia, a comida a muda fisicamente.
+O pôster final deve parecer inteligente, físico, premium, contemporâneo e instantaneamente legível em tamanho de miniatura, o primeiro olhar deve revelar a comida e o título, o segundo olhar deve revelar o mecanismo físico que transformou a tipografia.
 ```
 
 </details>
@@ -1287,7 +1273,7 @@ O pôster final deve parecer inteligente, físico, premium e instantaneamente co
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSlom3LWkAAEo5G.jpg" width="700" alt="Comida que Remodela a Tipografia">
+<img src="https://image.moge.ai/prompt_media/HS031XYWIAERXr9.jpg" width="700" alt="Tipografia Reformada por Comida Real">
 </div>
 
 <br>
@@ -1296,70 +1282,60 @@ O pôster final deve parecer inteligente, físico, premium e instantaneamente co
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2101325998075600974) | 2026-09-19 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2102398252918137026) | 2026-09-22 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101325998075600974)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2102398252918137026)**
 
 </div>
 
 ---
 
-### No. 20: Pôster de Cultura Natural Oriental
+### No. 20: Arte Editorial em Perler Beads
 
 ![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
 
 #### 📚 Descrição
 
-Cria um pôster editorial de cultura natural oriental com grande caligrafia chinesa, bloco de cor natural, janela fotográfica e objetos reais em camadas sobre papel artesanal.
+Transforma um marco ou símbolo de um local em uma pequena obra de Perler Beads num layout editorial minimalista 4:5 com muito espaço negativo.
 
 #### 🌟 Prompt
 
-【Tema】: preencher, ex.: «Rastro do Vento / Nascente / Pátio de Musgo / Entre Pinheiros」 【Título principal em …
+Crie uma arte editorial premium de Perler Beads na vertical 4:5 para [PAÍS / LOCAL / TEMA]. GERAÇÃO VISUAL …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-【Tema】: preencher, ex.: «Rastro do Vento / Nascente / Pátio de Musgo / Entre Pinheiros」
-【Título principal em chinês】: preencher 2–4 caracteres
-【Título em inglês】: preencher
-【Elementos temáticos naturais】: preencher, ex.: vento, água, musgo, pinho, rochas, espigas de capim
-【Objeto real em primeiro plano】: preencher, ex.: tigela de pedra, pedra com musgo, madeira seca, papel fino, plantas
-【Cena da janela fotográfica】: preencher, ex.: floresta enevoada, riacho, encosta de capim, pinhal
-【Cor dominante】: preencher uma cor natural de baixa saturação
-【Proporção】: padrão 9:16
+Crie uma arte editorial premium de Perler Beads na vertical 4:5 para [PAÍS / LOCAL / TEMA].
 
-Gere um pôster de arte de Editorial Design com tema de cultura natural oriental.
+GERAÇÃO VISUAL
+Construa toda a composição de forma criativa a partir de [PAÍS / LOCAL / TEMA]. Identifique automaticamente o tema, marco, personagem, animal, arquitetura, paisagem ou elemento cultural mais reconhecível associado a ele.
 
-Use um fundo de papel de arte branco marfim quente, mantendo leves fibras naturais do papel e um grão de impressão contido, com amplo espaço em branco; a imagem é silenciosa, natural, relaxada e cultural.
+ARTE EM PERLER BEADS
+Transforme o tema principal em uma miniatura de arte em Perler Beads feita de contas plásticas arredondadas dispostas com precisão. Cada conta deve ter um furo central claramente visível, textura plástica fosca autêntica, dimensionalidade sutil e construção realista fundida a calor.
 
-Na parte superior ou à direita, coloque um enorme título caligráfico chinês manuscrito 【Título principal em chinês】, num estilo oriental moderno livre e real com variações de pressão do pincel e gradações de tinta, fazendo dos grandes caracteres chineses a âncora visual principal.
+Preserve a silhueta, as proporções, a pose e as cores características mais reconhecíveis do tema, simplificando detalhes desnecessários. Construa realces, sombras e profundidade inteiramente por meio de contas vizinhas de cor sólida. Sem gradientes, efeitos de aquarela, pinceladas suaves ou transições pictóricas.
 
-Combine com uma fonte Serif inglesa fina e elegante para o 【Título em inglês】, e adicione algumas frases curtas em chinês com significado real, notas em inglês e data, formando uma hierarquia de "grande caligrafia + título em inglês + texto editorial em corpo pequeno".
+Adicione um contorno branco limpo de Perler Beads ao redor de toda a arte, acompanhando o tema com uma borda escalonada, semelhante a pixels.
 
-No centro adicione um grande bloco de cor natural de baixa saturação, usando a 【Cor dominante】. As bordas do bloco têm sensação de papel rasgado, montanha, terreno ou forma orgânica, mantendo uma forma grande completa e clara, sem se fragmentar em muitos pedaços.
+COMPOSIÇÃO
+Posicione a arte final de Perler Beads pequena e refinada na parte central superior do quadro, cercada por amplo espaço negativo. Divida a composição em duas zonas horizontais equilibradas, criando uma estrutura editorial limpa de 50/50.
 
-Dentro do bloco, abra uma janela circular, oval, vertical ou irregular natural, mostrando uma cena fotográfica real de 【Cena da janela fotográfica】. A área fotográfica tem baixo contraste, baixa saturação, névoa leve e perspectiva aérea, como olhar por um furo no papel para outro espaço natural real.
+Use uma paleta de fundo suave e de baixa saturação inspirada em [PAÍS / LOCAL / TEMA], com sutil granulação de papel e textura tátil impressa. Adicione apenas uma sombra natural bem suave sob a arte de contas para que pareça fisicamente colocada sobre a superfície.
 
-Na parte inferior adicione um 【Objeto real em primeiro plano】 tridimensional real, com material, volume, sombra de contato e relação espacial naturais.
+TIPOGRAFIA
+Mantenha a tipografia mínima e contida. Se usar texto, inclua apenas um título curto e elegante em inglês relacionado a [PAÍS / LOCAL / TEMA]. Sem rótulos, legendas, logotipos ou textos decorativos em excesso.
 
-Deixe o objeto real cobrir parcialmente o bloco de cor bidimensional ou a janela fotográfica, formando camadas claras de frente e fundo:
+ESTÉTICA FINAL
+Artesanato de Perler Beads × editorial de viagem minimalista × livro de fotografia de lifestyle × textura tátil de papel × espaço negativo refinado. O resultado deve parecer uma peça de arte física premium fotografada de cima, combinando o artesanato lúdico das contas com um design editorial sofisticado.
 
-fundo de papel de arte → bloco de cor plano → janela fotográfica natural → objeto real tridimensional.
+Evite temas fotorrealistas, plástico CGI, gradientes suaves, aquarela, efeitos pictóricos, arte de contas superdimensionada, desordem, texto excessivo, logotipos, marcas d'água ou padrões de contas distorcidos.
 
-O tema gira em torno de 【Elementos temáticos naturais】, fazendo todos os elementos visuais expressarem juntos um conceito natural claro, e não um mero acúmulo de decoração.
-
-O layout usa Editorial Design assimétrico, com texto espalhado nas áreas em branco; pode incluir um pouco de composição vertical, composição de borda e informações em corpo minúsculo, mas todo o texto deve ter significado real.
-
-Controle as cores em branco marfim quente, cor natural de baixa saturação, cinza cal, cinza-marrom, marrom-tinta, com um efeito fosco, suave e estável, sem cores de alta saturação.
-
-Mantenha uma leve textura de Offset Print, papel de arte, impressão artesanal e publicação em papel, mas sem envelhecer demais.
-
-O efeito final deve parecer um pôster de exposição de cultura natural realmente concluído: de longe vê-se primeiro o enorme título caligráfico, o bloco de cor completo e o objeto natural tridimensional claro; de perto descobrem-se a janela fotográfica, o texto pequeno e os detalhes de material.
+FORMATO: vertical 4:5, composição equilibrada 50/50, pequena arte de Perler Beads centralizada, amplo espaço negativo.
 ```
 
 </details>
@@ -1367,7 +1343,7 @@ O efeito final deve parecer um pôster de exposição de cultura natural realmen
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSpo_V_XMAAjHjp.jpg" width="700" alt="Pôster de Cultura Natural Oriental">
+<img src="https://image.moge.ai/prompt_media/HSzveamaAAAzDj8.jpg" width="700" alt="Arte Editorial em Perler Beads">
 </div>
 
 <br>
@@ -1376,13 +1352,13 @@ O efeito final deve parecer um pôster de exposição de cultura natural realmen
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2101607866478031056) | 2026-09-20 |
+| [Saul Goodman](https://x.com/Goodmanprotocol) | [X / Twitter](https://x.com/Goodmanprotocol/status/2102318473997426892) | 2026-09-22 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101607866478031056)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2102318473997426892)**
 
 </div>
 
@@ -1548,24 +1524,62 @@ O resultado final deve parecer tátil, editorial, artístico, contemporâneo e c
 
 ---
 
-### No. 23: Aventuras em Argila em Miniatura
+### No. 23: Proposta de Design de IP de Personagem em 4 Páginas
 
 ![Categoria: Ilustração e IP](https://img.shields.io/badge/Categoria-Ilustra%C3%A7%C3%A3o%20e%20IP-lightgrey)
 
 #### 📚 Descrição
 
-Cria um personagem bebê fofo em estilo claymation feito à mão, com formas esculpidas arredondadas, textura de argila visível e cores vivas.
+Cria uma proposta editorial premium de 4 páginas para uma marca de personagem original, cobrindo identidade, processo de design, mundo/história e extensões comerciais com uma identidade visual consistente.
 
 #### 🌟 Prompt
 
+Crie uma proposta completa de design de IP em 4 páginas para uma marca de personagem original. [Nome do IP]: …
+
+<details>
+<summary>Mostrar prompt completo</summary>
+
 ```
-Bebê brincalhão [subject] vestindo um [outfit or accessory] [color1] e [color2], [simple action], contra um [background], estilo de animação claymation feito à mão, formas esculpidas arredondadas, textura de argila visível, proporções charmosas, cores vivas, iluminação suave, design de personagem stop-motion caprichoso
+Crie uma proposta completa de design de IP em 4 páginas para uma marca de personagem original.
+
+[Nome do IP]:
+[Personagem Central]:
+[Personalidade do Personagem]:
+[Conceito de Mundo / Marca]:
+[Cores Primárias]:
+[Cores de Destaque Secundárias]:
+[Direção de Material]:
+[Tom Visual]: peculiar, colecionável, editorial, premium, orientado ao design
+[Idioma]: Inglês
+[Proporção]: 9:16 vertical
+
+Construa uma identidade visual consistente em todas as páginas, com as mesmas proporções do personagem, traços faciais, acessórios característicos, sistema de cores, tipografia, materiais e layout da proposta. Use um estilo editorial premium de estudo de caso com um pequeno lockup de marca, aba de capítulo escura irregular, navegação vertical fina, rodapé assimétrico, espaço em branco controlado, anotações finas e geometria sutil de corte / dobra. Mantenha o layout rico em detalhes, mas limpo e profissionalmente dirigido em arte.
+
+Página 1 — Identidade do Personagem
+Apresente um grande personagem herói, 3–4 âncoras-chave de identidade, testes de silhueta, estudos de linguagem de forma e vistas de rotação frente / lado / costas. Estabeleça claramente o que torna o personagem reconhecível. Inclua apenas notas de design significativas, sem parâmetros falsos ou dados genéricos de perfil de personagem.
+
+Página 2 — Desenvolvimento de Design
+Mostre o processo de design do personagem por meio de exploração de formas brutas, esboços 2D, modelo de argila, wireframe 3D, vista de construção em estilo de escaneamento parcial, estudos de proporção, lógica de costura ou estrutura, anatomia explodida, alternativas de silhueta rejeitadas e close-ups de material. Faça a página parecer um verdadeiro quadro de desenvolvimento de design de personagem, em vez de um HUD futurista.
+
+Página 3 — Mundo & História
+Coloque o personagem dentro de um ambiente totalmente projetado derivado da mesma linguagem visual. Inclua uma cena herói forte, uma cena de interação menor, um estudo conciso de evolução de forma e alguns detalhes de material ou espaciais. O ambiente deve parecer uma extensão natural do personagem, e não um cenário sem relação.
+
+Página 4 — Extensões & Embalagem
+Crie várias variações claramente diferentes do personagem com base em tarefas, ferramentas, roupas ou casos de uso específicos, mantendo a identidade central inalterada. Adicione uma embalagem colecionável premium ou aplicação de produto e um pequeno diagrama de lógica de extensão mostrando como o personagem pode escalar para um sistema de IP comercial.
+
+Em todas as páginas, varie a composição interna em vez de repetir a mesma grade. Use escalas visuais grandes, médias, pequenas e micro para criar ritmo. Deixe esboços, renders 3D, anotações, close-ups, materiais e aplicações de produto trabalharem juntos como evidência de design.
+
+O resultado final deve parecer uma verdadeira proposta de IP de agência criativa: identidade de personagem distinta, processo de design visível, construção de mundo coerente, potencial de narrativa e extensão comercial crível.
+
+Evite layouts genéricos de PPT, grades rígidas de cartões, estilo infantil de scrapbook, inglês sem sentido, dados técnicos falsos, escrita à mão excessiva, adesivos decorativos, brilhos, números de página, marcas d'água, traços de personagem inconsistentes ou mudar o personagem para espécies diferentes entre as páginas.
 ```
+
+</details>
 
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSkxbjbbAAAhRdc.jpg" width="700" alt="Aventuras em Argila em Miniatura">
+<img src="https://image.moge.ai/prompt_media/HS06PnqWQAESdgo.jpg" width="700" alt="Proposta de Design de IP de Personagem em 4 Páginas">
 </div>
 
 <br>
@@ -1574,36 +1588,43 @@ Bebê brincalhão [subject] vestindo um [outfit or accessory] [color1] e [color2
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Amira Zairi](https://x.com/azed_ai) | [X / Twitter](https://x.com/azed_ai/status/2101265065857134801) | 2026-09-19 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2102400772134600713) | 2026-09-22 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101265065857134801)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2102400772134600713)**
 
 </div>
 
 ---
 
-### No. 24: Herói Gourmet Flutuante
+### No. 24: Editorial de Moda Pop Art
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Cria uma foto publicitária de comida premium com o prato suspenso no ar sobre fundo branco isolado, com textura rica e iluminação de estúdio.
+Cria um retrato de moda editorial de corpo inteiro com roupas vibrantes e pose dinâmica contra um fundo geométrico pop art.
 
 #### 🌟 Prompt
 
+Uma foto editorial de alta moda de corpo inteiro de uma jovem e bela mulher americana usando óculos de sol …
+
+<details>
+<summary>Mostrar prompt completo</summary>
+
 ```
-Um [subject] coberto com [garnish], suspenso no ar contra um fundo branco limpo e isolado, fotografia de comida premium, rica textura natural de superfície, detalhe apetitoso, fibras e umidade realistas, tempero sutil, iluminação suave de estúdio, sombra natural nítida, composição flutuante dinâmica, estética de publicidade comercial, foco nítido, alto detalhe
+Uma foto editorial de alta moda de corpo inteiro de uma jovem e bela mulher americana usando óculos de sol estilosos, posando em uma pose de congelamento de movimento dinâmica, selvagem, vanguardista e energética, vestindo um trench coat magenta vibrante, calças alfaiatadas amarelo brilhante e uma camisa quadriculada amarela e rosa, segurando uma bolsa rosa acolchoada, contra um fundo pop-art geométrico listrado em amarelo, magenta e turquesa, iluminação de estúdio profissional, proporção 9:16.
 ```
+
+</details>
 
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSp7BNabAAAJ7wJ.jpg" width="700" alt="Herói Gourmet Flutuante">
+<img src="https://image.moge.ai/prompt_media/HS1EEMJaIAEABzA.jpg" width="700" alt="Editorial de Moda Pop Art">
 </div>
 
 <br>
@@ -1612,61 +1633,50 @@ Um [subject] coberto com [garnish], suspenso no ar contra um fundo branco limpo 
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Amira Zairi](https://x.com/azed_ai) | [X / Twitter](https://x.com/azed_ai/status/2101627451063546110) | 2026-09-20 |
+| [Cherry](https://x.com/hey_am_cherry) | [X / Twitter](https://x.com/hey_am_cherry/status/2102411458143498618) | 2026-09-22 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101627451063546110)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2102411458143498618)**
 
 </div>
 
 ---
 
-### No. 25: Pôster Editorial de Comida e Tipografia
+### No. 25: Pôster Esportivo Mono com Faísca Vermelha
 
 ![Categoria: Publicidade e produto](https://img.shields.io/badge/Categoria-Publicidade%20e%20produto-lightgrey)
 
 #### 📚 Descrição
 
-Cria um pôster editorial premium para cafés e restaurantes onde a comida fotorrealista interage diretamente com a tipografia grande.
+Cria um pôster esportivo premium 9:16 em fotografia monocromática de alto contraste, com um único ponto vermelho-laranja de energia e tipografia condensada em itálico.
 
 #### 🌟 Prompt
 
-Marca: [NOME DA MARCA] Comida / Bebida: [PRODUTO] Título: [TÍTULO DE 2–4 PALAVRAS] Cor de Destaque: [COR] …
+Crie um pôster publicitário esportivo premium finalizado, 9:16, full bleed. Fotografia monocromática de …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Marca: [NOME DA MARCA]
-Comida / Bebida: [PRODUTO]
-Título: [TÍTULO DE 2–4 PALAVRAS]
-Cor de Destaque: [COR]
-Interação Visual: [a comida substitui uma letra / atravessa a tipografia / refrata as letras / vira um divisor / revela um texto oculto]
-Informações de Apoio: [PREÇO / HORÁRIO / INGREDIENTES / ENDEREÇO]
-Proporção: 9:16
+Crie um pôster publicitário esportivo premium finalizado, 9:16, full bleed. Fotografia monocromática de atleta em alto contraste, perspectiva extrema, um único ponto focal de energia vermelho-vermelhão a laranja.
 
-Crie um pôster editorial de comida premium para uma marca moderna de café, padaria ou restaurante.
+Fundo fosco limpo, de quase branco a cinza pálido, com amplo espaço negativo. Dentro dele, uma fotografia decisiva em tons de cinza de alto contraste de um atleta congelado em um movimento explosivo e suspenso.
 
-Use um fundo creme ou marfim quente, amplo espaço negativo, tipografia superdimensionada, fotografia de comida fotorrealista e um layout editorial europeu limpo.
+A perspectiva grande-angular extrema coloca uma parte do corpo ou objeto esportivo superdimensionado e próximo à lente, criando uma dramática profundidade perto-longe. A silhueta atlética e a definição muscular anatômica permanecem nítidas e críveis.
 
-A ideia central é que a comida deve interagir ativamente com a tipografia, em vez de simplesmente ficar ao lado dela.
+Um único e vívido acento vermelho-vermelhão (#E21B16) a laranja quente (#FF6A19) é estritamente reservado para o equipamento em destaque, a zona de contato do impacto ou uma sutil névoa de calor direcional. Nenhuma outra cor existe.
 
-Use a interação visual selecionada para criar um gancho visual claro. Por exemplo, uma xícara de café pode substituir uma letra, um croissant pode se sobrepor ao título, um vidro transparente pode refratar fisicamente as letras atrás dele, queijo derretido pode fazer parte do layout, ou uma fatia de comida ausente pode revelar um texto oculto embaixo.
+Título: "[MAIN_TEXT]"
+Texto secundário: "[SECONDARY_TEXT]"
+Sujeito e movimento: [ATLETA & AÇÃO EXPLOSIVA DECISIVA]
+Âncora próxima à lente: [OBJETO OU PARTE DO CORPO SUPERDIMENSIONADO]
+Ignição vermelho-laranja: [ONDE APARECE O ÚNICO ACENTO QUENTE]
+Cena e layout: [VETOR DIAGONAL & COMPOSIÇÃO COM ESPAÇO NEGATIVO]
 
-Mantenha o título principal grande e instantaneamente legível em tamanho de miniatura. Combine uma Grotesk Sans Serif em negrito com uma Serif Editorial refinada, usando no máximo 2–3 estilos de tipo.
-
-Construa uma hierarquia clara com: título grande, nome do produto médio, informações da marca pequenas, preço, ingredientes, horário de funcionamento ou endereço.
-
-Use apenas creme, preto, cores naturais dos alimentos e uma cor de destaque.
-
-A comida deve parecer altamente realista, com textura natural, sombras críveis, materiais precisos e detalhes apetitosos. Evite CGI, superfícies plásticas, brilho excessivo, texturas falsas ou fotografia de comida comercial excessivamente estilizada.
-
-Mantenha a composição limpa, assimétrica, refinada e pronta para a marca. Cada elemento de texto deve parecer intencional e significativo, sem Lorem Ipsum ou texto de preenchimento aleatório.
-
-O resultado final deve parecer uma campanha real de um café independente projetada por um forte estúdio de design editorial, com uma interação comida-tipografia instantaneamente compreensível como gancho visual.
+Defina o título em sans-serif vermelho condensado em itálico negrito, encaixado de forma limpa no espaço vazio. Sem Nike, sem Reebok, sem swoosh, sem logos, sem marcas falsas, sem cores de arco-íris, sem efeitos de desenho animado, sem chamas aleatórias.
 ```
 
 </details>
@@ -1674,7 +1684,7 @@ O resultado final deve parecer uma campanha real de um café independente projet
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSgTJYRWgAAiviC.jpg" width="700" alt="Pôster Editorial de Comida e Tipografia">
+<img src="https://image.moge.ai/prompt_media/HSz_VcSWYAARrqM.jpg" width="700" alt="Pôster Esportivo Mono com Faísca Vermelha">
 </div>
 
 <br>
@@ -1683,41 +1693,49 @@ O resultado final deve parecer uma campanha real de um café independente projet
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2100950561524740281) | 2026-09-18 |
+| [Vigo Zhao](https://x.com/VigoCreativeAI) | [X / Twitter](https://x.com/VigoCreativeAI/status/2102339350021218574) | 2026-09-22 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2100950561524740281)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2102339350021218574)**
 
 </div>
 
 ---
 
-### No. 26: Diorama Miniatura de Ponto Turístico
+### No. 26: Pôster Editorial de Dumplings a Vapor
 
 ![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
 
 #### 📚 Descrição
 
-Cria um diorama 3D em miniatura de um marco icônico como centro gigante de uma cidadezinha artesanal, com efeito tilt-shift aéreo e luz solar quente.
+Cria um pôster editorial vertical de gastronomia com dumplings a vapor, vapor esculpido em arquitetura translúcida e tipografia condensada de luxo discreto.
 
 #### 🌟 Prompt
 
-Um diorama 3D em miniatura, extremamente detalhado e lúdico, de [MARCO / ESTRUTURA ICÔNICA] como o centro …
+Pôster editorial de gastronomia vertical 4:5 apresentando um único prato de dumplings a vapor feitos à mão, …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Um diorama 3D em miniatura, extremamente detalhado e lúdico, de [MARCO / ESTRUTURA ICÔNICA] como o centro dramático de uma cidadezinha viva. Preserve a arquitetura, a silhueta, as proporções e os detalhes característicos instantaneamente reconhecíveis do marco, mas transforme toda a cena em um encantador mundo em miniatura feito à mão.
+Pôster editorial de gastronomia vertical 4:5 apresentando um único prato de dumplings a vapor feitos à mão, dispostos sobre um prato de cerâmica martelada escura, sobre uma bancada de pedra carvão. A composição é centralizada e altamente arquitetônica.
 
-Cerque-o com arquitetura de [CIDADE / PAÍS], prédios coloridos, ruas minúsculas, parques, árvores, praças, transporte local, cafés de rua, pedestres, bicicletas e pequenos detalhes cotidianos da cidade. Adicione elementos e marcos locais reconhecíveis sutilmente por toda a cena.
+Uma alta coluna de vapor quente sobe diretamente acima dos dumplings e se torna o elemento gráfico dominante. Em vez de vapor macio e fofo, molde o vapor em folhas translúcidas em camadas, dobras geométricas, planos verticais e estruturas sobrepostas semelhantes a vidro, criando a sensação de um monumento arquitetônico construído a partir do calor.
 
-O marco deve parecer superdimensionado em comparação com a cidade em miniatura ao redor, criando um mágico efeito de “marco gigante em um mundo minúsculo”. Use modelagem 3D detalhada com aparência de brinquedo, texturas artesanais em miniatura, cores vibrantes porém sofisticadas, pessoas e veículos minúsculos realistas, estradas e paisagismo intrincados.
+Apenas as mãos e antebraços do chef estão visíveis. Um braço entra naturalmente pelo canto superior esquerdo, com uma manga de chef marfim limpa, deixando cair delicadamente micro-verduras frescas sobre os dumplings. Uma segunda mão entra pelo canto inferior direito, segurando a borda de uma vaporeira de bambu redonda, sugerindo que o prato acabou de ser servido. Sem rosto ou figura humana completa.
 
-Fotografado de uma perspectiva aérea alta em três quartos, com profundidade de campo cinematográfica e um sutil efeito tilt-shift de miniatura. Foco nítido no marco central, arredores gradualmente mais suaves, luz solar natural e quente, profundidade atmosférica, render 3D polido, estética de arte de viagem lúdica porém premium, extremamente detalhado, visualmente satisfatório, composição vertical 4:5, sem texto, sem logotipos, sem marca d’água.
+O fundo é uma parede de cozinha carvão fosca e achatada, com detalhes mínimos. Inclua apenas um objeto funcional ao fundo: uma panela de cobre escovado quente, suavemente fora de foco.
+
+Use uma paleta contida de preto carvão, marfim quente, cinza pedra, cobre suave, marrom bambu suave e verde herbal fresco. Iluminação de restaurante direcional e dramática cria realces esculturais nos dumplings, umidade realista, sombras suaves e calor visível.
+
+Coloque um enorme numeral translúcido “03” atrás do vapor ascendente, parcialmente obscurecido pela arquitetura do vapor e integrado à composição, em vez de flutuar sobre ela.
+
+Na parte inferior, coloque a palavra “DUMPLINGS” em tipografia editorial alta, estreita e condensada, com espaçamento generoso entre letras. Adicione tipografia secundária muito pequena nas bordas para um toque refinado de revista culinária.
+
+Mínimo, premium, tátil, luxo discreto, fotografia de comida mesclada com design editorial suíço e composição de pôster arquitetônico. Calor, precisão, ritual, quietude. Sem desordem, sem estilo cartoon, sem adereços excessivos. 4:5.
 ```
 
 </details>
@@ -1725,7 +1743,7 @@ Fotografado de uma perspectiva aérea alta em três quartos, com profundidade de
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSphyB9boAAzn7O.jpg" width="700" alt="Diorama Miniatura de Ponto Turístico">
+<img src="https://image.moge.ai/prompt_media/HSzJA1wXYAAySMz.jpg" width="700" alt="Pôster Editorial de Dumplings a Vapor">
 </div>
 
 <br>
@@ -1734,13 +1752,13 @@ Fotografado de uma perspectiva aérea alta em três quartos, com profundidade de
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [simeon-sanai](https://x.com/Naiknelofar788) | [X / Twitter](https://x.com/Naiknelofar788/status/2101599700084543804) | 2026-09-20 |
+| [Mira](https://x.com/miratechtool) | [X / Twitter](https://x.com/miratechtool/status/2102276163317965292) | 2026-09-22 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101599700084543804)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2102276163317965292)**
 
 </div>
 
@@ -1899,50 +1917,23 @@ O estilo geral deve unir colagem em papel, textura de aquarela, minicena artesan
 
 ---
 
-### No. 29: Conjunto de Ícones Desenhados à Mão
+### No. 29: Ficha de Referência de Personagem Cinematográfica
 
 ![Categoria: Ilustração e IP](https://img.shields.io/badge/Categoria-Ilustra%C3%A7%C3%A3o%20e%20IP-lightgrey)
 
 #### 📚 Descrição
 
-Gera 12 ícones acolhedores em estilo desenhado à mão, combinando áreas de cor planas com traços de caneta soltos, dispostos em uma grade limpa sobre fundo branco.
+Cria uma ficha de referência de personagem completa e cinematográfica com turnaround multiângulo, closes faciais, expressões, poses e amostras de cores e materiais.
 
 #### 🌟 Prompt
 
-Tema: aniversário Uso: site/menu Cores: tons pastel Conforme o acima, use a geração de imagens para criar 12 …
+Uma ficha de referência de personagem cinematográfica completa e turnaround de Angelina Jolie aos 51 anos, …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Tema: aniversário
-Uso: site/menu
-Cores: tons pastel
-
-Conforme o acima, use a geração de imagens para criar 12 "ícones descontraídos, com traços desenhados à mão sobre áreas de cor", produzindo o conjunto de ícones abaixo como uma única imagem PNG.
-
-[Como desenhar]
-Represente o corpo do motivo com áreas de cor simples e levemente arredondadas e, sobre elas, acrescente as características com uma caneta escura.
-
-Não contorne toda a forma; desenhe apenas parte do contorno necessária para comunicar a forma e o mínimo de linhas internas. Componha de modo que a área de cor e as linhas dividam a responsabilidade pela forma.
-
-Caneta um pouco grossa, pontas de linha arredondadas. Com leves distorções da forma, assimetria natural e pequenos desalinhamentos entre cor e linha, traga o calor e a leveza do desenho à mão.
-
-Preenchimento plano, linhas soltas. Não detalhe demais; finalize de forma fofa e leve.
-
-[Tema e coerência]
-Escolha conteúdos adequados ao uso e sem sobreposição de significado, com um significado principal por ícone.
-
-Motivos decorativos que simbolizam o tema só devem ser acrescentados onde sejam fofos por si só e se integrem naturalmente. Não precisam estar em todos os ícones.
-
-Uniformize espessura da linha, arredondamento da forma, grau de simplificação e o equilíbrio entre cor e linha, de modo que pareçam uma série feita pela mesma mão.
-
-[Disposição]
-Disponha em uma grade uniforme de 4 colunas x 3 linhas. Centralize cada ícone em cerca de metade do seu quadrante, iguale o tamanho aparente e deixe espaçamento e margens externas amplas.
-
-Fundo branco. Sem texto, molduras, sombras, gradientes nem texturas.
-
-Se houver especificação de tipos ou quantidade, dê prioridade a ela e gere de fato a imagem.
+Uma ficha de referência de personagem cinematográfica completa e turnaround de Angelina Jolie aos 51 anos, com corpo esguio ampulheta-atlético, 1,70 m de altura, marcantes olhos verde-acinzentados, maçãs do rosto altas, lábios cheios, sobrancelhas definidas, simetria natural e longos cabelos castanhos ondulados. Ela usa um vestido midi de veludo bordô/vinho de manga longa com gola alta, zíper nas costas com forro carvão, discretos acentos de joias em ouro suave incluindo pequenas argolas de ouro, e saltos stiletto. A ficha apresenta um turnaround de corpo inteiro em múltiplos ângulos (frente, 3/4, lateral, costas), closes de identidade facial (frente, perfil, 3/4) com maquiagem suave de contorno natural e lábios rosa-nude, uma folha de expressões mostrando neutra, feliz/sorridente, raiva, tristeza, surpresa, preocupação, confiança e determinação, e uma sequência de poses/linguagem corporal cobrindo postura neutra, caminhando, sentada com pernas cruzadas, apoiada relaxada, tensa com braços cruzados e uma postura pronta para ação. As amostras de paleta de cores e materiais incluem bordô (#5E0E29), ouro suave (#D4AF37), creme (#F5E900), preto (#0D0000), vermelho vinho (#7B0D2A), tom de pele (#E0C2B1) e cor de cabelo (#3B2A23) com referências de tecido de veludo, forro de seda, metal dourado, sapatos de couro, textura de pele visível e cabelo ondulado. Iluminação neutra detalhada, layout conceitual de design de personagem em alta resolução com fundo escuro e grade estruturada numerada de 1 a 7.
 ```
 
 </details>
@@ -1950,7 +1941,7 @@ Se houver especificação de tipos ou quantidade, dê prioridade a ela e gere de
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSZLs-xbkAAUtCg.jpg" width="700" alt="Conjunto de Ícones Desenhados à Mão">
+<img src="https://image.moge.ai/prompt_media/HS0pg1CXwAAZMeq.jpg" width="700" alt="Ficha de Referência de Personagem Cinematográfica">
 </div>
 
 <br>
@@ -1959,35 +1950,45 @@ Se houver especificação de tipos ou quantidade, dê prioridade a ela e gere de
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [konmari](https://x.com/konmari_tweet) | [X / Twitter](https://x.com/konmari_tweet/status/2100497948945846631) | 2026-09-17 |
+| [Minahil](https://x.com/Minahil42298354) | [X / Twitter](https://x.com/Minahil42298354/status/2102382268144570471) | 2026-09-22 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2100497948945846631)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2102382268144570471)**
 
 </div>
 
 ---
 
-### No. 30: Selfie Casual com Gato no Café
+### No. 30: Retrato de Beleza Y2K Japonês
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Uma selfie realista estilo câmera instantânea de uma jovem modelo japonesa sorrindo em um sofá branco ao lado de um gato tricolor, num café aconchegante.
+Um close-up de beleza ultrarrealista de uma mulher no estilo editorial de revista japonesa dos anos 2000, com pele reluzente, brilho labial e estética Y2K.
 
 #### 🌟 Prompt
 
-foto de selfie casual realista, estética de câmera instantânea com sutil granulação de filme, cores …
+Vertical 9:16, retrato de beleza ultrarrealista em close-up extremo, estilo editorial de revista de moda …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-foto de selfie casual realista, estética de câmera instantânea com sutil granulação de filme, cores suavemente desbotadas e contraste gentil, jovem atriz japonesa de pouco mais de 20 anos sentada em um sofá branco sorrindo abertamente mostrando os dentes, cabelo longo liso castanho escuro com franja suave, pele clara, maquiagem natural, bochechas rosadas, lábios brilhantes, vestindo um mini vestido sensual justíssimo que se molda a cada curva, sem mangas, silhueta de ampulheta extremamente marcada e dramática, proporções muito voluptuosas de modelo gravure glamourosa, coxas bonitas, seios volumosos, um gato tricolor sentado ao lado dela no sofá, interior aconchegante de café de gatos, iluminação interna suave e quente com forte flash direto da câmera, realces brilhantes de flash e sombras duras projetadas, fotografada ligeiramente de cima, enquadramento em close, ângulo de selfie de smartphone, pose natural e relaxada, textura de pele fotorrealista, imagem de borda a borda, sem borda, sem moldura, sem margens brancas
+Vertical 9:16, retrato de beleza ultrarrealista em close-up extremo, estilo editorial de revista de moda japonesa do início dos anos 2000, estética de photobook de beleza asiática Y2K, mulher do Leste Asiático claramente adulta, com cerca de 25 anos, rosto oval pequeno e delicado, pele marfim quente, poros realistas, textura facial fina e detalhe natural de pele, pele extremamente orvalhada e brilhante com sutis reflexos úmidos na testa, ponte do nariz, bochechas, pálpebras, ombros e clavículas, olhos felinos e esguios com lentes de contato verde-acinzentadas suaves, delineado preto fino e alongado tipo winged, linha inferior de cílios suavemente definida, cílios finos e separados, blush rosa frio suave, lábios rosa-nude translúcidos e brilhantes com acabamento vítreo, expressão calma e distante, contato visual direto.
+
+Cabelo preto brilhante com influência Y2K, franja reta densa e esvoaçada, longas mechas finas emoldurando o rosto ao lado das bochechas, algumas mechas soltas cruzando levemente perto da testa e têmporas, ligeiramente bagunçado mas intencional. Opcional presilha prateada vazada em forma de estrela visível de um lado do quadro.
+
+Enquadramento extremamente fechado: apenas da testa às clavículas, com o rosto ocupando a maior parte do quadro. Enfatize os olhos, o gloss labial, a textura luminosa da pele, o brilho das clavículas e os fios delicados soltos. A composição deve parecer íntima, polida e editorial, como uma campanha de beleza de luxo ou um close-up icônico de revista.
+
+Vestindo um top ombro a ombro suave em tom frio suave como taupe-cinza, azul gelo, rosa bebê ou rosa empoeirado, visível apenas minimamente perto da borda inferior do quadro. Ombros nus e clavículas devem permanecer visíveis, com sutis reflexos especulares. Joias prateadas delicadas e mínimas perto da clavícula são permitidas mas não devem distrair do rosto.
+
+Fundo de estúdio branco puro ou muito claro sem emenda, fotografia de beleza high-key, softbox frontal grande ligeiramente acima da linha dos olhos, preenchimento com refletor suave, sombras extremamente suaves, iluminação limpa e brilhante, sutil bloom de destaque, catchlights nítidos nos olhos. Fotografado com lente macro de beleza de 85mm ou 105mm, foco extremamente nítido nos olhos e cílios, textura de pele altamente detalhada, fios de cabelo individuais visíveis, lábios brilhantes realistas, retoque editorial refinado preservando poros e textura naturais.
+
+Clima geral: campanha de beleza japonesa Y2K minimalista, onírica, brilhante, íntima, limpa, high-end, foto de beleza fotogênica "obra-prima", sem texto, sem marca d'água.
 ```
 
 </details>
@@ -1995,7 +1996,7 @@ foto de selfie casual realista, estética de câmera instantânea com sutil gran
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSpJWHLaMAAHIOk.jpg" width="700" alt="Selfie Casual com Gato no Café">
+<img src="https://image.moge.ai/prompt_media/HS0QJLqbQAApvBt.jpg" width="700" alt="Retrato de Beleza Y2K Japonês">
 </div>
 
 <br>
@@ -2004,139 +2005,36 @@ foto de selfie casual realista, estética de câmera instantânea com sutil gran
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [あぎ](https://x.com/agi_aibusi) | [X / Twitter](https://x.com/agi_aibusi/status/2101573230243049947) | 2026-09-20 |
+| [BubbleBrain](https://x.com/BubbleBrain) | [X / Twitter](https://x.com/BubbleBrain/status/2102354412220072092) | 2026-09-22 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101573230243049947)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2102354412220072092)**
 
 </div>
 
 ---
 
-### No. 31: Pôster Premium do Apple Watch
+### No. 31: Pôster de Refrigerante Fictício Anos 80
 
 ![Categoria: Publicidade e produto](https://img.shields.io/badge/Categoria-Publicidade%20e%20produto-lightgrey)
 
 #### 📚 Descrição
 
-Cria um pôster de produto vertical fotorrealista do Apple Watch com tipografia gigante, minimalismo suíço e fundo de estúdio limpo.
+Gera um pôster publicitário de um refrigerante fictício no estilo dos anos 1980.
 
 #### 🌟 Prompt
 
-APPLE WATCH SERIES 12 — “TIME MOVES WITH YOU” Pôster premium vertical 4:5, 8K, layout comercial ousado × …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
 ```
-APPLE WATCH SERIES 12 — “TIME MOVES WITH YOU”
-
-Pôster premium vertical 4:5, 8K, layout comercial ousado × minimalismo suíço × publicidade fotorrealista de produto Apple
-
-🧠 IDEIA CENTRAL:
-
-“PRECISÃO, EM MOVIMENTO.”
-
-🎬 LAYOUT:
-
-BLOCO DE FUNDO:
-Campo sólido e ininterrupto branco puro / prata fria inspirado na Apple, sem ambiente, sem cenário, sem objetos, sem textura.
-Fundo de estúdio ultralimpo com sutil profundidade tonal, sombras arquitetônicas controladas e contraste geométrico preciso.
-
-TIPOGRAFIA GIGANTE:
-“TIME” em tipografia preta negrito e superdimensionada, dramaticamente cortada atrás do produto.
-A tipografia atua como elemento gráfico estrutural, e não como decoração.
-
-👤 SUJEITO:
-
-Pulso e antebraço atléticos entrando dinamicamente pela borda do quadro.
-Apple Watch Series 12 usado de forma natural e realista.
-
-Relógio posicionado grande em primeiro plano com o mostrador claramente visível.
-
-Poros realistas na pele, pelos finos no braço, veias sutis, anatomia natural do pulso, proporções fisicamente precisas e contato crível entre pulseira e pele.
-
-⌚ PRODUTO + VIRADA CONCEITUAL:
-
-O Apple Watch Series 12 torna-se todo o herói visual.
-
-Um único recorte de retângulo arredondado superdimensionado fica diretamente atrás do relógio, ecoando com precisão a geometria icônica da caixa do Apple Watch.
-
-Dentro do retângulo arredondado: preto grafite profundo.
-
-O relógio sobrepõe parcialmente a forma, criando uma silhueta gráfica forte e profundidade em camadas, mantendo a composição completamente abstrata e sem ambiente.
-
-O retângulo arredondado deve parecer uma versão arquitetônica gigante do próprio relógio.
-
-✨ ELEMENTOS GRÁFICOS:
-
-Geometria de retângulo arredondado superdimensionada
-Tipografia TIME gigante cortada
-Finas linhas de medição de precisão
-Anotação técnica mínima
-Microtipografia pequena no estilo Apple
-Sombra controlada de bordas duras
-Grade de alinhamento precisa
-Generoso espaço negativo
-Sutis acentos prata/grafite
-Sem excesso decorativo
-
-✍️ SISTEMA DE TEXTO:
-
-Cápsula superior:
-“Apple Watch Series 12”
-
-Linha de apoio principal:
-“Precision in Motion”
-
-Pequena microtipografia técnica:
-“DESIGNED FOR EVERY MOMENT”
-
-FAIXA DE RECURSOS INFERIOR:
-
-Saúde e Fitness Avançados
-Rastreamento de Precisão
-Conectividade Perfeita
-Desempenho o Dia Todo
-
-🎨 SISTEMA DE COR:
-
-Branco Apple × Preto Grafite × Prata Fria
-
-Paleta extremamente contida.
-Alto contraste.
-Sem gradientes que pareçam artificiais.
-Sem excesso de azul, neon ou efeitos coloridos.
-
-📸 FOTOGRAFIA:
-
-Fotografia publicitária de produto global premium.
-Estética de câmera comercial de grande formato.
-Lente 50mm–85mm, perspectiva controlada, detalhe de produto extremamente nítido.
-Luz principal direcional suave + preenchimento de estúdio controlado + sombras de contato nítidas.
-Reflexos fisicamente precisos em vidro e metal.
-Renderização natural da pele.
-Alta faixa dinâmica.
-Materiais fiéis à realidade.
-
-🧠 DIREÇÃO ANTI-SLOP:
-
-Sem paisagem, sem arquitetura, sem quarto, sem mesa, sem nuvens, sem cenário, sem objetos flutuantes, sem hologramas, sem partículas, sem neon, sem interface futurista, sem reflexos excessivos, sem flare de lente falso, sem adereços aleatórios, sem elementos ambientais desnecessários, sem pulso distorcido, sem dedos deformados, sem caixa de relógio deformada, sem geometria incorreta de pulseira, sem relógio duplicado, sem perspectiva de tela irrealista, sem aparência de CGI.
-
-A imagem final deve parecer uma campanha publicitária global real da Apple fotografada em um estúdio controlado, combinada com sofisticado design gráfico suíço.
-
-Limpa. Precisa. Ousada. Produto em primeiro lugar. Zero desordem visual.
+Gere um pôster publicitário de um refrigerante fictício dos anos 1980.
 ```
-
-</details>
 
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSflExEa8AAtBHB.jpg" width="700" alt="Pôster Premium do Apple Watch">
+<img src="https://image.moge.ai/prompt_media/HSxfnacaAAAJDoU.jpg" width="700" alt="Pôster de Refrigerante Fictício Anos 80">
 </div>
 
 <br>
@@ -2145,35 +2043,66 @@ Limpa. Precisa. Ousada. Produto em primeiro lugar. Zero desordem visual.
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) | [X / Twitter](https://x.com/Diplomeme/status/2100899630896816165) | 2026-09-18 |
+| [michelle](https://x.com/C6AIFP) | [X / Twitter](https://x.com/C6AIFP/status/2102160288653140120) | 2026-09-21 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2100899630896816165)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2102160288653140120)**
 
 </div>
 
 ---
 
-### No. 32: Pôster Monumento Culinário de Vapor
+### No. 32: Série de Pôsteres de Retrato Editorial
 
 ![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
 
 #### 📚 Descrição
 
-Cria um pôster vertical de um prato centralizado sob uma coluna arquitetônica de vapor, com mãos entrando em cena e tipografia condensada.
+Transforma um retrato enviado em quatro pôsteres de moda editorial coesos, cada um com um conceito de layout tipográfico distinto.
 
 #### 🌟 Prompt
 
-Pôster vertical de monumento culinário. Um único [DISH] é empratado sobre [SURFACE] e centralizado sob uma …
+Crie quatro variações independentes de pôster de retrato a partir da foto enviada, todas pertencentes ao …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Pôster vertical de monumento culinário. Um único [DISH] é empratado sobre [SURFACE] e centralizado sob uma alta coluna ascendente de [VAPOR] que se torna a principal estrutura gráfica da imagem. O vapor é arquitetônico: planos translúcidos empilhados, não vapor de desenho animado. [HUMAN] aparece apenas como mãos e antebraços entrando por [ENTRY], vestindo [SLEEVES], executando [ACTION]. O fundo é um [KITCHEN PLANE] achatado com um objeto útil: [UTENSIL]. Paleta: [PALETTE]. Numeral gigante “[NUMBER]” atrás do vapor. Nome do prato “[DISH NAME]” em tipografia condensada e apertada no rodapé. Calor, medida, imobilidade. 4:5
+Crie quatro variações independentes de pôster de retrato a partir da foto enviada, todas pertencentes ao mesmo sistema visual.
+
+Retrato: [use o retrato enviado]
+Cor principal: [verde menta / vermelho / azul / amarelo / personalizada]
+Tema tipográfico: [SIGNAL / MOTION / ECHO / MINT, ou palavras personalizadas]
+Proporção: 9:16
+
+Mantenha a mesma pessoa, identidade facial, penteado, roupa, realismo fotográfico, paleta de cores, família tipográfica e direção de arte editorial nos quatro pôsteres.
+
+Os quatro pôsteres devem parecer uma única série de moda editorial coesa, mas cada um deve usar um conceito de layout claramente diferente:
+
+1. Camadas de Tipografia Vertical
+   Use tipografia condensada em tamanho grande como uma forte espinha vertical. Deixe as letras passarem na frente e atrás do retrato, criando profundidade clara e interação em camadas.
+
+2. Retrato Fatiado
+   Divida o retrato em várias seções horizontais limpas e desloque levemente cada fatia. Mantenha o rosto reconhecível e bonito. Evite glitch RGB, ruído ou distorção digital.
+
+3. Retrato Eco
+   Mostre o mesmo sujeito duas vezes usando escala ou orientação contrastante, como um retrato normal e um retrato ampliado e invertido. Use tipografia repetida ou tipo em contorno para criar um “eco” visual.
+
+4. Retrato Dentro de Tipografia Gigante
+   Use tipografia enorme e em negrito como composição principal. Deixe partes do rosto, olhos, lábios, cabelo ou ombros aparecerem através e entre as letras, de modo que o retrato se integre à tipografia.
+
+Use uma estética moderna de moda editorial com tipografia sans-serif condensada em tamanho grande, fotografia de retrato forte, estrutura geométrica limpa, generoso espaço negativo, linhas finas, pequenos textos editoriais significativos e blocos gráficos sutis.
+
+Mantenha a hierarquia de informação clara: tipografia grande primeiro, retrato em segundo, pequeno texto editorial em terceiro.
+
+Use textos de apoio significativos relacionados ao conceito visual, em vez de texto de preenchimento aleatório.
+
+Mantenha a pele realista com textura natural, fios de cabelo realistas, dobras naturais de tecido e iluminação fotográfica. Evite pele plástica, aparência de CGI, retoque excessivo, símbolos aleatórios, texto sem sentido, gráficos de UI pesados, brilhos, numeração, NO., VOL. e desordem decorativa.
+
+Gere todos os quatro como pôsteres independentes 9:16 separados, não combinados em uma única colagem.
 ```
 
 </details>
@@ -2181,7 +2110,7 @@ Pôster vertical de monumento culinário. Um único [DISH] é empratado sobre [S
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSo9sr2WoAAPss0.jpg" width="700" alt="Pôster Monumento Culinário de Vapor">
+<img src="https://image.moge.ai/prompt_media/HSu0BeQW8AAh0Jl.jpg" width="700" alt="Série de Pôsteres de Retrato Editorial">
 </div>
 
 <br>
@@ -2190,13 +2119,13 @@ Pôster vertical de monumento culinário. Um único [DISH] é empratado sobre [S
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Mira](https://x.com/miratechtool) | [X / Twitter](https://x.com/miratechtool/status/2101560392589758614) | 2026-09-20 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2101971646999363637) | 2026-09-21 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101560392589758614)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101971646999363637)**
 
 </div>
 
@@ -2343,45 +2272,114 @@ Evite: cara de capa de livro, títulos gigantes, pintura tradicional a tinta, il
 
 ---
 
-### No. 35: Retrato de Moda em Aquarela de Verão
+### No. 35: Troca de Rosto em Ficha de Personagem
 
 ![Categoria: Ilustração e IP](https://img.shields.io/badge/Categoria-Ilustra%C3%A7%C3%A3o%20e%20IP-lightgrey)
 
 #### 📚 Descrição
 
-Transforma uma selfie em um elegante retrato de moda em aquarela e tinta, com chapéu de palha, óculos escuros refletindo palmeiras e clima de férias de verão.
+Substitui apenas o rosto, cabelo e barba do personagem em uma ficha de personagem completa pela identidade de uma foto de referência, mantendo todo o resto idêntico.
 
 #### 🌟 Prompt
 
-Referência Facial: Use a imagem de referência facial enviada como referência primária de identidade facial. …
+Use a IMAGEM ALVO enviada como a referência mestra exata. Use a IMAGEM DE REFERÊNCIA apenas para a identidade …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Referência Facial: Use a imagem de referência facial enviada como referência primária de identidade facial. Preserve a estrutura facial reconhecível da mulher, proporções, olhos, nariz, lábios, linha da mandíbula, maçãs do rosto e semelhança geral. Não copie a iluminação ou a textura fotográfica da foto; reinterprete o mesmo rosto naturalmente num estilo tradicional de ilustração de moda em aquarela e tinta.
+Use a IMAGEM ALVO enviada como a referência mestra exata.
 
-Crie um deslumbrante retrato de moda 4:5 do busto da mulher de referência, enquadrado ao centro. Ela veste uma jaqueta jeans azul-clara com costuras realistas, bolsos com aba e botões prateados metálicos sobre uma camisa social branca impecável. Uma alça transversal de couro marrom cruza diagonalmente o torso.
+Use a IMAGEM DE REFERÊNCIA apenas para a identidade da pessoa.
 
-Ela usa um chapéu de sol de palha trançada de aba larga, argolas prateadas polidas e óculos redondos refletivos com armação prateada. A cabeça está levemente inclinada para cima à direita dela (esquerda do observador), com os ombros sutilmente angulados. A expressão é serena, confiante, sofisticada e naturalmente chique. Os lábios estão levemente entreabertos com batom vermelho brilhante e vibrante.
+Substitua o rosto do personagem em toda a ficha de personagem ALVO pela pessoa da IMAGEM DE REFERÊNCIA.
 
-Seu cabelo de comprimento médio está preso num coque baixo solto e despojado, com mechas delicadas escapando ao redor do rosto e do pescoço, suavemente levantadas por uma brisa leve.
+TRANSFERÊNCIA DE IDENTIDADE — RIGOROSA:
+- Reproduza a identidade facial exata da pessoa de referência.
+- Reproduza formato do rosto, testa, sobrancelhas, olhos, nariz, lábios, bochechas, mandíbula e queixo.
+- Reproduza o tom de pele natural e a textura facial da pessoa de referência.
+- Use o penteado, a linha do cabelo, a cor, a textura, o comprimento e o formato geral exatos do cabelo da pessoa de referência.
+- Reproduza exatamente os pelos faciais da pessoa de referência, se houver.
+- Não adicione pelos faciais se a pessoa de referência estiver barbeada.
+- Mantenha a mesma identidade de forma consistente em todos os painéis de frente, 3/4, perfil, corpo inteiro, expressão e pose.
 
-Renderize a pele com camadas transparentes de aquarela, tons sutis de rubor, contornos delicados de tinta e transições suaves de sombra. Use lavagens expressivas de aquarela pintadas à mão com mistura molhado sobre molhado, florescimentos de pigmento, pinceladas visíveis, bordas orgânicas e sutis respingos espontâneos de tinta.
+IMPORTANTE:
+A IMAGEM DE REFERÊNCIA controla APENAS:
+1. Rosto / identidade
+2. Cabelo
+3. Linha do cabelo
+4. Pelos faciais / sobrancelhas quando aplicável
 
-Reflexo dos Óculos: Faça as lentes redondas altamente detalhadas e refletivas, mostrando altas palmeiras tropicais em silhueta contra um céu azul brilhante. Os reflexos devem parecer nítidos e críveis, permanecendo naturalmente integrados à ilustração em aquarela.
+A IMAGEM ALVO controla TODO O RESTO.
 
-Iluminação: Luz solar de verão natural e brilhante entrando pelo canto superior esquerdo, criando sombras definidas sob a aba do chapéu e gradientes quentes e suaves na testa, bochechas, pescoço, mandíbula e dobras da roupa. Atmosfera de férias fresca e ensolarada.
+PRESERVE O ALVO EXATAMENTE:
+- Layout da ficha de personagem
+- Todas as posições e proporções dos painéis
+- Rotação de corpo inteiro
+- Vistas de frente, 3/4, lateral e costas
+- Todas as poses e linguagem corporal
+- Formato e proporções do corpo
+- Vestido preto
+- Babados, decote e fenda lateral
+- Saltos altos pretos
+- Brincos de ouro e acessórios
+- Detalhes do figurino
+- Expressões e variações de expressão
+- Fundo
+- Fundo de estúdio branco
+- Tipografia e rótulos
+- Paleta de cores
+- Painéis de referência de material
+- Iluminação e sombras
+- Ângulos de câmera
+- Composição
+- Dimensões da imagem e design geral
 
-Fundo: Fundo branco puro e limpo com delicadas gotículas de aquarela espalhadas, pontos de pigmento e respingos soltos de tinta em azul, bege, marrom e cinza suaves. Mantenha o fundo arejado e minimalista sem distrair do sujeito.
+NÃO copie a roupa, o corpo, a pose, o fundo ou o ambiente da pessoa de referência.
 
-Estilo Artístico: Ilustração tradicional em aquarela, fino desenho a pena e tinta, esboço de moda de luxo, arte de revista editorial, pincelada expressiva, lavagens soltas de aquarela, textura pintada à mão, moda feminina elegante, estética de estilo de vida de viagem tropical, semelhança facial realista, composição sofisticada, alto detalhe, imperfeições orgânicas da aquarela.
+NÃO redesenhe nem regenere a ficha de personagem.
 
-Composição: Retrato em close, perspectiva de câmera ao nível dos olhos com sutil ênfase para cima, enquadramento do busto, sujeito centralizado, proporções elegantes, ilustração de moda editorial refinada.
+REGRA FINAL:
+Substitua apenas a identidade facial, o cabelo e os detalhes dos pelos faciais do personagem usando a IMAGEM DE REFERÊNCIA. Todo o restante deve permanecer exatamente igual à IMAGEM ALVO, incluindo a estrutura original da ficha de personagem e todos os detalhes visuais.
 
-Proporção: 4:5
+Use a FICHA DE PERSONAGEM enviada como o MESTRE ALVO exato.
 
-Prompt Negativo: rosto distorcido, identidade facial alterada, pessoa diferente, maquiagem excessiva, pele plástica, rosto de desenho animado, estilo anime, renderização 3D, fotografia fotorrealista, óculos borrados, reflexos distorcidos, dedos extras, mãos deformadas, acessórios duplicados, anatomia bagunçada, fundo áspero, cores supersaturadas, contornos pesados, textura digital artificial.
+Use a IMAGEM DE REFERÊNCIA APENAS para a identidade e a aparência facial da pessoa.
+
+Substitua o rosto do personagem principal em toda a ficha de personagem pela pessoa da IMAGEM DE REFERÊNCIA.
+
+TRANSFERÊNCIA DE IDENTIDADE RIGOROSA:
+- Use a identidade facial exata da referência.
+- Reproduza o formato do rosto, olhos, sobrancelhas, nariz, lábios, mandíbula e os detalhes naturais da pele da pessoa de referência.
+- Use o penteado, a linha do cabelo, a textura, o comprimento e o formato do cabelo exatos da referência.
+- Reproduza a barba e o bigode/pelos faciais exatos da referência.
+- NÃO invente, adicione, remova ou modifique a barba ou o bigode.
+- Se a referência tiver um estilo específico de barba, reproduza esse mesmo estilo de forma consistente.
+- Mantenha a mesma identidade de forma consistente em TODAS as vistas, ângulos, expressões e poses da ficha de personagem.
+
+PRESERVE O ALVO EXATAMENTE:
+- mesmo layout da ficha de personagem
+- mesmas vistas de rotação de corpo inteiro
+- mesmas poses e proporções corporais
+- mesmo terno preto e camisa preta
+- mesmos sapatos
+- mesmas expressões
+- mesma iluminação
+- mesmo enquadramento
+- mesmo fundo
+- mesmo texto e rótulos
+- mesma paleta de cores
+- mesmos detalhes do figurino
+- mesma folha de expressões
+- mesma seção de pose/linguagem corporal
+- mesmo design geral e tipografia
+
+IMPORTANTE:
+Não copie a roupa, o corpo, a pose, o fundo ou a composição da pessoa de referência.
+
+Mude APENAS o rosto, o cabelo e os pelos faciais do personagem para corresponder à IMAGEM DE REFERÊNCIA.
+
+Todo o restante deve permanecer exatamente igual à IMAGEM ALVO.
 ```
 
 </details>
@@ -2389,7 +2387,7 @@ Prompt Negativo: rosto distorcido, identidade facial alterada, pessoa diferente,
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSYz-qJakAAxpUk.jpg" width="700" alt="Retrato de Moda em Aquarela de Verão">
+<img src="https://image.moge.ai/prompt_media/HSvFfPBbwAAB6re.jpg" width="700" alt="Troca de Rosto em Ficha de Personagem">
 </div>
 
 <br>
@@ -2398,35 +2396,35 @@ Prompt Negativo: rosto distorcido, identidade facial alterada, pessoa diferente,
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Kubra Ai](https://x.com/Kubra_286) | [X / Twitter](https://x.com/Kubra_286/status/2100423480348946448) | 2026-09-17 |
+| [Elsa Ai](https://x.com/ElsaSofia__AI) | [X / Twitter](https://x.com/ElsaSofia__AI/status/2101991001124729273) | 2026-09-21 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2100423480348946448)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101991001124729273)**
 
 </div>
 
 ---
 
-### No. 36: Rainha de Fantasia ao Crepúsculo
+### No. 36: Retrato Hora Dourada em Vermelho
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Retrato de corpo inteiro de uma majestosa rainha de fantasia em traje esmeralda e dourado, diante de um castelo medieval iluminado ao crepúsculo.
+Retrato cinematográfico de uma jovem em blusa vermelha floral, com luz dourada da tarde através de persianas criando sombras dramáticas.
 
 #### 🌟 Prompt
 
-Retrato de corpo inteiro de uma majestosa rainha de fantasia em pé graciosamente sobre as escadas de um …
+Um retrato cinematográfico e altamente detalhado de uma jovem asiática oriental com cabelo escuro levemente …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Retrato de corpo inteiro de uma majestosa rainha de fantasia em pé graciosamente sobre as escadas de um terraço de pedra, cercada por folhas de outono espalhadas ao crepúsculo. Ela usa um opulento vestido corset verde esmeralda escuro adornado com elaborados bordados em folha de ouro e detalhes de joias carmesim, com uma ousada fenda alta na coxa e uma esvoaçante capa de veludo bordô decorada com padrões florais dourados. Seu longo cabelo ondulado e escuro é coroado por uma intrincada tiara dourada, complementada por brincos pendentes combinando e sandálias douradas de tiras com joias. Ao fundo, um grandioso castelo medieval de fantasia iluminado ergue-se contra um céu noturno escuro, emoldurado por lanternas de brilho quente, balaustradas de pedra e um estandarte heráldico vermelho-escuro com o brasão de um leão dourado. Ultradetalhado, iluminação cinematográfica atmosférica, rica paleta de cores outonais.
+Um retrato cinematográfico e altamente detalhado de uma jovem asiática oriental com cabelo escuro levemente despenteado, preso em um coque suave com fios soltos emoldurando o rosto. Ela olha para trás por cima do ombro nu em direção à câmera com uma expressão suave e contemplativa. A luz quente e dourada do fim da tarde entra pelas persianas, projetando sombras lineares nítidas e realces sobre o rosto, o ombro nu e a blusa camponesa vermelha floral de ombros à mostra que ela veste. A maquiagem é natural e viçosa, destacando lábios rosa suaves com acabamento brilhante e um rubor quente nas bochechas. Delicados brincos de prata em formato de flor adornam sua orelha. O fundo está suavemente desfocado com tons internos quentes e profundidade de campo rasa, evocando uma atmosfera nostálgica e melancólica da hora dourada. Estilo fotorrealista, foco nítido nos olhos, iluminação dramática em chiaroscuro, resolução 8k.
 ```
 
 </details>
@@ -2434,7 +2432,7 @@ Retrato de corpo inteiro de uma majestosa rainha de fantasia em pé graciosament
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSnFoIIWQAEOhPo.jpg" width="700" alt="Rainha de Fantasia ao Crepúsculo">
+<img src="https://image.moge.ai/prompt_media/HSzjwTkW8AAG0nf.jpg" width="700" alt="Retrato Hora Dourada em Vermelho">
 </div>
 
 <br>
@@ -2443,49 +2441,49 @@ Retrato de corpo inteiro de uma majestosa rainha de fantasia em pé graciosament
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Talia](https://x.com/TaliaAariz) | [X / Twitter](https://x.com/TaliaAariz/status/2101428013095145597) | 2026-09-19 |
+| [Minahil](https://x.com/Minahil42298354) | [X / Twitter](https://x.com/Minahil42298354/status/2102305559961600083) | 2026-09-22 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101428013095145597)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2102305559961600083)**
 
 </div>
 
 ---
 
-### No. 37: Pôster de Bolo Zebra Listrado
+### No. 37: Painel Editorial de Tênis Esportivo Futurista
 
 ![Categoria: Publicidade e produto](https://img.shields.io/badge/Categoria-Publicidade%20e%20produto-lightgrey)
 
 #### 📚 Descrição
 
-Cria um pôster premium hiper-realista de padaria com uma fatia de bolo mármore zebra como herói, doodles pretos e tipografia ousada.
+Cria uma prancha editorial modular 9:16 de um tênis esportivo escultural sem marca, combinando movimento humano, perfil do produto e macros de engenharia numa paleta obsidiana-titânio com acento ciano glacial.
 
 #### 🌟 Prompt
 
-Um anúncio de pôster de sobremesa premium hiper-realista para uma marca de padaria fictícia chamada STRIPED …
+Crie uma prancha editorial premium de calçado future-sport, 9:16, full bleed. Layout de atelier em painéis …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Um anúncio de pôster de sobremesa premium hiper-realista para uma marca de padaria fictícia chamada STRIPED OVEN, refinado em uma direção pura Orbit onde o esqueleto original do pôster permanece intacto, mas o produto herói fica mais irresistível, o título mais pesado e o momento comestível mais vívido. Uma grande fatia de bolo mármore zebra fica ligeiramente abaixo do centro em um campo de estúdio branco-quente limpo, mostrada em ângulo frontal de três quartos com a face cortada totalmente visível. O bolo exibe fortes faixas alternadas de chocolate e baunilha com listras zebra mais apertadas e ricas, contraste mais profundo entre o cacau escuro e o miolo pálido de baunilha, um interior úmido e macio, borda externa levemente crocante e uma crosta superior de mármore de chocolate brilhante. Um pequeno pedaço do tamanho de uma mordida é levantado em um garfo pela parte superior direita, tornando o momento da “mordida macia” mais explícito e apetitoso.
+Crie uma prancha editorial premium de calçado future-sport, 9:16, full bleed. Layout de atelier em painéis modulares, calçado escultural sem marca, movimento humano.
 
-Enquadramento e composição: layout de pôster vertical, tipografia de manchete preta ousada e superdimensionada dominando o terço superior, cunha de bolo fotorrealista central como herói claro, e ilustrações de talheres pretos desenhados à mão entrando pelas bordas como setas de enquadramento lúdicas. Preserve a estrutura original exatamente: título grande no topo, bolo no centro, elementos gráficos de garfo e faca ao redor, e pequenas cenas de doodle distribuídas ao redor da sobremesa. Mantenha espaço negativo generoso e um fundo branco-quente limpo para que o produto permaneça nitidamente legível. A fatia de bolo deve ser ligeiramente maior do que antes, com maior ênfase central.
+Uma prancha editorial disciplinada de alto contraste composta por 2 a 4 painéis de imagem modulares e nítidos, com calhas limpas e generoso espaço negativo. Paleta obsidiana, osso quente e titânio escovado com uma única linha ou marcador de acento ciano glacial contido.
 
-Design do produto: o bolo mármore zebra é uma fatia de padaria triangular generosa com miolo denso mas macio, dramáticas listras curvas de chocolate e baunilha, poros naturalmente assados, sutil dispersão de migalhas na borda cortada e uma superfície superior marmorizada suavemente brilhante. O padrão de redemoinho deve ser o principal fator de encanto, legível instantaneamente à distância. A mordida levantada no garfo deve mostrar claramente o mesmo interior listrado, com textura suavemente rasgada e compressão de migalhas crível. A faca à esquerda deve apontar para dentro de forma mais decisiva, ajudando a conduzir o olhar para a face cortada central.
+O calçado principal apresenta uma arquitetura escultural original sem marca: cabedal em malha cor pérola-osso, gaiola de calcanhar aberta, ponte de arco flutuante em titânio escovado e um rocker contínuo de cerâmica esfumada com três longos canais entalhados. Antepé integrado e liso, sem cápsulas redondas separadas, sem sola vermelha.
 
-Sistema de ilustração: cerque o bolo com doodles pretos limpos desenhados à mão, incluindo minúsculos ícones de zebra, setas curvas curtas, alegres personagens de comida em miniatura e pequenos esboços tipo chef. Nesta passagem Orbit, mantenha os doodles ligeiramente mais energéticos e melhor posicionados para reforçar o ritmo do produto, mas ainda limpos e esparsos. Eles devem apoiar o bolo e o título, nunca competir com eles. A qualidade da linha permanece leve, lúdica e semelhante a embalagem.
+Os painéis combinam: um gesto atlético humano dinâmico ou momento tranquilo em escala natural, um perfil do tênis herói captando reflexos metálicos e uma macro tátil detalhando a ponte de arco aberta e os sulcos do rocker.
 
-Iluminação e cor: iluminação de comida de estúdio premium brilhante do alto frontal-esquerdo com preenchimento suave envolvente, legibilidade nítida das migalhas, sombra delicada sob o bolo e contraste ligeiramente mais forte do que antes para que as listras de chocolate pareçam mais ricas e o miolo de baunilha mais macio. Equilíbrio de paleta: 60% tons quentes branco-creme e baunilha, 30% marrom cacau profundo e massa de manchete preta, 10% pequenos acentos quentes de padaria e notas de doodle. O quadro deve parecer alegre, tátil e limpo, sem brancos turvos ou textura de bolo plana e de baixo contraste.
+Título: "[HEADLINE]"
+Gesto humano: [MOVIMENTO E POSE ATLÉTICOS]
+Cenário do atelier: [AMBIENTE E ILUMINAÇÃO]
+Hierarquia dos painéis: [ARRANJO MODULAR DOS PAINÉIS]
+Foco macro: [DETALHE DE ENGENHARIA E BRILHO DO TITÂNIO]
 
-Materiais e acabamento: fotografia de padaria hiper-realista fundida com design de pôster ilustrado limpo. Mostre textura de miolo úmido, densidade fina de chocolate, crosta superior marmorizada realista, poros delicados do bolo, minúsculas migalhas soltas perto do corte e linhas de doodle nítidas e limpas como tinta. O acabamento final deve parecer uma campanha de padaria nível Cannes: lúdica, memorável, liderada pelo produto e comercialmente magnética.
-
-Tipografia: todo o texto visível apenas em inglês, integrado como design gráfico premium. A manchete principal no topo lê exatamente: "WILD STRIPES" em letras pretas grandes, pesadas e lúdicas. Uma linha secundária menor abaixo lê exatamente: "Marble cake, the joyful way." Adicione uma pequena marca sutil em um canto superior lendo exatamente: "STRIPED OVEN". Perto da mordida levantada adicione uma pequena nota estilo manuscrito lendo exatamente: "soft inside". Perto da área inferior adicione uma pequena linha de apoio lendo exatamente: "Chocolate and vanilla in every turn." A tipografia deve parecer mais pesada, mais ousada e mais imediata do que antes, mantendo-se afastada da silhueta do bolo.
-
-Saída e restrições: pôster de sobremesa premium polido, hierarquia produto-primeiro, sem texto de origem copiado, sem nomes de marca reais, sem pessoas, sem adereços desordenados, sem cena de mesa, sem excesso de bagunça de migalhas. Mantenha os utensílios naturais e bem angulados, a mordida levantada crível, as listras zebra ousadas e limpas, e o sistema de doodle controlado. Evite geometria de bolo distorcida, textura de miolo turva, texto ilegível, sobrecarga de esboços bagunçados, superfície de bolo com aparência plástica, perspectiva de talheres quebrada, texto sem sentido de IA, brancos mortos ou desvio do realismo alimentar comercial de alto nível.
+Renderize um título editorial limpo em grotesca condensada refinada. Mantenha a tipografia alinhada à grade com micro-rótulos mínimos. Sem Nike, sem Reebok, sem swoosh, sem logos, sem marcas falsas, sem HUD carregado, sem membros duplicados.
 ```
 
 </details>
@@ -2493,7 +2491,7 @@ Saída e restrições: pôster de sobremesa premium polido, hierarquia produto-p
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSfCyC8bUAEMH7z.jpg" width="700" alt="Pôster de Bolo Zebra Listrado">
+<img src="https://image.moge.ai/prompt_media/HSvaSd3WsAAoTMR.jpg" width="700" alt="Painel Editorial de Tênis Esportivo Futurista">
 </div>
 
 <br>
@@ -2502,41 +2500,37 @@ Saída e restrições: pôster de sobremesa premium polido, hierarquia produto-p
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2100861937706021321) | 2026-09-18 |
+| [Vigo Zhao](https://x.com/VigoCreativeAI) | [X / Twitter](https://x.com/VigoCreativeAI/status/2102035122707173584) | 2026-09-21 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2100861937706021321)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2102035122707173584)**
 
 </div>
 
 ---
 
-### No. 38: Pôster de Viagem em Papel 3D
+### No. 38: Interior de Trem Urbano: Foto e Ilustração
 
 ![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
 
 #### 📚 Descrição
 
-Cria um pôster de viagem vertical dividido: foto realista no topo e a mesma cena recriada em papel recortado 3D embaixo, com tipografia elegante.
+Retrata o interior de um trem urbano moderno — assentos azuis e brancos com um assento laranja em destaque — em dois estilos: fotografia editorial serena e ilustração de diário de viagem em aquarela.
 
 #### 🌟 Prompt
 
-Um pôster de viagem vertical, em painéis divididos, com uma vista fotográfica na parte superior e uma …
+Crie uma fotografia de viagem serena e premium do interior de um trem urbano moderno durante o dia. Mostre um …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Um pôster de viagem vertical, em painéis divididos, com uma vista fotográfica na parte superior e uma ilustração em papel-craft 3D em camadas da mesma cena exata na parte inferior.
+Crie uma fotografia de viagem serena e premium do interior de um trem urbano moderno durante o dia. Mostre um vagão branco, limpo e brilhante, com grandes janelas iluminadas por uma suave luz natural, uma fileira de assentos moldados azuis e brancos vazios ao longo da janela, com um assento laranja distinto em destaque, postes verticais de aço inoxidável, trilhos suspensos e várias alças triangulares suspensas em azul e laranja. Use uma composição documental de grande angular suave, com fortes linhas de condução, profundidade de campo suave, exposição arejada em tom alto, reflexos sutis nas janelas e no metal, tons pastel delicados, texturas realistas, grão de filme discreto, atmosfera minimalista e calma, fotografia de viagem autêntica, estética editorial sofisticada, imperfeições naturais, composição vertical 4:5, sem pessoas, sem logotipos, sem marca d'água.
 
-Painel Superior (Fotografia Realista): Uma fotografia grande-angular, altamente detalhada e vibrante de [INSERIR LOCAL/CENÁRIO, ex.: um sereno vale alpino suíço com um trem azul moderno, uma floresta dourada de outono, ou uma vila costeira]. A iluminação é [INSERIR ESTILO DE ILUMINAÇÃO, ex.: luz quente da hora dourada / luz nítida da manhã / dia claro]. A composição mostra [INSERIR SUJEITO/AÇÃO PRINCIPAL, ex.: um trem fazendo uma curva nos trilhos / um viajante caminhando com ovelhas / um barco navegando].
-
-Painel Inferior (Arte em Papel-Craft): Uma ilustração intrincada, em papel recortado 3D de múltiplas camadas, recriando a cena exata da foto acima. Camadas de papel dimensionais feitas à mão criam profundidade, com bordas de papel texturizadas e sombras visíveis. Elementos como as montanhas de fundo, árvores, arquitetura e sujeitos são construídos a partir de recortes de papel colorido distintos. O papel de fundo atrás da ilustração é de uma cor creme off-white quente e texturizada.
-
-Tipografia e Layout: Design de pôster de viagem limpo e minimalista. Tipografia serifada escura e elegante para o título principal: "[INSERIR TÍTULO, ex.: Alpine Journey]". Texto menor sem serifa alinhado à direita ou à lateral: "[INSERIR SUBTÍTULOS, ex.: SCENIC ROUTE / NATURE / A BRIGHTER TOMORROW]". Legendas minimalistas e finas linhas de alinhamento colocadas sobre o fundo de papel creme.
+Crie uma ilustração minimalista de diário de viagem vintage do mesmo interior de trem urbano moderno: uma fileira de assentos azuis e brancos vazios ao lado de grandes janelas, um assento laranja distinto, postes finos de aço inoxidável, trilhos suspensos e várias alças triangulares suspensas. Desenhe-a com contornos de tinta delicados e imperfeitos combinados com suaves aguadas de aquarela em azul suave, laranja pálido, cinza quente e creme. Coloque a ilustração sobre papel marfim quente levemente envelhecido, com fibras visíveis, sutil grão de papel, bordas irregulares pintadas à mão, pequenas imperfeições de impressão e muito espaço negativo elegante. Adicione tipografia editorial refinada com os dizeres “CITY RIDE” e o pequeno subtítulo “A quiet journey through the light.” abaixo. Estética contemporânea de fanzine de viagem japonesa, clima nostálgico e tranquilo, design gráfico minimalista sofisticado, sensação artesanal, composição equilibrada, formato vertical 4:5, sem logotipos, sem marca d'água.
 ```
 
 </details>
@@ -2544,7 +2538,7 @@ Tipografia e Layout: Design de pôster de viagem limpo e minimalista. Tipografia
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSo5s3jbsAArQri.jpg" width="700" alt="Pôster de Viagem em Papel 3D">
+<img src="https://image.moge.ai/prompt_media/HSuAyH8bsAAb6pW.jpg" width="700" alt="Interior de Trem Urbano: Foto e Ilustração">
 </div>
 
 <br>
@@ -2553,13 +2547,13 @@ Tipografia e Layout: Design de pôster de viagem limpo e minimalista. Tipografia
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Sairah](https://x.com/Sairah_0) | [X / Twitter](https://x.com/Sairah_0/status/2101555686060536233) | 2026-09-20 |
+| [Mahnoor Fatima](https://x.com/MahnoorAi12) | [X / Twitter](https://x.com/MahnoorAi12/status/2101915804724015207) | 2026-09-21 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101555686060536233)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101915804724015207)**
 
 </div>
 
@@ -2734,85 +2728,24 @@ Evitar: aparência de capa de livro, títulos gigantes, pintura tradicional a ti
 
 ---
 
-### No. 41: Retrato em Aquarela e Tinta com Contraste de Cores
+### No. 41: Personagens Fofos em Aquarela
 
 ![Categoria: Ilustração e IP](https://img.shields.io/badge/Categoria-Ilustra%C3%A7%C3%A3o%20e%20IP-lightgrey)
 
 #### 📚 Descrição
 
-Transforma uma selfie em um retrato feminino em aquarela e tinta, com contraste dividido de cores quentes e frias, respingos e traços fluidos.
+Cria clip art fofa em aquarela de um personagem interagindo com um objeto, com traços soltos e paleta suave sobre fundo branco.
 
 #### 🌟 Prompt
 
-Use a imagem enviada APENAS como referência de rosto e identidade. Não altere a estrutura facial, as …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
 ```
-Use a imagem enviada APENAS como referência de rosto e identidade. Não altere a estrutura facial, as proporções nem o realismo.
-
-Crie um retrato feminino em técnica mista de aquarela de alto detalhe com POSE ESTRITAMENTE FIXADA:
-Vista de três quartos de costas
-Parte superior do corpo levemente virada para longe da câmera
-Cabeça virada sobre o ombro em direção ao observador
-Contato visual direto
-Enquadramento inclui cabeça, pescoço e parte do ombro
-Composição bem fechada (foco em retrato)
-
-Expressão (IMPORTANTE):
-Calma porém emocionalmente intensa, olhar suave mas penetrante, lábios levemente entreabertos, tensão sutil e natural no rosto — sem emoção exagerada.
-
-Estilo de Renderização (FIXO)
-Ilustração híbrida de aquarela + tinta
-Lavagens fluidas e suaves + traço nítido de tinta
-Linhas escuras finas definindo olhos, nariz, lábios, mandíbula
-Sem desfoque pictórico, sem efeito de pintura a óleo
-
-Cor e Iluminação (ESTRUTURADA)
-Forte contraste de cores dividido:
-Lado esquerdo → quente (amarelo, laranja, magenta)
-Lado direito → frio (azul, ciano, violeta)
-Luz abstrata vindo do canto superior esquerdo (representada como explosões de cor, não luz realista)
-Tons de pele mesclam naturalmente com os pigmentos de aquarela (não coloração chapada)
-
-Comportamento da Aquarela (MUITO IMPORTANTE)
-Mistura molhado-sobre-molhado no rosto e na pele
-Respingos de tinta visíveis ao redor do sujeito
-Salpicos e gotas de tinta controlados
-Escorridos verticais sutis (especialmente na parte inferior)
-Manchas orgânicas de cor e bordas de pigmento
-Cores vazam levemente além das bordas (sensação natural de aquarela)
-
-Cabelo (COMBINE O ESTILO)
-Coletado solto ou coque desarrumado
-Fios finos ao redor do rosto
-O cabelo absorve as cores ao redor (azul, roxo, brilhos quentes)
-Leve sensação de movimento, não estático
-
-Fundo
-Base branca limpa
-Respingos dinâmicos de aquarela atrás do sujeito (não aleatórios — cientes da composição)
-Sem bagunça, sem objetos
-
-Textura
-Grão visível de papel de aquarela prensado a frio
-Bordas de pigmento levemente ásperas
-Imperfeições naturais de aquarela preservadas
-
-Estilo: ilustração expressiva de aquarela + tinta
-
-Clima: artístico, cheio de alma, emocionalmente envolvente
-
-Proporção: 4:5
+Clip art fofa em aquarela, com estilo infantil, de um [personagem] segurando ou interagindo com um [objeto], proporções divertidas, lavagens suaves de aquarela, bordas soltas pintadas à mão, expressão alegre, paleta colorida e delicada, estética encantadora de livro de histórias, detalhes simples, isolado em um fundo branco limpo
 ```
-
-</details>
 
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSTsKWyboAAgUJT.jpg" width="700" alt="Retrato em Aquarela e Tinta com Contraste de Cores">
+<img src="https://image.moge.ai/prompt_media/HSvEm4Gb0AAeQLj.jpg" width="700" alt="Personagens Fofos em Aquarela">
 </div>
 
 <br>
@@ -2821,35 +2754,35 @@ Proporção: 4:5
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Kubra Ai](https://x.com/Kubra_286) | [X / Twitter](https://x.com/Kubra_286/status/2100063240105435328) | 2026-09-16 |
+| [Amira Zairi](https://x.com/azed_ai) | [X / Twitter](https://x.com/azed_ai/status/2101989836676911273) | 2026-09-21 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2100063240105435328)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101989836676911273)**
 
 </div>
 
 ---
 
-### No. 42: Retrato de Beleza Luxo Pele de Vidro
+### No. 42: Retrato Cozy de Coelhinha em Estúdio
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Retrato macro de beleza de luxo de uma jovem asiática com pele de vidro luminosa, maquiagem sofisticada e fundo cremoso com bokeh floral bordô.
+Cria um retrato de estúdio high-key de uma idol vestindo um conjunto de pelúcia branca com orelhas de coelho, sentada sobre um tapete felpudo em iluminação suave.
 
 #### 🌟 Prompt
 
-Retrato de beleza de luxo em ultra close-up de uma deslumbrante jovem [mulher coreana / japonesa], pele de …
+Gere uma fotografia de retrato em quadro único de Kim Chaewon do LE SSERAFIM, uma exposição contínua …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Retrato de beleza de luxo em ultra close-up de uma deslumbrante jovem [mulher coreana / japonesa], pele de vidro luminosa e impecável, blush suave pêssego-rosé, olhos amendoados castanhos quentes, sombra shimmer champanhe, delineado preto alado elegante e definido, longos cílios curvados, sobrancelhas naturais perfeitamente desenhadas, lábios vermelho-carmesim intenso e brilhante, cabelo escuro sedoso penteado para trás com algumas mechas soltas emoldurando o rosto, expressão graciosa e confiante, lábios levemente entreabertos, estética premium de campanha de beleza asiática, fundo cremoso quente com sutil bokeh floral bordô e delicados padrões de sombra suave, iluminação natural cinematográfica, brilhos glossy nas maçãs do rosto, poros e textura de pele realistas, fotografia de beleza macro, profundidade de campo rasa, acabamento editorial de alta moda, glamour feminino sofisticado, hiper-realista, estética de beleza viral marcante, 8K, orientação retrato
+Gere uma fotografia de retrato em quadro único de Kim Chaewon do LE SSERAFIM, uma exposição contínua preenchendo o quadro de ponta a ponta. Seu bob reto castanho-escuro na altura do queixo, com franja suave e esvoaçante, emoldura seu rosto, destacando seu olhar gentil e de olhos grandes, um leve biquinho suave e um contato visual calmo e direto. Ela usa um confortável conjunto de duas peças feito de pelúcia fofa de pelo alto ultramacia em branco nuvem puro, com um top cropped tomara-que-caia de pelúcia com decote reto e recatado e forro opaco sólido, combinado com shorts de estar em casa de cintura alta em pelúcia com cobertura totalmente opaca e uma tiara com orelhas de coelho macias. Um detalhe de pompom branco e fofo enfeita a parte de trás do shorts. Um colar fino com placa e a inscrição alicekpop_ai em delicada letra cursiva repousa logo abaixo de sua clavícula. Ela está descalça, sentada graciosamente no centro de um tapete circular felpudo de pelúcia cinza, com os joelhos suavemente dobrados, apoiando o queixo nas mãos levemente entrelaçadas. Ao fundo, o estúdio fotográfico minimalista high-key apresenta uma parede de ciclorama cinza-claro lisa e sem emendas atrás do tapete. Uma iluminação de beleza de estúdio suave e difusa vinda de um grande softbox superior cria uma iluminação envolvente suave e delicadas sombras suaves pelo chão. Fotografado com lente de 85mm ao nível dos olhos, f/2.2, quadro vertical alto, uma figura centralizada preenchendo a altura da imagem. Acabamento de moda de estúdio high-key limpo, com tons de pele naturais, contraste suave e nitidez de lente precisa, com a pelúcia branco nuvem pura irradiando aconchego contra o fundo sem emendas.
 ```
 
 </details>
@@ -2857,7 +2790,7 @@ Retrato de beleza de luxo em ultra close-up de uma deslumbrante jovem [mulher co
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSjlxcKbAAAMYY8.jpg" width="700" alt="Retrato de Beleza Luxo Pele de Vidro">
+<img src="https://image.moge.ai/prompt_media/HSxUIXcXMAAq12z.jpg" width="700" alt="Retrato Cozy de Coelhinha em Estúdio">
 </div>
 
 <br>
@@ -2866,49 +2799,49 @@ Retrato de beleza de luxo em ultra close-up de uma deslumbrante jovem [mulher co
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Wania](https://x.com/AIwithWania) | [X / Twitter](https://x.com/AIwithWania/status/2101181883963068583) | 2026-09-19 |
+| [Alice Han](https://x.com/alicekpop_ai) | [X / Twitter](https://x.com/alicekpop_ai/status/2102147725005324734) | 2026-09-21 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101181883963068583)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2102147725005324734)**
 
 </div>
 
 ---
 
-### No. 43: Pôster Tropical de Bebida em Papel Rasgado
+### No. 43: Pôster Esportivo com Megatipografia em Movimento
 
 ![Categoria: Publicidade e produto](https://img.shields.io/badge/Categoria-Publicidade%20e%20produto-lightgrey)
 
 #### 📚 Descrição
 
-Cria um pôster premium de bebida de coco com a lata central como herói e uma abertura de papel rasgado revelando cocos e respingos tropicais.
+Cria um pôster esportivo premium 9:16 com um objeto herói em foco nítido, atleta em rastros de movimento direcional e megatipografia branca sobre um gradiente luminoso.
 
 #### 🌟 Prompt
 
-Um anúncio de pôster hiper-realista de bebida premium para uma marca fictícia de bebida tropical chamada …
+Crie um pôster de campanha esportiva premium finalizado, 9:16, sangria total. Megatipografia de velocidade …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Um anúncio de pôster hiper-realista de bebida premium para uma marca fictícia de bebida tropical chamada PALMORA, projetado como um key visual limpo do tipo Orbit-plus-Port onde a lata real permanece o herói absoluto e o mundo de apoio é reduzido a camadas estruturais elegantes e de alto impacto. Uma lata de bebida alta e esbelta fica perfeitamente centralizada e ereta contra um fundo de papel bege-areia quente, de frente e dominante. A lata está gelada com fina condensação, textura sutil de alumínio e design de impressão premium nítido. Atrás e parcialmente ao redor da lata, a superfície de papel parece rasgada em uma ruptura horizontal controlada, revelando uma vívida camada tropical interna de cocos partidos, respingo cremoso de coco e folhas de palmeira. O rasgo parece projetado em vez de caótico, como uma janela de revelação da marca cortada através da superfície.
+Crie um pôster de campanha esportiva premium finalizado, 9:16, sangria total. Megatipografia de velocidade borrada, um único objeto herói em primeiro plano perfeitamente nítido.
 
-Enquadramento e composição: layout de pôster vertical, hierarquia central rígida, lata herói superdimensionada no meio, amplo espaço negativo no canto superior esquerdo para um grande título gráfico, texto premium menor no canto superior direito e um sistema mínimo de informação por ícones alinhado ao longo da área inferior. Mantenha a silhueta da lata intocada e claramente legível. A revelação de papel rasgado deve ficar atrás da lata como uma faixa horizontal escultural, com bordas de papel enroladas à esquerda e à direita criando profundidade e contraste tátil de material. Preserve a lógica de referência de produto central, revelação rasgada, grande título gráfico e faixa de ícones inferior, mas simplifique e refine cada elemento periférico para uma sensação de pôster mais curada.
+Atmosfera de gradiente luminoso de dois ou três tons, mesclando cor esportiva saturada em um campo contrastante claro ou profundo. Dentro dela, uma fotografia de ação em ângulo baixo e grande angular com forte perspectiva de proximidade e distância.
 
-Design do produto: crie uma lata premium de bebida tropical de coco com corpo branco-off fosco, tipografia de marca verde-oliva profundo, aro metálico cinza-quente suave, gotas naturais de condensação e um sistema de impressão botânico contido com sombras de folha de palmeira e um visual limpo de coco. O rótulo frontal principal diz exatamente: "COCONUT CHILL". O pequeno texto do anel superior diz exatamente: "PURE / NATURAL / REFRESHING". A sublinha abaixo do título principal diz exatamente: "pure tropical refreshment". O texto de ingredientes na parte inferior diz exatamente: "REAL COCONUT EXTRACT", "NO ARTIFICIAL FLAVORS", "NO PRESERVATIVES". A marca de volume inferior diz exatamente: "330 ML". A lata deve parecer pronta para o mercado global, tátil e lindamente marcada.
+Um objeto de equipamento esportivo em primeiro plano aparece superdimensionado, perto da lente, em foco extremamente nítido com detalhes realistas. O atleta e o ambiente ao redor, atrás dele, se transformam em desfoque de movimento direcional intencional de longa exposição, seguindo a trajetória real da ação. Rosto e forma atlética permanecem identificáveis.
 
-Camada de revelação e elementos de apoio: dentro da abertura de papel rasgado, mostre cocos partidos hiper-realistas com cascas marrons fibrosas, polpa branca brilhante e formas de respingo de leite de coco dinâmicas mas controladas. Adicione algumas folhas de palmeira entrando pelas bordas superior direita e inferior esquerda, mas mantenha-as esparsas e elegantes. Esta revelação interna deve parecer um mundo tropical destilado, não uma colagem desordenada. O respingo e os cocos devem apoiar a lata, nunca dominá-la. Mantenha a sensação geral fresca, arejada, cremosa e premium.
+Uma enorme manchete em sans-serif geométrica maiúscula, branca, em negrito e alto contraste, sobrepõe a cena, varrendo diagonalmente ou em arco ao redor e parcialmente atrás do atleta, com bordas limpas e legíveis.
 
-Iluminação e cor: luz-chave comercial direcional suave do canto superior esquerdo, preenchimento natural quente pela frente, sombras sutis lançadas por folhas de palmeira sobre o fundo de papel e roll-off refinado de destaque no corpo da lata e nas bordas do respingo. Equilíbrio de paleta: 60% papel bege-areia quente e corpo branco-off da lata, 30% marrom de coco e respingo branco cremoso, 10% tipografia verde-oliva e acentos botânicos. Construa contraste suficiente para que o volume da lata, as bordas do rasgo de papel e as texturas de coco pareçam dimensionais, evitando neutros lamacentos ou manchas de sombra mortas.
+Manchete: "[HEADLINE]"
+Âncora nítida: [OBJETO ESPORTIVO HERÓI PERTO DA LENTE]
+Sujeito: [ATLETA & AÇÃO DIRECIONAL]
+Cena: [PALETA DE GRADIENTE & AMBIENTE]
+Trajetória do desfoque: [RASTROS DE MOVIMENTO DIRECIONAL]
 
-Materiais e acabamento: fotografia de produto hiper-realista fundida com design tátil de cenário de papel. Mostre fibras de papel fosco suave e bordas rasgadas enroladas, alumínio gelado realista, minúsculas gotas de condensação, detalhe fibroso de casca de coco, polpa branca lisa de coco, respingo brilhante de leite e fidelidade de impressão limpa na lata. A imagem final deve parecer uma campanha de lançamento de bebida nível Cannes: minimalista, tátil, tropical e com direção de arte precisa.
-
-Tipografia: todo o texto de anúncio visível apenas em inglês, integrado ao pôster como design gráfico premium. O título gráfico superdimensionado no canto superior esquerdo diz exatamente: "New Order Now" em um estilo de exibição retro-orgânico ousado, grande e escultural. A tagline premium no canto superior direito diz exatamente: "TROPICAL VIBES" e abaixo exatamente: "Every Sip". O pequeno texto de apoio inferior esquerdo diz exatamente: "NATURALLY HYDRATING", "RICH IN ELECTROLYTES", "REFRESH YOUR DAY". Os rótulos de ícone do centro inferior dizem exatamente: "NATURAL INGREDIENTS", "HYDRATING BOOST", "CHILLED TO PERFECTION". O selo circular inferior direito diz exatamente: "FEEL THE CHILL / LIVE THE GOODNESS". Mantenha a tipografia com direção de arte, espaçosa e harmonizada com a marca da lata, sempre longe da silhueta central do produto.
-
-Saída e restrições: pôster de bebida premium polido, composição com produto em primeiro lugar, sem nomes de marca originais copiados, sem pessoas, sem adereços não relacionados, sem excesso tropical desordenado. Mantenha a geometria da lata correta, tipografia nítida, bordas de rasgo críveis, anatomia de coco realista, física de respingo controlada e a linguagem visual geral calma, premium e limpa. Evite proporções de lata distorcidas, texto de rótulo ilegível, folhas de palmeira excessivas, tom bege lamacento, brancos sujos, respingos caóticos, física de papel quebrada, estética barata de anúncio de banco de imagens, texto sem sentido de IA ou desvio do realismo comercial de alto padrão.
+Mantenha o objeto herói ultra nítido, o rosto reconhecível e a tipografia legível. Sem Nike, sem Reebok, sem swoosh, sem logos, sem marcas falsas, sem desfoque uniforme, sem membros fantasmas.
 ```
 
 </details>
@@ -2916,7 +2849,7 @@ Saída e restrições: pôster de bebida premium polido, composição com produt
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSe-FUvbgAAOiV1.jpg" width="700" alt="Pôster Tropical de Bebida em Papel Rasgado">
+<img src="https://image.moge.ai/prompt_media/HSvAgdQWkAApxpk.jpg" width="700" alt="Pôster Esportivo com Megatipografia em Movimento">
 </div>
 
 <br>
@@ -2925,55 +2858,54 @@ Saída e restrições: pôster de bebida premium polido, composição com produt
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2100856769023201601) | 2026-09-18 |
+| [Vigo Zhao](https://x.com/VigoCreativeAI) | [X / Twitter](https://x.com/VigoCreativeAI/status/2101985516442829175) | 2026-09-21 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2100856769023201601)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101985516442829175)**
 
 </div>
 
 ---
 
-### No. 44: Brinquedo de Papercraft do Seu Pet
+### No. 44: Pôster Antes e Depois Geométrico
 
 ![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
 
 #### 📚 Descrição
 
-Transforma a foto do seu pet em um template de papercraft cúbico low-poly imprimível, com peças recortáveis planas preservando totalmente a aparência do animal.
+Transforma uma foto em um pôster 3:4 com a foto original em cima e uma releitura geométrica plana embaixo, no estilo de livro de arte.
 
 #### 🌟 Prompt
 
-Use a foto do meu pet que enviei como a única fonte da aparência do animal. Crie um template realista e …
+Usando a foto enviada, crie um pôster vertical de comparação “antes e depois” em 3:4. Se várias fotos forem …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Use a foto do meu pet que enviei como a única fonte da aparência do animal. Crie um template realista e imprimível de brinquedo de papercraft em cubo do meu pet, preservando 100% sua identidade e características únicas: cor do pelo, padrão do pelo, olhos, formato do rosto, orelhas, proporções do corpo, marcas e expressão.
+Usando a foto enviada, crie um pôster vertical de comparação “antes e depois” em 3:4. Se várias fotos forem enviadas, crie um pôster separado para cada foto; não misture fotos diferentes na mesma página. As seções superior e inferior devem ocupar exatamente metade da altura total, com uma transição perfeita entre elas. Não adicione bordas, setas ou rótulos “Antes”/“Depois”.
 
-Transforme meu pet em um modelo 3D de papel artesanal (estilo cubo low-poly) como um template de papercraft DIY. Mostre as peças recortadas desdobradas dispostas planas sobre um fundo branco: cabeça, corpo, patas, orelhas e cauda separadas, com linhas de dobra, abas e bordas de corte claramente visíveis.
+【SEÇÃO SUPERIOR: FOTO ORIGINAL】
+A seção superior deve usar a foto original enviada, preenchendo toda a largura da tela. Preserve o sujeito original, pose/ação, cena, iluminação natural e paleta de cores dominante. Permita apenas ajustes sutis de cor geral; não altere a atmosfera nem adicione efeitos de filtro. Mantenha a proporção original da foto e não estique o sujeito. Para caber na seção superior, você pode cortar bordas sem importância; se o corte remover o sujeito principal, priorize adicionar um pouco de fundo, mas nunca invente ou altere o sujeito ou elementos-chave da cena.
 
-A textura impressa nas peças de papel deve usar a textura e as cores reais do pelo do meu pet, para que, montada, se torne uma pequena figura 3D em forma de cubo do meu pet exato.
+【SEÇÃO INFERIOR: ABSTRATO GEOMÉTRICO】
+Usando a mesma foto da seção superior como única referência, recrie o sujeito central e alguns elementos ambientais principais como uma ilustração de estilo plano, geométrico e de bordas nítidas. Não adicione pessoas, animais, objetos ou ações que não estavam na foto original. Preserve a posição esquerda/direita do sujeito, pose, direção, interações e principais relações de oclusão da foto, de modo que as seções superior e inferior pareçam alinhadas à primeira vista; porém, não é necessário reproduzir a imagem pixel a pixel.
 
-Inclua:
+Remova elementos de fundo secundários e detalhes insignificantes. O sujeito pode ser reduzido levemente para criar amplo espaço negativo ao seu redor. Construa objetos usando um número limitado de polígonos de tamanhos variados, curvas simplificadas e blocos de cor sólida. Preserve o suficiente da silhueta, movimento e características definidoras do sujeito para que ele permaneça reconhecível como o sujeito específico da foto original; não o reduza a um ícone genérico.
 
-cabeça em forma de cubo com o rosto real do meu pet
+Use blocos de cor adjacentes de formas e níveis de brilho diferentes para definir a estrutura. Não use gradientes, contornos, sombras 3D ou texturas realistas. Extraia aproximadamente 5–6 cores representativas da foto original e organize-as em uma paleta coesa com saturação levemente reduzida. Use um tom bege/branco-sujo quente como cor de fundo da seção inferior. Reserve os tons mais escuros para alguns pontos focais visuais e mantenha uma cor de destaque que ecoe a fotografia original. Não altere arbitrariamente as cores mais reconhecíveis do sujeito central.
 
-corpo em forma de cubo com textura de pelo realista
+Mantenha todas as bordas geométricas nítidas e afiadas. Adicione apenas uma textura de granulação impressa extremamente sutil dentro dos blocos de cor, com leve desalinhamento de registro permitido em algumas bordas. Não renderize a imagem inteira com textura de papel áspero ou efeito de glitch-art.
 
-quatro patas correspondentes à aparência do meu pet
+【TEXTO】
+Adicione uma pequena quantidade de tipografia estilo arquivo à seção inferior: gere automaticamente um título curto em inglês baseado no conteúdo da foto, acompanhado do pequeno número “NO. 023”. Coloque o título em uma área de espaço negativo onde não obstrua o sujeito, e posicione o número diagonalmente oposto ao título para criar equilíbrio visual.
 
-orelhas com formato correto e detalhes internos
+Não fabrique locais, datas, identidades ou eventos reais, e não adicione texto explicativo excessivamente denso. A composição geral deve lembrar uma página de um livro de arte contemporâneo: uma fotografia rica e realista em cima combinada com uma interpretação geométrica ousada, altamente simplificada e ordenada embaixo.
 
-cauda correspondente ao tamanho e padrão de cor do meu pet
-
-Estilo: template de papercraft realista, fotografia de produto de alta qualidade, fundo branco limpo, design de artesanato imprimível detalhado, bordas nítidas, textura de pelo realista impressa no papel.
-
-Não altere a aparência do meu pet. Não o transforme em outro animal, desenho, pelúcia ou gato/cachorro genérico. Deve parecer meu pet real convertido em um modelo de papercraft em cubo.
+Mantenha o trabalho geral contido, suave e distinto. Evite rostos de desenho animado, efeitos 3D, materiais plásticos, cores neon berrantes ou rabiscos aleatórios.
 ```
 
 </details>
@@ -2981,7 +2913,7 @@ Não altere a aparência do meu pet. Não o transforme em outro animal, desenho,
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSmB2wuXgAA7IMD.jpg" width="700" alt="Brinquedo de Papercraft do Seu Pet">
+<img src="https://image.moge.ai/prompt_media/HStoUQbaMAAtFmJ.jpg" width="700" alt="Pôster Antes e Depois Geométrico">
 </div>
 
 <br>
@@ -2990,13 +2922,13 @@ Não altere a aparência do meu pet. Não o transforme em outro animal, desenho,
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Kris Kashtanova](https://x.com/icreatelife) | [X / Twitter](https://x.com/icreatelife/status/2101353488408006830) | 2026-09-19 |
+| [Sairah](https://x.com/Sairah_0) | [X / Twitter](https://x.com/Sairah_0/status/2101888385627598947) | 2026-09-21 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101353488408006830)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101888385627598947)**
 
 </div>
 
@@ -3111,23 +3043,29 @@ A imagem final deve parecer um pôster de campanha ou cultural finalizado: desig
 
 ---
 
-### No. 47: Compilador de Ilustração Anime a Tinta
+### No. 47: Retrato De Stijl em Díptico Vertical
 
 ![Categoria: Ilustração e IP](https://img.shields.io/badge/Categoria-Ilustra%C3%A7%C3%A3o%20e%20IP-lightgrey)
 
 #### 📚 Descrição
 
-Um sistema que converte qualquer ideia num único prompt de ilustração anime narrativa, com contornos a tinta, cor local plana e sombras gráficas, evitando qualquer deriva fotográfica ou 3D.
+Transforma uma foto de pessoa ou pet em um díptico vertical: metade superior realista, metade inferior reconstruída no estilo geométrico De Stijl com linhas pretas e cores primárias.
 
 #### 🌟 Prompt
 
-[Tradução PT-BR do prompt completo acima: um compilador de prompts Midjourney V8.2 para ilustração anime …
+Crie uma ilustração completa em díptico vertical, dividida rigorosamente 1:1 entre metade superior e …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-[Tradução PT-BR do prompt completo acima: um compilador de prompts Midjourney V8.2 para ilustração anime narrativa desenhada à mão com tinta e cor plana. Define papel, núcleo visual, sistema de tinta, forma e sombreamento, ficha de personagem, design de rosto e corpo, cabelo, guarda-roupa, mãos e posse de objetos, controle de elenco, ação, composição, enquadramento, ambiente, distribuição de detalhe, separação figura/fundo, sistema de cor, luz, sinalização e texto, superfície, originalidade, anti-deriva, regras de compilação e economia do prompt, modo de referência de estilo, política e higiene de parâmetros (--v 8.2 --raw --ar 2:3 --s 50 --c 0 --hd; com Style Reference válida usar --sw 100), múltiplas imagens, protocolo de revisão de resultados, regra de correção e verificação final. Retornar apenas o prompt finalizado.]
+Crie uma ilustração completa em díptico vertical, dividida rigorosamente 1:1 entre metade superior e inferior, parecendo uma obra de díptico cuidadosamente projetada, e não uma simples colagem. A metade superior é a extração do sujeito da foto original; a inferior é uma reconstrução no estilo De Stijl.
+Metade superior:
+Use a foto enviada como única referência do sujeito, identificando automaticamente a principal pessoa, gato, cachorro ou outro pet comum, focando no sujeito em si e ignorando o predomínio de construções e ambientes complexos. Preserve ao máximo as informações mais identificáveis do sujeito, incluindo proporções faciais, penteado, roupa e presença da pessoa, ou a cor do pelo, padrão, porte e traços do pet. Simplifique moderadamente o fundo; sujeito completo e nítido, composição estável.
+Metade inferior:
+Transforme o mesmo sujeito numa ilustração completa na linguagem visual do estilo De Stijl. Características centrais: linhas pretas horizontais e verticais, cores primárias vermelho/amarelo/azul e blocos brancos em composição ordenada. Princípios gerais: estrutura geométrica clara, blocos planos e composição ordenada, com controle de hierarquia e espaço em branco. Use um único sujeito claro ou uma cena clara, centro visual estável, sujeito completo sem cortes, fundo moderadamente simplificado com espaço para respirar; linhas, blocos de cor, luz e sombra, textura e a superfície do papel devem servir ao mesmo estilo, sem misturar estilos alheios. O contorno, a pose, as grandes relações do vestuário e o espaço negativo do sujeito devem ser racionalmente inseridos no sistema ordenado de linhas pretas horizontais/verticais e blocos de cores primárias, formando uma tradução altamente geométrica e estruturada do estilo De Stijl. A imagem deve ser natural, com sensação artesanal e características de estilo reconhecíveis, evitando o excesso de suavidade, o acúmulo de detalhes sem sentido e as decorações aleatórias típicas da IA.
+Requisitos gerais:
+Os sujeitos superior e inferior devem corresponder fortemente; a metade inferior deve ser reconhecível à primeira vista como a reconstrução De Stijl do mesmo sujeito da metade superior. A menos que o tema exija explicitamente, não gere texto, logo, marca d'água, bordas ou UI, e não faça colagem de múltiplas imagens.
 ```
 
 </details>
@@ -3135,7 +3073,7 @@ Um sistema que converte qualquer ideia num único prompt de ilustração anime n
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSTn7ToXcAAzWir.jpg" width="700" alt="Compilador de Ilustração Anime a Tinta">
+<img src="https://image.moge.ai/prompt_media/HSqNUdhbwAAzeqd.jpg" width="700" alt="Retrato De Stijl em Díptico Vertical">
 </div>
 
 <br>
@@ -3144,35 +3082,50 @@ Um sistema que converte qualquer ideia num único prompt de ilustração anime n
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Emily](https://x.com/IamEmily2050) | [X / Twitter](https://x.com/IamEmily2050/status/2100058993498488951) | 2026-09-16 |
+| [DAAI](https://x.com/daaihq) | [X / Twitter](https://x.com/daaihq/status/2101647572809166902) | 2026-09-20 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2100058993498488951)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101647572809166902)**
 
 </div>
 
 ---
 
-### No. 48: Retrato de Mulher com Saree Dourado
+### No. 48: Retrato de Alta-Costura em Peônias
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Retrato fotorrealista de uma mulher sul-asiática em saree dourado bordado, com luz natural quente e brilho dourado cinematográfico.
+Retrato editorial fotorrealista de uma mulher elegante em um vestido de alta-costura feito de pétalas de peônia em um campo florido infinito.
 
 #### 🌟 Prompt
 
-Crie um retrato altamente realista de uma bela mulher sul-asiática vestindo um elegante saree dourado …
+Crie um retrato editorial de moda fotorrealista e de alta resolução de uma mulher elegante em pé em um campo …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Crie um retrato altamente realista de uma bela mulher sul-asiática vestindo um elegante saree dourado champanhe com intrincados bordados florais pretos, lantejoulas cintilantes e uma blusa bordada combinando. Ela usa grandes brincos tradicionais tipo lustre e um pequeno bindi preto. Seu cabelo escuro está preso com esmero, com alguns fios suaves emoldurando o rosto. Ela toca suavemente um dos brincos com a mão direita enquanto olha diretamente para a câmera com uma expressão suave e confiante. A luz solar natural e quente incide sobre seu rosto e traje, criando um brilho dourado. Fundo interno elegante com profundidade de campo rasa, iluminação cinematográfica, textura de pele realista, traços faciais naturais, detalhes finos do tecido, fotografia fotorrealista, alto detalhe, composição vertical 4:5. Sem texto, sem marca d'água, sem pele de aparência artificial.
+Crie um retrato editorial de moda fotorrealista e de alta resolução de uma mulher elegante em pé em um campo infinito de peônias floridas. Ela veste um vestido de alta-costura extraordinário feito inteiramente de enormes pétalas de peônia em camadas nos tons magenta profundo, borgonha, rosa suave e marfim. O vestido tem uma silhueta dramática e superdimensionada de vestido de baile, com centenas de pétalas naturalmente sobrepostas criando volume, dobras, textura e dimensionalidade realistas.
+
+A mulher tem uma postura elegante e serena e uma expressão calma e confiante. O cabelo está preso em um coque alto e liso, decorado com várias pétalas magenta vivas. Maquiagem natural e refinada, traços faciais graciosos, textura de pele sutil, estilo editorial sofisticado.
+
+Ela estende suavemente um braço em direção a uma grande peônia ao lado, criando uma sensação de interação com o campo de flores. Cerque-a de inúmeras peônias em magenta, rosa, creme e branco intensos, estendendo-se até o horizonte distante.
+
+Composição: retrato de corpo inteiro centralizado, composição de moda simétrica, sujeito ocupando o quadro central, enorme vestido floral dominando o primeiro plano, flores ao redor da parte inferior do quadro, campo de flores distante criando profundidade.
+
+Iluminação: luz do dia suave e nublada, luz natural difusa, sombras suaves, realces sutis nas pétalas, profundidade atmosférica realista.
+
+Fotografia: campanha de moda de alta-costura luxuosa, fotografia editorial cinematográfica, aparência de câmera de médio formato, resolução 8K, pétalas extremamente detalhadas, textura de pele realista, cores naturais, sujeito nítido, detalhe ambiental profundo, gradação de cor sofisticada, profundidade de campo realista.
+
+Proporção: 4:5 vertical.
+Humor: onírico, romântico, majestoso, surreal, mas fotorrealista, alta-costura botânica.
+
+Prompt negativo: desenho animado, ilustração, aparência de CGI, pele plástica, anatomia distorcida, dedos extras, mãos malformadas, flores duplicadas, rosto borrado, baixo detalhe, pétalas de aparência artificial, cores supersaturadas, texto, marca d'água, logotipo.
 ```
 
 </details>
@@ -3180,7 +3133,7 @@ Crie um retrato altamente realista de uma bela mulher sul-asiática vestindo um 
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSjf1RZXwAICfTD.jpg" width="700" alt="Retrato de Mulher com Saree Dourado">
+<img src="https://image.moge.ai/prompt_media/HSv0qeSW4AAfDoj.jpg" width="700" alt="Retrato de Alta-Costura em Peônias">
 </div>
 
 <br>
@@ -3189,61 +3142,74 @@ Crie um retrato altamente realista de uma bela mulher sul-asiática vestindo um 
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Zarnish](https://x.com/ZarnishNael) | [X / Twitter](https://x.com/ZarnishNael/status/2101175341259829559) | 2026-09-19 |
+| [H A J R A](https://x.com/codewithhajra) | [X / Twitter](https://x.com/codewithhajra/status/2102042667555160524) | 2026-09-21 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101175341259829559)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2102042667555160524)**
 
 </div>
 
 ---
 
-### No. 49: Pôster VELORA FIZZ Cítrico
+### No. 49: Pôster do Apple Watch em Movimento
 
 ![Categoria: Publicidade e produto](https://img.shields.io/badge/Categoria-Publicidade%20e%20produto-lightgrey)
 
 #### 📚 Descrição
 
-Cria um pôster publicitário premium de refrigerante cítrico com uma modelo em um café urbano e uma onda surreal de líquido gaseificado.
+Cria um pôster de produto premium do Apple Watch com um atleta em quadra de tênis, tipografia gigante e uma trilha circular metálica que conecta tempo e movimento.
 
 #### 🌟 Prompt
 
-Crie um pôster publicitário ultra-premium VELORA FIZZ — “LET FRESHNESS TAKE OVER” (DEIXE O FRESCOR DOMINAR). …
+APPLE WATCH SERIES 12 — “O TEMPO SE MOVE COM VOCÊ” Pôster premium vertical 4:5, 8K, layout comercial marcante …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Crie um pôster publicitário ultra-premium VELORA FIZZ — “LET FRESHNESS TAKE OVER” (DEIXE O FRESCOR DOMINAR).
-
-Formato: Vertical 4:5, 8K UHD, fotografia comercial hiper-realista, design editorial cinematográfico.
-
-CENA: Uma bela jovem adulta com longos cabelos ondulados castanho-escuros, pele clara-média quente e traços naturais relaxa em um café urbano moderno ao ar livre em uma tarde ensolarada de verão. Ela veste uma camisa branca oversized, jeans relaxado de lavagem clara, tênis brancos e uma presilha de cabelo verde. Ela bebe uma garrafa gelada de VELORA FIZZ, cercada por uma refrescante energia cítrica.
-
-PRODUTO: Garrafa de vidro transparente com condensação realista, refrigerante gaseificado de limão-lima, rótulo verde-esmeralda, detalhes amarelo-lima e branding claro:
-VELORA FIZZ
-SPARKLING LEMON-LIME
-330 ML
-
-CONCEITO VISUAL: Uma graciosa onda translúcida de líquido cítrico gaseificado flui atrás da mulher, contendo cubos de gelo realistas, fatias de limão, folhas de hortelã, bolhas e gotas de água. A onda se funde naturalmente com o ambiente do café, criando uma transformação surreal e refrescante. Física de fluidos realista, refração do vidro, luz solar natural e textura de pele autêntica.
-
-DESIGN: Campanha de bebida internacional premium com verde-esmeralda, amarelo cítrico, branco e tons urbanos naturais. Tipografia geométrica marcante, espaçamento limpo, linhas gráficas e layout editorial moderno.
-
-TEXTO:
-
-VELORA FIZZ — SPARKLING LEMON-LIME
-GOOD DRINKS. BRIGHTER DAYS.
-LET FRESHNESS TAKE OVER.
-ONE SIP. A WHOLE NEW FEELING.
-OPEN / SIP / RESET / REPEAT
-FEEL THE FRESH → Discover VELORA FIZZ
-
-CÂMERA: Estética ARRI Alexa Mini LF, lente de cinema 35mm, ângulo levemente baixo, iluminação natural de verão, profundidade de campo moderada, sombras realistas, fotografia de produto detalhada, leve granulação de filme.
-
-EVITAR: Pele plástica, texto distorcido, CGI excessivo, publicidade genérica de refrigerante, desordem, cores artificiais e branding de bebida existente copiado. Faça parecer uma campanha publicitária global de alto orçamento.
+APPLE WATCH SERIES 12 — “O TEMPO SE MOVE COM VOCÊ”
+Pôster premium vertical 4:5, 8K, layout comercial marcante × minimalismo suíço × publicidade de produto fotorrealista
+🧠 IDEIA CENTRAL:
+“O TEMPO, EM MOVIMENTO.”
+🎬 LAYOUT:
+BLOCO DE FUNDO:
+Grande retângulo arredondado em branco Apple limpo com sutil gradiente prateado e sombras arquitetônicas suaves
+TIPOGRAFIA GIGANTE:
+“TIME”
+em negrito, superdimensionada, cortada, atrás do sujeito e do produto
+👤 SUJEITO:
+Jovem atlético em movimento numa quadra de tênis profissional
+Apple Watch Series 12 claramente visível no pulso
+movimento natural, pele e tecido realistas
+fotografia esportiva comercial premium
+⌚ PRODUTO + REVIRAVOLTA CONCEITUAL:
+O Apple Watch Series 12 torna-se o centro visual da ação →
+Uma trilha de movimento circular precisa se estende da face do relógio ao redor do atleta:
+* fino arco metálico
+* sutis anéis translúcidos
+* geometria perfeitamente controlada
+* reflexos realistas
+* sem efeitos de fantasia
+A forma circular conecta visualmente tempo, movimento e o movimento do atleta, mantendo o relógio totalmente fotorrealista.
+✨ ELEMENTOS GRÁFICOS:
+* marcações geométricas mínimas
+* finas linhas de medição
+* sutis reflexos metálicos
+* pequenas anotações tipográficas
+* amplo espaço negativo
+✍️ SISTEMA DE TEXTO:
+Pílula superior:
+“Apple Watch Series 12”
+Texto pequeno:
+“Projetado para o movimento.”
+FAIXA INFERIOR DE RECURSOS:
+* Monitoramento Avançado de Fitness
+* Monitor de Frequência Cardíaca
+* Insights de Treino
+* Uso o Dia Todo
 ```
 
 </details>
@@ -3251,7 +3217,7 @@ EVITAR: Pele plástica, texto distorcido, CGI excessivo, publicidade genérica d
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSbfH0SaIAATenS.jpg" width="700" alt="Pôster VELORA FIZZ Cítrico">
+<img src="https://image.moge.ai/prompt_media/HSu6kK8boAAmqTX.jpg" width="700" alt="Pôster do Apple Watch em Movimento">
 </div>
 
 <br>
@@ -3260,66 +3226,70 @@ EVITAR: Pele plástica, texto distorcido, CGI excessivo, publicidade genérica d
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Jack](https://x.com/j_smeaton99) | [X / Twitter](https://x.com/j_smeaton99/status/2100611611946070253) | 2026-09-17 |
+| [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) | [X / Twitter](https://x.com/Diplomeme/status/2101978790704656819) | 2026-09-21 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2100611611946070253)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101978790704656819)**
 
 </div>
 
 ---
 
-### No. 50: Pôster Cultural Oriental Azul-Distância
+### No. 50: Pôster de Cultura Natural Oriental
 
 ![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
 
 #### 📚 Descrição
 
-Cria um pôster cultural oriental 9:16 que traduz a poesia clássica chinesa em cenas azuis silenciosas, com figuras minúsculas, tipografia integrada e um único ponto vermelho-carmim.
+Cria um pôster editorial de cultura natural oriental com grande caligrafia chinesa, bloco de cor natural, janela fotográfica e objetos reais em camadas sobre papel artesanal.
 
 #### 🌟 Prompt
 
-【Tema】: {2–4 caracteres chineses, ex.: Via Láctea / Ouvir a Chuva / Pátio Vazio / Orvalho Branco} 【Verso …
+【Tema】: preencher, ex.: «Rastro do Vento / Nascente / Pátio de Musgo / Entre Pinheiros」 【Título principal em …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-【Tema】: {2–4 caracteres chineses, ex.: Via Láctea / Ouvir a Chuva / Pátio Vazio / Orvalho Branco}
-【Verso Poético Original】: {preencha o verso clássico chinês correspondente}
-【Cena】: {lago noturno / beco após a chuva / pátio ao luar / juncos na névoa matinal / outro}
-【Figura ou Evento Minúsculo】: {figura em barco solitário / vendedor de flores / pessoa distante no pátio / silhueta na névoa etc.}
-【Ponto Vermelho-Carmim】: {lanterna de barco / etiqueta de papel vermelha / selo carmim / fio vermelho etc.}
-【Subtítulo em Inglês】: {preencha um título curto em inglês}
+【Tema】: preencher, ex.: «Rastro do Vento / Nascente / Pátio de Musgo / Entre Pinheiros」
+【Título principal em chinês】: preencher 2–4 caracteres
+【Título em inglês】: preencher
+【Elementos temáticos naturais】: preencher, ex.: vento, água, musgo, pinho, rochas, espigas de capim
+【Objeto real em primeiro plano】: preencher, ex.: tigela de pedra, pedra com musgo, madeira seca, papel fino, plantas
+【Cena da janela fotográfica】: preencher, ex.: floresta enevoada, riacho, encosta de capim, pinhal
+【Cor dominante】: preencher uma cor natural de baixa saturação
+【Proporção】: padrão 9:16
 
-Gere um pôster cultural oriental 9:16 que traduza a noite, a névoa de chuva, o luar, o orvalho matinal e a sensação de distância das figuras da poesia clássica chinesa numa linguagem visual editorial oriental moderna.
+Gere um pôster de arte de Editorial Design com tema de cultura natural oriental.
 
-Mantenha a paleta unificada da série “BLUE DISTANCE”: azul-névoa, cinza-índigo, branco-lua, cinza-esverdeado e azul-tinta, mas aumente moderadamente o peso e as camadas de claro-escuro em relação ao grupo claro. Mantenha baixa saturação, baixo contraste e sensação de ar; não deixe virar uma cena noturna escura ou um blockbuster cinematográfico.
+Use um fundo de papel de arte branco marfim quente, mantendo leves fibras naturais do papel e um grão de impressão contido, com amplo espaço em branco; a imagem é silenciosa, natural, relaxada e cultural.
 
-Use a 【Cena】 para criar um espaço silencioso e com profundidade, deixando névoa, umidade após a chuva, luar, reflexos, sombras de árvores ou orvalho matinal serem os principais elementos de atmosfera. Adicione uma 【Figura ou Evento Minúsculo】 em escala muito pequena; a figura serve apenas à narrativa e à referência espacial, sem se tornar o retrato tradicional protagonista.
+Na parte superior ou à direita, coloque um enorme título caligráfico chinês manuscrito 【Título principal em chinês】, num estilo oriental moderno livre e real com variações de pressão do pincel e gradações de tinta, fazendo dos grandes caracteres chineses a âncora visual principal.
 
-Mantenha apenas um 【Ponto Vermelho-Carmim】 em toda a imagem, com área extremamente reduzida. Pode ser uma lanterna de barco, uma etiqueta de papel, um selo carmim ou um fio vermelho, formando uma coordenada visual clara mas contida em meio ao azul frio profundo.
+Combine com uma fonte Serif inglesa fina e elegante para o 【Título em inglês】, e adicione algumas frases curtas em chinês com significado real, notas em inglês e data, formando uma hierarquia de "grande caligrafia + título em inglês + texto editorial em corpo pequeno".
 
-Use o 【Tema】 como título principal, fazendo a tipografia dialogar com a cena: pode ser engolida pela névoa, corresponder ao reflexo, crescer ao longo da estrutura do edifício, ou entrelaçar-se com marcas de chuva ou plantas, em vez de simplesmente cobrir a imagem com letras grandes.
+No centro adicione um grande bloco de cor natural de baixa saturação, usando a 【Cor dominante】. As bordas do bloco têm sensação de papel rasgado, montanha, terreno ou forma orgânica, mantendo uma forma grande completa e clara, sem se fragmentar em muitos pedaços.
 
-Adicione o 【Verso Poético Original】 em caracteres chineses pequenos e alongados, na vertical ou como anotação de margem. O verso complementa a emoção e o sentido cultural, com corpo claramente menor que o do título.
+Dentro do bloco, abra uma janela circular, oval, vertical ou irregular natural, mostrando uma cena fotográfica real de 【Cena da janela fotográfica】. A área fotográfica tem baixo contraste, baixa saturação, névoa leve e perspectiva aérea, como olhar por um furo no papel para outro espaço natural real.
 
-Adicione pouca informação em inglês:
-“BLUE DISTANCE”
-【Subtítulo em Inglês】
+Na parte inferior adicione um 【Objeto real em primeiro plano】 tridimensional real, com material, volume, sombra de contato e relação espacial naturais.
 
-e informações mínimas de data ou pesquisa visual em estilo de exposição, em fonte serifada fina ou moderna ultrafina, mantendo baixa densidade de informação.
+Deixe o objeto real cobrir parcialmente o bloco de cor bidimensional ou a janela fotográfica, formando camadas claras de frente e fundo:
 
-Enfatize no geral: espaço azul e camadas de ar, figura minúscula e evento narrativo, título chinês enorme e verso poético pequeno, uma âncora visual vermelho-carmim, luz e sombra reais e amplas áreas silenciosas.
+fundo de papel de arte → bloco de cor plano → janela fotográfica natural → objeto real tridimensional.
 
-Textura realista e suave, com ar úmido e profundidade espacial. A cena noturna não deve ser escura demais, a de chuva não deve ter cortinas de chuva forte, a de névoa não deve ficar de fantasia marcial, os edifícios não devem acumular símbolos tradicionais.
+O tema gira em torno de 【Elementos temáticos naturais】, fazendo todos os elementos visuais expressarem juntos um conceito natural claro, e não um mero acúmulo de decoração.
 
-Evite cyberpunk, azul neon, HDR, efeitos de luz cinematográficos fortes, iluminação quente excessiva, fotografia turística, lanternas vermelhas de vila antiga, granulação pesada e filtros baratos de estilo antigo.
+O layout usa Editorial Design assimétrico, com texto espalhado nas áreas em branco; pode incluir um pouco de composição vertical, composição de borda e informações em corpo minúsculo, mas todo o texto deve ter significado real.
 
-Apresente por fim um pôster cultural oriental moderno mais profundo, mais silencioso e mais narrativo, no qual o verso seja verdadeiramente traduzido em imagem através da noite, da névoa de chuva, do luar, das figuras e da tipografia.
+Controle as cores em branco marfim quente, cor natural de baixa saturação, cinza cal, cinza-marrom, marrom-tinta, com um efeito fosco, suave e estável, sem cores de alta saturação.
+
+Mantenha uma leve textura de Offset Print, papel de arte, impressão artesanal e publicação em papel, mas sem envelhecer demais.
+
+O efeito final deve parecer um pôster de exposição de cultura natural realmente concluído: de longe vê-se primeiro o enorme título caligráfico, o bloco de cor completo e o objeto natural tridimensional claro; de perto descobrem-se a janela fotográfica, o texto pequeno e os detalhes de material.
 ```
 
 </details>
@@ -3327,7 +3297,7 @@ Apresente por fim um pôster cultural oriental moderno mais profundo, mais silen
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSld25xWUAAU943.jpg" width="700" alt="Pôster Cultural Oriental Azul-Distância">
+<img src="https://image.moge.ai/prompt_media/HSpo_V_XMAAjHjp.jpg" width="700" alt="Pôster de Cultura Natural Oriental">
 </div>
 
 <br>
@@ -3336,13 +3306,13 @@ Apresente por fim um pôster cultural oriental moderno mais profundo, mais silen
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2101314639527055361) | 2026-09-19 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2101607866478031056) | 2026-09-20 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101314639527055361)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101607866478031056)**
 
 </div>
 
@@ -3460,28 +3430,24 @@ Defina o tema como "Dia de Portas Abertas da Biblioteca Pública Municipal", par
 
 ---
 
-### No. 53: Retratos de Impressão Digital Biométrica
+### No. 53: Aventuras em Argila em Miniatura
 
 ![Categoria: Ilustração e IP](https://img.shields.io/badge/Categoria-Ilustra%C3%A7%C3%A3o%20e%20IP-lightgrey)
 
 #### 📚 Descrição
 
-Transforma ícones da cultura pop em retratos minimalistas em preto sobre branco, esculpidos a partir de sulcos e espirais de impressões digitais.
+Cria um personagem bebê fofo em estilo claymation feito à mão, com formas esculpidas arredondadas, textura de argila visível e cores vivas.
 
 #### 🌟 Prompt
 
 ```
-ESTILO Estampa de arte de linha com impressão digital biométrica
-SUJEITO [SUJEITO] formado por sulcos e espirais curvos de impressão digital
-AMBIENTE Fundo branco limpo e nítido, enquadramento vertical centralizado
-ILUMINAÇÃO & CLIMA Tinta preta monocromática de alto contraste, estética conceitual marcante
-ESPECIFICAÇÕES Linhas vetoriais nítidas, ilustração em espaço negativo, --ar 3:4
+Bebê brincalhão [subject] vestindo um [outfit or accessory] [color1] e [color2], [simple action], contra um [background], estilo de animação claymation feito à mão, formas esculpidas arredondadas, textura de argila visível, proporções charmosas, cores vivas, iluminação suave, design de personagem stop-motion caprichoso
 ```
 
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSSZnn_WEAAqV-e.jpg" width="700" alt="Retratos de Impressão Digital Biométrica">
+<img src="https://image.moge.ai/prompt_media/HSkxbjbbAAAhRdc.jpg" width="700" alt="Aventuras em Argila em Miniatura">
 </div>
 
 <br>
@@ -3490,83 +3456,35 @@ ESPECIFICAÇÕES Linhas vetoriais nítidas, ilustração em espaço negativo, --
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Pan](https://x.com/sebatheepan) | [X / Twitter](https://x.com/sebatheepan/status/2099972239831564665) | 2026-09-15 |
+| [Amira Zairi](https://x.com/azed_ai) | [X / Twitter](https://x.com/azed_ai/status/2101265065857134801) | 2026-09-19 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2099972239831564665)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101265065857134801)**
 
 </div>
 
 ---
 
-### No. 54: Pôster Editorial Verde-Papagaio
+### No. 54: Editorial de Moda Retrô com Vespa
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Cria um pôster de moda editorial vertical 9:16 com uma modelo elegante, tipografia serifada oversized e uma vibrante paleta verde-papagaio com estética de foto analógica.
+Retrato editorial de moda ultrarrealista de uma mulher glamorosa sentada num sidecar amarelo ao lado de uma Vespa vintage diante de um café europeu, com estética de filme 35mm anos 60.
 
 #### 🌟 Prompt
 
-Crie um pôster de moda editorial vertical 9:16 único com uma paleta rica de verde-papagaio, esmeralda vívido, …
+Editorial de moda de rua ultrarrealista, mulher jovem adulta em frente a um café europeu clássico ao lado de …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Crie um pôster de moda editorial vertical 9:16 único com uma paleta rica de verde-papagaio, esmeralda vívido, verde-folha fresco e verde-lima sutil.
-
-Uma jovem elegante com traços faciais naturais, sardas sutis, cabelo castanho-escuro levemente despenteado e uma expressão calma e confiante está em pose de três quartos. Ela veste uma jaqueta oversized escultural verde-papagaio profundo com dobras interessantes e um chapéu minimalista de aba larga de inspiração vintage em um tom de verde ligeiramente mais escuro. Seu rosto é o ponto focal principal, posicionado um pouco abaixo do centro.
-
-Use uma composição completamente original: grandes formas curvas abstratas e linhas geométricas finas fluem atrás e parcialmente ao redor do sujeito, criando profundidade sem copiar nenhum layout de pôster existente. Adicione grão de papel sutil, textura fina de meio-tom e suaves imperfeições de impressão analógica para uma sensação editorial contemporânea premium.
-
-A tipografia deve ser grande, mas disposta de forma diferente dos pôsteres de moda típicos: use letras serifadas elegantes de alto contraste e tamanho grande parcialmente ocultas atrás da mulher, com algumas letras cortadas pelas bordas do quadro. Adicione pequenos textos minimalistas em maiúsculas em alguns locais inesperados, como:
-
-"FORM FOLLOWS FEELING"
-
-"ISSUE 09 / 2026"
-
-"CREATE YOUR OWN FRAME"
-
-Use tipografia em marfim quente, creme suave e verde-amarelado muito pálido contra o fundo verde-papagaio vibrante.
-
-A iluminação deve parecer luz natural suave com um toque sutil de luz solar quente, criando um belo contraste entre o ambiente verde vívido e os tons de pele naturais da mulher. Mantenha textura de pele realista, sombras sutis e detalhe fotográfico autêntico.
-
-A estética geral deve parecer uma revista de moda europeia experimental misturada com design gráfico moderno, teoria de cor tropical e fotografia analógica.
-
-Elegante, artístico, ousado, sofisticado, minimalista mas visualmente marcante, fotografia realista, textura de papel tátil, grão de filme sutil, tipografia limpa, forte hierarquia visual.
-
-IMPORTANTE:
-
-Não recrie nem imite de perto nenhum pôster existente.
-
-Não copie a composição de referência, o posicionamento da tipografia, a pose da modelo, as roupas, as formas ou o arranjo gráfico.
-
-Crie um design editorial distintamente original mantendo o vibrante clima visual verde-papagaio.
-
-Direção de cor:
-
-Primária: verde-papagaio vívido
-
-Secundária: verde esmeralda
-
-Destaque: verde-lima fresco
-
-Tons escuros: verde-floresta profundo
-
-Tipografia: marfim quente / creme suave
-
-Tons de pele: completamente naturais e realistas
-
-Evite laranja, laranja queimado, âmbar, ocre, ferrugem, marrom ou coloração monocromática quente.
-
-Proporção: 9:16
-
-Alto detalhe, fotografia realista, qualidade de impressão editorial premium.
+Editorial de moda de rua ultrarrealista, mulher jovem adulta em frente a um café europeu clássico ao lado de uma scooter estilo Vespa vintage azul-pó com um side-car amarelo-canário brilhante e superdimensionado. Excêntrico, glamoroso, fantasia de moda italiana dos anos 1960 ligeiramente surreal encontra o editorial moderno. Coque baixo preto brilhante com risca ao meio. Pele de porcelana, sobrancelhas marcadas, delineador preto dramático, batom vermelho fosco vívido, óculos gatinho brancos superdimensionados com lentes pretas. Vestido midi de alta-costura azul gélido pálido: babados 3D densos, tule rasgado, pétalas tipo pluma, tiras de organza, adornos escuros, silhueta volumosa como nuvem, decote dramático, ombros exagerados. Bolsa estruturada verde esmeralda brilhante, scarpins amarelos de bico fino com detalhes pretos. Sentada elegantemente na borda do side-car, expressão composta e distante, pose editorial de corpo inteiro. Café: molduras de madeira escura, placa vermelha vintage "CAFE", toalhas de mesa xadrez, luz âmbar quente. Parede de reboco bege desgastada ao lado. Flash forte na câmera, luz ambiente quente, granulação de filme, cores saturadas, estética editorial vintage 35mm. Composição vertical 3:4. Fotorrealista, alta resolução. Prompt negativo: café minimalista, roupa casual, iluminação suave de estúdio, vestido simples, CGI, anime, desenho, anatomia distorcida, side-car deformado.
 ```
 
 </details>
@@ -3574,7 +3492,7 @@ Alto detalhe, fotografia realista, qualidade de impressão editorial premium.
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSgKE3mbEAAGu8r.jpg" width="700" alt="Pôster Editorial Verde-Papagaio">
+<img src="https://image.moge.ai/prompt_media/HSqqiqjacAE8QlA.jpg" width="700" alt="Editorial de Moda Retrô com Vespa">
 </div>
 
 <br>
@@ -3583,55 +3501,56 @@ Alto detalhe, fotografia realista, qualidade de impressão editorial premium.
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Cherry](https://x.com/hey_am_cherry) | [X / Twitter](https://x.com/hey_am_cherry/status/2100940326064288090) | 2026-09-18 |
+| [Al-Shamus](https://x.com/im_shahid7) | [X / Twitter](https://x.com/im_shahid7/status/2101679703576994178) | 2026-09-20 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2100940326064288090)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101679703576994178)**
 
 </div>
 
 ---
 
-### No. 55: Foto de Produto de Nível Comercial
+### No. 55: Comida que Remodela a Tipografia
 
 ![Categoria: Publicidade e produto](https://img.shields.io/badge/Categoria-Publicidade%20e%20produto-lightgrey)
 
 #### 📚 Descrição
 
-Gera uma imagem principal de e-commerce de nível de marca, preservando fielmente o produto e construindo luz, sombra e cenário naturais ao seu redor.
+Cria um pôster editorial premium de comida em que alimentos reais interagem fisicamente e deformam uma tipografia gigante, com fundo creme e visual de café europeu.
 
 #### 🌟 Prompt
 
-Fotografia de visual principal de produto comercial de alto nível. Primeiro, determine o modo de entrada: Se …
+Marca: [BRAND NAME] Comida: [FOOD / DRINK] Título: [1 SHORT WORD] Interação Física: [PRESS / SCOOP / SMEAR / …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Fotografia de visual principal de produto comercial de alto nível.
+Marca: [BRAND NAME]
+Comida: [FOOD / DRINK]
+Título: [1 SHORT WORD]
+Interação Física: [PRESS / SCOOP / SMEAR / LAYER / outra ação física]
+Cor de Destaque: [COLOR]
+Nome do Produto: [PRODUCT NAME]
+Preço: [PRICE]
+Proporção: 9:16
 
-Primeiro, determine o modo de entrada:
+Crie um pôster editorial premium de comida onde alimentos reais interagem fisicamente e remodelam uma tipografia gigante, usando um fundo creme ou marfim quente, tipografia Heavy Grotesk preta e forte, materiais alimentares fotorrealistas, amplo espaço negativo e uma grade editorial quebrada inspirada em branding de cafés europeus sofisticados e no design de revistas contemporâneas.
 
-Se o usuário fornecer uma foto real do produto, imagem da embalagem ou referência do artigo, use o produto original como a maior prioridade visual. Preserve com precisão a forma, proporções, estrutura, embalagem, logotipo da marca, posição do texto, cores, materiais, texturas e características de identificação essenciais do produto; não redesenhe, reestilize ou substitua o item por conta própria. Você pode reconstruir naturalmente a luz, sombras, reflexos, perspectiva e cor ambiente conforme a nova cena, para que o produto original realmente se integre à imagem, em vez de ser apenas colado. Se o fundo original estiver bagunçado, você pode extrair naturalmente o objeto principal e reconstruir o espaço.
+A comida não deve simplesmente sobrepor ou ficar ao lado das letras; trate a tipografia e a comida como objetos dentro do mesmo mundo físico, e a interação escolhida deve mudar visivelmente a estrutura das letras por meio de uma física crível.
 
-Se o usuário fornecer apenas o nome do produto, categoria ou tema criativo, construa uma forma de produto e um mundo visual razoáveis com base nos atributos, função, materiais, contexto de consumo e essência da marca do produto, sem aplicar mecanicamente modelos predefinidos.
+Exemplos: PRESS, o peso da comida comprime e deforma localmente a tipografia; SCOOP, uma colher real remove material diretamente de uma letra, deixando uma cavidade correspondente e revelando material comestível por dentro; SMEAR, uma faca arrasta a comida sobre a tipografia, causando alongamento lateral e cisalhamento localizados apenas ao longo da zona de contato; LAYER, a tipografia contém camadas reais de comida, e uma camada estrutural é fisicamente puxada para fora e deslocada.
 
-A imagem cresce a partir do próprio produto. O objeto principal deve ser nítido, real e ter peso; a textura da superfície, bordas e materiais devem ter uma sensação tátil crível; o produto deve repousar naturalmente sobre uma base, superfície ou relação estrutural que ecoe sua essência, formando um centro de gravidade claro e sombras de contato, evitando a sensação de flutuação e vitrines padronizadas.
+Mantenha a interação localizada, clara e fisicamente crível; as partes não tocadas da tipografia devem permanecer duras, limpas, geométricas e legíveis; use apenas um mecanismo físico principal por pôster; evite efeitos aleatórios de liquify, sobreposição decorativa, letras 3D genéricas ou distorção com aparência digital.
 
-No primeiro plano e ao redor devem aparecer apenas objetos, ingredientes, materiais ou detalhes que realmente expliquem o produto, com densidade natural; o fundo deve permanecer contido, podendo criar espaço por meio de gradientes suaves, contornos de baixo contraste, sombras naturais, formas desfocadas, texturas ou imagens temáticas apenas insinuadas, fazendo o ambiente parecer o eco deixado pela essência do produto, em vez de acumular diretamente elementos temáticos.
+Adicione pequenas informações editoriais como [INGREDIENTS], [OPENING HOURS] e [ADDRESS], use forte contraste de escala em vez de linhas tradicionais de menu; evite longas linhas divisórias horizontais, preços em caixas, barras de informação rígidas na parte inferior ou layouts que pareçam template.
 
-A luz tem direção clara, mas permanece suave e natural. O foco é moldar o volume, material, bordas e peso do produto, com transições de luz e sombra delicadas, áreas claras com ar, áreas escuras preservando camadas, e a base com uma sombra de contato real; deixe a luz realmente atuar sobre o produto, em vez de iluminar uniformemente toda a imagem.
+Use Grotesk Sans Serif forte para a tipografia principal, Serif Editorial de alto contraste ou Serif Itálico para nomes de produtos, citações ou preços, mantenha o sistema de cores mínimo com fundo creme, tipografia preta, cores naturais dos alimentos e uma cor de destaque.
 
-As cores se estendem a partir do próprio produto, com o fundo, base, adereços e cor ambiente ecoando naturalmente, permitindo variações sutis de temperatura, brilho e material, sem usar fórmulas mecânicas de cores.
-
-Se um título for necessário, os caracteres grandes devem se tornar um dos núcleos visuais mais claros além do produto: escala ousada, formas de letra completas, contornos nítidos, leitura clara, ainda rapidamente reconhecíveis quando a imagem é reduzida; não deixe texturas, ilustrações ou fundos complexos atravessarem as letras principais. Textos auxiliares, inglês, numeração e legendas recuam naturalmente, formando uma hierarquia editorial refinada.
-
-O conjunto deve ser sofisticado, silencioso, real e arejado, rico mas não sobrecarregado, com os elementos atraindo-se mutuamente em vez de empilhados artificialmente. Evite deformação do produto, alteração do texto da embalagem, perda de elementos da marca, objeto flutuante, vitrines baratas, simetria mecânica, decoração sem sentido, iluminação uniforme, fundo que rouba a cena e a sensação de e-commerce padronizado.
-
-O resultado final é uma imagem principal de e-commerce de nível de marca madura, um pôster de produto ou um KV de marca.
+O pôster final deve parecer inteligente, físico, premium e instantaneamente compreensível em tamanho miniatura; a ideia central é simples: a comida não decora a tipografia, a comida a muda fisicamente.
 ```
 
 </details>
@@ -3639,7 +3558,7 @@ O resultado final é uma imagem principal de e-commerce de nível de marca madur
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSbTpXbb0AARt9t.jpg" width="700" alt="Foto de Produto de Nível Comercial">
+<img src="https://image.moge.ai/prompt_media/HSlom3LWkAAEo5G.jpg" width="700" alt="Comida que Remodela a Tipografia">
 </div>
 
 <br>
@@ -3648,50 +3567,41 @@ O resultado final é uma imagem principal de e-commerce de nível de marca madur
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [小小东](https://x.com/xiaoxiaodong01) | [X / Twitter](https://x.com/xiaoxiaodong01/status/2100599522460365258) | 2026-09-17 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2101325998075600974) | 2026-09-19 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2100599522460365258)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101325998075600974)**
 
 </div>
 
 ---
 
-### No. 56: Ilusões de Humano-Paisagem em P&B
+### No. 56: Diorama Miniatura de Ponto Turístico
 
 ![Categoria: Visuais criativos](https://img.shields.io/badge/Categoria-Visuais%20criativos-lightgrey)
 
 #### 📚 Descrição
 
-Gera um pôster de cinema de arte 9:16 onde um fragmento humano em P&B de alto contraste se transforma em uma paisagem monumental, com um viajante minúsculo e uma única cor de destaque.
+Cria um diorama 3D em miniatura de um marco icônico como centro gigante de uma cidadezinha artesanal, com efeito tilt-shift aéreo e luz solar quente.
 
 #### 🌟 Prompt
 
-Crie um pôster de filme de arte finalizado, 9:16. Ilusão monumental de humano-paisagem, design editorial …
+Um diorama 3D em miniatura, extremamente detalhado e lúdico, de [MARCO / ESTRUTURA ICÔNICA] como o centro …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Crie um pôster de filme de arte finalizado, 9:16. Ilusão monumental de humano-paisagem, design editorial minimalista.
+Um diorama 3D em miniatura, extremamente detalhado e lúdico, de [MARCO / ESTRUTURA ICÔNICA] como o centro dramático de uma cidadezinha viva. Preserve a arquitetura, a silhueta, as proporções e os detalhes característicos instantaneamente reconhecíveis do marco, mas transforme toda a cena em um encantador mundo em miniatura feito à mão.
 
-Um fragmento humano fotográfico em preto e branco de alto contraste se funde em uma forma superdimensionada que também se lê como uma paisagem. Ambas as leituras devem ser visíveis.
+Cerque-o com arquitetura de [CIDADE / PAÍS], prédios coloridos, ruas minúsculas, parques, árvores, praças, transporte local, cafés de rua, pedestres, bicicletas e pequenos detalhes cotidianos da cidade. Adicione elementos e marcos locais reconhecíveis sutilmente por toda a cena.
 
-Um viajante minúsculo e legível habita essa paisagem — uma dramática contradição de escala humana.
+O marco deve parecer superdimensionado em comparação com a cidade em miniatura ao redor, criando um mágico efeito de “marco gigante em um mundo minúsculo”. Use modelagem 3D detalhada com aparência de brinquedo, texturas artesanais em miniatura, cores vibrantes porém sofisticadas, pessoas e veículos minúsculos realistas, estradas e paisagismo intrincados.
 
-Uma única cor de destaque saturada domina o espaço negativo e o terreno transformado, contra tons de pele preto profundo e branco-papel.
-
-Título em fonte sem serifa leve e limpa: "[TITLE]"
-Pequeno subtítulo: "[SUBTITLE]"
-
-Sujeito: [SUBJECT]
-Metáfora: [WHAT BECOMES WHAT]
-Cor de destaque: [COLOR]
-
-Luz direcional dura, grão fino de impressão. Sem dupla exposição, sem janelas de colagem, sem créditos, sem logotipos.
+Fotografado de uma perspectiva aérea alta em três quartos, com profundidade de campo cinematográfica e um sutil efeito tilt-shift de miniatura. Foco nítido no marco central, arredores gradualmente mais suaves, luz solar natural e quente, profundidade atmosférica, render 3D polido, estética de arte de viagem lúdica porém premium, extremamente detalhado, visualmente satisfatório, composição vertical 4:5, sem texto, sem logotipos, sem marca d’água.
 ```
 
 </details>
@@ -3699,7 +3609,7 @@ Luz direcional dura, grão fino de impressão. Sem dupla exposição, sem janela
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSlZWLwbwAEIAQt.jpg" width="700" alt="Ilusões de Humano-Paisagem em P&amp;B">
+<img src="https://image.moge.ai/prompt_media/HSphyB9boAAzn7O.jpg" width="700" alt="Diorama Miniatura de Ponto Turístico">
 </div>
 
 <br>
@@ -3708,13 +3618,13 @@ Luz direcional dura, grão fino de impressão. Sem dupla exposição, sem janela
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Vigo Zhao](https://x.com/VigoCreativeAI) | [X / Twitter](https://x.com/VigoCreativeAI/status/2101308950046187930) | 2026-09-19 |
+| [simeon-sanai](https://x.com/Naiknelofar788) | [X / Twitter](https://x.com/Naiknelofar788/status/2101599700084543804) | 2026-09-20 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101308950046187930)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101599700084543804)**
 
 </div>
 
@@ -3834,29 +3744,50 @@ Protagonistas: o Coelho de Jade e os bolinhos da lua
 
 ---
 
-### No. 59: Menina e Gato em Papel 3D
+### No. 59: Conjunto de Ícones Desenhados à Mão
 
 ![Categoria: Ilustração e IP](https://img.shields.io/badge/Categoria-Ilustra%C3%A7%C3%A3o%20e%20IP-lightgrey)
 
 #### 📚 Descrição
 
-Ilustração em papel recortado 3D de uma mulher regando plantas na janela com um gato branco e marrom ao lado, em tons pastel de verde-menta.
+Gera 12 ícones acolhedores em estilo desenhado à mão, combinando áreas de cor planas com traços de caneta soltos, dispostos em uma grade limpa sobre fundo branco.
 
 #### 🌟 Prompt
 
-Estética de ilustração em papel artesanal / recorte 3D, uma mulher com expressão serena em pé junto à janela, …
+Tema: aniversário Uso: site/menu Cores: tons pastel Conforme o acima, use a geração de imagens para criar 12 …
 
 <details>
 <summary>Mostrar prompt completo</summary>
 
 ```
-Estética de ilustração em papel artesanal / recorte 3D,
-uma mulher com expressão serena em pé junto à janela, regando plantas com um pequeno regador,
-um gato branco e marrom sentado por perto olhando para cima,
-interior simples com uma grande janela quadrada ao fundo e alguns vasos,
-sensação de profundidade como camadas de papel, textura de papel fosco, sombras suaves, composição limpa que aproveita o espaço vazio,
-atmosfera luminosa e tranquila,
-paleta refrescante baseada em fundo verde-menta pastel com coral, pêssego e creme
+Tema: aniversário
+Uso: site/menu
+Cores: tons pastel
+
+Conforme o acima, use a geração de imagens para criar 12 "ícones descontraídos, com traços desenhados à mão sobre áreas de cor", produzindo o conjunto de ícones abaixo como uma única imagem PNG.
+
+[Como desenhar]
+Represente o corpo do motivo com áreas de cor simples e levemente arredondadas e, sobre elas, acrescente as características com uma caneta escura.
+
+Não contorne toda a forma; desenhe apenas parte do contorno necessária para comunicar a forma e o mínimo de linhas internas. Componha de modo que a área de cor e as linhas dividam a responsabilidade pela forma.
+
+Caneta um pouco grossa, pontas de linha arredondadas. Com leves distorções da forma, assimetria natural e pequenos desalinhamentos entre cor e linha, traga o calor e a leveza do desenho à mão.
+
+Preenchimento plano, linhas soltas. Não detalhe demais; finalize de forma fofa e leve.
+
+[Tema e coerência]
+Escolha conteúdos adequados ao uso e sem sobreposição de significado, com um significado principal por ícone.
+
+Motivos decorativos que simbolizam o tema só devem ser acrescentados onde sejam fofos por si só e se integrem naturalmente. Não precisam estar em todos os ícones.
+
+Uniformize espessura da linha, arredondamento da forma, grau de simplificação e o equilíbrio entre cor e linha, de modo que pareçam uma série feita pela mesma mão.
+
+[Disposição]
+Disponha em uma grade uniforme de 4 colunas x 3 linhas. Centralize cada ícone em cerca de metade do seu quadrante, iguale o tamanho aparente e deixe espaçamento e margens externas amplas.
+
+Fundo branco. Sem texto, molduras, sombras, gradientes nem texturas.
+
+Se houver especificação de tipos ou quantidade, dê prioridade a ela e gere de fato a imagem.
 ```
 
 </details>
@@ -3864,7 +3795,7 @@ paleta refrescante baseada em fundo verde-menta pastel com coral, pêssego e cre
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSNRH5Ta0AAAuIC.jpg" width="700" alt="Menina e Gato em Papel 3D">
+<img src="https://image.moge.ai/prompt_media/HSZLs-xbkAAUtCg.jpg" width="700" alt="Conjunto de Ícones Desenhados à Mão">
 </div>
 
 <br>
@@ -3873,59 +3804,36 @@ paleta refrescante baseada em fundo verde-menta pastel com coral, pêssego e cre
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Makari ｜AIイラスト](https://x.com/Makari_5108010) | [X / Twitter](https://x.com/Makari_5108010/status/2099611148685631843) | 2026-09-14 |
+| [konmari](https://x.com/konmari_tweet) | [X / Twitter](https://x.com/konmari_tweet/status/2100497948945846631) | 2026-09-17 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2099611148685631843)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2100497948945846631)**
 
 </div>
 
 ---
 
-### No. 60: Mulher Real Diante de Mural Anime
+### No. 60: Herói Gourmet Flutuante
 
 ![Categoria: Fotografia e imagem](https://img.shields.io/badge/Categoria-Fotografia%20e%20imagem-lightgrey)
 
 #### 📚 Descrição
 
-Fotografia cinematográfica de uma mulher fotorrealista posando diante de um mural anime desenhado à mão em tinta vermelha.
+Cria uma foto publicitária de comida premium com o prato suspenso no ar sobre fundo branco isolado, com textura rica e iluminação de estúdio.
 
 #### 🌟 Prompt
 
-Crie uma fotografia lifestyle cinematográfica ultrarrealista de uma jovem em pé, em ambiente interno, diante …
-
-<details>
-<summary>Mostrar prompt completo</summary>
-
 ```
-Crie uma fotografia lifestyle cinematográfica ultrarrealista de uma jovem em pé, em ambiente interno, diante de um grande mural de parede em estilo anime desenhado à mão.
-
-O fundo apresenta uma ilustração monocromática dramática em vermelho e branco de um pistoleiro anime travesso usando um grande chapéu de caubói, óculos redondos em espiral, uma jaqueta com capuz, cinto de utilidades e botas, apontando um revólver na direção do observador. A ilustração é desenhada como um gigantesco esboço conceitual diretamente em uma parede branca usando tinta vermelha intensa, com linhas de construção a lápis visíveis, setas, estrelas, caixas geométricas, símbolos em espiral, pontos de interrogação e anotações de design manuscritas. Adicione a palavra manuscrita “VIBIN” em vermelho no lado direito.
-
-A mulher real está em pé naturalmente diante do mural, sobrepondo-se parcialmente ao personagem ilustrado, criando uma composição perfeita de vida real encontrando o anime. Ela tem cabelo castanho escuro na altura dos ombros levemente ondulado, traços faciais naturais, maquiagem sutil e uma expressão calma e confiante enquanto olha diretamente para a câmera.
-
-Ela veste um moletom cropped branco oversized com mangas longas e soltas, jeans cinza carvão desbotado de cintura alta e caimento solto, e um cinto preto com tachas e ferragens prateadas. Sua postura é relaxada e levemente inclinada para um lado, com uma mão pendendo naturalmente ao lado do corpo.
-
-Deixe a mulher completamente fotorrealista com textura de pele realista, fios de cabelo naturais, anatomia precisa, dobras de tecido realistas, sombras sutis e iluminação interna natural. O personagem ilustrado permanece claramente desenhado à mão com traços vermelhos marcantes e detalhes de esboço.
-
-Use perspectiva realista para que a mulher pareça fisicamente em pé bem diante da arte de parede. Adicione sombras de contato naturais ao redor do corpo e dos pés. A ilustração vermelha deve envolver visualmente a composição sem parecer colada digitalmente.
-
-Composição vertical de corpo inteiro, estética de fotografia de moda, ângulo de câmera levemente baixo, iluminação realista de galeria interna, alto detalhe, foco nítido na mulher, arte de parede detalhada, profundidade cinematográfica, cores naturais, fotorrealista, 4K, fotografia editorial.
-
-Proporção: 9:16
-
-Prompt negativo: rosto distorcido, dedos extras, membros extras, anatomia ruim, pessoa duplicada, mulher em desenho, pele plástica, rosto borrado, pose não natural, corpo flutuante, perspectiva incorreta, mãos mal desenhadas, maquiagem excessiva, erros de texto, roupas deformadas, baixa resolução, cores supersaturadas, iluminação artificial, fundo bagunçado.
+Um [subject] coberto com [garnish], suspenso no ar contra um fundo branco limpo e isolado, fotografia de comida premium, rica textura natural de superfície, detalhe apetitoso, fibras e umidade realistas, tempero sutil, iluminação suave de estúdio, sombra natural nítida, composição flutuante dinâmica, estética de publicidade comercial, foco nítido, alto detalhe
 ```
-
-</details>
 
 #### 🌁 Imagem gerada
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HSfggbuaUAAWwg1.jpg" width="700" alt="Mulher Real Diante de Mural Anime">
+<img src="https://image.moge.ai/prompt_media/HSp7BNabAAAJ7wJ.jpg" width="700" alt="Herói Gourmet Flutuante">
 </div>
 
 <br>
@@ -3934,13 +3842,13 @@ Prompt negativo: rosto distorcido, dedos extras, membros extras, anatomia ruim, 
 
 | Autor | Fonte | Publicado |
 | :---: | :---: | :---: |
-| [Harboris](https://x.com/harboriis) | [X / Twitter](https://x.com/harboriis/status/2100894615985648037) | 2026-09-18 |
+| [Amira Zairi](https://x.com/azed_ai) | [X / Twitter](https://x.com/azed_ai/status/2101627451063546110) | 2026-09-20 |
 
 </div>
 
 <div align="center">
 
-**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2100894615985648037)**
+**[👉 Ver prompt completo e copiar →](https://moge.ai/br/prompt/image/2101627451063546110)**
 
 </div>
 
