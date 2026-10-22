@@ -29,45 +29,58 @@ Full Prompt Text · Preview Images · **10 Languages**
 
 > ℹ️ This page showcases the latest 60 of 4500+ curated prompts. Prompts are curated from public posts and credited to their authors. To request removal, email **team@moge.ai**.
 >
-> 📊 Last updated: 2026-10-20.
+> 📊 Last updated: 2026-10-22.
 
 ---
 
 ## 🎩 Latest Curated Prompts
 
-### No. 1: VELORIA Heartline Lariat Jewelry Campaign
+### No. 1: Aurelion Regal Menagerie Handbag Poster
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a high-luxury editorial jewelry poster centered on a gold heart-motif lariat necklace, golden-hour skin, blurred violet flowers, and elegant typography.
+Creates a vertical luxury advertising poster for an ivory handbag with a lion-head clasp, framed by a peacock, lion, peonies, and vintage-inspired heraldic ornament.
 
 #### 🌟 Prompt
 
-A Cannes-level luxury jewelry campaign poster for the fictional fine-jewelry house VELORIA, designed as a …
+A vertical luxury fashion advertising poster for an original overseas maison, rendered in an ornate …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-A Cannes-level luxury jewelry campaign poster for the fictional fine-jewelry house VELORIA, designed as a product-first editorial beauty ad. The hero object is a hyper-real heart-motif gold lariat necklace, shown as the absolute center on a woman’s sunlit neck and collarbones. The image must fuse intimate golden-hour emotion, collector-grade material precision, and curator-level restraint. Preserve the core structure: a tight crop from just below the lips to the upper bust, a centered necklace on warm skin, soft out-of-focus violet floral framing in the foreground, a premium brand mark in the upper-left, a small product note near the jewelry, a poetic headline in the lower-middle, and a slim rounded information bar at the bottom.
+A vertical luxury fashion advertising poster for an original overseas maison, rendered in an ornate neo-vintage decorative illustration style with couture editorial precision. The image should feel like a collectible print: softened ivory paper ground, tapestry-like botanical density, antique natural-history line discipline, muted jewel tones, and a calm central opening. The whole visual system must feel aristocratic, heraldic, and highly curated rather than digitally fantastical.
 
-Use a vertical poster format with a tightly cropped beauty composition showing only partial jawline, neck, collarbones, upper chest, and a few natural strands of dark hair at the edges. The necklace sits exactly on the central axis, fully readable and dominant. Keep negative space in the upper-left for the VELORIA wordmark and in the lower-middle for the headline. Use soft blurred violet blossoms and shadowed petals along the lower left and lower right edges to create a romantic vignette without obscuring the jewelry. Maintain a slim rounded cream-gold footer bar across the bottom, quiet and luxurious.
+Create the maison “AURELION”.
+Hero product: a high-end structured top-handle evening bag named “Regal Menagerie”.
+The bag is the absolute visual core: medium-sized, architectural, pale ivory leather, softly rounded rectangular body, dark antique-gold metal frame, sculpted lion-head clasp at center, subtle peacock-eye enamel inlays along the top frame, and a short ivory-wrapped handle. The product must look fully believable as a real premium leather object with exact seams, crisp edge paint, weighted hardware, and couture-grade finish.
 
-The hero necklace is a contemporary high-jewelry heart-link lariat in antique champagne-yellow gold, composed of five dimensional sculpted heart motifs across the collar line, each with concentric contour depth and subtle relief rather than flat icon forms. The lowest central heart becomes the focal anchor and extends into a fine double-chain drop with a graceful elongated loop ending. The chain must feel delicate yet precious, with believable weight, clean solder points, elegant tension, and crisp reflective edges. The design should feel romantic, modern, and collectible, never cute or mass-market.
+The poster visualizes the bag as the distilled heraldic emblem of a luxurious menagerie garden. The surrounding peacock, lion, peonies, vines, and ornamental forms are reduced into a more tapestry-like symbolic ecosystem that frames and intensifies the bag’s identity. The lion-head clasp and peacock-eye ornamentation must feel conceptually linked, so the product becomes the true narrative center rather than merely sitting inside decoration.
 
-The woman stands still in warm late-afternoon light, shoulders relaxed, body angled slightly three-quarters, neck elongated, collarbones softly defined, with no visible hands and no extra accessories. The necklace must sit naturally on the skin with correct contact, curvature, and gravity. A few loose hair strands fall near the neck margins to keep the image lived-in and sensual. The flowers remain only as soft atmospheric framing and color depth, never a competing subject.
+Vertical full-bleed composition. The hero bag sits slightly below center in a calm open zone, large enough for its silhouette, clasp, handle, seams, and leather planes to read instantly. Around it, a controlled asymmetrical heraldic surround fills the perimeter. Preserve a clean central breathing area for product and brand typography. Reduce floral quantity slightly so the bag separates more clearly and feels more expensive.
 
-The setting should feel like a luxury garden portrait reduced to its essential emotional traces. Foreground is creamy violet floral blur and soft shadow shapes; midground is the illuminated skin plane and sharply resolved hero necklace; background falls into warm low-contrast shadow with faint hints of foliage tone and hair silhouette. Depth must feel intimate and cinematic, with product and skin in clear focus while the floral frame stays velvety and abstract.
+Use one regal peacock in the upper-right arc with a deep teal neck, patterned wings, and a partially unfurled tail curving behind the bag in a controlled diagonal. Use one noble lion in the lower-right quadrant as a stabilizing heraldic guardian, with warm tawny mane and restrained antique-gold ornament. Frame the lower-left and upper-left with fewer but larger peonies in blush, cream, antique rose, and dusty apricot. Add curling vines, leaves, seedpods, and ribbon-like foliage, but push them toward woven-emblem abstraction rather than full natural overgrowth. Every supporting motif must reinforce the lion-and-peacock identity.
 
-Use a refined 60/25/10/5 palette: 60% warm amber skin and sunlit bronze, 25% deep violet and plum floral shadow, 10% antique champagne-gold metal, 5% soft cream highlights. Build a golden-hour key light from upper-left front, letting light travel gently across the throat, collarbones, and heart charms. Add subtle flower-cast shadow patterns and soft hair-shadow edges across the skin. Keep the metal warm, luminous, and controlled, with brighter emphasis on the central heart and dangling lariat drop. Shadows must remain breathable, elegant, and softly separated.
+All visible text in English only.
+Centered in the calm zone above or near the bag:
+“AURELION”
+Below in smaller refined serif:
+“REGAL MENAGERIE”
+One short supporting line beneath in small caps:
+“LEATHER / ENAMEL / GILDED METAL”
+Typography must be elegant, widely spaced, precisely aligned, and fully readable. No slogans, fake certifications, or extra copy.
 
-Render with hyper-real luxury photography: natural skin texture, visible pores, subtle tonal variation, soft collarbone sheen, realistic baby hairs, and immaculate precious-metal finish. The necklace must show polished ridges, tiny recess shadows, crisp charm edges, believable chain scale, refined inner reflections, and clean construction. The flowers should read as velvety color masses with soft bokeh and petal softness, not botanical detail. The final finish should feel tactile, cinematic, intimate, and launch-ready.
+Use soft museum-like daylight with gentle frontal-side illumination, enough to reveal ivory leather volume, gold hardware relief, peacock iridescence, flower layering, and fine decorative linework without turning the poster into a photoreal studio image. Palette control: 55% warm ivory and parchment, 18% dusty botanical green, 12% muted jewel teal and peacock blue, 8% antique gold and tawny lion warmth, 7% blush and antique rose floral accents. The ivory bag must be slightly brighter and cleaner than everything around it.
 
-Place a minimal refined emblem and the brand name VELORIA in the upper-left, with the descriptor beneath: Fine Jewellery. Near the necklace, add: Heartline Lariat. In the lower-middle, place the headline: A Light That Lingers. Add the smaller line: Close To Your Pulse. In the bottom rounded information bar, place two understated English sections separated by a slim divider: PRIVATE ATELIER and BY APPOINTMENT ONLY. Typography must feel airy, premium, softly cream-gold, and never intrude on the necklace recognition zone.
+The surrounding world should feel like a fusion of luxury fashion illustration, antique tapestry ornament, and engraved natural-history print. Feathers, mane strands, petals, and leaves may be rendered with disciplined decorative linework and layered color. The bag itself must be more realistic and materially exact than its surroundings: believable ivory leather grain, subtle seam shadows, crisp stitching, weighted lion-head clasp, glossy but restrained peacock-eye enamel, and convincing contact between hardware and leather. The bag belongs to the illustration world but must never feel flat or symbolic-only.
 
-Luxury jewelry poster, product-dominant, hyper-real, romantic, editorial, no extra jewelry, no full face, no malformed anatomy, no warped necklace geometry, no duplicated heart charms, no broken chain physics, no plastic-looking gold, no muddy skin, no dead black patches, no gibberish text, no crude fonts, no clutter, no excessive sparkle overlays, no style drift, no topology collapse.
+The bag is foreground-dominant. The peacock tail and vines may curve behind it, never swallowing its silhouette. The lion remains lower and secondary, functioning as a heraldic counterweight rather than a competing hero. Flowers should frame the composition with reduced density and deliberate placement, especially lower-left and upper-left, but must never cover the clasp, handle, or main body planes. Keep the hierarchy unmistakable: bag first, brand second, lion-head clasp and peacock-eye detailing third, fauna and florals fourth.
+
+The emotional register is stately, collectible, and couture-level. The poster should suggest that AURELION creates objects drawn from aristocratic nature, heraldic symbolism, and museum-grade craftsmanship. The viewer should remember three things immediately: the pale ivory bag isolated inside a dense decorative kingdom, the lion-head clasp as the command point, and the peacock motif as its elegant echo.
+
+Avoid making the bag too small, crowded central composition, decorative elements covering the clasp or handle, weak product hierarchy, plastic-looking leather, chrome-like hardware, muddy greens, over-glossy feathers, dead black fur or foliage, flat lighting, gibberish text, extra slogans, warped letters, oversized branding, photoreal jungle scenes, futuristic styling, CGI fantasy look, oversaturated jewel colors, visual noise, extra animals, distorted bag proportions, broken handle geometry, unreadable clasp design, impossible seams, or a bag that blends into surrounding ornament.
 ```
 
 </details>
@@ -75,7 +88,7 @@ Luxury jewelry poster, product-dominant, hyper-real, romantic, editorial, no ext
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HU_2EaPb0AA0n-V.jpg" width="700" alt="VELORIA Heartline Lariat Jewelry Campaign">
+<img src="https://image.moge.ai/prompt_media/HVKVooSawAAvUTS.jpg" width="700" alt="Aurelion Regal Menagerie Handbag Poster">
 </div>
 
 <br>
@@ -84,47 +97,51 @@ Luxury jewelry poster, product-dominant, hyper-real, romantic, editorial, no ext
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2112177340323356693) | 2026-10-19 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2112915766312042579) | 2026-10-21 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2112177340323356693)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2112915766312042579)**
 
 </div>
 
 ---
 
-### No. 2: Embroidered Thread Portrait
+### No. 2: Photo-to-Chinese Shadow Puppet Poster
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Creates a photorealistic male portrait constructed entirely from red, deep green, and ivory embroidery threads on beige linen, accompanied by wooden thread spools.
+Transforms each photo into a standalone vertical poster, pairing the original image above with a minimalist reinterpretation of its subject as a warmly lit traditional Chinese shadow puppet below.
 
 #### 🌟 Prompt
 
-Use the uploaded image as the primary visual reference. Recreate the same composition, camera angle, subject …
+Turn each photo I upload into a separate, standalone premium design poster. Do not create multi-image …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Use the uploaded image as the primary visual reference. Recreate the same composition, camera angle, subject placement, proportions, textures, and color palette.
+Turn each photo I upload into a separate, standalone premium design poster. Do not create multi-image collages; output each photo individually. Use an overall 3:4 vertical composition, divided into two sections with a strict 1:1 height ratio, each occupying 50% of the image.
 
-Create an ultra-detailed, photorealistic thread embroidery portrait of a young adult man, viewed straight-on in a centered, symmetrical close-up. His facial features, tousled hair, eyebrows, eyes, nose, lips, beard, and neck are intricately constructed entirely from hundreds of fine red, deep green, and natural ivory embroidery threads.
+In the upper half, preserve the original photograph, maintaining the subject’s identity, structure, pose, realistic texture, natural lighting and shadows, and original color atmosphere. Apply only subtle, sophisticated color grading to give it the quality of fine-art photography and an Eastern exhibition image. To fit the aspect ratio, the surrounding environment may be extended naturally, but the subject must not be stretched, distorted, or altered.
 
-The threads follow the natural contours of his face, creating realistic shading, depth, wrinkles, and lifelike expressions. His messy, voluminous hair is formed from flowing, intertwined red and dark green threads, creating beautiful layered strands and organic movement.
+In the lower half, extract the photograph’s most recognizable **subject, silhouette, pose, and narrative relationship**, and reconstruct them as a **traditional Chinese shadow-puppet figure / shadow puppet** performing on a semi-transparent xuan-paper screen illuminated by warm light. Whether the original image contains a person, animal, building, plant, object, or landscape, interpret it as a “controllable character”: divide the subject into a small number of articulated components connected by rivets, use the pose from the most expressive moment in the original photograph, and add one or two long, slender bamboo control rods entering from the bottom of the image.
 
-The portrait is embroidered onto coarse beige linen fabric, with clearly visible woven fibers and raised stitching. At the bottom, two wooden spools of red and dark green thread rest diagonally on the fabric, with loose strands connecting to the portrait, suggesting the artwork is still being created.
+Do not depict it realistically or turn it into a cartoon. Instead, reinterpret it through the formal language of shadow puppetry: side-profile treatment, flattened shapes, decorative cutouts, cloud motifs and geometric carved patterns, and partially translucent color staining. Preserve the original subject’s most recognizable features so viewers can identify it at a glance while feeling that it has been reinterpreted and carved by an experienced traditional artisan.
 
-Camera & Composition: Vertical 2:3 composition, straight-on overhead view, centered portrait, tight framing, balanced negative space, intricate macro-level detail.
+Light and shadow are the soul of this work. Place a warm light behind the screen so that warm points of light shine through the puppet’s cutout areas. The colored sections should feature translucent vermilion red, indigo blue, olive green, and amber yellow. Give the puppet’s edges soft, blurred cast shadows and a subtle glow, as if it were moving slowly. An extremely faint double shadow or slight motion blur may be added to capture a moment during the performance.
 
-Lighting & Style: Soft natural studio lighting, subtle shadows emphasizing the raised threads, tactile textile textures, handcrafted embroidery artistry, exceptional detail, realistic depth, premium contemporary fiber art photography.
+The composition should center on **one scene, one puppet, and abundant negative space**. The screen should form a warm field of yellowish beige or pale amber light that naturally darkens around the edges. The subject should occupy only about 25%–35% of the image and may be placed off-center or at a golden-ratio position. Keep the remaining space quiet, like a pause before the performance begins. Do not show an audience, a full-stage view, or complex props.
 
-Important: Every facial feature and hair strand must be made from actual embroidery threads. No painted details, no printed textures, no smooth digital illustration, no extra objects, no text, no watermark. The final image should look like a real, painstakingly handcrafted thread-art masterpiece.
+Extract two or three of the most emotionally meaningful colors from the photograph above and translate them into translucent colors applied to the shadow puppet, harmonized with the warm field of light. Use dark brown and warm ink tones for the shadows instead of cold black.
+
+Use text sparingly. A “play title” or short phrase may appear in small vertical lettering, like a program handwritten by a theater troupe, placed quietly in one corner of the screen. The language is unrestricted.
+
+The overall image should combine **intricate shadow-puppet cutwork, translucent color staining, a warmly illuminated screen, soft cast shadows, and Eastern negative space** into a unified light-and-shadow visual. The central principle is to invite the protagonist of the photograph onto the screen and let it perform an entire play through a single pose. Avoid fully realistic rendering, densely packed scenes, cheap commercial Chinese-trend aesthetics, plastic textures, 3D rendering, cartoon qualities, and template-like posters.
 ```
 
 </details>
@@ -132,7 +149,7 @@ Important: Every facial feature and hair strand must be made from actual embroid
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HU_qAaEakAAGk4H.jpg" width="700" alt="Embroidered Thread Portrait">
+<img src="https://image.moge.ai/prompt_media/HVJUFgzbwAA1L8R.jpg" width="700" alt="Photo-to-Chinese Shadow Puppet Poster">
 </div>
 
 <br>
@@ -141,13 +158,13 @@ Important: Every facial feature and hair strand must be made from actual embroid
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [ORHAN](https://x.com/OrhanGhazi65942) | [X / Twitter](https://x.com/OrhanGhazi65942/status/2112164056027300184) | 2026-10-19 |
+| [DAAI](https://x.com/daaihq) | [X / Twitter](https://x.com/daaihq/status/2112897710147977271) | 2026-10-21 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2112164056027300184)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2112897710147977271)**
 
 </div>
 
@@ -254,28 +271,34 @@ No logos, no fake text, no room background, no centered template layout.
 
 ---
 
-### No. 5: Phoenix-Plumed Oriental Fantasy Princess
+### No. 5: Moonlit Paper Forest with Hidden Cats
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Creates a cinematic 3D oriental fantasy woman with a monumental phoenix-plume hairstyle and an opulent costume in imperial pink, azurite blue, moon white, and gold.
+Creates a detailed eight-layer paper-cut diorama of a moonlit forest village filled with tiny stories and four hidden cats.
 
 #### 🌟 Prompt
 
-Vertical 9:16 composition, a high-precision stylized 3D prototype of an oriental fantasy female character, …
+A handmade layered paper-cut diorama (a "shadow box" of cut paper), horizontal 3:2, a "find the hidden cats" …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Vertical 9:16 composition, a high-precision stylized 3D prototype of an oriental fantasy female character, high-end stylized 3D oriental fantasy character design, cinematic CG rendering, combining classical Eastern divine-bird imagery with sophisticated fantasy costume design.
-An adult oriental fantasy woman aged 24–28, with delicate and radiant facial features, a softly oval face, long clear almond-shaped eyes, a high and elegant nose bridge, softly shaped lips, and fair, refined skin with a lifelike quality. Her expression is noble, cool, and splendid. She has a long neck, a slender upright figure, and elegant proportions.
-Hairstyle sculpture: her long, thick black hair is sculpted across the crown and back of the head into a monumental updo inspired by phoenix feathers. The locks spread backward and upward in layered formations like an abstract phoenix tail. The updo has clearly organized hair sections and a smooth sheen, accented with long, slender phoenix-feather hairpins finished in powdered gold, small azurite-blue enamel ornaments, and long delicate tassels hanging beside the ears.
-Costume design: she wears a sumptuous oriental fantasy gown predominantly in imperial pink, with an elongated, fitted-waist silhouette. Long and magnificent phoenix-tail-shaped adornments extend from the shoulders and back. The outer draped scarves and skirt layers alternate between azurite blue and moon white. Wide, long sleeves fall softly, while the main skirt features intricate feather-pattern embroidery and powdered-gold edging. The broad hem spreads across the ground, forming a magnificent and stable base.
-Color control: use imperial pink across the largest areas of the main skirt and phoenix-tail adornments; azurite blue for secondary skirt layers and selected parts of the headpiece; moon white for the inner skirt, sheer layers, and visual breathing spaces; and powdered gold for fine borders, hairpins, and embroidery accents. The overall palette should be vivid and bright, with clearly separated color blocks, avoiding an excessive red cast across the entire image.
-High-precision 3D modeling, realistic finely detailed hair strands, softly luminous silk, semi-transparent gauze, refined embroidery, and metallic accessories. Bright and soft studio key lighting, subtle rim light, a neutral light-gray background, and a complete front-facing full-body presentation. Avoid a doll-like or collectible-figure appearance, plastic skin, generic historical clothing, cheap xianxia aesthetics, text, and watermarks.
+A handmade layered paper-cut diorama (a "shadow box" of cut paper), horizontal 3:2, a "find the hidden cats" picture in the spirit of a classic seek-and-find book: a moonlit forest village by a river seen from far away in a pulled-back wide view, so that the picture holds a huge amount of tiny detail. It is built from EIGHT clearly separate sheets of paper stacked one behind the other, each a different flat color of real paper with visible fibre, crisp hand-cut edges and a soft cast shadow on the sheet behind it. From the front to the back: a thin dark indigo foreground sheet of curling branches along the top corners and bottom edge, a deep navy sheet of slender pine trunks, a teal sheet of the near forest, reeds and the riverbank, a plum-purple sheet with the village (many houses climbing terraced slopes, small arched stone bridges, a tea stall and a market square), a dusty-blue sheet of more houses and trees, a lavender sheet of rolling hills with a winding road, a pale peach sheet of distant mountains, and the back sheet: a small full cream moon in a pale gold sky. Warm amber and honey-yellow light leaks through the gaps and cut-out holes between the sheets, as if a lamp were hidden behind the diorama: windows, lanterns and the moon are cut-outs backed with glowing yellow tissue paper. A limited palette of indigo, navy, teal, plum, dusty blue, lavender, peach and cream, with the warm amber glow as the only bright accent. It must read as cut paper. The paper fills the whole picture to all four edges: no frame, no border.
+
+About 200 tiny paper villagers in plain everyday clothes, each with a small story (an adult is only about 45 pixels tall in a 1360-pixel-high picture): a lantern parade of children, ferrymen poling small flat boats, a night market with plain striped awnings, a puppet show, a storyteller with listeners, women hanging lanterns on ladders, a boy on a swing, friends crossing arched bridges, a clock tower, a kite flyer, a juggler. Dozens of small cottages, a treehouse with lit windows, a windmill, a pagoda-like tower, stepping stones and reeds.
+
+A logo appears exactly ONCE, small: a modest dark wooden signboard hanging at the front of the tea stall in the middle of the picture (about 4% of the picture width), showing a cream-colored cat paw print whose big pad contains a swirling ocean-wave shape, with the word "Shoji" in cream cursive brush lettering to its right. Apart from that logo there are NO letters, NO words, NO numbers anywhere.
+
+Exactly FOUR cats are hidden in the scene and NO other animal: no birds, no insects, no fish, no dogs, no cat ears or masks on anybody, no cat painted on any sign. All four are on the same plum village sheet, in the open, easy to overlook, and ALL FOUR ARE THE SAME TINY SIZE: each about 1.4% of the picture height (roughly 20 to 25 pixels tall), about two fifths of an adult villager's height, no cat bigger than another:
+(1) a black-and-white "hachiware" cat (black head and back, a white blaze splitting the face, white chest and paws) sitting upright on the ridge of a small cottage roof at the far left;
+(2) a brown mackerel tabby (warm brown fur with dark stripes, white muzzle) sitting upright on a pine branch, center-left;
+(3) a calico cat (mostly white with distinct orange and black patches) sitting upright on the stone rim of the village well beside the tea stall, center-right;
+(4) an upright standing orange tabby cat about three heads tall, exactly as tall as the other three cats and as small as they are, far smaller than the villagers around him, wearing black wayfarer sunglasses whose lenses are blue on one side and red on the other, an open black leather biker jacket, rolled-up denim shorts and cream sneakers, pointing with one hand, standing on the top of an arched stone bridge at the right.
+The tabby, hachiware and calico are real four-legged cats with a thin red collar and a tiny gold bell, no clothes. No cat appears in the lower third of the picture. No black or dark round object that could be mistaken for a cat. No watermark.
 ```
 
 </details>
@@ -283,7 +306,7 @@ High-precision 3D modeling, realistic finely detailed hair strands, softly lumin
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HU7UFnla8AAa046.jpg" width="700" alt="Phoenix-Plumed Oriental Fantasy Princess">
+<img src="https://image.moge.ai/prompt_media/HVH4912aMAA8hKl.jpg" width="700" alt="Moonlit Paper Forest with Hidden Cats">
 </div>
 
 <br>
@@ -292,13 +315,13 @@ High-precision 3D modeling, realistic finely detailed hair strands, softly lumin
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [李岳](https://x.com/liyue_ai) | [X / Twitter](https://x.com/liyue_ai/status/2111858511537955077) | 2026-10-18 |
+| [Shoji Kai](https://x.com/Shoji_ai) | [X / Twitter](https://x.com/Shoji_ai/status/2112853906682515579) | 2026-10-21 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2111858511537955077)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2112853906682515579)**
 
 </div>
 
@@ -349,23 +372,39 @@ A dual-panel studio fashion collage showcasing a beautiful young woman posing in
 
 ---
 
-### No. 7: 1970s Japanese Headphone Poster
+### No. 7: Crimson Veil Ruby Jewelry Campaign
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a retro Japanese editorial advertising poster featuring a model in yellow headphones, split-screen portraits, technical graphics, and an aged offset-print texture.
+Creates a high-jewelry editorial campaign poster featuring a portrait wrapped in crimson lace, sharp floral shadows, and ruby earrings presented as the central luxury product.
 
 #### 🌟 Prompt
 
-Advertising poster in a 1970s Japanese editorial graphic design style. Vertical split-screen composition. On …
+A Cannes Lions caliber luxury jewelry campaign poster for the fictional high-jewelry maison RUBELLE, designed …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Advertising poster in a 1970s Japanese editorial graphic design style. Vertical split-screen composition. On the left, a profile shot of the model wearing yellow vintage headphones. On the right, a cropped vertical framing of her face and torso. Cream-white background with an aged printed paper texture and analog film grain. Large pastel blue text in the center reading "HER19845." Overlaid with a technical grid featuring organized orange dots, circular vector diagrams around the headphones, and blocks of technical typographic text in English and Japanese characters. Industrial design manual aesthetic; color palette of cream, black, pastel blue, and yellow. High definition with a vintage offset print texture.
+A Cannes Lions caliber luxury jewelry campaign poster for the fictional high-jewelry maison RUBELLE, designed as a product-first editorial beauty image fusing crimson narrative atmosphere, collector-grade ruby-and-metal precision, and curator-level restraint. Preserve the exact visual architecture and light hierarchy: a full-bleed vertical close-up portrait wrapped in translucent crimson lace, with the top and both side edges enclosed by rich red veil, and a sharply focused floral-lace shadow pattern projected across the forehead, eyes, nose bridge, lips, neck, and upper chest. The face remains the emotional stage, while the earrings are the clearest luxury product accents.
+
+Use a full-bleed vertical crop from above the forehead to just below the collarbone, no border or margin. The woman is nearly frontal with a slight upward lift and subtle turn left, creating a poised couture presence. Crimson lace frames the top and both sides, narrowing attention toward the face. A floral perforated shadow-light pattern falls diagonally across the face and chest, with the strongest illumination on one eye, the nose ridge, upper cheek, lips, and collar area. Keep the image dense and immersive, with no scenic distraction. The earrings must sit precisely inside this red-light architecture, clearly readable without overpowering the projected pattern.
+
+The hero product is a pair of couture ruby lace-drop earrings in antique rose gold, built with delicate openwork filigree echoing the lace motif, each set with deep pigeon-blood-to-dark-ruby stones and tiny diamond-white accents. The earrings should feel elongated, elegant, and noble, with rich gemstone depth, crisp gold edges, refined articulation, and believable luxury weight. Rubies must read as dark, glassy red with internal fire, never candy-bright. The jewelry should feel like the distilled jewel version of the crimson lace itself.
+
+Hair is sleekly controlled and mostly concealed by the veil, preserving a clean facial silhouette. The expression is quiet, severe, and emotionally withheld, with softly parted lips and eyes sharply alive beneath the lace shadow. Shoulders and upper chest remain visible enough to receive the projected floral pattern. No hands, no extra jewelry, no styling clutter. The body serves only as a sculptural field for veil, shadow, skin glow, and jewel emphasis.
+
+The environment is fully abstract and studio-built. The veil creates foreground and side framing, while the background behind the face dissolves into warm red-black shadow. Depth comes from layered veil transparency, crisp floral shadow projection, skin plane, eye focus, and precise earring highlights. The result should feel intimate, enclosed, and ceremonial, like a private high-jewelry reveal inside red light.
+
+Preserve the exact light logic and value structure. Use a disciplined palette: 65% saturated crimson and red-black veil shadow, 20% warm ivory skin highlights, 10% near-black facial and background shadow, 5% ruby-red and rose-gold jewelry brilliance. Build the image with strong warm directional light filtered through floral lace, creating crisp projected shadow motifs across the face and chest. Skin highlights must stay luminous and hot but never blown out. Eyes remain readable and piercing beneath the pattern. Earrings receive precise micro-highlights and subtle gemstone depth, asserting product presence without overtaking the projection hierarchy. No muddy reds, flat blacks, plastic skin, or fake sparkle.
+
+Render with hyper-real luxury beauty photography: natural pores, refined lip texture, detailed lashes, subtle eye moisture, rich translucent lace weave, and couture-grade ruby-and-gold rendering. The veil must feel tactile, sheer, and richly dyed; the projected floral shadows sharp and physically believable; the earrings crisp, precise, and deeply saturated. The final image should feel like a flagship global print ad: sensual, rare, severe, and technically immaculate.
+
+Place a minimal maison emblem and the brand name “RUBELLE” in very small refined editorial lettering near the upper-left or upper-center only if needed. If a headline is included, keep it minimal in the lower negative space: “Veil Of Fire”. Add a smaller subline: “Ruby Lace Earrings”. Typography must be airy, fashion-led, softly integrated in ivory or muted rose-gold, and never interfere with the eyes, lips, earrings, or lace-shadow rhythm.
+
+Full-bleed luxury jewelry poster, product-dominant, exact light hierarchy preserved, hyper-real, editorial, no border, no empty margin, no extra accessories, no malformed face, no distorted eyes, no broken earring geometry, no plastic-looking rubies, no gibberish text, no clutter, no props, no muddy reds, no dead black patches, no exaggerated makeup, no style drift, no topology collapse.
 ```
 
 </details>
@@ -373,7 +412,7 @@ Advertising poster in a 1970s Japanese editorial graphic design style. Vertical 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HUmftQzWoAAvQoO.jpg" width="700" alt="1970s Japanese Headphone Poster">
+<img src="https://image.moge.ai/prompt_media/HVFROTNa8AAEyWB.jpg" width="700" alt="Crimson Veil Ruby Jewelry Campaign">
 </div>
 
 <br>
@@ -382,43 +421,36 @@ Advertising poster in a 1970s Japanese editorial graphic design style. Vertical 
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [HER19845](https://x.com/her19845) | [X / Twitter](https://x.com/her19845/status/2111676649041170918) | 2026-10-18 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2112559034561872319) | 2026-10-20 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2111676649041170918)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2112559034561872319)**
 
 </div>
 
 ---
 
-### No. 8: Minimalist Mountain Landscape Series
+### No. 8: Cutout Landscape Typography Poster
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Creates a vertical poster series blending photorealistic snowy mountains with abstract 3D topographic wireframe sculptures and a sophisticated contemporary gallery aesthetic.
+Creates a minimalist Swiss-style poster where a landscape is revealed through giant bold cutout letters and extends across the bottom of the composition.
 
 #### 🌟 Prompt
 
-Create a stunning minimalist landscape art series inspired by majestic snow-covered mountains, serene …
-
-<details>
-<summary>Show full prompt</summary>
-
 ```
-Create a stunning minimalist landscape art series inspired by majestic snow-covered mountains, serene reflections, and the peaceful beauty of nature. The first composition features towering snowy peaks beneath a soft pastel pink and lavender sky, a calm reflective lake, and dark evergreen forests, captured in cinematic photography. The second composition transforms the mountain landscape into an abstract 3D topographic wireframe sculpture, using intricate flowing contour lines, monochrome black-and-white tones, dramatic fog, and a tiny human silhouette emphasizing scale and solitude. Combine photorealism with conceptual digital art, elegant editorial typography, subtle horizontal line patterns, clean geometric layouts, atmospheric lighting, fine details, and a sophisticated contemporary art-gallery aesthetic. Vertical poster format, ultra-high resolution, breathtaking composition.
+minimalist graphic poster, a solid flat [Base color] background covering the whole poster, the giant bold letters "[Word]" cut out of it like windows, through the letters you can see [Landscape], the landscape visible only inside the letterforms and spilling out below the letters at the bottom of the poster, clean sharp edges, modern swiss design, no other text --ar 3:4 --stylize 300
 ```
-
-</details>
 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HU0hkxPbIAA_P-u.jpg" width="700" alt="Minimalist Mountain Landscape Series">
+<img src="https://image.moge.ai/prompt_media/HVH90bbWwAApAus.jpg" width="700" alt="Cutout Landscape Typography Poster">
 </div>
 
 <br>
@@ -427,13 +459,13 @@ Create a stunning minimalist landscape art series inspired by majestic snow-cove
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Taaruk](https://x.com/Taaruk_) | [X / Twitter](https://x.com/Taaruk_/status/2111380726847557775) | 2026-10-17 |
+| [Vigo Zhao](https://x.com/VigoCreativeAI) | [X / Twitter](https://x.com/VigoCreativeAI/status/2112748806328476092) | 2026-10-21 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2111380726847557775)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2112748806328476092)**
 
 </div>
 
@@ -614,23 +646,34 @@ Keep all text accurate and readable. Avoid flat overlays, unrealistic motion, ex
 
 ---
 
-### No. 11: Y2K Designer Toy Portrait
+### No. 11: Hidden Cats Cross-Section Hotel
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Creates a detailed 3D half-body portrait of a trendy character as a premium chibi collectible figure with Y2K streetwear styling.
+Creates a detailed flat illustration of a grand cross-section hotel with 36 rooms full of tiny stories and four hidden cats to find.
 
 #### 🌟 Prompt
 
-High-detail 3D render of a trendy [character], half-body portrait, designer toy blind box style, professional …
+A clean, flat, graphic illustration in a limited pastel palette (powder pink, mint green, butter yellow, …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-High-detail 3D render of a trendy [character], half-body portrait, designer toy blind box style, professional 3D aesthetic, exaggerated chibi proportions, oversized head, [facial features], [hairstyle], [expression], realistic skin texture, [piercings and accessories], wearing [streetwear outfit], [jewelry], cute decorative patches, Y2K fashion aesthetic, soft studio lighting, clean white background, premium collectible toy design, 8K
+A clean, flat, graphic illustration in a limited pastel palette (powder pink, mint green, butter yellow, powder blue, lavender, cream walls, thin dark-brown outlines), vertical 2:3, a "find the hidden cats" picture in the spirit of a classic seek-and-find book. A very tall, perfectly left-right symmetrical grand hotel tower drawn as a cross-section, as if the whole front wall were removed like a dollhouse, so every room is visible at once, seen from far away in a pulled-back view so that the picture holds a huge amount of detail. Straight frontal view, flat perspective, thin straight floor lines. Nine guest floors with four rooms each (36 rooms, two on each side of a central column of staircases and glass elevators) on a wide ground-floor lobby with a revolving door, a reception desk, a lounge and a restaurant, crowned by a rooftop garden terrace with a small glass dome, umbrellas and potted trees. The building fills about 80% of the picture width. Around it: a front plaza with a fountain, lamp posts and clipped hedges, rows of trees on both sides, distant low city buildings and hills, a pale blue sky with a few tiny clouds.
+
+Every room is a tiny story, all different, with small people and small furniture (an adult standing in a room is only about 75 pixels tall in a 2048-pixel-high picture): a guest reading in a bathtub, a couple on a bed, a child jumping on a bed, a chef cooking, a painter at an easel, a woman playing a cello, a man ironing a shirt, a family packing suitcases, a guest asleep with a sleeping mask, a gardener watering plants, an elderly couple playing chess, a maid with towels, a pianist, a tailor, a yoga class, a birthday party, a little gym, a bellhop pushing a luggage trolley. Warm lamplight in the rooms, about 200 tiny people in plain everyday clothes. Clean and sharp: perfectly straight lines, natural proportions, clear tiny hands and faces, every object recognizable.
+
+A logo appears exactly ONCE, small: a modest dark wooden signboard on the lobby wall beside the reception desk (about 4% of the picture width), showing a cream-colored cat paw print whose big pad contains a swirling ocean-wave shape, with the word "Shoji" in cream cursive brush lettering to its right. Apart from that logo there are NO letters, NO words and NO numbers anywhere.
+
+Exactly FOUR cats are hidden in the scene and NO other animal: no birds, no dogs, no cat ears or masks on anybody, no cat painted on any wall or sign, no stuffed animals. All four are in different guest rooms on the middle floors, in the open but easy to overlook, and ALL FOUR ARE THE SAME SIZE: about 1.4% of the picture height each (roughly 30 pixels tall in a 2048-pixel-high picture), about two fifths of an adult's height, no cat bigger than another:
+(1) a brown mackerel tabby (warm brown fur with dark stripes, white muzzle) sitting upright on the end of a bed in a third-floor room at the far left;
+(2) a black-and-white "hachiware" cat (black head and back, a white blaze splitting the face, white chest and paws) sitting upright on a desk beside a window in a fourth-floor room, left of the central column;
+(3) a calico cat (mostly white with distinct orange and black patches) sitting upright on a green sofa in a fourth-floor room, right of the central column;
+(4) an upright standing orange tabby cat about three heads tall, exactly as tall as the other three cats, wearing black wayfarer sunglasses whose lenses are blue on one side and red on the other, an open black leather biker jacket, rolled-up denim shorts and cream sneakers, pointing with one hand, in a fifth-floor room at the far right. He is a tiny figure as small as the seated cats (about 30 pixels tall), far smaller than the people around him.
+The tabby, hachiware and calico are real four-legged cats with a thin red collar and a tiny gold bell, no clothes. No cat appears in the lower third of the picture. No black or dark round object that could be mistaken for a cat. No watermark, no frame, no border.
 ```
 
 </details>
@@ -638,7 +681,7 @@ High-detail 3D render of a trendy [character], half-body portrait, designer toy 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HU6HieQbwAAaV1i.jpg" width="700" alt="Y2K Designer Toy Portrait">
+<img src="https://image.moge.ai/prompt_media/HVCaYNtbUAE_gjw.jpg" width="700" alt="Hidden Cats Cross-Section Hotel">
 </div>
 
 <br>
@@ -647,13 +690,13 @@ High-detail 3D render of a trendy [character], half-body portrait, designer toy 
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Amira Zairi](https://x.com/azed_ai) | [X / Twitter](https://x.com/azed_ai/status/2111774317289889900) | 2026-10-18 |
+| [Shoji Kai](https://x.com/Shoji_ai) | [X / Twitter](https://x.com/Shoji_ai/status/2112478933073490300) | 2026-10-20 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2111774317289889900)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2112478933073490300)**
 
 </div>
 
@@ -704,39 +747,39 @@ A studio portrait of an elegant young woman sitting sideways on a dark wooden st
 
 ---
 
-### No. 13: NOCTARA Luxury Jewelry Campaign
+### No. 13: VELORIA Heartline Lariat Jewelry Campaign
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a hyper-real, minimalist luxury jewelry campaign poster featuring gold and diamond pieces on a sculptural midnight-navy bust and hand.
+Creates a high-luxury editorial jewelry poster centered on a gold heart-motif lariat necklace, golden-hour skin, blurred violet flowers, and elegant typography.
 
 #### 🌟 Prompt
 
-A Cannes-level luxury jewelry campaign poster for the fictional contemporary fine-jewelry brand NOCTARA, …
+A Cannes-level luxury jewelry campaign poster for the fictional fine-jewelry house VELORIA, designed as a …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-A Cannes-level luxury jewelry campaign poster for the fictional contemporary fine-jewelry brand NOCTARA, designed as a product-first editorial still life that fuses sculptural atmosphere, collector-grade material precision, and curator-level minimal restraint. The composition centers on a deep midnight-navy mannequin bust in elegant side profile, with a matching raised hand entering from the right to form one continuous sculptural gesture. The jewelry set remains the absolute focus: a refined yellow-gold mix-and-match composition across ear, neck, and hand, presented against a pale gallery-clean background with disciplined typography and strong negative space.
+A Cannes-level luxury jewelry campaign poster for the fictional fine-jewelry house VELORIA, designed as a product-first editorial beauty ad. The hero object is a hyper-real heart-motif gold lariat necklace, shown as the absolute center on a woman’s sunlit neck and collarbones. The image must fuse intimate golden-hour emotion, collector-grade material precision, and curator-level restraint. Preserve the core structure: a tight crop from just below the lips to the upper bust, a centered necklace on warm skin, soft out-of-focus violet floral framing in the foreground, a premium brand mark in the upper-left, a small product note near the jewelry, a poetic headline in the lower-middle, and a slim rounded information bar at the bottom.
 
-Use a vertical poster format, straight-on with slight editorial monumentality. The mannequin occupies the center-left and center field, facing right. Preserve the clean poster rhythm: a large headline in the upper-left, a minimal star-like emblem near the upper-right, and a refined text block in the lower-left. The bust silhouette, neck curve, profile line, and raised hand should create a single elegant visual flow. Keep the background warm white to pale stone gray, uncluttered and spacious, with only a faint grounding shadow beneath the bust. The image should feel like a museum-grade print ad.
+Use a vertical poster format with a tightly cropped beauty composition showing only partial jawline, neck, collarbones, upper chest, and a few natural strands of dark hair at the edges. The necklace sits exactly on the central axis, fully readable and dominant. Keep negative space in the upper-left for the VELORIA wordmark and in the lower-middle for the headline. Use soft blurred violet blossoms and shadowed petals along the lower left and lower right edges to create a romantic vignette without obscuring the jewelry. Maintain a slim rounded cream-gold footer bar across the bottom, quiet and luxurious.
 
-The hero jewelry set is contemporary fine jewelry in polished champagne-yellow gold with restrained diamond-white accents. The visible ear wears one long drop earring with a small floral-geometric stud, a slim horizontal connector, and delicate chain tassels ending in tiny luminous drops. Around the neck sits a minimal gold chain necklace with two asymmetrical geometric pendants, intentionally non-identical yet harmonized, one brighter with a stone-led glint and one warmer sculptural gold form. The raised hand gently holds a coordinating chain bracelet or hand jewel with small medallion details and a slim dangling tassel. The overall language should feel modern, poetic, collectible, and quietly personal.
+The hero necklace is a contemporary high-jewelry heart-link lariat in antique champagne-yellow gold, composed of five dimensional sculpted heart motifs across the collar line, each with concentric contour depth and subtle relief rather than flat icon forms. The lowest central heart becomes the focal anchor and extends into a fine double-chain drop with a graceful elongated loop ending. The chain must feel delicate yet precious, with believable weight, clean solder points, elegant tension, and crisp reflective edges. The design should feel romantic, modern, and collectible, never cute or mass-market.
 
-The mannequin bust should be smooth, elongated, and refined, with poised chin, elegant collarbone line, and a calm profile directing attention toward the lifted hand. The hand must feel sculptural and couture-like, with gently curved fingers and believable tension where the jewelry is held. The jewelry distribution from ear to neck to hand should create a refined cadence, guiding the eye without crowding. Remove anything non-essential so the jewelry reads with maximum clarity and desirability.
+The woman stands still in warm late-afternoon light, shoulders relaxed, body angled slightly three-quarters, neck elongated, collarbones softly defined, with no visible hands and no extra accessories. The necklace must sit naturally on the skin with correct contact, curvature, and gravity. A few loose hair strands fall near the neck margins to keep the image lived-in and sensual. The flowers remain only as soft atmospheric framing and color depth, never a competing subject.
 
-Keep the setting radically minimal and editorial. Depth should come from silhouette separation, tonal modeling, jewelry layering, and fine shadow falloff rather than scenery. The mannequin and hand should feel fully dimensional against the quiet pale background, with the jewelry emerging as warm points of precision. No props, furniture, texture overload, or narrative clutter.
+The setting should feel like a luxury garden portrait reduced to its essential emotional traces. Foreground is creamy violet floral blur and soft shadow shapes; midground is the illuminated skin plane and sharply resolved hero necklace; background falls into warm low-contrast shadow with faint hints of foliage tone and hair silhouette. Depth must feel intimate and cinematic, with product and skin in clear focus while the floral frame stays velvety and abstract.
 
-Use a restrained palette of midnight navy, pale stone white, champagne gold, and diamond-white highlights. Build a soft directional key from upper-left front grazing the profile, neck, shoulder line, fingers, and jewelry edges. Add subtle frontal fill to preserve detail in the navy surface while maintaining sculptural depth. Gold reflections should remain warm, crisp, and elegant, never harsh. Tiny diamond or pearl-like highlights should punctuate the jewelry with precision. Maintain premium contrast without dead black areas or flat gray dullness.
+Use a refined 60/25/10/5 palette: 60% warm amber skin and sunlit bronze, 25% deep violet and plum floral shadow, 10% antique champagne-gold metal, 5% soft cream highlights. Build a golden-hour key light from upper-left front, letting light travel gently across the throat, collarbones, and heart charms. Add subtle flower-cast shadow patterns and soft hair-shadow edges across the skin. Keep the metal warm, luminous, and controlled, with brighter emphasis on the central heart and dangling lariat drop. Shadows must remain breathable, elegant, and softly separated.
 
-Render everything with hyper-real luxury product photography and fashion-editorial polish. The mannequin surface should feel like matte-satin ceramic or lacquered resin with velvety density, between sculpture and couture display form. The gold jewelry must show immaculate polish, believable chain scale, precise link articulation, clean stone setting, and subtle micro-reflections. The finish should be immaculate, tactile, and high-end, with every edge resolved and every highlight controlled. No plastic sheen, muddy reflections, or cheap gloss.
+Render with hyper-real luxury photography: natural skin texture, visible pores, subtle tonal variation, soft collarbone sheen, realistic baby hairs, and immaculate precious-metal finish. The necklace must show polished ridges, tiny recess shadows, crisp charm edges, believable chain scale, refined inner reflections, and clean construction. The flowers should read as velvety color masses with soft bokeh and petal softness, not botanical detail. The final finish should feel tactile, cinematic, intimate, and launch-ready.
 
-Place a refined wordmark for NOCTARA with a minimal starburst emblem in the upper composition. In the upper-left, set the headline: Distinct Notes, One Presence. In the lower-left, add: Apart in form, aligned in feeling. Beneath it: Layer with instinct. Keep what becomes yours. Typography must feel airy, elegant, and integrated, using a refined serif-led hierarchy with graceful spacing and no heavy crude fonts.
+Place a minimal refined emblem and the brand name VELORIA in the upper-left, with the descriptor beneath: Fine Jewellery. Near the necklace, add: Heartline Lariat. In the lower-middle, place the headline: A Light That Lingers. Add the smaller line: Close To Your Pulse. In the bottom rounded information bar, place two understated English sections separated by a slim divider: PRIVATE ATELIER and BY APPOINTMENT ONLY. Typography must feel airy, premium, softly cream-gold, and never intrude on the necklace recognition zone.
 
-Luxury jewelry poster, product-dominant, ultra-clean, editorial, hyper-real, no extra accessories, no clutter, no background scene, no gibberish text, no malformed fingers, no broken chain physics, no floating jewelry without support, no warped facial profile, no muddy navy tones, no dead black patches, no blown gold highlights, no duplicated pieces, no topology collapse, no style drift, no cheap catalog aesthetic.
+Luxury jewelry poster, product-dominant, hyper-real, romantic, editorial, no extra jewelry, no full face, no malformed anatomy, no warped necklace geometry, no duplicated heart charms, no broken chain physics, no plastic-looking gold, no muddy skin, no dead black patches, no gibberish text, no crude fonts, no clutter, no excessive sparkle overlays, no style drift, no topology collapse.
 ```
 
 </details>
@@ -744,7 +787,7 @@ Luxury jewelry poster, product-dominant, ultra-clean, editorial, hyper-real, no 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HU1y3BhaIAAiRSM.jpg" width="700" alt="NOCTARA Luxury Jewelry Campaign">
+<img src="https://image.moge.ai/prompt_media/HU_2EaPb0AA0n-V.jpg" width="700" alt="VELORIA Heartline Lariat Jewelry Campaign">
 </div>
 
 <br>
@@ -753,43 +796,47 @@ Luxury jewelry poster, product-dominant, ultra-clean, editorial, hyper-real, no 
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2111470189015707740) | 2026-10-17 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2112177340323356693) | 2026-10-19 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2111470189015707740)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2112177340323356693)**
 
 </div>
 
 ---
 
-### No. 14: Photography-to-Illustration Editorial Poster
+### No. 14: Embroidered Thread Portrait
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Creates a vertical editorial poster combining a photorealistic photograph with a hand-painted illustration of the same scene and minimalist typography.
+Creates a photorealistic male portrait constructed entirely from red, deep green, and ivory embroidery threads on beige linen, accompanied by wooden thread spools.
 
 #### 🌟 Prompt
 
-Create a premium editorial poster featuring a two-part visual composition. The upper half shows a …
+Use the uploaded image as the primary visual reference. Recreate the same composition, camera angle, subject …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a premium editorial poster featuring a two-part visual composition. The upper half shows a photorealistic photograph of [SUBJECT] in [SETTING], captured in warm natural sunlight with realistic skin texture, authentic expressions, soft highlights, and cinematic depth of field. The lower half transforms the exact same scene into a beautiful hand-painted digital illustration, preserving the subject’s pose, hairstyle, clothing, colors, and key visual details.
+Use the uploaded image as the primary visual reference. Recreate the same composition, camera angle, subject placement, proportions, textures, and color palette.
 
-Place the illustrated scene inside a clean rectangular frame on a warm ivory, subtly textured paper background. Use a charming contemporary illustration style with delicate brush textures, simplified organic shapes, pastel colors, soft outlines, and a nostalgic summer-magazine aesthetic. Add tasteful decorative elements that complement the scene.
+Create an ultra-detailed, photorealistic thread embroidery portrait of a young adult man, viewed straight-on in a centered, symmetrical close-up. His facial features, tousled hair, eyebrows, eyes, nose, lips, beard, and neck are intricately constructed entirely from hundreds of fine red, deep green, and natural ivory embroidery threads.
 
-Below the illustration, include a centered minimalist editorial title reading “[MAIN TITLE]” in thin, widely spaced uppercase typography, followed by a smaller subtitle reading “[TAGLINE]” in elegant letter-spaced text. Add a short, thin pastel-colored line underneath.
+The threads follow the natural contours of his face, creating realistic shading, depth, wrinkles, and lifelike expressions. His messy, voluminous hair is formed from flowing, intertwined red and dark green threads, creating beautiful layered strands and organic movement.
 
-Maintain balanced spacing, refined art direction, a cohesive color palette, and a sophisticated print-design finish. Vertical 3:4 composition, high resolution, natural lighting, polished editorial layout, aesthetically pleasing, realistic-to-illustration transformation.
+The portrait is embroidered onto coarse beige linen fabric, with clearly visible woven fibers and raised stitching. At the bottom, two wooden spools of red and dark green thread rest diagonally on the fabric, with loose strands connecting to the portrait, suggesting the artwork is still being created.
 
-Avoid clutter, excessive text, distorted anatomy, inconsistent facial features, harsh colors, heavy borders, and unnecessary graphic elements.
+Camera & Composition: Vertical 2:3 composition, straight-on overhead view, centered portrait, tight framing, balanced negative space, intricate macro-level detail.
+
+Lighting & Style: Soft natural studio lighting, subtle shadows emphasizing the raised threads, tactile textile textures, handcrafted embroidery artistry, exceptional detail, realistic depth, premium contemporary fiber art photography.
+
+Important: Every facial feature and hair strand must be made from actual embroidery threads. No painted details, no printed textures, no smooth digital illustration, no extra objects, no text, no watermark. The final image should look like a real, painstakingly handcrafted thread-art masterpiece.
 ```
 
 </details>
@@ -797,7 +844,7 @@ Avoid clutter, excessive text, distorted anatomy, inconsistent facial features, 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HUz1b-baoAArqW7.jpg" width="700" alt="Photography-to-Illustration Editorial Poster">
+<img src="https://image.moge.ai/prompt_media/HU_qAaEakAAGk4H.jpg" width="700" alt="Embroidered Thread Portrait">
 </div>
 
 <br>
@@ -806,13 +853,13 @@ Avoid clutter, excessive text, distorted anatomy, inconsistent facial features, 
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [K](https://x.com/ChillaiKalan__) | [X / Twitter](https://x.com/ChillaiKalan__/status/2111332272670417236) | 2026-10-17 |
+| [ORHAN](https://x.com/OrhanGhazi65942) | [X / Twitter](https://x.com/OrhanGhazi65942/status/2112164056027300184) | 2026-10-19 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2111332272670417236)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2112164056027300184)**
 
 </div>
 
@@ -996,36 +1043,23 @@ Professional sports advertising aesthetic. Bold, immersive, visually explosive.
 
 ---
 
-### No. 17: Nighttime Reading Tower with Four Hidden Cats
+### No. 17: Whimsical Mixed-Media Storybook Portrait
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Creates an illustrated seek-and-find poster of a gigantic nighttime reading tower filled with miniature stories, with four cats and a Shoji plaque hidden among its terraces.
+Creates an intimate storybook portrait of a person and animal companion with exaggerated proportions, playful asymmetry, and rich watercolor, collage, and pencil textures.
 
 #### 🌟 Prompt
 
-A flat, graphic, gouache-like poster illustration of a giant stepped tower, a ziggurat of open reading …
+Extreme close-up mixed-media storybook illustration of [HUMAN] with [ANIMAL] beside them in [SETTING]. …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-A flat, graphic, gouache-like poster illustration of a giant stepped tower, a ziggurat of open reading terraces, seen straight on at night: a "find the hidden cats" picture in the spirit of a classic seek-and-find book, vertical 2:3. Limited palette of deep ultramarine blue, warm yellow, red and white with touches of green, with hundreds of tiny people in plain everyday clothes reading, writing, carrying books, climbing stairs and chatting.
-
-Clean and sharp: coherent perspective, perfectly straight railings and floor lines, natural proportions, clear tiny hands and faces, every object recognizable. An enormous white concrete tower of about 16 terraces with thin railings narrows toward the top and fills the lower two thirds of the picture, its summit slightly right of center, rising into a deep ultramarine night sky with a big flat pale-yellow full moon at the upper left and a few tiny stars. Each terrace is a row of small open rooms whose back walls are painted in flat color panels (blue, yellow, red, green, white): libraries with bookshelves, reading tables, a cafe corner, a map room, a music room with a piano, a classroom with a green board, a plant nursery, a laundry line, a small observatory dome on the top. The top terrace has a little garden with round trees and a telescope. Warm lamplight glows from the rooms. The widest terraces are cut off by the bottom edge. Staircases run along the right side. Every small story is different, so the viewer wants to explore every terrace.
-
-A logo appears exactly ONCE, small and unobtrusive: a modest dark brown wooden plaque hanging on two thin cords above the door of one reading room on the left-middle of the tower, showing a cream-colored cat paw print whose big pad contains a swirling ocean-wave shape, with the word "Shoji" in cream cursive brush lettering to its right (about 2.3 times wider than tall, about 6% of the picture width). Apart from that logo there are NO letters, NO words and NO numbers anywhere: books, signs, boards and clocks show only pictures, stripes and dots.
-
-Hidden cats (the idea of the picture): exactly FOUR cats are hidden in the scene, and NO other cat or animal anywhere: no cat ears, cat masks or cat heads on any person, no cat drawn on any sign, book or poster. The four cats are tiny and far from the viewer, each on a different terrace, in the open but easy to overlook:
-(1) a brown mackerel tabby (warm brown fur with dark stripes, white muzzle, green eyes) sitting on a red cushion in a reading room on the left-middle;
-(2) a black-and-white "hachiware" cat (black head and back with a white blaze splitting the face in two, white chest and white paws) sitting on the top rail of a terrace railing at the right-middle (not on the stairs), on four legs like a real cat, never standing upright;
-(3) a calico cat (mostly white with distinct orange and black patches) lying on top of a bookshelf in a yellow room in the upper middle;
-(4) Shoji Cat: an upright standing orange tabby cat about three heads tall with a round cheeky face, wearing black wayfarer sunglasses whose lenses are blue on one side and red on the other, an open black leather biker jacket with a silver chain necklace, rolled-up denim shorts and cream sneakers, pointing with one hand; he stands at the railing of the top terrace on the right, below the moon side of the sky.
-The tabby, hachiware and calico are real four-legged cats with a thin red collar and a tiny gold bell, no clothes; Shoji Cat has no collar. Each cat is TINY: only about 1.3% of the image height (roughly 20 pixels tall in a 1536-pixel picture), clearly smaller than a person's head nearby. NO cat appears in the lower third of the picture at all: the lower third shows only people, shelves, plants and furniture.
-
-No black or dark round object, no dark animal-like shape anywhere that could be mistaken for a cat; no animals other than the four cats. No watermark, no frame, no border.
+Extreme close-up mixed-media storybook illustration of [HUMAN] with [ANIMAL] beside them in [SETTING]. Oversized tilted head, gigantic uneven blue-green eyes, thick eyebrows, tiny nose, coral-pink freckled cheeks, thin neck, and miniature hands. Irregular color planes, translucent watercolor, cut-paper layers, ink washes, chalk-pastel grain, and delicate pencil outlines. Sweeping graphic hair with white scribbles. Wearing [CLOTHING], in [COLORS]. Abstract organic background, smaller wide-eyed matching animal, playful asymmetry, intimate composition, and tactile painterly texture.
 ```
 
 </details>
@@ -1033,7 +1067,7 @@ No black or dark round object, no dark animal-like shape anywhere that could be 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HU4IMDWakAA7RPX.jpg" width="700" alt="Nighttime Reading Tower with Four Hidden Cats">
+<img src="https://image.moge.ai/prompt_media/HVD4wcOb0AAc0Xa.jpg" width="700" alt="Whimsical Mixed-Media Storybook Portrait">
 </div>
 
 <br>
@@ -1042,13 +1076,13 @@ No black or dark round object, no dark animal-like shape anywhere that could be 
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Shoji Kai](https://x.com/Shoji_ai) | [X / Twitter](https://x.com/Shoji_ai/status/2111653504666202571) | 2026-10-18 |
+| [Eesha](https://x.com/MissDelulu9) | [X / Twitter](https://x.com/MissDelulu9/status/2112461761266032799) | 2026-10-20 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2111653504666202571)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2112461761266032799)**
 
 </div>
 
@@ -1099,45 +1133,23 @@ A studio portrait of a beautiful young woman with dark hazel eyes and soft, natu
 
 ---
 
-### No. 19: AURELIA SUN Bottle Waterpark Ad
+### No. 19: 1970s Japanese Headphone Poster
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a premium tropical advertising poster where a giant citrus drink bottle becomes the central tower of a luxurious waterpark.
+Creates a retro Japanese editorial advertising poster featuring a model in yellow headphones, split-screen portraits, technical graphics, and an aged offset-print texture.
 
 #### 🌟 Prompt
 
-Create a premium vertical commercial poster for a fictional citrus beverage brand, "AURELIA SUN". Build it as …
+Advertising poster in a 1970s Japanese editorial graphic design style. Vertical split-screen composition. On …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a premium vertical commercial poster for a fictional citrus beverage brand, "AURELIA SUN". Build it as a Cannes-level product-first fantasy ad where one giant real plastic bottle becomes the architectural heart of a luxury tropical waterpark. The bottle must remain the absolute visual hero, towering at center while a radiant stream of sparkling orange drink pours from its base like a glowing waterfall into a vivid turquoise lagoon. The image should merge premium packaging realism, engineered leisure spectacle, and destination-grade escapist storytelling into one clean, high-impact key visual.
-
-Use a frontal, slightly low-angle cinematic composition with strong central symmetry. Place the oversized bottle on the central axis, dominating the upper-middle frame. Wrap multiple elegant spiral waterslides around the bottle body, rising and looping with believable engineering, clean supports, and graceful rhythm. The orange liquid waterfall aligns with the bottle center and becomes the main vertical motion line, crashing into the lagoon below. Use tropical foliage, lagoon curves, floating tubes, and rock edges to frame the lower third, with distant cliffs and side waterfalls adding balanced depth. Preserve generous open sky around the bottle for premium breathing room and brand clarity.
-
-The bottle must feel hyper-real, collectible, and fully manufacturable: chilled clear plastic, smooth molded curvature, realistic cap threading, a premium orange cap, dense luminous orange drink, subtle suspended pulp, and abundant varied condensation beads. The front label must read exactly:
-"AURELIA SUN"
-Secondary line:
-"Sparkling Orange Drink"
-Include one small premium solar emblem. The label should feel globally branded, shelf-dominant, highly readable, and cleanly integrated into the bottle form.
-
-Set the scene in a lush tropical canyon resort with tall waterfalls, layered cliffs, palm trees, warm sunlight, clear blue sky, and a crystalline lagoon. The bottle acts as the central attraction tower of the park. Small visitors ride inflatable tubes and move through the slide system below, but remain tiny, sparse, and clearly secondary. Add restrained oranges and citrus leaves in the lower foreground corners as flavor anchors, elegant and minimal. The environment should feel luxurious, joyful, and immersive, as if the beverage has transformed into a premium destination.
-
-The slides must feel structurally plausible and carefully engineered, with clean entrances, believable supports, and readable circulation. The orange beverage waterfall should feel thicker and more luminous than water, glowing with citrus energy as it pours into the lagoon. The impact zone should show dynamic but controlled splash, foam, ripples, and reflected orange light. Every motion element must feel physically coherent, legible, and product-driven.
-
-Use bright tropical daylight with a warm directional key from upper left, clean ambient sky fill, and luminous specular highlights across the bottle, condensation, slide surfaces, and water. Build a 60/30/10 palette: 60% citrus orange, mango-gold, and warm solar glow; 30% lagoon turquoise, tropical blue, and lush green; 10% warm neutral rock, white splash foam, and small label accents. Increase local contrast on bottle edges, label print, condensation, slide gloss, and waterfall highlights while avoiding muddy shadows, dead blacks, dirty haze, or oversaturated chaos.
-
-Render everything with elite advertising realism: chilled plastic texture, crisp label edges, glossy slide coating, sparkling foam, tropical mist, wet rock surfaces, sunlit citrus peel, dense foliage, and subtle atmospheric depth. Add one refined external lockup in the lower-center or lower-right:
-"RIDE THE BRIGHT."
-Supporting line:
-"Sparkling citrus, turned into escape."
-All non-label text must stay secondary and never interrupt the bottle silhouette.
-
-Premium vertical poster, exact single-bottle hero, product-first hierarchy, giant bottle-waterpark fusion, tropical canyon setting, highly readable packaging, and unified commercial finish. Maintain coherent bottle geometry, realistic slide scale, believable support structures, a physically plausible luminous liquid waterfall, disciplined human scale, elegant citrus accents, and clear negative space around the product. Avoid extra bottles, unreadable label text, warped slide loops, theme-park clutter, messy crowds, cartoon cheapness, muddy water, distorted foliage, accidental resemblance to any real beverage brand, or any loss of the bottle as the dominant visual hero.
+Advertising poster in a 1970s Japanese editorial graphic design style. Vertical split-screen composition. On the left, a profile shot of the model wearing yellow vintage headphones. On the right, a cropped vertical framing of her face and torso. Cream-white background with an aged printed paper texture and analog film grain. Large pastel blue text in the center reading "HER19845." Overlaid with a technical grid featuring organized orange dots, circular vector diagrams around the headphones, and blocks of technical typographic text in English and Japanese characters. Industrial design manual aesthetic; color palette of cream, black, pastel blue, and yellow. High definition with a vintage offset print texture.
 ```
 
 </details>
@@ -1145,7 +1157,7 @@ Premium vertical poster, exact single-bottle hero, product-first hierarchy, gian
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HUrh-4ha8AAZOgD.jpg" width="700" alt="AURELIA SUN Bottle Waterpark Ad">
+<img src="https://image.moge.ai/prompt_media/HUmftQzWoAAvQoO.jpg" width="700" alt="1970s Japanese Headphone Poster">
 </div>
 
 <br>
@@ -1154,79 +1166,35 @@ Premium vertical poster, exact single-bottle hero, product-first hierarchy, gian
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2110747875496083737) | 2026-10-15 |
+| [HER19845](https://x.com/her19845) | [X / Twitter](https://x.com/her19845/status/2111676649041170918) | 2026-10-18 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2110747875496083737)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2111676649041170918)**
 
 </div>
 
 ---
 
-### No. 20: Engraved Optical Illusion Book Cover
+### No. 20: Minimalist Mountain Landscape Series
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Creates a poetic black, white, and gray literary cover that merges two recognizable subjects through negative space, shared contours, detailed vintage engraving, and elegant serif typography.
+Creates a vertical poster series blending photorealistic snowy mountains with abstract 3D topographic wireframe sculptures and a sophisticated contemporary gallery aesthetic.
 
 #### 🌟 Prompt
 
-[Theme]: {Core concept or symbolism} [Subject A]: {First subject} [Subject B]: {Second subject} [Visual …
+Create a stunning minimalist landscape art series inspired by majestic snow-covered mountains, serene …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-[Theme]: {Core concept or symbolism}
-[Subject A]: {First subject}
-[Subject B]: {Second subject}
-[Visual Relationship]: {Interlocking, mirrored, hidden, or transforming forms}
-[Book Title]: {English title}
-[Tagline]: {Short literary sentence}
-[Author]: {Fictional author name}
-[Accent Color]: {One subtle highlight color}
-[Aspect Ratio]: 9:16
-
-Create a striking literary book cover combining sophisticated optical illusions, intricate vintage engraving, and elegant editorial typography.
-
-Composition & Optical Illusion
-
-Merge two distinct subjects into one unified composition using figureground reversal, shared contours, interlocking silhouettes, and clever negative space.
-
-Let one subject's outline reveal or define the other, creating a doubleimage illusion that rewards a second look.
-
-Use flowing curves, asymmetrical balance, and seamless visual transitions. Both subjects must remain recognizable.
-
-Engraving & Details
-
-Apply intricate scratchboard engraving, delicate crosshatching, and rich grayscale shading.
-
-Render hair, facial features, fur, feathers, architecture, or natural textures with precise directional lines.
-
-Combine richly detailed focal areas with bold silhouettes and clean negative spaces. Strong visual impact from a distance, exquisite details up close.
-
-Color & Atmosphere
-
-Use deep black, warm ivory, and layered charcoalgray tones. Add a tiny amount of the selected accent color to one meaningful detail.
-
-Maintain a mysterious, poetic atmosphere with refined matte print texture.
-
-Typography
-
-Include an elegant serif tagline at the top, a large italic serif title integrated into the artwork, the author's name in uppercase serif lettering, and a small "A NOVEL" label below.
-
-Ensure accurate spelling, elegant spacing, and clear readability.
-
-Final Requirements
-
-Prioritize visual duality, shared boundaries, intricate engraving, and sophisticated literary design.
-
-Output one complete, flat 9:16 book cover, without mockups.
+Create a stunning minimalist landscape art series inspired by majestic snow-covered mountains, serene reflections, and the peaceful beauty of nature. The first composition features towering snowy peaks beneath a soft pastel pink and lavender sky, a calm reflective lake, and dark evergreen forests, captured in cinematic photography. The second composition transforms the mountain landscape into an abstract 3D topographic wireframe sculpture, using intricate flowing contour lines, monochrome black-and-white tones, dramatic fog, and a tiny human silhouette emphasizing scale and solitude. Combine photorealism with conceptual digital art, elegant editorial typography, subtle horizontal line patterns, clean geometric layouts, atmospheric lighting, fine details, and a sophisticated contemporary art-gallery aesthetic. Vertical poster format, ultra-high resolution, breathtaking composition.
 ```
 
 </details>
@@ -1234,7 +1202,7 @@ Output one complete, flat 9:16 book cover, without mockups.
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HUyBc8ibEAAZvWx.jpg" width="700" alt="Engraved Optical Illusion Book Cover">
+<img src="https://image.moge.ai/prompt_media/HU0hkxPbIAA_P-u.jpg" width="700" alt="Minimalist Mountain Landscape Series">
 </div>
 
 <br>
@@ -1243,13 +1211,13 @@ Output one complete, flat 9:16 book cover, without mockups.
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2111205258504577171) | 2026-10-16 |
+| [Taaruk](https://x.com/Taaruk_) | [X / Twitter](https://x.com/Taaruk_/status/2111380726847557775) | 2026-10-17 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2111205258504577171)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2111380726847557775)**
 
 </div>
 
@@ -1394,23 +1362,39 @@ Portrait: gear in the lower foreground, athlete mid-frame, title in the dark upp
 
 ---
 
-### No. 23: Mystical Golden Butterfly Goddess
+### No. 23: Vintage Travel Journal Cover
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Creates a cinematic editorial illustration of a goddess and an anthropomorphic butterfly in a lavish composition blending De Stijl abstraction, Ukiyo-e staging, manga aesthetics, and golden Baroque detail.
+Creates a minimalist travel journal cover featuring an authentically rendered landmark, delicate watercolor washes, expressive ink sketches, and the nostalgic character of vintage French stationery.
 
 #### 🌟 Prompt
 
-A mystical figure in razor-flat profile, hard black De Stijl rule-lines slicing across the brow beneath a …
+Create a beautiful, minimalist vintage travel journal cover titled “[CITY, COUNTRY]”, featuring the iconic …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-A mystical figure in razor-flat profile, hard black De Stijl rule-lines slicing across the brow beneath a crown of glowing butterfly-wing petals shedding soft light-dust, oversized diamond-rimmed sunglasses in bold primary-blue perched low so only glossed orchid-magenta lips and a sharp geometric jaw catch enchanted light, fingers stacked with iced-out gold rings cradling a grid-split luminous butterfly wing; a magnificent anthropomorphic butterfly presses close, eyes molten gold hidden faintly behind tiny mirrored lenses, wings partitioned into hard-edged blocks of primary-red, sunflower-yellow, and cobalt-blue separated by thick black rule-lines, each vein glowing with faint starlight, a fat gold chain looped around its neck cutting across the grid; dozens of geometric wing-shards, glowing light-squares, and scattered gold coins erupting between them like a flexing, enchanted heartbeat; dynamic motion-blur streaks of electric-violet and blinding gold sweeping diagonal across the composition, breaking the grid mid-frame; the figure's coat dissolving into spiraling tendrils of trapped glitter and floating square-sparkle stars; bold halftone grid beneath the deep violets, a thick black-ruled gold border framing it like a spellbook relic; Ukiyo-E staging meets De Stijl abstraction meets Baroque excess; primary-red, sunflower-yellow, cobalt-blue, electric-violet, and blinding gold on stark black-and-white grid; dense atmosphere of drifting light-dust and shimmering gold sparkle; surreal, cinematic, editorial, flashy, enchanted seduction; Meaningful Visual, high-detail manga-illustration rendering on stark black-and-gold lacquer grid dripping gold.
+Create a beautiful, minimalist vintage travel journal cover titled “[CITY, COUNTRY]”, featuring the iconic landmark of [LANDMARK NAME].
+
+Illustrate the destination in a delicate, hand-painted style using loose watercolor brushstrokes and expressive ink sketches. Include the landmark surrounded by recognizable local architecture, charming streets, trees, cultural details, and subtle elements of everyday life that capture the unique character of the place.
+
+Art style: French vintage travel illustration, imperfect watercolor washes, loose botanical sketches, delicate ink lines, and an authentic handmade aesthetic.
+
+Color palette: Muted sage green, olive green, soft eucalyptus, warm ivory, pale beige, and subtle dusty pastel accents. Keep the colors natural, harmonious, and understated.
+
+Composition: Portrait-oriented travel journal cover on warm ivory paper, with the landmark as the central focal point. Leave generous negative space around the illustration, add softly scattered clouds and loosely painted foliage, and allow some brushstrokes to remain unfinished for an authentic artistic feel.
+
+Typography: Display the destination name, “[CITY / COUNTRY]”, vertically along one edge in elegant, understated lettering. Add a small vintage inscription at the bottom, such as “Carnet de Voyage”, along with a beautiful historical tagline: “Where History Lives in Every Stone.”
+
+Texture and finish: Matte paper grain, subtle vintage imperfections, delicate watercolor bleeding, fine ink details, and the appearance of a hand-painted illustration on a premium French stationery cover.
+
+Overall mood: Nostalgic, peaceful, artistic, timeless, and sophisticated—like a treasured travel diary discovered in an old Parisian bookshop.
+
+Important: Preserve the landmark’s authentic architectural features and recognizable proportions. Avoid photorealism, 3D effects, glossy digital finishes, oversaturated colors, heavy outlines, and excessive detail. The final image should look naturally hand-painted, with a clean, elegant composition and a genuine vintage travel-journal aesthetic.
 ```
 
 </details>
@@ -1418,7 +1402,7 @@ A mystical figure in razor-flat profile, hard black De Stijl rule-lines slicing 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HU2atmeaoAAsVuy.jpg" width="700" alt="Mystical Golden Butterfly Goddess">
+<img src="https://image.moge.ai/prompt_media/HVC30JeaIAAQGnL.jpg" width="700" alt="Vintage Travel Journal Cover">
 </div>
 
 <br>
@@ -1427,13 +1411,13 @@ A mystical figure in razor-flat profile, hard black De Stijl rule-lines slicing 
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Syed Abuthahir ∞](https://x.com/abulu8) | [X / Twitter](https://x.com/abulu8/status/2111513964614156747) | 2026-10-17 |
+| [simeon-sanai](https://x.com/Naiknelofar788) | [X / Twitter](https://x.com/Naiknelofar788/status/2112390343023042585) | 2026-10-20 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2111513964614156747)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2112390343023042585)**
 
 </div>
 
@@ -1507,47 +1491,39 @@ Porcelain-doll face, waxy skin, plastic appearance, excessive skin smoothing, ov
 
 ---
 
-### No. 25: KYNEX Explosive Rebound Basketball Shoe Poster
+### No. 25: NOCTARA Luxury Jewelry Campaign
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a premium sports poster featuring a giant basketball shoe pressing into a curved wooden court runway to communicate traction, stored energy, and explosive rebound.
+Creates a hyper-real, minimalist luxury jewelry campaign poster featuring gold and diamond pieces on a sculptural midnight-navy bust and hand.
 
 #### 🌟 Prompt
 
-Create a premium vertical commercial poster for a fictional overseas performance basketball shoe brand, …
+A Cannes-level luxury jewelry campaign poster for the fictional contemporary fine-jewelry brand NOCTARA, …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a premium vertical commercial poster for a fictional overseas performance basketball shoe brand, "KYNEX". Build it as a Cannes-level product-first sports ad where one oversized high-top basketball shoe dominates the upper-right, pressing onto a long stylized basketball-court strip that curves through the lower half like a flexible launch runway. The concept must combine rebound energy, traction science, and clean conceptual poster design in one instantly readable image.
+A Cannes-level luxury jewelry campaign poster for the fictional contemporary fine-jewelry brand NOCTARA, designed as a product-first editorial still life that fuses sculptural atmosphere, collector-grade material precision, and curator-level minimal restraint. The composition centers on a deep midnight-navy mannequin bust in elegant side profile, with a matching raised hand entering from the right to form one continuous sculptural gesture. The jewelry set remains the absolute focus: a refined yellow-gold mix-and-match composition across ear, neck, and hand, presented against a pale gallery-clean background with disciplined typography and strong negative space.
 
-Use a slightly elevated three-quarter studio angle on a seamless electric-cobalt background. The giant shoe enters from the upper-right, with the forefoot and outsole compressing the right end of the court strip. The strip extends diagonally toward the lower-left, tapering and flexing slightly as if the shoe’s pressure is loading spring energy into the surface. It ends in a miniature hoop assembly and painted key area. Keep open negative space on the left for a large headline, the upper-left for a minimal brand icon and wordmark, and the lower-right for a compact campaign block. The shoe must remain the largest and heaviest object.
+Use a vertical poster format, straight-on with slight editorial monumentality. The mannequin occupies the center-left and center field, facing right. Preserve the clean poster rhythm: a large headline in the upper-left, a minimal star-like emblem near the upper-right, and a refined text block in the lower-left. The bust silhouette, neck curve, profile line, and raised hand should create a single elegant visual flow. Keep the background warm white to pale stone gray, uncluttered and spacious, with only a faint grounding shadow beneath the bust. The image should feel like a museum-grade print ad.
 
-The hero shoe is a hyper-real elite indoor basketball sneaker: deep midnight navy upper, vivid molten-orange outsole and lining, sculpted performance foam midsole, dynamic lateral support geometry, and a speckled orange side-panel pattern. Emphasize outsole detail, tread geometry, toe spring, and forefoot compression so it feels responsive and engineered. The product should read as lightweight, explosive, and manufacturable. Branding on the shoe must read exactly "KYNEX" in restrained premium placement.
+The hero jewelry set is contemporary fine jewelry in polished champagne-yellow gold with restrained diamond-white accents. The visible ear wears one long drop earring with a small floral-geometric stud, a slim horizontal connector, and delicate chain tassels ending in tiny luminous drops. Around the neck sits a minimal gold chain necklace with two asymmetrical geometric pendants, intentionally non-identical yet harmonized, one brighter with a stone-led glint and one warmer sculptural gold form. The raised hand gently holds a coordinating chain bracelet or hand jewel with small medallion details and a slim dangling tassel. The overall language should feel modern, poetic, collectible, and quietly personal.
 
-The basketball-court strip acts as a runway of stored energy. It is polished maple court wood with clean white lines, a red-orange painted key area, and a small refined hoop assembly at the far left. Show a subtle upward flex beneath the shoe, enough to suggest rebound without becoming cartoonish. Keep the relationship between oversized shoe and miniaturized court crisp, intelligent, and instantly legible. The concept should feel sculptural and slightly exhibition-like.
+The mannequin bust should be smooth, elongated, and refined, with poised chin, elegant collarbone line, and a calm profile directing attention toward the lifted hand. The hand must feel sculptural and couture-like, with gently curved fingers and believable tension where the jewelry is held. The jewelry distribution from ear to neck to hand should create a refined cadence, guiding the eye without crowding. Remove anything non-essential so the jewelry reads with maximum clarity and desirability.
 
-Use strong studio lighting from upper left with clean shadows falling to lower right, plus a subtle rim light separating the shoe from the cobalt background. Build a 60/30/10 palette: 60% electric cobalt and vivid blue field, 30% navy, black, and natural maple court structure, 10% molten orange accents. Increase local contrast on outsole tread, speckled upper, foam geometry, and wood grain while avoiding muddy blues, dirty shadows, or blown highlights.
+Keep the setting radically minimal and editorial. Depth should come from silhouette separation, tonal modeling, jewelry layering, and fine shadow falloff rather than scenery. The mannequin and hand should feel fully dimensional against the quiet pale background, with the jewelry emerging as warm points of precision. No props, furniture, texture overload, or narrative clutter.
 
-Render everything with elite sports-product realism: matte engineered upper, dense rubber outsole, semi-matte sculpted foam, printed speckle overlays, polished maple grain, crisp painted lines, and clean studio shadow falloff. The final finish should combine stronger material persuasion, clearer performance storytelling, and a more curatorial design-led poster atmosphere while preserving the same giant-shoe-on-court-strip skeleton.
+Use a restrained palette of midnight navy, pale stone white, champagne gold, and diamond-white highlights. Build a soft directional key from upper-left front grazing the profile, neck, shoulder line, fingers, and jewelry edges. Add subtle frontal fill to preserve detail in the navy surface while maintaining sculptural depth. Gold reflections should remain warm, crisp, and elegant, never harsh. Tiny diamond or pearl-like highlights should punctuate the jewelry with precision. Maintain premium contrast without dead black areas or flat gray dullness.
 
-Upper-left brand lockup:
-"KYNEX"
-Left-side headline:
-"SPRING
-INTO
-FLIGHT"
-Highlight "FLIGHT" in molten orange; keep the rest warm white.
-Lower-right campaign block:
-"BUILT FOR REACTIVE LIFT"
-"Precision grip. Explosive rebound. Court-tuned balance."
-Typography must be sharp, premium, and fused with the open blue field.
+Render everything with hyper-real luxury product photography and fashion-editorial polish. The mannequin surface should feel like matte-satin ceramic or lacquered resin with velvety density, between sculpture and couture display form. The gold jewelry must show immaculate polish, believable chain scale, precise link articulation, clean stone setting, and subtle micro-reflections. The finish should be immaculate, tactile, and high-end, with every edge resolved and every highlight controlled. No plastic sheen, muddy reflections, or cheap gloss.
 
-Premium vertical poster, exact single-shoe hero, product-first hierarchy, electric-blue studio world, conceptual court-strip base, and highly readable branding. Maintain coherent shoe anatomy, realistic outsole pressure, believable court geometry, elegant negative space, and unified commercial polish. Avoid extra shoes, warped sole shape, unreadable text, cluttered props, messy motion effects, cheap cartoon distortion, muddy grading, accidental resemblance to any real footwear brand, or any loss of the shoe as the dominant hero.
+Place a refined wordmark for NOCTARA with a minimal starburst emblem in the upper composition. In the upper-left, set the headline: Distinct Notes, One Presence. In the lower-left, add: Apart in form, aligned in feeling. Beneath it: Layer with instinct. Keep what becomes yours. Typography must feel airy, elegant, and integrated, using a refined serif-led hierarchy with graceful spacing and no heavy crude fonts.
+
+Luxury jewelry poster, product-dominant, ultra-clean, editorial, hyper-real, no extra accessories, no clutter, no background scene, no gibberish text, no malformed fingers, no broken chain physics, no floating jewelry without support, no warped facial profile, no muddy navy tones, no dead black patches, no blown gold highlights, no duplicated pieces, no topology collapse, no style drift, no cheap catalog aesthetic.
 ```
 
 </details>
@@ -1555,7 +1531,7 @@ Premium vertical poster, exact single-shoe hero, product-first hierarchy, electr
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HUrfgbdaEAAQAjK.jpg" width="700" alt="KYNEX Explosive Rebound Basketball Shoe Poster">
+<img src="https://image.moge.ai/prompt_media/HU1y3BhaIAAiRSM.jpg" width="700" alt="NOCTARA Luxury Jewelry Campaign">
 </div>
 
 <br>
@@ -1564,82 +1540,43 @@ Premium vertical poster, exact single-shoe hero, product-first hierarchy, electr
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2110745149924053114) | 2026-10-15 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2111470189015707740) | 2026-10-17 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2110745149924053114)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2111470189015707740)**
 
 </div>
 
 ---
 
-### No. 26: Vintage Engraved Duality Book Cover
+### No. 26: Photography-to-Illustration Editorial Poster
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Creates a sophisticated black-and-ivory literary book cover that unites two contrasting subjects through detailed vintage engraving, negative space, and expressive serif typography.
+Creates a vertical editorial poster combining a photorealistic photograph with a hand-painted illustration of the same scene and minimalist typography.
 
 #### 🌟 Prompt
 
-[Theme]: {Core concept or symbolism} [Subject A]: {First subject} [Subject B]: {Second subject} …
+Create a premium editorial poster featuring a two-part visual composition. The upper half shows a …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-[Theme]: {Core concept or symbolism}
-[Subject A]: {First subject}
-[Subject B]: {Second subject}
-[Relationship]: {Opposition, balance, interlocking, or coexistence}
-[Book Title]: {English title}
-[Tagline]: {Short literary sentence}
-[Author]: {Fictional author name}
-[Accent Color]: {One subtle highlight color}
-[Aspect Ratio]: 9:16
+Create a premium editorial poster featuring a two-part visual composition. The upper half shows a photorealistic photograph of [SUBJECT] in [SETTING], captured in warm natural sunlight with realistic skin texture, authentic expressions, soft highlights, and cinematic depth of field. The lower half transforms the exact same scene into a beautiful hand-painted digital illustration, preserving the subject’s pose, hairstyle, clothing, colors, and key visual details.
 
-Create a striking literary book cover combining intricate vintage engraving, scratchboard illustration, and sophisticated negativespace design.
+Place the illustrated scene inside a clean rectangular frame on a warm ivory, subtly textured paper background. Use a charming contemporary illustration style with delicate brush textures, simplified organic shapes, pastel colors, soft outlines, and a nostalgic summer-magazine aesthetic. Add tasteful decorative elements that complement the scene.
 
-Composition & Duality
+Below the illustration, include a centered minimalist editorial title reading “[MAIN TITLE]” in thin, widely spaced uppercase typography, followed by a smaller subtitle reading “[TAGLINE]” in elegant letter-spaced text. Add a short, thin pastel-colored line underneath.
 
-Build the composition around two contrasting yet interconnected subjects. Use bold blackandivory silhouettes, shared contours, interlocking shapes, and figureground reversal.
+Maintain balanced spacing, refined art direction, a cohesive color palette, and a sophisticated print-design finish. Vertical 3:4 composition, high resolution, natural lighting, polished editorial layout, aesthetically pleasing, realistic-to-illustration transformation.
 
-Create dynamic tension through opposing movements, sweeping curves, and asymmetrical balance. Both subjects should feel like parts of one unified visual structure.
-
-Engraving & Details
-
-Use exceptionally detailed fineline engraving, rich crosshatching, and layered grayscale shading.
-
-Render feathers, scales, fur, branches, or other relevant textures with precise, directional strokes following each subject's anatomy.
-
-Concentrate intricate details around focal points while preserving clean negative spaces. Strong silhouettes from a distance, exquisite details up close.
-
-Color & Atmosphere
-
-Use deep black, warm ivory, and layered charcoalgray tones. Add a tiny amount of the selected accent color to one meaningful detail.
-
-Maintain a dramatic, mysterious atmosphere with refined matte print texture.
-
-Typography
-
-Design a complete literary book cover featuring:
-
- An elegant serif tagline at the top.
- A large, expressive italic serif title integrated into the artwork.
- The author's name in uppercase serif lettering.
- A small "A NOVEL" label at the bottom.
-
-Ensure accurate spelling, beautiful typography, and clear visual hierarchy.
-
-Final Requirements
-
-Create a visually powerful composition with opposing forces, intricate engravings, and elegant editorial design.
-
-Output one complete, flat 9:16 book cover, without mockups.
+Avoid clutter, excessive text, distorted anatomy, inconsistent facial features, harsh colors, heavy borders, and unnecessary graphic elements.
 ```
 
 </details>
@@ -1647,7 +1584,7 @@ Output one complete, flat 9:16 book cover, without mockups.
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HUx0i5ubAAA2QxS.jpg" width="700" alt="Vintage Engraved Duality Book Cover">
+<img src="https://image.moge.ai/prompt_media/HUz1b-baoAArqW7.jpg" width="700" alt="Photography-to-Illustration Editorial Poster">
 </div>
 
 <br>
@@ -1656,13 +1593,13 @@ Output one complete, flat 9:16 book cover, without mockups.
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2111195048939491513) | 2026-10-16 |
+| [K](https://x.com/ChillaiKalan__) | [X / Twitter](https://x.com/ChillaiKalan__/status/2111332272670417236) | 2026-10-17 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2111195048939491513)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2111332272670417236)**
 
 </div>
 
@@ -1834,31 +1771,28 @@ The final output should be a complete, refined, collectible, high-definition ver
 
 ---
 
-### No. 29: Find Three Cats at the Autumn Farm
+### No. 29: Phoenix-Plumed Oriental Fantasy Princess
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Creates a richly detailed storybook illustration of an autumn pumpkin farm where viewers must find three tiny cats hidden among characters, animals, and activities.
+Creates a cinematic 3D oriental fantasy woman with a monumental phoenix-plume hairstyle and an opulent costume in imperial pink, azurite blue, moon white, and gold.
 
 #### 🌟 Prompt
 
-A richly detailed, warm, colorful storybook illustration of an autumn pumpkin farm seen from a high …
+Vertical 9:16 composition, a high-precision stylized 3D prototype of an oriental fantasy female character, …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-A richly detailed, warm, colorful storybook illustration of an autumn pumpkin farm seen from a high three-quarter angle, packed with pumpkins, hay bales, a scarecrow, a barn, a corn maze, a hay-ride tractor, farm animals and many tiny children in costumes: a "find the hidden cats" picture in the spirit of a classic seek-and-find book, painted in a polished, slightly glossy digital storybook style with warm orange, red and golden colors, vertical 2:3.
-
-Cleaner and sharper than a typical stock illustration: coherent perspective, natural proportions, clear hands and faces, every object recognizable, rich golden-hour autumn light. Layout: the big red barn stands at the TOP-LEFT with a cider-and-pie stall in front of it; a dirt path winds from the lower right up past a hay-ride tractor with a hay trailer to a corn-maze archway at the upper right; a tall scarecrow stands in the middle-right; a great pumpkin patch fills the foreground with wooden carts, wheelbarrows, hay bales stacked like steps, sunflowers and chrysanthemums; a wooden fence runs along the lower left; a windmill and a silo far away behind the cornfield. Lots of small children in autumn costumes (ghost, skeleton, witch, dinosaur, ladybug, farmer) and farm animals (dog, cow, goat, chickens, a horse), each with its own small story, so the viewer wants to explore every corner.
-
-The big sign on the barn shows a logo: a large cream-colored cat paw print whose big pad contains a swirling ocean-wave shape, with the word "Shoji" written next to it in cream cursive brush lettering, all painted on a dark brown wooden board with a lighter wooden frame, and no other letters on that sign. This is the only place for the logo, one time. Besides the logo, only these three small signs may contain letters, spelled exactly: "PUMPKIN PATCH", "HAY RIDES" and "CORN MAZE". Every other sign, board and banner shows pictures only (pumpkins, apples, hearts), no letters, no numbers.
-
-Hidden cats (the idea of the picture): exactly THREE cats are hidden in the scene, and NO other cat anywhere: no cat among the children's costumes, no cat ears or cat masks on anybody, no cat drawn on any sign or pumpkin. The farm animals are only the dog, cow, goat, chickens and horse. The three cats are: a brown mackerel tabby (warm brown fur with dark stripes, white muzzle, green eyes), a black-and-white "hachiware" cat (black head and back with a white blaze splitting the face in two, white chest and white paws), and a calico cat (mostly white with distinct orange and black patches). They are real four-legged cats with no clothes. Each cat is TINY and far from the viewer: only about 1.2% of the image height (roughly 18 pixels tall in a 1536-pixel picture), about the size of a child's hand held at arm's length, clearly smaller than the head of any child nearby, much smaller than any pumpkin in the foreground. NO cat appears in the foreground or the lower third of the picture at all: the large foreground and the whole lower third show only pumpkins, flowers, carts, children and the dog. All three cats sit in the MIDDLE distance or far distance, each in a different place, in the open but easy to overlook: the tabby sitting among the pumpkins of a crate beside the cider stall on the left-middle (its orange fur blends with the pumpkins, but its stripes and face show), the hachiware sitting on a fence rail beside the dirt path in the upper-middle near the hay-ride tractor, the calico on a hay bale at the far right edge of the cornfield (clearly three colors). Each wears a thin red collar with a tiny gold bell. They must be findable by a careful viewer who looks closely (the reward of the game), not hidden behind objects, and not drawn bigger than a child.
-
-No black or dark round object that could be mistaken for a cat anywhere; the only black things are the crow and costumes. No watermark, no frame, no border.
+Vertical 9:16 composition, a high-precision stylized 3D prototype of an oriental fantasy female character, high-end stylized 3D oriental fantasy character design, cinematic CG rendering, combining classical Eastern divine-bird imagery with sophisticated fantasy costume design.
+An adult oriental fantasy woman aged 24–28, with delicate and radiant facial features, a softly oval face, long clear almond-shaped eyes, a high and elegant nose bridge, softly shaped lips, and fair, refined skin with a lifelike quality. Her expression is noble, cool, and splendid. She has a long neck, a slender upright figure, and elegant proportions.
+Hairstyle sculpture: her long, thick black hair is sculpted across the crown and back of the head into a monumental updo inspired by phoenix feathers. The locks spread backward and upward in layered formations like an abstract phoenix tail. The updo has clearly organized hair sections and a smooth sheen, accented with long, slender phoenix-feather hairpins finished in powdered gold, small azurite-blue enamel ornaments, and long delicate tassels hanging beside the ears.
+Costume design: she wears a sumptuous oriental fantasy gown predominantly in imperial pink, with an elongated, fitted-waist silhouette. Long and magnificent phoenix-tail-shaped adornments extend from the shoulders and back. The outer draped scarves and skirt layers alternate between azurite blue and moon white. Wide, long sleeves fall softly, while the main skirt features intricate feather-pattern embroidery and powdered-gold edging. The broad hem spreads across the ground, forming a magnificent and stable base.
+Color control: use imperial pink across the largest areas of the main skirt and phoenix-tail adornments; azurite blue for secondary skirt layers and selected parts of the headpiece; moon white for the inner skirt, sheer layers, and visual breathing spaces; and powdered gold for fine borders, hairpins, and embroidery accents. The overall palette should be vivid and bright, with clearly separated color blocks, avoiding an excessive red cast across the entire image.
+High-precision 3D modeling, realistic finely detailed hair strands, softly luminous silk, semi-transparent gauze, refined embroidery, and metallic accessories. Bright and soft studio key lighting, subtle rim light, a neutral light-gray background, and a complete front-facing full-body presentation. Avoid a doll-like or collectible-figure appearance, plastic skin, generic historical clothing, cheap xianxia aesthetics, text, and watermarks.
 ```
 
 </details>
@@ -1866,7 +1800,7 @@ No black or dark round object that could be mistaken for a cat anywhere; the onl
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HUzGHcHa8AApmAF.jpg" width="700" alt="Find Three Cats at the Autumn Farm">
+<img src="https://image.moge.ai/prompt_media/HU7UFnla8AAa046.jpg" width="700" alt="Phoenix-Plumed Oriental Fantasy Princess">
 </div>
 
 <br>
@@ -1875,13 +1809,13 @@ No black or dark round object that could be mistaken for a cat anywhere; the onl
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Shoji Kai](https://x.com/Shoji_ai) | [X / Twitter](https://x.com/Shoji_ai/status/2111280820199870487) | 2026-10-17 |
+| [李岳](https://x.com/liyue_ai) | [X / Twitter](https://x.com/liyue_ai/status/2111858511537955077) | 2026-10-18 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2111280820199870487)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2111858511537955077)**
 
 </div>
 
@@ -1954,43 +1888,45 @@ No text, no captions, no logos, no watermarks, no color, no blur on the main sub
 
 ---
 
-### No. 31: Venice Diorama Destination Pass Ad
+### No. 31: AURELIA SUN Bottle Waterpark Ad
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a premium vertical travel ad with a hyper-real miniature Venice rising from a collectible pass, blending product photography, architectural modeling, and luxury branding.
+Creates a premium tropical advertising poster where a giant citrus drink bottle becomes the central tower of a luxurious waterpark.
 
 #### 🌟 Prompt
 
-Create a premium vertical travel-poster ad for a fictional destination-pass brand, "LAGUNA PASS VENEZIA". The …
+Create a premium vertical commercial poster for a fictional citrus beverage brand, "AURELIA SUN". Build it as …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a premium vertical travel-poster ad for a fictional destination-pass brand, "LAGUNA PASS VENEZIA". The hero product is a collectible Venice travel pass ticket, shown as the absolute visual center, with a hyper-real miniature Venice rising seamlessly from its top surface as if the destination is physically contained inside the pass. The image should feel like a Cannes-level fusion of luxury travel branding, architectural model photography, and collectible design.
+Create a premium vertical commercial poster for a fictional citrus beverage brand, "AURELIA SUN". Build it as a Cannes-level product-first fantasy ad where one giant real plastic bottle becomes the architectural heart of a luxury tropical waterpark. The bottle must remain the absolute visual hero, towering at center while a radiant stream of sparkling orange drink pours from its base like a glowing waterfall into a vivid turquoise lagoon. The image should merge premium packaging realism, engineered leisure spectacle, and destination-grade escapist storytelling into one clean, high-impact key visual.
 
-Use a frontal, slightly elevated studio-editorial product shot on a clean sky-to-cream gradient background. The pass stands vertically and occupies most of the lower two-thirds, with elegant side notches, a refined perforated lower edge, crisp bevels, and subtle paper embossing. From its upper surface, build a sculptural Venice diorama with a flowing central canal, crystalline turquoise water, a graceful stone bridge, narrow quays, pastel palazzi, a domed basilica silhouette, a tall bell tower, striped mooring poles, tiny gondolas, and one refined water taxi. The city should feel coherent, romantic, and unmistakably Venetian, but never crowded. The pass must remain the heaviest visual object; the city grows from it rather than sitting loosely on top.
+Use a frontal, slightly low-angle cinematic composition with strong central symmetry. Place the oversized bottle on the central axis, dominating the upper-middle frame. Wrap multiple elegant spiral waterslides around the bottle body, rising and looping with believable engineering, clean supports, and graceful rhythm. The orange liquid waterfall aligns with the bottle center and becomes the main vertical motion line, crashing into the lagoon below. Use tropical foliage, lagoon curves, floating tubes, and rock edges to frame the lower third, with distant cliffs and side waterfalls adding balanced depth. Preserve generous open sky around the bottle for premium breathing room and brand clarity.
 
-The pass design must read exactly:
-"LAGUNA PASS VENEZIA"
-Main destination name:
-"VENICE"
-Tagline:
-"Canals, light, and timeless passage."
-Lower icon captions:
-"GRAND CANAL VIEWS"
-"HISTORIC PALAZZI"
-"GONDOLA MOMENTS"
-Add one discreet serial line and a minimal barcode or pass-code element near the lower edge. Typography should feel international, modern, elegant, and highly legible.
+The bottle must feel hyper-real, collectible, and fully manufacturable: chilled clear plastic, smooth molded curvature, realistic cap threading, a premium orange cap, dense luminous orange drink, subtle suspended pulp, and abundant varied condensation beads. The front label must read exactly:
+"AURELIA SUN"
+Secondary line:
+"Sparkling Orange Drink"
+Include one small premium solar emblem. The label should feel globally branded, shelf-dominant, highly readable, and cleanly integrated into the bottle form.
 
-Push the miniature world toward a curated, collectible, museum-grade finish: crisp waterfront geometry, warm window reflections, polished gondola lacquer, soft weathering on plaster walls, subtle dock wood grain, clean canal reflections, and restrained tiny visitors along the promenade. The scene should balance romance, architectural order, and destination desire. No souvenir clutter, excessive props, or postcard cliches.
+Set the scene in a lush tropical canyon resort with tall waterfalls, layered cliffs, palm trees, warm sunlight, clear blue sky, and a crystalline lagoon. The bottle acts as the central attraction tower of the park. Small visitors ride inflatable tubes and move through the slide system below, but remain tiny, sparse, and clearly secondary. Add restrained oranges and citrus leaves in the lower foreground corners as flavor anchors, elegant and minimal. The environment should feel luxurious, joyful, and immersive, as if the beverage has transformed into a premium destination.
 
-Use bright premium daylight with a soft warm key from upper left and gentle cool sky fill. Palette: 45% ivory-white and warm paper neutrals, 25% lagoon turquoise and canal blue-green, 20% pale stone, Venetian plaster, and muted terracotta, 10% warm gold reflections, dark mooring accents, and subtle foliage. Increase local contrast on pass embossing, water reflections, bridge edges, and bell-tower rim light while avoiding muddy shadows, dirty neutrals, oversaturated blues, or harsh black blocks.
+The slides must feel structurally plausible and carefully engineered, with clean entrances, believable supports, and readable circulation. The orange beverage waterfall should feel thicker and more luminous than water, glowing with citrus energy as it pours into the lagoon. The impact zone should show dynamic but controlled splash, foam, ripples, and reflected orange light. Every motion element must feel physically coherent, legible, and product-driven.
 
-Render everything with elite realism: matte paper texture, embossed print, crisp die-cut edges, crystalline canal water, sunlit stone bridges, faded plaster facades, miniature architectural detailing, and soft atmospheric haze. Keep the composition clean, product-first, and highly desirable. Avoid extra tickets, unreadable text, warped perspective, cluttered skyline, muddy water, random props, cheap souvenir styling, or any loss of the pass as the dominant visual hero.
+Use bright tropical daylight with a warm directional key from upper left, clean ambient sky fill, and luminous specular highlights across the bottle, condensation, slide surfaces, and water. Build a 60/30/10 palette: 60% citrus orange, mango-gold, and warm solar glow; 30% lagoon turquoise, tropical blue, and lush green; 10% warm neutral rock, white splash foam, and small label accents. Increase local contrast on bottle edges, label print, condensation, slide gloss, and waterfall highlights while avoiding muddy shadows, dead blacks, dirty haze, or oversaturated chaos.
+
+Render everything with elite advertising realism: chilled plastic texture, crisp label edges, glossy slide coating, sparkling foam, tropical mist, wet rock surfaces, sunlit citrus peel, dense foliage, and subtle atmospheric depth. Add one refined external lockup in the lower-center or lower-right:
+"RIDE THE BRIGHT."
+Supporting line:
+"Sparkling citrus, turned into escape."
+All non-label text must stay secondary and never interrupt the bottle silhouette.
+
+Premium vertical poster, exact single-bottle hero, product-first hierarchy, giant bottle-waterpark fusion, tropical canyon setting, highly readable packaging, and unified commercial finish. Maintain coherent bottle geometry, realistic slide scale, believable support structures, a physically plausible luminous liquid waterfall, disciplined human scale, elegant citrus accents, and clear negative space around the product. Avoid extra bottles, unreadable label text, warped slide loops, theme-park clutter, messy crowds, cartoon cheapness, muddy water, distorted foliage, accidental resemblance to any real beverage brand, or any loss of the bottle as the dominant visual hero.
 ```
 
 </details>
@@ -1998,7 +1934,7 @@ Render everything with elite realism: matte paper texture, embossed print, crisp
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HUrS4OkboAAaTgL.jpg" width="700" alt="Venice Diorama Destination Pass Ad">
+<img src="https://image.moge.ai/prompt_media/HUrh-4ha8AAZOgD.jpg" width="700" alt="AURELIA SUN Bottle Waterpark Ad">
 </div>
 
 <br>
@@ -2007,36 +1943,87 @@ Render everything with elite realism: matte paper texture, embossed print, crisp
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2110731276504494086) | 2026-10-15 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2110747875496083737) | 2026-10-15 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2110731276504494086)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2110747875496083737)**
 
 </div>
 
 ---
 
-### No. 32: Celestial Ocean Reverie
+### No. 32: Engraved Optical Illusion Book Cover
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Creates a dreamlike seascape where the ocean meets the stars, filled with floating constellations, ethereal waves, and shimmering colors.
+Creates a poetic black, white, and gray literary cover that merges two recognizable subjects through negative space, shared contours, detailed vintage engraving, and elegant serif typography.
 
 #### 🌟 Prompt
 
+[Theme]: {Core concept or symbolism} [Subject A]: {First subject} [Subject B]: {Second subject} [Visual …
+
+<details>
+<summary>Show full prompt</summary>
+
 ```
-A Celestial Ocean Reverie of [SUBJECT], where the sea meets the stars in a dream-like blend of reality and fantasy. Use shimmering [COLOR1] and [COLOR2] to create a mystical seascape filled with floating constellations and ethereal waves.
+[Theme]: {Core concept or symbolism}
+[Subject A]: {First subject}
+[Subject B]: {Second subject}
+[Visual Relationship]: {Interlocking, mirrored, hidden, or transforming forms}
+[Book Title]: {English title}
+[Tagline]: {Short literary sentence}
+[Author]: {Fictional author name}
+[Accent Color]: {One subtle highlight color}
+[Aspect Ratio]: 9:16
+
+Create a striking literary book cover combining sophisticated optical illusions, intricate vintage engraving, and elegant editorial typography.
+
+Composition & Optical Illusion
+
+Merge two distinct subjects into one unified composition using figureground reversal, shared contours, interlocking silhouettes, and clever negative space.
+
+Let one subject's outline reveal or define the other, creating a doubleimage illusion that rewards a second look.
+
+Use flowing curves, asymmetrical balance, and seamless visual transitions. Both subjects must remain recognizable.
+
+Engraving & Details
+
+Apply intricate scratchboard engraving, delicate crosshatching, and rich grayscale shading.
+
+Render hair, facial features, fur, feathers, architecture, or natural textures with precise directional lines.
+
+Combine richly detailed focal areas with bold silhouettes and clean negative spaces. Strong visual impact from a distance, exquisite details up close.
+
+Color & Atmosphere
+
+Use deep black, warm ivory, and layered charcoalgray tones. Add a tiny amount of the selected accent color to one meaningful detail.
+
+Maintain a mysterious, poetic atmosphere with refined matte print texture.
+
+Typography
+
+Include an elegant serif tagline at the top, a large italic serif title integrated into the artwork, the author's name in uppercase serif lettering, and a small "A NOVEL" label below.
+
+Ensure accurate spelling, elegant spacing, and clear readability.
+
+Final Requirements
+
+Prioritize visual duality, shared boundaries, intricate engraving, and sophisticated literary design.
+
+Output one complete, flat 9:16 book cover, without mockups.
 ```
+
+</details>
 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HUvSBFrXQAAannO.jpg" width="700" alt="Celestial Ocean Reverie">
+<img src="https://image.moge.ai/prompt_media/HUyBc8ibEAAZvWx.jpg" width="700" alt="Engraved Optical Illusion Book Cover">
 </div>
 
 <br>
@@ -2045,13 +2032,13 @@ A Celestial Ocean Reverie of [SUBJECT], where the sea meets the stars in a dream
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [LudovicCreator](https://x.com/LudovicCreator) | [X / Twitter](https://x.com/LudovicCreator/status/2111011780348506448) | 2026-10-16 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2111205258504577171) | 2026-10-16 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2111011780348506448)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2111205258504577171)**
 
 </div>
 
@@ -2203,54 +2190,23 @@ Premium vertical editorial poster, perforated border frame, oversized masthead, 
 
 ---
 
-### No. 35: Whimsical Food Illustration Magazine Cover
+### No. 35: Y2K Designer Toy Portrait
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Creates a whimsical Japanese editorial cover that transforms realistically photographed food into an unexpected part of a hand-drawn illustration.
+Creates a detailed 3D half-body portrait of a trendy character as a premium chibi collectible figure with Y2K streetwear styling.
 
 #### 🌟 Prompt
 
-[Customize] Food: [Real food or ingredient] Subject: [Handdrawn person, animal, or object] Creative …
+High-detail 3D render of a trendy [character], half-body portrait, designer toy blind box style, professional …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-[Customize]
-Food: [Real food or ingredient]
-Subject: [Handdrawn person, animal, or object]
-Creative Interaction: [How the food transforms into part of the illustration]
-Magazine Title: [Original Japanese magazine name]
-Headline: [Short Japanese headline]
-Caption: [Short supporting text]
-Color Palette: [Muted background + accent colors]
-Aspect Ratio: 9:16
-
-Create a whimsical Japanese editorial magazine cover combining naive handdrawn illustrations, delicate embroidery, natural linen textures, and realistic food photography.
-
-Visual Concept:
-The real food becomes an unexpected but natural part of the illustrated world—a dress, horn, umbrella, light, or another imaginative object.
-
-Preserve authentic photographic details in the food while keeping the surrounding illustration simple, imperfect, and expressive.
-
-Illustration Style:
-Loose black ink outlines, irregular handdrawn strokes, subtle pencil marks, occasional stitched details, and playful asymmetrical proportions. Characters should feel charming, quirky, and full of personality.
-
-Composition & Typography:
-Use an oversized illustrated subject, one striking food element, generous negative space, and a flexible Japanese editorial layout.
-
-Place a bold magazine title at the top, with a short headline and minimal supporting text naturally integrated into the illustration.
-
-Texture & Color:
-Warm linen paper, subtle fabric fibers, muted earthy colors, soft matte printing, and natural food textures. Let the food provide the strongest color accent.
-
-Art Direction:
-Playful yet sophisticated, nostalgic, handcrafted, and visually surprising. Every element should feel intentionally connected.
-
-Create one complete, original 9:16 magazine cover.
+High-detail 3D render of a trendy [character], half-body portrait, designer toy blind box style, professional 3D aesthetic, exaggerated chibi proportions, oversized head, [facial features], [hairstyle], [expression], realistic skin texture, [piercings and accessories], wearing [streetwear outfit], [jewelry], cute decorative patches, Y2K fashion aesthetic, soft studio lighting, clean white background, premium collectible toy design, 8K
 ```
 
 </details>
@@ -2258,7 +2214,7 @@ Create one complete, original 9:16 magazine cover.
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HUqpLwNacAAV02f.jpg" width="700" alt="Whimsical Food Illustration Magazine Cover">
+<img src="https://image.moge.ai/prompt_media/HU6HieQbwAAaV1i.jpg" width="700" alt="Y2K Designer Toy Portrait">
 </div>
 
 <br>
@@ -2267,13 +2223,13 @@ Create one complete, original 9:16 magazine cover.
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2110685525384552502) | 2026-10-15 |
+| [Amira Zairi](https://x.com/azed_ai) | [X / Twitter](https://x.com/azed_ai/status/2111774317289889900) | 2026-10-18 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2110685525384552502)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2111774317289889900)**
 
 </div>
 
@@ -2341,33 +2297,47 @@ Luxury fashion editorial aesthetic, dramatic yet believable, rich depth, artisti
 
 ---
 
-### No. 37: Monochrome Editorial Campaign Poster
+### No. 37: KYNEX Explosive Rebound Basketball Shoe Poster
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a premium editorial campaign poster with a near-black subject, expansive white negative space, one physical orange accent, and soft optical afterimages.
+Creates a premium sports poster featuring a giant basketball shoe pressing into a curved wooden court runway to communicate traction, stored energy, and explosive rebound.
 
 #### 🌟 Prompt
 
-Premium editorial campaign poster, [9:16 or 16:9]. Real photograph of [SUBJECT], a near-black form against …
+Create a premium vertical commercial poster for a fictional overseas performance basketball shoe brand, …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Premium editorial campaign poster, [9:16 or 16:9]. Real photograph of [SUBJECT], a near-black form against cool off-white negative space, deep shadows that still show the material.
+Create a premium vertical commercial poster for a fictional overseas performance basketball shoe brand, "KYNEX". Build it as a Cannes-level product-first sports ad where one oversized high-top basketball shoe dominates the upper-right, pressing onto a long stylized basketball-court strip that curves through the lower half like a flexible launch runway. The concept must combine rebound energy, traction science, and clean conceptual poster design in one instantly readable image.
 
-One saturated ember-orange element only, and it must be physical: [ORANGE DETAIL — a translucent membrane, edge, seam or lit opening]. Everything else stays near-monochrome.
+Use a slightly elevated three-quarter studio angle on a seamless electric-cobalt background. The giant shoe enters from the upper-right, with the forefoot and outsole compressing the right end of the court strip. The strip extends diagonally toward the lower-left, tapering and flexing slightly as if the shoe’s pressure is loading spring energy into the surface. It ends in a miniature hoop assembly and painted key area. Keep open negative space on the left for a large headline, the upper-left for a minimal brand icon and wordmark, and the lower-right for a compact campaign block. The shoe must remain the largest and heaviest object.
 
-Stretch one part of the subject into broad, soft horizontal optical afterimages: [WHAT TRAILS AND WHERE]. The focal edge stays crisp. No generic speed lines.
+The hero shoe is a hyper-real elite indoor basketball sneaker: deep midnight navy upper, vivid molten-orange outsole and lining, sculpted performance foam midsole, dynamic lateral support geometry, and a speckled orange side-panel pattern. Emphasize outsole detail, tread geometry, toe spring, and forefoot compression so it feels responsive and engineered. The product should read as lightweight, explosive, and manufacturable. Branding on the shoe must read exactly "KYNEX" in restrained premium placement.
 
-Compose for the ratio: let the silhouette cut a large white negative-space shape, crop boldly, keep it sparse.
+The basketball-court strip acts as a runway of stored energy. It is polished maple court wood with clean white lines, a red-orange painted key area, and a small refined hoop assembly at the far left. Show a subtle upward flex beneath the shoe, enough to suggest rebound without becoming cartoonish. Keep the relationship between oversized shoe and miniaturized court crisp, intelligent, and instantly legible. The concept should feel sculptural and slightly exhibition-like.
 
-Exactly two text elements: headline "[HEADLINE.]" and a small line "[SUPPORTING LINE]". Compact, extended geometric sans, all caps, quiet in size, never distorted; white on shadow or dark on white.
+Use strong studio lighting from upper left with clean shadows falling to lower right, plus a subtle rim light separating the shoe from the cobalt background. Build a 60/30/10 palette: 60% electric cobalt and vivid blue field, 30% navy, black, and natural maple court structure, 10% molten orange accents. Increase local contrast on outsole tread, speckled upper, foam geometry, and wood grain while avoiding muddy blues, dirty shadows, or blown highlights.
 
-Bright diffuse backlight, slight underexposure, very fine grain. Palette: cool white, near-black, charcoal, ember orange. No logos, HUD, neon grids, particles, gradients, extra text or frames.
+Render everything with elite sports-product realism: matte engineered upper, dense rubber outsole, semi-matte sculpted foam, printed speckle overlays, polished maple grain, crisp painted lines, and clean studio shadow falloff. The final finish should combine stronger material persuasion, clearer performance storytelling, and a more curatorial design-led poster atmosphere while preserving the same giant-shoe-on-court-strip skeleton.
+
+Upper-left brand lockup:
+"KYNEX"
+Left-side headline:
+"SPRING
+INTO
+FLIGHT"
+Highlight "FLIGHT" in molten orange; keep the rest warm white.
+Lower-right campaign block:
+"BUILT FOR REACTIVE LIFT"
+"Precision grip. Explosive rebound. Court-tuned balance."
+Typography must be sharp, premium, and fused with the open blue field.
+
+Premium vertical poster, exact single-shoe hero, product-first hierarchy, electric-blue studio world, conceptual court-strip base, and highly readable branding. Maintain coherent shoe anatomy, realistic outsole pressure, believable court geometry, elegant negative space, and unified commercial polish. Avoid extra shoes, warped sole shape, unreadable text, cluttered props, messy motion effects, cheap cartoon distortion, muddy grading, accidental resemblance to any real footwear brand, or any loss of the shoe as the dominant hero.
 ```
 
 </details>
@@ -2375,7 +2345,7 @@ Bright diffuse backlight, slight underexposure, very fine grain. Palette: cool w
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HUp3ilhWgAAaOh5.jpg" width="700" alt="Monochrome Editorial Campaign Poster">
+<img src="https://image.moge.ai/prompt_media/HUrfgbdaEAAQAjK.jpg" width="700" alt="KYNEX Explosive Rebound Basketball Shoe Poster">
 </div>
 
 <br>
@@ -2384,78 +2354,82 @@ Bright diffuse backlight, slight underexposure, very fine grain. Palette: cool w
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Vigo Zhao](https://x.com/VigoCreativeAI) | [X / Twitter](https://x.com/VigoCreativeAI/status/2110630855844532436) | 2026-10-15 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2110745149924053114) | 2026-10-15 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2110630855844532436)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2110745149924053114)**
 
 </div>
 
 ---
 
-### No. 38: Japanese Food Transformation Cover
+### No. 38: Vintage Engraved Duality Book Cover
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Creates a handcrafted Japanese editorial cover that transforms photographed food into a functional element of a playful hand-drawn illustration.
+Creates a sophisticated black-and-ivory literary book cover that unites two contrasting subjects through detailed vintage engraving, negative space, and expressive serif typography.
 
 #### 🌟 Prompt
 
-[Customize] Food: [Real fruit, vegetable, or ingredient] Subject: [Handdrawn character, animal, or object] …
+[Theme]: {Core concept or symbolism} [Subject A]: {First subject} [Subject B]: {Second subject} …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-[Customize]
-Food: [Real fruit, vegetable, or ingredient]
-Subject: [Handdrawn character, animal, or object]
-Creative Interaction: [How the food transforms into part of the illustration]
-Magazine Title: [Original Japanese magazine name]
-Headline: [Short Japanese feature title]
-Caption: [Short supporting Japanese text]
-Color Palette: [Soft background + contrasting food colors]
-Aspect Ratio: 9:16
+[Theme]: {Core concept or symbolism}
+[Subject A]: {First subject}
+[Subject B]: {Second subject}
+[Relationship]: {Opposition, balance, interlocking, or coexistence}
+[Book Title]: {English title}
+[Tagline]: {Short literary sentence}
+[Author]: {Fictional author name}
+[Accent Color]: {One subtle highlight color}
+[Aspect Ratio]: 9:16
 
-Create an original Japanesestyle editorial magazine cover blending realistic food photography, whimsical handdrawn illustrations, subtle embroidery, and natural linen textures.
+Create a striking literary book cover combining intricate vintage engraving, scratchboard illustration, and sophisticated negativespace design.
 
-Visual Concept:
-Transform [Food] into an imaginative part of [Subject] through [Creative Interaction].
+Composition & Duality
 
-The food should become a functional element of the illustrated world—a rooftop, hairstyle, slide, musical instrument, or another unexpected object.
+Build the composition around two contrasting yet interconnected subjects. Use bold blackandivory silhouettes, shared contours, interlocking shapes, and figureground reversal.
 
-Preserve authentic photographic food textures, natural colors, and realistic lighting. Ensure seamless visual integration with the illustration, not a pastedon collage.
+Create dynamic tension through opposing movements, sweeping curves, and asymmetrical balance. Both subjects should feel like parts of one unified visual structure.
 
-Illustration Style:
-Naive black ink drawings, loose irregular strokes, playful asymmetrical proportions, delicate pencil marks, and occasional handmade stitching.
+Engraving & Details
 
-Characters should feel quirky, expressive, and full of life. Keep the linework imperfect, organic, and charming.
+Use exceptionally detailed fineline engraving, rich crosshatching, and layered grayscale shading.
 
-Composition & Typography:
-Use one strong visual concept, an oversized subject, generous negative space, and a playful asymmetrical editorial layout.
+Render feathers, scales, fur, branches, or other relevant textures with precise, directional strokes following each subject's anatomy.
 
-Integrate Japanese typography naturally into the composition. Vary the scale and placement of the magazine title and main headline, allowing handwritten lines, shapes, and text to interact.
+Concentrate intricate details around focal points while preserving clean negative spaces. Strong silhouettes from a distance, exquisite details up close.
 
-Keep supporting text minimal, meaningful, and readable.
+Color & Atmosphere
 
-Colors & Textures:
-Soft linen paper, subtle fabric fibers, matte printing, muted earthy backgrounds, and natural lighting.
+Use deep black, warm ivory, and layered charcoalgray tones. Add a tiny amount of the selected accent color to one meaningful detail.
 
-Let the realistic food provide the strongest color accent and visual contrast.
+Maintain a dramatic, mysterious atmosphere with refined matte print texture.
 
-Art Direction:
-Whimsical, handcrafted, slightly eccentric, nostalgic, yet sophisticated.
+Typography
 
-Prioritize visual surprise, expressive linework, clear silhouettes, and creative interaction between photography, illustration, and typography.
+Design a complete literary book cover featuring:
 
-Avoid glossy CGI, vector cartoons, excessive embroidery, cluttered layouts, dense text, generic decorations, copied branding, artist signatures, and watermarks.
+ An elegant serif tagline at the top.
+ A large, expressive italic serif title integrated into the artwork.
+ The author's name in uppercase serif lettering.
+ A small "A NOVEL" label at the bottom.
 
-Generate one complete, original 9:16 magazine cover.
+Ensure accurate spelling, beautiful typography, and clear visual hierarchy.
+
+Final Requirements
+
+Create a visually powerful composition with opposing forces, intricate engravings, and elegant editorial design.
+
+Output one complete, flat 9:16 book cover, without mockups.
 ```
 
 </details>
@@ -2463,7 +2437,7 @@ Generate one complete, original 9:16 magazine cover.
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HUr1na3a0AIwkFz.jpg" width="700" alt="Japanese Food Transformation Cover">
+<img src="https://image.moge.ai/prompt_media/HUx0i5ubAAA2QxS.jpg" width="700" alt="Vintage Engraved Duality Book Cover">
 </div>
 
 <br>
@@ -2472,13 +2446,13 @@ Generate one complete, original 9:16 magazine cover.
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2110769478590169357) | 2026-10-15 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2111195048939491513) | 2026-10-16 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2110769478590169357)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2111195048939491513)**
 
 </div>
 
@@ -2611,33 +2585,36 @@ Avoid realistic landscape photography, rocky textures, chaotic patterns, broken 
 
 ---
 
-### No. 41: Streets of the World Architectural Sketch
+### No. 41: Nighttime Reading Tower with Four Hidden Cats
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Creates a detailed monochrome architectural illustration of an authentic city street with a famous landmark naturally integrated into its real urban surroundings.
+Creates an illustrated seek-and-find poster of a gigantic nighttime reading tower filled with miniature stories, with four cats and a Shoji plaque hidden among its terraces.
 
 #### 🌟 Prompt
 
-Create a highly detailed black-and-white architectural sketch of a beautiful street in [CITY, COUNTRY], …
+A flat, graphic, gouache-like poster illustration of a giant stepped tower, a ziggurat of open reading …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a highly detailed black-and-white architectural sketch of a beautiful street in [CITY, COUNTRY], featuring [FAMOUS LANDMARK] as the main subject. Capture the authentic character of the city through its traditional architecture, distinctive rooftops, intricate windows, textured walls, cobblestone streets, and charming surrounding buildings.
+A flat, graphic, gouache-like poster illustration of a giant stepped tower, a ziggurat of open reading terraces, seen straight on at night: a "find the hidden cats" picture in the spirit of a classic seek-and-find book, vertical 2:3. Limited palette of deep ultramarine blue, warm yellow, red and white with touches of green, with hundreds of tiny people in plain everyday clothes reading, writing, carrying books, climbing stairs and chatting.
 
-Use a hand-drawn ink illustration style with fine black pen lines, realistic architectural details, cross-hatching, sketchy textures, and delicate shading. Include subtle street elements such as a parked vintage car, bare trees, street lamps, and small details that bring the scene to life.
+Clean and sharp: coherent perspective, perfectly straight railings and floor lines, natural proportions, clear tiny hands and faces, every object recognizable. An enormous white concrete tower of about 16 terraces with thin railings narrows toward the top and fills the lower two thirds of the picture, its summit slightly right of center, rising into a deep ultramarine night sky with a big flat pale-yellow full moon at the upper left and a few tiny stars. Each terrace is a row of small open rooms whose back walls are painted in flat color panels (blue, yellow, red, green, white): libraries with bookshelves, reading tables, a cafe corner, a map room, a music room with a piano, a classroom with a green board, a plant nursery, a laundry line, a small observatory dome on the top. The top terrace has a little garden with round trees and a telescope. Warm lamplight glows from the rooms. The widest terraces are cut off by the bottom edge. Staircases run along the right side. Every small story is different, so the viewer wants to explore every terrace.
 
-The composition should resemble a page from an artist’s travel sketchbook, with the landmark naturally integrated into its real urban surroundings. Use varied line weights, imperfect hand-drawn strokes, and intricate textures to create depth and dimension.
+A logo appears exactly ONCE, small and unobtrusive: a modest dark brown wooden plaque hanging on two thin cords above the door of one reading room on the left-middle of the tower, showing a cream-colored cat paw print whose big pad contains a swirling ocean-wave shape, with the word "Shoji" in cream cursive brush lettering to its right (about 2.3 times wider than tall, about 6% of the picture width). Apart from that logo there are NO letters, NO words and NO numbers anywhere: books, signs, boards and clocks show only pictures, stripes and dots.
 
-Style: Monochrome architectural line art, fine-liner pen sketch, urban sketching, realistic perspective, intricate ink detailing, travel journal aesthetic, white paper background, high contrast, no colors, no watercolor, no digital painting.
+Hidden cats (the idea of the picture): exactly FOUR cats are hidden in the scene, and NO other cat or animal anywhere: no cat ears, cat masks or cat heads on any person, no cat drawn on any sign, book or poster. The four cats are tiny and far from the viewer, each on a different terrace, in the open but easy to overlook:
+(1) a brown mackerel tabby (warm brown fur with dark stripes, white muzzle, green eyes) sitting on a red cushion in a reading room on the left-middle;
+(2) a black-and-white "hachiware" cat (black head and back with a white blaze splitting the face in two, white chest and white paws) sitting on the top rail of a terrace railing at the right-middle (not on the stairs), on four legs like a real cat, never standing upright;
+(3) a calico cat (mostly white with distinct orange and black patches) lying on top of a bookshelf in a yellow room in the upper middle;
+(4) Shoji Cat: an upright standing orange tabby cat about three heads tall with a round cheeky face, wearing black wayfarer sunglasses whose lenses are blue on one side and red on the other, an open black leather biker jacket with a silver chain necklace, rolled-up denim shorts and cream sneakers, pointing with one hand; he stands at the railing of the top terrace on the right, below the moon side of the sky.
+The tabby, hachiware and calico are real four-legged cats with a thin red collar and a tiny gold bell, no clothes; Shoji Cat has no collar. Each cat is TINY: only about 1.3% of the image height (roughly 20 pixels tall in a 1536-pixel picture), clearly smaller than a person's head nearby. NO cat appears in the lower third of the picture at all: the lower third shows only people, shelves, plants and furniture.
 
-Important: Keep the landmark architecturally accurate and instantly recognizable. Avoid generic AI-generated buildings. Focus on the city’s real architectural identity and authentic street atmosphere.
-
-Aspect ratio: 4:5 — portrait composition.
+No black or dark round object, no dark animal-like shape anywhere that could be mistaken for a cat; no animals other than the four cats. No watermark, no frame, no border.
 ```
 
 </details>
@@ -2645,7 +2622,7 @@ Aspect ratio: 4:5 — portrait composition.
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HUpVyNCaMAEFLJO.jpg" width="700" alt="Streets of the World Architectural Sketch">
+<img src="https://image.moge.ai/prompt_media/HU4IMDWakAA7RPX.jpg" width="700" alt="Nighttime Reading Tower with Four Hidden Cats">
 </div>
 
 <br>
@@ -2654,13 +2631,13 @@ Aspect ratio: 4:5 — portrait composition.
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [simeon-sanai](https://x.com/Naiknelofar788) | [X / Twitter](https://x.com/Naiknelofar788/status/2110593708953686148) | 2026-10-15 |
+| [Shoji Kai](https://x.com/Shoji_ai) | [X / Twitter](https://x.com/Shoji_ai/status/2111653504666202571) | 2026-10-18 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2110593708953686148)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2111653504666202571)**
 
 </div>
 
@@ -2711,68 +2688,43 @@ A full-body studio portrait of a confident woman with dark hair tied back in a s
 
 ---
 
-### No. 43: Charming Japanese Bakery Poster
+### No. 43: Venice Diorama Destination Pass Ad
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a vertical Japanese-style bakery advertisement combining realistic food photography, hand-drawn characters, and retro editorial typography.
+Creates a premium vertical travel ad with a hyper-real miniature Venice rising from a collectible pass, blending product photography, architectural modeling, and luxury branding.
 
 #### 🌟 Prompt
 
-Create a charming Japanese-style bakery poster combining photorealistic food photography, playful hand-drawn …
+Create a premium vertical travel-poster ad for a fictional destination-pass brand, "LAGUNA PASS VENEZIA". The …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a charming Japanese-style bakery poster combining photorealistic food photography, playful hand-drawn illustrations, and nostalgic editorial typography.
+Create a premium vertical travel-poster ad for a fictional destination-pass brand, "LAGUNA PASS VENEZIA". The hero product is a collectible Venice travel pass ticket, shown as the absolute visual center, with a hyper-real miniature Venice rising seamlessly from its top surface as if the destination is physically contained inside the pass. The image should feel like a Cannes-level fusion of luxury travel branding, architectural model photography, and collectible design.
 
-CUSTOMIZE
-- Brand: [Brand Name]
-- Food: [Main Food / Products]
-- Concept: [Miniature World / Floating Food / Flavor Guide / Cozy Scene]
-- Headline: [Japanese or English Title]
-- Tagline: [Short Catchy Phrase]
-- Details: [Flavors / Product Info / Event Details]
-- Color Palette: [Preferred Colors]
-- Year: [2026 or Custom]
-- Aspect Ratio: 9:16
+Use a frontal, slightly elevated studio-editorial product shot on a clean sky-to-cream gradient background. The pass stands vertically and occupies most of the lower two-thirds, with elegant side notches, a refined perforated lower edge, crisp bevels, and subtle paper embossing. From its upper surface, build a sculptural Venice diorama with a flowing central canal, crystalline turquoise water, a graceful stone bridge, narrow quays, pastel palazzi, a domed basilica silhouette, a tall bell tower, striped mooring poles, tiny gondolas, and one refined water taxi. The city should feel coherent, romantic, and unmistakably Venetian, but never crowded. The pass must remain the heaviest visual object; the city grows from it rather than sitting loosely on top.
 
-VISUAL STYLE
+The pass design must read exactly:
+"LAGUNA PASS VENEZIA"
+Main destination name:
+"VENICE"
+Tagline:
+"Canals, light, and timeless passage."
+Lower icon captions:
+"GRAND CANAL VIEWS"
+"HISTORIC PALAZZI"
+"GONDOLA MOMENTS"
+Add one discreet serial line and a minimal barcode or pass-code element near the lower edge. Typography should feel international, modern, elegant, and highly legible.
 
-Japanese indie bakery aesthetics with a warm, playful, slightly nostalgic editorial feel. Combine realistic food photography with delicate, imperfect pen-and-ink illustrations.
+Push the miniature world toward a curated, collectible, museum-grade finish: crisp waterfront geometry, warm window reflections, polished gondola lacquer, soft weathering on plaster walls, subtle dock wood grain, clean canal reflections, and restrained tiny visitors along the promenade. The scene should balance romance, architectural order, and destination desire. No souvenir clutter, excessive props, or postcard cliches.
 
-Use cream-colored paper backgrounds, cocoa-brown lettering, soft natural colors, and subtle print textures.
+Use bright premium daylight with a soft warm key from upper left and gentle cool sky fill. Palette: 45% ivory-white and warm paper neutrals, 25% lagoon turquoise and canal blue-green, 20% pale stone, Venetian plaster, and muted terracotta, 10% warm gold reflections, dark mooring accents, and subtle foliage. Increase local contrast on pass embossing, water reflections, bridge edges, and bell-tower rim light while avoiding muddy shadows, dirty neutrals, oversaturated blues, or harsh black blocks.
 
-FOOD & STORYTELLING
-
-Make the food the visual centerpiece, with appetizing textures, golden crusts, natural imperfections, soft daylight, and realistic shadows.
-
-Add a few tiny 2D hand-drawn characters interacting with the food—walking across pastries, exploring oversized treats, or enjoying a cozy café moment.
-
-Create a charming miniature story through simple, meaningful interactions.
-
-COMPOSITION & TYPOGRAPHY
-
-Choose a distinctive layout based on the concept: oversized food, floating arrangements, asymmetrical product displays, or cozy still-life scenes.
-
-Maintain a strong focal point, balanced visual hierarchy, and approximately 35–40% clean negative space.
-
-Use expressive Japanese-style handwritten headlines, elegant retro serif fonts, and small playful annotations.
-
-Keep all text accurate, readable, and naturally integrated into the design.
-
-FINAL ART DIRECTION
-
-The finished poster should feel like a professionally designed Japanese bakery advertisement—warm, whimsical, visually engaging, and commercially polished.
-
-Keep illustrations minimal and purposeful. Let the food, typography, and storytelling create the visual impact.
-
-Avoid excessive doodles, cluttered layouts, CGI-looking food, 3D cartoon characters, random text, heavy distressing, decorative sparkles, numbering, and watermarks.
-
-Generate one complete, standalone vertical poster, not a collage or mockup.
+Render everything with elite realism: matte paper texture, embossed print, crisp die-cut edges, crystalline canal water, sunlit stone bridges, faded plaster facades, miniature architectural detailing, and soft atmospheric haze. Keep the composition clean, product-first, and highly desirable. Avoid extra tickets, unreadable text, warped perspective, cluttered skyline, muddy water, random props, cheap souvenir styling, or any loss of the pass as the dominant visual hero.
 ```
 
 </details>
@@ -2780,7 +2732,7 @@ Generate one complete, standalone vertical poster, not a collage or mockup.
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HUiOh4ba8AANWth.jpg" width="700" alt="Charming Japanese Bakery Poster">
+<img src="https://image.moge.ai/prompt_media/HUrS4OkboAAaTgL.jpg" width="700" alt="Venice Diorama Destination Pass Ad">
 </div>
 
 <br>
@@ -2789,80 +2741,36 @@ Generate one complete, standalone vertical poster, not a collage or mockup.
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2110093836219527170) | 2026-10-13 |
+| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2110731276504494086) | 2026-10-15 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2110093836219527170)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2110731276504494086)**
 
 </div>
 
 ---
 
-### No. 44: Japanese Food Illustration Cover
+### No. 44: Celestial Ocean Reverie
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Creates a nostalgic Japanese magazine cover that turns real food into a surprising part of a hand-drawn illustration, finished with linen texture and an asymmetrical editorial layout.
+Creates a dreamlike seascape where the ocean meets the stars, filled with floating constellations, ethereal waves, and shimmering colors.
 
 #### 🌟 Prompt
 
-[Customize] Food: [Real food or ingredient] Subject: [Hand-drawn animal, person, or object] Creative …
-
-<details>
-<summary>Show full prompt</summary>
-
 ```
-[Customize]
-Food: [Real food or ingredient]
-Subject: [Hand-drawn animal, person, or object]
-Creative Interaction: [How the food becomes part of the illustration]
-Magazine Title: [Original Japanese magazine name]
-Headline: [Short Japanese feature title]
-Caption: [Short supporting Japanese text]
-Color Palette: [Muted background + food accent colors]
-Aspect Ratio: 9:16
-
-Create an original Japanese-style food magazine cover combining whimsical hand-drawn illustrations, realistic food photography, subtle embroidery, and natural linen textures.
-
-Visual Concept:
-Transform [Food] into an unexpected but recognizable part of [Subject], following [Creative Interaction].
-
-The food should feel naturally integrated into the illustration, with believable scale, positioning, and connections. Preserve authentic food textures, colors, and details.
-
-Illustration Style:
-Naive black ink drawings, irregular pencil strokes, playful proportions, charmingly imperfect characters, and occasional delicate stitched details.
-
-Keep the illustration simple, expressive, and full of personality. Avoid overly polished digital artwork or uniform embroidery textures.
-
-Composition & Typography:
-Use one oversized illustrated subject, a striking realistic food element, generous negative space, and an asymmetrical Japanese editorial layout.
-
-Place a bold magazine title at the top. Integrate the headline and minimal supporting text naturally around the illustration, allowing typography and hand-drawn lines to interact.
-
-Texture & Color:
-Soft linen paper, subtle fabric fibers, matte printing, muted earthy colors, and gentle natural lighting. Let the realistic food provide the strongest color accent.
-
-Art Direction:
-Whimsical, nostalgic, handcrafted, slightly eccentric, yet sophisticated.
-
-Prioritize visual surprise, clear silhouettes, expressive linework, and thoughtful negative space.
-
-Avoid glossy CGI, vector cartoons, excessive decorations, dense text, random lettering, cluttered backgrounds, copied branding, artist signatures, and watermarks.
-
-Generate one complete, original 9:16 magazine cover.
+A Celestial Ocean Reverie of [SUBJECT], where the sea meets the stars in a dream-like blend of reality and fantasy. Use shimmering [COLOR1] and [COLOR2] to create a mystical seascape filled with floating constellations and ethereal waves.
 ```
-
-</details>
 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HUrWZRzbEAAobIq.jpg" width="700" alt="Japanese Food Illustration Cover">
+<img src="https://image.moge.ai/prompt_media/HUvSBFrXQAAannO.jpg" width="700" alt="Celestial Ocean Reverie">
 </div>
 
 <br>
@@ -2871,13 +2779,13 @@ Generate one complete, original 9:16 magazine cover.
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2110735138430824892) | 2026-10-15 |
+| [LudovicCreator](https://x.com/LudovicCreator) | [X / Twitter](https://x.com/LudovicCreator/status/2111011780348506448) | 2026-10-16 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2110735138430824892)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2111011780348506448)**
 
 </div>
 
@@ -3049,37 +2957,23 @@ The final result should be a complete Halloween art poster with strong thumbnail
 
 ---
 
-### No. 47: Oversized Everyday Risograph
+### No. 47: Mystical Golden Butterfly Goddess
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Creates retro risograph posters of a cheerful young woman performing everyday activities beside one absurdly oversized object.
+Creates a cinematic editorial illustration of a goddess and an anthropomorphic butterfly in a lavish composition blending De Stijl abstraction, Ukiyo-e staging, manga aesthetics, and golden Baroque detail.
 
 #### 🌟 Prompt
 
-Risograph illustration poster, 9:16, strict three inks on cream paper #F4EBDD: warm orange #FF6C2F, olive …
+A mystical figure in razor-flat profile, hard black De Stijl rule-lines slicing across the brow beneath a …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Risograph illustration poster, 9:16, strict three inks on cream paper #F4EBDD: warm orange #FF6C2F, olive green #5E6B3A, near-black #1E1E1E. Brown only where orange overprints olive. Skin is pale orange halftone over cream. Black confined to hair, tiny eyes, shoes and the tiny label.
-
-Print must clearly show: slight registration offset leaving thin paper edges, fine ink grain with patchy coverage, coarse halftone dot shading instead of smooth gradients, semi-transparent overprint. Matte ink on fibrous paper. No 3D, no glow, no airbrush.
-
-One cheerful young woman: rounded blocky body, soft thick limbs, small head, voluminous black curly hair to the shoulders, closed curved eyes, gentle smile, olive top and orange trousers, chunky black shoes. Relaxed, content.
-
-SCENE: [EVERYDAY ACTION]. Only [ONE OBJECT] is absurdly oversized and may be cropped by the edge; everything else, including her, stays normal size.
-
-Subject fills 60–80% of the frame, calm cream negative space. Text: "[LABEL]" once, tiny bold black sans-serif in a free upper corner. No pink, no blue, no extra props, no other people.
-
-Scene presets:
-17 FRESH START — Brushing her teeth at a small sink. The toothpaste tube is taller than she is.
-18 RAIN CHECK — A walk through puddles under an umbrella that covers the whole street.
-19 ONE MORE PAGE — Curled up in an armchair with a book bigger than the chair. Eyes closed.
-20 SNACK BREAK — A cookie the size of a car wheel. One normal glass of milk. Splash.
+A mystical figure in razor-flat profile, hard black De Stijl rule-lines slicing across the brow beneath a crown of glowing butterfly-wing petals shedding soft light-dust, oversized diamond-rimmed sunglasses in bold primary-blue perched low so only glossed orchid-magenta lips and a sharp geometric jaw catch enchanted light, fingers stacked with iced-out gold rings cradling a grid-split luminous butterfly wing; a magnificent anthropomorphic butterfly presses close, eyes molten gold hidden faintly behind tiny mirrored lenses, wings partitioned into hard-edged blocks of primary-red, sunflower-yellow, and cobalt-blue separated by thick black rule-lines, each vein glowing with faint starlight, a fat gold chain looped around its neck cutting across the grid; dozens of geometric wing-shards, glowing light-squares, and scattered gold coins erupting between them like a flexing, enchanted heartbeat; dynamic motion-blur streaks of electric-violet and blinding gold sweeping diagonal across the composition, breaking the grid mid-frame; the figure's coat dissolving into spiraling tendrils of trapped glitter and floating square-sparkle stars; bold halftone grid beneath the deep violets, a thick black-ruled gold border framing it like a spellbook relic; Ukiyo-E staging meets De Stijl abstraction meets Baroque excess; primary-red, sunflower-yellow, cobalt-blue, electric-violet, and blinding gold on stark black-and-white grid; dense atmosphere of drifting light-dust and shimmering gold sparkle; surreal, cinematic, editorial, flashy, enchanted seduction; Meaningful Visual, high-detail manga-illustration rendering on stark black-and-gold lacquer grid dripping gold.
 ```
 
 </details>
@@ -3087,7 +2981,7 @@ Scene presets:
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HUljB7gXUAA_3zh.jpg" width="700" alt="Oversized Everyday Risograph">
+<img src="https://image.moge.ai/prompt_media/HU2atmeaoAAsVuy.jpg" width="700" alt="Mystical Golden Butterfly Goddess">
 </div>
 
 <br>
@@ -3096,13 +2990,13 @@ Scene presets:
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Vigo Zhao](https://x.com/VigoCreativeAI) | [X / Twitter](https://x.com/VigoCreativeAI/status/2110370045087891672) | 2026-10-14 |
+| [Syed Abuthahir ∞](https://x.com/abulu8) | [X / Twitter](https://x.com/abulu8/status/2111513964614156747) | 2026-10-17 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2110370045087891672)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2111513964614156747)**
 
 </div>
 
@@ -3153,37 +3047,33 @@ A vintage 1940s vintage photograph portrait of a young, fair-skinned woman with 
 
 ---
 
-### No. 49: Premium Lemon Pasta Poster
+### No. 49: Monochrome Editorial Campaign Poster
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates a premium vertical artisanal pasta ad featuring a rigatoni box surrounded by a sculptural composition of dry pasta, spiraling lemon peel, and basil.
+Creates a premium editorial campaign poster with a near-black subject, expansive white negative space, one physical orange accent, and soft optical afterimages.
 
 #### 🌟 Prompt
 
-Create a premium vertical poster ad for a fictional artisanal pasta brand, "LUNERIVA". The hero product is a …
+Premium editorial campaign poster, [9:16 or 16:9]. Real photograph of [SUBJECT], a near-black form against …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Create a premium vertical poster ad for a fictional artisanal pasta brand, "LUNERIVA". The hero product is a real boxed rigatoni package, presented as the absolute center of a sculptural ingredient composition. Build the image as a Cannes-level food campaign where packaging and ingredients are inseparably fused: the pasta box is embedded inside a dense oval body of real uncooked rigatoni, while a single long lemon peel spirals continuously around the structure from bottom to top like a fragrant ribbon of motion.
+Premium editorial campaign poster, [9:16 or 16:9]. Real photograph of [SUBJECT], a near-black form against cool off-white negative space, deep shadows that still show the material.
 
-Use a front-facing studio product shot with a calm slightly low eye-level perspective. Keep the composition centered on a clean monochrome terracotta-orange backdrop with generous negative space. The package stands upright in the middle, nested inside an oval rigatoni halo. One lemon peel wraps the sculpture in a tall ascending helix, starting near the bottom foreground, circling the package and pasta mass, and tapering above the top edge. Place one fresh lemon wedge directly beneath as the grounded base note, and one compact basil cluster at the lower-left edge of the pasta oval. Keep the silhouette iconic, balanced, and immediately legible.
+One saturated ember-orange element only, and it must be physical: [ORANGE DETAIL — a translucent membrane, edge, seam or lit opening]. Everything else stays near-monochrome.
 
-The hero package is a premium matte paperboard carton in deep midnight blue with refined pale-gold foil rules, elegant serif branding, and a small transparent window revealing real rigatoni inside. The front panel must read exactly "LUNERIVA" and "RIGATONI AL LIMONE E BASILICO". Add a small citrus emblem and subtle artisanal seal details, but keep the front clean and upscale. The box should feel tactile, collectible, shelf-ready, and globally premium, with crisp edges, believable print finish, delicate embossing, and perfectly readable typography.
+Stretch one part of the subject into broad, soft horizontal optical afterimages: [WHAT TRAILS AND WHERE]. The focal edge stays crisp. No generic speed lines.
 
-The surrounding rigatoni must look dry, real, and tactile, with semolina grain, ridged tube texture, hollow centers, slight tone variation, and natural irregularity. The lemon peel should feel freshly cut and aromatic, with realistic pith thickness, glossy yellow skin, visible oil pores, and physically plausible curling tension. The lemon wedge should show translucent juicy pulp and a moist cut surface. Basil leaves should be fresh, saturated, slightly glossy, and clearly veined. Add only a few tiny salt crystals and scattered pepper grains near the lemon wedge with disciplined restraint.
+Compose for the ratio: let the silhouette cut a large white negative-space shape, crop boldly, keep it sparse.
 
-Use soft premium studio lighting with a directional key from upper left, elegant frontal fill, and a gentle grounded shadow beneath the base. Palette: 50% warm terracotta and burnt orange background, 20% pale wheat and semolina beige, 15% citrus yellow, 10% deep blue packaging, 5% basil green and pepper accents. Increase local contrast on pasta ridges, foil lines, transparent window, lemon peel edges, juicy citrus pulp, and basil sheen while keeping the finish soft, clean, and luxurious. Avoid muddy darkness, dead black patches, or greasy highlights.
+Exactly two text elements: headline "[HEADLINE.]" and a small line "[SUPPORTING LINE]". Compact, extended geometric sans, all caps, quiet in size, never distorted; white on shadow or dark on white.
 
-Render every surface with high-end commercial realism: matte carton paper, crisp foil detailing, dry pasta grain, lemon-peel oil pores, fresh citrus translucency, basil sheen, and subtle studio shadow falloff. The central object should feel like a curated edible sculpture assembled by a top food stylist, combining product desire, ingredient freshness, and exhibition-grade graphic restraint.
-
-In the upper negative space, place the headline "TWISTED INTO LIGHT". Beneath it: "Rigatoni with a bright lemon basil soul." Add one tiny lower-corner line: "durum wheat, citrus, basil". Typography should be minimal, airy, premium, and never interfere with the package or lemon spiral.
-
-Premium vertical product poster, exact single-box hero, centered sculptural layout, monochrome backdrop, product-first hierarchy, and pristine readability. Maintain coherent package geometry, realistic rigatoni scale, believable lemon-peel spiral physics, elegant negative space, and unified luxury-food branding. Avoid extra props, plates, cutlery, duplicated basil clusters, chaotic crumbs, warped packaging, unreadable label text, messy scatter, muddy grading, cheap typography, accidental resemblance to any real pasta brand, or any loss of the package as the dominant hero.
+Bright diffuse backlight, slight underexposure, very fine grain. Palette: cool white, near-black, charcoal, ember orange. No logos, HUD, neon grids, particles, gradients, extra text or frames.
 ```
 
 </details>
@@ -3191,7 +3081,7 @@ Premium vertical product poster, exact single-box hero, centered sculptural layo
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HUh4Z_0aUAAnVk-.jpg" width="700" alt="Premium Lemon Pasta Poster">
+<img src="https://image.moge.ai/prompt_media/HUp3ilhWgAAaOh5.jpg" width="700" alt="Monochrome Editorial Campaign Poster">
 </div>
 
 <br>
@@ -3200,42 +3090,78 @@ Premium vertical product poster, exact single-box hero, centered sculptural layo
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Loriel.AI](https://x.com/ou_zhen599) | [X / Twitter](https://x.com/ou_zhen599/status/2110068841187578335) | 2026-10-13 |
+| [Vigo Zhao](https://x.com/VigoCreativeAI) | [X / Twitter](https://x.com/VigoCreativeAI/status/2110630855844532436) | 2026-10-15 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2110068841187578335)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2110630855844532436)**
 
 </div>
 
 ---
 
-### No. 50: Creative Two-Photo Paper Weaving
+### No. 50: Japanese Food Transformation Cover
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Combines two photographs into a handcrafted paper-strip weaving composition while preserving the main subject and the recognizable visual features of both images.
+Creates a handcrafted Japanese editorial cover that transforms photographed food into a functional element of a playful hand-drawn illustration.
 
 #### 🌟 Prompt
 
-Merge the two images I uploaded into one complete and creative photo-weaving artwork. Image 1 provides the …
+[Customize] Food: [Real fruit, vegetable, or ingredient] Subject: [Handdrawn character, animal, or object] …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Merge the two images I uploaded into one complete and creative photo-weaving artwork.
-Image 1 provides the main subject, while image 2 provides the interwoven visual content, textures, and colors. Preserve the recognizable visual characteristics of both images and make them interlace within the same composition.
-First identify the subject's outline, pose, and key structures in image 1, along with the direction of the textures, shapes, and color rhythm in image 2. Then design the weaving path according to the relationship between them. Autonomously choose between curved weaving that follows the subject's contours, diagonal interlacing, radial crossings, or localized variations in density. Use one method as the primary approach while introducing natural variations in selected areas. The direction, width, and density of the paper strips should serve the visual content; avoid mechanically applying a checkerboard grid of uniformly sized strips.
-Transform the two images into two continuous sets of photographic paper strips, creating a clear over-under structure with occlusion and reappearance. The subject itself must also be constructed from strips printed with content from the original images, and the two images must genuinely intersect across multiple areas within the subject. Preserve the necessary continuity of the face, eyes, limb connections, or essential structures of objects so that the subject's identity and primary silhouette remain clear rather than becoming unrecognizable fragments.
-Create an almost-flat, handcrafted woven-photo-paper texture with visible paper edges, thin paper thickness, subtle undulations, and narrow contact shadows. View the paper surface straight on, use soft side lighting, and derive the color palette from the two input images. Simplify cluttered backgrounds, emphasize the subject, retain a moderate amount of negative space, and create a complete composition with the refined quality of an art poster.
-Do not wrap complete physical subjects in flowing ribbons, twist bodies or objects into ropes, or replace the weaving with transparent double exposure, a grid overlay, mosaic effects, or a simple background replacement.
-Output a high-resolution finished woven artwork in a vertical 3:4 aspect ratio, filling the entire canvas.
-Show only the final artwork. Do not display the original input images, create top-and-bottom or side-by-side comparisons, or add panels, process steps, titles, explanatory text, watermarks, or logos.
+[Customize]
+Food: [Real fruit, vegetable, or ingredient]
+Subject: [Handdrawn character, animal, or object]
+Creative Interaction: [How the food transforms into part of the illustration]
+Magazine Title: [Original Japanese magazine name]
+Headline: [Short Japanese feature title]
+Caption: [Short supporting Japanese text]
+Color Palette: [Soft background + contrasting food colors]
+Aspect Ratio: 9:16
+
+Create an original Japanesestyle editorial magazine cover blending realistic food photography, whimsical handdrawn illustrations, subtle embroidery, and natural linen textures.
+
+Visual Concept:
+Transform [Food] into an imaginative part of [Subject] through [Creative Interaction].
+
+The food should become a functional element of the illustrated world—a rooftop, hairstyle, slide, musical instrument, or another unexpected object.
+
+Preserve authentic photographic food textures, natural colors, and realistic lighting. Ensure seamless visual integration with the illustration, not a pastedon collage.
+
+Illustration Style:
+Naive black ink drawings, loose irregular strokes, playful asymmetrical proportions, delicate pencil marks, and occasional handmade stitching.
+
+Characters should feel quirky, expressive, and full of life. Keep the linework imperfect, organic, and charming.
+
+Composition & Typography:
+Use one strong visual concept, an oversized subject, generous negative space, and a playful asymmetrical editorial layout.
+
+Integrate Japanese typography naturally into the composition. Vary the scale and placement of the magazine title and main headline, allowing handwritten lines, shapes, and text to interact.
+
+Keep supporting text minimal, meaningful, and readable.
+
+Colors & Textures:
+Soft linen paper, subtle fabric fibers, matte printing, muted earthy backgrounds, and natural lighting.
+
+Let the realistic food provide the strongest color accent and visual contrast.
+
+Art Direction:
+Whimsical, handcrafted, slightly eccentric, nostalgic, yet sophisticated.
+
+Prioritize visual surprise, expressive linework, clear silhouettes, and creative interaction between photography, illustration, and typography.
+
+Avoid glossy CGI, vector cartoons, excessive embroidery, cluttered layouts, dense text, generic decorations, copied branding, artist signatures, and watermarks.
+
+Generate one complete, original 9:16 magazine cover.
 ```
 
 </details>
@@ -3243,7 +3169,7 @@ Show only the final artwork. Do not display the original input images, create to
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HUehEtAbUAA6Wpl.jpg" width="700" alt="Creative Two-Photo Paper Weaving">
+<img src="https://image.moge.ai/prompt_media/HUr1na3a0AIwkFz.jpg" width="700" alt="Japanese Food Transformation Cover">
 </div>
 
 <br>
@@ -3252,13 +3178,13 @@ Show only the final artwork. Do not display the original input images, create to
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Derek Wen｜德里克文](https://x.com/derek_wall90176) | [X / Twitter](https://x.com/derek_wall90176/status/2109832126824841239) | 2026-10-13 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2110769478590169357) | 2026-10-15 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2109832126824841239)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2110769478590169357)**
 
 </div>
 
@@ -3446,73 +3372,31 @@ Produce a high-definition vertical art poster in a 9:16 aspect ratio.
 
 ---
 
-### No. 53: Chinese Poetry Courtyard Poster
+### No. 53: Find Three Cats at the Autumn Farm
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Creates a vertical New Chinese-style art poster that transforms classical poetry into an elegant scene of stylized flora, traditional architecture, fine linework, Eastern colors, and Chinese typography.
+Creates a richly detailed storybook illustration of an autumn pumpkin farm where viewers must find three tiny cats hidden among characters, animals, and activities.
 
 #### 🌟 Prompt
 
-【Classical Chinese Poem】{Enter the poem title, author, and original text} 【Main Poster Title】{Extract 2–4 …
+A richly detailed, warm, colorful storybook illustration of an autumn pumpkin farm seen from a high …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-【Classical Chinese Poem】{Enter the poem title, author, and original text}
-【Main Poster Title】{Extract 2–4 representative Chinese characters}
-【Core Imagery】{For example: cascading wisteria blossoms, blue-green upturned eaves, begonias after rain, a silk fan and fireflies}
-【Scene】{For example: a Jiangnan courtyard, a waterside village, a classical garden}
-【Visual Relationships】{For example: trailing flower vines, red and green complementing one another, plants surrounding the architecture}
-【Primary Color Palette】{Choose 2–3 harmonious traditional Eastern colors}
-【Aspect Ratio】9:16
+A richly detailed, warm, colorful storybook illustration of an autumn pumpkin farm seen from a high three-quarter angle, packed with pumpkins, hay bales, a scarecrow, a barn, a corn maze, a hay-ride tractor, farm animals and many tiny children in costumes: a "find the hidden cats" picture in the spirit of a classic seek-and-find book, painted in a polished, slightly glossy digital storybook style with warm orange, red and golden colors, vertical 2:3.
 
-Based on the classical Chinese poem, create a New Chinese-style fine-line color art poster with textbook-quality illustration. Transform the poem’s plants, architecture, figures, and emotions into a complete, refined, and poetic Eastern scene.
+Cleaner and sharper than a typical stock illustration: coherent perspective, natural proportions, clear hands and faces, every object recognizable, rich golden-hour autumn light. Layout: the big red barn stands at the TOP-LEFT with a cider-and-pie stall in front of it; a dirt path winds from the lower right up past a hay-ride tractor with a hay trailer to a corn-maze archway at the upper right; a tall scarecrow stands in the middle-right; a great pumpkin patch fills the foreground with wooden carts, wheelbarrows, hay bales stacked like steps, sunflowers and chrysanthemums; a wooden fence runs along the lower left; a windmill and a silo far away behind the cornfield. Lots of small children in autumn costumes (ghost, skeleton, witch, dinosaur, ladybug, farmer) and farm animals (dog, cow, goat, chickens, a horse), each with its own small story, so the viewer wants to explore every corner.
 
-【Visual Style and Texture】
+The big sign on the barn shows a logo: a large cream-colored cat paw print whose big pad contains a swirling ocean-wave shape, with the word "Shoji" written next to it in cream cursive brush lettering, all painted on a dark brown wooden board with a lighter wooden frame, and no other letters on that sign. This is the only place for the logo, one time. Besides the logo, only these three small signs may contain letters, spelled exactly: "PUMPKIN PATCH", "HAY RIDES" and "CORN MAZE". Every other sign, board and banner shows pictures only (pumpkins, apples, hearts), no letters, no numbers.
 
-Use a visual language that combines contemporary Eastern decorative illustration with traditional gongbi fine-line drawing. Render the tree canopies as complete masses of soft, fluffy, cloud-like color, with a delicate powder-speckled texture around their edges. Weave slender, continuous, naturally branching ink-black limbs through their interiors.
+Hidden cats (the idea of the picture): exactly THREE cats are hidden in the scene, and NO other cat anywhere: no cat among the children's costumes, no cat ears or cat masks on anybody, no cat drawn on any sign or pumpkin. The farm animals are only the dog, cow, goat, chickens and horse. The three cats are: a brown mackerel tabby (warm brown fur with dark stripes, white muzzle, green eyes), a black-and-white "hachiware" cat (black head and back with a white blaze splitting the face in two, white chest and white paws), and a calico cat (mostly white with distinct orange and black patches). They are real four-legged cats with no clothes. Each cat is TINY and far from the viewer: only about 1.2% of the image height (roughly 18 pixels tall in a 1536-pixel picture), about the size of a child's hand held at arm's length, clearly smaller than the head of any child nearby, much smaller than any pumpkin in the foreground. NO cat appears in the foreground or the lower third of the picture at all: the large foreground and the whole lower third show only pumpkins, flowers, carts, children and the dog. All three cats sit in the MIDDLE distance or far distance, each in a different place, in the open but easy to overlook: the tabby sitting among the pumpkins of a crate beside the cider stall on the left-middle (its orange fur blends with the pumpkins, but its stripes and face show), the hachiware sitting on a fence rail beside the dirt path in the upper-middle near the hay-ride tractor, the calico on a hay bale at the far right edge of the cornfield (clearly three colors). Each wears a thin red collar with a tiny gold bell. They must be findable by a careful viewer who looks closely (the reward of the game), not hidden behind objects, and not drawn bigger than a child.
 
-Artistically simplify the flowers and trees according to their natural growth patterns. Preserve the natural hanging form of wisteria, arrange begonia clusters with an orderly balance of dense and sparse areas, and keep the lines of the branches and leaves elegant and flowing. Express the overall form of each plant through complete color planes rather than drawing dense petals and leaves individually.
-
-For the traditional architecture, use finely ordered blue-green roof tiles, elegant upturned eaves, warm-white walls, and a small amount of vermilion wooden structure. Keep the overall treatment flat, with rich, even color and a clean, matte, delicate decorative paper texture.
-
-【Composition and Space】
-
-Use a high-angle bird’s-eye view, Eastern scattered-point perspective, and modern flat composition.
-
-Organize the image through enveloping flowers and trees, interwoven branches, partially obscured architecture, natural curves, and large areas of warm beige-white negative space, creating a clear visual focus and distinct spatial layers.
-
-Adjust the composition flexibly according to the poem, emphasizing its most representative scenery and relationships between actions. Render the architecture precisely, simplify the plants, keep the figures concise, and preserve negative space in the background.
-
-Avoid repeatedly using a fixed courtyard layout, and do not force unrelated pavilions, figures, or decorations into the scene. Keep the ground and water surfaces simple, using only a few fine lines and irregular ink-colored shadows to suggest space.
-
-【Eastern Color Palette】
-
-Use traditional Eastern colors such as mineral blue, mineral green, deep blue-black, vermilion red, wisteria violet, pink ochre, and warm ivory white.
-
-Use one dominant color to establish visual weight, then use a contrasting color to highlight the plants, architecture, or human subject. Pair these colors with fine ink lines and warm-white negative space.
-
-Emphasize complete large color planes, harmonious warm-cool relationships, and clearly separated value levels. The colors should be rich yet restrained, even, matte, and unfaded. Avoid chaotic colors, complex gradients, heavy textures, and excessive artificial aging.
-
-【Chinese Art Poster Typography】
-
-In the lower portion of the image or within a dark canopy area along one side, integrate a large Chinese title in warm ivory white. Use a bold, upright, elegant Eastern artistic typeface that naturally overlaps with the colored masses of the plants.
-
-In suitable areas of negative space, add refined, small-scale vertical lines from the original poem, an accurate author credit, and one or two vermilion seals.
-
-Keep the text clear and distinctly hierarchical, allowing it to merge naturally with the landscape. Do not add fictional exhibition information, numbering, or meaningless ornamentation.
-
-【Final Quality】
-
-Maintain the composition of complete large color masses, soft cloud-like tree canopies, slender continuous ink lines, refined blue-green architecture, and elegant negative space. The main subject and supporting scenery should have clearly differentiated levels of detail, and the poetic imagery should follow the laws of nature.
-
-Avoid photorealistic photography, 3D, anime, thick oil-paint impasto, heavy ink-wash painting, dense individually rendered flowers and leaves, overly elaborate architecture, complex ground surfaces, excessive grain, and artificial aging.
-
-The final result should be a New Chinese-style classical poetry art poster with a unified visual style, sophisticated color palette, distinct poetic atmosphere, and mature Eastern decorative aesthetics.
+No black or dark round object that could be mistaken for a cat anywhere; the only black things are the crow and costumes. No watermark, no frame, no border.
 ```
 
 </details>
@@ -3520,7 +3404,7 @@ The final result should be a New Chinese-style classical poetry art poster with 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HUgvPxSaUAAKwh1.jpg" width="700" alt="Chinese Poetry Courtyard Poster">
+<img src="https://image.moge.ai/prompt_media/HUzGHcHa8AApmAF.jpg" width="700" alt="Find Three Cats at the Autumn Farm">
 </div>
 
 <br>
@@ -3529,13 +3413,13 @@ The final result should be a New Chinese-style classical poetry art poster with 
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2109990564922097878) | 2026-10-13 |
+| [Shoji Kai](https://x.com/Shoji_ai) | [X / Twitter](https://x.com/Shoji_ai/status/2111280820199870487) | 2026-10-17 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2109990564922097878)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2111280820199870487)**
 
 </div>
 
@@ -3586,31 +3470,68 @@ A beautiful Korean Girls, create an ultra-realistic, high-quality portrait of a 
 
 ---
 
-### No. 55: Fluffy Cardigan Winter Fashion Ad
+### No. 55: Charming Japanese Bakery Poster
 
 ![Category: Commercial & Product](https://img.shields.io/badge/Category-Commercial%20%26%20Product-lightgrey)
 
 #### 📚 Description
 
-Creates an editorial winter fashion advertisement featuring a model in a fluffy white cardigan, wide-leg jeans, and ankle boots, complemented by layered promotional typography.
+Creates a vertical Japanese-style bakery advertisement combining realistic food photography, hand-drawn characters, and retro editorial typography.
 
 #### 🌟 Prompt
 
-Use the face and likeness of the woman in my reference photo. Vertical 2:3 fashion advertising poster, …
+Create a charming Japanese-style bakery poster combining photorealistic food photography, playful hand-drawn …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-Use the face and likeness of the woman in my reference photo.
+Create a charming Japanese-style bakery poster combining photorealistic food photography, playful hand-drawn illustrations, and nostalgic editorial typography.
 
-Vertical 2:3 fashion advertising poster, editorial street-style photograph. A woman leans casually against a weathered stone wall beside an old stone staircase and balustrade, one hand tucked in her jeans pocket, one leg bent with her boot resting against the wall, looking calmly at the camera. Hair slicked back into a sleek low bun.
+CUSTOMIZE
+- Brand: [Brand Name]
+- Food: [Main Food / Products]
+- Concept: [Miniature World / Floating Food / Flavor Guide / Cozy Scene]
+- Headline: [Japanese or English Title]
+- Tagline: [Short Catchy Phrase]
+- Details: [Flavors / Product Info / Event Details]
+- Color Palette: [Preferred Colors]
+- Year: [2026 or Custom]
+- Aspect Ratio: 9:16
 
-Outfit: cream fitted turtleneck, oversized white fluffy mohair open cardigan, long pendant necklace, wide-leg barrel jeans in mid-blue wash with raw frayed hems, beige chunky-heel square-toe ankle boots with a small gold buckle strap.
+VISUAL STYLE
 
-Setting: textured grey stone, dark asphalt ground, soft overcast winter daylight, muted earthy color palette, shallow depth of field, full-body shot, high-end fashion campaign look.
+Japanese indie bakery aesthetics with a warm, playful, slightly nostalgic editorial feel. Combine realistic food photography with delicate, imperfect pen-and-ink illustrations.
 
-Graphic design: huge tall condensed white sans-serif word "STYLISH" behind the woman, partly hidden by her head and body. Red handwritten brush-script word "Versatile" overlapping the lower part of the big text. Small black rectangular "Shop Now" button with white text on the right. Small white text "WINTER COLLECTION" at top left. Elegant white serif logo at bottom center.
+Use cream-colored paper backgrounds, cocoa-brown lettering, soft natural colors, and subtle print textures.
+
+FOOD & STORYTELLING
+
+Make the food the visual centerpiece, with appetizing textures, golden crusts, natural imperfections, soft daylight, and realistic shadows.
+
+Add a few tiny 2D hand-drawn characters interacting with the food—walking across pastries, exploring oversized treats, or enjoying a cozy café moment.
+
+Create a charming miniature story through simple, meaningful interactions.
+
+COMPOSITION & TYPOGRAPHY
+
+Choose a distinctive layout based on the concept: oversized food, floating arrangements, asymmetrical product displays, or cozy still-life scenes.
+
+Maintain a strong focal point, balanced visual hierarchy, and approximately 35–40% clean negative space.
+
+Use expressive Japanese-style handwritten headlines, elegant retro serif fonts, and small playful annotations.
+
+Keep all text accurate, readable, and naturally integrated into the design.
+
+FINAL ART DIRECTION
+
+The finished poster should feel like a professionally designed Japanese bakery advertisement—warm, whimsical, visually engaging, and commercially polished.
+
+Keep illustrations minimal and purposeful. Let the food, typography, and storytelling create the visual impact.
+
+Avoid excessive doodles, cluttered layouts, CGI-looking food, 3D cartoon characters, random text, heavy distressing, decorative sparkles, numbering, and watermarks.
+
+Generate one complete, standalone vertical poster, not a collage or mockup.
 ```
 
 </details>
@@ -3618,7 +3539,7 @@ Graphic design: huge tall condensed white sans-serif word "STYLISH" behind the w
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HUZqj6XbMAA33-v.jpg" width="700" alt="Fluffy Cardigan Winter Fashion Ad">
+<img src="https://image.moge.ai/prompt_media/HUiOh4ba8AANWth.jpg" width="700" alt="Charming Japanese Bakery Poster">
 </div>
 
 <br>
@@ -3627,65 +3548,72 @@ Graphic design: huge tall condensed white sans-serif word "STYLISH" behind the w
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Aniya Intelligence](https://x.com/aniyaintel) | [X / Twitter](https://x.com/aniyaintel/status/2109490663289163825) | 2026-10-12 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2110093836219527170) | 2026-10-13 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2109490663289163825)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2110093836219527170)**
 
 </div>
 
 ---
 
-### No. 56: Mystical Moss Valley Altar
+### No. 56: Japanese Food Illustration Cover
 
 ![Category: Creative Visuals](https://img.shields.io/badge/Category-Creative%20Visuals-lightgrey)
 
 #### 📚 Description
 
-Creates a floating isometric miniature world centered on a glowing druidic altar in a moss-covered valley, blending mythpunk and forestpunk aesthetics.
+Creates a nostalgic Japanese magazine cover that turns real food into a surprising part of a hand-drawn illustration, finished with linen texture and an asymmetrical editorial layout.
 
 #### 🌟 Prompt
 
-PRIORITY HIERARCHY (CRITICAL) 1. Miniature readability, scale clarity, clean silhouette 2. Natural terrain + …
+[Customize] Food: [Real food or ingredient] Subject: [Hand-drawn animal, person, or object] Creative …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-PRIORITY HIERARCHY (CRITICAL)
-1. Miniature readability, scale clarity, clean silhouette
-2. Natural terrain + biome accuracy
-3. Strong mythic focal elements (dual anchors)
-4. Balance between organic forest and symbolic myth
-5. Atmospheric depth (fog, light, particles)
-6. Narrative clarity
-Never sacrifice higher priority rules for lower ones.
+[Customize]
+Food: [Real food or ingredient]
+Subject: [Hand-drawn animal, person, or object]
+Creative Interaction: [How the food becomes part of the illustration]
+Magazine Title: [Original Japanese magazine name]
+Headline: [Short Japanese feature title]
+Caption: [Short supporting Japanese text]
+Color Palette: [Muted background + food accent colors]
+Aspect Ratio: 9:16
 
-PRIME DIRECTIVE
-CAMERA: Use an isometric camera capturing the entire floating miniature world clearly from top to bottom and side to side.
+Create an original Japanese-style food magazine cover combining whimsical hand-drawn illustrations, realistic food photography, subtle embroidery, and natural linen textures.
 
-SCENE
-A visually rich handcrafted floating miniature world centered on a moss-covered valley forest terrain within a temperate biome, featuring a dominant stone altar with glowing glyphs and a secondary relic pedestal, rooted in druidic tradition within a misty environment. A relic activation event triggers as light pulses from the altar, spreading across moss and roots. The valley is enclosed by dense trees and layered vegetation, enhancing depth. The foundation of the miniature world and the world itself must be continuous in terms of the ground, rocks, roots, water structures and bodies, foliage, materials, etc. There should be nothing below the foundation.
+Visual Concept:
+Transform [Food] into an unexpected but recognizable part of [Subject], following [Creative Interaction].
 
-WORLD DESIGN
-Moss valley terrain with gentle slopes and dense ground cover. The altar sits centrally while the pedestal rests slightly elevated, connected by subtle paths.
+The food should feel naturally integrated into the illustration, with believable scale, positioning, and connections. Preserve authentic food textures, colors, and details.
 
-LIGHTING & ATMOSPHERE
-Misty dawn with canopy-filtered light and faint divine glow, enhanced by moisture haze and drifting spores.
+Illustration Style:
+Naive black ink drawings, irregular pencil strokes, playful proportions, charmingly imperfect characters, and occasional delicate stitched details.
 
-STYLE
-Ultra-detailed 8K Octane render, combining high-poly 3D, a miniature world, and claymation.
+Keep the illustration simple, expressive, and full of personality. Avoid overly polished digital artwork or uniform embroidery textures.
 
-DESCRIPTION PLAQUE
-Render the plaque in the bottom-right corner.
-Do not render gears or representations of gears on the plaque.
-Render the plaque in a hybrid artistic mythpunk and forestpunk style that matches the design of the world.
-Line 1: Moss Valley Altar
-Line 2: MYTH-FORESTPUNK
-Line 3: An ancient altar pulses with energy across a lush moss-covered valley.
+Composition & Typography:
+Use one oversized illustrated subject, a striking realistic food element, generous negative space, and an asymmetrical Japanese editorial layout.
+
+Place a bold magazine title at the top. Integrate the headline and minimal supporting text naturally around the illustration, allowing typography and hand-drawn lines to interact.
+
+Texture & Color:
+Soft linen paper, subtle fabric fibers, matte printing, muted earthy colors, and gentle natural lighting. Let the realistic food provide the strongest color accent.
+
+Art Direction:
+Whimsical, nostalgic, handcrafted, slightly eccentric, yet sophisticated.
+
+Prioritize visual surprise, clear silhouettes, expressive linework, and thoughtful negative space.
+
+Avoid glossy CGI, vector cartoons, excessive decorations, dense text, random lettering, cluttered backgrounds, copied branding, artist signatures, and watermarks.
+
+Generate one complete, original 9:16 magazine cover.
 ```
 
 </details>
@@ -3693,7 +3621,7 @@ Line 3: An ancient altar pulses with energy across a lush moss-covered valley.
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HUbomb-aAAAoYLh.jpg" width="700" alt="Mystical Moss Valley Altar">
+<img src="https://image.moge.ai/prompt_media/HUrWZRzbEAAobIq.jpg" width="700" alt="Japanese Food Illustration Cover">
 </div>
 
 <br>
@@ -3702,13 +3630,13 @@ Line 3: An ancient altar pulses with energy across a lush moss-covered valley.
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Artingent](https://x.com/artingent) | [X / Twitter](https://x.com/artingent/status/2109629666894151684) | 2026-10-12 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2110735138430824892) | 2026-10-15 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2109629666894151684)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2110735138430824892)**
 
 </div>
 
@@ -3852,67 +3780,54 @@ Avoid generic AI poster templates, excessive minimalism, meaningless filler text
 
 ---
 
-### No. 59: New Chinese-Style Poetry Illustration Poster
+### No. 59: Whimsical Food Illustration Magazine Cover
 
 ![Category: Illustration & IP](https://img.shields.io/badge/Category-Illustration%20%26%20IP-lightgrey)
 
 #### 📚 Description
 
-Creates a vertical Chinese poetry poster using delicate linework, traditional Eastern colors, dynamic composition, generous negative space, and elegant Chinese typography.
+Creates a whimsical Japanese editorial cover that transforms realistically photographed food into an unexpected part of a hand-drawn illustration.
 
 #### 🌟 Prompt
 
-【Classical Chinese Poem】{Enter the poem title, author, and original text} 【Main Poster Title】{Extract 2–4 …
+[Customize] Food: [Real food or ingredient] Subject: [Handdrawn person, animal, or object] Creative …
 
 <details>
 <summary>Show full prompt</summary>
 
 ```
-【Classical Chinese Poem】{Enter the poem title, author, and original text}
-【Main Poster Title】{Extract 2–4 representative Chinese characters}
-【Core Imagery】{For example, flying cranes, weeping willows, sunset light in a forest, or sparse shadows of plum branches}
-【Visual Movement】{For example, diagonal ascent, cascading curves, interwoven light and shadow, or overlapping branches and shadows}
-【Scene】{Enter it manually or have the AI extract it from the poem}
-【Primary Color Palette】{Choose 2–3 harmonious traditional Eastern colors}
-【Aspect Ratio】9:16
+[Customize]
+Food: [Real food or ingredient]
+Subject: [Handdrawn person, animal, or object]
+Creative Interaction: [How the food transforms into part of the illustration]
+Magazine Title: [Original Japanese magazine name]
+Headline: [Short Japanese headline]
+Caption: [Short supporting text]
+Color Palette: [Muted background + accent colors]
+Aspect Ratio: 9:16
 
-Based on the classical Chinese poem, create a new Chinese-style fine-line colored art poster with textbook-quality illustration. Transform the natural scenery, dynamic relationships, and atmosphere of light and shadow in the poem into a complete and elegant Eastern visual artwork.
+Create a whimsical Japanese editorial magazine cover combining naive handdrawn illustrations, delicate embroidery, natural linen textures, and realistic food photography.
 
-【Style and Texture】
+Visual Concept:
+The real food becomes an unexpected but natural part of the illustrated world—a dress, horn, umbrella, light, or another imaginative object.
 
-Combine modern Eastern decorative illustration with traditional meticulous gongbi linework. Render the tree canopies as complete blocks of color shaped like soft, fluffy clouds, with delicate powdery stippling around their edges. Weave slender, continuous, naturally branching ink-black limbs through their interiors.
+Preserve authentic photographic details in the food while keeping the surrounding illustration simple, imperfect, and expressive.
 
-Flying birds, weeping willows, plum branches, and other primary subjects should retain realistic and coherent forms. Use complete areas of flat color and a small number of refined, elongated lines to describe their structure. If architecture appears, depict orderly blue-green roof tiles, elegant upturned eaves, and simple walls. Keep the overall colors rich, even, matte, and clean, with a subtle paper texture.
+Illustration Style:
+Loose black ink outlines, irregular handdrawn strokes, subtle pencil marks, occasional stitched details, and playful asymmetrical proportions. Characters should feel charming, quirky, and full of personality.
 
-【Composition and Visual Movement】
+Composition & Typography:
+Use an oversized illustrated subject, one striking food element, generous negative space, and a flexible Japanese editorial layout.
 
-Use a high-angle view, Eastern scattered-point perspective, and modern flat composition, adjusting the viewpoint flexibly according to the poem’s meaning.
+Place a bold magazine title at the top, with a short headline and minimal supporting text naturally integrated into the illustration.
 
-Emphasize the directions, curves, and spatial relationships found in the poem, such as a white crane spreading its wings and rising upward, willow branches falling with the wind, sunset light entering a dense forest diagonally, or slanting plum branches echoing their sparse reflections in the water.
+Texture & Color:
+Warm linen paper, subtle fabric fibers, muted earthy colors, soft matte printing, and natural food textures. Let the food provide the strongest color accent.
 
-Create a clear visual focus through large color fields, diagonal guidance, natural curves, and generous areas of warm ivory negative space. Movement should feel natural and fluid, the main subject should stand out, and supporting scenery should remain simplified. Avoid crowded elements and complex backgrounds.
+Art Direction:
+Playful yet sophisticated, nostalgic, handcrafted, and visually surprising. Every element should feel intentionally connected.
 
-【Eastern Color, Light, and Shadow】
-
-Use traditional Eastern colors such as mineral blue, mineral green, dark indigo, cinnabar red, ochre gold, and warm ivory white.
-
-Use one dominant color to establish visual weight and another contrasting color to emphasize the core imagery. Highlight warm–cool relationships, tonal hierarchy, and complete large color fields while preserving clean negative space.
-
-Depict sunlight, tree shadows, and reflections in water using restrained flat coloring and a small number of fine lines. Avoid photographic volumetric lighting, complex reflections, intense gradients, and heavy shadows.
-
-【Chinese Poster Typography】
-
-Integrate a large warm-ivory Chinese title into the lower portion of the image or a dark area along one side, using a bold, upright, and elegant Eastern artistic typeface.
-
-In suitable negative spaces, add refined small-scale vertical lines from the original poem, the correct dynasty and author attribution, and one or two cinnabar-red seals. Keep the text clear and rhythmically spaced, coordinating it naturally with the movement of the image.
-
-【Final Quality】
-
-Maintain a clear visual hierarchy of bold major shapes, fluid long lines, complete color areas, finely rendered local details, and open background space.
-
-Avoid realistic photography, 3D, anime, thick impasto oil painting, heavy ink-wash effects, dense individual leaves, complicated feathers, chaotic textures, excessive grain, and artificial aging.
-
-The final result should be a new Chinese-style classical poetry art poster with a unified visual language, a dynamic composition, sophisticated colors, and a distinct poetic atmosphere. It should have strong visual recognition from a distance while revealing delicate gongbi lines and refined Eastern decorative beauty when viewed up close.
+Create one complete, original 9:16 magazine cover.
 ```
 
 </details>
@@ -3920,7 +3835,7 @@ The final result should be a new Chinese-style classical poetry art poster with 
 #### 🌁 Generated Image
 
 <div align="center">
-<img src="https://image.moge.ai/prompt_media/HUgtj1KbUAAQotC.jpg" width="700" alt="New Chinese-Style Poetry Illustration Poster">
+<img src="https://image.moge.ai/prompt_media/HUqpLwNacAAV02f.jpg" width="700" alt="Whimsical Food Illustration Magazine Cover">
 </div>
 
 <br>
@@ -3929,13 +3844,13 @@ The final result should be a new Chinese-style classical poetry art poster with 
 
 | Author | Source | Published |
 | :---: | :---: | :---: |
-| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2109987517156225384) | 2026-10-13 |
+| [Larus Canus](https://x.com/MrLarus) | [X / Twitter](https://x.com/MrLarus/status/2110685525384552502) | 2026-10-15 |
 
 </div>
 
 <div align="center">
 
-**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2109987517156225384)**
+**[👉 View full prompt & copy →](https://moge.ai/prompt/image/2110685525384552502)**
 
 </div>
 
